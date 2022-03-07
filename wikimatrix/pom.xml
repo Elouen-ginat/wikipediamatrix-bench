@@ -10,7 +10,18 @@
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
- </properties>
+  </properties>
+  <build>
+    <resources>
+        <resource>
+            <directory>src/main/resources</directory>
+            <targetPath>${project.build.directory}</targetPath>
+            <includes>
+                <include>log4j.properties</include>
+            </includes>
+        </resource>
+    </resources>
+  </build>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

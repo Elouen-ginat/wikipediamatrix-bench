@@ -23,7 +23,11 @@ public abstract class Serializer {
 
     private Path getPath(String file_name) {
         // Get the path to the project directory
-        Path project_path = Paths.get(System.getProperty("user.dir"));
+        Path project_path = Paths.get("").toAbsolutePath();
+        // Remove wikimatrix from path depending on location of execution
+        if (project_path.endsWith("wikimatrix")) {
+            project_path = project_path.getParent();
+        }
         // Join path to get the path to the csv file given the file_name
         Path csv_path = Paths.get(project_path.toString(), this.save_path.toString(), file_name);
 

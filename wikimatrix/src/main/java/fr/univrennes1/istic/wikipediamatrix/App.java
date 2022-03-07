@@ -2,7 +2,6 @@ package fr.univrennes1.istic.wikipediamatrix;
 
 import java.io.IOException;
 
-import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.jsoup.nodes.Document;
@@ -16,17 +15,15 @@ import fr.univrennes1.istic.wikipediamatrix.Extractor.HTML.WikipediaHTMLExtracto
 import fr.univrennes1.istic.wikipediamatrix.Serializer.Serializer;
 import fr.univrennes1.istic.wikipediamatrix.Serializer.HTML.WikipediaHTMLSerializer;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
 
     // Get Logger
-    public static final Logger LOGGER =  LogManager.getLogger(App.class);
+    public static final Logger LOGGER = LogManager.getLogger(App.class);
     public static void main( String[] args ) throws IOException
     {
+
         String BASE_WIKIPEDIA_URL = "https://en.wikipedia.org/wiki/";
 		
 		String url = "Comparison_of_Afrikaans_and_Dutch";
@@ -55,7 +52,7 @@ public class App
         String[][] string_table = convertor.toStringTable(table);
 
         String csvFileName = App.mkCSVFileName(url, 1);
-        App.LOGGER.log(Level.INFO, "CSV file name: " + csvFileName);
+        App.LOGGER.info("CSV file name: " + csvFileName);
 
         Serializer serializer = new WikipediaHTMLSerializer();
         serializer.saveToCSV(string_table, csvFileName);
