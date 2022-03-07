@@ -1,7 +1,5 @@
 package fr.univrennes1.istic.wikipediamatrix.Serializer;
 
-import java.io.File;
-import java.io.FileWriter;
 import java.io.Writer;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -11,8 +9,6 @@ import java.nio.file.Paths;
 import java.io.BufferedWriter;
 import java.io.FileOutputStream;
 import java.io.OutputStreamWriter;
-
-import org.apache.logging.log4j.Level;
 
 import fr.univrennes1.istic.wikipediamatrix.App;
 
@@ -39,13 +35,13 @@ public abstract class Serializer {
         Writer writer = null;
         // Open the csv file to write in
         try {
-            //writer = new FileWriter(csv_path.toFile());
-            writer = new BufferedWriter(new OutputStreamWriter
-                           (new FileOutputStream(csv_path.toString()), StandardCharsets.UTF_8));
+            FileOutputStream file_stream = new FileOutputStream(csv_path.toString());
+            // Specify the char encoding (UTF-8)
+            OutputStreamWriter stream_writer = new OutputStreamWriter(file_stream, StandardCharsets.UTF_8);
+            writer = new BufferedWriter(stream_writer);
         } catch (IOException e) {
-            e.printStackTrace();
             String message = "Error opening file: " + csv_path.toString();
-            App.LOGGER.log(Level.ERROR, message);
+            App.LOGGER.error(message, e);
             return;
         }
         // Init the string builder being the content of the csv
@@ -72,9 +68,8 @@ public abstract class Serializer {
             writer.append(content.toString());
             writer.close();
         } catch (IOException e) {
-            e.printStackTrace();
             String message = "Error writing to file: " + csv_path.toString();
-            App.LOGGER.log(Level.ERROR, message);
+            App.LOGGER.error(message, e);
             return;
         }
     }

@@ -6,7 +6,7 @@ public class WikipediaHTMLSerializer extends Serializer{
 
     public WikipediaHTMLSerializer() {
         // Relative directory path to save CSV in
-        super("wikimatrix/output/html");
+        super("output/html");
     }
     
 }

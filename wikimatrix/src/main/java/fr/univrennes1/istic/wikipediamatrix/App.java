@@ -39,16 +39,14 @@ public class App
         try {
             doc = extractor.getDocument(wurl);
         } catch (Exception e) {
-            e.printStackTrace();
             String message = "Unable to connect to the URL: " + wurl;
-            App.LOGGER.error(message);
+            App.LOGGER.error(message, e);
         }
 
         Element table = null;
         try {
             table = extractor.getTable(doc);
         } catch (NoTableException e) {
-            e.printStackTrace();
             App.LOGGER.info(e.getMessage());
             return;
         }

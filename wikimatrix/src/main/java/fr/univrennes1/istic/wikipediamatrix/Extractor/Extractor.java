@@ -1,7 +1,5 @@
 package fr.univrennes1.istic.wikipediamatrix.Extractor;
 
-import java.io.IOException;
-
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
