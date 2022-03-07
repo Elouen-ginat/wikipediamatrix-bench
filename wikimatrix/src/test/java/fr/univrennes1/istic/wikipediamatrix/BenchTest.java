@@ -5,8 +5,19 @@ import static org.junit.Assert.*;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.io.IOException;
 
+import org.apache.logging.log4j.Level;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
 import org.junit.Test;
+
+import fr.univrennes1.istic.wikipediamatrix.Convertor.Convertor;
+import fr.univrennes1.istic.wikipediamatrix.Convertor.HTML.WikipediaHTMLConvertor;
+import fr.univrennes1.istic.wikipediamatrix.Extractor.Extractor;
+import fr.univrennes1.istic.wikipediamatrix.Extractor.HTML.WikipediaHTMLExtractor;
+import fr.univrennes1.istic.wikipediamatrix.Serializer.Serializer;
+import fr.univrennes1.istic.wikipediamatrix.Serializer.HTML.WikipediaHTMLSerializer;
 
 public class BenchTest {
 	
@@ -36,7 +47,21 @@ public class BenchTest {
 	       System.out.println("Wikipedia url: " + wurl);
 	       // TODO: do something with the Wikipedia URL 
 	       // (ie extract relevant tables for correct URL, with the two extractors)
-		    
+			Extractor extractor = new WikipediaHTMLExtractor();
+			Document doc = null;
+			try {
+				doc = extractor.getDocument(wurl);
+			} catch (IOException e) {
+				e.printStackTrace();
+				String message = "Unable to connect to the URL: " + wurl;
+				App.LOGGER.log(Level.ERROR, message);
+				fail("Verify that you have internet access or try an other URL");
+			}
+
+			Element table = extractor.getTable(doc);
+
+			Convertor convertor = new WikipediaHTMLConvertor();
+			String[][] string_table = convertor.toStringTable(table);
 	       
 	       // for exporting to CSV files, we will use mkCSVFileName 
 	       // example: for https://en.wikipedia.org/wiki/Comparison_of_operating_system_kernels
@@ -50,6 +75,8 @@ public class BenchTest {
 	       
 	       // TODO: the HTML extractor should save CSV files into output/HTML
 	       // see outputDirHtml 
+		   Serializer serializer = new WikipediaHTMLSerializer();
+		   serializer.saveToCSV(string_table, csvFileName);
 	       
 	       // TODO: the Wikitext extractor should save CSV files into output/wikitext
 	       // see outputDirWikitext      
