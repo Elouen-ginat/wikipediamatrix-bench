@@ -1,9 +1,20 @@
 package fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise;
 
-public class Table extends Balise{
+import org.jsoup.nodes.Element;
 
-    public Table() {
-        super("table");
+import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Visitor.Visitor;
+
+public class Table extends Balise {
+
+
+
+    public Table(Element self) {
+        super(self);
+    }
+
+    @Override
+    public void accept(Visitor visitor) {
+        visitor.Table(this);
     }
 
     @Override

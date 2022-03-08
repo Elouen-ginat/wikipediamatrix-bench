@@ -4,15 +4,15 @@ import org.jsoup.nodes.Element;
 
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Visitor.Visitor;
 
-public class Tbody extends Balise {
+public class Tr extends Balise {
 
-    public Tbody(Element self) {
+    public Tr(Element self) {
         super(self);
     }
 
     @Override
     public void accept(Visitor visitor) {
-        visitor.Tbody(this);
+        visitor.Tr(this);
     }
 
     @Override
