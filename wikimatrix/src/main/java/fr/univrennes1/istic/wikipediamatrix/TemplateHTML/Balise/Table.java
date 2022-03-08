@@ -6,10 +6,12 @@ import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Visitor.Visitor;
 
 public class Table extends Balise {
 
+    public Table() {
+        super("table");
+    }
 
-
-    public Table(Element self) {
-        super(self);
+    public Table(Element self, Balise parent) {
+        super(self, parent);
     }
 
     @Override
@@ -19,8 +21,12 @@ public class Table extends Balise {
 
     @Override
     public String getInfo() {
-        // TODO Auto-generated method stub
         return null;
+    }
+
+    @Override
+    public Balise newInstance(Element self, Balise parent) {
+        return new Table(self, parent);
     }
     
 }

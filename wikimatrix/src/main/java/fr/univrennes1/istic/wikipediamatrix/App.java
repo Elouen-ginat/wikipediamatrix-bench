@@ -52,17 +52,18 @@ public class App
         }
 
         Convertor convertor = new WikipediaHTMLConvertorPlus();
-        ArrayList<String[][]> string_tables = convertor.toStringTables(tables);
+        //ArrayList<String[][]> string_tables = convertor.toStringTables(tables);
+        String[][] string_table = convertor.toStringTable(tables.get(56));
 
-        Serializer serializer = new WikipediaHTMLSerializer();
-        for (int i = 0; i < string_tables.size(); i++) {
-            String csvFileName = App.mkCSVFileName(url, i);
-            App.LOGGER.info("CSV file name: " + csvFileName);
+        // Serializer serializer = new WikipediaHTMLSerializer();
+        // for (int i = 0; i < string_tables.size(); i++) {
+        //     String csvFileName = App.mkCSVFileName(url, i);
+        //     App.LOGGER.info("CSV file name: " + csvFileName);
 
-            String[][] string_table = string_tables.get(i);
+        //     String[][] string_table = string_tables.get(i);
 
-            serializer.saveToCSV(string_table, csvFileName);
-        }
+        //     serializer.saveToCSV(string_table, csvFileName);
+        // }
 	    
     }
     

@@ -5,7 +5,8 @@ import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tbody;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tr;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Th;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Td;
-
+import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.A;
+import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Img;
 
 public interface Visitor {
     
@@ -14,6 +15,8 @@ public interface Visitor {
     public void Tr(Tr tr);
     public void Th(Th th);
     public void Td(Td td);
+    public void A(A a);
+    public void Img(Img img);
 
 
 }

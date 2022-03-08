@@ -4,32 +4,32 @@ import org.jsoup.nodes.Element;
 
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Visitor.Visitor;
 
-public class Tr extends Balise {
+public class A extends Balise {
 
-    public Tr() {
-        super("tr");
+    public A() {
+        super("a");
     }
 
-    public Tr(Element self, Balise parent) {
+    public A(Element self, Balise parent) {
         super(self, parent);
     }
 
     @Override
     public void accept(Visitor visitor) {
-        visitor.Tr(this);
+        visitor.A(this);
     }
 
     @Override
     public String getInfo() {
         if (this.isFinal()) {
-            return this.getElement().text();
+            return this.getElement().text() + " , URL: " + this.getElement().attr("href");
         }
         return null;
     }
 
     @Override
     public Balise newInstance(Element self, Balise parent) {
-        return new Tr(self, parent);
+        return new A(self, parent);
     }
     
 }

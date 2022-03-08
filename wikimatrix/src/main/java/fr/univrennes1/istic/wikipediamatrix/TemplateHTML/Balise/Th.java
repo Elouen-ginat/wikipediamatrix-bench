@@ -6,8 +6,12 @@ import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Visitor.Visitor;
 
 public class Th extends Balise {
 
-    public Th(Element self) {
-        super(self);
+    public Th() {
+        super("th");
+    }
+
+    public Th(Element self, Balise parent) {
+        super(self, parent);
     }
     
     @Override
@@ -17,8 +21,15 @@ public class Th extends Balise {
 
     @Override
     public String getInfo() {
-        // TODO Auto-generated method stub
+        if (this.isFinal()) {
+            return this.getElement().text();
+        }
         return null;
+    }
+
+    @Override
+    public Balise newInstance(Element self, Balise parent) {
+        return new Th(self, parent);
     }
     
 }
