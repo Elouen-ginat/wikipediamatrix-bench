@@ -1,0 +1,7 @@
+"null","null","null"
+"{|","Required",""
+"|+","Optional","Only between table start and first table row."
+"|-","Optional","Can be omitted before the first row."
+"!","Optional","Consecutive table header cells may be added on same line separated by double marks (!!); or start on new lines, each with its own single mark (!)."
+"| or ||","Optional","Consecutive table data cells may be added on same line separated by double marks (||) or start on new lines, each with its own single mark (|). This mark is also used to separate HTML attributes from cell and caption contents."
+"|}","Required",""

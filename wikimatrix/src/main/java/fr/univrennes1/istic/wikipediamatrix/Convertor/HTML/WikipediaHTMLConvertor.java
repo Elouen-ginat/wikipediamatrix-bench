@@ -39,5 +39,18 @@ public class WikipediaHTMLConvertor implements Convertor {
 
         return string_table;
     }
+
+    @Override
+    public ArrayList<String[][]> toStringTables(Elements tables) {
+
+        ArrayList<String[][]> string_tables = new ArrayList<String[][]>();
+        for (Element table : tables) {
+            String[][] string_table = this.toStringTable(table);
+            string_tables.add(string_table);
+        }
+        
+        return string_tables;
+    }
+
     
 }

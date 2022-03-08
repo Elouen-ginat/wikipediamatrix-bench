@@ -1,0 +1,25 @@
+"","null","null","null","null","null"
+"<table>...</table>","{| ... |}","null","null","null","null"
+"<caption>caption</caption>","|+ caption","null","null","null","null"
+"<th scope="col">column header</th> <th scope="row">row header</th>","! scope="col" | column header ! scope="row" | row header","null","null","null","null"
+"<tr>...</tr>","|-","null","null","null","null"
+"<td>cell1</td><td>cell2</td> <td>cell3</td>","| cell1 || cell2 || cell3 or | cell1 | cell2 | cell3","null","null","null","null"
+"<td style="font-size: 87%;">cell1</td>","| style="font-size: 87%;" | cell1","null","null","null","null"
+"<table>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>4</td>
+  </tr>
+</table>","{|
+| 1 || 2
+|-
+| 3 || 4
+|} 1 2 3 4","1","2","3","4"
+"1","2","null","null","null","null"
+"3","4","null","null","null","null"
+"Can preview or debug with any XHTML editor Can be indented for easier reading Well-known Insensitive to newlines No characters like "|", which can collide with template and parser function syntax","Easy to write Easy to read Takes little space Can be learned quickly","null","null","null","null"
+"Tedious Takes a lot of space Difficult to read quickly Debugging more difficult because of tag pairing requirements Indented code might not match nesting. Confusing newline behaviour as they only occasionally break cells.","Unfamiliar syntax for experienced HTML editors Rigid structure Cannot be indented for clarity HTML tag text may be easier to read than pipes, plus signs, dashes, etc. Requires using {{!}} to pass a  |  character in a parameter. Sensitive to newlines; see Help:Newlines and spaces.","null","null","null","null"

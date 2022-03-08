@@ -16,12 +16,20 @@ public abstract class Serializer {
 
     private Path save_path;
 
+    private final String invalid_char = "[\\\\/:*?\"<>|]";
+
     public Serializer(String save_path) {
         // Convert the string to the relative path
         this.save_path = Paths.get(save_path);
     }
 
     private Path getPath(String file_name) {
+        // Remove invalid characters
+        String file_name_norm = file_name.replaceAll(invalid_char, "");
+        // Check if the name has been changed
+        if (!file_name_norm.equals(file_name)) {
+            App.LOGGER.warn("File name contains invalid characters. Name modified");
+        }
         // Get the path to the project directory
         Path project_path = Paths.get("").toAbsolutePath();
         // Remove wikimatrix from path depending on location of execution
@@ -29,7 +37,7 @@ public abstract class Serializer {
             project_path = project_path.getParent();
         }
         // Join path to get the path to the csv file given the file_name
-        Path csv_path = Paths.get(project_path.toString(), this.save_path.toString(), file_name);
+        Path csv_path = Paths.get(project_path.toString(), this.save_path.toString(), file_name_norm);
 
         return csv_path;
     }

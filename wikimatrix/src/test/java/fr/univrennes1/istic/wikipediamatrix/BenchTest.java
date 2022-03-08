@@ -60,7 +60,7 @@ public class BenchTest {
 
 			Element table = null;
 			try {
-				table = extractor.getTable(doc);
+				table = extractor.getTable(doc, 0);
 			}catch (NoTableException e) {
 				App.LOGGER.info(e.getMessage());
 				continue;
