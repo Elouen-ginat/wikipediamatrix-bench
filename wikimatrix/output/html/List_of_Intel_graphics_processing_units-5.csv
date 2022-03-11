@@ -1,0 +1,48 @@
+"Graphics","Launch","Market","Processor , URL: /wiki/List_of_Intel_microprocessors
+","Code name","Device id. , URL: /wiki/Device_driver#Identifiers
+","clock , URL: /wiki/Clock_rate
+MHz , URL: /wiki/Hertz
+","Execution units","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","Memory bandwidth , URL: /wiki/Memory_bandwidth
+GB/s , URL: /wiki/Gigabyte_per_second
+","DVMT , URL: /wiki/Dynamic_video_memory_technology
+MB , URL: /wiki/Megabyte
+","QSV , URL: /wiki/Intel_Quick_Sync_Video
+"
+"Graphics","Launch","Market","Processor , URL: /wiki/List_of_Intel_microprocessors
+","Code name","Device id. , URL: /wiki/Device_driver#Identifiers
+","clock , URL: /wiki/Clock_rate
+MHz , URL: /wiki/Hertz
+","Execution units","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","OpenCL , URL: /wiki/OpenCL
+","Memory bandwidth , URL: /wiki/Memory_bandwidth
+GB/s , URL: /wiki/Gigabyte_per_second
+","DVMT , URL: /wiki/Dynamic_video_memory_technology
+MB , URL: /wiki/Megabyte
+","QSV , URL: /wiki/Intel_Quick_Sync_Video
+"
+"HD Graphics","2011","Mobile","Celeron B7x0 Celeron 7x7 Celeron 8x7 Celeron B8xx Pentium B9x0 Pentium 9x7","Sandy Bridge , URL: /wiki/Sandy_Bridge_(microarchitecture)
+","010A","350–1150","6 (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.1Windows 3.3macOS[25] 3.3Linux ES 3.0Linux","No","21.3","1720","No"
+"HD Graphics","2011","Desktop","Celeron G4x0 Celeron G5x0 Celeron G530T Pentium G6xx Pentium G6x0T Pentium G8x0","Sandy Bridge , URL: /wiki/Sandy_Bridge_(microarchitecture)
+","010A","650–1100","6 (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.1Windows 3.3macOS[25] 3.3Linux ES 3.0Linux","No","21.3","1720","No"
+"HD Graphics 2000","2011","Desktop","Core i3-2102 Core i3-21x0 Core i3-21x0T Core i5-2xx0 Core i5-2x00S Core i5-2xx0T Core i7-2600 Core i7-2600S","Sandy Bridge , URL: /wiki/Sandy_Bridge_(microarchitecture)
+","0102","650–1350","6 (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.1Windows 3.3macOS[25] 3.3Linux ES 3.0Linux","No","21.3","1720",""
+"HD Graphics 2000","2011","Workstation","Xeon E3-1260L","Sandy Bridge , URL: /wiki/Sandy_Bridge_(microarchitecture)
+","0102","650–1350","6 (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.1Windows 3.3macOS[25] 3.3Linux ES 3.0Linux","No","21.3","1720",""
+"HD Graphics 3000","2011","Mobile","Core i3-23x0E Core i3-23xxM Core i5-251xE Core i5-2xxxM Core i7-2xxxQM Core i7-271xQE Core i7-29x0XM","Sandy Bridge , URL: /wiki/Sandy_Bridge_(microarchitecture)
+","0116 0126","650–1300","12 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.1Windows 3.3macOS[25] 3.3Linux ES 3.0Linux","No","21.3","1720",""
+"HD Graphics 3000","2011","Desktop","Core i3-21x5 Core i5-2405S Core i5-2500K Core i7-2x00K","Sandy Bridge , URL: /wiki/Sandy_Bridge_(microarchitecture)
+","0112 0122","850–1350","12 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.1Windows 3.3macOS[25] 3.3Linux ES 3.0Linux","No","21.3","1720",""
+"HD Graphics P3000","2011","Workstation","Xeon E3-12x5","Sandy Bridge , URL: /wiki/Sandy_Bridge_(microarchitecture)
+","0112 0122","850–1350","12 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.1Windows 3.3macOS[25] 3.3Linux ES 3.0Linux","No","21.3","1720",""
+"","","","","","0112 0122","","","","","","","",""

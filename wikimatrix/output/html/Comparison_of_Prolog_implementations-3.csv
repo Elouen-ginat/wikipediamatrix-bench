@@ -1,0 +1,19 @@
+"Name","Tail-Call Optimization , URL: /wiki/Tail-call_optimization
+","Choice Point Elimination","Environment Trimming","Just-in-Time Indexing , URL: /wiki/Term_indexing
+"
+"Ciao , URL: /wiki/Ciao_(programming_language)
+","Yes","Yes","Yes","?"
+"ECLiPSe , URL: /wiki/ECLiPSe
+","Yes","Yes","Yes","multi-argument (compile time)"
+"GNU Prolog , URL: /wiki/GNU_Prolog
+","Yes","Yes","Yes","?"
+"SICStus Prolog , URL: /wiki/SICStus_Prolog
+","Yes","Yes","Yes",""
+"SWI-Prolog , URL: /wiki/SWI-Prolog
+","Yes","Yes","Yes","Yes"
+"Visual Prolog , URL: /wiki/Visual_Prolog
+","Yes (compile time)","Yes (compile time)","N/A","N/A (compile time)"
+"XSB , URL: /wiki/XSB
+","Yes","Yes","Yes","?"
+"YAP-Prolog , URL: /wiki/YAP-Prolog
+","Yes","Yes","Yes","Yes"

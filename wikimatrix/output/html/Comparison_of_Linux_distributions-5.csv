@@ -1,0 +1,116 @@
+"Distribution","Size of media (MB)","RAM use (MB)","Boots from CD , URL: /wiki/Live_CD
+","Boots from DVD , URL: /wiki/Live_CD
+","Installable live CD/DVD","Installable from USB"
+"Arch Linux , URL: /wiki/Arch_Linux
+","742","minimum 80","Yes","Yes","Yes","Yes"
+"AUSTRUMI , URL: /wiki/AUSTRUMI
+","301","","Yes","Yes","Yes","Yes"
+"BLAG Linux and GNU , URL: /wiki/BLAG_Linux_and_GNU
+","696","?","Yes","No","?",""
+"Bodhi Linux , URL: /wiki/Bodhi_Linux
+","1,024","80","Yes","Yes","Yes","Yes"
+"CentOS , URL: /wiki/CentOS
+","603 (Minimal) 4,096 (DVD)","","Yes","Yes","Yes (installable since 6.0)","Yes"
+"Chakra , URL: /wiki/Chakra_(operating_system)
+","2,150","","No","Yes","Yes","Yes"
+"Clear Linux OS , URL: /wiki/Clear_Linux_OS
+","?","?","?","?","?","?"
+"Debian , URL: /wiki/Debian
+","958","","Yes","Yes","Yes","Yes"
+"Devuan , URL: /wiki/Devuan
+","868","","Yes","Yes","Yes","Yes"
+"Dragora GNU/Linux-Libre , URL: /wiki/Dragora_GNU/Linux-Libre
+","655","?","Yes","?","?","?"
+"dyne:bolic , URL: /wiki/Dyne:bolic
+","1,650","?","up to version 2.x","Yes","?","?"
+"Fedora , URL: /wiki/Fedora_(operating_system)
+","1,434","256 to 1,024","Yes","Yes","Yes","Yes"
+"Gentoo , URL: /wiki/Gentoo_Linux
+","260 (Minimal) 2,048 (Live DVD)","up to 128","Yes","Yes","Yes","Yes"
+"gNewSense , URL: /wiki/GNewSense
+","1,200","512","?","?","Yes","?"
+"Grml , URL: /wiki/Grml
+","460","32 to 128","Yes","No","Yes","Yes"
+"Guix System , URL: /wiki/GNU_Guix
+","612","146","No","Yes","Yes","Yes"
+"Hyperbola GNU/Linux-libre , URL: /wiki/Hyperbola_GNU/Linux-libre
+","1,124","?","up to version 0.3.x","Yes","Yes","Yes"
+"Knoppix , URL: /wiki/Knoppix
+","700","128 to 320","Yes","Yes","Only DVD edition is maintained",""
+"Knoppix , URL: /wiki/Knoppix
+","4,813","128 to 500","No","Yes","",""
+"LibreCMC , URL: /wiki/LibreCMC
+","?","?","No","No","No","No"
+"Mandriva Linux , URL: /wiki/Mandriva_Linux
+","700","128 to 768","Yes","Yes","Yes","Yes"
+"Manjaro Linux , URL: /wiki/Manjaro_Linux
+","473 to 2,200[221]","256 to 1,024","Yes","Yes","Yes","Yes"
+"MEPIS , URL: /wiki/MEPIS
+","700 to 4,000","128 to 512","Yes","Yes","Yes","Yes"
+"Musix GNU+Linux , URL: /wiki/Musix_GNU%2BLinux
+","2,000","?","No","Yes","Yes","Yes"
+"Nanolinux , URL: /wiki/Nanolinux
+","18","≈64","Yes","Yes","Yes","Yes"
+"openGEU , URL: /wiki/OpenGEU
+","700","192 to 512","Yes","","Yes",""
+"openSUSE , URL: /wiki/OpenSUSE
+","700","128 to 768","Yes","Yes","Yes","Yes"
+"OpenWrt , URL: /wiki/OpenWrt
+","min 4","min 16","No","No","No","No"
+"Parabola GNU/Linux-libre , URL: /wiki/Parabola_GNU/Linux-libre
+","400 to 3,300","?","Yes","Yes","Yes","Yes"
+"Pardus , URL: /wiki/Pardus_(operating_system)
+","1,256 to 1,276","256 to 1,024","Yes","Yes","Yes","Yes"
+"PCLinuxOS , URL: /wiki/PCLinuxOS
+","130 to 700","96 to 512","Yes","Yes","Yes","Yes"
+"Pentoo , URL: /wiki/Pentoo
+","666 and 700","48 to 96","Yes","Yes","By hand[222]","By hand"
+"Porteus , URL: /wiki/Porteus_(operating_system)
+","224 to 373","min 36","?","?","Yes","Yes"
+"Puppy Linux , URL: /wiki/Puppy_Linux
+","235","32 to 192","Yes","Yes","Yes","Yes"
+"Puredyne , URL: /wiki/Puredyne
+","542","","Yes","Yes","Yes","Yes"
+"Sabayon Linux , URL: /wiki/Sabayon_Linux
+","695","","Yes","Yes","Yes","Yes"
+"Sabayon Linux , URL: /wiki/Sabayon_Linux
+","2,400","","No","Yes","Yes","Yes"
+"Scientific Linux , URL: /wiki/Scientific_Linux
+","431 to 2,300[223]","640","Yes","Yes","Yes","Yes"
+"Slackware , URL: /wiki/Slackware
+","2,600","64 to 1,024[224]","Yes","Yes","Yes","Yes"
+"Slax , URL: /wiki/Slax
+","200","96 to 320","Yes","Yes","","Yes"
+"Solus , URL: /wiki/Solus_(operating_system)
+","1,200","1,024","No","Yes","Yes","Yes"
+"SystemRescueCD , URL: /wiki/SystemRescueCD
+","459","","Yes","Yes","Yes","Yes"
+"SliTaz GNU/Linux , URL: /wiki/SliTaz_GNU/Linux
+","50","48 to 256","Yes","Yes","Yes","Yes"
+"Tails , URL: /wiki/The_Amnesic_Incognito_Live_System
+","≈900","≈1,024","No","Yes","Yes","Yes (when run from DVD)"
+"Tiny Core Linux , URL: /wiki/Tiny_Core_Linux
+","16","46","Yes","Yes","Yes","Yes"
+"Tiny SliTaz , URL: /wiki/Tiny_SliTaz
+","1.44","4","Yes","Yes","By SliTaz","By SliTaz"
+"Trisquel , URL: /wiki/Trisquel
+","1,500[225]","384","Yes","Yes","Yes","Yes"
+"TurnKey GNU/Linux , URL: /wiki/TurnKey_Linux_Virtual_Appliance_Library
+","212","~173","Yes","Yes","Yes","Yes"
+"Ubuntu , URL: /wiki/Ubuntu_(operating_system)
+","1,700[226]","384","Yes","Yes","Yes","Yes"
+"Ututo , URL: /wiki/Ututo
+","3,500","?","No","Yes","Yes","?"
+"Edubuntu , URL: /wiki/Edubuntu
+","2,900[227]","","Yes","Yes","Yes",""
+"Kubuntu , URL: /wiki/Kubuntu
+","1,400[228]","384","Yes","Yes","Yes","Yes"
+"XBMC Live , URL: /wiki/XBMC_Live
+","700","256 to 1,024","Yes","No","Yes","Yes"
+"Zentyal , URL: /wiki/Zentyal
+","600","256","Yes","Yes","Yes","Yes"
+"Xubuntu , URL: /wiki/Xubuntu
+","1,200[229]","256","Yes","Yes","Yes","Yes"
+"Distribution","Size of media (MB)","RAM use (MB)","Boots from CD , URL: /wiki/Live_CD
+","Boots from DVD , URL: /wiki/Live_CD
+","Installable live CD/DVD","Installable from USB"

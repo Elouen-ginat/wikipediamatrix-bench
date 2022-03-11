@@ -1,0 +1,47 @@
+"Audio compression format , URL: /wiki/Audio_compression_format
+","Algorithm , URL: /wiki/Algorithm
+","Sample rate , URL: /wiki/Sampling_frequency
+","Bits per sample","Latency , URL: /wiki/Latency_(audio)
+","Stereo , URL: /wiki/Stereophonic_sound
+","Multichannel"
+"ALAC , URL: /wiki/Apple_Lossless
+","Lossless , URL: /wiki/Lossless_encoding
+","1–384000 Hz","16, 20, 24, 32[56]","?","Yes","Yes: Up to 8 channels"
+"ALS , URL: /wiki/Audio_Lossless_Coding
+","Lossless , URL: /wiki/Lossless_encoding
+","0–4 GHz","8, 16, 24, 32 (int or float)","?","Yes","Yes: Up to 65536 channels"
+"ATRAC , URL: /wiki/ATRAC
+","?","?","?","?","?","?"
+"Dolby TrueHD , URL: /wiki/Dolby_TrueHD
+","Lossless , URL: /wiki/Lossless_encoding
+","48, 96, 192 kHz","16, 20, 24","?","Yes","Dolby Atmos , URL: /wiki/Dolby_Atmos
+"
+"DTS-HD Master Audio , URL: /wiki/DTS-HD_Master_Audio
+","Lossless , URL: /wiki/Lossless_encoding
+","Up to 192 kHz","?","?","Yes","Yes: Up to 7.1[58]"
+"FLAC , URL: /wiki/FLAC
+","Lossless , URL: /wiki/Lossless_encoding
+","1–655350 Hz","4, 8, 16, 20, 24, 32 [59]","4.3–92 ms (46.4 ms typical)","Yes","Yes: Up to 8 channels"
+"HD-AAC , URL: /wiki/HD-AAC
+","?","?","?","?","?","?"
+"Monkey's Audio , URL: /wiki/Monkey%27s_Audio
+","Lossless , URL: /wiki/Lossless_encoding
+","1–655350 Hz[citation needed]","8, 16, 24","1670 to 26,749 ms (varies with compression)","Yes","Yes: Up to 8 channels since version 4.86[60]"
+"OptimFROG , URL: /wiki/OptimFROG
+","?","?","?","?","?","?"
+"OSQ , URL: /wiki/Original_Sound_Quality
+","?","?","?","?","?","?"
+"RealAudio Lossless , URL: /wiki/RealAudio
+","Lossless , URL: /wiki/Lossless_encoding
+","article , URL: /wiki/RealAudio
+","article , URL: /wiki/RealAudio
+","Varies","Yes","Yes: Up to 6 channels"
+"True Audio (TTA) , URL: /wiki/TTA_(codec)
+","Lossless , URL: /wiki/Lossless_encoding
+","0–4 GHz","1 to > 64","approx. 1045 ms[61]","Yes","Yes: Up to 65535 channels"
+"WavPack Lossless , URL: /wiki/WavPack
+","Lossless , URL: /wiki/Lossless_encoding
+","1 Hz to 16.777216 MHz","Varies in lossless mode; supports 32-bit float input; 2.2 minimum in lossy mode","?","Yes","Yes: Up to 256 channels"
+"Windows Media Audio Lossless , URL: /wiki/Windows_Media_Audio_9_Lossless
+","Lossless , URL: /wiki/Lossless_encoding
+","8, 11.025, 16, 22.05, 32, 44.1, 48, 88.2, 96 kHz","16, 24",">100 ms","Yes","Yes: Up to 6 channels"

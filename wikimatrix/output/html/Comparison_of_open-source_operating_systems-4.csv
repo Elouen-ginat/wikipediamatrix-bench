@@ -1,0 +1,85 @@
+"Name","Firewall , URL: /wiki/Firewall_(networking)
+","TCP/IP , URL: /wiki/Internet_protocol_suite
+","IPv6 , URL: /wiki/IPv6
+","IPX , URL: /wiki/IPX
+","PPP , URL: /wiki/Point-to-Point_Protocol
+","PPPoE , URL: /wiki/Point-to-Point_Protocol_over_Ethernet
+","DHCP , URL: /wiki/Dynamic_Host_Configuration_Protocol
+","Bridge , URL: /wiki/Network_bridge
+","TUN/TAP , URL: /wiki/TUN/TAP
+","SSH , URL: /wiki/Secure_Shell
+","OpenVPN , URL: /wiki/OpenVPN
+"
+"Linux , URL: /wiki/Linux
+","netfilter , URL: /wiki/Netfilter
+iptables , URL: /wiki/Iptables
+nftables , URL: /wiki/Nftables
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"FreeBSD , URL: /wiki/FreeBSD
+","IPFW2 , URL: /wiki/IPFW2
+IPFilter , URL: /wiki/IPFilter
+PF , URL: /wiki/PF_(firewall)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"OpenBSD , URL: /wiki/OpenBSD
+","PF , URL: /wiki/PF_(firewall)
+","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"NetBSD , URL: /wiki/NetBSD
+","IPFilter , URL: /wiki/IPFilter
+NPF , URL: /wiki/NPF_(firewall)
+PF , URL: /wiki/PF_(firewall)
+","Yes","Yes","","Yes","Yes[Note 1]","Yes","Yes","Yes","Yes","Yes"
+"DragonFly BSD , URL: /wiki/DragonFly_BSD
+","IPFW2 , URL: /wiki/IPFW2
+PF , URL: /wiki/PF_(firewall)
+","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes",""
+"OpenSolaris , URL: /wiki/OpenSolaris
+illumos , URL: /wiki/Illumos
+","IPFilter , URL: /wiki/IPFilter
+","Yes","Yes","","Yes","Yes","Yes","Yes","Yes[Note 2]","Yes","Yes"
+"Darwin , URL: /wiki/Darwin_(operating_system)
+OpenDarwin , URL: /wiki/OpenDarwin
+","IPFW , URL: /wiki/Ipfirewall
+","Yes","Yes","","","","Yes","","","Yes",""
+"MINIX , URL: /wiki/MINIX
+","","Yes","","","","","","","","Yes",""
+"FreeDOS , URL: /wiki/FreeDOS
+","","Yes","","Yes","Yes","Yes","Yes","","","Yes",""
+"Genode , URL: /wiki/Genode
+","software IP routing","Yes","","No","No","No","Yes","Yes","","",""
+"Haiku , URL: /wiki/Haiku_(operating_system)
+","None","Yes","Yes","","","","Yes","","","Yes","Yes"
+"KolibriOS , URL: /wiki/KolibriOS
+","None","Yes","","No","Yes","No","Yes","","","",""
+"MenuetOS , URL: /wiki/MenuetOS
+","None","Yes","","No","No","No","","","","",""
+"GNU , URL: /wiki/GNU
+","netfilter , URL: /wiki/Netfilter
+iptables , URL: /wiki/Iptables
+nftables , URL: /wiki/Nftables
+Linux-libre , URL: /wiki/Linux-libre
+Linux kernel , URL: /wiki/Linux_kernel
+","Yes","Yes[Note 4]","","","","Yes[Note 5]","","","Yes",""
+"ReactOS , URL: /wiki/ReactOS
+","","Yes","Yes","","","","","","","",""
+"L4 , URL: /wiki/L4_microkernel_family
+Fiasco , URL: /wiki/L4_microkernel_family#L4/Fiasco
+Pistachio , URL: /wiki/L4_microkernel_family#L4Ka::Pistachio
+","","","","","","","","","","",""
+"Plan 9 , URL: /wiki/Plan_9_from_Bell_Labs
+","ipmux","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Yes","No"
+"AROS , URL: /wiki/Amiga_Research_Operating_System
+","","Yes","","","","","","","","",""
+"Syllable , URL: /wiki/Syllable_Desktop
+","","Yes","","","Yes","Yes","Yes","","","Yes",""
+"Inferno , URL: /wiki/Inferno_(operating_system)
+","ipmux","Yes","Yes","No","Yes","Yes","Yes","Yes","No","No","No"
+"FreeRTOS , URL: /wiki/FreeRTOS
+","","","","","","","","","","",""
+"eCos , URL: /wiki/ECos
+","","Yes","Yes","","Yes","","Yes","","","Yes",""
+"RTEMS , URL: /wiki/RTEMS
+","","Yes","No","","Yes","Yes","Yes","Yes","Yes","",""
+"HelenOS , URL: /wiki/HelenOS
+","","Yes","Yes","No","No","No","Yes","No","No","No","No"
+"E/OS","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"Name","Firewall","TCP/IP","IPv6","IPX","PPP","PPPoE","DHCP","bridge","TUN/TAP","ssh","OpenVPN"

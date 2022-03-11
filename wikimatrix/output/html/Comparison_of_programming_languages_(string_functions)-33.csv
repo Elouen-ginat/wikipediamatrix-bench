@@ -1,0 +1,54 @@
+"Format","Languages"
+"reverse string","Perl 5 , URL: /wiki/Perl_5
+Haskell , URL: /wiki/Haskell_(programming_language)
+"
+"flip string string.flip","Raku , URL: /wiki/Raku_(programming_language)
+"
+"lists:reverse(string)","Erlang , URL: /wiki/Erlang_(programming_language)
+"
+"strrev(string)","PHP , URL: /wiki/PHP
+"
+"string[::-1]","Python , URL: /wiki/Python_(programming_language)
+"
+"(string-reverse string)","Scheme , URL: /wiki/Scheme_(programming_language)
+"
+"(reverse string)","Common Lisp , URL: /wiki/Common_Lisp
+"
+"string.reverse","Ruby , URL: /wiki/Ruby_(programming_language)
+D , URL: /wiki/D_(programming_language)
+"
+"new StringBuilder(string).reverse().toString()","Java , URL: /wiki/Java_(programming_language)
+"
+"std::reverse(string.begin(), string.end());","C++ , URL: /wiki/C%2B%2B
+"
+"StrReverse(string)","VB , URL: /wiki/Visual_Basic_(classic)
+"
+"string.Reverse().ToString()","VB .NET , URL: /wiki/Visual_Basic_.NET
+C# , URL: /wiki/C_Sharp_(programming_language)
+"
+"implode (rev (explode string))","Standard ML , URL: /wiki/Standard_ML
+"
+"string.split("").reverse().join("")","JavaScript , URL: /wiki/JavaScript
+"
+"string.reverse(string) (string):reverse()","Lua , URL: /wiki/Lua_(programming_language)
+"
+"string reverse","Smalltalk , URL: /wiki/Smalltalk
+"
+"StringReverse[string]","Mathematica , URL: /wiki/Mathematica
+"
+"reverse(string)","PL/I , URL: /wiki/PL/I
+"
+"«FUNCTION» REVERSE(string)","COBOL , URL: /wiki/COBOL
+"
+"string.toCharArray.toList.reversed.join()","Cobra , URL: /wiki/Cobra_(programming_language)
+"
+"String(string.characters.reverse())","Swift , URL: /wiki/Swift_(programming_language)
+"
+"String(reverse(string))","Swift , URL: /wiki/Swift_(programming_language)
+"
+"string reverse string","Tcl , URL: /wiki/Tcl
+"
+"⌽string","APL , URL: /wiki/APL_(programming_language)
+"
+"string.chars().rev().collect::<String>()","Rust , URL: /wiki/Rust_(programming_language)
+"

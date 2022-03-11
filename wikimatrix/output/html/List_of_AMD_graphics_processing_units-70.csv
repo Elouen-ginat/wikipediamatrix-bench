@@ -1,0 +1,30 @@
+"Codename , URL: /wiki/Codename
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Core","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","Memory","Memory","Memory","Memory","TDP , URL: /wiki/Thermal_Design_Power
+","Bus interface","Graphic output ports"
+"Codename , URL: /wiki/Codename
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Config[e]","Config[e]","MHz , URL: /wiki/Hertz
+","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","Single , URL: /wiki/Single_precision_floating-point_format
+","Double , URL: /wiki/Double_precision_floating-point_format
+","Bus type & width","GiB , URL: /wiki/Gibibyte
+","MT/s , URL: /wiki/Transfer_(computing)
+","GB , URL: /wiki/Gigabyte
+","TDP , URL: /wiki/Thermal_Design_Power
+","Bus interface","Graphic output ports"
+"Radeon Pro Vega II (Vega 20)[331]","November 2019$2,800 USD","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
+","0.0×109 ? mm2","4096:256:64 64 CU","4096:256:64 64 CU","1700","435","109","14200","880","HBM2 , URL: /wiki/High_Bandwidth_Memory#HBM2
+","32","2000","1000","Unknown","PCIe 3.0 , URL: /wiki/PCIe#PCI_Express_3.0
+","4× Thunderbolt 3 1× HDMI 2.0"
+"Radeon Pro Vega II Duo (Vega 20)[331]","November 2019$5,600 USD","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
+","0.0×109 ? mm2","2×","4096:256:64 64 CU","1700","2× 435","2× 109","2× 14200","2× 880","HBM2 , URL: /wiki/High_Bandwidth_Memory#HBM2
+","2× 32","2000","1000","Unknown","PCIe 3.0 , URL: /wiki/PCIe#PCI_Express_3.0
+","4× Thunderbolt 3 1× HDMI 2.0"

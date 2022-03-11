@@ -1,0 +1,387 @@
+"Profile , URL: /wiki/Scalable_Vector_Graphics#Mobile_profiles
+","Element , URL: /wiki/XML#Key_terminology
+","MSHTML , URL: /wiki/MSHTML
+","Gecko , URL: /wiki/Gecko_(software)
+","WebKit , URL: /wiki/WebKit
+","Blink , URL: /wiki/Blink_(browser_engine)
+","Presto , URL: /wiki/Presto_(browser_engine)
+","KSVG , URL: /wiki/KHTML#Other_modules
+","Prince , URL: /wiki/Prince_(software)
+","Amaya , URL: /wiki/Amaya_(web_editor)
+","Adobe SVG Viewer , URL: http://www.adobe.com/svg/viewer/install/
+","Batik , URL: /wiki/Apache_Batik
+","Renesis , URL: /wiki/Renesis_Player
+","LeonLabs"
+"Structure Module , URL: http://www.w3.org/TR/SVG/struct.html#structure-mod
+","Structure Module , URL: http://www.w3.org/TR/SVG/struct.html#structure-mod
+","Structure Module , URL: http://www.w3.org/TR/SVG/struct.html#structure-mod
+","Structure Module , URL: http://www.w3.org/TR/SVG/struct.html#structure-mod
+","Structure Module , URL: http://www.w3.org/TR/SVG/struct.html#structure-mod
+","Structure Module , URL: http://www.w3.org/TR/SVG/struct.html#structure-mod
+","Structure Module , URL: http://www.w3.org/TR/SVG/struct.html#structure-mod
+","Structure Module , URL: http://www.w3.org/TR/SVG/struct.html#structure-mod
+","Structure Module , URL: http://www.w3.org/TR/SVG/struct.html#structure-mod
+","Structure Module , URL: http://www.w3.org/TR/SVG/struct.html#structure-mod
+","Structure Module , URL: http://www.w3.org/TR/SVG/struct.html#structure-mod
+","Structure Module , URL: http://www.w3.org/TR/SVG/struct.html#structure-mod
+","",""
+"Tiny","svg","5.0[t 2]","1.8","522","?","1.0","Yes","Yes","Yes","1.0","Yes","Yes","1.0"
+"Tiny","g","5.0[t 2]","1.8","522","?","","Yes","Yes","Yes","1.0","Yes","","1.0"
+"Tiny","defs","5.0[t 2]","1.8","522","?","","Yes","","","1.0","Yes","","1.0"
+"Tiny","desc","5.0[t 2]","1.8","522","?","","","","","1.0","Yes","","1.0"
+"Tiny","title","5.0[t 2]","1.8","522","?","","","","","","Yes","","1.0"
+"Tiny","metadata","5.0[t 2]","1.8","522","?","","","","","","Yes","","1.0"
+"Tiny","use","5.0[t 2]","1.8","Yes[w 4]","?","No","6.0","Yes","1.0","0.6","Yes","","1.0"
+"Basic","symbol","5.0[t 2]","1.8","522","?","No","6.0","?","1.0","0.6","Yes","","1.0"
+"Conditional Processing Module , URL: http://www.w3.org/TR/SVG/struct.html#conditional-mod
+","Conditional Processing Module , URL: http://www.w3.org/TR/SVG/struct.html#conditional-mod
+","Conditional Processing Module , URL: http://www.w3.org/TR/SVG/struct.html#conditional-mod
+","Conditional Processing Module , URL: http://www.w3.org/TR/SVG/struct.html#conditional-mod
+","Conditional Processing Module , URL: http://www.w3.org/TR/SVG/struct.html#conditional-mod
+","Conditional Processing Module , URL: http://www.w3.org/TR/SVG/struct.html#conditional-mod
+","Conditional Processing Module , URL: http://www.w3.org/TR/SVG/struct.html#conditional-mod
+","Conditional Processing Module , URL: http://www.w3.org/TR/SVG/struct.html#conditional-mod
+","Conditional Processing Module , URL: http://www.w3.org/TR/SVG/struct.html#conditional-mod
+","Conditional Processing Module , URL: http://www.w3.org/TR/SVG/struct.html#conditional-mod
+","Conditional Processing Module , URL: http://www.w3.org/TR/SVG/struct.html#conditional-mod
+","Conditional Processing Module , URL: http://www.w3.org/TR/SVG/struct.html#conditional-mod
+","",""
+"Tiny","switch","Yes","1.8","522","?","2.0","?","No","?","2.0","Yes","No","1.0"
+"Image Module , URL: http://www.w3.org/TR/SVG/struct.html#image-mod
+","Image Module , URL: http://www.w3.org/TR/SVG/struct.html#image-mod
+","Image Module , URL: http://www.w3.org/TR/SVG/struct.html#image-mod
+","Image Module , URL: http://www.w3.org/TR/SVG/struct.html#image-mod
+","Image Module , URL: http://www.w3.org/TR/SVG/struct.html#image-mod
+","Image Module , URL: http://www.w3.org/TR/SVG/struct.html#image-mod
+","Image Module , URL: http://www.w3.org/TR/SVG/struct.html#image-mod
+","Image Module , URL: http://www.w3.org/TR/SVG/struct.html#image-mod
+","Image Module , URL: http://www.w3.org/TR/SVG/struct.html#image-mod
+","Image Module , URL: http://www.w3.org/TR/SVG/struct.html#image-mod
+","Image Module , URL: http://www.w3.org/TR/SVG/struct.html#image-mod
+","Image Module , URL: http://www.w3.org/TR/SVG/struct.html#image-mod
+","",""
+"Tiny","image","5.0[t 2]","2.0[g 5]","522","?","2.0","No","5.1","4.0","1.0","Yes","0.5","1.0"
+"Style Module , URL: http://www.w3.org/TR/SVG/styling.html#style-mod
+","Style Module , URL: http://www.w3.org/TR/SVG/styling.html#style-mod
+","Style Module , URL: http://www.w3.org/TR/SVG/styling.html#style-mod
+","Style Module , URL: http://www.w3.org/TR/SVG/styling.html#style-mod
+","Style Module , URL: http://www.w3.org/TR/SVG/styling.html#style-mod
+","Style Module , URL: http://www.w3.org/TR/SVG/styling.html#style-mod
+","Style Module , URL: http://www.w3.org/TR/SVG/styling.html#style-mod
+","Style Module , URL: http://www.w3.org/TR/SVG/styling.html#style-mod
+","Style Module , URL: http://www.w3.org/TR/SVG/styling.html#style-mod
+","Style Module , URL: http://www.w3.org/TR/SVG/styling.html#style-mod
+","Style Module , URL: http://www.w3.org/TR/SVG/styling.html#style-mod
+","Style Module , URL: http://www.w3.org/TR/SVG/styling.html#style-mod
+","",""
+"Tiny","style","5.0[t 1]","1.8","522","?","2.0","?","Yes","Yes","1.0","Yes","0.6","1.0"
+"Shape Module , URL: http://www.w3.org/TR/SVG/shapes.html#shape-mod
+","Shape Module , URL: http://www.w3.org/TR/SVG/shapes.html#shape-mod
+","Shape Module , URL: http://www.w3.org/TR/SVG/shapes.html#shape-mod
+","Shape Module , URL: http://www.w3.org/TR/SVG/shapes.html#shape-mod
+","Shape Module , URL: http://www.w3.org/TR/SVG/shapes.html#shape-mod
+","Shape Module , URL: http://www.w3.org/TR/SVG/shapes.html#shape-mod
+","Shape Module , URL: http://www.w3.org/TR/SVG/shapes.html#shape-mod
+","Shape Module , URL: http://www.w3.org/TR/SVG/shapes.html#shape-mod
+","Shape Module , URL: http://www.w3.org/TR/SVG/shapes.html#shape-mod
+","Shape Module , URL: http://www.w3.org/TR/SVG/shapes.html#shape-mod
+","Shape Module , URL: http://www.w3.org/TR/SVG/shapes.html#shape-mod
+","Shape Module , URL: http://www.w3.org/TR/SVG/shapes.html#shape-mod
+","",""
+"Tiny","circle","5.0[t 2]","1.8","522","?","2.0","Yes","Yes","4.0","1.0","Yes","1.0","1.0"
+"Tiny","ellipse","5.0[t 2]","1.8","522","?","2.0","Yes","Yes","4.0","1.0","Yes","1.0","1.0"
+"Tiny","line","5.0[t 2]","1.8","522","?","2.0","Yes","Yes","4.0","1.0","Yes","1.0","1.0"
+"Tiny","path","5.0[t 2]","1.8","522","?","2.0","Yes","Yes","4.0","1.0","Yes","1.0","1.0"
+"Tiny","polygon","5.0[t 2]","1.8","522","?","2.0","Yes","Yes","4.0","1.0","Yes","1.0","1.0"
+"Tiny","polyline","5.0[t 2]","1.8","522","?","2.0","Yes","Yes","4.0","1.0","Yes","1.0","1.0"
+"Tiny","rect","5.0[t 2]","1.8","522","?","2.0","Yes","Yes","4.0","1.0","Yes","","1.0"
+"Text Module , URL: http://www.w3.org/TR/SVG/text.html#text-mod
+","Text Module , URL: http://www.w3.org/TR/SVG/text.html#text-mod
+","Text Module , URL: http://www.w3.org/TR/SVG/text.html#text-mod
+","Text Module , URL: http://www.w3.org/TR/SVG/text.html#text-mod
+","Text Module , URL: http://www.w3.org/TR/SVG/text.html#text-mod
+","Text Module , URL: http://www.w3.org/TR/SVG/text.html#text-mod
+","Text Module , URL: http://www.w3.org/TR/SVG/text.html#text-mod
+","Text Module , URL: http://www.w3.org/TR/SVG/text.html#text-mod
+","Text Module , URL: http://www.w3.org/TR/SVG/text.html#text-mod
+","Text Module , URL: http://www.w3.org/TR/SVG/text.html#text-mod
+","Text Module , URL: http://www.w3.org/TR/SVG/text.html#text-mod
+","Text Module , URL: http://www.w3.org/TR/SVG/text.html#text-mod
+","",""
+"Tiny","text","5.0[t 1]","1.8","522","?","2.0","Yes","5.1","4.0","1.0","Yes","0.7","1.0"
+"Basic","tspan","5.0[t 1]","1.8","522","?","2.0","Yes","","4.0","1.0","Yes","0.7","1.0"
+"Basic","tref","5.0[t 1]","No[g 6]","522","?","2.0","Yes","No","6.3","1.0","Yes","0.6","1.0"
+"Basic","textPath","5.0[t 1]","1.8.1","522","?","2.0","Yes","No","","1.0","Yes","","1.0"
+"Full","altGlyph","5.0[t 1]","Partial[g 7][g 8]","Partial","?","2.2","?","No","2.0","","Yes","","1.0"
+"Full","altGlyphDef","5.0[t 1]","No","No","?","2.2","?","No","2.0","","Yes","","1.0"
+"Full","altGlyphItem","5.0[t 1]","No","No","?","","","No","","","Yes","","1.0"
+"Full","glyphRef","5.0[t 1]","No","No","?","","","No","","","Yes","","1.0"
+"Profile , URL: /wiki/Scalable_Vector_Graphics#Mobile_profiles
+","Element , URL: /wiki/XML#Key_terminology
+","MSHTML","Gecko","WebKit","Blink","Presto","KSVG","Prince XML","Amaya","Adobe SVG Viewer","Batik","Renesis","LeonLabs"
+"Marker Module , URL: http://www.w3.org/TR/SVG/painting.html#marker-mod
+","Marker Module , URL: http://www.w3.org/TR/SVG/painting.html#marker-mod
+","Marker Module , URL: http://www.w3.org/TR/SVG/painting.html#marker-mod
+","Marker Module , URL: http://www.w3.org/TR/SVG/painting.html#marker-mod
+","Marker Module , URL: http://www.w3.org/TR/SVG/painting.html#marker-mod
+","Marker Module , URL: http://www.w3.org/TR/SVG/painting.html#marker-mod
+","Marker Module , URL: http://www.w3.org/TR/SVG/painting.html#marker-mod
+","Marker Module , URL: http://www.w3.org/TR/SVG/painting.html#marker-mod
+","Marker Module , URL: http://www.w3.org/TR/SVG/painting.html#marker-mod
+","Marker Module , URL: http://www.w3.org/TR/SVG/painting.html#marker-mod
+","Marker Module , URL: http://www.w3.org/TR/SVG/painting.html#marker-mod
+","Marker Module , URL: http://www.w3.org/TR/SVG/painting.html#marker-mod
+","",""
+"Full","marker","5.0[t 1]","1.8","522","?","2.0","?","6.0","?","3.0","Yes","1.0","1.0"
+"Color Profile Module , URL: http://www.w3.org/TR/SVG/color.html#color-profile-mod
+","Color Profile Module , URL: http://www.w3.org/TR/SVG/color.html#color-profile-mod
+","Color Profile Module , URL: http://www.w3.org/TR/SVG/color.html#color-profile-mod
+","Color Profile Module , URL: http://www.w3.org/TR/SVG/color.html#color-profile-mod
+","Color Profile Module , URL: http://www.w3.org/TR/SVG/color.html#color-profile-mod
+","Color Profile Module , URL: http://www.w3.org/TR/SVG/color.html#color-profile-mod
+","Color Profile Module , URL: http://www.w3.org/TR/SVG/color.html#color-profile-mod
+","Color Profile Module , URL: http://www.w3.org/TR/SVG/color.html#color-profile-mod
+","Color Profile Module , URL: http://www.w3.org/TR/SVG/color.html#color-profile-mod
+","Color Profile Module , URL: http://www.w3.org/TR/SVG/color.html#color-profile-mod
+","Color Profile Module , URL: http://www.w3.org/TR/SVG/color.html#color-profile-mod
+","Color Profile Module , URL: http://www.w3.org/TR/SVG/color.html#color-profile-mod
+","",""
+"Full","color-profile","No","No[g 9]","No[w 5]","?","No","No","No","?","3.0","Yes","No","1.0"
+"Gradient Module , URL: http://www.w3.org/TR/SVG/pservers.html#gradient-mod
+","Gradient Module , URL: http://www.w3.org/TR/SVG/pservers.html#gradient-mod
+","Gradient Module , URL: http://www.w3.org/TR/SVG/pservers.html#gradient-mod
+","Gradient Module , URL: http://www.w3.org/TR/SVG/pservers.html#gradient-mod
+","Gradient Module , URL: http://www.w3.org/TR/SVG/pservers.html#gradient-mod
+","Gradient Module , URL: http://www.w3.org/TR/SVG/pservers.html#gradient-mod
+","Gradient Module , URL: http://www.w3.org/TR/SVG/pservers.html#gradient-mod
+","Gradient Module , URL: http://www.w3.org/TR/SVG/pservers.html#gradient-mod
+","Gradient Module , URL: http://www.w3.org/TR/SVG/pservers.html#gradient-mod
+","Gradient Module , URL: http://www.w3.org/TR/SVG/pservers.html#gradient-mod
+","Gradient Module , URL: http://www.w3.org/TR/SVG/pservers.html#gradient-mod
+","Gradient Module , URL: http://www.w3.org/TR/SVG/pservers.html#gradient-mod
+","",""
+"Basic","linearGradient","5.0[t 1]","1.8","522","?","1.0","Yes","6.0","?","1.0","Yes","0.5","1.0"
+"Basic","radialGradient","5.0[t 1]","1.8","522","?","","Yes","6.0","","1.0","Yes","0.5","1.0"
+"Basic","stop","5.0[t 1]","1.8","522","?","","Yes","","","1.0","Yes","0.5","1.0"
+"Pattern Module , URL: http://www.w3.org/TR/SVG/pservers.html#pattern-mod
+","Pattern Module , URL: http://www.w3.org/TR/SVG/pservers.html#pattern-mod
+","Pattern Module , URL: http://www.w3.org/TR/SVG/pservers.html#pattern-mod
+","Pattern Module , URL: http://www.w3.org/TR/SVG/pservers.html#pattern-mod
+","Pattern Module , URL: http://www.w3.org/TR/SVG/pservers.html#pattern-mod
+","Pattern Module , URL: http://www.w3.org/TR/SVG/pservers.html#pattern-mod
+","Pattern Module , URL: http://www.w3.org/TR/SVG/pservers.html#pattern-mod
+","Pattern Module , URL: http://www.w3.org/TR/SVG/pservers.html#pattern-mod
+","Pattern Module , URL: http://www.w3.org/TR/SVG/pservers.html#pattern-mod
+","Pattern Module , URL: http://www.w3.org/TR/SVG/pservers.html#pattern-mod
+","Pattern Module , URL: http://www.w3.org/TR/SVG/pservers.html#pattern-mod
+","Pattern Module , URL: http://www.w3.org/TR/SVG/pservers.html#pattern-mod
+","",""
+"Basic","pattern","5.0[t 1]","1.9","522","?","2.0","Yes","?","?","2.0","Yes","0.5","1.0ttt"
+"Clip Module , URL: http://www.w3.org/TR/SVG/masking.html#clip-mod
+","Clip Module , URL: http://www.w3.org/TR/SVG/masking.html#clip-mod
+","Clip Module , URL: http://www.w3.org/TR/SVG/masking.html#clip-mod
+","Clip Module , URL: http://www.w3.org/TR/SVG/masking.html#clip-mod
+","Clip Module , URL: http://www.w3.org/TR/SVG/masking.html#clip-mod
+","Clip Module , URL: http://www.w3.org/TR/SVG/masking.html#clip-mod
+","Clip Module , URL: http://www.w3.org/TR/SVG/masking.html#clip-mod
+","Clip Module , URL: http://www.w3.org/TR/SVG/masking.html#clip-mod
+","Clip Module , URL: http://www.w3.org/TR/SVG/masking.html#clip-mod
+","Clip Module , URL: http://www.w3.org/TR/SVG/masking.html#clip-mod
+","Clip Module , URL: http://www.w3.org/TR/SVG/masking.html#clip-mod
+","Clip Module , URL: http://www.w3.org/TR/SVG/masking.html#clip-mod
+","",""
+"Basic","clipPath","5.0[t 1]","1.8","Mostly[w 6]","?","2.0","?","?","?","1.0","Yes","0.6","1.0"
+"Mask Module , URL: http://www.w3.org/TR/SVG/masking.html#mask-mod
+","Mask Module , URL: http://www.w3.org/TR/SVG/masking.html#mask-mod
+","Mask Module , URL: http://www.w3.org/TR/SVG/masking.html#mask-mod
+","Mask Module , URL: http://www.w3.org/TR/SVG/masking.html#mask-mod
+","Mask Module , URL: http://www.w3.org/TR/SVG/masking.html#mask-mod
+","Mask Module , URL: http://www.w3.org/TR/SVG/masking.html#mask-mod
+","Mask Module , URL: http://www.w3.org/TR/SVG/masking.html#mask-mod
+","Mask Module , URL: http://www.w3.org/TR/SVG/masking.html#mask-mod
+","Mask Module , URL: http://www.w3.org/TR/SVG/masking.html#mask-mod
+","Mask Module , URL: http://www.w3.org/TR/SVG/masking.html#mask-mod
+","Mask Module , URL: http://www.w3.org/TR/SVG/masking.html#mask-mod
+","Mask Module , URL: http://www.w3.org/TR/SVG/masking.html#mask-mod
+","",""
+"Basic","mask","5.0[t 1]","1.9","522","?","2.0","?","?","?","1.0","Yes","No","1.0"
+"Filter Module , URL: http://www.w3.org/TR/SVG/filters.html#filter-mod
+","Filter Module , URL: http://www.w3.org/TR/SVG/filters.html#filter-mod
+","Filter Module , URL: http://www.w3.org/TR/SVG/filters.html#filter-mod
+","Filter Module , URL: http://www.w3.org/TR/SVG/filters.html#filter-mod
+","Filter Module , URL: http://www.w3.org/TR/SVG/filters.html#filter-mod
+","Filter Module , URL: http://www.w3.org/TR/SVG/filters.html#filter-mod
+","Filter Module , URL: http://www.w3.org/TR/SVG/filters.html#filter-mod
+","Filter Module , URL: http://www.w3.org/TR/SVG/filters.html#filter-mod
+","Filter Module , URL: http://www.w3.org/TR/SVG/filters.html#filter-mod
+","Filter Module , URL: http://www.w3.org/TR/SVG/filters.html#filter-mod
+","Filter Module , URL: http://www.w3.org/TR/SVG/filters.html#filter-mod
+","Filter Module , URL: http://www.w3.org/TR/SVG/filters.html#filter-mod
+","",""
+"Basic","feBlend","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","?","No","?","1.0","Yes","No",""
+"Basic","feColorMatrix","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Basic","feComponentTransfer","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Basic","feComposite","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Basic","feFlood","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Basic","feGaussianBlur","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Basic","feImage","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Basic","feMerge","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Basic","feOffset","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Basic","feTile","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Full","filter","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","?","No","?","1.0","Yes","No",""
+"Full","feConvolveMatrix","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","?","No","?","1.0","Yes","No",""
+"Full","feDiffuseLighting","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","?","No","?","1.0","Yes","No",""
+"Full","feDisplacementMap","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","?","No","?","1.0","Yes","No",""
+"Full","feMergeNode","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Full","feMorphology","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Full","feSpecularLighting","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","?","No","?","1.0","Yes","No",""
+"Full","feTurbulence","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","?","No","?","1.0","Yes","No",""
+"Full","feDistantLight","6.0[t 3]","1.9","No","?","2.0","?","No","?","1.0","Yes","No",""
+"Full","fePointLight","6.0[t 3]","1.9","No","?","2.0","","No","","1.0","Yes","No",""
+"Full","feSpotLight","6.0[t 3]","1.9","No","?","2.0","","No","","1.0","Yes","No",""
+"Full","feFuncR","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","?","No","?","1.0","Yes","No",""
+"Full","feFuncG","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Full","feFuncB","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Full","feFuncA","6.0[t 3]","1.9","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","","No","","1.0","Yes","No",""
+"Profile , URL: /wiki/Scalable_Vector_Graphics#Mobile_profiles
+","Element , URL: /wiki/XML#Key_terminology
+","MSHTML","Gecko","WebKit","Blink","Presto","KSVG","Prince XML","Amaya","Adobe SVG Viewer","Batik","Renesis","LeonLabs"
+"Cursor Module , URL: http://www.w3.org/TR/SVG/interact.html#cursor-mod
+","Cursor Module , URL: http://www.w3.org/TR/SVG/interact.html#cursor-mod
+","Cursor Module , URL: http://www.w3.org/TR/SVG/interact.html#cursor-mod
+","Cursor Module , URL: http://www.w3.org/TR/SVG/interact.html#cursor-mod
+","Cursor Module , URL: http://www.w3.org/TR/SVG/interact.html#cursor-mod
+","Cursor Module , URL: http://www.w3.org/TR/SVG/interact.html#cursor-mod
+","Cursor Module , URL: http://www.w3.org/TR/SVG/interact.html#cursor-mod
+","Cursor Module , URL: http://www.w3.org/TR/SVG/interact.html#cursor-mod
+","Cursor Module , URL: http://www.w3.org/TR/SVG/interact.html#cursor-mod
+","Cursor Module , URL: http://www.w3.org/TR/SVG/interact.html#cursor-mod
+","Cursor Module , URL: http://www.w3.org/TR/SVG/interact.html#cursor-mod
+","Cursor Module , URL: http://www.w3.org/TR/SVG/interact.html#cursor-mod
+","",""
+"Full","cursor","No[t 4]","No[g 10]","Partial","?","No","?","?","?","No","Yes","0.6",""
+"Hyperlinking Module , URL: http://www.w3.org/TR/SVG/linking.html#hyperlinking-mod
+","Hyperlinking Module , URL: http://www.w3.org/TR/SVG/linking.html#hyperlinking-mod
+","Hyperlinking Module , URL: http://www.w3.org/TR/SVG/linking.html#hyperlinking-mod
+","Hyperlinking Module , URL: http://www.w3.org/TR/SVG/linking.html#hyperlinking-mod
+","Hyperlinking Module , URL: http://www.w3.org/TR/SVG/linking.html#hyperlinking-mod
+","Hyperlinking Module , URL: http://www.w3.org/TR/SVG/linking.html#hyperlinking-mod
+","Hyperlinking Module , URL: http://www.w3.org/TR/SVG/linking.html#hyperlinking-mod
+","Hyperlinking Module , URL: http://www.w3.org/TR/SVG/linking.html#hyperlinking-mod
+","Hyperlinking Module , URL: http://www.w3.org/TR/SVG/linking.html#hyperlinking-mod
+","Hyperlinking Module , URL: http://www.w3.org/TR/SVG/linking.html#hyperlinking-mod
+","Hyperlinking Module , URL: http://www.w3.org/TR/SVG/linking.html#hyperlinking-mod
+","Hyperlinking Module , URL: http://www.w3.org/TR/SVG/linking.html#hyperlinking-mod
+","",""
+"Tiny","a","Yes","1.8","522","?","1.0","Yes","5.1","8.2","1.0","Yes","0.6","1.0"
+"View Module , URL: http://www.w3.org/TR/SVG/linking.html#view-mod
+","View Module , URL: http://www.w3.org/TR/SVG/linking.html#view-mod
+","View Module , URL: http://www.w3.org/TR/SVG/linking.html#view-mod
+","View Module , URL: http://www.w3.org/TR/SVG/linking.html#view-mod
+","View Module , URL: http://www.w3.org/TR/SVG/linking.html#view-mod
+","View Module , URL: http://www.w3.org/TR/SVG/linking.html#view-mod
+","View Module , URL: http://www.w3.org/TR/SVG/linking.html#view-mod
+","View Module , URL: http://www.w3.org/TR/SVG/linking.html#view-mod
+","View Module , URL: http://www.w3.org/TR/SVG/linking.html#view-mod
+","View Module , URL: http://www.w3.org/TR/SVG/linking.html#view-mod
+","View Module , URL: http://www.w3.org/TR/SVG/linking.html#view-mod
+","View Module , URL: http://www.w3.org/TR/SVG/linking.html#view-mod
+","",""
+"Basic","view","No","15.0[g 11]","Partial","?","2.0","?","?","?","3.0","Yes","No","1.0"
+"Scripting Module , URL: http://www.w3.org/TR/SVG/script.html#scripting-mod
+","Scripting Module , URL: http://www.w3.org/TR/SVG/script.html#scripting-mod
+","Scripting Module , URL: http://www.w3.org/TR/SVG/script.html#scripting-mod
+","Scripting Module , URL: http://www.w3.org/TR/SVG/script.html#scripting-mod
+","Scripting Module , URL: http://www.w3.org/TR/SVG/script.html#scripting-mod
+","Scripting Module , URL: http://www.w3.org/TR/SVG/script.html#scripting-mod
+","Scripting Module , URL: http://www.w3.org/TR/SVG/script.html#scripting-mod
+","Scripting Module , URL: http://www.w3.org/TR/SVG/script.html#scripting-mod
+","Scripting Module , URL: http://www.w3.org/TR/SVG/script.html#scripting-mod
+","Scripting Module , URL: http://www.w3.org/TR/SVG/script.html#scripting-mod
+","Scripting Module , URL: http://www.w3.org/TR/SVG/script.html#scripting-mod
+","Scripting Module , URL: http://www.w3.org/TR/SVG/script.html#scripting-mod
+","",""
+"Tiny","script","Yes","1.8","522","?","2.0","?","?","?","1.0","Yes","0.5",""
+"Animation Module , URL: http://www.w3.org/TR/SVG/animate.html#animation-mod
+","Animation Module , URL: http://www.w3.org/TR/SVG/animate.html#animation-mod
+","Animation Module , URL: http://www.w3.org/TR/SVG/animate.html#animation-mod
+","Animation Module , URL: http://www.w3.org/TR/SVG/animate.html#animation-mod
+","Animation Module , URL: http://www.w3.org/TR/SVG/animate.html#animation-mod
+","Animation Module , URL: http://www.w3.org/TR/SVG/animate.html#animation-mod
+","Animation Module , URL: http://www.w3.org/TR/SVG/animate.html#animation-mod
+","Animation Module , URL: http://www.w3.org/TR/SVG/animate.html#animation-mod
+","Animation Module , URL: http://www.w3.org/TR/SVG/animate.html#animation-mod
+","Animation Module , URL: http://www.w3.org/TR/SVG/animate.html#animation-mod
+","Animation Module , URL: http://www.w3.org/TR/SVG/animate.html#animation-mod
+","Animation Module , URL: http://www.w3.org/TR/SVG/animate.html#animation-mod
+","",""
+"Tiny","animate","No","2.0[g 12]","No","?","2.0","Yes","No","Yes","1.0","Yes","No","1.0"
+"Tiny","set","No","2.0[g 12]","Partial","?","2.0","Yes","No","Yes","1.0","Yes","No",""
+"Tiny","animateMotion","No","2.0[g 13]","Partial","?","2.0","No","No","Yes","1.0","Yes","No",""
+"Tiny","animateTransform","No","2.0[g 12]","Partial","?","2.0","No","No","Yes","1.0","Yes","No",""
+"Tiny","animateColor (deprecated)","No","No[g 14]","Partial","?","2.0","Yes","No","Yes","1.0","Yes","No",""
+"Tiny","mpath","No","2.0[g 13]","522","?","2.0","?","No","?","2.0","Yes","No",""
+"Font Module , URL: http://www.w3.org/TR/SVG/fonts.html#font-mod
+","Font Module , URL: http://www.w3.org/TR/SVG/fonts.html#font-mod
+","Font Module , URL: http://www.w3.org/TR/SVG/fonts.html#font-mod
+","Font Module , URL: http://www.w3.org/TR/SVG/fonts.html#font-mod
+","Font Module , URL: http://www.w3.org/TR/SVG/fonts.html#font-mod
+","Font Module , URL: http://www.w3.org/TR/SVG/fonts.html#font-mod
+","Font Module , URL: http://www.w3.org/TR/SVG/fonts.html#font-mod
+","Font Module , URL: http://www.w3.org/TR/SVG/fonts.html#font-mod
+","Font Module , URL: http://www.w3.org/TR/SVG/fonts.html#font-mod
+","Font Module , URL: http://www.w3.org/TR/SVG/fonts.html#font-mod
+","Font Module , URL: http://www.w3.org/TR/SVG/fonts.html#font-mod
+","Font Module , URL: http://www.w3.org/TR/SVG/fonts.html#font-mod
+","",""
+"Tiny","font","No","No[g 15]","Yes","?","2.0","?","?","?","2.0","Yes","1.0","1.0"
+"Tiny","font-face","No","No[g 15]","Yes","?","1.0","?","?","?","2.0","Yes","Dropped[note 5]","1.0"
+"Tiny","glyph","No","No[g 15]","Yes","?","1.0","","","","2.0","Yes","","1.0"
+"Tiny","missing-glyph","No","No[g 15]","Yes","?","1.0","","","","2.0","Yes","","1.0"
+"Full","hkern","No","No[g 15]","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","?","?","?","2.0","Yes","No","1.0"
+"Full","vkern","No","No[g 15]","Nightly build , URL: /wiki/Neutral_build
+","?","2.0","?","?","?","2.0","Yes","No","1.0"
+"Full","font-face-src","No","No[g 15]","Yes","?","No","?","?","?","No","Yes","No","1.0"
+"Full","font-face-uri","No","No[g 15]","Yes","?","2.0","?","?","?","No","Yes","No","1.0"
+"Full","font-face-format","No","No[g 15]","Yes","?","No","?","?","?","No","No","No","1.0"
+"Full","font-face-name","No","No[g 15]","Yes","?","No","","","","No","","No","1.0"
+"Extensibility Module , URL: http://www.w3.org/TR/SVG/extend.html#extensibility-mod
+","Extensibility Module , URL: http://www.w3.org/TR/SVG/extend.html#extensibility-mod
+","Extensibility Module , URL: http://www.w3.org/TR/SVG/extend.html#extensibility-mod
+","Extensibility Module , URL: http://www.w3.org/TR/SVG/extend.html#extensibility-mod
+","Extensibility Module , URL: http://www.w3.org/TR/SVG/extend.html#extensibility-mod
+","Extensibility Module , URL: http://www.w3.org/TR/SVG/extend.html#extensibility-mod
+","Extensibility Module , URL: http://www.w3.org/TR/SVG/extend.html#extensibility-mod
+","Extensibility Module , URL: http://www.w3.org/TR/SVG/extend.html#extensibility-mod
+","Extensibility Module , URL: http://www.w3.org/TR/SVG/extend.html#extensibility-mod
+","Extensibility Module , URL: http://www.w3.org/TR/SVG/extend.html#extensibility-mod
+","Extensibility Module , URL: http://www.w3.org/TR/SVG/extend.html#extensibility-mod
+","Extensibility Module , URL: http://www.w3.org/TR/SVG/extend.html#extensibility-mod
+","",""
+"Full","foreignObject","No","1.9","522","?","2.0","?","No","7.2","No","No","No","No"
+"Profile , URL: /wiki/Scalable_Vector_Graphics#Mobile_profiles
+","Element , URL: /wiki/XML#Key_terminology
+","MSHTML","Gecko","WebKit","Blink","Presto","KSVG","Prince XML","Amaya","Adobe SVG Viewer","Batik","Renesis","LeonLabs"

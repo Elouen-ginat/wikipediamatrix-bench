@@ -1,0 +1,74 @@
+"Format","Languages"
+"IF string1<string2 THEN -1 ELSE ABS (string1>string2) FI","ALGOL 68 , URL: /wiki/ALGOL_68
+"
+"cmp(string1, string2)","Python 2 , URL: /wiki/Python_2
+"
+"(string1 > string2) - (string1 < string2)","Python , URL: /wiki/Python_(programming_language)
+"
+"strcmp(string1, string2)","C , URL: /wiki/C_(programming_language)
+PHP , URL: /wiki/PHP
+"
+"std.string.cmp(string1, string2)","D , URL: /wiki/D_(programming_language)
+"
+"StrComp(string1, string2)","VB , URL: /wiki/Visual_Basic_(classic)
+Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
+"
+"string1 cmp string2","Perl , URL: /wiki/Perl
+Raku , URL: /wiki/Raku_(programming_language)
+"
+"string1 compare: string2","Smalltalk , URL: /wiki/Smalltalk
+Squeak , URL: /wiki/Squeak
+Pharo , URL: /wiki/Pharo
+"
+"string1 <=> string2","Ruby , URL: /wiki/Ruby_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+C++20 , URL: /wiki/C%2B%2B20
+"
+"string1.compare(string2)","C++ , URL: /wiki/C%2B%2B
+Swift , URL: /wiki/Swift_(programming_language)
+"
+"compare(string1, string2)","Rexx , URL: /wiki/Rexx
+Seed7 , URL: /wiki/Seed7
+"
+"CompareStr(string1, string2)","Pascal , URL: /wiki/Pascal_(programming_language)
+Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
+"
+"string1.compareTo(string2)","Cobra , URL: /wiki/Cobra_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+"
+"string1.CompareTo(string2)","VB .NET , URL: /wiki/Visual_Basic_.Net
+C# , URL: /wiki/C_Sharp_(programming_language)
+F# , URL: /wiki/F_Sharp_(programming_language)
+"
+"(compare string1 string2)","Clojure , URL: /wiki/Clojure
+"
+"(string= string1 string2)","Common Lisp , URL: /wiki/Common_Lisp
+"
+"(string-compare string1 string2 p< p= p>)","Scheme , URL: /wiki/Scheme_(programming_language)
+"
+"(string= string1 string2)","ISLISP , URL: /wiki/ISLISP
+"
+"compare string1 string2","OCaml , URL: /wiki/OCaml
+"
+"String.compare (string1, string2)","Standard ML , URL: /wiki/Standard_ML
+"
+"compare string1 string2","Haskell , URL: /wiki/Haskell_(programming_language)
+"
+"[string]::Compare(string1, string2)","Windows PowerShell , URL: /wiki/Windows_PowerShell
+"
+"[string1 compare:string2]","Objective-C , URL: /wiki/Objective-C
+"
+"LLT(string1,string2) LLE(string1,string2) LGT(string1,string2) LGE(string1,string2)","Fortran , URL: /wiki/Fortran
+"
+"string1.localeCompare(string2)","JavaScript , URL: /wiki/JavaScript
+"
+"bytes.Compare([]byte(string1), []byte(string2))","Go , URL: /wiki/Go_(programming_language)
+"
+"string compare ?-nocase? ?-length int? string1 string2","Tcl , URL: /wiki/Tcl
+"
+"compare(string1,string2,count)","PL/I , URL: /wiki/PL/I
+"
+"string1.cmp(string2)","Rust , URL: /wiki/Rust_(programming_language)
+"

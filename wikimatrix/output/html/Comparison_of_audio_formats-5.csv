@@ -1,0 +1,104 @@
+"Audio compression format , URL: /wiki/Audio_compression_format
+","Algorithm , URL: /wiki/Algorithm
+","Sample rate , URL: /wiki/Sampling_frequency
+","Bit rate , URL: /wiki/Bit_rate
+","Bits per sample","Latency , URL: /wiki/Latency_(audio)
+","CBR , URL: /wiki/Constant_bit_rate
+","VBR , URL: /wiki/Variable_bit_rate
+","Stereo , URL: /wiki/Stereophonic_sound
+","Multichannel"
+"G.711 , URL: /wiki/G.711
+","companding , URL: /wiki/Companding
+A-law , URL: /wiki/A-law
+μ-law , URL: /wiki/%CE%9C-law
+PCM , URL: /wiki/Pulse-code_modulation
+","8 kHz","64 kbit/s","log , URL: /wiki/Logarithmic_scale
+","125 µs (typical)","Yes","No","No","No"
+"G.711.0 , URL: /wiki/G.711#G.711.0
+","Lossless compression , URL: /wiki/Lossless_compression
+G.711 , URL: /wiki/G.711
+","8 kHz","0.2–65.6 kbit/s","log , URL: /wiki/Logarithmic_scale
+","5–40 ms","No","Yes","No","No"
+"G.711.1 , URL: /wiki/G.711#G.711.1
+","MDCT , URL: /wiki/Modified_discrete_cosine_transform
+A-law , URL: /wiki/A-law
+μ-law , URL: /wiki/%CE%9C-law
+","8, 16 kHz","64, 80, 96 kbit/s","16 bit","11.875 ms","Yes","Yes","No","No"
+"G.718 , URL: /wiki/G.718
+","CELP , URL: /wiki/CELP
+MDCT , URL: /wiki/Modified_discrete_cosine_transform
+Lossy , URL: /wiki/Lossy_encoding
+","8, 16 kHz","8, 12, 12.65, 16, 24, 32 kbit/s","16 bit","42.875–43.875 ms","Yes","Yes","No","No"
+"G.718 , URL: /wiki/G.718
+","CELP , URL: /wiki/CELP
+MDCT , URL: /wiki/Modified_discrete_cosine_transform
+Lossy , URL: /wiki/Lossy_encoding
+","32 kHz","36, 40, 48 kbit/s","16 bit","49.625 ms","Yes","Yes","No","No"
+"G.719 , URL: /wiki/G.719
+","MDCT , URL: /wiki/MDCT
+Lossy , URL: /wiki/Lossy_encoding
+Siren Codec , URL: /wiki/Siren_Codec
+","48 kHz","32–88 kbit/s in 4 kbit/s steps, 88–128 kbit/s in 8 kbit/s steps","16 bit","40 ms","Yes","No","MPEG-4 Part 12 , URL: /wiki/MPEG-4_Part_12
+container , URL: /wiki/Container_format_(digital)
+","MPEG-4 Part 12 , URL: /wiki/MPEG-4_Part_12
+container , URL: /wiki/Container_format_(digital)
+"
+"G.721 , URL: /wiki/G.721
+","ADPCM , URL: /wiki/ADPCM
+Lossy , URL: /wiki/Lossy_encoding
+","8 kHz","32 kbit/s","13 bit","","Yes","No","No","No"
+"G.722 , URL: /wiki/G.722
+","sub-band , URL: /wiki/Sub-band_coding
+ADPCM , URL: /wiki/ADPCM
+Lossy , URL: /wiki/Lossy_encoding
+","16 kHz","64 kbit/s (comprises 48, 56 or 64 kbit/s audio and 16, 8 or 0 kbit/s auxiliary data)","14 bit","4 ms","Yes","No","No","No"
+"G.722.1 , URL: /wiki/G.722.1
+","Modulated Lapped Transform , URL: /wiki/Modulated_Lapped_Transform
+Lossy , URL: /wiki/Lossy_encoding
+Siren Codec , URL: /wiki/Siren_Codec
+","16 kHz","24, 32 kbit/s","16 bit","40 ms","Yes","No","No","No"
+"G.722.1 , URL: /wiki/G.722.1
+","Modulated Lapped Transform , URL: /wiki/Modulated_Lapped_Transform
+Lossy , URL: /wiki/Lossy_encoding
+Siren Codec , URL: /wiki/Siren_Codec
+","32 kHz","24, 32, 48 kbit/s","16 bit","40 ms","Yes","No","No","No"
+"G.722.2 , URL: /wiki/G.722.2
+","ACELP , URL: /wiki/ACELP
+Lossy , URL: /wiki/Lossy_encoding
+","16 kHz","6.60, 8.85, 12.65, 14.25, 15.85, 18.25, 19.85, 23.05, 23.85 kbit/s","14 bit","25 ms","Yes","Yes","MPEG-4 Part 12 , URL: /wiki/MPEG-4_Part_12
+container , URL: /wiki/Container_format_(digital)
+","No"
+"G.723 , URL: /wiki/G.723
+","ADPCM , URL: /wiki/ADPCM
+Lossy , URL: /wiki/Lossy_encoding
+","8 kHz","24, 40 kbit/s","13 bit","","Yes","No","No","No"
+"G.723.1 , URL: /wiki/G.723.1
+","ACELP , URL: /wiki/ACELP
+Lossy , URL: /wiki/Lossy_encoding
+","8 kHz","5.3, 6.3 kbit/s","13 bit","37.5 ms","Yes","No","No","No"
+"G.726 , URL: /wiki/G.726
+","ADPCM , URL: /wiki/ADPCM
+Lossy , URL: /wiki/Lossy_encoding
+","8 kHz","16, 24, 32, 40 kbit/s","13 bit","125 µs","Yes","No","No","No"
+"G.727 , URL: /wiki/G.727
+","ADPCM , URL: /wiki/ADPCM
+Lossy , URL: /wiki/Lossy_encoding
+","8 kHz","16, 24, 32, 40 kbit/s","13 bit","","Yes","Yes","No","No"
+"G.728 , URL: /wiki/G.728
+","CELP , URL: /wiki/CELP
+Lossy , URL: /wiki/Lossy_encoding
+","8 kHz","16 kbit/s","13 bit","0.625 ms","Yes","No","No","No"
+"G.729 , URL: /wiki/G.729
+","Lossy , URL: /wiki/Lossy_encoding
+","8 kHz","8 kbit/s","13 bit","15 ms","Yes","No","No","No"
+"G.729 , URL: /wiki/G.729
+","Lossy , URL: /wiki/Lossy_encoding
+","8 kHz","6.4 kbit/s","13 bit","","Yes","No","No","No"
+"G.729 , URL: /wiki/G.729
+","Lossy , URL: /wiki/Lossy_encoding
+","8 kHz","11.8 kbit/s","13 bit","15 ms","Yes","No","No","No"
+"G.729.1 , URL: /wiki/G.729.1
+","CELP , URL: /wiki/CELP
+MDCT , URL: /wiki/MDCT
+Lossy , URL: /wiki/Lossy_encoding
+","8, 16 kHz","8 kbit/s, 12–32 kbit/s in 2 kbit/s steps","16 bit","48.9375 ms","Yes","Yes","No","No"

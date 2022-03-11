@@ -1,0 +1,79 @@
+"codename , URL: /wiki/Codename
+","Release Date","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/Floating-point_operations_per_second
+","GFLOPS , URL: /wiki/Floating-point_operations_per_second
+","GFLOPS , URL: /wiki/Floating-point_operations_per_second
+","Cache , URL: /wiki/Cache_(computing)
+","Cache , URL: /wiki/Cache_(computing)
+","Memory","Memory","Memory","Memory","TDP , URL: /wiki/Thermal_design_power
+","Bus interface"
+"codename , URL: /wiki/Codename
+","Release Date","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Config[f]","MHz , URL: /wiki/Hertz
+","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","Half , URL: /wiki/Half-precision_floating-point_format
+","Single , URL: /wiki/Single_precision_floating-point_format
+","Double , URL: /wiki/Double_precision_floating-point_format
+","Size","Bandwidth (GB/s)","Size","Bandwidth (GB/s)","Bus type & width","MT/s , URL: /wiki/Transfer_(computing)
+","TDP , URL: /wiki/Thermal_design_power
+","Bus interface"
+"Radeon RX 6300M (Navi 24)[223]","January 4, 2022","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N6 , URL: /wiki/7_nanometer
+","5.4×109 107 mm2","768:64:32:12 12 CU","1512","97.9","?","6,270","3,130","? ?","8 MB","208","2 GB","107.8","GDDR6 32-bit","18000","25 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6500M (Navi 24)[224]","January 4, 2022","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N6 , URL: /wiki/7_nanometer
+","5.4×109 107 mm2","1024:64:32:16 16 CU","2191","155.7","?","9,970","4,980","? ?","16 MB","416","4 GB","128","GDDR6 64-bit","16000","50 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6600S (Navi 23)[225]","January 4, 2022","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","11.06×109 237 mm2","1792:128:64:28 28 CU","1881","244.2","?","15,630","7,810","? ?","32 MB","832","4 GB","224","GDDR6 128-bit","14000","80 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6700S (Navi 23)[226]","January 4, 2022","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","11.06×109 237 mm2","1792:128:64:28 28 CU","1890","247.5","?","15,840","7,920","? ?","32 MB","832","8 GB","224","GDDR6 128-bit","14000","100 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6600M (Navi 23)[227]","June 1, 2021","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","11.06×109 237 mm2","1792:128:64:28 28 CU","2177","279","139.3","17,550","7,800","? ?","32 MB","832","8 GB","224","GDDR6 128-bit","14000","100 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6650M (Navi 23)[228]","January 4, 2022","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","11.06×109 237 mm2","1792:128:64:28 28 CU","2222","276.64","139.3","17,700","8,850","? ?","32 MB","832","8 GB","256","GDDR6 128-bit","16000","120 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6800S (Navi 23)[229]","January 4, 2022","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","11.06×109 237 mm2","2048:128:64:32 32 CU","1975","288","134.4","18,430","9,220","? ?","32 MB","832","8 GB","256","GDDR6 128-bit","16000","100 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6650M XT (Navi 23)[230]","January 4, 2022","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","11.06×109 237 mm2","2048:128:64:32 32 CU","2162","311.15","139.3","19,940","9,970","? ?","32 MB","832","8 GB","256","GDDR6 128-bit","16000","120 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6700M (Navi 22)[231]","June 1, 2021","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","17.2×109 335 mm2","2304:144:64:32 36 CU","2300","331.4","147.2","21,209","10,605","? ?","80 MB","1248","10 GB","320","GDDR6 160-bit","16000","135 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6800M (Navi 22)[232]","June 1, 2021","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","17.2×109 335 mm2","2560:160:64:40 40 CU","2300","413","147.2","23,550","11,780","? ?","96 MB","1248","12 GB","384","GDDR6 192-bit","16000","145+ W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6850M XT (Navi 22)[233]","January 4, 2022","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","17.2×109 335 mm2","2560:160:64:40 40 CU","2463","415.6","157.6","26,430","13,210","? ?","96 MB","1248","12 GB","432","GDDR6 192-bit","18000","165 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"

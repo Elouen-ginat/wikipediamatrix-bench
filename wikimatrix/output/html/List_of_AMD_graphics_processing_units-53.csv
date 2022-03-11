@@ -1,0 +1,50 @@
+"Codename , URL: /wiki/Codename
+","Launch","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/GFLOPS
+","Memory","Memory","Memory","Memory","TDP , URL: /wiki/Thermal_design_power
+"
+"Codename , URL: /wiki/Codename
+","Launch","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Config[e]","MHz , URL: /wiki/Hertz
+","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","GFLOPS , URL: /wiki/GFLOPS
+","Bus type & width","GiB , URL: /wiki/Gibibyte
+","MHz , URL: /wiki/Hertz
+","GB , URL: /wiki/Gigabyte
+","TDP , URL: /wiki/Thermal_design_power
+"
+"Radeon 520[195] (Banks)","18 April 2017","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","320:20:8","1030","20.6","8.2","659","DDR3 64-bit","2","1000","16.0","<50 W"
+"Radeon 520[195] (Banks)","18 April 2017","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","320:20:8","1030","20.6","8.2","659","GDDR5 64-bit","2","1125","36","<50 W"
+"Radeon 530[196] (Weston)","18 April 2017","GCN 3rd gen , URL: /wiki/Graphics_Core_Next#third
+","384:24:8","730 1024","24.6","8.2","786","DDR3 64-bit","2","900","14.4","<50 W"
+"Radeon 530X[197] Radeon 535[198] (Polaris 24 XT)","18 April 2017","GCN 3rd gen , URL: /wiki/Graphics_Core_Next#third
+","384:24:8","730 1024","24.6","8.2","786","GDDR5 64-bit","2","1125","36","<50 W"
+"Radeon RX 540[199] (Lexa Pro)","11 November 2017","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","512:32:16","1124 1219","39","19.5","1248","GDDR5 128-bit","2","1500","96","<50 W"
+"Radeon 540X[200] (Polaris 23 XL)","11 April 2018","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","512:32:16","1124 1219","39","19.5","1248","GDDR5 128-bit","2","1500","96","<50 W"
+"Radeon RX 550[201] (Lexa Pro)","2 July 2017","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","640:40:16","1100 1287","51.5","20.6","1647","GDDR5 128-bit","2","1500","96","<50 W"
+"Radeon 550X[202] (Polaris 23 XT)","11 April 2018","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","640:40:16","1100 1287","51.5","20.6","1647","GDDR5 128-bit","2","1500","96","<50 W"
+"Radeon RX 560[203][204] (Baffin XT)","5 January 2017","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","896:56:16","784 1032","57.8","16.5","1849","GDDR5 128-bit","4","1710","109.4","55 W"
+"Radeon RX 560[203][204] (Baffin XT)","5 January 2017","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","896:56:16","1000 1053","59","16.9","1887","GDDR5 128-bit","4","1500","96","55 W"
+"Radeon RX 560[203][204] (Baffin XT)","5 January 2017","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","1024:64:16","1090 1202","77","19.2","2462","GDDR5 128-bit","4","1500","96","65 W"
+"Radeon RX 560X[205] (Polaris 31 XL)","9 January 2019","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","896:56:16","1223","68.5","19.6","2192","GDDR5 128-bit","4","1750","112","65 W"
+"Radeon RX 570[206] (Ellesmere Pro)","10 December 2017","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","2048:128:32","926 1206","154.4","38.6","4940","GDDR5 256-bit","8","1650","211","85 W"
+"Radeon RX 580[207] (Polaris 20 XT)","18 April 2017","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","2304:144:32","1000 1077","155.1","34.5","4963","GDDR5 256-bit","8","2000","256","100 W"
+"Radeon RX 580X[208] (Polaris 20 XT)","11 April 2018","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","2304:144:32","1000 1077","155.1","34.5","4963","GDDR5 256-bit","8","2000","256","100 W"

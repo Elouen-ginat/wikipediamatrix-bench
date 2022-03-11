@@ -1,0 +1,35 @@
+"Model","Launch","Micro-archi-tecture","Code name","Fab (nm)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Clock rate","Clock rate","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","TDP (Watts)","Notes"
+"Model","Launch","Micro-archi-tecture","Code name","Fab (nm)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core (MHz)","Memory (MHz)","Core config1","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","GiB , URL: /wiki/Gibibyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Double precision , URL: /wiki/Double_precision_floating-point_format
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","OpenCL , URL: /wiki/OpenCL
+","Vulkan , URL: /wiki/Vulkan_(API)
+","TDP (Watts)","Notes"
+"FirePro W600[278]","June 13, 2012","GCN 1st Gen.","Cape Verde Pro GL","28","PCIe 3.0 x16","750","1000","512:32:16:8","12.0","24.0","2","64","GDDR5 , URL: /wiki/GDDR5
+","128","768","Up to 55","11.1/12","4.5","1.2","1.0","75","Six Mini DisplayPort"
+"FirePro W5000[279]","June 13, 2012","GCN 1st Gen.","Pitcairn LE GL","28","PCIe 3.0 x16","825","800","768:48:32:12","26.4","39.6","2","102.4","GDDR5 , URL: /wiki/GDDR5
+","256","1267.2","79.2","11.1/12","4.5","1.2","1.0","<75","Two DisplayPort, One DVI-I"
+"FirePro W7000[280]","June 13, 2012","GCN 1st Gen.","Pitcairn XT GL","28","PCIe 3.0 x16","950","1200","1280:80:32:20","30.4","76.0","4","153.6","GDDR5 , URL: /wiki/GDDR5
+","256","2432","152","11.1/12","4.5","1.2","1.0","<150","Four DisplayPort"
+"FirePro W8000[281]","June 14, 2012","GCN 1st Gen.","Tahiti PRO GL","28","PCIe 3.0 x16","900","1375","1792:112:32:28","28.8","100.8","4","176","GDDR5 , URL: /wiki/GDDR5
+","256","3225.6","806.4","11.1/12","4.5","1.2","1.0","<225","ECC RAM, Four DisplayPort + SDI-Link"
+"FirePro W9000[282][283]","June 14, 2012","GCN 1st Gen.","Tahiti XT GL","28","PCIe 3.0 x16","975","1375","2048:128:32:32","31.20","124.8","6","264","GDDR5 , URL: /wiki/GDDR5
+","384","3993.6","998.4","11.1/12","4.5","1.2","1.0","274","ECC RAM, Six mini-DisplayPorts + SDI-Link"

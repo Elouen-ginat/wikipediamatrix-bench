@@ -1,0 +1,186 @@
+"Name","Parsing , URL: /wiki/Parsing
+","Input grammar notation","Output languages , URL: /wiki/Programming_language
+","Grammar, code","Lexer , URL: /wiki/Lexical_analyzer
+","Development platform","IDE , URL: /wiki/Integrated_development_environment
+","License , URL: /wiki/Software_license
+"
+"ACCENT","Earley , URL: /wiki/Earley_parser
+","Yacc , URL: /wiki/Yacc
+","C , URL: /wiki/C_(programming_language)
+","Mixed","external","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"APaGeD","GLR , URL: /wiki/GLR_parser
+LALR , URL: /wiki/LALR_parser
+LL , URL: /wiki/LL_parser
+","?","D , URL: /wiki/D_(programming_language)
+","Mixed","generated","All","No","Artistic , URL: /wiki/Artistic_License
+"
+"Bison , URL: /wiki/GNU_Bison
+","LALR , URL: /wiki/LALR_parser
+LR , URL: /wiki/Canonical_LR_parser
+IELR , URL: /w/index.php?title=IELR_parser&action=edit&redlink=1
+GLR , URL: /wiki/GLR_parser
+","Yacc , URL: /wiki/Yacc
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Java , URL: /wiki/Java_(programming_language)
+XML , URL: /wiki/XML
+","Mixed, except XML","external","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"DMS Software Reengineering Toolkit , URL: /wiki/DMS_Software_Reengineering_Toolkit
+","GLR , URL: /wiki/GLR_parser
+","?","Parlanse , URL: /wiki/Parlanse
+","Mixed","generated","Windows , URL: /wiki/Microsoft_Windows
+","No","Proprietary , URL: /wiki/Proprietary_software
+"
+"DParser","Scannerless GLR , URL: /wiki/Scannerless_parsing
+","?","C , URL: /wiki/C_(programming_language)
+","Mixed","scannerless , URL: /wiki/Scannerless_parsing
+","POSIX , URL: /wiki/POSIX
+","No","BSD , URL: /wiki/BSD_licenses
+"
+"Dypgen","Runtime-extensible , URL: /wiki/Adaptive_grammar
+GLR , URL: /wiki/GLR_parser
+","?","OCaml , URL: /wiki/OCaml
+","Mixed","generated","All","No","CeCILL , URL: /wiki/CeCILL
+"
+"E3","Earley , URL: /wiki/Earley_parser
+","?","OCaml , URL: /wiki/OCaml
+","Mixed","external, or scannerless","All","No","?"
+"Elkhound","GLR , URL: /wiki/GLR_parser
+","?","C++ , URL: /wiki/C%2B%2B
+OCaml , URL: /wiki/OCaml
+","Mixed","external","All","No","BSD , URL: /wiki/BSD_licenses
+"
+"GDK","LALR , URL: /wiki/LALR_parser
+GLR , URL: /wiki/GLR_parser
+","?","C , URL: /wiki/C_(programming_language)
+Lex , URL: /wiki/Lex_(software)
+Haskell , URL: /wiki/Haskell_(programming_language)
+HTML , URL: /wiki/HTML
+Java , URL: /wiki/Java_(programming_language)
+Object Pascal , URL: /wiki/Object_Pascal
+Yacc , URL: /wiki/Yacc
+","Mixed","generated","POSIX , URL: /wiki/POSIX
+","No","MIT , URL: /wiki/MIT_License
+"
+"Happy","LALR , URL: /wiki/LALR_parser
+GLR , URL: /wiki/GLR_parser
+","?","Haskell , URL: /wiki/Haskell_(programming_language)
+","Mixed","external","All","No","BSD , URL: /wiki/BSD_licenses
+"
+"Hime Parser Generator","GLR , URL: /wiki/GLR_parser
+","?","C# , URL: /wiki/C_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+Rust , URL: /wiki/Rust_(programming_language)
+","Separate","generated",".NET Framework , URL: /wiki/.NET_Framework
+Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"IronText Library","LALR , URL: /wiki/LALR_parser
+GLR , URL: /wiki/GLR_parser
+","C# , URL: /wiki/C_Sharp_(programming_language)
+","C# , URL: /wiki/C_Sharp_(programming_language)
+","Mixed","generated or external",".NET Framework , URL: /wiki/.NET_Framework
+","No","Apache , URL: /wiki/Apache_License
+"
+"Jison","LALR , URL: /wiki/LALR_parser
+LR , URL: /wiki/LR_parser
+SLR , URL: /wiki/SLR_parser
+","Yacc , URL: /wiki/Yacc
+","JavaScript , URL: /wiki/JavaScript
+C# , URL: /wiki/C_Sharp_(programming_language)
+PHP , URL: /wiki/PHP
+","Mixed","generated","All","No","MIT , URL: /wiki/MIT_License
+"
+"Syntax","LALR , URL: /wiki/LALR_parser
+LR , URL: /wiki/LR_parser
+SLR , URL: /wiki/SLR_parser
+CLR , URL: /wiki/Canonical_LR_parser
+LL , URL: /wiki/LL_parser
+","JSON , URL: /wiki/JSON
+Yacc , URL: /wiki/Yacc
+","JavaScript , URL: /wiki/JavaScript
+Python , URL: /wiki/Python_(programming_language)
+PHP , URL: /wiki/PHP
+Ruby , URL: /wiki/Ruby_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+Rust , URL: /wiki/Rust_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+","Mixed","generated","All","No","MIT , URL: /wiki/MIT_License
+"
+"Laja","Scannerless, two phase","Laja","Java , URL: /wiki/Java_(programming_language)
+","Separate","scannerless , URL: /wiki/Scannerless_parsing
+","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"ModelCC","Earley , URL: /wiki/Earley_parser
+","Annotated class model","Java , URL: /wiki/Java_(programming_language)
+","Generated","generated","All","No","BSD , URL: /wiki/BSD_licenses
+"
+"P3","Earley–combinators","BNF-like","OCaml , URL: /wiki/OCaml
+","Mixed","external, or scannerless","All","No","?"
+"P4","Earley–combinators, infinitary CFGs","BNF-like","OCaml , URL: /wiki/OCaml
+","Mixed","external, or scannerless","All","No","?"
+"Scannerless Boolean Parser , URL: /wiki/Scannerless_Boolean_Parser
+","Scannerless GLR , URL: /wiki/Scannerless_parsing
+Boolean grammars , URL: /wiki/Boolean_grammar
+","?","Haskell , URL: /wiki/Haskell_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+","Separate","scannerless , URL: /wiki/Scannerless_parsing
+","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","BSD , URL: /wiki/BSD_licenses
+"
+"SDF , URL: /wiki/Syntax_Definition_Formalism
+","Scannerless GLR , URL: /wiki/Scannerless_parsing
+","SDF , URL: /wiki/Syntax_Definition_Formalism
+","C , URL: /wiki/C_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+","Separate","scannerless , URL: /wiki/Scannerless_parsing
+","All","Yes","BSD , URL: /wiki/BSD_licenses
+"
+"SmaCC","GLR , URL: /wiki/GLR_parser
+LALR , URL: /wiki/LALR_parser
+LR , URL: /wiki/Canonical_LR_parser
+","?","Smalltalk , URL: /wiki/Smalltalk
+","Mixed","internal","All","Yes","MIT , URL: /wiki/MIT_License
+"
+"SPARK","Earley , URL: /wiki/Earley_parser
+","?","Python , URL: /wiki/Python_(programming_language)
+","Mixed","external","All","No","MIT , URL: /wiki/MIT_License
+"
+"Tom","GLR , URL: /wiki/GLR_parser
+","?","C , URL: /wiki/C_(programming_language)
+","Generated","none","All","No","Free, "No licensing or copyright restrictions""
+"UltraGram","LALR , URL: /wiki/LALR_parser
+LR , URL: /wiki/LR_parser
+GLR , URL: /wiki/GLR_parser
+","?","C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+Visual Basic .NET , URL: /wiki/Visual_Basic_.NET
+","Separate","generated","Windows , URL: /wiki/Microsoft_Windows
+","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"Wormhole","Pruning , URL: /wiki/Pruning_(algorithm)
+LR , URL: /wiki/LR_parser
+GLR , URL: /wiki/GLR_parser
+Scannerless GLR , URL: /wiki/Scannerless_parsing
+","?","C , URL: /wiki/C_(programming_language)
+Python , URL: /wiki/Python_(programming_language)
+","Mixed","scannerless , URL: /wiki/Scannerless_parsing
+","Windows , URL: /wiki/Microsoft_Windows
+","No","MIT , URL: /wiki/MIT_License
+"
+"Whale Calf","SLL , URL: /wiki/LL_parser
+conjunctive grammars , URL: /wiki/Conjunctive_grammar
+LR , URL: /wiki/LR_parser
+Boolean grammars , URL: /wiki/Boolean_grammar
+","?","C++ , URL: /wiki/C%2B%2B
+","Separate","external","All","No","Proprietary , URL: /wiki/Proprietary_software
+"
+"yaep","Earley , URL: /wiki/Earley_parser
+","Yacc , URL: /wiki/Yacc
+","C , URL: /wiki/C_(programming_language)
+","Mixed","external","All","No","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"

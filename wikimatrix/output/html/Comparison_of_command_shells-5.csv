@@ -1,0 +1,53 @@
+"Shell","Pipes , URL: /wiki/Pipeline_(software)
+","Command substitution , URL: /wiki/Command_substitution
+","Process substitution , URL: /wiki/Process_substitution
+","Subshells","TCP , URL: /wiki/Transmission_Control_Protocol
+UDP , URL: /wiki/User_Datagram_Protocol
+","Keystroke stacking , URL: #Keystroke_stacking
+"
+"Bourne shell , URL: /wiki/Bourne_shell
+","bytes concurrent","Yes","No","Yes","No","N/A[nb 19]"
+"POSIX , URL: /wiki/POSIX
+","bytes concurrent","Yes","No","Yes","No","N/A[nb 19]"
+"bash , URL: /wiki/Bash_(Unix_shell)
+","bytes concurrent","Yes","Yes (if system supports /dev/fd/⟨n⟩ or named pipes)","Yes","Yes (client only)","N/A[nb 19]"
+"csh , URL: /wiki/C_shell
+","bytes concurrent","Yes","No","Yes","No","N/A[nb 19]"
+"tcsh , URL: /wiki/Tcsh
+","bytes concurrent","Yes","No","Yes","No","N/A[nb 19]"
+"Hamilton C shell , URL: /wiki/Hamilton_C_shell
+","bytes concurrent","Yes","No","Yes","No","?"
+"Scsh , URL: /wiki/Scsh
+","text","?","?","?","Yes","N/A[nb 19]"
+"ksh , URL: /wiki/Korn_Shell
+","bytes (may contain serialized objects if print -C is used) concurrent","Yes ( $(...) and ${<space>...;})","Yes (if system supports /dev/fd/⟨n⟩)","Yes","Yes (and SCTP support, client only)","N/A[nb 19]"
+"pdksh , URL: /wiki/Pdksh
+","bytes concurrent","Yes","No","Yes","No","N/A[nb 19]"
+"zsh , URL: /wiki/Zsh
+","bytes concurrent","Yes","Yes","Yes","Yes (client and server, but only TCP)","N/A[nb 19]"
+"ash , URL: /wiki/Almquist_shell
+","bytes concurrent","Yes","No","Yes","No","N/A[nb 19]"
+"CCP , URL: /wiki/CCP_(CP/M)
+","No","No","No","No","No","No"
+"COMMAND.COM , URL: /wiki/COMMAND.COM
+","text sequential temporary files","No","No","Partial (only under DR-DOS multitasker via COMMAND.COM /T)","No","No"
+"CMD.EXE , URL: /wiki/CMD.EXE
+","text concurrent","No","No","?","No","No"
+"CMD.EXE , URL: /wiki/CMD.EXE
+","text concurrent","Yes (via FOR /F command)","No","Yes (Backtick: ` in FOR /F usebackq)","No","No"
+"4DOS , URL: /wiki/4DOS
+","text sequential temporary files","Yes (via FOR /F command)","?","Partial (via %@EXECSTR[] and %@EXEC[], or via SET /M, ESET /M and UNSET /M and %@MASTER[...])","No","Yes (via KEYSTACK and KSTACK)[61]"
+"4OS2 , URL: /wiki/4OS2
+","text concurrent","?","?","?","No","Yes (via KEYSTACK)"
+"TCC , URL: /wiki/Take_Command_Console
+","text concurrent","Yes (via FOR /F command)","?","Partial (via %@EXECSTR[] and %@EXEC[])","Yes (via FTP, TFTP, FTPS, SFTP, HTTP, HTTPS and IFTP, client only)","Yes (via KEYSTACK)"
+"PowerShell , URL: /wiki/Windows_PowerShell
+","objects concurrent","Yes","No","Yes","Yes","?"
+"rc , URL: /wiki/Rc
+","text concurrent","Yes","Yes (via: <{cmd} if system supports /dev/fd/⟨n⟩)","Yes","No","?"
+"BeanShell , URL: /wiki/BeanShell
+","not supported","?","?","?","Yes","?"
+"VMS DCL , URL: /wiki/DIGITAL_Command_Language
+","text (via PIPE command)","Yes","No","Yes (spawn)","Yes (server TCP only)","No"
+"fish , URL: /wiki/Friendly_interactive_shell
+","bytes concurrent","Yes ( ...)","No (broken)[62]","No","No","N/A[nb 19]"

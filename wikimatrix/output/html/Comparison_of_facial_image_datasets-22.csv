@@ -1,0 +1,11 @@
+"Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
+"Volcanoes of the World","Volcanic eruption data for all known volcanic events on earth.","Details such as region, subregion, tectonic setting, dominant rock type are given.","1535","Text","Regression, classification","2013","[366]","E. Venzke et al."
+"Seismic-bumps Dataset","Seismic activities from a coal mine.","Seismic activity was classified as hazardous or not.","2584","Text","Classification","2013","[367][368]","M. Sikora et al."
+"CAMELS , URL: /w/index.php?title=CAMELS&action=edit&redlink=1
+","Catchment hydrology dataset with hydrometeorological timeseries and various attributes","see Reference","671","CSV, Text, Shapefile","Regression","2017","[369][370]","N. Addor et al. / A. Newman et al."
+"CAMELS-Chile","Catchment hydrology dataset with hydrometeorological timeseries and various attributes","see Reference","516","CSV, Text, Shapefile","Regression","2018","[371]","C. Alvarez-Garreton et al."
+"CAMELS-Brazil","Catchment hydrology dataset with hydrometeorological timeseries and various attributes","see Reference","897","CSV, Text, Shapefile","Regression","2020","[372]","V. Chagas et al."
+"CAMELS-GB","Catchment hydrology dataset with hydrometeorological timeseries and various attributes","see Reference","671","CSV, Text, Shapefile","Regression","2020","[373]","G. Coxon et al."
+"CAMELS-Australia","Catchment hydrology dataset with hydrometeorological timeseries and various attributes","see Reference","222","CSV, Text, Shapefile","Regression","2021","[374]","K. Fowler et al."
+"LamaH , URL: /wiki/LamaH
+","Catchment hydrology dataset with hydrometeorological timeseries and various attributes","see Reference","859","CSV, Text, Shapefile","Regression","2021","[375]","C. Klingler et al."

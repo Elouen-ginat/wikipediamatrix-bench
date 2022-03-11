@@ -1,0 +1,48 @@
+"","MySQL , URL: /wiki/MySQL
+","PostgreSQL , URL: /wiki/PostgreSQL
+","MSSQL , URL: /wiki/Microsoft_SQL_Server
+","Oracle , URL: /wiki/Oracle_database
+","SQLite , URL: /wiki/SQLite
+","Firebird , URL: /wiki/Firebird_(database_server)
+","Flat file , URL: /wiki/Flat_file_database
+"
+"bbPress , URL: /wiki/BbPress
+","Yes","No","No","No","No","No","No"
+"Beehive Forum , URL: /wiki/Beehive_Forum
+","Yes","No","No","No","No","No","No"
+"Discourse , URL: /wiki/Discourse_(software)
+","No","Yes","No","No","No","No","No"
+"Discuz! , URL: /wiki/Discuz!
+","Yes","Yes","No","No","No","No","No"
+"FluxBB , URL: /wiki/FluxBB
+","Yes","Yes","No","No","SQLite 2[86]","No","No"
+"FUDforum , URL: /wiki/FUDforum
+","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"IkoBB , URL: /wiki/IkoBB
+","Yes","No","No","No","No","No","No"
+"Ikonboard , URL: /wiki/Ikonboard
+","Yes","Yes","No","Yes","No","No","Yes"
+"Invision Power Board , URL: /wiki/Invision_Power_Board
+","Yes","No","Discontinued [87]","No","No","No","No"
+"kusaba , URL: /wiki/Kusaba
+","Yes","No","No","No","No","No","No"
+"MyBB , URL: /wiki/MyBB
+","Yes","Yes","No","No","Yes","No","No"
+"Phorum , URL: /wiki/Phorum
+","Yes","No","No","No","No","No","No"
+"phpBB , URL: /wiki/PhpBB
+","Yes","v8.2 or newer[88][89]","Yes","Yes","Yes","Discontinued","No"
+"PunBB , URL: /wiki/PunBB
+","Yes","Yes","No","No","Yes","No","No"
+"Simple Machines Forum , URL: /wiki/Simple_Machines_Forum
+","Yes","Yes","No","No","Yes","No","No"
+"Syndie , URL: /wiki/Syndie
+","HSQLDB , URL: /wiki/HSQLDB
+","No","No","No","No","No","No"
+"Thredded[20]","Yes","Yes","No","No","Yes","No","No"
+"Vanilla Forums , URL: /wiki/Vanilla_Forums
+","Yes","No","No","No","No","No","No"
+"vBulletin , URL: /wiki/VBulletin
+","Yes","No","No","No","No","No","No"
+"XenForo , URL: /wiki/XenForo
+","Yes","No","No","No","No","No","No"

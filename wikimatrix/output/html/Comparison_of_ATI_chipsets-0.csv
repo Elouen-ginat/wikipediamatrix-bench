@@ -1,0 +1,44 @@
+"Codename","Model","Year","Processors Supported","Fabrication process , URL: /wiki/Semiconductor_device_fabrication
+nm , URL: /wiki/Nanometre
+","FSB , URL: /wiki/Front-side_bus
+HT , URL: /wiki/HyperTransport
+","Crossfire , URL: /wiki/AMD_CrossFire
+","Features","Southbridge , URL: /wiki/Southbridge_(computing)
+","NB-SB Interface","Notes"
+"ATI A3","IGP 320","2002","Athlon , URL: /wiki/Athlon
+Duron , URL: /wiki/Duron
+","180","266/200 (FSB)","No","Radeon VE IGP (Radeon 7000) , URL: /wiki/Radeon_R100#RV100
+","ATI IXP200/IXP250 , URL: /wiki/Comparison_of_ATI_chipsets#Comparison_of_Southbridges
+VIA VT82C686B , URL: /wiki/List_of_VIA_chipsets#Southbridge_chips
+ALI M1535D+ , URL: /wiki/Acer_Laboratories_Incorporated#Chipsets
+","PCI , URL: /wiki/Conventional_PCI
+","HydraVision , URL: /wiki/AMD_Catalyst#HydraVision
+Video Immersion , URL: /wiki/Video_Immersion
+TV-out , URL: /wiki/TV-out
+"
+"ATI U1","IGP 320M","2002","Athlon 4 Mobile , URL: /wiki/Athlon#Palomino
+Athlon XP-M , URL: /wiki/Athlon#Mobile_Athlon_XP
+Mobile Duron , URL: /wiki/List_of_AMD_Duron_microprocessors#Mobile_processors
+","180","266/200 (FSB)","No","Radeon VE IGP (Radeon 7000) , URL: /wiki/Radeon_R100#RV100
+","ATI IXP200/IXP250 , URL: /wiki/Comparison_of_ATI_chipsets#Comparison_of_Southbridges
+VIA VT82C686B , URL: /wiki/List_of_VIA_chipsets#Southbridge_chips
+ALI M1535D+ , URL: /wiki/Acer_Laboratories_Incorporated#Chipsets
+","PCI , URL: /wiki/Conventional_PCI
+",""
+"RS380","ATI Radeon 380 IGP","","Athlon 64, Sempron (Socket 754)","150","800? BI-DIRECTIONAL","No","Radeon 9000 IGP, AGP 8x","SB300C, SB380, SB210 (IXP200/250)","",""
+"RX380","","","Athlon 64 Sempron (Socket754)","150","800? BI-DIRECTIONAL","No","AGP 8x","SB300C, SB380, SB210 (IXP200/250)","",""
+"RS380M","ATI Radeon 380M IGP","","Mobile Athlon 64, Mobile Sempron, Turion 64","150","800 BI-DIRECTIONAL","No","Radeon 9000 IGP, AGP 8x","","","Mobile chipset powerplay 4.0"
+"RS480","Xpress 200 , URL: /wiki/Xpress_200#Radeon_Xpress_200
+","Nov 8 2004","Athlon 64, Athlon 64 FX, Athlon 64 X2, Sempron","130","1000 BI-DIRECTIONAL","No","Radeon X300 graphics core 300 MHz","ULi , URL: /wiki/ULi
+","A-Link Express",""
+"RX480","Xpress 200P , URL: /wiki/Xpress_200#Radeon_Xpress_200
+","Nov 8 2004","Athlon 64, Athlon 64 FX, Athlon 64 X2, Sempron","130","1000 BI-DIRECTIONAL","No","","SB400, SB450, SB460, ULi M1573","A-Link Express",""
+"RS480M","Xpress 200M , URL: /wiki/Xpress_200#Radeon_Xpress_200M
+","Nov 8 2004","Mobile Athlon 64, Mobile Sempron, Turion 64, Athlon 64","130","800 BI-DIRECTIONAL","No","Radeon X300 IGP (Xpress 1100, 300 MHz/ Xpress 1150, 400 MHz)","","","Mobile chipset powerplay 5.0"
+"RS482","Xpress 200 , URL: /wiki/Xpress_200#SB450,_SB460,_M1575_(RS482)
+","2005","Athlon 64, Athlon 64 FX, Athlon 64 X2, Sempron","110","1000 BI-DIRECTIONAL","No","Radeon X300 IGP, 300 MHz","SB450, SB460, ULi M1575","A-Link Express II","No sideport memory"
+"RS485","ATI Radeon Xpress 1150 (ATI Radeon Xpress 200)","May 23, 2006","Athlon 64, Athlon 64 FX, Athlon 64 X2, Sempron","110","1000 BI-DIRECTIONAL","No","Radeon X300 IGP, 400 MHz","SB450, SB460, SB600, ULi M1575","A-Link Express II",""
+"RD480","Xpress 200 Crossfire Edition , URL: /wiki/Xpress_200#Radeon_Xpress_200_Crossfire
+","Sep 27 2005","Athlon 64, Athlon 64 FX, Athlon 64 X2, Sempron","110","1000 BI-DIRECTIONAL","Yes, x8","","SB600, ULi M1575","A-Link Express II",""
+"RD580","Xpress 3200 , URL: /wiki/Xpress_3200
+","March 1, 2006","Athlon 64, Athlon 64 FX, Athlon 64 X2, Sempron","110","1000 BI-DIRECTIONAL","Yes, x16","","SB600","A-Link Express II",""

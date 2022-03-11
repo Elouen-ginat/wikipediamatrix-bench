@@ -1,0 +1,90 @@
+"Format","Languages"
+"name[index] or name[index1, index2] etc.","ALGOL 58 , URL: /wiki/ALGOL_58
+ALGOL 60 , URL: /wiki/ALGOL_60
+ALGOL 68 , URL: /wiki/ALGOL_68
+AWK , URL: /wiki/AWK
+Modula , URL: /wiki/Modula
+Pascal , URL: /wiki/Pascal_(programming_language)
+Object Pascal , URL: /wiki/Object_Pascal
+C# , URL: /wiki/C_Sharp_(programming_language)
+S-Lang , URL: /wiki/S-Lang_(programming_library)
+"
+"name[index] or name[index1; index2] etc. or index⌷name or index1 index2⌷name etc.","APL , URL: /wiki/APL_(programming_language)
+"
+"name[index]","ActionScript , URL: /wiki/ActionScript
+C , URL: /wiki/C_(programming_language)
+CFML , URL: /wiki/CFML
+Ch , URL: /wiki/Ch_(computer_programming)
+Cobra , URL: /wiki/Cobra_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+D , URL: /wiki/D_(programming_language)
+Go , URL: /wiki/Go_(programming_language)
+Haxe , URL: /wiki/Haxe
+Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+Julia , URL: /wiki/Julia_(programming_language)
+Lingo , URL: /wiki/Lingo_(programming_language)
+Lua , URL: /wiki/Lua_(programming_language)
+Nim , URL: /wiki/Nim_(programming_language)
+Objective-C , URL: /wiki/Objective-C
+Perl , URL: /wiki/Perl
+PHP , URL: /wiki/PHP
+Python , URL: /wiki/Python_(programming_language)
+R , URL: /wiki/R_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+Rust , URL: /wiki/Rust_(programming_language)
+Swift , URL: /wiki/Swift_(programming_language)
+"
+"$name[index]","Perl , URL: /wiki/Perl
+Windows PowerShell , URL: /wiki/Windows_PowerShell
+XPath , URL: /wiki/XPath
+XQuery , URL: /wiki/XQuery
+"
+"@name[index]","Raku , URL: /wiki/Raku_(programming_language)
+"
+"name(index) or name(index1, index2) etc.","Ada , URL: /wiki/Ada_(programming_language)
+ALGOL W , URL: /wiki/ALGOL_W
+BASIC , URL: /wiki/BASIC
+COBOL , URL: /wiki/COBOL
+Fortran , URL: /wiki/Fortran
+RPG , URL: /wiki/IBM_RPG
+GNU Octave , URL: /wiki/GNU_Octave
+MATLAB , URL: /wiki/MATLAB
+PL/I , URL: /wiki/PL/I
+Scala , URL: /wiki/Scala_(programming_language)
+Visual Basic , URL: /wiki/Visual_Basic
+Visual Basic .NET , URL: /wiki/Visual_Basic_.NET
+Xojo , URL: /wiki/Xojo
+"
+"$name(index)","XPath , URL: /wiki/XPath
+XQuery , URL: /wiki/XQuery
+"
+"name.(index)","OCaml , URL: /wiki/OCaml
+"
+"name.[index]","F# , URL: /wiki/F_Sharp_(programming_language)
+OCaml , URL: /wiki/OCaml
+"
+"name/index","Red , URL: /wiki/Red_(programming_language)
+"
+"name ! index","Haskell , URL: /wiki/Haskell_(programming_language)
+"
+"$name ? index","XPath , URL: /wiki/XPath
+XQuery , URL: /wiki/XQuery
+"
+"(vector-ref name index)","Scheme , URL: /wiki/Scheme_(programming_language)
+"
+"(aref name index)","Common Lisp , URL: /wiki/Common_Lisp
+"
+"(elt name index)","ISLISP , URL: /wiki/ISLISP
+"
+"name[[index]]","Mathematica , URL: /wiki/Mathematica
+Wolfram Language , URL: /wiki/Wolfram_Language
+"
+"name at:index","Smalltalk , URL: /wiki/Smalltalk
+"
+"[name objectAtIndex:index]","Objective-C , URL: /wiki/Objective-C
+"
+"index{name","J , URL: /wiki/J_(programming_language)
+"
+"name.item(index) or name @ index[6]","Eiffel , URL: /wiki/Eiffel_(programming_language)
+"

@@ -1,0 +1,33 @@
+"ADC hub","Windows , URL: /wiki/Microsoft_Windows
+","Linux , URL: /wiki/Linux
+","OS X , URL: /wiki/OS_X
+","Other"
+"ADCH++","Yes","Yes","No","No"
+"ADCH++ GUI","Yes","Yes","No","Python , URL: /wiki/Python_(programming_language)
+"
+"DSHub","Yes","Yes","Yes","Java , URL: /wiki/Java_(programming_language)
+"
+"FlexHub","Yes","Yes","No","No"
+"Luadch","Yes","Yes","Yes","Raspberry Pi , URL: /wiki/Raspberry_Pi
+Synology , URL: /wiki/Synology_Inc.
+NAS , URL: /wiki/Network-attached_storage
+GCC , URL: /wiki/GNU_Compiler_Collection
+"
+"Nexthub","Yes","?","No","C# , URL: /wiki/C_Sharp_(programming_language)
+"
+"uhub","Yes","Yes","Yes","BSD , URL: /wiki/BSD
+Haiku , URL: /wiki/Haiku_(operating_system)
+OpenWrt , URL: /wiki/OpenWrt
+Solaris , URL: /wiki/Solaris_(operating_system)
+"
+"Erlhub","Yes","Yes","Yes","Erlang , URL: /wiki/Erlang_(programming_language)
+"
+"Qhub","?","?","?","?"
+"Starlet ADC Hub","No","No","No","OpenVMS , URL: /wiki/OpenVMS
+"
+"Starhub","Yes","Yes","Yes","Java , URL: /wiki/Java_(programming_language)
+"
+"RusHub","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+"
+"ADC hub","Windows","Linux","OS X","Other"

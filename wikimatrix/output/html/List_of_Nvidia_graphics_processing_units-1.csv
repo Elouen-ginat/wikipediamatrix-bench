@@ -1,14 +1,14 @@
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"May 22, 1995","NV1","SGS 500 nm","1[3]","90","PCI","12","75","1:1:1","12","12","12","0","2 4","0.6","EDO VRAM","64","1.0","n/a"
-"August 25, 1997","NV3","SGS 350 nm","4[4]","90","AGP 1x,[5] PCI","100","100","100","100","100","4","1.6","SDR","128","5.0","1.0","null","null"
-"February 23, 1998","SGS/TSMC 350 nm","AGP 2x, PCI","8","1.6","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"June 15, 1998","NV4","TSMC 350 nm","7[6]","90","90","110","2:2:2","180","180","180","8 16","1.76","6.0","1.2","null","null","null","null"
-"March 22, 1999","NV6","TSMC 250 nm","","","AGP 4x, PCI","100","125","200","200","200","16","1","64","null","null","null","null","null"
-"March 2000","AGP 2x","80","100","160","160","160","8 16","0.8","null","null","null","null","null","null","null","null","null","null"
-"October 1999","AGP 4x, PCI","125","150","250","250","250","8 16 32","1.2","null","null","null","null","null","null","null","null","null","null"
-"March 15, 1999","NV5","15[7]","90","16 32","2.4","128","null","null","null","null","null","null","null","null","null","null","null","null"
-"October 12, 1999","TSMC 220 nm","143","166","286","286","286","16 32","2.656","null","null","null","null","null","null","null","null","null","null"
-"March 15, 1999","TSMC 250 nm","150","183","300","300","300","16 32","2.928","null","null","null","null","null","null","null","null","null","null"
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
+"Model","Launch","Code name","Fab , URL: /wiki/Semiconductor_device_fabrication
+nm , URL: /wiki/Nanometer
+","Transistors (million)","Die size (mm²)","Bus interface","Core clock (MHz)","Memory clock (MHz)","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","Single precision Processing power (GFLOPS)"
+"Model","Launch","Code name","Fab , URL: /wiki/Semiconductor_device_fabrication
+nm , URL: /wiki/Nanometer
+","Transistors (million)","Die size (mm²)","Bus interface","Core clock (MHz)","Memory clock (MHz)","Core config1","MOperations/s","MPixels/s","MTexels/s","MVertices/s","Size (MB)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single precision Processing power (GFLOPS)"
+"GeForce 256 SDR","October 11, 1999","NV10","TSMC , URL: /wiki/TSMC
+","17[8]","139","AGP 4x, PCI","120","166","4:4:4","480","480","480","0","32 64","2.656","SDR","128","50[9]"
+"GeForce 256 DDR","December 13, 1999","NV10","TSMC , URL: /wiki/TSMC
+","17[8]","139","AGP 4x, PCI","120","","4:4:4","480","480","480","0","32 64","","","128","50[9]"

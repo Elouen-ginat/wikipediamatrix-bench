@@ -1,0 +1,29 @@
+"Model","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","TDP , URL: /wiki/Thermal_design_power
+"
+"Model","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","MB , URL: /wiki/Megabyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","TDP , URL: /wiki/Thermal_design_power
+"
+"Quadro FX 330","NV37GL","150","PCIe x16","250","400","2:4:4:4","1","1","64","3.2","DDR","128","9.0","2.0","21"
+"Quadro FX 1300","NV38","130","PCIe x16","350","550","3:4:8:4","1.4","2.8","128","17.6","DDR","256","9.0","2.1","55"

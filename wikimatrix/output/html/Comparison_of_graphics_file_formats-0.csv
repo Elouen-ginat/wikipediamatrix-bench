@@ -1,0 +1,594 @@
+"Format","Full name","Owner","based on","File extension , URL: /wiki/File_extension
+","MIME , URL: /wiki/MIME
+","Application","Patented"
+"Abc","Advanced Bitonal Compression","LEAD Technologies","",".abc","","Bitonal document and check images.[1]","Yes"
+"ADRG","ARC Digitized Raster Graphics","","",".adrg","","",""
+"AdobeResource","","Adobe Systems , URL: /wiki/Adobe_Systems
+","TIFF?","","","",""
+"ADRI","ARC Digitized Raster Images","","",".adri","","",""
+"AF Design","Affinity Designer","Serif Europe , URL: /wiki/Serif_Europe
+","",".afdesign","","Affinity Designer , URL: /wiki/Affinity_Designer
+Affinity Photo , URL: /wiki/Affinity_Photo
+",""
+"AF Photo","Affinity Photo","Serif Europe , URL: /wiki/Serif_Europe
+","",".afphoto","","Affinity Photo , URL: /wiki/Affinity_Photo
+Affinity Designer , URL: /wiki/Affinity_Designer
+",""
+"AI , URL: /wiki/Adobe_Illustrator_Artwork
+","Adobe Illustrator Document","Adobe Systems , URL: /wiki/Adobe_Systems
+","",".ai","application/illustrator, application/postscript","Adobe Illustrator files are editable using programs that support the format, such as Adobe Illustrator, Inkscape, CorelDRAW, etc.","Yes"
+"Alias Pix image","","","",".pix, .matte, .mask, .alpha, .als","","GIMP , URL: /wiki/GIMP
+",""
+"AMI","","","",".ami","","Supported by Amica Paint",""
+"ANI , URL: /wiki/ANI_(file_format)
+","ANI file format","Microsoft , URL: /wiki/Microsoft
+","RIFF , URL: /wiki/Resource_Interchange_File_Format
+",".ani","","Microsoft Windows , URL: /wiki/Microsoft_Windows
+",""
+"ANIM , URL: /wiki/ANIM
+","","Electronic Arts , URL: /wiki/Electronic_Arts
+Commodore Amiga , URL: /wiki/Commodore_Amiga
+","IFF , URL: /wiki/Interchange_File_Format
+",".iff, .anim","video/x-anim","",""
+"APNG , URL: /wiki/APNG
+","Animated Portable Network Graphics","Mozilla , URL: /wiki/Mozilla
+","PNG , URL: /wiki/Portable_Network_Graphics
+",".png","image/png","Gecko 1.9 , URL: /wiki/Gecko_(layout_engine)
+Opera , URL: /wiki/Opera_(web_browser)
+","No"
+"Apple Icon Image , URL: /wiki/Apple_Icon_Image
+","","Apple Inc. , URL: /wiki/Apple_Inc.
+","",".icns","","macOS , URL: /wiki/MacOS
+",""
+"APX","","","",".apx","","Supported by Ebuyer Photo Paint",""
+"ART , URL: /wiki/ART_image_file_format
+","","AOL , URL: /wiki/AOL
+","",".art","","",""
+"ART","PFS: 1st Publisher clip art","","",".art","","",""
+"ARTB","Artboard file format","Mapdiva, LLC","",".artb","","Vector image format; Artboard drawing files are editable using programs that support the format, such as Artboard and Ortelius",""
+"ASCII art , URL: /wiki/ASCII_art
+","","","",".txt, .ansi, .text","text/vnd.ascii-art","GIMP , URL: /wiki/GIMP
+",""
+"Authorware map","","Adobe Systems , URL: /wiki/Adobe_Systems
+","",".aam","application/x-authorware-map","",""
+"Authorware seg","","Adobe Systems , URL: /wiki/Adobe_Systems
+","",".aas","application/x-authorware-seg","",""
+"Authorware bin","","Adobe Systems , URL: /wiki/Adobe_Systems
+","",".aab, .x32, .u32, .vox","application/x-authorware-bin","",""
+"AutoCAD DXF , URL: /wiki/AutoCAD_DXF
+","Drawing Interchange Format","Autodesk , URL: /wiki/Autodesk
+","",".dxf","image/vnd.dxf","",""
+"AWD","","","",".awd","image/awd","Used by PhotoPhilia",""
+"ARW , URL: /wiki/Raw_image_format
+","Sony Alpha RAW","Sony , URL: /wiki/Sony
+","TIFF",".arw","","",""
+"BAY , URL: /wiki/Raw_image_format
+","Casio RAW","Casio , URL: /wiki/Casio
+","",".bay","","",""
+"BigTIFF","","","TIFF",".btf, .tiff, .tif","image/tiff","",""
+"BMP , URL: /wiki/BMP_file_format
+","raw-data unencoded or encoded bitmap","Microsoft , URL: /wiki/Microsoft
+","",".bmp, .dib, .rle, .2bp (2bpp)","image/x-bmp","Used by many 2D applications.","No"
+"bmp compressor","Bit Map Compressor","","",".hpc","","",""
+"BLEND","resource archive (3D meshes, textures, auxiliary data)","","",".blend","","Blender , URL: /wiki/Blender_(software)
+",""
+"BPG , URL: /wiki/Better_Portable_Graphics
+","Better Portable Graphics","Fabrice Bellard","HEVC , URL: /wiki/HEVC
+",".bpg","","JPEG , URL: /wiki/JPEG
+JavaScript , URL: /wiki/JavaScript
+","Yes"
+"BRK","Brooktrout Fax","","",".brk","","",""
+"BSAVE , URL: /wiki/BSAVE_(graphics_image_format)
+","BSAVE Image","","",".BSV","","IBM PC , URL: /wiki/IBM_PC
+",""
+"CAM","Casio CAM","Casio , URL: /wiki/Casio
+","JPEG",".cam","","",""
+"CADRG","Compressed ARC Digitized Raster Graphics","","",".cadrg","","",""
+"CAL , URL: /wiki/CALS_Raster_file_format
+","CALS raster file format","","",".cal, .cals, .ras, .dcl","","",""
+"Capture One RAW","","Phase One , URL: /wiki/Phase_One_(company)
+","",".cap","","",""
+"CIFF , URL: /wiki/Camera_Image_File_Format
+","Camera Image File Format","Canon , URL: /wiki/Canon_(company)
+","",".crw, .ciff","","",""
+"CR2 , URL: /wiki/Raw_image_format
+","Canon RAW 2","Canon , URL: /wiki/Canon_(company)
+","TIFF",".cr2","","",""
+"CDR , URL: /wiki/CorelDRAW
+","CorelDRAW Document","Corel Corporation , URL: /wiki/Corel_Corporation
+","",".cdr, .ccx, .cdt, .cmx","application/coreldraw","CorelDRAW files are editable using programs that support the format, such as CorelDRAW, Adobe Illustrator, Inkscape, etc.","Yes"
+"CGM , URL: /wiki/Computer_Graphics_Metafile
+","Computer Graphics Metafile","","",".cgm","image/cgm","IBM Lotus Freelance Graphics , URL: /wiki/IBM_Lotus_Freelance_Graphics
+",""
+"CIN , URL: /wiki/Cineon
+","Cineon","","",".cin","image/cineon","",""
+"Corel Paint Shop Pro Pattern","","","",".pat","","Supported by Corel Paint Shop Pro",""
+"CPC , URL: /wiki/Cartesian_Perceptual_Compression
+","Cartesian Perceptual Compression","Cartesian Products, Inc.","",".cpc, .cpi","image/cpi","Highly compressed raster imaging format.","Yes"
+"CPKT","APP5-CPKT Format","","JPEG",".jpg, .jpe, .jpeg","image/jpeg","Used by PROSERPINE.",""
+"CPT","Corel Photo-Paint Image","","",".cpt","","Variant of TIFF up to and including version 6.0; proprietary as of 7.0 (1997)",""
+"Crack Art","","Detlef Röttger & Jan Borchers","",".ca1, .ca2, .ca3","","Atari ST , URL: /wiki/Atari_ST
+",""
+"CUT","","","",".cut","","Used by DSHELL.",""
+"CMYK","","","",".cmyk","","",""
+"CMYKA","","","",".cmyka","","",""
+"DCS , URL: /wiki/Raw_image_format
+","Kodak DCS Pro RAW","Kodak , URL: /wiki/Kodak
+","",".dcs","","",""
+"DCR , URL: /wiki/Raw_image_format
+","Digital Camera Raw","Kodak , URL: /wiki/Kodak
+","TIFF",".dcr","","",""
+"DDS , URL: /wiki/DirectDraw_Surface
+","DirectDraw Surface","Microsoft , URL: /wiki/Microsoft
+","",".dds","","",""
+"Degas","Design & Entertainment Graphic Arts System","Integral Solutions","",".pi1, .pi2, .pi3, .pc1, .pc2, .pc3","","Atari ST , URL: /wiki/Atari_ST
+",""
+"DNG , URL: /wiki/Digital_Negative_(file_format)
+","Digital Negative","Adobe Systems , URL: /wiki/Adobe_Systems
+","TIFF/EP , URL: /wiki/Tag_Image_File_Format_/_Electronic_Photography
+",".dng","","raw image format , URL: /wiki/Raw_image_format
+","No: no known intellectual property encumbrances or license requirements[5]"
+"DIA","Dia Drawing","","XML",".dia","","Dia , URL: /wiki/Dia_(software)
+",""
+"DICOM , URL: /wiki/DICOM
+","Digital Imaging and Communications in Medicine","National Electrical Manufacturers Association , URL: /wiki/National_Electrical_Manufacturers_Association
+","",".dcm, .dicom","application/dicom[6]","OsiriX , URL: /wiki/OsiriX
+GIMP , URL: /wiki/GIMP
+Photoshop , URL: /wiki/Adobe_Photoshop
+",""
+"DjVu , URL: /wiki/DjVu
+","DjVu","AT&T Research","",".djvu, .djv","image/vnd.djvu","",""
+"Doodle","","","",".doo","","Atari ST , URL: /wiki/Atari_ST
+",""
+"DPX , URL: /wiki/Digital_Picture_Exchange
+","Digital Picture eXchange file format","","",".dpx","image/dpx","",""
+"DRF , URL: /wiki/Raw_image_format
+","Kodak Pro Back RAW","Kodak , URL: /wiki/Kodak
+","",".drf","","",""
+"Dr. Halo","","","",".cut","","",""
+"Encapsulated PostScript , URL: /wiki/Encapsulated_PostScript
+","page description/scripting language (see PostScript)","Adobe , URL: /wiki/Adobe_Systems
+","",".epi, .eps, .eps2, .eps3, .epsf, .epsi, .ept","application/postscript","printing/publishing industry standard format",""
+"ECW , URL: /wiki/ECW_(file_format)
+","Enhanced Compressed Wavelet","ERDAS","",".ecw","","Wavelet image format used primarily with geo-referenced aerial and satellite imagery","Yes"
+"EDG","EDGE2 Original Format","TAKABO","",".edg","","Used by EDGE2",""
+"EGI","Exclusive Graphics Format","","",".egi","","",""
+"EMF , URL: /wiki/Enhanced_Metafile
+","Enhanced Metafile Format","Microsoft , URL: /wiki/Microsoft
+","",".emf, .emz","","Microsoft Office , URL: /wiki/Microsoft_Office
+",""
+"EMF+ , URL: /wiki/Enhanced_Metafile
+","Enhanced Metafile Format Plus Extensions","Microsoft , URL: /wiki/Microsoft
+","",".emf, .emz","","",""
+"ERF , URL: /wiki/Raw_image_format
+","EPSON RAW","EPSON","TIFF",".erf","","",""
+"ERI","Entis Rasterized Image format","","",".eri","","",""
+"Exif , URL: /wiki/Exchangeable_image_file_format
+","Exchangeable Image File Format","","",".exif","","",""
+"EVA , URL: /wiki/Extended_Vector_Animation
+","Extended Vector Animation","Sharp Corporation , URL: /wiki/Sharp_Corporation
+","",".eva","application/x-eva","",""
+"EXR , URL: /wiki/OpenEXR
+","OpenEXR","ILM , URL: /wiki/Industrial_Light_%26_Magic
+","",".exr","image/exr","Used in film effects for 3d rendering and hdr images.","?"
+"Farbfeld","","Laslo Hunhold","",".ff","","Very simple lossless bitmap format used for image processing.","No"
+"FIF","Fractal Image Format","","",".fif","","",""
+"FIG","FIG format","","",".fig","application/x-xfig","Xfig , URL: /wiki/Xfig
+",""
+"FITS , URL: /wiki/FITS
+","Flexible Image Transport System","","",".fit, .fits","","Scientific (esp. astronomical) data acquisition",""
+"FLA","Flash Source File","","",".fla","","",""
+"FLIC , URL: /wiki/FLIC_(file_format)
+","","Autodesk , URL: /wiki/Autodesk
+","",".fli, .flc, .flx, .flh, .flt","","GIMP , URL: /wiki/GIMP
+",""
+"FLIF , URL: /wiki/Free_Lossless_Image_Format
+","Free Lossless Image Format","","",".flif, .flf","","General-purpose lossless image compression, superior compression.","No"
+"FLW","Kivio Document","","",".flw","","Kivio , URL: /wiki/Kivio
+",""
+"FPX , URL: /wiki/FlashPix
+","FlashPix (1.0.2)","","",".fpx","image/vnd.fpx","",""
+"FreeHand","","Adobe Systems , URL: /wiki/Adobe_Systems
+","",".fh4, .fh5, .fh7, .fh8, .fhc, .fh","image/x-freehand","",""
+"FutureSplash","","Adobe Systems , URL: /wiki/Adobe_Systems
+","",".spl","application/futuresplash","",""
+"FXT","","3DFX , URL: /wiki/3DFX
+","",".fxt","","",""
+"GEGL composition","","","XML , URL: /wiki/XML
+",".xml","application/xml","GEGL , URL: /wiki/GEGL
+",""
+"Gerber Format , URL: /wiki/Gerber_Format
+","The Gerber Format Specification","Ucamco , URL: /w/index.php?title=Ucamco&action=edit&redlink=1
+","Printable ASCII",".gbr","application/vnd.gerber","Printed Circuit Board , URL: /wiki/Printed_Circuit_Board
+","No"
+"GIF , URL: /wiki/GIF
+","Graphics Interchange Format","CompuServe , URL: /wiki/CompuServe
+Unisys , URL: /wiki/Unisys
+","",".gif, .gfa, .giff","image/gif","Supported by most web browsers. Supports transparency and animation.","Expired"
+"GIMP brush","","The GIMP Team","",".gbr","","GIMP , URL: /wiki/GIMP
+",""
+"GIMP compressed XJT image","","The GIMP Team","JPEG, tar",".xjt, .xjtgz (compressed), .xjtbz2 (compressed)","None. lossy format, not suitable for editing","GIMP , URL: /wiki/GIMP
+",""
+"GIH","Gimp image hose","The GIMP Team","",".gih","","GIMP , URL: /wiki/GIMP
+",""
+"GIMP patterns","","The GIMP Team","",".pat","","GIMP , URL: /wiki/GIMP
+",""
+"GRA","","","",".gra","","Used by QSV and QLD.",""
+"G3 Fax","","","",".g3","","GIMP , URL: /wiki/GIMP
+",""
+"Hasselblad 3FR RAW","","","TIFF",".3fr","","",""
+"Hasselblad/Imacon FFF","","","",".fff","","",""
+"HEIF , URL: /wiki/HEIF
+","High Efficiency Image Format","Motion Pictures Expert Group (MPEG)","",".heif, .heic","image/heif, image/heic, image/heic-sequence, image/heif-sequence","","Yes"
+"HDRi , URL: /wiki/HDRi_(data_format)
+","","","TIFF",".tif, .tiff","image/tiff","",""
+"HG","Hyper Graphic Press","","",".hg","","Supported by some old Japanese applications.",""
+"ICER , URL: /wiki/ICER
+","","NASA , URL: /wiki/NASA
+Mars Rovers , URL: /wiki/Mars_Rovers
+","","","","",""
+"IIQ RAW","Intelligent Image Quality RAW","Phase One , URL: /wiki/Phase_One_(company)
+","",".iiq","","",""
+"IMA",".ima",".ima team","",".ima","","photographic , URL: /wiki/Photograph
+HDR , URL: /wiki/High_dynamic_range_imaging
+","No"
+"IMG (GEM Paint)","","","",".img","","Supported by GEM Paint",""
+"IMG (ERDAS IMAGINE)","ERDAS IMAGINE","ERDAS","Hierarchical File Architecture (HFA)",".img","","Image format used primarily with geo-referenced imagery, thematic grid data, and elevation grid data.","Yes"
+"im4","","Masahide Hirabayashi","",".im4","","",""
+"Inkscape SVG","","The Inkscape Team","SVG",".svg, .svgz","image/svg+xml","Inkscape , URL: /wiki/Inkscape
+",""
+"ICO , URL: /wiki/ICO_(icon_image_file_format)
+","ICO file format","Microsoft , URL: /wiki/Microsoft
+","",".ico, .cur","image/vnd.Microsoft.icon, image/x-icon","Microsoft Windows , URL: /wiki/Microsoft_Windows
+web browsers , URL: /wiki/Web_browser
+favicon , URL: /wiki/Favicon
+",""
+"ICS , URL: /wiki/Image_Cytometry_Standard
+","Image Cytometry Standard","","",".ics, .ids","","",""
+"IGES , URL: /wiki/IGES
+","Initial Graphics Exchange Specification","","",".igs","image/iges","CAD/CAM , URL: /wiki/Computer-aided_technologies
+interoperability , URL: /wiki/Interoperability
+","No"
+"ILBM , URL: /wiki/ILBM
+","InterLeaved BitMap","Electronic Arts , URL: /wiki/Electronic_Arts
+Commodore Amiga , URL: /wiki/Commodore_Amiga
+","IFF , URL: /wiki/Interchange_File_Format
+",".iff, .ilbm, .lbm","image/x-ilbm","Planar , URL: /wiki/Planar_(computer_graphics)
+Amiga , URL: /wiki/Amiga
+","No"
+"IPTC/NAA","IPTC/NAA","","TIFF , URL: /wiki/Tagged_Image_File_Format
+","","","",""
+"JBIG , URL: /wiki/JBIG
+","","Joint Bi-level Image Experts Group , URL: /wiki/Joint_Bi-level_Image_Experts_Group
+","",".jbig, .bie, .jbg","","",""
+"JBIG2 , URL: /wiki/JBIG2
+","","Joint Bi-level Image Experts Group , URL: /wiki/Joint_Bi-level_Image_Experts_Group
+","","","","",""
+"JNG , URL: /wiki/JPEG_Network_Graphics
+","JPEG Network Graphics","","",".jng","image/x-jng","","No"
+"JPEG , URL: /wiki/JPEG
+","Joint Photographic Experts Group","Joint Photographic Experts Group , URL: /wiki/Joint_Photographic_Experts_Group
+","",".jpg, .jpeg, .jpe (containers: .jif, .jfif, .jfi)","image/jpeg","Photographic , URL: /wiki/Photograph
+","Forgent#JPEG , URL: /wiki/Forgent#JPEG
+"
+"JPEG 2000 , URL: /wiki/JPEG_2000
+","Joint Photographic Experts Group 2000","Joint Photographic Experts Group , URL: /wiki/Joint_Photographic_Experts_Group
+","",".jp2, .j2c, .jpc, .j2k, .jpx","image/jp2","Wavelet , URL: /wiki/Wavelet
+photographic , URL: /wiki/Photograph
+","Yes no licence costs for part 1"
+"JPEG-LS , URL: /wiki/JPEG-LS
+","","Joint Photographic Experts Group , URL: /wiki/Joint_Photographic_Experts_Group
+","",".jls","","",""
+"JPEG-HDR , URL: /wiki/JPEG-HDR
+","","Dolby Laboratories , URL: /wiki/Dolby_Laboratories
+BrightSide Technologies , URL: /wiki/BrightSide_Technologies
+","JPEG","","","HDR , URL: /wiki/High_dynamic_range_imaging
+RGBE , URL: /wiki/RGBE_image_format
+JFIF , URL: /wiki/JFIF
+",""
+"JPEG XL , URL: /wiki/JPEG_XL
+","","Joint Photographic Experts Group , URL: /wiki/Joint_Photographic_Experts_Group
+","PIK , URL: /w/index.php?title=PIK_(image_format)&action=edit&redlink=1
+FUIF , URL: /wiki/FUIF
+FLIF , URL: /wiki/FLIF
+",".jxl","image/jxl","JPEG , URL: /wiki/JPEG
+","No"
+"JPEG XT , URL: /wiki/JPEG_XT
+","","Joint Photographic Experts Group , URL: /wiki/Joint_Photographic_Experts_Group
+","","","","HDR , URL: /wiki/High_dynamic_range_imaging
+",""
+"JPEG XR , URL: /wiki/JPEG_XR
+HD Photo , URL: /wiki/HD_Photo
+","JPEG XR / HD Photo","Microsoft , URL: /wiki/Microsoft
+","",".wdp, .hdp, .jxr","image/vnd.ms-photo","HDR , URL: /wiki/High_dynamic_range_imaging
+","Yes (royalty-free)"
+"J6I","","RICOH , URL: /wiki/RICOH
+","JPEG",".j6i","","Used by RICOH DC-1/2",""
+"KDC , URL: /wiki/Raw_image_format
+","Kodak DC40/DC50 RAW","Kodak , URL: /wiki/Kodak
+","TIFF",".kdc","","",""
+"KOA","","","",".koa, .gg (compressed)","","Supported by Koala Paint",""
+"KIFF","Kt Interchange File Format","","",".kif, .kiff","","",""
+"KISS CEL","","","",".cel","","GIMP , URL: /wiki/GIMP
+",""
+"Kodak TIFF extensions","","Kodak , URL: /wiki/Kodak
+","TIFF",".tif","","",""
+"Kodak YCC","","Kodak , URL: /wiki/Kodak
+","",".pcd","","",""
+"KQP","","Minolta , URL: /wiki/Minolta
+","JPEG",".kqp","","",""
+"K25 , URL: /wiki/Raw_image_format
+","Kodak DC25 RAW","Kodak , URL: /wiki/Kodak
+","TIFF",".k25","","",""
+"Leaf Mosaic RAW","","","TIFF",".mos","","",""
+"LightStream Picture","","","",".lsp","","",""
+"Logluv TIFF , URL: /wiki/Logluv_TIFF
+","","Greg Ward","TIFF","","","Libtiff , URL: /wiki/Libtiff
+",""
+"Mac Paint","","","",".pnt, .mac","","",""
+"MDC","Minolta RD175 Format","Minolta , URL: /wiki/Minolta
+","",".mdc","","",""
+"MET","OS/2 Metafile Format","","",".met","","Supported by SAS/GRAPH",""
+"MNG , URL: /wiki/Multiple-image_Network_Graphics
+","Multiple-image Network Graphics","","PNG , URL: /wiki/Portable_Network_Graphics
+",".mng","video/x-mng","","No"
+"MO:DCA","MO:DCA","IBM , URL: /wiki/IBM
+","",".mda, .ica, .mmr, .afp","image","IBM's Content Manager and Image Plus","Yes"
+"MSP","Microsoft Paint","Microsoft , URL: /wiki/Microsoft
+","",".msp","","",""
+"MYD","Myd format","","",".myd","","",""
+"MYV","Myv vector format","","",".myv","","",""
+"NEF , URL: /wiki/Raw_image_format
+","Nikon RAW","Nikon , URL: /wiki/Nikon
+","TIFF",".nef","","",""
+"MEF","Mamiya RAW","Mamiya , URL: /wiki/Mamiya
+","TIFF",".mef","","",""
+"Neochrome","","Dave Staugas","",".neo","","Atari ST , URL: /wiki/Atari_ST
+",""
+"MAG","MAKIchan Graphic loader","Woody-Rinn","",".mag","","Used by many old Japanese applications.",""
+"MAKI","MAKIchan net format","Woody-Rinn","",".mki","","",""
+"MIFF , URL: /wiki/Magick_Image_File_Format
+","Magick image file format","ImageMagick Studio","",".miff","","ImageMagick , URL: /wiki/ImageMagick
+",""
+"MSA","Misachan File","Hirohumi Iguchi","",".msa","","Supported by old Japanese applications",""
+"MSL","Magick Scripting Language","ImageMagick Studio","",".msl","","ImageMagick , URL: /wiki/ImageMagick
+",""
+"MVG","Magick Vector Graphics","ImageMagick Studio","",".mvg","","ImageMagick , URL: /wiki/ImageMagick
+",""
+"MPC","Magick Persistent Cache image file format","ImageMagick Studio","",".mpc","","ImageMagick , URL: /wiki/ImageMagick
+",""
+"MRW , URL: /wiki/Raw_image_format
+","Minolta RAW","Minolta , URL: /wiki/Minolta
+","",".mrw","","",""
+"NSK-TIFF","NSK-TIFF","Nihon Shinbun Kyokai (日本新聞協会) , URL: /wiki/Japan_Newspaper_Publishers_and_Editors_Association
+","TIFF , URL: /wiki/Tagged_Image_File_Format
+","","","",""
+"OAZ","OAZ Fax","Oaz Communications","",".oaz","","Used by NetFax Manager",""
+"ODG","OpenDocument drawing","","",".odg","","Collabora Online Draw , URL: /wiki/Collabora_Online
+LibreOffice Draw , URL: /wiki/LibreOffice_Draw
+","No"
+"ORA","OpenRaster","freedesktop.org","OpenDocument XML",".ora","","GIMP , URL: /wiki/GIMP
+Krita , URL: /wiki/Krita
+Pinta , URL: /wiki/Pinta_(software)
+","No"
+"ORF , URL: /wiki/Raw_image_format
+","Olympus RAW","Olympus , URL: /wiki/Olympus_Corporation
+","TIFF",".orf","","",""
+"ORTL","Ortelius file format","Mapdiva, LLC","",".ortl","","Vector image/map format; used by Ortelius",""
+"PAM , URL: /wiki/PAM_graphics_format
+","portable arbitrary map file format","","",".pam","image/x-portable-arbitrarymap","","No"
+"Panasonic RAW","","Panasonic , URL: /wiki/Panasonic
+","TIFF",".raw, .rw2","","",""
+"PCIF","Polyomino Compressed Image Format","","",".pcf","","",""
+"PhaseOne P25/P30/P45 RAW","","Phase One , URL: /wiki/Phase_One_(company)
+","",".tif, .tiff","","",""
+"PictureGear Pocket Image","","","",".prc","","",""
+"PBM , URL: /wiki/Netpbm_format
+","Portable Bitmap File Format","","ASCII , URL: /wiki/ASCII
+",".pbm","image/x-portable-bitmap","","No"
+"PCD","Kodak ImagePac Photo CD","Kodak , URL: /wiki/Kodak
+","",".pcd","image/jpcd","",""
+"PCF","Pixel Coordination Format","","",".pcf","image/pcf","",""
+"PCX , URL: /wiki/PCX
+","ZSoft PC Paintbrush File","ZSoft Corporation , URL: /wiki/ZSoft_Corporation
+","",".pcx, .pcc, .dcx","image/x-pcx","Dated rle packed indexed image format, used in some early 3d shooting games like Unreal Tournament as it takes up very little space and is easy to decode.","?"
+"PDF , URL: /wiki/PDF
+","Portable Document Format","Adobe Systems , URL: /wiki/Adobe_Systems
+","",".pdf, .epdf","application/pdf","",""
+"PDN","Paint.NET , URL: /wiki/Paint.NET
+","dotPDN LLC","",".pdn","","Paint.NET , URL: /wiki/Paint.NET
+",""
+"PEF , URL: /wiki/Raw_image_format
+","PENTAX RAW","PENTAX","TIFF",".pef","","",""
+"PGF , URL: /wiki/Progressive_Graphics_File
+","Progressive Graphics File","xeraina GmbH","",".pgf","","Photographic , URL: /wiki/Photograph
+JPEG , URL: /wiki/JPEG
+","No"
+"PGM , URL: /wiki/Netpbm_format
+","Portable Graymap File Format","","ASCII , URL: /wiki/ASCII
+",".pgm","image/x-portable-graymap","","No"
+"PGML , URL: /wiki/Precision_Graphics_Markup_Language
+","Precision Graphics Markup Language","Adobe Systems , URL: /wiki/Adobe_Systems
+IBM , URL: /wiki/IBM
+Netscape , URL: /wiki/Netscape
+Sun Microsystems , URL: /wiki/Sun_Microsystems
+","","","","","No"
+"Photochrome","","","",".pcs","","",""
+"PNM , URL: /wiki/Netpbm_format
+","Portable Anymap File Format","","ASCII , URL: /wiki/ASCII
+",".pnm","image/x-portable-anymap","","No"
+"PTX","Pentax RAW Bitmap Graphic","Pentax , URL: /wiki/Pentax
+","",".ptx","","",""
+"Pi","","Yanagisawa","",".pi","","Used by some old Japanese applications.",""
+"PIC","Yanagisawa PIC","Yanagisawa","",".pic","","Used by many old Japanese applications.",""
+"PIC","DoGA PIC","Project Team DoGA","",".pic","","Used by DoGA CGA System.",""
+"PICT , URL: /wiki/PICT
+","Macintosh PICT Format","Apple Inc. , URL: /wiki/Apple_Inc.
+","",".pict, .pic, .pct, .pct1, .pct2","image/pict","Metafile , URL: /wiki/Metafile
+Classic Mac OS , URL: /wiki/Classic_Mac_OS
+","Likely expired"
+"PICtor , URL: /wiki/PICtor_PIC_image_format
+","","John Bridges, Doug Wolfgram","",".pic","","PCPaint , URL: /wiki/PCPaint
+",""
+"PIC2","","Yanagisawa","",".p2","","Supported by some old Japanese applications.",""
+"PLD","PhotoLine Document","Computerinsel GmbH","",".pld","application/pld","Native format of the PhotoLine image editing program.","?"
+"PMP","","Sony , URL: /wiki/Sony
+","JPEG",".pmp","","Used by Sony Cyber-Shot",""
+"PNG , URL: /wiki/Portable_Network_Graphics
+","Portable Network Graphics","World Wide Web Consortium , URL: /wiki/World_Wide_Web_Consortium
+","",".png","image/png","W3C , URL: /wiki/W3C
+GIF , URL: /wiki/GIF
+","No"
+"PostScript , URL: /wiki/PostScript
+","page description/scripting language, levels 1–3","Adobe , URL: /wiki/Adobe_Systems
+","",".ps, .ps2, .ps3","","printing/publishing industry standard format",""
+"PPM , URL: /wiki/Netpbm_format
+","Portable Pixmap File Format","","ASCII , URL: /wiki/ASCII
+",".ppm","image/x-portable-pixmap","Very easy to understand. Programs to analyze and write to this format are easily written.","No"
+"PSD , URL: /wiki/Adobe_Photoshop#File_format
+","Photoshop Document","Adobe Systems , URL: /wiki/Adobe_Systems
+","",".psd, .psb, .pdb, .pdd","image/vnd.adobe.photoshop[7]","Used mainly for storing image manipulation & editing data.","Yes"
+"PSP , URL: /wiki/Corel_Paint_Shop_Pro
+","Paint Shop Pro Document","Corel Corporation , URL: /wiki/Corel_Corporation
+","",".psp, .tub, .pspimage","image/x-psp","Paint Shop Pro , URL: /wiki/Paint_Shop_Pro
+GIMP , URL: /wiki/GIMP
+","?"
+"PSX TIM","","","",".tim","","",""
+"PSX TIM2","Sony PlayStation Tim2","Sony , URL: /wiki/Sony
+","",".tm2, .str","","Used by PlayStation 2",""
+"PXA","","","",".pxa","","Pixia , URL: /wiki/Pixia
+",""
+"QuickTime Image","","Apple Inc. , URL: /wiki/Apple_Inc.
+","",".qtif, .qti, .qif","","",""
+"Q0","","","",".q0","","",""
+"Q4","XLD4","MAJYO","",".q4","","",""
+"RAD , URL: /wiki/Radiance_(software)#Scene_description_format
+","","Gregory Ward Larson","",".rad","","Radiance , URL: /wiki/Radiance_(software)
+",""
+"RAF , URL: /wiki/Raw_image_format
+","Fujifilm RAW","Fujifilm , URL: /wiki/Fujifilm
+","",".raf","","",""
+"RGB","image/colourmap data in RGB format","","",".rgb","","",""
+"RGBA","image/colourmap data in RGB format, with Alpha channel","","",".rgba","","",""
+"RGBE , URL: /wiki/RGBE_image_format
+","","Gregory Ward Larson","",".hdr","image/vnd.radiance","Radiance , URL: /wiki/Radiance_(software)
+",""
+"RHIF","Rhapsoft Image Format","Romain Piveteau","SQLite",".rhif","","LiveQuarz , URL: /w/index.php?title=LiveQuarz&action=edit&redlink=1
+",""
+"R3D","RED REDCODE RAW","Red , URL: /wiki/RED_Digital_Camera_Company
+","",".r3d","","",""
+"SAI","","SYSTEMAX","",".sai","","PaintTool SAI , URL: /wiki/SAI_(software)
+",""
+"SCT","Scitex Continuous Tone , URL: /wiki/Scitex_Continuous_Tone
+","","",".sct","","",""
+"SDA","","Sun Microsystems , URL: /wiki/Sun_Microsystems
+","",".sda","","StarOffice , URL: /wiki/StarOffice
+",""
+"SDD","","Sun Microsystems , URL: /wiki/Sun_Microsystems
+","",".sdd","","StarOffice , URL: /wiki/StarOffice
+",""
+"SFW","Seattle File Works image","Seattle File Works","JPEG (JFIF)",".sfw, .pwp","","Unix/Linux , URL: https://web.archive.org/web/20100529022333/http://www.lipman.org/software/sfw/
+Windows , URL: http://www.joenord.com/apps/sfwjpg/
+",""
+"SGB","","Sun Microsystems , URL: /wiki/Sun_Microsystems
+","",".sgb","","Supported by StarOffice Graphics 2",""
+"SGI , URL: /wiki/Silicon_Graphics_Image
+","Silicon Graphics Image","","",".sgi, .rgb, .rgba, .bw, .int, .inta, .icon","","",""
+"Shockwave Director","","Adobe Systems , URL: /wiki/Adobe_Systems
+","",".dir, .dcr, .dxr, .fgd","application/x-director","Adobe Shockwave , URL: /wiki/Adobe_Shockwave
+",""
+"SHAPE","Dia Stencil","","SVG",".shape","","Dia , URL: /wiki/Dia_(software)
+",""
+"SK","","","",".sk","","Skencil , URL: /wiki/Skencil
+",""
+"SketchUp Format","","","",".skp, .skb","","SketchUp , URL: /wiki/SketchUp
+",""
+"SML","Kivio stencil","","",".sml","","Kivio , URL: /wiki/Kivio
+",""
+"SRF , URL: /wiki/Raw_image_format
+","Sony RAW File","Sony , URL: /wiki/Sony
+","TIFF",".srf, .sr2","","",""
+"SUN","Sun rasterfile","Sun Microsystems , URL: /wiki/Sun_Microsystems
+","",".sun, .ras, .rs, .im1, .im8, .im24, .im32","","GIMP , URL: /wiki/GIMP
+",""
+"STX","SBIG CCD camera ST-x","","",".stx, .st4, .st5, .st6, .st7, .st8, .st9","","",""
+"SView5 Graphics","","Andreas Kleinert","",".svg/.sgx","","Used by SView5-Library/SDK",""
+"SVG , URL: /wiki/Scalable_Vector_Graphics
+","Scalable Vector Graphics","World Wide Web Consortium , URL: /wiki/World_Wide_Web_Consortium
+","XML , URL: /wiki/XML
+",".svg, .svgz (compressed)","image/svg+xml","Scriptable vector image format; supported by major web browsers, occasionally via plug-in.","No"
+"SWF , URL: /wiki/SWF
+","Shockwave Flash","Adobe Systems , URL: /wiki/Adobe_Systems
+","",".swf","application/x-shockwave-flash","Supported by many web browsers via plug-in.",""
+"SXD","OpenOffice.org , URL: /wiki/OpenOffice.org
+","","",".sxd","","",""
+"TGA , URL: /wiki/Truevision_TGA
+","Truevision Targa","Truevision Inc.","",".tga, .tpic","image/tga","Used by many 3D rendering applications and 3d videogames for storing textures.","Yes?"
+"TIFF , URL: /wiki/Tagged_Image_File_Format
+","Tagged Image File Format","Adobe Systems , URL: /wiki/Adobe_Systems
+","",".tiff, .tif","image/tiff","Document scanning and imaging format, also functions as a container.","No"
+"TIFF/EP , URL: /wiki/TIFF/EP
+","Tag Image File Format / Electronic Photography","International Organization for Standardization","TIFF , URL: /wiki/Tagged_Image_File_Format
+",".tiff, .tif","","",""
+"TIFF-FX","Tag Image File Format Fax eXtended","","TIFF , URL: /wiki/Tagged_Image_File_Format
+",".tiff, .tif","image/tiff-fx","",""
+"Tiny Stuff","","David Mumper","",".tny, .tn1, .tn2, .tn3, .tn4, .tn5, tn6","","Atari ST , URL: /wiki/Atari_ST
+",""
+"TLG5","","","",".tlg","","KiriKiri , URL: /wiki/KiriKiri
+",""
+"TLG6","","","",".tlg","","KiriKiri , URL: /wiki/KiriKiri
+",""
+"UFO , URL: /wiki/Ulead_PhotoImpact
+","Ulead File for Objects","","",".ufo","","",""
+"VML , URL: /wiki/Vector_Markup_Language
+","Vector Markup Language","Microsoft , URL: /wiki/Microsoft
+","XML",".htm, .html","application/vnd.openxmlformats-officedocument.vmlDrawing","Internet Explorer , URL: /wiki/Internet_Explorer
+Microsoft Office , URL: /wiki/Microsoft_Office
+","No"
+"WBMP , URL: /wiki/Wireless_Application_Protocol_Bitmap_Format
+","Wireless Application Protocol Bitmap Format","Open Mobile Alliance , URL: /wiki/Open_Mobile_Alliance
+","",".wbmp, .wbm, .wbp","image/vnd.wap.wbmp","WAP , URL: /wiki/Wireless_Application_Protocol
+","No"
+"WebP , URL: /wiki/WebP
+","WebP image format","Google , URL: /wiki/Google
+","",".webp","image/webp","Provides an alternative to JPEG, PNG and GIF with superior compression","Yes (royalty-free)"
+"WinFax","","Symantec , URL: /wiki/NortonLifeLock
+","",".wfx, fxs, fxo","","",""
+"WMF , URL: /wiki/Windows_Metafile
+","Windows Metafile Format","Microsoft , URL: /wiki/Microsoft
+","",".wmf, .wmz","","",""
+"WordPerfect Graphics File","","","",".wpg","","",""
+"XAML , URL: /wiki/XAML
+","Extensible Application Markup Language","Microsoft , URL: /wiki/Microsoft
+","XML , URL: /wiki/XML
+",".xaml","application/xaml+xml","Windows Presentation Foundation , URL: /wiki/Windows_Presentation_Foundation
+Microsoft Silverlight , URL: /wiki/Microsoft_Silverlight
+","?"
+"XAR , URL: /wiki/Xar_(graphics)
+","Xar","Xara , URL: /wiki/Xara
+","Xar (graphics) , URL: /wiki/Xar_(graphics)
+",".xar","application/vnd.xara","Xara Photo & Graphic Designer , URL: /wiki/Xara_Photo_%26_Graphic_Designer
+","No"
+"XBM , URL: /wiki/XBM
+","X BitMap, colour variant of original black-and-white bitmap (bmp) format","","",".xbm, .bm, .icon, .bitmap","image/x-xbitmap","Used by many legacy Unix applications.",""
+"XCF , URL: /wiki/XCF_(file_format)
+","eXperimental Computing Facility , URL: /wiki/EXperimental_Computing_Facility
+","The GIMP Team","",".xcf, .xcfbz2 (compressed), .xcfgz (compressed)","application/x-gimp-image","Used by GIMP",""
+"XPM , URL: /wiki/XPM_(image_format)
+","X-Pixmap","","",".xpm, .pm","image/x-xpm","Used by many legacy Unix applications.",""
+"X3F , URL: /wiki/Raw_image_format
+","SIGMA RAW","SIGMA , URL: /wiki/SIGMA
+","",".x3f","","",""
+"XWD","xwud X11 window dumper/undumper screenshot image","","",".xwd, .x11","","X Window System , URL: /wiki/X_Window_System
+",""
+"XYZ","RPG Maker , URL: /wiki/RPG_Maker
+","ASCII , URL: /wiki/ASCII_(company)
+","",".xyz","","RPG Maker , URL: /wiki/RPG_Maker
+","No"
+"YCbCr","","","",".ycbcr","","",""
+"YCbCrA","","","",".ycbcra","","",""
+"YUV","","","",".yuv","","",""
+"ZDT","","","",".zdt","","Used by TECH Win",""
+"Format","Full name","Owner","based Format","File extension , URL: /wiki/File_extension
+","MIME , URL: /wiki/MIME
+","Application","Patented"

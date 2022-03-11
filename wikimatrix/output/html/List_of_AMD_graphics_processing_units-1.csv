@@ -1,26 +1,87 @@
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"1986","1991","1996","1997","1998","Apr 2000","Aug 2001","Sep 2002","May 2004","Oct 2005","May 2007","Nov 2007","Jun 2008","Sep 2009","Oct 2010","Jan 2012","Sep 2013","Jun 2015","Jun 2016","Jun 2017","Jul 2019","Nov 2020"
-"Wonder","Mach","3D Rage","Rage Pro","Rage 128","Radeon 7000","Radeon 8000","Radeon 9000","Radeon X700/X800","Radeon X1000","Radeon HD 2000","Radeon HD 3000","Radeon HD 4000","Radeon HD 5000","Radeon HD 6000","Radeon HD 7000","Radeon Rx 200","Radeon Rx 300","Radeon RX 400/500","Radeon RX Vega/Radeon VII(7nm)","Radeon RX 5000","Radeon RX 6000"
-"","","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"2D","3D","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"Not publicly known","TeraScale instruction set","GCN instruction set","RDNA instruction set","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"TeraScale 1","TeraScale 2 (VLIW5)","TeraScale 3 (VLIW4)","GCN 1st gen","GCN 2nd gen","GCN 3rd gen","GCN 4th gen","GCN 5th gen","RDNA","RDNA 2","null","null","null","null","null","null","null","null","null","null","null","null"
-"Fixed pipeline[a]","Programmable pixel & vertex pipelines","Unified shader model","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"N/A","5.0","6.0","7.0","8.1","9.0 11 (9_2)","9.0b 11 (9_2)","9.0c 11 (9_3)","10.0 11 (10_0)","10.1 11 (10_1)","11 (11_0)","11 (11_1) 12 (11_1)","11 (12_0) 12 (12_0)","11 (12_1) 12 (12_1)","11 (12_1) 12 (12_2)","null","null","null","null","null","null","null"
-"N/A","1.4","2.0+","2.0b","3.0","4.0","4.1","5.0","5.1","5.1 6.3","6.4","6.5","null","null","null","null","null","null","null","null","null","null"
-"N/A","1.1","1.2","1.3","2.1[b][1]","3.3","4.5 (on Linux: 4.5 (Mesa 3D 21.0))[2][3][4][c]","4.6 (on Linux: 4.6 (Mesa 3D 20.0))","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"N/A","1.0 (Win 7+ or Mesa 17+)","1.2 (Adrenalin 20.1, Linux Mesa 3D 20.0)","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"N/A","Close to Metal","1.1 (no Mesa 3D support)","1.2 (on Linux: 1.1 (no Image support) with Mesa 3D)","2.0 (Adrenalin driver on Win7+) (on Linux: 1.1 (no Image support) with Mesa 3D, 2.0 with AMD drivers or AMD ROCm)","2.0","2.1 [5]","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"N/A","","?","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"N/A","Avivo/UVD","UVD+","UVD 2","UVD 2.2","UVD 3","UVD 4","UVD 4.2","UVD 5.0 or 6.0","UVD 6.3","UVD 7[6][d]","VCN 2.0[6][d]","VCN 3.0[7]","null","null","null","null","null","null","null","null","null"
-"N/A","VCE 1.0","VCE 2.0","VCE 3.0 or 3.1","VCE 3.4","VCE 4.0[6][d]","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"","","","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"?","PowerPlay","PowerTune","PowerTune & ZeroCore Power","?","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"N/A","Via dedicated DSP","Via shaders","?","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"N/A","1 2","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"?","1.4","1.4 2.2","1.4 2.2 2.3","?","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"N/A","3.0","","3.0","?","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"","","","","","1–2","2","2–6","?","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"?","2–6 × 2560×1600","2–6 × 4096×2160 @ 30 Hz","2–6 × 5120×2880 @ 60 Hz","3 × 7680×4320 @ 60 Hz[8]","7680×4320 @ 60 Hz PowerColor","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"","","","","","","N/A","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"N/A","Experimental[9]","","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
+"Chip series","Microarchitecture","Fab , URL: /wiki/Semiconductor_device_fabrication
+","APIs , URL: /wiki/Application_programming_interface
+","APIs , URL: /wiki/Application_programming_interface
+","APIs , URL: /wiki/Application_programming_interface
+","APIs , URL: /wiki/Application_programming_interface
+","APIs , URL: /wiki/Application_programming_interface
+","AMD support","Year introduced","Introduced with"
+"Chip series","Microarchitecture","Fab , URL: /wiki/Semiconductor_device_fabrication
+","Rendering , URL: /wiki/Rendering_(computer_graphics)
+","Rendering , URL: /wiki/Rendering_(computer_graphics)
+","Rendering , URL: /wiki/Rendering_(computer_graphics)
+","ROCm , URL: /wiki/ROCm
+","ROCm , URL: /wiki/ROCm
+","AMD support","Year introduced","Introduced with"
+"Chip series","Microarchitecture","Fab , URL: /wiki/Semiconductor_device_fabrication
+","Vulkan , URL: /wiki/Vulkan_(API)
+","OpenGL , URL: /wiki/OpenGL
+","Direct3D , URL: /wiki/Direct3D
+","HSA , URL: /wiki/Heterogeneous_System_Architecture
+","OpenCL , URL: /wiki/OpenCL
+","AMD support","Year introduced","Introduced with"
+"Wonder , URL: /wiki/ATI_Wonder_series
+","Fixed-pipeline[a]","1000 nm 800 nm","N/A","N/A","N/A","N/A","N/A","Ended","1986",""
+"Mach , URL: /wiki/ATI_Mach_series
+","Fixed-pipeline[a]","800 nm 600 nm","N/A","N/A","N/A","N/A","N/A","Ended","",""
+"3D Rage , URL: /wiki/ATI_Rage_series
+","Fixed-pipeline[a]","500 nm","N/A","N/A","5.0","N/A","N/A","Ended","1996","3D Rage"
+"Rage Pro , URL: /wiki/ATI_Rage_series
+","Fixed-pipeline[a]","350 nm","N/A","1.1","6.0","N/A","N/A","Ended","1997","Rage Pro"
+"Rage 128 , URL: /wiki/ATI_Rage_series
+","Fixed-pipeline[a]","250 nm","N/A","1.2","6.0","N/A","N/A","Ended","1998","Rage 128 GL/VR"
+"R100 , URL: /wiki/Radeon_R100_series
+","Fixed-pipeline[a]","180 nm 150 nm","N/A","1.3","7.0","N/A","N/A","Ended","2000","Radeon"
+"R200 , URL: /wiki/Radeon_R200_series
+","Programmable pixel & vertex pipelines","150 nm","N/A","1.3","8.1","N/A","N/A","Ended","2001","Radeon 8500"
+"R300 , URL: /wiki/Radeon_R300_series
+","Programmable pixel & vertex pipelines","150 nm 130 nm 110 nm","N/A","2.0[b]","FL 9_2 , URL: /wiki/Direct3D_feature_level
+","N/A","N/A","Ended","2002","Radeon 9700"
+"R420 , URL: /wiki/Radeon_R400_series
+","Programmable pixel & vertex pipelines","130 nm 110 nm","N/A","2.0[b]","9.0b 11 (FL 9_2)","N/A","N/A","Ended","2004","Radeon X800"
+"R520 , URL: /wiki/Radeon_X1000_series
+","Programmable pixel & vertex pipelines","90 nm 80 nm","N/A","2.0[b]","9.0c 11 (FL 9_3)","N/A","N/A","Ended","2005","Radeon X1800"
+"R600 , URL: /wiki/Radeon_HD_2000_series
+","TeraScale 1 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_1
+","80 nm 65 nm","N/A","3.3","10.0 11 (FL 10_0)","N/A","ATI Stream , URL: /wiki/Close_to_Metal
+","Ended","2007","Radeon HD 2900 XT"
+"RV670 , URL: /wiki/Radeon_HD_3000_series
+","TeraScale 1 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_1
+","55 nm","N/A","3.3","10.1 11 (FL 10_1)","N/A","ATI Stream APP , URL: /wiki/AMD_APP_SDK
+","Ended","2007","Radeon HD 3850/3870"
+"RV770 , URL: /wiki/Radeon_HD_4000_series
+","TeraScale 1 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_1
+","55 nm 40 nm","N/A","3.3","10.1 11 (FL 10_1)","N/A","1.0","Ended","2008","Radeon HD 4850/4870"
+"Evergreen , URL: /wiki/Radeon_HD_5000_series
+","TeraScale 2 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_2
+","40 nm","N/A","4.5 (Linux 4.2) [2][3][4][c]","11 (FL 11_0)","N/A","1.2","Ended","2009","Radeon HD 5850/5870"
+"Northern Islands , URL: /wiki/Radeon_HD_6000_series
+","TeraScale 3 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_3
+","40 nm","N/A","4.5 (Linux 4.2) [2][3][4][c]","11 (FL 11_0)","N/A","1.2","Ended","",""
+"Southern Islands , URL: /wiki/Radeon_HD_7000_series
+","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","28 nm","1.0","4.6","11 (FL 11_1) 12 (FL11_1)","//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/13px-Yes_check.svg.png
+","1.2 2.0 possible","Ended","2012","Radeon HD 7950/7970"
+"Sea Islands , URL: /wiki/Radeon_Rx_200_series
+","GCN 2nd gen , URL: /wiki/Graphics_Core_Next#second
+","28 nm","1.2","4.6","11 (FL 12_0) 12 (FL 12_0)","//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/13px-Yes_check.svg.png
+","2.0 (1.2 in MacOS, Linux) 2.1 Beta in Linux ROCm 2.2 possible","Ended","2013","Radeon HD 7790"
+"Volcanic Islands , URL: /wiki/Radeon_Rx_300_series
+","GCN 3rd gen , URL: /wiki/Graphics_Core_Next#third
+","28 nm","1.2","4.6","11 (FL 12_0) 12 (FL 12_0)","//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/13px-Yes_check.svg.png
+","2.0 (1.2 in MacOS, Linux) 2.1 Beta in Linux ROCm 2.2 possible","Ended","",""
+"Polaris , URL: /wiki/Radeon_RX_400_series
+","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","14 nm","1.2","4.6","11 (FL 12_0) 12 (FL 12_0)","//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/13px-Yes_check.svg.png
+","2.0 (1.2 in MacOS, Linux) 2.1 Beta in Linux ROCm 2.2 possible","Current","2016","Radeon RX 480"
+"Vega , URL: /wiki/Radeon_RX_Vega_series
+","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
+","14 nm 7 nm","1.2","4.6","11 (FL 12_1) 12 (FL 12_1)","//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/13px-Yes_check.svg.png
+","2.0 (1.2 in MacOS, Linux) 2.1 Beta in Linux ROCm 2.2 possible","Current","2017","Radeon Vega Frontier Edition"
+"Navi , URL: /wiki/Radeon_RX_5000_series
+","RDNA , URL: /wiki/RDNA_(microarchitecture)
+","7 nm","1.2","4.6","11 (FL 12_1) 12 (FL 12_1)","//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/13px-Yes_check.svg.png
+","2.0 (1.2 in MacOS, Linux) 2.1 Beta in Linux ROCm 2.2 possible","Current","",""
+"Navi 2X , URL: /wiki/Radeon_RX_6000_series
+","RDNA 2 , URL: /wiki/RDNA_(microarchitecture)#RDNA_2
+","7 nm","1.2","4.6","11 (FL 12_1) 12 (FL 12_2)","//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/13px-Yes_check.svg.png
+","2.0 (1.2 in MacOS, Linux) 2.1 Beta in Linux ROCm 2.2 possible","Current","2020","Radeon RX 6800 (XT)"

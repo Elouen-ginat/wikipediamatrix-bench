@@ -1,13 +1,29 @@
-"null","null","null","null","null","null","null","null","null","null"
-"IGP 320","2002","Athlon, Duron","180","266/200 (FSB)","No","Radeon VE IGP (Radeon 7000) 160 MHz, AGP 4x","ATI IXP200/IXP250, VIA VT82C686B, ALI M1535D+","A-Link/PCI","HydraVision, Video Immersion, TV-out"
-"IGP 320M","Athlon 4 Mobile, Athlon XP-M, Mobile Duron","ATI PowerPlay, HydraVision, Video Immersion, TV-out","null","null","null","null","null","null","null"
-"ATI Radeon 380 IGP","","Athlon 64, Sempron (Socket 754)","150","800? BI-DIRECTIONAL","No","Radeon 9000 IGP, AGP 8x","SB300C, SB380, SB210 (IXP200/250)","",""
-"","","Athlon 64 Sempron (Socket754)","150","800? BI-DIRECTIONAL","No","AGP 8x","SB300C, SB380, SB210 (IXP200/250)","",""
-"ATI Radeon 380M IGP","","Mobile Athlon 64, Mobile Sempron, Turion 64","150","800 BI-DIRECTIONAL","No","Radeon 9000 IGP, AGP 8x","","","Mobile chipset powerplay 4.0"
-"ATI Radeon Xpress 200","Nov 8 2004","Athlon 64, Athlon 64 FX, Athlon 64 X2, Sempron","130","1000 BI-DIRECTIONAL","No","Radeon X300 graphics core 300 MHz","SB400, SB450, SB460, ULi M1573","A-Link Express",""
-"ATI Radeon Xpress 200P","Nov 8 2004","Athlon 64, Athlon 64 FX, Athlon 64 X2, Sempron","130","1000 BI-DIRECTIONAL","No","","SB400, SB450, SB460, ULi M1573","A-Link Express",""
-"ATI Radeon Xpress 200M (1100/1150)","Nov 8 2004","Mobile Athlon 64, Mobile Sempron, Turion 64, Athlon 64","130","800 BI-DIRECTIONAL","No","Radeon X300 IGP (Xpress 1100, 300 MHz/ Xpress 1150, 400 MHz)","","","Mobile chipset powerplay 5.0"
-"ATI Radeon Xpress 1100 (ATI Radeon Xpress 200)","2005","Athlon 64, Athlon 64 FX, Athlon 64 X2, Sempron","110","1000 BI-DIRECTIONAL","No","Radeon X300 IGP, 300 MHz","SB450, SB460, ULi M1575","A-Link Express II","No sideport memory"
-"ATI Radeon Xpress 1150 (ATI Radeon Xpress 200)","May 23, 2006","Athlon 64, Athlon 64 FX, Athlon 64 X2, Sempron","110","1000 BI-DIRECTIONAL","No","Radeon X300 IGP, 400 MHz","SB450, SB460, SB600, ULi M1575","A-Link Express II",""
-"ATI CrossFire Xpress 1600 (ATI Radeon Xpress 200 Crossfire Edition)","Sep 27 2005","Athlon 64, Athlon 64 FX, Athlon 64 X2, Sempron","110","1000 BI-DIRECTIONAL","Yes, x8","","SB600, ULi M1575","A-Link Express II",""
-"ATI Radeon Xpress 3200","March 1, 2006","Athlon 64, Athlon 64 FX, Athlon 64 X2, Sempron","110","1000 BI-DIRECTIONAL","Yes, x16","","SB600","A-Link Express II",""
+"Codename","Model","Year","Fabrication process , URL: /wiki/Semiconductor_device_fabrication
+nm , URL: /wiki/Nanometre
+","SATA , URL: /wiki/Serial_ATA
+","USB , URL: /wiki/Universal_Serial_Bus
+","Audio , URL: /wiki/Sound_card#Integrated_sound_hardware_on_PC_motherboards
+","IDE Channels , URL: /wiki/Parallel_ATA
+","Notes"
+"IXP200","320(M) , URL: /wiki/Comparison_of_ATI_chipsets#Comparison_of_Northbridges
+330/34x(M)/350M/360 , URL: /wiki/Comparison_of_ATI_chipsets#Comparison_of_Northbridges_2
+","2002","","0","USB2 , URL: /wiki/Universal_Serial_Bus#USB_2.0_data_rates
+","AC'97 , URL: /wiki/AC%2797
+","ATA100 , URL: /wiki/Parallel_ATA#Features_introduced_with_each_ATA_revision
+","A-Link, 3Com 10/100 Ethernet"
+"IXP250","320(M) , URL: /wiki/Comparison_of_ATI_chipsets#Comparison_of_Northbridges
+330/34x(M)/350M/360 , URL: /wiki/Comparison_of_ATI_chipsets#Comparison_of_Northbridges_2
+","2002","","0","USB2 , URL: /wiki/Universal_Serial_Bus#USB_2.0_data_rates
+","AC'97 , URL: /wiki/AC%2797
+","ATA100 , URL: /wiki/Parallel_ATA#Features_introduced_with_each_ATA_revision
+",""
+"SB300C","","2003","","1 (SATA 150Mbit/s)","6","AC'97","2 (ATA133)","APM , URL: /wiki/Advanced_power_management
+"
+"IXP380/SB380","","2003","","1 (SATA 150Mbit/s)","6 (USB 2.0)","AC'97","2 (ATA 133)","APM , URL: /wiki/Advanced_power_management
+"
+"IXP400/SB400","Radeon Xpress 200 Radeon Xpress 1150","2004","","4","8","HD","2",""
+"IXP450/SB450","Radeon Xpress 200 Radeon Xpress 1150","2004","","4","8","HD","2 (UDMA 100/133)","RAID 0 and 1"
+"IXP460/SB460","Radeon Xpress 1600 Radeon Xpress 1150","2004","","4","8","HD","1",""
+"SB600","AMD 480/570/580 CrossFire Chipset","2006","130","4","10","HD","1 (ATA 133)","eSATA , URL: /wiki/Serial_ATA#eSATA
+ASF 2.0 , URL: https://web.archive.org/web/20071017220953/http://broadcom.com/products/asf/
+"

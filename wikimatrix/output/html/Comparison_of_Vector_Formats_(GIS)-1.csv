@@ -1,10 +1,6 @@
-"null","null"
-"",""
-"",""
-"Open Geospatial Consortium","?"
-"",""
-"",""
-"",""
-"ESRI",""
-"",""
-"",""
+"","Point","Multipoint","Line","Polyline","MultiPolyline","Polygon","Multipolygon"
+"GeoJSON , URL: /wiki/GeoJSON
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Personal Geodatabase","Yes","No","Yes","No","No","Yes","No"
+"Shapefile , URL: /wiki/Shapefile
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes (as Polygon with multiple outer rings or as MultiPatch)"

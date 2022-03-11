@@ -1,1 +1,116 @@
-"","This article may be confusing or unclear to readers. Please help clarify the article. There might be a discussion about this on the talk page. (March 2014) (Learn how and when to remove this template message)"
+"Name","Lexer algorithm","Output languages , URL: /wiki/Programming_language
+","Grammar, code","Development platform","License , URL: /wiki/Software_license
+"
+"Alex","DFA , URL: /wiki/Deterministic_finite_automaton
+","Haskell , URL: /wiki/Haskell_(programming_language)
+","Mixed","All","BSD , URL: /wiki/BSD_licenses
+"
+"AnnoFlex","DFA , URL: /wiki/Deterministic_finite_automaton
+","Java , URL: /wiki/Java_(programming_language)
+","Mixed","Java virtual machine , URL: /wiki/Java_virtual_machine
+","BSD , URL: /wiki/BSD_licenses
+"
+"Astir","DFA , URL: /wiki/Deterministic_finite_automaton
+","C++ , URL: /wiki/C%2B%2B
+","Only grammar (actioned)","All","MIT , URL: /wiki/MIT_License
+"
+"AustenX","DFA , URL: /wiki/Deterministic_finite_automaton
+","Java , URL: /wiki/Java_(programming_language)
+","Separate","All","BSD , URL: /wiki/BSD_licenses
+"
+"C# Flex","DFA , URL: /wiki/Deterministic_finite_automaton
+","C# , URL: /wiki/C_Sharp_(programming_language)
+","Mixed",".NET CLR , URL: /wiki/Common_Language_Runtime
+","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"C# Lex","DFA , URL: /wiki/Deterministic_finite_automaton
+","C# , URL: /wiki/C_Sharp_(programming_language)
+","Mixed",".NET CLR , URL: /wiki/Common_Language_Runtime
+","?"
+"Carburetta","DFA , URL: /wiki/Deterministic_finite_automaton
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","Mixed","All","Apache , URL: /wiki/Apache_License
+"
+"CookCC","DFA , URL: /wiki/Deterministic_finite_automaton
+","Java , URL: /wiki/Java_(programming_language)
+","Mixed","Java virtual machine , URL: /wiki/Java_virtual_machine
+","Apache , URL: /wiki/Apache_License
+"
+"DFA (inc. w. LRSTAR)","DFA compressed matrix , URL: /wiki/Deterministic_finite_automaton
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","Separate","Visual Studio","BSD , URL: /wiki/BSD_licenses
+"
+"Dolphin","DFA , URL: /wiki/Deterministic_finite_automaton
+","C++ , URL: /wiki/C%2B%2B
+","Separate","All","Proprietary , URL: /wiki/Proprietary_software
+"
+"Flex , URL: /wiki/Flex_(lexical_analyser_generator)
+","DFA , URL: /wiki/Deterministic_finite_automaton
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","Mixed","All","BSD , URL: /wiki/BSD_licenses
+"
+"gelex","DFA , URL: /wiki/Deterministic_finite_automaton
+","Eiffel , URL: /wiki/Eiffel_(programming_language)
+","Mixed","Eiffel , URL: /wiki/Eiffel_(programming_language)
+","MIT , URL: /wiki/MIT_License
+"
+"golex","DFA , URL: /wiki/Deterministic_finite_automaton
+","Go , URL: /wiki/Go_(programming_language)
+","Mixed","Go , URL: /wiki/Go_(programming_language)
+","BSD , URL: /wiki/BSD_licenses
+"
+"gplex","DFA , URL: /wiki/Deterministic_finite_automaton
+","C# , URL: /wiki/C_Sharp_(programming_language)
+","Mixed",".NET CLR , URL: /wiki/Common_Language_Runtime
+","BSD , URL: /wiki/BSD_licenses
+"
+"JFlex","DFA , URL: /wiki/Deterministic_finite_automaton
+","Java , URL: /wiki/Java_(programming_language)
+","Mixed","Java virtual machine , URL: /wiki/Java_virtual_machine
+","BSD , URL: /wiki/BSD_licenses
+"
+"JLex","DFA , URL: /wiki/Deterministic_finite_automaton
+","Java , URL: /wiki/Java_(programming_language)
+","Mixed","Java virtual machine , URL: /wiki/Java_virtual_machine
+","BSD , URL: /wiki/BSD_licenses
+"
+"lex , URL: /wiki/Lex_(software)
+","DFA , URL: /wiki/Deterministic_finite_automaton
+","C , URL: /wiki/C_(programming_language)
+","Mixed","POSIX , URL: /wiki/POSIX
+","proprietary , URL: /wiki/Proprietary_software
+CDDL , URL: /wiki/Common_Development_and_Distribution_License
+"
+"lexertl","DFA , URL: /wiki/Deterministic_finite_automaton
+","C++ , URL: /wiki/C%2B%2B
+","?","All","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"Quex","DFA , URL: /wiki/Deterministic_finite_automaton
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","Mixed","All","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"Ragel , URL: /wiki/Ragel
+","DFA , URL: /wiki/Deterministic_finite_automaton
+","Go , URL: /wiki/Go_(programming_language)
+C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+assembly , URL: /wiki/Assembly_language
+","Mixed","All","GNU GPL , URL: /wiki/GNU_General_Public_License
+MIT , URL: /wiki/MIT_License
+"
+"RE/flex , URL: /wiki/RE/flex
+","DFA , URL: /wiki/Deterministic_finite_automaton
+NFA , URL: /wiki/Nondeterministic_finite_automaton
+","C++ , URL: /wiki/C%2B%2B
+","Mixed","All","BSD , URL: /wiki/BSD_licenses
+"
+"re2c , URL: /wiki/Re2c
+","DFA , URL: /wiki/Deterministic_finite_automaton
+","C , URL: /wiki/C_(programming_language)
+Go , URL: /wiki/Go_(programming_language)
+","Mixed","All","public domain , URL: /wiki/Public_domain
+"

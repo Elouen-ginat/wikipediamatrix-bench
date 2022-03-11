@@ -1,0 +1,91 @@
+"Name","Whole disk","Partition","File","Swap space","Hibernation file","RAID"
+"Aloaha Secure Stick","No","No","Yes","No","No","?"
+"ArchiCrypt Live","Yes (except for the boot volume)","Yes","Yes","No","No","?"
+"BestCrypt , URL: /wiki/BestCrypt
+","Yes","Yes","Yes","Yes","Yes[114]","?"
+"BitArmor , URL: /wiki/BitArmor
+","No","Yes","No","Yes","Yes","?"
+"BitLocker , URL: /wiki/BitLocker
+","Yes (except for the boot volume)","Yes","Yes[115]","Yes (parent volume is encrypted)","Yes (parent volume is encrypted)","?"
+"Bloombase StoreSafe","Yes","Yes","Yes","Yes","No","Yes"
+"CenterTools DriveLock","Yes","Yes","Yes","Yes","Yes","?"
+"CGD","Yes","Yes","Yes[73]","Yes","No","?"
+"Check Point Full Disk Encryption","Yes","Yes","Yes","Yes","Yes","?"
+"CipherShed , URL: /wiki/CipherShed
+","Yes","Yes","Yes","Yes","only on Windows","?"
+"CrossCrypt , URL: /wiki/CrossCrypt
+","No","No","Yes","No","No","?"
+"CryFS","No","No","No","No","No","?"
+"CryptArchiver","No","No","Yes","No","No","?"
+"Cryptic Disk","No","Yes","Yes","No","No","?"
+"Cryhod","No","Yes","No","Yes","Yes (parent volume is encrypted)","?"
+"Cryptoloop , URL: /wiki/Cryptoloop
+","Yes","Yes","Yes","Yes","No","?"
+"Cryptomill","Yes","N/A","Yes","N/A","N/A","?"
+"CryptoPro Secure Disk Enterprise","Yes","Yes","Yes (add-on Secure Device)","Yes","Yes","?"
+"CryptoPro Secure Disk for BitLocker","Yes","Yes","Yes","Yes","Yes","?"
+"DiskCryptor , URL: /wiki/DiskCryptor
+","No","Yes","No","Yes","Yes","?"
+"Disk Protect , URL: /w/index.php?title=Disk_Protect&action=edit&redlink=1
+","Yes","No","No","Yes","Yes","?"
+"Dm-crypt , URL: /wiki/Dm-crypt
+LUKS , URL: /wiki/Linux_Unified_Key_Setup
+","Yes","Yes","Yes[116]","Yes","Yes[117]","?"
+"DriveCrypt , URL: https://www.securstar.com/en/drivecrypt.html
+","Yes","Yes[86]","Yes[86]","Yes","Yes","?"
+"DriveSentry , URL: /wiki/DriveSentry
+","No","Yes","Yes","No","No","?"
+"E4M , URL: /wiki/E4M
+","No","Yes","Yes","No","No","?"
+"e-Capsule Private Safe","No","No","Yes[118]","No","No","?"
+"eCryptfs","No","No","Yes","No","No","?"
+"EgoSecure HDD Encryption","Yes","Yes","Yes","Yes","Yes","?"
+"EncryptUSB","No","No","Yes","No","No","?"
+"FileVault , URL: /wiki/FileVault
+","No","No","Yes[90]","Yes[119][90]","Yes[119][120]",""
+"FileVault 2 , URL: /wiki/FileVault
+","Yes[121]","Yes[91]","No","Yes","Yes","?"
+"FREE CompuSec","Yes","No","Yes","Yes","Yes","?"
+"FreeOTFE , URL: /wiki/FreeOTFE
+","Yes (except for the boot volume)","Yes","Yes","No","No","?"
+"GBDE , URL: /wiki/GBDE
+","Yes","Yes","Yes[122]","Yes","No","?"
+"GELI , URL: /wiki/Geli_(software)
+","Yes","Yes","Yes[122]","Yes","No","?"
+"Loop-AES","Yes","Yes[97]","Yes[97]","Yes[97]","Yes[97]","?"
+"McAfee Drive Encryption (SafeBoot)","Yes","Yes","Yes","Yes","Yes[123]","?"
+"n-Crypt Pro","Yes","Yes","Yes","No","No","?"
+"PGPDisk , URL: /wiki/PGPDisk
+","Yes","Yes","Yes","Yes","only on Windows","?"
+"Private Disk , URL: /wiki/Private_Disk
+","No","No","Yes","No","No","?"
+"ProxyCrypt","Yes","Yes","Yes","No","No","?"
+"R-Crypto","No","No","Yes","No","No","?"
+"SafeGuard Easy","Yes","Yes","extra module","Yes","Each sector on disk is encrypted","?"
+"SafeGuard Enterprise","Yes","Yes","Yes","Yes","Each sector on disk is encrypted","?"
+"SafeGuard PrivateDisk","No","No","Yes","No","No","?"
+"SafeHouse Professional","No","No","Yes","No","No","?"
+"Scramdisk , URL: /wiki/Scramdisk
+","No","Yes","Yes","No","No","?"
+"Scramdisk , URL: /wiki/Scramdisk
+","Yes","Yes","Yes","Yes","No","?"
+"SecuBox","No","No","Yes","N/A","No","?"
+"SecureDoc , URL: https://www.winmagic.com/encryption-solutions/enterprise-encryption
+","Yes[106]","Yes","Yes","Yes","Yes","?"
+"Sentry 2020 , URL: /wiki/Sentry_2020
+","No","No","Yes","No","No","?"
+"Seqrite , URL: /wiki/Seqrite
+","Yes","Yes","Yes","Yes","Yes","RAID-5"
+"Softraid / RAID C","Yes","Yes","No","Yes (encrypted by default in OpenBSD)[124]","No","?"
+"Svnd / Vnconfig","?","Yes","Yes","Yes (encrypted by default in OpenBSD)","?","?"
+"SpyProof!","No","Yes","Yes","No","No","?"
+"Symantec , URL: /wiki/NortonLifeLock
+","Yes","Yes","Yes","Yes","Yes","?"
+"Trend Micro , URL: /wiki/Trend_Micro
+","Yes","Yes","Yes","Yes","Yes","?"
+"TrueCrypt , URL: /wiki/TrueCrypt
+","Yes[125]","Yes","Yes","Yes","only on Windows[111]","?"
+"VeraCrypt , URL: /wiki/VeraCrypt
+","Yes","Yes","Yes","Yes","only on Windows[111]","?"
+"CyberSafe Top Secret","No","Yes","Yes","No","No","?"
+"Name","Whole disk","Partition","File","Swap space","Hibernation file","RAID"

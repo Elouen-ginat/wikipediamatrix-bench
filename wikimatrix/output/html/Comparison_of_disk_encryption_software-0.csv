@@ -1,0 +1,203 @@
+"Name","Developer","First released","Licensing","Maintained?"
+"Aloaha Crypt Disk","Aloaha","2008","Source Auditable for Commercial Customers","Yes"
+"ArchiCrypt Live","Softwaredevelopment Remus ArchiCrypt","1998","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"BestCrypt , URL: /wiki/BestCrypt
+","Jetico","1993[1]","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"BitArmor DataControl","BitArmor Systems Inc. , URL: /wiki/BitArmor
+","2008-05","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"BitLocker , URL: /wiki/BitLocker
+","Microsoft , URL: /wiki/Microsoft
+","2006","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Bloombase StoreSafe","Bloombase","2012","Proprietary , URL: /wiki/Proprietary_software
+","No[2]"
+"Boxcryptor , URL: /w/index.php?title=Boxcryptor&action=edit&redlink=1
+","Secomba GmbH","2011","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"CGD","Roland C. Dowdeswell","2002-10-04[3]","BSD , URL: /wiki/BSD_licenses
+","Yes"
+"CenterTools DriveLock","CenterTools","2008","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Check Point Full Disk Encryption","Check Point Software Technologies Ltd , URL: /wiki/Check_Point
+","1999[4][5][6]","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"CipherShed , URL: /wiki/CipherShed
+","CipherShed Project","2014[7]","TrueCrypt License Version 3.0[8]","No"
+"CrossCrypt , URL: /wiki/CrossCrypt
+","Steven Scherrer","2004-02-10[9]","GPL , URL: /wiki/GNU_General_Public_License
+","No"
+"CryFS","Sebastian Messmer","2015","LGPLv3 , URL: /wiki/GNU_Lesser_General_Public_Licence
+","Yes"
+"Cryhod","Prim'X Technologies","2010","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Cryptainer","Cypherix Software","1999","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Cryptic Disk","Exlade","2003","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"CryptArchiver","WinEncrypt","?","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Cryptoloop , URL: /wiki/Cryptoloop
+","?","2003-07-02[10]","GPL , URL: /wiki/GNU_General_Public_License
+","No"
+"Cryptomator","Skymatic UG (haftungsbeschränkt)","2016-03-09[11]","GPLv3 , URL: /wiki/GPLv3
+","Yes"
+"CryptoPro Secure Disk Enterprise","cpsd it-services GmbH","2010","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"CryptoPro Secure Disk for BitLocker","cpsd it-services GmbH","2012","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"CryptSync","Stefan Küng","2012","Gpl v2 , URL: /wiki/Gpl_v2
+","Yes"
+"Discryptor","Cosect Ltd.","2008","Proprietary , URL: /wiki/Proprietary_software
+","No"
+"DiskCryptor , URL: /wiki/DiskCryptor
+","ntldr, David Xanatos","2007","GPL , URL: /wiki/GNU_General_Public_License
+","Yes[12]"
+"DISK Protect","Becrypt Ltd","2001","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Cryptsetup , URL: /wiki/Cryptsetup
+Dmsetup , URL: /wiki/Dmsetup
+","Christophe Saout","2004-03-11[13]","GPL , URL: /wiki/GNU_General_Public_License
+","Yes"
+"Dm-crypt , URL: /wiki/Dm-crypt
+LUKS , URL: /wiki/LUKS
+","Clemens Fruhwirth (LUKS)","2005-02-05[14]","GPL , URL: /wiki/GNU_General_Public_License
+","Yes"
+"DriveCrypt , URL: https://www.securstar.com/en/drivecrypt.html
+","SecurStar GmbH","2001","Proprietary , URL: /wiki/Proprietary_software
+","Yes[15]"
+"DriveSentry , URL: /wiki/DriveSentry
+","DriveSentry","2008","Proprietary , URL: /wiki/Proprietary_software
+","No"
+"E4M , URL: /wiki/E4M
+","Paul Le Roux , URL: /wiki/Paul_Le_Roux
+","1998-12-18[16]","Open source , URL: /wiki/Open_source_software
+","No"
+"e-Capsule Private Safe","EISST Ltd.","2005","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"eCryptfs , URL: /wiki/ECryptfs
+","Dustin Kirkland, Tyler Hicks, (formerly Mike Halcrow)","2005[17]","GPL , URL: /wiki/GNU_General_Public_License
+","Yes"
+"EgoSecure HDD Encryption","EgoSecure GmbH","2006","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"EncFS , URL: /wiki/EncFS
+","Valient Gough","2003[18]","LGPLv3 , URL: /wiki/GNU_Lesser_General_Public_License
+","Yes"
+"EncryptStick","ENC Security Systems","2009","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"EncryptUSB","ClevX","2016","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"FileVault , URL: /wiki/FileVault
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","2003-10-24","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"FileVault 2 , URL: /wiki/FileVault
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","2011-07-20","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"FREE CompuSec","CE-Infosys","2002","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"FreeOTFE , URL: /wiki/FreeOTFE
+","Sarah Dean","2004-10-10[19]","Open source , URL: /wiki/Open_source_software
+","No"
+"GBDE , URL: /wiki/GBDE
+","Poul-Henning Kamp , URL: /wiki/Poul-Henning_Kamp
+","2002-10-19[20]","BSD , URL: /wiki/BSD_licenses
+","No"
+"GELI , URL: /wiki/Geli_(software)
+","Pawel Jakub Dawidek","2005-04-11[21]","BSD , URL: /wiki/BSD_licenses
+","Yes"
+"GnuPG , URL: /wiki/GNU_Privacy_Guard
+","Werner Koch , URL: /wiki/Werner_Koch
+","1999-09-07[22]","GPL , URL: /wiki/GNU_General_Public_License
+","Yes"
+"gocryptfs","Jakob Unterwurzacher","2015-10-07[23]","MIT / X Consortium License , URL: /wiki/MIT_License
+","Yes"
+"Knox","AgileBits","2010","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"KryptOS","The MorphOS Development Team","2010","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"LibreCrypt","tdk","2014-06-19[24]","Open source , URL: /wiki/Open_source_software
+","No"
+"Loop-AES","Jari Ruusu","2001-04-11","GPL , URL: /wiki/GNU_General_Public_License
+","Yes"
+"McAfee Drive Encryption (SafeBoot)","McAfee, LLC , URL: /wiki/McAfee
+","2007[25]","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"n-Crypt Pro","n-Trance Security Ltd","2005","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"NetLib Encryptionizer (directory encryption) , URL: https://netlibsecurity.com/
+","NetLib Security","1987","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Nodrive (Virtual Encrypted Disk) , URL: https://www.nodrive.cloud/
+","Hidden Solutions","2018","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"PGPDisk , URL: /wiki/PGPDisk
+","PGP Corporation , URL: /wiki/PGP_Corporation
+","1998-09-01[26]","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Private Disk , URL: /wiki/Private_Disk
+","Dekart","1993[27]","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"ProxyCrypt","v77","2013","Open source , URL: /wiki/Open_source_software
+","Yes"
+"R-Crypto","R-Tools Technology Inc","2008","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"SafeGuard Easy","Sophos , URL: /wiki/Sophos
+","1993[28]","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"SafeGuard Enterprise","Sophos , URL: /wiki/Sophos
+","2007[29]","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"SafeGuard PrivateDisk","Sophos , URL: /wiki/Sophos
+","2000","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"SafeHouse Professional","PC Dynamics, Inc.","1992","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Scramdisk , URL: /wiki/Scramdisk
+","Shaun Hollingworth","1997-07-01","Open source , URL: /wiki/Open_source_software
+","No"
+"Scramdisk , URL: /wiki/Scramdisk
+","Hans-Ulrich Juettner","2005-08-06[31]","GPL , URL: /wiki/GNU_General_Public_License
+","No"
+"SecuBox","Aiko Solutions","2007-02-19","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"SECUDE Secure Notebook","SECUDE","2003","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"SecureDoc","WinMagic Inc. , URL: https://www.winmagic.com
+","1997","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Seqrite , URL: /wiki/Seqrite
+","Quick Heal , URL: /wiki/Quick_Heal
+","2017","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Sentry 2020 , URL: /wiki/Sentry_2020
+","SoftWinter","1998[32]","Proprietary , URL: /wiki/Proprietary_software
+","No"
+"Softraid / RAID C","OpenBSD","2007-11-01[33]","BSD , URL: /wiki/BSD_licenses
+","Yes"
+"SpyProof!","Information Security Corp.","2002","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Svnd / Vnconfig","OpenBSD","2000-12-01[34]","BSD , URL: /wiki/BSD_licenses
+","Yes"
+"Symantec , URL: /wiki/NortonLifeLock
+","Symantec Corporation , URL: /wiki/NortonLifeLock
+","2008","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Tcplay","Alex Hornung","2012-01-28[35]","BSD , URL: /wiki/BSD_licenses
+","Yes"
+"Trend Micro , URL: /wiki/Trend_Micro
+","Trend Micro , URL: /wiki/Trend_Micro
+","2004 or earlier[37]","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"TrueCrypt , URL: /wiki/TrueCrypt
+","TrueCrypt Foundation","2004-02-02[38]","TrueCrypt License 3.1[39]","No"
+"USBCrypt","WinAbility Software Corp.","2010","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"VeraCrypt , URL: /wiki/VeraCrypt
+","IDRIX","2013-06-22[40]","Apache License 2.0[41] TrueCrypt License Version 3.0 (legacy code only)","Yes"
+"CyberSafe Top Secret","CyberSoft","2013","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Name","Developer","First released","Licensing","Maintained?"

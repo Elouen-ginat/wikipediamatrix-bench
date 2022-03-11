@@ -1,0 +1,33 @@
+"Model","Launch","Core","Fab (nm)","Transistors (million)","mm2 , URL: /wiki/Millimeter_Squared
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Memory clock (MHz)","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","TDP , URL: /wiki/Thermal_Design_Power
+","Notes"
+"Model","Launch","Core","Fab (nm)","Transistors (million)","mm2 , URL: /wiki/Millimeter_Squared
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Memory clock (MHz)","Core config1","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","MB , URL: /wiki/Megabyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","TDP , URL: /wiki/Thermal_Design_Power
+","Notes"
+"FirePro 2250[249]","2007-01-01","RV516","80","107","100","PCIe , URL: /wiki/PCIE
+","600","500","2:4:4:4","2.4","0.3","256","32","DDR2 , URL: /wiki/DDR2_SDRAM
+","256","9.0c","2.1 (no)","20/11","DMS-59 for dual DVI-D output"
+"FirePro 2270[250]","2011-01-31","Cedar GL (RV810)","40","292","59","PCIe 2.1 , URL: /wiki/PCIE
+","600","600","80(16×5):8:4:1","2.4","4.8","512 1024","9.6","GDDR3 , URL: /wiki/GDDR3
+","64","11.0","4.3 (1.2)","15/8 17/8","DMS-59 for dual output: DP or DVI-I or D-sub"
+"FirePro 2450 Multi-View[251]","2009-01-01","2x RV620 (Terascale 1)","55","2× 181","2× 61","PCIe , URL: /wiki/PCIE
+","600","600","2× 40(8×5):4:4:1","2.4","4.8","512","38.4","GDDR3 , URL: /wiki/GDDR3
+","256","10.1","3.3 (APP)","36/18","2x VHDCI for quad output: DVI-I or D-sub"
+"FirePro 2460 Multi-View[252][253]","2010-04-01","Cedar GL (RV810) (Tera-scale2)","40","292","59","PCIe , URL: /wiki/PCIE
+","500","500","80(16×5):8:4:1","2.0","4.0","512","32","GDDR5 , URL: /wiki/GDDR5
+","64","11.0","4.3 (1.2)","17/13","4x Mini DP for quad output: DP or DVI-D, UVD2, PowerPlay, Eyefinity"

@@ -1,0 +1,54 @@
+"Name","GUI , URL: /wiki/Graphical_User_Interface
+","CLI , URL: /wiki/Command_Line_Interface
+","Scripting","Horizontal / vertical","Syntax highlighting","Reports"
+"Beyond Compare , URL: /wiki/Beyond_Compare
+","Yes","Yes","Yes","Both","Yes","XML, HTML, CSV, Text, Unix Patch"
+"Compare++ , URL: /wiki/Compare%2B%2B
+","Yes","Yes","","Both","Yes","HTML, Text(combined or side-by-side)"
+"diff , URL: /wiki/Diff
+","No","Yes","","Horizontal","Yes pipe to diff-highlight[28]",""
+"diff3 , URL: /wiki/Diff3
+","No","Yes","","Horizontal","",""
+"Eclipse , URL: /wiki/Eclipse_(software)
+","Yes","","","Vertical","Yes",""
+"Ediff , URL: /wiki/Ediff
+","Yes","Yes","elisp","Both","Yes",""
+"ExamDiff Pro , URL: /wiki/ExamDiff_Pro
+","Yes","Yes","","optional","Yes","UNIX, HTML, Diff"
+"Far Manager , URL: /wiki/Far_Manager
+","Yes","Yes","Yes","","Yes","No"
+"fc , URL: /wiki/Microsoft_File_Compare
+","No","Yes","","Horizontal","",""
+"FileMerge (aka opendiff) , URL: /wiki/Apple_Developer_Tools#FileMerge
+","Yes","Yes","","Vertical","Yes","No"
+"Guiffy SureMerge , URL: /wiki/Guiffy_SureMerge
+","Yes","Yes","Java API","Both","Yes","HTML, Text, Unix Patch"
+"IntelliJ IDEA , URL: /wiki/IntelliJ_IDEA
+","Yes","Yes","","Vertical","Yes",""
+"jEdit JDiff plugin , URL: /wiki/JEdit
+","Yes","","","Both","Yes",""
+"Lazarus , URL: /wiki/Lazarus_(software)
+","Yes","","","","Yes",""
+"Meld , URL: /wiki/Meld_(software)
+","Yes","No","","","Yes","No"
+"Notepad++ (compare) , URL: /wiki/Notepad%2B%2B
+","Yes","Yes","","Both","Yes","No"
+"Perforce P4Merge , URL: /wiki/Perforce
+","Yes","Yes","","Vertical","Yes","No"
+"Pretty Diff , URL: /wiki/Pretty_Diff
+","Yes","Yes","JavaScript","Both","Yes","XHTML"
+"Tkdiff , URL: /wiki/Tkdiff
+","Yes","","","","",""
+"Total Commander , URL: /wiki/Total_Commander
+","Yes","","","Both","No","No"
+"vimdiff , URL: /wiki/Vim_(text_editor)#Features_and_improvements_over_vi
+","Yes","Yes","vim script","Both","Yes","HTML"
+"WinDiff , URL: /wiki/WinDiff
+","Yes","Yes","","Horizontal","No","Text"
+"WinMerge , URL: /wiki/WinMerge
+","Yes","Yes","","Both","Yes","CSV, Tab-delimited, HTML, XML"
+"UCC , URL: /wiki/Unified_Code_Count_(UCC)
+","Yes","Yes","","Vertical","Yes","Text, CSV"
+"Name","GUI , URL: /wiki/Graphical_User_Interface
+","CLI , URL: /wiki/Command_Line_Interface
+","Scripting","Horizontal / vertical","Syntax highlighting","Reports"

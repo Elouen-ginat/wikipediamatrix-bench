@@ -1,0 +1,106 @@
+"IDE , URL: /wiki/Integrated_development_environment
+","Developer , URL: /wiki/Software_developer
+","release , URL: /wiki/Software_release
+","Windows , URL: /wiki/Microsoft_Windows
+","Linux , URL: /wiki/Linux
+","macOS , URL: /wiki/MacOS
+","Other platforms , URL: /wiki/Platform_(computing)
+","Mobiles , URL: /wiki/Mobile_development
+","Debugger , URL: /wiki/Debugger
+","GUI builder , URL: /wiki/GUI_builder
+","License , URL: /wiki/Software_license
+","Autocomplete , URL: /wiki/Autocomplete
+"
+"Delphi , URL: /wiki/Embarcadero_Delphi
+","Embarcadero Technologies , URL: /wiki/Embarcadero_Technologies
+","Delphi 10.4.2 (Sydney) / February 24 2021","Yes","No","No","macOS , URL: /wiki/MacOS
+Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+Linux , URL: /wiki/Linux
+","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"Free Pascal , URL: /wiki/Free_Pascal
+","Volunteers","3.2.0 / June 19, 2020","Yes","Yes","Yes","AmigaOS , URL: /wiki/AmigaOS
+Android , URL: /wiki/Android_(operating_system)
+FreeBSD , URL: /wiki/FreeBSD
+Game Boy Advance , URL: /wiki/Game_Boy_Advance
+Haiku , URL: /wiki/Haiku_(operating_system)
+AIX , URL: /wiki/IBM_AIX
+iOS , URL: /wiki/IOS
+MorphOS , URL: /wiki/MorphOS
+DOS , URL: /wiki/DOS
+NetBSD , URL: /wiki/NetBSD
+Nintendo DS , URL: /wiki/Nintendo_DS
+Nintendo Wii , URL: /wiki/Nintendo_Wii
+OpenBSD , URL: /wiki/OpenBSD
+OS/2 , URL: /wiki/OS/2
+Solaris , URL: /wiki/Solaris_(operating_system)
+Windows CE , URL: /wiki/Windows_CE
+Java Virtual Machine , URL: /wiki/Java_Virtual_Machine
+LLVM , URL: /wiki/LLVM
+Embedded systems , URL: /wiki/Embedded_systems
+","Yes","Yes","No","GPL , URL: /wiki/GPL
+LGPL , URL: /wiki/LGPL
+","No"
+"KDevelop , URL: /wiki/KDevelop
+","KDevelop Team","5.5.1 (May 5, 2020; 22 months ago (2020-05-05)) [±] (only 3.x supports Pascal)","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+OpenBSD , URL: /wiki/OpenBSD
+NetBSD , URL: /wiki/NetBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+Unix , URL: /wiki/Unix
+","No","No","No","GPL , URL: /wiki/GPL
+",""
+"Lazarus , URL: /wiki/Lazarus_(software)
+","Volunteers","2.0.10 / July 11, 2020","Yes","Yes","Yes","Free Pascal , URL: /wiki/Free_Pascal
+","Yes","Yes","Yes","GPL , URL: /wiki/GPL
+LGPL , URL: /wiki/LGPL
+","Yes"
+"MIDletPascal , URL: /wiki/MIDletPascal
+","Code Research Laboratories","3.5 / February 2, 2013","Yes","No","No","Windows , URL: /wiki/Microsoft_Windows
+Java ME , URL: /wiki/Java_ME
+","Yes","No","No","GPL , URL: /wiki/GPL
+",""
+"Morfik , URL: /wiki/Morfik
+","Morfik Technology Pty Ltd.","2.0.5.27","Yes","Yes","Yes","HTML , URL: /wiki/HTML
+CSS , URL: /wiki/CSS
+XML , URL: /wiki/XML
+JavaScript , URL: /wiki/JavaScript
+web , URL: /wiki/World_Wide_Web
+","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+",""
+"MSEide , URL: /wiki/Free_Pascal#MSEide
+","Martin Schreiber","4.6 / 2017-11-24","Yes","Yes","No","FreeBSD , URL: /wiki/FreeBSD
+","Yes","Yes","Yes","GPL , URL: /wiki/GPL
+LGPL , URL: /wiki/LGPL
+",""
+"Understand , URL: /wiki/Understand_(software)
+","SciTools","4.0 / April 2015","Yes","Yes","Yes","Solaris , URL: /wiki/Solaris_(operating_system)
+","Yes","No","Yes","Proprietary , URL: /wiki/Proprietary_software
+",""
+"Visual Studio , URL: /wiki/Microsoft_Visual_Studio
+Oxygene , URL: /wiki/Oxygene_(programming_language)
+","RemObjects Software , URL: /wiki/RemObjects_Software
+","10.0 / August 2018","Yes and additional Water IDE","No","Yes via Fire IDE","JVM , URL: /wiki/Java_virtual_machine
+.NET , URL: /wiki/.NET_Framework
+Mono , URL: /wiki/Mono_(software)
+Cocoa , URL: /wiki/Cocoa_(API)
+Cocoa Touch , URL: /wiki/Cocoa_Touch
+Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+WebAssembly , URL: /wiki/WebAssembly
+Linux , URL: /wiki/Linux
+","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+","Yes"
+"PocketStudio , URL: /wiki/PocketStudio
+","winsoft , URL: /w/index.php?title=Winsoft&action=edit&redlink=1
+","3.0","No","No","No","Palm OS , URL: /wiki/Palm_OS
+","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+",""
+"Dev-Pascal , URL: /wiki/Dev-Pascal
+","Bloodshed Software , URL: /w/index.php?title=Bloodshed_Software&action=edit&redlink=1
+","1.9.2 (using FPC 1.9.2 from 2005)","Yes","No","No","","No","Yes","No","GPL , URL: /wiki/GPL
+",""
+"PascalABC.NET , URL: /wiki/PascalABC.NET
+","Volunteers","3.4 / Jule 27, 2018","Yes","Yes","Yes","CLR , URL: /wiki/Common_Language_Runtime
+","No","Yes","Yes","LGPL , URL: /wiki/LGPL
+","Yes"

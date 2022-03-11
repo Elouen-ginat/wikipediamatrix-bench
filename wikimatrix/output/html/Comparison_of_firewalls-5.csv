@@ -1,0 +1,13 @@
+"Features:","Modularity: supports third-party modules to extend functionality?","Intrusion prevention system , URL: /wiki/Intrusion_prevention_system
+","Open-Source License?","supports IPv6?","Class: Home / Professional","Operating Systems on which it runs?"
+"Vyatta , URL: /wiki/Vyatta
+","Yes","Yes","Yes","Yes","Professional","Vyatta OS (built on Debian)"
+"WinGate , URL: /wiki/WinGate
+","Yes[a]","?","No","No","Professional","Windows 2000, Windows XP, Windows 2003, Windows Vista, Windows 2008. 32bit and 64bit."
+"OPNsense , URL: /wiki/OPNsense
+","Yes","Yes, with Snort and Suricata (modules)","Yes","Yes","Both","FreeBSD/NanoBSD-based appliance"
+"pfSense , URL: /wiki/PfSense
+","Yes","Yes, with Snort and Suricata (modules)","Yes","Yes","Both","FreeBSD/NanoBSD-based appliance"
+"IPFire , URL: /wiki/IPFire
+","Yes","Yes, with Suricata","Yes","Yes (manual setup needed)","Both","Linux From Scratch , URL: /wiki/Linux_From_Scratch
+"

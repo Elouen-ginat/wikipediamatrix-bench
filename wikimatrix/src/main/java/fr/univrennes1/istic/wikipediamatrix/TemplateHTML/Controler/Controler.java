@@ -5,7 +5,6 @@ import java.util.Map;
 
 import org.jsoup.nodes.Element;
 
-import fr.univrennes1.istic.wikipediamatrix.App;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Balise;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Table;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tbody;
@@ -30,11 +29,11 @@ public class Controler {
         }
     }
 
-    public Balise getBalise(Element child, Balise parent) {
+    public Balise getBalise(Element child) {
         String tag = child.tag().getName();
 
         if (this.tag_map.containsKey(tag)) {
-            return this.tag_map.get(tag).newInstance(child, parent);
+            return this.tag_map.get(tag).newInstance();
         }
         //App.LOGGER.debug("Tag name not present: " + tag);
         return null;

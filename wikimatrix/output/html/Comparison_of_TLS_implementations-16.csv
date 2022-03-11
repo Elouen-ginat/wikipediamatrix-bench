@@ -1,0 +1,35 @@
+"Implementation","/dev/crypto , URL: http://cryptodev-linux.org/
+","af_alg , URL: http://www.chronox.de/crypto-API/crypto/userspace-if.html
+","Windows CSP , URL: /wiki/Cryptographic_Service_Provider
+","CommonCrypto , URL: https://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man3/Common%20Crypto.3cc.html
+","OpenSSL engine , URL: /wiki/OpenSSL
+"
+"Botan , URL: /wiki/Botan_(programming_library)
+","No","No","No","No","Partial"
+"BSAFE , URL: /wiki/BSAFE
+","No","No","No","No","No"
+"cryptlib , URL: /wiki/Cryptlib
+","No","No","No","No","No"
+"GnuTLS , URL: /wiki/GnuTLS
+","Yes","No","No","No","No"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","No","No","Yes","No","No"
+"LibreSSL , URL: /wiki/LibreSSL
+","No","No","No","No","No[227]"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","No","No","No","Yes","Yes"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","No","No","No","No","No"
+"NSS , URL: /wiki/Network_Security_Services
+","No","No","No","No","No"
+"OpenSSL , URL: /wiki/OpenSSL
+","Yes","Yes","No","No","Yes"
+"SChannel , URL: /wiki/SChannel
+","No","No","Yes","No","No"
+"Secure Transport , URL: /wiki/MacOS
+","No","No","No","Yes","No"
+"wolfSSL , URL: /wiki/WolfSSL
+","Yes","Yes","Partial","No","Yes[228]"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","No","No","No","No","Yes"
+"Implementation","/dev/crypto","af_alg","Windows CSP","CommonCrypto","OpenSSL engine"

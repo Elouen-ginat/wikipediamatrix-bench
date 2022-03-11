@@ -1,0 +1,55 @@
+"Audio player","ID3v , URL: /wiki/ID3
+","ID3v , URL: /wiki/ID3
+","APEv2 tag , URL: /wiki/APEv2_tag
+","Vorbis comment , URL: /wiki/Vorbis_comment
+","Cue sheet , URL: /wiki/Cue_sheet_(computing)
+","CD-Text , URL: /wiki/CD-Text
+","WAV , URL: /wiki/WAV
+"
+"AIMP , URL: /wiki/AIMP
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Amarok , URL: /wiki/Amarok_(audio)
+","Yes[metadatanotes 1]","Yes[metadatanotes 1][metadatanotes 2]","Yes[metadatanotes 1]","Yes","Yes[metadatanotes 3]","?","Yes"
+"Audacious , URL: /wiki/Audacious_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","?"
+"Audion , URL: /wiki/Audion_(software)
+","Yes","Yes","No","No","?","?","?"
+"cmus , URL: /wiki/Cmus
+","Yes","Yes","Yes","Yes","Yes","No","?"
+"Cog , URL: /wiki/Cog_(software)
+","Yes","Yes","Yes","Yes","Yes","?","?"
+"foobar2000 , URL: /wiki/Foobar2000
+","Yes","Yes","Yes","Yes","Yes","Yes[metadatanotes 4]","Yes"
+"iTunes , URL: /wiki/ITunes
+","Yes","Yes","Yes","?","?","?","?"
+"JRiver Media Center , URL: /wiki/JRiver_Media_Center
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"JuK , URL: /wiki/JuK
+","Yes[metadatanotes 1]","Yes[metadatanotes 1]","Yes[metadatanotes 1]","Yes[metadatanotes 1]","?","?","?"
+"MediaMonkey , URL: /wiki/MediaMonkey
+","Yes","Yes","Yes","Yes","?","Yes","?"
+"Mixxx , URL: /wiki/Mixxx
+","Yes","Yes","Yes","Yes","No","No","Yes"
+"MPXPLAY , URL: /wiki/MPXPLAY
+","Yes","Yes","Yes","Yes","?","?","?"
+"MusicBee , URL: /wiki/MusicBee
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Musicmatch Jukebox , URL: /wiki/Musicmatch_Jukebox
+","Yes","Yes","No","?","?","Yes","?"
+"musikCube , URL: /wiki/MusikCube
+","Yes","Yes","Yes","?","?","?","?"
+"Quod Libet , URL: /wiki/Quod_Libet_(software)
+","Yes","Yes","Yes","Yes","No","No","Yes"
+"Rhapsody , URL: /wiki/Rhapsody_(online_music_service)
+","Yes","Yes","No","No","?","?","?"
+"Rhythmbox , URL: /wiki/Rhythmbox
+","Yes","Yes","Yes","Yes","?","?","?"
+"Sayonara Player , URL: /wiki/Sayonara_Player
+","Yes","Yes","?","Yes","?","?","?"
+"Sonique , URL: /wiki/Sonique_(media_player)
+","Yes","No","?","?","?","?","?"
+"XMMS , URL: /wiki/XMMS
+","Yes","Yes","No","Yes","?","?","?"
+"Zinf , URL: /wiki/Zinf
+","Yes","Yes","No","Yes","?","?","?"
+"Audio player","ID3v1","ID3v2","APEv2 tag","Vorbis comment","Cue sheet","CD-Text","WAVE chunks"

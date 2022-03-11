@@ -1,1 +1,53 @@
-"","This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of MySQL database engines" – news · newspapers · books · scholar · JSTOR (March 2010) (Learn how and when to remove this template message)"
+"Name","Vendor","License","Transactional , URL: /wiki/Database_transaction#Transactional_databases
+","Under active development","MySQL versions","MariaDB versions"
+"Archive , URL: /wiki/MySQL_Archive
+","Oracle","GPL","No","Yes","5.0 - present","5.1 - present"
+"Aria , URL: /wiki/Aria_(storage_engine)
+","MariaDB , URL: /wiki/MariaDB
+","GPL","No","Yes","None","5.1 - present"
+"Berkeley DB , URL: /wiki/Berkeley_DB
+","Oracle","AGPLv3 , URL: /wiki/Affero_General_Public_License
+","Yes","No","? - 5.0","None"
+"BLACKHOLE , URL: /w/index.php?title=BLACKHOLE&action=edit&redlink=1
+","Oracle","GPL","No","Yes","5.0 - present","5.1 - present"
+"CONNECT , URL: /w/index.php?title=CONNECT_(storage_engine)&action=edit&redlink=1
+","MariaDB , URL: /wiki/MariaDB
+","GPL","No","Yes","None","10.0 - present"
+"CSV , URL: /w/index.php?title=CSV_(storage_engine)&action=edit&redlink=1
+","Oracle","GPL","No","Yes","5.0 - present","5.1 - present"
+"Falcon , URL: /wiki/Falcon_(storage_engine)
+","Oracle","GPL","Yes","No","?","None"
+"Federated , URL: /wiki/MySQL_Federated
+","Oracle","GPL","?","No","5.0 - present","?"
+"FederatedX , URL: /w/index.php?title=FederatedX&action=edit&redlink=1
+","MariaDB , URL: /wiki/MariaDB
+","GPL","Yes","No","None","? - present"
+"ColumnStore (formerly InfiniDB) , URL: /wiki/InfiniDB
+","Calpont","GPL","Yes","Yes","None","10.5.4 - present"
+"InnoDB , URL: /wiki/InnoDB
+","Oracle","GPL","Yes","Yes","3.23 - present","5.1 - present"
+"MEMORY , URL: /wiki/MEMORY_(storage_engine)
+","Oracle","GPL","No","Yes","3.23 - present","5.1 - present"
+"Mroonga","Groonga Project","GPL","No","Yes","None","10.0 - present"
+"MyISAM , URL: /wiki/MyISAM
+","Oracle","GPL","No","No","3.23 - present","5.1 - present"
+"MyRocks , URL: /wiki/MyRocks
+","Facebook","GPLv2","Yes","Yes","None","10.2 - present"
+"NDB , URL: /wiki/MySQL_Cluster
+","Oracle","GPLv2","Yes","Yes","?","None"
+"OQGRAPH , URL: /w/index.php?title=OQGRAPH&action=edit&redlink=1
+","Oracle","GPLv2","No","No","None","5.2 - present"
+"S3 , URL: /w/index.php?title=S3_(storage_engine)&action=edit&redlink=1
+","MariaDB , URL: /wiki/MariaDB
+","GPL","No","Yes","None","10.5 - present"
+"SEQUENCE","MariaDB","GPL","No","Yes","None","10.0 - present"
+"Sphinx , URL: /wiki/Sphinx_(search_engine)#SphinxSE
+","Sphinx Technologies Inc.","GPL","No","No","None","5.2 - present"
+"SPIDER , URL: /w/index.php?title=SPIDER_(storage_engine)&action=edit&redlink=1
+","Kentoku Shiba","GPL","Yes","Yes","None","10.0 - present"
+"TempTable , URL: /w/index.php?title=TempTable&action=edit&redlink=1
+","Oracle","GPL","No","Yes","8.0 - present","None"
+"TokuDB , URL: /wiki/TokuDB
+","Percona","Modified GPL","Yes","No","None","5.5 - present"
+"XtraDB , URL: /wiki/XtraDB
+","Percona","GPL","Yes","Yes","None","5.1 - 10.1"

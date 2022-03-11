@@ -1,0 +1,87 @@
+"Name","Creator","Input format","Languages (alphabet order)","OS support","First public release date","Latest stable version","Software license , URL: /wiki/Software_license
+"
+"COBOLDoc , URL: /w/index.php?title=COBOLDoc&action=edit&redlink=1
+","Bruno Pacheco Lopes da Silva","Text","COBOL","Any","2020/08/01","1.0.11","GPL"
+"Ddoc , URL: /wiki/Ddoc
+","Walter Bright , URL: /wiki/Walter_Bright
+","Text","D","Windows, OS X, Linux and BSD","2005/09/19","DMD 2.078.3","Boost"
+"Document! X , URL: /wiki/Document!_X
+","Innovasys","Text, Binary","C++/CLI only, C#, IDL, Java, VB, VBScript, PL/SQL","Windows only","1998","2014.1","Proprietary"
+"Doxygen , URL: /wiki/Doxygen
+","Dimitri van Heesch","Text","C/C++, C#, D, IDL, Fortran, Java, PHP, Python","Any","1997/10/26","1.9.1","GPL"
+"Epydoc , URL: /wiki/Epydoc
+","Edward Loper","Text","Python","Any","2002/01/—","3.0 (2008)","MIT , URL: /wiki/MIT_License
+"
+"fpdoc , URL: /wiki/Free_Pascal
+","Sebastian Guenther","Text","Pascal","[verification needed]","2005?","2.6.4","GPL"
+"Haddock , URL: /wiki/Haddock_(software)
+","Simon Marlow , URL: /wiki/Simon_Marlow
+","Text","Haskell","Any","2002","2.15.0 (2014)","BSD"
+"HeaderDoc , URL: /wiki/HeaderDoc
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","Text","AppleScript, Bash, Csh, C, C++, Delphi, IDL, Java, JavaScript, MIG, Pascal, Perl, PHP, Python, Ruby, Tcl","Any Unix-like","2000/09/—","8.9.28 (2013)","APSL , URL: /wiki/Apple_Public_Source_License
+"
+"Imagix 4D , URL: /wiki/Imagix_4D
+","Imagix Corp.","Text","C, C++, Java","Windows, Linux, Unix","1995","7.3","Proprietary"
+"Javadoc , URL: /wiki/Javadoc
+","Sun Microsystems , URL: /wiki/Sun_Microsystems
+","Text","Java","Any","1995","1.6","GPL"
+"ScalaDoc , URL: /w/index.php?title=ScalaDoc&action=edit&redlink=1
+","LAMP, EPFL","Text","Scala","Any","2011","1.0","Scala License"
+"JSDoc , URL: /wiki/JSDoc
+","Michael Mathews","Text","JavaScript","Any","2001/07/—","1.10.2","GPL"
+"JsDoc Toolkit , URL: /wiki/JSDoc
+","Michael Mathews","Text","JavaScript","Any","2007?","2.0.0","MIT"
+"mkd , URL: /wiki/Mkd_(Unix_command)
+","Jean-Paul Louyot","Text","Any with comments","Unix, Linux, Windows","1989","2015","EUPL , URL: /wiki/EUPL
+"
+"Natural Docs , URL: /wiki/Natural_Docs
+","Greg Valure","Text","Any with comments","Any","2003/05/26","2.0.2","GPL"
+"NDoc , URL: /wiki/NDoc
+","Jason Diamond, Jean-Claude Manoli, Kral Ferch","Binary","C#","Windows only","2003/07/27","1.3.1","GPL"
+"pdoc , URL: /wiki/Pdoc
+","Andrew Gallant","Text","Python","Any","2013","1.0.1 (2021)","Unlicense"
+"pdoc3 , URL: /wiki/Pdoc3
+","kernc","Text","Python","Any","2018","0.9.2 (2020)","Affero GPL"
+"perldoc , URL: /wiki/Plain_Old_Documentation
+","Larry Wall , URL: /wiki/Larry_Wall
+","Text","Perl","Any","1994","5.16.3","Artistic , URL: /wiki/Artistic_License
+"
+"phpDocumentor , URL: /wiki/PhpDocumentor
+","Joshua Eichorn","Text","PHP","Any","2000","3.0.0","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+MIT , URL: /wiki/MIT_License
+"
+"pydoc , URL: /wiki/Pydoc
+","Ka-Ping Yee[1][2]","Text","Python","Any","2000","in Python core","Python , URL: /wiki/Python_Software_Foundation_License
+"
+"RDoc , URL: /wiki/RDoc
+","Dave Thomas","Text","C, C++, Ruby","Any","2001/12/14","in Ruby core","Ruby , URL: /wiki/Ruby_License
+"
+"ROBODoc , URL: /wiki/ROBODoc
+","Frans Slothouber","Text","Any with comments","Any","1995/01/19","4.99.36 (2015)","GPL"
+"roxygen2 , URL: /w/index.php?title=Roxygen2&action=edit&redlink=1
+","Hadley Wickam","Text","R","Any","2011/07/23","7.1.2.9000","MIT"
+"Rustdoc , URL: https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html
+","The Rust Project , URL: https://www.rust-lang.org
+","Text","Rust , URL: /wiki/Rust_(programming_language)
+","Any","Sep 2020","1.52.1","Apache 2.0 , URL: /wiki/Apache_License
+MIT , URL: /wiki/MIT_License
+"
+"Sandcastle , URL: /wiki/Sandcastle_(software)
+","Microsoft , URL: /wiki/Microsoft
+","Text",".NET","Windows only","2008/05/—","2014.5.31.0","Ms-PL , URL: /wiki/Shared_source#Microsoft_Public_License_.28Ms-PL.29
+"
+"Sandcastle Help File Builder , URL: /w/index.php?title=Sandcastle_Help_File_Builder&action=edit&redlink=1
+","Eric Woodruff , URL: /w/index.php?title=Eric_Woodruff&action=edit&redlink=1
+","Text",".NET","Windows only","2015/01/12","2021.-.-.-","Ms-PL , URL: /wiki/Shared_source#Microsoft_Public_License_.28Ms-PL.29
+"
+"Sphinx , URL: /wiki/Sphinx_(documentation_generator)
+","Georg Brandl","Text","Ada, C, C++, Fortran, JavaScript, PHP, Python, Ruby","Any","2008/03/21","3.5.4","BSD"
+"Visual Expert , URL: /wiki/Visual_Expert
+","Novalys","Text, Binary","C#, PL/SQL, Transact-SQL, PowerBuilder","Windows only","1995","2017","Proprietary"
+"VSdocman , URL: /wiki/VSdocman
+","Helixoft","Text","VB, VBScript, C#","Windows only","2003 Oct 2","9.0","Proprietary"
+"YARD , URL: /wiki/YARD_(software)
+","Loren Segal","Text","Ruby","Any","2007/02/24","0.7.3","MIT"
+"Name","Creator","Input format","Languages (alphabet order)","OS support","First public release date","Latest stable version","Software license , URL: /wiki/Software_license
+"

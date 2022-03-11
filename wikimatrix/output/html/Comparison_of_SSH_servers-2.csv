@@ -1,0 +1,22 @@
+"Name","SSH1","SSH2","Port forwarding , URL: /wiki/Port_forwarding
+","SFTP , URL: /wiki/SSH_file_transfer_protocol
+","SCP , URL: /wiki/Secure_copy
+","IPv6 , URL: /wiki/IPv6
+","Supports OpenSSH authorized keys","Privilege separation","FIPS 140-2 , URL: /wiki/FIPS_140-2
+"
+"Apache MINA , URL: /wiki/Apache_MINA
+","No","Yes","Yes","Yes","Yes","Yes","Yes","No","?"
+"Bitvise , URL: /wiki/Bitvise
+","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"CopSSH , URL: /wiki/CopSSH
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[10]","?"
+"CrushFTP Server , URL: /wiki/CrushFTP_Server
+","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?"
+"Dropbear , URL: /wiki/Dropbear_(software)
+","No","Yes","Yes","Partial","Yes","Yes","Yes","No","?"
+"Lsh , URL: /wiki/Lsh
+","No","Yes","Yes","Yes","Yes","?","?","?","?"
+"OpenSSH , URL: /wiki/OpenSSH
+","No[11]","Yes","Yes","Yes","Yes","Yes","Yes","Yes[10]","Yes[Note 8]"
+"wolfSSH , URL: /wiki/WolfSSH
+","No","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes"

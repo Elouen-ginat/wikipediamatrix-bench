@@ -1,1 +1,54 @@
-"","This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of radio systems" – news · newspapers · books · scholar · JSTOR (April 2012) (Learn how and when to remove this template message)"
+"System","Type","Modulation","Data rate","Sidebands?","Ch. , URL: /wiki/Channel_(communications)
+Bandwidth , URL: /wiki/Bandwidth_(signal_processing)
+KHz , URL: /wiki/KHz
+","Radio spectrum","Sound Codec","Digital subchannels , URL: /wiki/Digital_subchannel
+","SFN , URL: /wiki/Single-frequency_network
+","Metadata , URL: /wiki/Metadata
+RDS/RBDS , URL: /wiki/Radio_Data_System
+"
+"AM radio , URL: /wiki/AM_radio
+","Analog radio","Amplitude Modulation , URL: /wiki/Amplitude_Modulation
+","N/A","?","18–20 kHz","148.5-283.5 kHz (Longwave) 510–1610 kHz (Europe) 510–1710 kHz (USA and Canada)","N/A","N/A","No","None"
+"Motorola , URL: /wiki/Motorola
+C-QUAM , URL: /wiki/C-QUAM
+","AM stereo , URL: /wiki/AM_stereo
+","QAM , URL: /wiki/QAM
+","N/A","?","18–20 kHz","510–1610 kHz (Europe 510–1710 kHz (USA and Canada)","N/A","N/A","No","None"
+"DAB , URL: /wiki/Digital_Audio_Broadcasting
+","Digital radio , URL: /wiki/Digital_radio
+","OFDM , URL: /wiki/OFDM
+DQPSK , URL: /wiki/DQPSK
+","around 1000 kbit/s (4 channels up to 256 kbit/s)","?","1500 kHz","VHF-High , URL: /wiki/Band_III
+L-band , URL: /wiki/L-band
+","MPEG-Layer 2 , URL: /wiki/MPEG-1_Audio_Layer_II
+","Yes, typically 4-6 "stations" per channel","Yes","Yes"
+"DAB+ , URL: /wiki/Digital_Audio_Broadcasting#DAB.2B_and_DMB
+","Digital radio , URL: /wiki/Digital_radio
+","OFDM , URL: /wiki/OFDM
+DQPSK , URL: /wiki/DQPSK
+","up to 256 kbit/s","?","1500 kHz","VHF-High , URL: /wiki/Band_III
+L-band , URL: /wiki/L-band
+","HE-AAC , URL: /wiki/HE-AAC
+","No","Yes","Yes"
+"Digital Radio Mondiale , URL: /wiki/Digital_Radio_Mondiale
+","Digital radio , URL: /wiki/Digital_radio
+","COFDM , URL: /wiki/COFDM
+QAM , URL: /wiki/QAM
+","up to 72 kbit/s","?","18-20 kHz , URL: /wiki/Single_Channel_Simulcast
+","510-1610 kHz , URL: /wiki/Mediumwave
+SW , URL: /wiki/Shortwave
+LW , URL: /wiki/Longwave
+","MPEG-4 , URL: /wiki/MPEG-4
+HE-AAC , URL: /wiki/HE-AAC
+CELP , URL: /wiki/CELP
+HVXC , URL: /wiki/HVXC
+","IBOC , URL: /wiki/In-band_on-channel
+","No?","Yes"
+"FM radio , URL: /wiki/FM_radio
+","Analog radio","Frequency Modulation , URL: /wiki/Frequency_Modulation
+","N/A","?","200 kHz","87.5-108 MHz, 76-90 MHz (Japan), 65.8-74 MHz (USSR)","N/A","N/A","None","Yes (depending on station)"
+"HD Radio , URL: /wiki/HD_Radio
+","Digital radio , URL: /wiki/Digital_radio
+","COFDM , URL: /wiki/COFDM
+SBR , URL: /wiki/Spectral_band_replication
+","up to 60 kbit/s on AM, up to 300 kbit/s on FM","?","20–30 kHz on AM band ±5 kHz (on adjacent channel), up to 400 kHz on FM band (2 full FM channels)","510–1710 kHz, 87.5-108 MHz","HDC","up to 7 (3 full-power, 4 low-power) subchannels (FM)","No?","Yes"

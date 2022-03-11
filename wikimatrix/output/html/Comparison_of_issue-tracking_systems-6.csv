@@ -1,0 +1,92 @@
+"System","Form based , URL: /w/index.php?title=HTTP%2BHTML_Form_based_authentication&action=edit&redlink=1
+","Public key cryptography , URL: /wiki/Transport_Layer_Security#Client-authenticated_TLS_handshake
+","Two-factor , URL: /wiki/Two-factor_authentication
+","OpenID , URL: /wiki/OpenID
+","OAuth , URL: /wiki/OAuth
+","LDAP , URL: /wiki/LDAP
+","Shibboleth , URL: /wiki/Shibboleth_(Internet2)
+","Others"
+"Apache Bloodhound , URL: /wiki/Apache_Bloodhound
+","Yes","Optional[91]","No","Optional[92]","No","Yes","Unknown","No"
+"Assembla , URL: /wiki/Assembla
+","Yes","No","No","Yes","Yes","Yes (private version)","Unknown","Unknown"
+"Axosoft , URL: /wiki/Axosoft
+","Yes","No","No","No","No","Yes","No","No"
+"Bugzilla , URL: /wiki/Bugzilla
+","Yes","No","No","Optional[93]","No","Yes","Unknown","No"
+"Debbugs , URL: /wiki/Debbugs
+","No","No","No","No","No","No","No","No"
+"Faveo Helpdesk , URL: /wiki/Faveo
+","Yes","No","No","No","Yes","Yes","No","No"
+"FogBugz , URL: /wiki/FogBugz
+","Yes","Unknown","Unknown","Unknown","Unknown","Yes","Unknown","Unknown"
+"Fossil , URL: /wiki/Fossil_(software)
+","Unknown","Unknown","Unknown","Unknown","Unknown","No","Unknown","Unknown"
+"FusionForge , URL: /wiki/FusionForge
+","Yes","No","No","Yes","No","Yes","No","CAS , URL: /wiki/Central_Authentication_Service
+"
+"GLPI , URL: /wiki/GLPI
+","Yes","No","Yes","No","No","Yes","No","No"
+"GNATS , URL: /wiki/GNATS
+","Unknown","Unknown","Unknown","Unknown","Unknown","No","Unknown","Unknown"
+"Helix ALM , URL: /wiki/Helix_ALM
+","Yes","Optional","No","Optional","No","Yes","No","Yes - custom DLL, SAML"
+"HP Quality Center , URL: /wiki/HP_Quality_Center
+","No","No","No","No","No","Yes","No","Unknown"
+"Jira , URL: /wiki/Jira_(software)
+","Yes","No","No","Yes","Yes","Yes","Yes, via plugin[94][95]","Yes, via Crowd[96]"
+"MantisBT , URL: /wiki/Mantis_Bug_Tracker
+","Yes","No","No","Yes[97]","Yes[98]","Yes","Unknown","No"
+"Microsoft Dynamics CRM , URL: /wiki/Microsoft_Dynamics_CRM
+","Unknown","Unknown","Unknown","Unknown","Unknown","Yes","Unknown","Unknown"
+"org-mode , URL: /wiki/Org-mode
+","Unknown","Unknown","Unknown","Unknown","Unknown","No","Unknown","Unknown"
+"OTRS , URL: /wiki/OTRS
+","Yes","Yes","Yes","Unknown","Unknown","Yes","Unknown","Unknown"
+"Phabricator , URL: /wiki/Phabricator
+","Yes","No","Yes","No","Yes","Yes","No","No"
+"Pivotal Tracker , URL: /wiki/Pivotal_Tracker
+","Yes","No","No","Google Account , URL: /wiki/Google_Account
+","No","No","No","No"
+"Redmine , URL: /wiki/Redmine
+","Yes","Yes[99]","No","Yes[100]","No","Yes","Yes, via Apache (using mod_rails)","No"
+"Request Tracker , URL: /wiki/Request_Tracker
+","Yes","Unknown","Unknown","Yes[101]","Unknown","Yes[102]","Unknown","Yes[103]"
+"Roundup , URL: /wiki/Roundup_(issue_tracker)
+","Yes","Unknown","Unknown","Yes[104]","Unknown","Yes","Yes[105]","Yes[106]"
+"StarTeam , URL: /wiki/StarTeam
+","Unknown","Unknown","Unknown","Unknown","Unknown","No","Unknown","Unknown"
+"Supportworks , URL: /wiki/Supportworks
+","Unknown","Unknown","Unknown","Unknown","Unknown","Yes","Unknown","Unknown"
+"SysAid , URL: /wiki/SysAid_Technologies
+","Yes","No","No","No","No","Yes","No","CAS , URL: /wiki/Central_Authentication_Service
+"
+"Team Foundation Server , URL: /wiki/Team_Foundation_Server
+","Unknown","Unknown","Unknown","Unknown","Unknown","Yes","Unknown","Unknown"
+"Trac , URL: /wiki/Trac
+","Yes","Optional[91]","No","Optional[92]","No","Yes","Unknown","No"
+"TrackerSuite.Net , URL: /wiki/Tracker_(business_software)
+","Yes","No","No","No","No","Yes","No","No"
+"Tuleap , URL: /wiki/Tuleap
+","Yes","No","No","Yes","Yes","Yes","No","No"
+"Twproject , URL: /wiki/Twproject
+","Yes","Unknown","Unknown","Unknown","Unknown","Yes","Unknown","Yes, Simple container auth."
+"Wrike , URL: /wiki/Wrike_(software)
+","Unknown","Unknown","Unknown","Unknown","Unknown","Yes","Unknown","Unknown"
+"YouTrack , URL: /wiki/YouTrack
+","Yes","No","Yes","Yes","Yes","Yes","Unknown","JIRA , URL: /wiki/Jira_(software)
+"
+"Zammad , URL: /wiki/Zammad
+","Yes","No","No","No","Yes","Yes","Yes","Twitter , URL: /wiki/Twitter
+Facebook , URL: /wiki/Facebook
+Google , URL: /wiki/Google
+Microsoft 365 , URL: /wiki/Microsoft_365
+"
+"System","Form based , URL: /w/index.php?title=HTTP%2BHTML_Form_based_authentication&action=edit&redlink=1
+","Public key cryptography , URL: /wiki/Transport_Layer_Security#Client-authenticated_TLS_handshake
+","Two-factor , URL: /wiki/Two-factor_authentication
+","OpenID , URL: /wiki/OpenID
+","OAuth , URL: /wiki/OAuth
+","LDAP , URL: /wiki/LDAP
+","Shibboleth , URL: /wiki/Shibboleth_(Internet2)
+","Others"

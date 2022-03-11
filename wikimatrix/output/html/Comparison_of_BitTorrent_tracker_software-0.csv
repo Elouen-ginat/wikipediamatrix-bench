@@ -1,0 +1,86 @@
+"Tracker","Programming Language","License , URL: /wiki/Software_license
+","IPv4","IPv6","Operating System Support","Description"
+"aquatic , URL: https://github.com/greatest-ape/aquatic
+","Rust , URL: /wiki/Rust_(programming_language)
+","Apache-2.0 , URL: /wiki/Apache_License
+","Yes","Yes","Unix-like , URL: /wiki/Unix-like
+","Opentracker , URL: /wiki/Opentracker
+"
+"Hefur , URL: /w/index.php?title=Hefur&action=edit&redlink=1
+","C++ , URL: /wiki/C%2B%2B
+","MIT , URL: /wiki/MIT_License
+","Yes","Yes","Unix-like , URL: /wiki/Unix-like
+","No database required (everything in memory)"
+"MLDonkey , URL: /wiki/MLDonkey
+","OCaml , URL: /wiki/OCaml
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","","Windows , URL: /wiki/Windows
+OS X , URL: /wiki/OS_X
+Unix-like , URL: /wiki/Unix-like
+Morph OS , URL: /wiki/Morph_OS
+","Has a built-in tracker and announcement service"
+"MonoTorrent , URL: /wiki/MonoTorrent
+","C# , URL: /wiki/C_Sharp_(programming_language)
+","MIT , URL: /wiki/MIT_License
+","Yes","","Windows , URL: /wiki/Windows
+Mac OS , URL: /wiki/Mac_OS
+Unix-like , URL: /wiki/Unix-like
+","Mono , URL: /wiki/Mono_Project
+.NET Core , URL: /wiki/.NET_Core
+"
+"Opentracker , URL: /wiki/Opentracker
+","C , URL: /wiki/C_(programming_language)
+","Beerware , URL: /wiki/Beerware
+","Yes","Yes (IPv4 and IPv6 have separate binaries and processes that do not share any information between them. If a client communicates to the tracker over IPv6, it will only receive IPv6 addresses in the response.)","Unix-like , URL: /wiki/Unix-like
+","embedded hardware , URL: /wiki/Embedded_hardware
+POSIX , URL: /wiki/POSIX
+OS , URL: /wiki/Operating_system
+"
+"PeerTracker , URL: /wiki/PeerTracker
+","PHP , URL: /wiki/PHP
+","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","","Web application , URL: /wiki/Web_application
+","BitTorrent , URL: /wiki/BitTorrent_(protocol)
+SQLite3 , URL: /wiki/SQLite3
+MySQL , URL: /wiki/MySQL
+"
+"μTorrent , URL: /wiki/%CE%9CTorrent
+","C++ , URL: /wiki/C%2B%2B
+","Freeware , URL: /wiki/Freeware
+","Yes","","Windows , URL: /wiki/Windows
+OS X , URL: /wiki/OS_X
+Linux , URL: /wiki/Linux
+Android , URL: /wiki/Android_(operating_system)
+","Does not have a list of hosted torrents."
+"qBittorrent , URL: /wiki/QBittorrent
+","C++ , URL: /wiki/C%2B%2B
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","","Windows , URL: /wiki/Windows
+OS X , URL: /wiki/OS_X
+Unix-like , URL: /wiki/Unix-like
+OS/2 , URL: /wiki/OS/2
+","Lightweight. Supports DHT, PEX, announcements via UDP. Does not have a web interface or list of hosted torrents; it is not designed for secure or large-scale application."
+"TorrentPier[9]","PHP , URL: /wiki/PHP
+","MIT , URL: /wiki/MIT_License
+","Yes","","Web application , URL: /wiki/Web_application
+","Apache , URL: /wiki/Apache_HTTP_Server
+nginx , URL: /wiki/Nginx
+MySQL , URL: /wiki/MySQL
+MariaDB , URL: /wiki/MariaDB
+Percona , URL: /wiki/Percona_Server_for_MySQL
+"
+"Vuze , URL: /wiki/Vuze
+","Java , URL: /wiki/Java_(programming_language)
+","Disputed , URL: /wiki/Vuze#License_change
+","Yes","","Windows , URL: /wiki/Windows
+Mac OS , URL: /wiki/Mac_OS
+Linux , URL: /wiki/Linux
+","Vuze , URL: /wiki/Vuze
+"
+"XBT Tracker , URL: /w/index.php?title=XBT_Tracker&action=edit&redlink=1
+","C++ , URL: /wiki/C%2B%2B
+","GPL-3.0-only , URL: /wiki/GPL-3.0-only
+","Yes","","Windows , URL: /wiki/Windows
+Linux , URL: /wiki/Linux
+","MySQL , URL: /wiki/MySQL
+"

@@ -1,0 +1,63 @@
+"Name","Connectivity","Connectivity","Connectivity","Connectivity","OS compatibility","OS compatibility","OS compatibility","OS compatibility","OS compatibility","OS compatibility","OS compatibility","Integrated software","Protocol compliancy","Protocol compliancy"
+"Name","USB , URL: /wiki/Universal_Serial_Bus
+","USB , URL: /wiki/Universal_Serial_Bus
+","Wi-Fi , URL: /wiki/Wi-Fi
+","Bluetooth , URL: /wiki/Bluetooth
+","Linux , URL: /wiki/Linux
+","Macintosh , URL: /wiki/Mac_OS
+","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","MSC , URL: /wiki/USB_mass_storage_device_class
+","Integrated software","MTP , URL: /wiki/Media_Transfer_Protocol
+",""
+"Name","Mini-B port","2.0","Wi-Fi , URL: /wiki/Wi-Fi
+","Bluetooth , URL: /wiki/Bluetooth
+","Linux , URL: /wiki/Linux
+","Mac OS X , URL: /wiki/Mac_OS_X
+","Vista , URL: /wiki/Windows_Vista
+","XP , URL: /wiki/Windows_XP
+","2000 , URL: /wiki/Windows_2000
+","9x , URL: /wiki/Windows_9x
+","MSC , URL: /wiki/USB_mass_storage_device_class
+","Integrated software","MTP , URL: /wiki/Media_Transfer_Protocol
+",""
+"Archos 105","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","WMP , URL: /wiki/Windows_Media_Player
+MTP , URL: /wiki/Media_Transfer_Protocol
+","Yes","Yes",""
+"Archos 405","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","WMP through MTP","Yes","Yes",""
+"Archos 5","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Me , URL: /wiki/Windows_Me
+","WMP through MTP","Yes","Yes",""
+"Archos 605 WiFi / GPS","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","WMP through MTP","Yes","Yes",""
+"Archos 705 WiFi","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","WMP through MTP","Yes","Yes",""
+"Cowon A3","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Me , URL: /wiki/Windows_Me
+","jetAudio , URL: /wiki/JetAudio
+","Yes","Yes",""
+"Cowon D2","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","jetAudio","Yes","Yes",""
+"Cowon Q5W","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Me , URL: /wiki/Windows_Me
+","jetAudio , URL: /wiki/JetAudio
+","Yes","Yes",""
+"Gigabeat T400","Yes","Yes","No","No","No[87]","No","Yes","Yes","No","No","WMP through MTP","No","Yes",""
+"GP2X F-200","Unknown","Yes","No","No","Yes","Yes","Yes","Yes","Yes","No","N/A","N/A","N/A",""
+"iPod classic","No","Yes","No","No","No[88]","Yes","Yes","Yes","Yes","No","iTunes , URL: /wiki/ITunes
+","No","No",""
+"iPod nano 4G","No","Yes","No","No","No[88]","Yes","Yes","Yes","Yes","No","iTunes","No","No",""
+"iPod touch 1G","No","Yes","Yes","No","No","Yes","Yes","Yes","Yes","No","iTunes","No","No",""
+"iPod touch 2G - 5G","No","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","No","iTunes","No","No",""
+"iriver clix 2G","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","iriver plus Rhapsody[89]","Yes","Yes",""
+"PSP Slim & Lite","Yes","Yes","Yes","PSP Go , URL: /wiki/PSP_Go
+","Yes","Yes","Yes","Yes","Yes","No","Media Go , URL: /wiki/Media_Go
+","Yes","No",""
+"Samsung Galaxy Player","No","Yes","Yes","Yes","No","No","Yes","Yes","No","No","WMP through MTP","No","Yes",""
+"Samsung T10","Yes","Yes","No","Yes","No[87]","No","Yes","Yes","No","No","EmoDio","No","Yes",""
+"Samsung P2","Yes","Yes","No","Yes","No[87]","No","Yes","Yes","No","No","EmoDio","Yes","Yes",""
+"Sansa Fuze","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","MSC","WMP through MTP","Yes","Yes",""
+"Sansa Fuze+","micro B","Yes","No","No","Yes","Yes","Yes","Yes","Yes","MSC","WMP through MTP","Yes","Yes",""
+"Walkman NWZ-A810 series","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","No","WMP through MTP","Yes","Yes",""
+"ZEN","Yes","Yes","No","No","No[87]","No","Yes","Yes","No","No","Creative MediaSource , URL: /wiki/Creative_MediaSource
+","No","Yes",""
+"ZEN Vision W","Yes","Yes","No","No","No[87]","No","Yes","Yes","No","No","Creative MediaSource","No","Yes",""
+"Zune","No","Yes","Yes","No","No","No","Yes","Yes","No","No","Zune Software , URL: /wiki/Zune_Software
+","No","Yes",""
+"ZVUE 260","Unknown","Yes","No","No","No","Yes","No","Yes","No","No","ZAPP","No","No",""

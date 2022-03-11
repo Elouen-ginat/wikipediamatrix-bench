@@ -1,0 +1,19 @@
+"Can:","NAT , URL: /wiki/Network_address_translation
+","NAT64 , URL: /wiki/NAT64
+NPTv6 , URL: /wiki/IPv6-to-IPv6_Network_Prefix_Translation
+","Intrusion Detection System (IDS) , URL: /wiki/Intrusion_detection_system
+","Virtual Private Network (VPN) , URL: /wiki/Virtual_private_network
+","Antivirus (AV) , URL: /wiki/Antivirus_software
+","Packet capture , URL: /wiki/PCAP
+","Profile selection[d]"
+"Vyatta , URL: /wiki/Vyatta
+","Yes (three NAT types)","?","Yes (integrated Snort)","Yes (IPsec and OpenVPN)","Yes (with clamav, Sophos Antivirus (optional))","Yes (with wireshark or tcpdump)","?"
+"WinGate , URL: /wiki/WinGate
+","Yes","?","Yes (with NetPatrol)","Yes (proprietary)","Yes (Kaspersky Labs)","Yes (filtered capturing to pcap format)","No"
+"OPNsense , URL: /wiki/OPNsense
+","Yes","Yes (NPt)","Yes (integrated Suricata)","WireGuard , URL: /wiki/WireGuard
+","Yes (with squid and clamav)","Yes (tcpdump)","No"
+"pfSense , URL: /wiki/PfSense
+","Yes","Yes (NPt)","Yes (with Snort)","Yes (OpenVPN, IPsec, L2TP, IKEv2, Tinc, PPTP)","Yes (with squid and clamav)","Yes (tcpdump)","No"
+"IPFire , URL: /wiki/IPFire
+","Yes","?","Yes (with Suricata)","Yes (OpenVPN, IPsec, IKEv2)","Yes (with squid and clamav)","Yes (tcpdump)","No"

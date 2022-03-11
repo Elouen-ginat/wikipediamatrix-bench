@@ -1,0 +1,26 @@
+"ADC hub","Encryption , URL: /wiki/Encryption
+","IPv6 , URL: /wiki/IPv6
+","Plugin , URL: /wiki/Plug-in_(computing)
+","Hash algorithms","Bloom filter , URL: /wiki/Bloom_filter
+","ADC support","Other"
+"ADCH++","Yes","Yes","Lua , URL: /wiki/Lua_(programming_language)
+Python , URL: /wiki/Python_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+","Tiger tree hash , URL: /wiki/Tiger_tree_hash
+","Yes","TIGR, ADCS, PING",""
+"ADCH++ GUI","Yes","No","Python","Tiger tree hash","Yes","TIGR, ADCS, PING",""
+"DSHub","Yes","No","Java , URL: /wiki/Java_(software_platform)
+","Tiger tree hash","No","TIGR, ADCS, PING",""
+"FLexHub","Linux only","No","No","Tiger tree hash","No","TIGR, ADCS, PING",""
+"Luadch","Yes","Yes","Lua , URL: /wiki/Lua_(programming_language)
+","Tiger tree hash , URL: /wiki/Tiger_tree_hash
+","No","TIGR, ADCS, PING, KEYP, ASCH, SUDP, OSNR",""
+"Nexthub","Yes","No","C# , URL: /wiki/C_Sharp_(programming_language)
+","Tiger tree hash","No","TIGR, ADCS",""
+"uhub","Yes","Yes","C , URL: /wiki/C_(programming_language)
+","Tiger tree hash","No","TIGR, ADCS, PING",""
+"Qhub","?","?","?","Tiger tree hash","No","TIGR",""
+"Starlet ADC Hub","No","No","No","Tiger tree hash","No","TIGR",""
+"Starhub","?","?","?","Tiger tree hash","No","TIGR",""
+"RusHub","No","?","No","Tiger tree hash","No","TIGR",""
+"ADC hub","Encryption","IPv6","Plugin","Hash algorithms","Bloom filter","ADC support","Other"

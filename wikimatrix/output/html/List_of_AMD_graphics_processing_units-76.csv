@@ -1,0 +1,28 @@
+"Codename , URL: /wiki/Codename
+","Release Date","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","Memory","Memory","Memory","Memory","TDP , URL: /wiki/Thermal_Design_Power
+","Bus interface"
+"Codename , URL: /wiki/Codename
+","Release Date","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Config[e]","MHz , URL: /wiki/Hertz
+","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","Half , URL: /wiki/Half-precision_floating-point_format
+","Single , URL: /wiki/Single_precision_floating-point_format
+","Double , URL: /wiki/Double_precision_floating-point_format
+","Bus type & width","GiB , URL: /wiki/Gibibyte
+","MT/s , URL: /wiki/Transfer_(computing)
+","GB , URL: /wiki/Gigabyte
+","TDP , URL: /wiki/Thermal_Design_Power
+","Bus interface"
+"Radeon Vega Pro 16 (Vega 12 XLA) [394][395]","November 2018","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
+","Unknown","1024:64:32 16 CU","300 1190","76.16","38.08","?","2437","152.3","HBM2 1024-bit","4","2400","307.2","50 W","PCIe 3.0 ×16"
+"Radeon Vega Pro 20 (Vega 12 XTA) [394][396]","November 2018","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
+","Unknown","1280:80:32 20 CU","308 1190","95.20","38.08","?","3047","190.4","HBM2 1024-bit","4","2400","307.2","50 W","PCIe 3.0 ×16"

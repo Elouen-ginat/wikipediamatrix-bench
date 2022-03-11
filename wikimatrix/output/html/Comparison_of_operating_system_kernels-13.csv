@@ -1,0 +1,49 @@
+"Kernel name","CRC-32 (IEEE) , URL: /wiki/CRC32
+","CRC32c , URL: /wiki/CRC32c
+","MD2 , URL: /wiki/MD2_(cryptography)
+","MD4 , URL: /wiki/MD4
+","MD5 , URL: /wiki/MD5
+","SHA-1 , URL: /wiki/SHA-1
+","SHA-2 , URL: /wiki/SHA-2
+","SHA-3 , URL: /wiki/SHA-3
+","Michael MIC , URL: /w/index.php?title=Michael_MIC&action=edit&redlink=1
+","Poly1305 , URL: /wiki/Poly1305
+","RIPEMD-128 , URL: /wiki/RIPEMD
+","RIPEMD-160 , URL: /wiki/RIPEMD
+","RIPEMD-256 , URL: /wiki/RIPEMD
+","RIPEMD-320 , URL: /wiki/RIPEMD
+","Tiger , URL: /wiki/Tiger_(cryptography)
+","Whirlpool , URL: /wiki/Whirlpool_(cryptography)
+","HMAC , URL: /wiki/HMAC
+","MDC2 , URL: /wiki/MDC2
+","GOST , URL: /wiki/GOST_(hash_function)
+","LASH , URL: /w/index.php?title=LASH_(cryptography)&action=edit&redlink=1
+","VMAC , URL: /wiki/VMAC
+"
+"Linux","Yes[44][45]","Yes[46]","No","Yes[47]","Yes[48]","Yes[49]","Yes[50]","Partial[51]","Yes[52]","Yes[53]","Yes[54]","Yes[55]","Yes[56]","Yes[57]","Yes[58]","Yes[59]","Yes[60]","No","No","No","Yes[61]"
+"Solaris kernel","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?","?","Yes","?","?","Yes","?","Yes","Yes","?","?","?"
+"Windows NT kernel","?","?","Yes","Yes","Yes","Yes","Yes","?","No","?","No","No","No","No","No","No","Yes","No","No","No","?"
+"FreeBSD kernel","Yes","Yes","?","Yes","Yes","Yes","Yes","?","?","?","?","Yes","?","?","Yes","?","Yes","?","?","?","?"
+"XNU kernel","Yes","?","Yes","?","Yes","Yes","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Kernel name","CRC-32 (IEEE) , URL: /wiki/CRC32
+","CRC32c , URL: /wiki/CRC32c
+","MD2 , URL: /wiki/MD2_(cryptography)
+","MD4 , URL: /wiki/MD4
+","MD5 , URL: /wiki/MD5
+","SHA-1 , URL: /wiki/SHA-1
+","SHA-2 , URL: /wiki/SHA-2
+","SHA-3 , URL: /wiki/SHA-3
+","Michael MIC , URL: /w/index.php?title=Michael_MIC&action=edit&redlink=1
+","Poly1305 , URL: /wiki/Poly1305
+","RIPEMD-128 , URL: /wiki/RIPEMD
+","RIPEMD-160 , URL: /wiki/RIPEMD
+","RIPEMD-256 , URL: /wiki/RIPEMD
+","RIPEMD-320 , URL: /wiki/RIPEMD
+","Tiger , URL: /wiki/Tiger_(cryptography)
+","Whirlpool , URL: /wiki/Whirlpool_(cryptography)
+","HMAC , URL: /wiki/HMAC
+","MDC2 , URL: /wiki/MDC2
+","GOST , URL: /wiki/GOST_(hash_function)
+","LASH , URL: /w/index.php?title=LASH_(cryptography)&action=edit&redlink=1
+","VMAC , URL: /wiki/VMAC
+"

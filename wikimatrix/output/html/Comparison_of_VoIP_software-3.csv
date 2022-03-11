@@ -1,0 +1,357 @@
+"Name","Operating systems , URL: /wiki/Operating_system
+","License , URL: /wiki/Software_license
+","Protocols , URL: /wiki/Communications_protocol
+","Encryption , URL: /wiki/Encryption
+","Notable features","Target markets","Latest release , URL: /wiki/Software_release_life_cycle
+"
+"3CX Phone System , URL: /wiki/3CX_Phone_System
+","Windows , URL: /wiki/Microsoft_Windows
+Linux , URL: /wiki/Linux
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","VoIP , URL: /wiki/Voice_over_IP
+VideoOverIP , URL: /wiki/VideoOverIP
+voicemail , URL: /wiki/Voicemail
+instant messaging , URL: /wiki/Instant_messaging
+","< 50,000 users","18.2; December 8, 2021; 3 months ago (2021-12-08)"
+"Avaya , URL: /wiki/Avaya
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+Server 2016 , URL: /wiki/Windows_Server_2016
+Server 2019 , URL: /wiki/Windows_Server_2019
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+UNIStim , URL: /wiki/UNIStim
+","SSL , URL: /wiki/Secure_Sockets_Layer
+TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","VoIP , URL: /wiki/Voice_over_IP
+VideoOverIP , URL: /wiki/VideoOverIP
+voicemail , URL: /wiki/Voicemail
+instant messaging , URL: /wiki/Instant_messaging
+","1,000 - 25,000 users","15.5.1; October 25, 2021; 4 months ago (2021-10-25)"
+"AskoziaPBX , URL: /wiki/AskoziaPBX
+","Standalone program , URL: /wiki/Standalone_program
+Linux , URL: /wiki/Linux
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+H.323 , URL: /wiki/H.323
+IAX , URL: /wiki/Inter-Asterisk_eXchange
+SCCP , URL: /wiki/Skinny_Client_Control_Protocol
+","No","ISDN , URL: /wiki/Integrated_Services_Digital_Network
+voicemail , URL: /wiki/Voicemail
+conferencing , URL: /wiki/Conference_call
+MOH , URL: /wiki/Music_on_hold
+ACD , URL: /wiki/Automatic_call_distributor
+IVR , URL: /wiki/Interactive_voice_response
+call forwarding , URL: /wiki/Call_forwarding
+call recording , URL: /wiki/Call-recording_software
+","SMEs , URL: /wiki/Small_and_medium_enterprises
+","5.4; September 2, 2017; 4 years ago (2017-09-02)"
+"Asterisk PBX , URL: /wiki/Asterisk_PBX
+","Linux , URL: /wiki/Linux
+BSD , URL: /wiki/Berkeley_Software_Distribution
+macOS , URL: /wiki/MacOS
+Solaris , URL: /wiki/Solaris_(operating_system)
+","GPL-2.0+ , URL: /wiki/GNU_General_Public_License
+Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+H.323 , URL: /wiki/H.323
+IAX , URL: /wiki/Inter-Asterisk_eXchange
+MGCP , URL: /wiki/Media_Gateway_Control_Protocol
+VoFR , URL: /wiki/VoFR
+XMPP , URL: /wiki/XMPP
+Google Talk , URL: /wiki/Google_Talk
+TDM , URL: /wiki/Time-division_multiplexing
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","VoIP , URL: /wiki/Voice_over_IP
+voicemail , URL: /wiki/Voicemail
+ODBC , URL: /wiki/Open_Database_Connectivity
+conferencing , URL: /wiki/Conference_call
+hot desking , URL: /wiki/Hot_desking
+IVR , URL: /wiki/Interactive_voice_response
+call waiting , URL: /wiki/Call_waiting
+automated call distribution , URL: /wiki/Automatic_call_distributor
+","Enthusiasts, developers, enterprise users (capacity dependent on server design, scalable across multiple servers)","18.6.0 (12 August 2021; 6 months ago (2021-08-12)[62]) 17.9.4 (22 July 2021; 7 months ago (2021-07-22)[63]) 16.20.0 (12 August 2021; 6 months ago (2021-08-12)[64]) 13.38.3 (22 July 2021; 7 months ago (2021-07-22)[65])"
+"Brekeke SIP Server , URL: /wiki/Brekeke_SIP_Server
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+Server 2016 , URL: /wiki/Windows_Server_2016
+Server 2019 , URL: /wiki/Windows_Server_2019
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","SIP , URL: /wiki/Session_Initiation_Protocol
+","SIP Service Providers, VoIP service providers, Healthcare, Security","3.12.2.2; January 11, 2022; 58 days ago (2022-01-11)"
+"Brekeke PBX , URL: /wiki/Brekeke_PBX
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+Server 2016 , URL: /wiki/Windows_Server_2016
+Server 2019 , URL: /wiki/Windows_Server_2019
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","VoIP , URL: /wiki/Voice_over_IP
+VideoOverIP , URL: /wiki/VideoOverIP
+voicemail , URL: /wiki/Voicemail
+","Hosted service providers, Mid-large enterprise","3.12.2.2; January 11, 2022; 58 days ago (2022-01-11)"
+"CallMax Softswitch , URL: /wiki/Speedflow_Communications
+","Linux , URL: /wiki/Linux
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+H.323 , URL: /wiki/H.323
+","SSL , URL: /wiki/Secure_Sockets_Layer
+TLS , URL: /wiki/Transport_Layer_Security
+HTTPS , URL: /wiki/HTTP_Secure
+","billing , URL: /wiki/Invoice
+IP PBX , URL: /wiki/IP_PBX
+calling card , URL: /wiki/Telephone_card
+call shop , URL: /wiki/Call_shop
+web portal , URL: /wiki/Web_portal
+SMS , URL: /wiki/SMS
+","softswitch , URL: /wiki/Softswitch
+","3.6; October 1, 2015; 6 years ago (2015-10-01)"
+"CommuniGate Pro , URL: /wiki/CommuniGate_Pro
+","Linux , URL: /wiki/Linux
+BSD , URL: /wiki/Berkeley_Software_Distribution
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Solaris , URL: /wiki/Solaris_(operating_system)
+HP-UX , URL: /wiki/HP-UX
+AIX , URL: /wiki/IBM_AIX
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+XIMSS , URL: /wiki/XIMSS
+XMPP , URL: /wiki/XMPP
+WebRTC , URL: /wiki/WebRTC
+","SSL , URL: /wiki/Secure_Sockets_Layer
+TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","SIP , URL: /wiki/Session_Initiation_Protocol
+Diameter , URL: /wiki/Diameter_(protocol)
+RADIUS , URL: /wiki/RADIUS
+ENUM , URL: /wiki/Telephone_number_mapping
+","Mobile network operators , URL: /wiki/Mobile_network_operator
+ISPs , URL: /wiki/Internet_service_provider
+SaaS , URL: /wiki/Software_as_a_service
+","6.2.14; August 16, 2019; 2 years ago (2019-08-16)"
+"Dial Gate VoIP Softswitch , URL: /wiki/Dial_Gate_VoIP_Softswitch
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","web portal , URL: /wiki/Web_portal
+","Softswitch , URL: /wiki/Softswitch
+","4.3; June 1, 2014; 7 years ago (2014-06-01)"
+"Dial-Office IP-PBX , URL: /wiki/Dial-Office_IP-PBX
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","conference calls , URL: /wiki/Conference_call
+voicemail , URL: /wiki/Voicemail
+","Small businesses, Mid-large enterprises","4.1; December 2013; 8 years ago (2013-12)"
+"Elastix , URL: /wiki/Elastix
+","Linux , URL: /wiki/Linux
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+IAX , URL: /wiki/Inter-Asterisk_eXchange
+H.323 , URL: /wiki/H.323
+XMPP , URL: /wiki/XMPP
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","Unified communication server that also supports chat, mail and fax.","Capacity dependent on server design, scalable across multiple servers","5.0.0; December 7, 2016; 5 years ago (2016-12-07)"
+"FreeSWITCH , URL: /wiki/FreeSWITCH
+","Linux , URL: /wiki/Linux
+BSD , URL: /wiki/Berkeley_Software_Distribution
+macOS , URL: /wiki/MacOS
+Solaris , URL: /wiki/Solaris_(operating_system)
+Windows , URL: /wiki/Microsoft_Windows
+","Mozilla Public License , URL: /wiki/Mozilla_Public_License
+","SIP , URL: /wiki/Session_Initiation_Protocol
+NAT-PMP , URL: /wiki/NAT-PMP
+STUN , URL: /wiki/STUN
+SIMPLE , URL: /wiki/SIMPLE_(instant_messaging_protocol)
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+Google Talk , URL: /wiki/Google_Talk
+Jingle , URL: /wiki/Jingle_(protocol)
+IAX , URL: /wiki/Inter-Asterisk_eXchange
+H.323 , URL: /wiki/H.323
+MRCP , URL: /wiki/Media_Resource_Control_Protocol
+RSS , URL: /wiki/RSS
+Skype , URL: /wiki/Skype
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+ZRTP , URL: /wiki/ZRTP
+","RADIUS , URL: /wiki/RADIUS
+ENUM , URL: /wiki/Telephone_number_mapping
+","PBX , URL: /wiki/Private_branch_exchange
+","1.10.6 (March 25, 2021; 11 months ago (2021-03-25)[66]) [±]"
+"FreePBX , URL: /wiki/FreePBX
+","Linux , URL: /wiki/Linux
+BSD , URL: /wiki/Berkeley_Software_Distribution
+Solaris , URL: /wiki/Solaris_(operating_system)
+","GPL , URL: /wiki/GNU_General_Public_License
+","SIP , URL: /wiki/Session_Initiation_Protocol
+IAX , URL: /wiki/Inter-Asterisk_eXchange
+H.323 , URL: /wiki/H.323
+XMPP , URL: /wiki/XMPP
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","Asterisk , URL: /wiki/Asterisk_PBX
+","Scales from Raspberry PI (3 users) to multiple parallel clusters (10K+ simultaneous calls)","14.0; August 2017; 4 years ago (2017-08)"
+"GNU Gatekeeper , URL: /wiki/GNU_Gatekeeper
+","Linux , URL: /wiki/Linux
+FreeBSD , URL: /wiki/FreeBSD
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","GPL , URL: /wiki/GNU_General_Public_License
+","H.323 , URL: /wiki/H.323
+","H.235 , URL: /wiki/H.235
+","H.460.18 firewall traversal, routing, accounting","video conferencing, VoIP carriers large and small","3.7; August 15, 2014; 7 years ago (2014-08-15)"
+"HERO Hosted PBX , URL: /wiki/HERO_Hosted_PBX
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","Unified Communications, billing server, cloud-based management and web interface","Mid-large enterprises, VoIP carriers and service providers, telecom operators","4.3; December 2013; 8 years ago (2013-12)"
+"Kerio Operator , URL: /wiki/Kerio_Operator
+","Linux , URL: /wiki/Linux
+VM , URL: /wiki/Virtual_machine
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+","SSL , URL: /wiki/Transport_Layer_Security
+TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","Salesforce , URL: /wiki/Salesforce.com
+","SME , URL: /wiki/Small_and_medium_enterprises
+","2.5.2; November 15, 2016; 5 years ago (2016-11-15)"
+"MediaCore SBC , URL: /wiki/Speedflow_Communications
+","Linux , URL: /wiki/Linux
+","Proprietary , URL: /wiki/Proprietary_software
+","H.323 , URL: /wiki/H.323
+SIP , URL: /wiki/Session_Initiation_Protocol
+SMPP , URL: /wiki/Short_Message_Peer-to-Peer
+HTTP , URL: /wiki/Hypertext_Transfer_Protocol
+","SSL , URL: /wiki/Secure_Sockets_Layer
+TLS , URL: /wiki/Transport_Layer_Security
+HTTPS , URL: /wiki/HTTP_Secure
+","LCR , URL: /wiki/Least-cost_routing
+billing , URL: /wiki/Invoice
+transcoding , URL: /wiki/Transcoding
+revenue assurance , URL: /wiki/Revenue_assurance
+SBC , URL: /wiki/Session_border_controller
+SMS , URL: /wiki/SMS
+","Transit VoIP services providers, VoIP wholesale carriers, VoIP termination providers, Wholesale messaging providers","4.8; February 2021; 1 year ago (2021-02)"
+"Murmur , URL: /wiki/Mumble_(software)
+","Linux , URL: /wiki/Linux
+BSD , URL: /wiki/Berkeley_Software_Distribution
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","BSD , URL: /wiki/BSD_licenses
+GPL , URL: /wiki/GNU_General_Public_License
+","CELT , URL: /wiki/CELT
+Speex , URL: /wiki/Speex
+Opus , URL: /wiki/Opus_(audio_codec)
+","TLS , URL: /wiki/Transport_Layer_Security
+","Chat with (limited) embedded HTML, ACLs for user management, Customizable In-Game Overlay, Directional Audio, Plugin Support, Nested Channels","Individuals to Small and medium enterprise (25-5000 users)","1.2.17; September 24, 2016; 5 years ago (2016-09-24)"
+"Mysipswitch , URL: /wiki/Mysipswitch
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/BSD_licenses
+","SIP , URL: /wiki/Session_Initiation_Protocol
+Ajax , URL: /wiki/Ajax_(programming)
+","SSL , URL: /wiki/Secure_Sockets_Layer
+","SIP proxy server which allows the use of multiple SIP accounts with a single SIP login","Individuals","August 2007; 14 years ago (2007-08)"
+"Objectworld , URL: /wiki/Objectworld_Communications
+","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+","No","IP PBX , URL: /wiki/IP_PBX
+","Small and medium enterprise (25-2000 users)","4.4.2; May 2009; 12 years ago (2009-05)"
+"Kamailio , URL: /wiki/Kamailio
+OpenSIPS , URL: /wiki/OpenSIPS
+","Linux , URL: /wiki/Linux
+BSD , URL: /wiki/Berkeley_Software_Distribution
+Solaris , URL: /wiki/Solaris_(operating_system)
+","GPL , URL: /wiki/GNU_General_Public_License
+","SIP , URL: /wiki/Session_Initiation_Protocol
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","SIP , URL: /wiki/Session_Initiation_Protocol
+Diameter , URL: /wiki/Diameter_(protocol)
+RADIUS , URL: /wiki/RADIUS
+ENUM , URL: /wiki/Telephone_number_mapping
+","SIP Service Providers","5.2.8; October 2020; 1 year ago (2020-10)"
+"Pbxnsip , URL: /wiki/Pbxnsip
+","Linux , URL: /wiki/Linux
+BSD , URL: /wiki/Berkeley_Software_Distribution
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","IP PBX, presence indication, IVR, automated phone provisioning, fax server, unified messaging, Outlook, Exchange integration, conferencing, outbound dialing","Small and medium enterprise (25-256 users)","3.3.1.3177; April 2009; 12 years ago (2009-04)"
+"SIP Express Router (SER) , URL: /wiki/SIP_Express_Router_(SER)
+","Linux , URL: /wiki/Linux
+BSD , URL: /wiki/Berkeley_Software_Distribution
+Solaris , URL: /wiki/Solaris_(operating_system)
+","GPL , URL: /wiki/GNU_General_Public_License
+","SIP , URL: /wiki/Session_Initiation_Protocol
+","No","SIP , URL: /wiki/Session_Initiation_Protocol
+Diameter , URL: /wiki/Diameter_(protocol)
+RADIUS , URL: /wiki/RADIUS
+ENUM , URL: /wiki/Telephone_number_mapping
+","SIP Service Providers","2.0.0 Ottendorf"
+"sipXecs IP PBX , URL: /wiki/SipX
+","Linux , URL: /wiki/Linux
+","AGPL , URL: /wiki/Affero_General_Public_License
+","SIP , URL: /wiki/Session_Initiation_Protocol
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","Full redundancy (HA), instant messaging, voicemail, user portal, admin GUI, plug & play management including phones and gateways, fully featured","Enterprises between 10 and 10,000 users, multi-site","14.04.2; July 2014; 7 years ago (2014-07)"
+"vzRoom , URL: /wiki/VzRoom
+","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","SIP , URL: /wiki/Session_Initiation_Protocol
+","SSL , URL: /wiki/Secure_Sockets_Layer
+TLS , URL: /wiki/Transport_Layer_Security
+AES , URL: /wiki/Advanced_Encryption_Standard
+","Instant messaging-chat, VoIP, video, sharing (desktop, video, file), whiteboard, scheduler, recording","Individual to small and medium enterprise (2-1,000 users)","0.8.8.735; November 2010; 11 years ago (2010-11)"
+"Yate , URL: /wiki/Yate_(telephony_engine)
+","BSD , URL: /wiki/Berkeley_Software_Distribution
+Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","GPL , URL: /wiki/GNU_General_Public_License
+","SIP , URL: /wiki/Session_Initiation_Protocol
+IAX , URL: /wiki/Inter-Asterisk_eXchange
+H.323 , URL: /wiki/H.323
+ISDN , URL: /wiki/ISDN
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+Jingle , URL: /wiki/Jingle_(protocol)
+Google Talk , URL: /wiki/Google_Talk
+MGCP , URL: /wiki/Media_Gateway_Control_Protocol
+SS7 , URL: /wiki/Signalling_System_No._7
+SCTP , URL: /wiki/Stream_Control_Transmission_Protocol
+SCCP , URL: /wiki/Skinny_Client_Control_Protocol
+TCAP , URL: /wiki/Transaction_Capabilities_Application_Part
+MAP , URL: /wiki/Mobile_Application_Part
+CAMEL , URL: /wiki/Customised_Applications_for_Mobile_networks_Enhanced_Logic
+","SSL , URL: /wiki/Secure_Sockets_Layer
+TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","IVR , URL: /wiki/Interactive_Voice_Response
+","Deployed on home servers and large networks with millions of users","6.3; February 2021; 1 year ago (2021-02)"

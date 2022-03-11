@@ -1,0 +1,18 @@
+"","MSHTML , URL: /wiki/MSHTML
+","Tasman , URL: /wiki/Tasman_(browser_engine)
+","Gecko , URL: /wiki/Gecko_(software)
+","WebKit , URL: /wiki/WebKit
+","KHTML , URL: /wiki/KHTML
+","Presto , URL: /wiki/Presto_(browser_engine)
+","iCab , URL: /wiki/ICab
+"
+"form","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"input","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"select","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"option","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"textarea","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"button","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"fieldset","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"label","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"legend","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"optgroup","Yes","Yes","Yes","Yes","Yes","Yes","Yes"

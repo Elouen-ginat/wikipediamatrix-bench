@@ -1,0 +1,38 @@
+"Model","Launch","Codename , URL: /wiki/Codename
+","Architecture , URL: /wiki/Microarchitecture
+","nm , URL: /wiki/Nanometer
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Config core[a]","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Shared Memory","Shared Memory","Shared Memory","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","TDP (W)[b]","APU , URL: /wiki/AMD_Accelerated_Processing_Unit
+"
+"Model","Launch","Codename , URL: /wiki/Codename
+","Architecture , URL: /wiki/Microarchitecture
+","nm , URL: /wiki/Nanometer
+","Base","Turbo","Config core[a]","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","bit , URL: /wiki/Bit
+","Bus type","GB , URL: /wiki/Gigabyte
+","GFLOPS , URL: /wiki/GFLOPS
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","OpenCL , URL: /wiki/OpenCL
+","TDP (W)[b]","APU , URL: /wiki/AMD_Accelerated_Processing_Unit
+"
+"Radeon HD 7310[31]","June 6, 2012","Ontario","TeraScale 2 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_2
+","40","500","N/A","80:8:4","4.00","2.00","64","DDR3-1066","8.53","80","11.3 (11_0)","4.5","1.2","18","E2-1200"
+"Radeon HD 7340[31]","June 6, 2012","Ontario","TeraScale 2 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_2
+","40","523","680","80:8:4","5.44","2.72","64","DDR3-1333","10.66","83.6–108.8","11.3 (11_0)","4.5","1.2","18","E2-1800"
+"Radeon HD 7480D","June 1, 2012","Scrapper","TeraScale 3 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_3
+","32","723","N/A","128:8:4","11.6","2.9","128","DDR3-1600","25.6","185","11.3 (11_0)","4.5","1.2","65","A4-4000, A4-5300"
+"Radeon HD 7540D","June 1, 2012","Scrapper","TeraScale 3 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_3
+","32","760","N/A","192:12:4","Unknown","Unknown","128","DDR3-1866","29.9","292","11.3 (11_0)","4.5","1.2","65","A6-5400K"
+"Radeon HD 7560D","June 1, 2012","Devastator","TeraScale 3 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_3
+","32","760","N/A","256:16:4","Unknown","Unknown","128","DDR3-1866","29.9","389","11.3 (11_0)","4.5","1.2","65–100","A8-5500, A8-5600K"
+"Radeon HD 7660D","June 1, 2012","Devastator","TeraScale 3 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_3
+","32","760","800","384:24:8","16.2","2.7","128","DDR3-1866","29.9","584–614","11.3 (11_0)","4.5","1.2","65–100","A10-5700 (760 MHz), A10-5800K (800 MHz)"

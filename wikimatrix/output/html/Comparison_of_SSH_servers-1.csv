@@ -1,10 +1,35 @@
-"null","null","null","null","null","null"
-"Apache MINA SSHD","Apache Software Foundation","2009","2.8.0","2021-12-05[1]","Apache-2.0"
-"Bitvise SSH Server","Bitvise Limited","2001","8.43","2020-06-06[2]","Proprietary, Free for non-commercial use"
-"CopSSH","Itefix","2003-08-12","7.4.0","2020-10-01[3]","Proprietary"
-"CrushFTP Server","CrushFTP, LLC","2003-01-01","9.0.0","2018-10-30","Proprietary, shareware"
-"Dropbear","Matt Johnston","2003-04-06[4]","2020.81","2020-10-29[5]","MIT"
-"lsh","Niels Möller","1999-05-23[6]","2.1","2013-06-26","GPL-2.0-or-later"
-"OpenSSH (OpenBSD Secure Shell)","The OpenBSD project","1999-12-01","8.6","2021-04-19[7]","BSD"
-"Teleport","Gravitational","2016-06-23","4.2.9","2020-05-05[8]","Apache-2.0"
-"wolfSSH","wolfSSL","2016-07-20","1.4.8","2021-11-04[9]","GPL-3.0-or-later or proprietary"
+"Name","Mac OS X , URL: /wiki/Mac_OS_X
+","Mac OS classic , URL: /wiki/Mac_OS_classic
+","Windows , URL: /wiki/Microsoft_Windows
+","Cygwin , URL: /wiki/Cygwin
+","BSD , URL: /wiki/Berkeley_Software_Distribution
+","Linux , URL: /wiki/Linux
+","Solaris , URL: /wiki/Solaris_(operating_system)
+","Java , URL: /wiki/Java_(software_platform)
+","OpenVMS , URL: /wiki/OpenVMS
+","z/OS , URL: /wiki/Z/OS
+","AmigaOS , URL: /wiki/AmigaOS
+","AIX , URL: /wiki/AIX
+","HPUX , URL: /wiki/HPUX
+","iOS , URL: /wiki/IOS
+iPhone , URL: /wiki/IPhone
+iPod Touch , URL: /wiki/IPod_Touch
+","webOS , URL: /wiki/WebOS
+","Android , URL: /wiki/Android_(operating_system)
+"
+"Apache MINA , URL: /wiki/Apache_MINA
+","Yes","No","Yes","No","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","No","No","No"
+"Bitvise , URL: /wiki/Bitvise
+","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"CopSSH , URL: /wiki/CopSSH
+","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No"
+"CrushFTP Server , URL: /wiki/CrushFTP_Server
+","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","No","No","No"
+"Dropbear , URL: /wiki/Dropbear_(software)
+","Yes","No","No","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","No","Yes[Note 2]","Yes"
+"lsh , URL: /wiki/Lsh
+","Yes","No","No","No","Partial[Note 3]","Yes","Yes","No","No","No","No","No","No","No","No","??"
+"OpenSSH , URL: /wiki/OpenSSH
+","Included","No","Optional[Note 4]","Included","Included","Included[Note 5]","Yes","No","Yes","Yes","Yes","Yes[Note 6]","Included","Yes[Note 7]","Yes[Note 2]","Partial"
+"wolfSSH , URL: /wiki/WolfSSH
+","Yes","No","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No","No","No","??","No"

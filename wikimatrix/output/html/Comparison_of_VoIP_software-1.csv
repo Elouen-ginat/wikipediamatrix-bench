@@ -1,74 +1,200 @@
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"Windows, Android, iOS","Proprietary","?","SIP, RTP, XMPP, STUN, ICE","G.722 wideband, G.711a, G.711u, iLBC, G.729a, SILK, GSM, VP8, H.264, Opus","TLS, SRTP","Unknown","Voice, video, IM, Group chat, content sharing, SMS and MMS over IP services, native and social network contacts integration, incoming call/IM push notifications.","2014; 8 years ago (2014)","null","null","null","null","null","null"
-"Windows","Proprietary","?","SIP, RTP","Unknown","TLS, SRTP","Unknown","","2.0; 2010; 12 years ago (2010)","null","null","null","null","null","null"
-"Linux, macOS, Windows","Mixed: free software versions under GNU GPLv3 + shareware versions under gplv3 with exception of including proprietary code","macOS version proprietary on App Store, free version limited to sponsored SIP provider; Windows version proprietary; Linux version open source","ICE, SIP, MSRP, RFB (VNC), XCAP","Opus, speex, G.722, GSM, iLBC, PCMU, PCMA","TLS, SRTP and ZRTP on all versions, OTR/SMP on Linux and macOS only[2]","No limit","IM, file transfer, desktop sharing, multi-party conference, wideband","Blink Qt","null","null","null","null","null","null"
-"Android","GPL","Free","SIP, ICE, STUN, TURN","Opus, AMR, G.711 (u-law/a-law), speex, G.722, GSM, iLBC, G.729 (need to buy a licensed plugin), iSAC, SILK (narrow-band/wide-band/ultra wide-band)","SRTP, SIP over TLS 1.0 and ZRTP","Unknown","SIP SIMPLE messaging, Support for IPv6, Integration with Android operating system with filters and rewriting rules","1.0.2; November 2014; 7 years ago (2014-11)","null","null","null","null","null","null"
-"Windows","Proprietary","Free (for Cisco SMB Partners only)","SCCP (Skinny), SIP, TFTP, HTTP (for XML Services)","G.722 wideband, G.711a, G.711u, iLBC, iSAC, G.729a, G.729ab","SRTP","No limit (with bridge), 2 otherwise[4]","Call Recording, Silent Monitoring, Multiple lines and directory numbers, Configurable speed dial, Calling name and number display, Call Waiting, Call Forward, Call Transfer, Three-Way Calling (conference), Call Park, Call Pickup, Redial, Hold, Barge, Callback, Extension Mobility, Message waiting indicator, iDivert, Meet Me conferencing, Group Pickup, Do Not Disturb, XML Services","8.6.6; April 27, 2016; 5 years ago (2016-04-27)","null","null","null","null","null","null"
-"macOS, Android, iOS, Windows, Linux","Proprietary","Free, Premium "Nitro" Subscription for Additional Features.","RTP, UDP, WS, HTTPS","Opus","TLS","5000 soft limit for voice calls,[5] 25 hard limit for video[6]","IM, file sharing, in-game overlay","59746; April 24, 2020; 22 months ago (2020-04-24)","null","null","null","null","null","null"
-"Linux, Windows, OpenSolaris","GPL-2.0-or-later","Free","SIP, H.323, STUN, Zeroconf, XMPP, RTP","H.263, H.264/MPEG-4 AVC, Theora, iLBC, Speex, SILK, GSM, ...","No","Unknown","Video, IM, LDAP, Call Forwarding, Call Transfer, Auto-answering, PC to phone, phone to PC, Multiple accounts, USP support, Message waiting indicator, SIMPLE-based presence etc.","4.0.1 (February 21, 2013; 9 years ago (2013-02-21)) [±][7]","null","null","null","null","null","null"
-"Linux","GPL-2.0-or-later","Free","SIP, XMPP (Jingle), ICE (STUN-TURN), Zeroconf","Unknown","No","Unknown","IM, multi-user A/V,[8] collaborative applications","3.12.12[9] (May 13, 2016; 5 years ago (2016-05-13)) [±]","null","null","null","null","null","null"
-"Windows","Proprietary","Free","SIP, STUN, ICE, XMPP","Unknown","Yes","5[10]","IM, Conferencing, Voice, Video and SIMPLE based presence","Windows 3.2; 2009; 13 years ago (2009)","null","null","null","null","null","null"
-"Windows","Proprietary","?","SIP-SIMPLE","Unknown","TLS, SRTP","6 party audio; 3 party video","Voice and Video calling; IM; Import Microsoft Outlook Contacts; USB Support; Call Recording and Conferencing","1.5.20.1; March 2010; 12 years ago (2010-03)","null","null","null","null","null","null"
-"iOS, macOS","Proprietary","Free","SIP, IETF, Signaling protocol for VoIP, STUN, TURN and ICE| IETF, technologies for traversing firewalls and NAT","H.264 Video, AAC-ELD Audio, H.263 and VP8","RTP, SRTP IETF|standards for delivering real-time and encrypted media streams for VoIP.","20","Video, voice, conferencing, with additional tools available as "Services".","","null","null","null","null","null","null"
-"Linux, Windows, macOS, Android, iOS","Proprietary (using libjingle)","Free","XMPP","H.264/SVC, H.264/AVC, H.263 and VP8","SRTP","10","Video, chat, screen sharing, with additional tools available as "Hangout Apps".","Google Chrome Web Store extension 2020.803.419.1 (August 12, 2020; 18 months ago (2020-08-12)) [±] [11]","null","null","null","null","null","null"
-"Linux, macOS, Windows, mobile","Proprietary","?","SIP-SIMPLE, T.120","H.323","TLS","Unknown","IM, File transfer, Voice, Presence, Server stored contact list, HTTP tunneling, plugins, embedable in Lotus Notes[12]","8.5.2; May 8, 2011; 10 years ago (2011-05-08)","null","null","null","null","null","null"
-"Android, FreeBSD, iOS, iPhone, Linux, Microsoft Windows, OS X[13]","GPL-3.0-or-later","Free","SIP, RTP, STUN per account, SRV, DHT, P2P","Audio: Opus, Speex, G.722, G.711, GSM, VP8, G.729, iLBC. Video: H.264, H.263, VP8, MPEG-4","Voice encryption (SRTP with SDES or ZRTP) and signaling encryption (TLS), multiple realms authentication mechanism","No limit","Blockchain ID-management, Gnome-KDE client, address book, multiple accounts, unlimited call number, call transfer, call hold-unhold, call recording, multi-way conferencing","iOS 3.28 / December 17, 2021; 2 months ago (2021-12-17)[14] Android 20211210-01 / December 21, 2021; 2 months ago (2021-12-21)[15] Windows 202112221025 / December 22, 2021; 2 months ago (2021-12-22) [16] macOS 2.10 / December 16, 2021; 2 months ago (2021-12-16)[17]","3.28 / December 17, 2021; 2 months ago (2021-12-17)[14]","20211210-01 / December 21, 2021; 2 months ago (2021-12-21)[15]","202112221025 / December 22, 2021; 2 months ago (2021-12-22) [16]","2.10 / December 16, 2021; 2 months ago (2021-12-16)[17]","null","null"
-"3.28 / December 17, 2021; 2 months ago (2021-12-17)[14]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"20211210-01 / December 21, 2021; 2 months ago (2021-12-21)[15]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"202112221025 / December 22, 2021; 2 months ago (2021-12-22) [16]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"2.10 / December 16, 2021; 2 months ago (2021-12-16)[17]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"Linux, macOS, Windows (all java supported). Experimental Android builds are also available.[18]","Apache-2.0","Free","SIP-SIMPLE, XMPP-Jingle STUN ICE, TURN","SILK, G.722, Speex, Opus, G.711 (PCMU/PCMA), iLBC, GSM, G.729, H.264, H.263, VP8","ZRTP, SRTP, OTR, TLS","Unknown","Text messaging, audio-video telephony, IPv6 (often broken,[19] P2P not supported[20]), call recording, 64-bit","2.10 (build.5550) (February 5, 2017; 5 years ago (2017-02-05)) [±]","null","null","null","null","null","null"
-"Linux (KDE)","GPL-2.0-or-later","Free","SIP, STUN, NAPTR-SRV","Unknown","SRTP","Unknown","Video, voice, IM, external Sessions, IPv6 support for UDP","1.2 (November 2008)","null","null","null","null","null","null"
-"Windows, Android, iOS","Proprietary","?","SIP, RTP, STUN","G.711, H.264, MPEG, and others","TLS, SRTP","Unknown","Voice, video, conferencing, image sharing, incoming call/IM push notifications.","February 27, 2018; 4 years ago (2018-02-27)","null","null","null","null","null","null"
-"Linux, Windows, macOS, Android, iPhone, BlackBerry","GPL-3.0-or-later","Free","SIP","Speex, Opus, G711, GSM, G.722, VP8 (WebM), H263, MPEG4, Theora and H264 (plugin)","TLS, SRTP, ZRTP","Unknown","Video, IM, STUN, IPv6 (disables IPv4 support when enabled), P2P, Secure Encryption, User own Encryption via Provided API https://gitlab.linphone.org/BC/public/linphone-desktop","4.2.5; June 25, 2020; 20 months ago (2020-06-25), provides daily snapshots via http://www.linphone.org/snapshots","null","null","null","null","null","null"
-"macOS","Proprietary","Free, only macOS and iOS","SIP AIM ICQ XMPP","H263, H264","Unknown","Unknown","Integrated, PBX independent","7.0; July 25, 2012; 9 years ago (2012-07-25)","null","null","null","null","null","null"
-"Windows","GPL-2.0-or-later","Free","SIP, STUN, ICE, SIMPLE","Speex, iLBC, GSM, G.711, G.722, G.729, SILK, Linear PCM","TLS, SRTP","Unknown","Video, voice, IM and Presence","3.20.7 (25 August 2021; 6 months ago (2021-08-25)) [±][21]","null","null","null","null","null","null"
-"Windows 2000-XP-2003-Vista-7 (including 64-bit versions), macOS (x86)","Proprietary","not free","SIP, RTSP","H.323","DTLS-SRTP","Unknown","H.264 Full-HD 1080p video rx/tx, Two independent lines supporting Call Control and 3-Party videoconference in Continuous Presence, G.722.1/C wideband audio, Call recording/export, DV/HDMI/Component capture, Presentation (H.239, RFC-4796), Encryption, Far End Camera Control, GPU accel (D3D and OpenGL)","7.0.24; May 26, 2010; 11 years ago (2010-05-26), discontinued","null","null","null","null","null","null"
-"Any, Progressive web application","GPL-2.0-or-later","Free","XMPP, STUN, TURN","Depending the web-browser","TLS","2","IM, microblogging, social-network, OMEMO encryption, screen-sharing, file transfer","2022-02-19","null","null","null","null","null","null"
-"Linux, macOS, iOS, Windows, Android","New BSD license","Free","ICE","CELT, Speex, Opus","TLS and OCB-AES128","No limit (limited only by server bandwidth and memory)","Chat with (limited) embedded HTML, Automatic Gain Control, very low latency, Access Control Lists for user management, Customizable In-Game Overlay for OpenGL and DirectX, Directional Audio, Plugin Support, Nested Channels, Echo cancellation for headset free use, Global Public Server List, Logitech G15 support, Push-To-Talk and Voice-Activation","1.4.230; January 16, 2022; 49 days ago (2022-01-16)","null","null","null","null","null","null"
-"Windows, Android, iOS","Proprietary","Free","SIP, RTP and RTCP","Unknown","Yes","No limit","Address Book integration, Call recording/export, Mute, On Hold, Caller ID definition","4.2.9; March 2013; 9 years ago (2013-03)","null","null","null","null","null","null"
-"macOS, iOS, Windows, Android","Proprietary","Free","SIP, RTP and RTCP","Unknown","Yes","12","Address Book integration, Call recording/export, Mute, On Hold, Caller ID definition","4.2.9; March 2013; 9 years ago (2013-03)","null","null","null","null","null","null"
-"Windows","Proprietary","Free","SIP, TAPI, CAPI","G.711a, G.711u, G.722, G.726, G.729, GSM, iLBC, speex, Opus","TLS, SRTP, ZRTP","8","Conferencing, call redirection, call recording","3.23 (5 March 2021; 12 months ago (2021-03-05)) [±][22]","null","null","null","null","null","null"
-"Windows","Proprietary","Free","SIP","G.711a, G.711u, G.722, G.726, G.729, GSM, iLBC, speex, Opus","TLS, SRTP, ZRTP","8","Conferencing, call redirection, call recording","3.00 (18 February 2022; 16 days ago (2022-02-18)) [±][23]","null","null","null","null","null","null"
-"Linux, macOS, Windows XP-2000","GPL","Free","SIP","G.711, G.729, iLBC, AMR-NB, G.722, Speex, AMR-WB (G.722.2), H.263, H.263+, H.264, Dirac[24]","SRTP, but key exchange via Everbee key Exchange which is not a Standard","Unknown","Video, IM (MSN, AIM, ICQ, Yahoo!, XMPP, Google Talk), voicemail, wengo to phone, conferencing.","2.2.1 (22 June 2011; 10 years ago (2011-06-22)[25]) [±]","null","null","null","null","null","null"
-"Windows","Proprietary","?","Proprietary","?","?","Unknown","?","2001; 21 years ago (2001)","null","null","null","null","null","null"
-"Linux, macOS, Windows, Android, iPhone","GPLv3 clients and AGPLv3 server","Free","RingRTC (WebRTC over Signal protocol[26])","Opus[26]","?","Unknown","Signal also allows users to send text messages, files, voice notes, pictures, GIFs, and video messages over a Wi-Fi or data connection to other Signal users on iOS, Android and a desktop app. The app also supports group messaging, read receipts and typing indicators, both of which can be disabled.","Android 5.28.10[27] / 6 January 2022 iOS 5.30[28] / 28 February 2022 Desktop 5.34.0[29] / 3 January 2022","5.28.10[27] / 6 January 2022","5.30[28] / 28 February 2022","5.34.0[29] / 3 January 2022","null","null","null"
-"5.28.10[27] / 6 January 2022","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"5.30[28] / 28 February 2022","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"5.34.0[29] / 3 January 2022","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"Linux(with limited functionality),[30] macOS, Windows 2000-XP-Vista-7-Mobile (unsupported), BREW, Windows Phone, Android, iPhone, PSP","Proprietary","Free","Proprietary P2P protocol [a]","SILK","TLS","25 starting with version 3.6.0.216. 10 with 2.x","Conferencing, video, file transfer, voicemail, Skype to phone, phone to Skype, additional P2P extensions (games, whiteboard, etc...); depending on platform.","Windows, UWP 15.80.194.0 / 1 February 2022; 33 days ago (2022-02-01)[31] Windows, desktop 8.81.0.268 / 24 February 2022; 10 days ago (2022-02-24)[31] macOS 8.80.0.141 / 1 February 2022; 33 days ago (2022-02-01)[31] Linux 8.80.0.143 / 1 February 2022; 33 days ago (2022-02-01)[31] Android 8.80.0.137 / 1 February 2022; 33 days ago (2022-02-01)[32] iOS 8.80.0.218 / 1 February 2022; 33 days ago (2022-02-01)[33] (iPhone),[34] (iPad)","15.80.194.0 / 1 February 2022; 33 days ago (2022-02-01)[31]","8.81.0.268 / 24 February 2022; 10 days ago (2022-02-24)[31]","8.80.0.141 / 1 February 2022; 33 days ago (2022-02-01)[31]","8.80.0.143 / 1 February 2022; 33 days ago (2022-02-01)[31]","8.80.0.137 / 1 February 2022; 33 days ago (2022-02-01)[32]","8.80.0.218 / 1 February 2022; 33 days ago (2022-02-01)[33] (iPhone),[34] (iPad)"
-"15.80.194.0 / 1 February 2022; 33 days ago (2022-02-01)[31]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"8.81.0.268 / 24 February 2022; 10 days ago (2022-02-24)[31]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"8.80.0.141 / 1 February 2022; 33 days ago (2022-02-01)[31]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"8.80.0.143 / 1 February 2022; 33 days ago (2022-02-01)[31]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"8.80.0.137 / 1 February 2022; 33 days ago (2022-02-01)[32]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"8.80.0.218 / 1 February 2022; 33 days ago (2022-02-01)[33] (iPhone),[34] (iPad)","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"Web, Phones, Desktop","","","WebRTC","","","","","","null","null","null","null","null","null"
-"Linux, Windows, macOS, FreeBSD, Android, iOS","Proprietary","Free","Unknown","CELT, Speex (both until server version 3.5.0), Opus[35]","Yes","32 unlicensed, 512 with Non-Profit License (available until September 2018), up to 1024 (Gamer License), 2000","Simultaneous server conferencing with tabs, 3D sound effects, scalable permissions system, firewall friendly file transfers, in-game overlay for DirectX & OpenGL games, global public server list, plugin system","3.5.5; November 4, 2020; 16 months ago (2020-11-04)","null","null","null","null","null","null"
-"Linux, Windows, macOS, Android, iOS, Raspbian","Proprietary","Free","Proprietary","Opus, Speex, VP8","No","1000","Video, file sharing, desktop sharing, stream media files (MP3, AVI)","5.3.3; November 2018; 3 years ago (2018-11)","null","null","null","null","null","null"
-"Linux, Windows, macOS, iOS, Android[36]","Proprietary","Free (personal use only)","Unknown","Unknown","AES256","Unknown","Unknown","Windows (desktop app) 15.26.4 / 25 January 2022; 40 days ago (2022-01-25)[37] macOS 15.26.4 / 25 January 2022; 40 days ago (2022-01-25)[38] Linux 15.26.4 / 25 January 2022; 40 days ago (2022-01-25)[39] Android 15.26.54 / 25 January 2022; 40 days ago (2022-01-25)[40] iOS 15.26.1 / 3 February 2022; 31 days ago (2022-02-03)[41] Windows (UWP app) 15.100.209759[42]","15.26.4 / 25 January 2022; 40 days ago (2022-01-25)[37]","15.26.4 / 25 January 2022; 40 days ago (2022-01-25)[38]","15.26.4 / 25 January 2022; 40 days ago (2022-01-25)[39]","15.26.54 / 25 January 2022; 40 days ago (2022-01-25)[40]","15.26.1 / 3 February 2022; 31 days ago (2022-02-03)[41]","15.100.209759[42]"
-"15.26.4 / 25 January 2022; 40 days ago (2022-01-25)[37]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"15.26.4 / 25 January 2022; 40 days ago (2022-01-25)[38]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"15.26.4 / 25 January 2022; 40 days ago (2022-01-25)[39]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"15.26.54 / 25 January 2022; 40 days ago (2022-01-25)[40]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"15.26.1 / 3 February 2022; 31 days ago (2022-02-03)[41]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"15.100.209759[42]","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"macOS 10.10.2","BSD","Free","SIP, STUN, ICE","Unknown","No","Unknown","Address Book integration","1.1.4; March 6, 2012; 10 years ago (2012-03-06)","null","null","null","null","null","null"
-"Windows XP-Vista-7, macOS, iOS, Android","Proprietary","Free","Proprietary with SIP core","Unknown","Unknown","20","Conferencing, voicemail, caller ID, call-waiting, address book integration; auto-attendant, call-forwarding","Windows; August 2010; 11 years ago (2010-08); macOS; October 2010; 11 years ago (2010-10)","null","null","null","null","null","null"
-"Linux, macOS, Windows, Android, FreeBSD","GPL-3.0-or-later","Free","Tox, VP8","Opus,","NaCl","Unknown","Voice, video, instant messaging, file transfers","Unknown","null","null","null","null","null","null"
-"Windows 2000-XP-Vista-7, macOS, Linux iOS, Android, Symbian, BlackBerry OS,","Proprietary","Free","SIP, XMPP","Unknown","Unknown","Unknown","Chat, file transfer, voicemail, inbound numbers, integration with GTalk, Microsoft Live, Skype","","null","null","null","null","null","null"
-"Android, iPhone, Windows Phone","Proprietary","Free","WebRTC, SIP, XMPP","iLBC, Opus","Yes","Unknown","Voice, video, Instant messaging, group chat, photo and video sharing, SMS and MMS, native and social network contacts integration, incoming call/IM push notifications.","","null","null","null","null","null","null"
-"Linux","GPL-2.0-or-later","Free","SIP","G.711 A-law μ-law, G.726, GSM, iLBC, Speex narrow wide ultrawide","SRTP, ZRTP","3","Conferencing, chat, file transfer, Firefox integration, call redirection, voicemail, support of VoIP-to-Phone services","1.10.2 (February 14, 2019; 3 years ago (2019-02-14)) [±]","null","null","null","null","null","null"
-"macOS, Windows, iOS, Android","Proprietary","Free","Unknown","Unknown","No","8","Conferencing, chat, text-to-speech","3.0.8","null","null","null","null","null","null"
-"Linux,[b] macOS,[b] Windows,[b] Android, Bada, BlackBerry OS, iOS, Series 40, Symbian, Windows Phone","Proprietary","?","Unknown","Unknown","Yes[45]","Unknown","Varies by platform: Text, picture and video messaging on all, voice calling only on iPhone, Android and Microsoft's Windows Phone","Android 15.9.0.5[46] / 20 August 2021; 6 months ago (20 August 2021) iOS 15.9.0[47] / 19 August 2021; 6 months ago (19 August 2021) Windows 15.9.0.1 / 17 August 2021; 6 months ago (17 August 2021) macOS 15.9.0 / 17 August 2021; 6 months ago (17 August 2021) Linux 13.3.1.22 / 7 July 2021; 7 months ago (7 July 2021)","15.9.0.5[46] / 20 August 2021; 6 months ago (20 August 2021)","15.9.0[47] / 19 August 2021; 6 months ago (19 August 2021)","15.9.0.1 / 17 August 2021; 6 months ago (17 August 2021)","15.9.0 / 17 August 2021; 6 months ago (17 August 2021)","13.3.1.22 / 7 July 2021; 7 months ago (7 July 2021)","null"
-"15.9.0.5[46] / 20 August 2021; 6 months ago (20 August 2021)","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"15.9.0[47] / 19 August 2021; 6 months ago (19 August 2021)","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"15.9.0.1 / 17 August 2021; 6 months ago (17 August 2021)","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"15.9.0 / 17 August 2021; 6 months ago (17 August 2021)","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"13.3.1.22 / 7 July 2021; 7 months ago (7 July 2021)","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"Linux, macOS, Windows, Android, iOS","Proprietary","not free","SIP, STUN, ICE, TURN","Audio: Opus, G.711 Video: VP8","SRTP","50","VoIP, video, instant messaging, presence (SIP SIMPLE), PSTN (inbound and outbound), call waiting, call hold, call forwarding, voicemail, message-waiting indication, 3-way conferencing, contacts integration, receptionist console, video, group chat, content sharing, SMS over IP services, native and social network contacts integration, incoming call/IM push notifications, fax, file sharing, screen sharing (desktop only), number programmability.","null","null","null","null","null","null","null"
-"Linux, Windows, macOS, iOS, Android, Web","GPLv3","not free","?","Audio: Opus Video: VP8","DTLS, SRTP[48]","10[49]","End-to-end encryption by default for everything, instant messaging, video call, video group call, file sharing, GIF sharing, push to talk, edit message, delete message (on both side), timed messages, doodling, identity verification, screen sharing (desktop only)","?","null","null","null","null","null","null"
-"macOS, Windows","Proprietary","Free","SIP, STUN, ICE, TURN","H.263, H.263+, G.711, iLBC, Speex","No","3","VoIP over WiFi, 3G, 4G, video, instant messaging, presence (SIP SIMPLE), call waiting, call hold, call forwarding, voice mail, message waiting indication, 3 way conferencing, contacts integration, background noise reduction (BNR), automatic gain control (AGC)","5.3.3 July 10, 2018; 3 years ago (2018-07-10)","null","null","null","null","null","null"
-"Classic Mac OS (8, 9), macOS, Windows, (Linux, FreeBSD version VoIP incapable)","Proprietary","Free","SIP (using TLS) and RTP (media)","Unknown","Unknown","Unknown","Video, file transfer, PC to phone, phone to PC","Windows: 11.5.0.228; May 31, 2012; 9 years ago (2012-05-31) Mac: 3.0.1; July 20, 2011; 10 years ago (2011-07-20) Linux: 1.0.6; September 2003; 18 years ago (2003-09) SunOS 5.7: 0.99.17-1; September 2003; 18 years ago (2003-09) Solaris 8: 1.0.4; September 2003; 18 years ago (2003-09) FreeBSD 4-5: 1.0.4; September 2003; 18 years ago (2003-09) iOS: 2.2.6; July 12, 2012; 9 years ago (2012-07-12)","null","null","null","null","null","null"
-"Linux, macOS, Windows","GPL","Free","SIP, IAX, XMPP, H.323","G.711a, G.711u, GSM 06.10, iLBC, Speex, G.723, G.726, G.728, G.729","SRTP, maybe ZRTP?","Unknown","","6.0.0; September 2017; 4 years ago (2017-09)","null","null","null","null","null","null"
-"Linux, macOS, Windows","Proprietary (with viewable source)","Includes time bomb provision","SIP, RTP","Unknown","SRTP, ZRTP","Unknown","","Beta 2008-09-04 (Linux 0.9.224), (macOS 0.9.246), (Windows 0.9.206)","null","null","null","null","null","null"
+"Program","Operating systems , URL: /wiki/Operating_system
+","License , URL: /wiki/Software_license
+","Open source , URL: /wiki/Open-source_software
+","Protocols , URL: /wiki/Communications_protocol
+","Codecs , URL: /wiki/Codec
+","Encryption , URL: /wiki/Encryption
+","Other abilities","Latest release","Latest release"
+"Acrobits Softphone , URL: /wiki/Acrobits_Softphone
+","Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+","Proprietary , URL: /wiki/Proprietary_software
+","No","SIP , URL: /wiki/Session_Initiation_Protocol
+","G.711 , URL: /wiki/G.711
+G.722 , URL: /wiki/G.722
+iLBC , URL: /wiki/ILBC
+GSM , URL: /wiki/GSM
+G.729 , URL: /wiki/G.729
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+ZRTP , URL: /wiki/ZRTP
+","VOIP over Wi-Fi or 3G iOS only: push notifications, video, number rewriting, address book matching, sms for betamax providers and pennytel","Acrobits Softphone: 3.20 (Android), 5.2 (iOS)","Acrobits Softphone: 3.20 (Android), 5.2 (iOS)"
+"CSipSimple , URL: /wiki/CSipSimple
+","Android , URL: /wiki/Android_(operating_system)
+","GPL , URL: /wiki/GNU_General_Public_License
+","Yes","SIP , URL: /wiki/Session_Initiation_Protocol
+","Opus , URL: /wiki/Opus_(audio_format)
+AMR-WB , URL: /wiki/Adaptive_Multi-Rate_Wideband
+G.722 , URL: /wiki/G.722
+iSAC , URL: /wiki/Internet_Speech_Audio_Codec
+iLBC , URL: /wiki/ILBC
+Speex , URL: /wiki/Speex
+SILK , URL: /wiki/SILK
+Codec2 , URL: /wiki/Codec2
+G.726 , URL: /wiki/G.726
+G711 (PCMA & PCMU) , URL: /wiki/G.711
+AMR , URL: /wiki/Adaptive_Multi-Rate_audio_codec
+GSM , URL: /wiki/GSM
+","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+TLS , URL: /wiki/Transport_Layer_Security
+ZRTP , URL: /wiki/ZRTP
+","?","1.02.02","1.02.02"
+"Google Duo , URL: /wiki/Google_Duo
+","iOS, Android","Proprietary , URL: /wiki/Proprietary_software
+freeware , URL: /wiki/Freeware
+","No","WebRTC , URL: /wiki/WebRTC
+","?","?","One-to-one voice and video calling.","Android","114.0 / November 26, 2020; 15 months ago (2020-11-26)"
+"Google Duo , URL: /wiki/Google_Duo
+","iOS, Android","Proprietary , URL: /wiki/Proprietary_software
+freeware , URL: /wiki/Freeware
+","No","WebRTC , URL: /wiki/WebRTC
+","?","?","One-to-one voice and video calling.","iOS","114.0 / November 20, 2020; 15 months ago (2020-11-20)"
+"iCall Mobile","iOS , URL: /wiki/IOS
+","Proprietary , URL: /wiki/Proprietary_software
+freeware , URL: /wiki/Freeware
+","No","SIP , URL: /wiki/Session_Initiation_Protocol
+AIM , URL: /wiki/AOL_Instant_Messenger
+ICQ , URL: /wiki/ICQ
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+","Speex , URL: /wiki/Speex
+CELT , URL: /wiki/CELT
+WebM , URL: /wiki/WebM
+","TLS , URL: /wiki/Transport_Layer_Security
+ZRTP , URL: /wiki/ZRTP
+","VoIP over Wi-Fi or 3G, SMS, voicemail","2.0.1; April 2012; 9 years ago (2012-04)","2.0.1; April 2012; 9 years ago (2012-04)"
+"Jami , URL: /wiki/Jami_(software)
+Savoir-faire Linux , URL: /wiki/Savoir-faire_Linux
+","iOS , URL: /wiki/IOS
+Android , URL: /wiki/Android_(operating_system)
+","GPLv3 , URL: /wiki/GNU_General_Public_License
+","Yes","SIP , URL: /wiki/Session_Initiation_Protocol
+","Opus , URL: /wiki/Opus_(audio_format)
+","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+TLS , URL: /wiki/Transport_Layer_Security
+","?","Version 202103261733 March 2021; 1 year ago (2021-03)","Version 202103261733 March 2021; 1 year ago (2021-03)"
+"Jajah , URL: /wiki/Jajah
+","Symbian, Windows Mobile (version unknown)","Proprietary , URL: /wiki/Proprietary_software
+","No","?","?","?","web based service, Call back, no download[51]","?","?"
+"Juphoon , URL: /wiki/Juphoon
+","iOS , URL: /wiki/IOS
+","Proprietary , URL: /wiki/Proprietary_software
+","No","SIP , URL: /wiki/Session_Initiation_Protocol
+","PCMA , URL: /wiki/A-law_algorithm
+PCMU , URL: /wiki/PCMU
+G.722 , URL: /wiki/G.722
+iLBC , URL: /wiki/ILBC
+iSAC , URL: /wiki/Internet_Speech_Audio_Codec
+Opus , URL: /wiki/Opus_(audio_format)
+H.264 , URL: /wiki/H.264
+VP8 , URL: /wiki/VP8
+H.263 , URL: /wiki/H.263
+","TLS , URL: /wiki/Transport_Layer_Security
+TCP , URL: /wiki/Transmission_Control_Protocol
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","JusTex Softphone over Wi-Fi or 3G, HD voice and video call, Multiparty call, conference.","3.0.1 (iOS); July 13, 2014; 7 years ago (2014-07-13); 3.0 (Android); July 9, 2014; 7 years ago (2014-07-09)","3.0.1 (iOS); July 13, 2014; 7 years ago (2014-07-13); 3.0 (Android); July 9, 2014; 7 years ago (2014-07-09)"
+"Line , URL: /wiki/Line_(application)
+","Android, iOS","Proprietary , URL: /wiki/Proprietary_software
+","No","?","?","?","?","",""
+"Line2 , URL: /wiki/Line2
+","Android, iOS","Proprietary , URL: /wiki/Proprietary_software
+freeware , URL: /wiki/Freeware
+","No","SIP , URL: /wiki/Session_Initiation_Protocol
+","?","?","Tri-mode calling (cellular, 3G/4G data, Wi-Fi), SMS over IP, visual voicemail, 20-person conference calls, auto-attendant, call-forwarding","1.0.4 Android, 3.2.1 iOS","1.0.4 Android, 3.2.1 iOS"
+"Media5-fone , URL: /wiki/Media5-fone
+","iOS, Android","Proprietary , URL: /wiki/Proprietary_software
+","No","SIP , URL: /wiki/Session_Initiation_Protocol
+","PCMA , URL: /wiki/A-law_algorithm
+PCMU , URL: /wiki/PCMU
+G.722 , URL: /wiki/G.722
+iLBC , URL: /wiki/ILBC
+iSAC , URL: /wiki/Internet_Speech_Audio_Codec
+G.729 , URL: /wiki/G.729
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","Wi-Fi and 3G/4G data, second call*, conference calls*, HD Voice, Bluetooth* (* Additional fees)","?","?"
+"Signal , URL: /wiki/Signal_(software)
+Signal Foundation , URL: /wiki/Signal_Foundation
+","iOS, Android","GPLv3 , URL: /wiki/GNU_General_Public_License
+","Yes","WebRTC , URL: /wiki/WebRTC
+","Opus , URL: /wiki/Opus_(audio_format)
+","TLS , URL: /wiki/Transport_Layer_Security
+Signal Protocol , URL: /wiki/Signal_Protocol
+","End-to-end encryption by default for everything. CallKit and location privacy,[53] one-to-one and group messaging, video calling,[53] image/video sharing, timed messages, identity verification, screenshot blocking. Android only: SMS/MMS messaging, doodling,[54] GIF sharing.[55]","Android","
+URL: https://www.wikidata.org/wiki/Q19718090?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+"
+"Signal , URL: /wiki/Signal_(software)
+Signal Foundation , URL: /wiki/Signal_Foundation
+","iOS, Android","GPLv3 , URL: /wiki/GNU_General_Public_License
+","Yes","WebRTC , URL: /wiki/WebRTC
+","Opus , URL: /wiki/Opus_(audio_format)
+","TLS , URL: /wiki/Transport_Layer_Security
+Signal Protocol , URL: /wiki/Signal_Protocol
+","End-to-end encryption by default for everything. CallKit and location privacy,[53] one-to-one and group messaging, video calling,[53] image/video sharing, timed messages, identity verification, screenshot blocking. Android only: SMS/MMS messaging, doodling,[54] GIF sharing.[55]","iOS","
+URL: https://www.wikidata.org/wiki/Q19718090?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+"
+"Signal , URL: /wiki/Signal_(software)
+Signal Foundation , URL: /wiki/Signal_Foundation
+","iOS, Android","GPLv3 , URL: /wiki/GNU_General_Public_License
+","Yes","WebRTC , URL: /wiki/WebRTC
+","Opus , URL: /wiki/Opus_(audio_format)
+","TLS , URL: /wiki/Transport_Layer_Security
+Signal Protocol , URL: /wiki/Signal_Protocol
+","End-to-end encryption by default for everything. CallKit and location privacy,[53] one-to-one and group messaging, video calling,[53] image/video sharing, timed messages, identity verification, screenshot blocking. Android only: SMS/MMS messaging, doodling,[54] GIF sharing.[55]","Desktop","
+URL: https://www.wikidata.org/wiki/Q19718090?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+"
+"Sipdroid , URL: /wiki/Sipdroid
+","Android , URL: /wiki/Android_(operating_system)
+","GPL , URL: /wiki/GNU_General_Public_License
+","Yes","SIP , URL: /wiki/Session_Initiation_Protocol
+","?","?","Wi-Fi , URL: /wiki/Wi-Fi
+3G , URL: /wiki/3G
+EDGE , URL: /wiki/Enhanced_Data_Rates_for_GSM_Evolution
+","2.7","2.7"
+"Tango , URL: /wiki/Tango_(application)
+","iOS, Android, Microsoft Windows, macOS, Windows Phone","Proprietary , URL: /wiki/Proprietary_software
+freeware , URL: /wiki/Freeware
+","?","?","?","?","VoIP, Wi-Fi out & in, SMS over IP, call-through & call-back, instant messaging, videoconferencing","?","?"
+"Truphone , URL: /wiki/Truphone
+","Nokia-Symbian, iOS, Android, BlackBerry","Proprietary , URL: /wiki/Proprietary_software
+freeware , URL: /wiki/Freeware
+","No","SIP , URL: /wiki/Session_Initiation_Protocol
+","?","?","VoIP, Wi-Fi out & in, SMS over IP, call-through & call-back, connection management, provisioning","Symbian 4.0, iOS 1.11.1","Symbian 4.0, iOS 1.11.1"
+"Vopium , URL: /wiki/Vopium
+","Java ME , URL: /wiki/Java_ME
+","Proprietary , URL: /wiki/Proprietary_software
+freeware , URL: /wiki/Freeware
+","No","SIP, MSN, Skype, Yahoo, AOL, ICQ, Google Talk, Facebook & Twitter","GSM , URL: /wiki/GSM
+","?","Wi-Fi VoIP, GSM call-through, SMS over IP, least cost routing, synchronising-backup mobile contacts and calendar","2.0","2.0"
+"WhatsApp , URL: /wiki/WhatsApp
+","Android, BlackBerry, iOS, Symbian, Windows Phone","Proprietary , URL: /wiki/Proprietary_software
+freeware , URL: /wiki/Freeware
+","No","?","?","ECDH , URL: /wiki/Elliptic_curve_Diffie%E2%80%93Hellman
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","VoIP and instant messaging over Wi-Fi or a data connection.","8","8"
+"Windows Mobile 6 , URL: /wiki/Windows_Mobile_6
+","Windows Mobile 6 Professional/Standard","Proprietary , URL: /wiki/Proprietary_software
+","No","SIP , URL: /wiki/Session_Initiation_Protocol
+","?","?","Wi-Fi , URL: /wiki/Wi-Fi
+Mobile VoIP , URL: /wiki/Mobile_VoIP
+","6.1","6.1"
+"X-PRO for Pocket PC","Windows Mobile 2003 (earlier versions support Windows PocketPC 2002)","Proprietary, discontinued in April 2007[57]","No","SIP , URL: /wiki/Session_Initiation_Protocol
+","?","?","Supported devices: AudioVox Maestro, Compaq/HP iPAQ: 365x, 37xx, 385x, 395x, hx4700, Dell Axim X51, X51v, Toshiba e550, e570. iPAQ 545x and Toshiba e7xx are not supported.[58]","2.2","2.2"
+"Yuilop , URL: /wiki/Yuilop
+","Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+","Proprietary , URL: /wiki/Proprietary_software
+freeware , URL: /wiki/Freeware
+","No","XMPP , URL: /wiki/XMPP
+RTP , URL: /wiki/Real-time_Transport_Protocol
+","iLBC , URL: /wiki/ILBC
+","TLS , URL: /wiki/Transport_Layer_Security
+","VoIP over 3G-4G-LTE and Wi-fi, SMS, group chat, photo sharing, Location sharing, virtual phone numbers","iOS 2.4 (November 26, 2014; 7 years ago (2014-11-26)[59]) [±] Android 2.0.2 (February 12, 2014; 8 years ago (2014-02-12)) [±] Windows Phone 7.x 1.0.1.7 (September 12, 2013; 8 years ago (2013-09-12)) [±] Windows Phone 8.x 1.0.0.4 (September 18, 2013; 8 years ago (2013-09-18)) [±] BlackBerry OS 1.0.1 (May 31, 2013; 8 years ago (2013-05-31)) [±] Kindle Fire 2.0 (December 19, 2013; 8 years ago (2013-12-19)[60]) [±]","iOS 2.4 (November 26, 2014; 7 years ago (2014-11-26)[59]) [±] Android 2.0.2 (February 12, 2014; 8 years ago (2014-02-12)) [±] Windows Phone 7.x 1.0.1.7 (September 12, 2013; 8 years ago (2013-09-12)) [±] Windows Phone 8.x 1.0.0.4 (September 18, 2013; 8 years ago (2013-09-18)) [±] BlackBerry OS 1.0.1 (May 31, 2013; 8 years ago (2013-05-31)) [±] Kindle Fire 2.0 (December 19, 2013; 8 years ago (2013-12-19)[60]) [±]"
+"Linkus , URL: https://www.yeastar.com/unified-communications/linkus-softphone/
+","Android V4.4+, iOS v10.0+","Proprietary , URL: /wiki/Proprietary_software
+freeware , URL: /wiki/Freeware
+","No","SIP","iLBC , URL: /wiki/ILBC
+","TLS, SRTP , URL: /wiki/Transport_Layer_Security
+","HD VoIP Call, Instant Messaging, Conferencing, SRTP Secure Media, Presence information","iOS 2.7.9 Android 2.7.12","iOS 2.7.9 Android 2.7.12"

@@ -1,0 +1,100 @@
+"Client","Regular","Regular","NTLM , URL: /wiki/NTLM
+","Compuserve (RPA)","MD5 APOP [Note 1]","CRAM-HMAC [Note 2]","CRAM-HMAC [Note 2]","CRAM-HMAC [Note 2]","DIGEST-MD5","SCRAM","with hardware token PKCS#11","Biometric","SMTP Auth [Note 3]","X.509 , URL: /wiki/X.509
+Client certificate , URL: /wiki/Client_certificate
+","OAuth , URL: /wiki/OAuth
+"
+"Client","LOGIN","PLAIN","NTLM , URL: /wiki/NTLM
+","Compuserve (RPA)","MD5 APOP [Note 1]","MD5","SHA1","RIPEMD","DIGEST-MD5","SCRAM","with hardware token PKCS#11","Biometric","SMTP Auth [Note 3]","X.509 , URL: /wiki/X.509
+Client certificate , URL: /wiki/Client_certificate
+","OAuth , URL: /wiki/OAuth
+"
+"Alpine , URL: /wiki/Alpine_(email_client)
+","Yes","Yes","No","No","No","Yes","No","No","No","?","No","No","Yes","No","?"
+"Apple Mail , URL: /wiki/Apple_Mail
+","Yes","Yes","No","No","?","?","?","?","?","?","?","Yes","Yes","Yes","Yes [Note 4]"
+"Becky! Internet Mail , URL: /wiki/Becky!
+","Yes","Yes","Yes","?","Yes","Yes","?","?","?","?","?","?","Yes","Yes","?"
+"Citadel , URL: /wiki/Citadel/UX
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Claws Mail , URL: /wiki/Claws_Mail
+","Yes","Yes","?","?","Yes","Yes","?","?","Yes","Yes","No","?","Yes","No","?"
+"Courier , URL: /wiki/Courier_(email_client)
+","Yes","Yes","Yes","No","Yes","Yes","Yes","No","Yes","?","No","No","Yes","Yes","?"
+"Elm , URL: /wiki/Elm_(email_client)
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"eM Client , URL: /wiki/EM_Client
+","Yes","Yes","Yes","No","No","Yes","No","No","Yes","?","No","No","Yes","No","Yes"
+"EmailTray , URL: /wiki/EmailTray
+","Yes","Yes","?","?","Yes","Yes","Yes","No","?","?","No","No","Yes","No","?"
+"Eudora , URL: /wiki/Eudora_(email_client)
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","?","No","No","No","?","?"
+"Evolution , URL: /wiki/Evolution_(software)
+","Yes","Yes","Yes","No","Yes","Yes","No","No","Yes","?","No","No","Yes","No","Yes"
+"Gnus , URL: /wiki/Gnus
+","Yes","Yes","?","?","Yes","Yes","Yes","?","Yes","?","?","?","Yes","?","?"
+"GroupWise , URL: /wiki/GroupWise
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Hiri , URL: /wiki/Hiri_(email_client)
+","Yes","Yes","Yes","No","No","No","No","No","No","?","No","No","No","No","Yes"
+"i.Scribe / InScribe , URL: /wiki/Scribe_Mail
+","Yes","Yes","Yes","No","Yes","No","No","No","No","?","No","No","Yes","No","Yes"
+"IBM Lotus Notes , URL: /wiki/IBM_Lotus_Notes
+","Yes","?","Yes","No","No","No","?","?","?","?","Yes","No","Yes","?","?"
+"KMail , URL: /wiki/KMail
+","Yes","Yes","Yes","No","Yes","Yes","No","No","Yes","?","No","No","Yes","Yes","?"
+"Mailpile , URL: /wiki/Mailpile
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Microsoft Entourage , URL: /wiki/Microsoft_Entourage
+","Yes","No","Yes","?","?","Yes","?","?","?","?","Yes","?","Yes","Yes","?"
+"Microsoft Office Outlook , URL: /wiki/Microsoft_Office_Outlook
+","Yes","No","Yes","No","No","No","No","No","No","?","No","No","Yes","No","?"
+"Mozilla Mail & Newsgroups , URL: /wiki/Mozilla_Mail_%26_Newsgroups
+","Yes","?","?","Yes","?","Yes","?","?","?","?","?","?","?","?","?"
+"Mozilla Thunderbird , URL: /wiki/Mozilla_Thunderbird
+","Yes","Yes","Yes","No","Yes","Yes","No","No","No[27]","?","Yes","No","Yes","Yes","Yes"
+"Mulberry , URL: /wiki/Mulberry_(email_client)
+","Yes","Yes","Yes","No","No","Yes","No","No","Yes","?","No","No","Yes","Yes","?"
+"Mutt , URL: /wiki/Mutt_(email_client)
+","Yes","Yes","Yes","?","Yes","Yes","No","No","Yes","?","No","No","1.5.15","Yes","1.10.1"
+"Netscape Messenger , URL: /wiki/Netscape_Messenger
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Netscape Messenger 9 , URL: /wiki/Netscape_Messenger_9
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"nmh / MH , URL: /wiki/MH_Message_Handling_System
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Opera Mail , URL: /wiki/Opera_Mail
+","Yes","Yes","No","No","Yes","Yes","No","?","?","?","No","No","Yes","Yes","?"
+"Outlook Express , URL: /wiki/Outlook_Express
+","Yes","No","Yes","No","No","No","No","No","No","?","No","No","Yes","No","?"
+"Pegasus Mail , URL: /wiki/Pegasus_Mail
+","Yes","?","No","No","Yes","No","No","No","No","?","No","No","Yes","Yes","?"
+"Pine , URL: /wiki/Pine_(email_client)
+","Yes","Yes","No","No","No","Yes","No","No","No","?","No","No","Yes","No","?"
+"Pocomail , URL: /wiki/Pocomail
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"RoundCube , URL: /wiki/RoundCube
+","Yes","Yes","?","?","Yes","Yes","Yes","?","Yes","?","Yes","?","Yes","?","?"
+"SeaMonkey , URL: /wiki/SeaMonkey
+","Yes","Yes","Yes","No","Yes","Yes","No","No","No[27]","?","Yes","No","Yes","Yes","?"
+"SquirrelMail , URL: /wiki/SquirrelMail
+","Yes","Yes","?","?","Yes","Yes","Yes","?","Yes","?","Yes","?","Yes","?","?"
+"Sylpheed , URL: /wiki/Sylpheed
+","Yes","Yes","No","No","Yes","Yes","No","No","No","?","No","No","Yes","No","No"
+"The Bat! , URL: /wiki/The_Bat!
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","?","Yes [Note 5]","Yes [Note 5]","Yes","No","Yes"
+"Trojitá , URL: /wiki/Trojit%C3%A1
+","Yes","No","No","No","No","No","No","No","No","?","No","No","Yes","No","?"
+"Turnpike , URL: /wiki/Turnpike_(software)
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Windows Live Mail , URL: /wiki/Windows_Live_Mail
+","Yes","No","Yes","No","Yes","No","No","No","No","?","No","No","No","No","No"
+"Windows Mail , URL: /wiki/Windows_Mail
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","Yes [Note 6]"
+"YAM , URL: /wiki/YAM_(Yet_Another_Mailer)
+","Yes","Yes","?","?","Yes","Yes","?","?","?","?","?","?","Yes","AmiSSL","?"
+"Zimbra , URL: /wiki/Zimbra
+","Yes","Yes","?","?","Yes","Yes","?","?","?","?","Yes","?","Yes [Note 7]","?","?"
+"Client","Regular","Regular","NTLM , URL: /wiki/NTLM
+","Compuserve (RPA)","MD5 APOP [Note 1]","CRAM-HMAC [Note 2]","CRAM-HMAC [Note 2]","CRAM-HMAC [Note 2]","DIGEST-MD5","SCRAM","with hardware token PKCS#11","Biometric","SMTP Auth [Note 3]","SSL/TLS Client Certificate","OAUTH"
+"Client","LOGIN","PLAIN","NTLM , URL: /wiki/NTLM
+","Compuserve (RPA)","MD5 APOP [Note 1]","MD5","SHA1","RIPEMD","DIGEST-MD5","SCRAM","with hardware token PKCS#11","Biometric","SMTP Auth [Note 3]","SSL/TLS Client Certificate","OAUTH"

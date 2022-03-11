@@ -1,0 +1,35 @@
+"Feature","Android , URL: /wiki/Android_(operating_system)
+","iOS , URL: /wiki/IOS
+","Tizen , URL: /wiki/Tizen
+","Sailfish OS , URL: /wiki/Sailfish_OS
+","Ubuntu Touch , URL: /wiki/Ubuntu_Touch
+"
+"Proxy server , URL: /wiki/Proxy_server
+","3.1+[336] but only global, not per connection[337] and only works for the browser[338] 3rd party apps available[339]","Yes","Yes","Yes[340]","No"
+"encryption , URL: /wiki/Encryption
+","Qualcomm , URL: /wiki/Qualcomm
+","brute-force attacks , URL: /wiki/Brute-force_attack
+","No","3.3.0+[345]","No"
+"External storage encryption","6+","External storage not available","No","Yes","No"
+"Zero knowledge encryption[346]","PRISM surveillance program , URL: /wiki/PRISM_(surveillance_program)
+","iCloud , URL: /wiki/ICloud
+PRISM surveillance program , URL: /wiki/PRISM_(surveillance_program)
+","?","?","No"
+"Privacy of synchronization[350]","ownCloud , URL: /wiki/OwnCloud
+","iCloud , URL: /wiki/ICloud
+","?","?","?"
+"Sync to cloud communication encryption","2.3.4+[352]","Yes[353]","?","?","?"
+"Wireless anti-tracking[354]","Developer Options (9+)[355]","8+[356]","No","?","No"
+"Remote device location tracking","Yes[357]","Yes[358]","?","?","No"
+"Remote device locking and/or data wipe","2.2+[359]","Yes[358]","?","?","No"
+"End-to-end encrypted , URL: /wiki/End-to-end_encryption
+","Possible, notifications are handled by the app that can decrypt it[110]","Possible since iOS 7, where the app can handle the notification and decrypt it[360]","?","?","Yes"
+"SSH Client , URL: /wiki/Secure_Shell
+","Yes","Yes[361][362]","?","Yes","Yes"
+"VPN , URL: /wiki/VPN
+","Yes[363]","Yes[364]","?","Yes","Yes"
+"OpenVPN , URL: /wiki/OpenVPN
+","No, but possible with 3rd party firmware[365]","Yes[366]","?","Yes","Yes[citation needed]"
+"WPA , URL: /wiki/Wi-Fi_Protected_Access
+PEAP , URL: /wiki/Protected_Extensible_Authentication_Protocol
+","Yes[367]","Yes[368]","?","In developer mode[369]","Yes[citation needed]"

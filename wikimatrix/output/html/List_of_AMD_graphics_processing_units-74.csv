@@ -1,0 +1,28 @@
+"Codename , URL: /wiki/Codename
+","Release Date","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","Memory","Memory","Memory","Memory","TDP , URL: /wiki/Thermal_Design_Power
+","Bus interface"
+"Codename , URL: /wiki/Codename
+","Release Date","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Config[e]","MHz , URL: /wiki/Hertz
+","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","Single , URL: /wiki/Single_precision_floating-point_format
+","Double , URL: /wiki/Double_precision_floating-point_format
+","Bus type & width","GiB , URL: /wiki/Gibibyte
+","MT/s , URL: /wiki/Transfer_(computing)
+","GB , URL: /wiki/Gigabyte
+","TDP , URL: /wiki/Thermal_Design_Power
+","Bus interface"
+"Radeon Pro 450 [377][378][379][380][381]","October 2016","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","3.0×109 123 mm2","640:40:16 10 CU","725 775","29 31","11.6 12.4","928 992","1/16 SP","GDDR5 128-bit","2","5000","80","35 W","PCIe 3.0 ×16"
+"Radeon Pro 455 [377][378][379][382]","October 2016","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","3.0×109 123 mm2","768:48:16 12 CU","850","40.8","13.6","1305.6","1/16 SP","GDDR5 128-bit","2","5000","80","35 W","PCIe 3.0 ×16"
+"Radeon Pro 460 [377][378][379][383]","October 2016","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","3.0×109 123 mm2","1024:64:16 16 CU","850 910","54.4 58.2","13.6 14.56","1740.8 1863.7","1/16 SP","GDDR5 128-bit","4","5000","80","35 W","PCIe 3.0 ×16"

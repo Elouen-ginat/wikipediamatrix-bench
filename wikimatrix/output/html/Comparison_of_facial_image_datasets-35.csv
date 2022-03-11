@@ -1,0 +1,7 @@
+"Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
+"Bike Sharing Dataset","Hourly and daily count of rental bikes in a large city.","Many features, including weather, length of trip, etc., are given.","17,389","Text","Regression","2013","[481][482]","H. Fanaee-T"
+"New York City Taxi Trip Data","Trip data for yellow and green taxis in New York City.","Gives pick up and drop off locations, fares, and other details of trips.","6 years","Text","Classification, clustering","2015","[483]","New York City Taxi and Limousine Commission , URL: /wiki/New_York_City_Taxi_and_Limousine_Commission
+"
+"Taxi Service Trajectory ECML PKDD","Trajectories of all taxis in a large city.","Many features given, including start and stop points.","1,710,671","Text","Clustering, causal-discovery","2015","[484][485]","M. Ferreira et al."
+"METR-LA","Speed from loop detectors in the highway of Los Angeles County.","Average speed in 5 minutes timesteps.","7,094,304 from 207 sensors and 34,272 timesteps","Comma separated values","Regression, Forecasting","2014","[486]","Jagadish et al."
+"PeMS","Speed, flow, occupancy and other metrics from loop detectors and other sensors in the freeway of the State of California, U.S.A..","Metric usually aggregated via Average into 5 minutes timesteps.","39,000 individual detectors, each containing years of timeseries","Comma separated values","Regression, Forecasting, Nowcasting, Interpolation","(updated realtime)","[487]","California Department of Transportation"

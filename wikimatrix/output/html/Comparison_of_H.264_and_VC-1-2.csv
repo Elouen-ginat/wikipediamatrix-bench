@@ -1,0 +1,21 @@
+"","VC-1 , URL: /wiki/VC-1
+","H.264 , URL: /wiki/H.264
+"
+"Bitstream , URL: /wiki/Bitstream
+","single bit stream","NAL , URL: /wiki/Network_Abstraction_Layer
+byte stream , URL: /wiki/Byte_stream
+"
+"Bitstream , URL: /wiki/Bitstream
+","In advanced profile, each Bitstream Data Unit has its own header. Simple and Main profile provide neither sequence nor entry point headers.","SPS (sequence parameter set), PPS (picture parameters set), slice header, macroblock"
+"Deblocking filter","In-loop filter and overlap transform","In-loop only"
+"CABAC , URL: /wiki/CABAC
+","No","Only supported in Main and higher profiles"
+"Variable transform size","Yes","Only in High profile and above"
+"Slice","Contiguous (integer number of macroblock rows only)","Contiguous or non-contiguous"
+"Sub-pixel interpolation methods","bicubic , URL: /wiki/Bicubic
+bilinear , URL: /wiki/Bilinear_interpolation
+","6-tap filter for half pixels; averaging for quarter pixels"
+"Variable Length Coding , URL: /wiki/Variable-length_code
+","Yes","Yes"
+"B frame , URL: /wiki/Video_compression_picture_types#Bi-predictive_pictures_(or_slices)
+","Yes","Yes"

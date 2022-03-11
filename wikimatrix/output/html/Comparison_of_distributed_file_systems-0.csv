@@ -1,0 +1,102 @@
+"Client","Written in","License","Access API","High availability , URL: /wiki/High_availability
+","Shards , URL: /wiki/Shard_(database_architecture)
+","Efficient Redundancy , URL: /wiki/Erasure_code
+","Redundancy Granularity","Initial release year","Memory requirements (GB)"
+"Alluxio (Virtual Distributed File System) , URL: /wiki/Alluxio
+","Java","Apache License 2.0","HDFS , URL: /wiki/HDFS
+FUSE , URL: /wiki/Fuse_ESB
+REST , URL: /wiki/REST
+S3 , URL: /wiki/Amazon_S3
+","hot standby","No","Replication[1]","File[2]","2013",""
+"Ceph , URL: /wiki/Ceph_(file_system)
+","C++","LGPL","S3 , URL: /wiki/Amazon_S3
+FUSE , URL: /wiki/Filesystem_in_Userspace
+","Yes","Yes","Pluggable erasure codes[3]","Pool[4]","2010","1 per TB of storage"
+"Coda , URL: /wiki/Coda_(file_system)
+","C","GPL","C","Yes","Yes","Replication","Volume[5]","1987",""
+"GlusterFS , URL: /wiki/GlusterFS
+","C","GPLv3","FUSE , URL: /wiki/Filesystem_in_Userspace
+","mirror","Yes","Reed-Solomon[6]","Volume[7]","2005",""
+"HDFS , URL: /wiki/HDFS
+","Java","Apache License 2.0","Java and C client, HTTP, FUSE[8]","transparent master failover","No","Reed-Solomon[9]","File[10]","2005",""
+"IPFS , URL: /wiki/IPFS
+","Go","Apache 2.0 or MIT","HTTP gateway , URL: https://docs.ipfs.io/concepts/ipfs-gateway/
+FUSE , URL: https://github.com/ipfs/go-ipfs/blob/master/docs/fuse.md
+Go client , URL: https://github.com/ipfs/go-ipfs
+Javascript client , URL: https://js.ipfs.io/
+command line tool , URL: https://docs.ipfs.io/reference/cli/
+","Yes","IPFS Cluster , URL: https://cluster.ipfs.io/
+","Replication[11]","Block[12]","2015[13]",""
+"JuiceFS , URL: https://github.com/juicedata/juicefs
+","Go","AGPLv3","POSIX , URL: /wiki/POSIX
+FUSE , URL: /wiki/Filesystem_in_Userspace
+HDFS , URL: /wiki/HDFS
+S3 , URL: /wiki/Amazon_S3
+","Yes","No","Reed-Solomon","Object","2021",""
+"Kertish-DFS , URL: https://github.com/freakmaxi/kertish-dfs
+","Go","GPLv3","HTTP(REST), CLI, C# Client, Go Client","Yes","","Replication","","2020",""
+"LizardFS , URL: /wiki/LizardFS
+","C++","GPLv3","POSIX , URL: /wiki/Posix#POSIX.1
+FUSE , URL: /wiki/Filesystem_in_Userspace
+NFS-Ganesha , URL: /wiki/Network_File_System#Other_extensions
+Ceph FSAL (via libcephfs) , URL: /wiki/Ceph_(software)
+","master","No","Reed-Solomon[14]","File[15]","2013",""
+"Lustre , URL: /wiki/Lustre_(file_system)
+","C","GPLv2","POSIX , URL: /wiki/Posix#POSIX.1
+NFS-Ganesha , URL: /wiki/Network_File_System#Other_extensions
+NFS , URL: /wiki/Network_File_System
+SMB , URL: /wiki/Server_Message_Block
+","Yes","Yes","No redundancy[16]","No redundancy[17]","2003",""
+"MinIO , URL: /wiki/MinIO
+","Go","AGPL3.0","AWS S3 API , URL: /wiki/Amazon_S3
+","Yes","Yes","Reed-Solomon[18]","Object[19]","2014",""
+"MooseFS , URL: /wiki/Moose_File_System
+","C","GPLv2","POSIX , URL: /wiki/Posix#POSIX.1
+FUSE , URL: /wiki/Filesystem_in_Userspace
+","master","No","Replication[20]","File[21]","2008",""
+"OpenAFS , URL: /wiki/OpenAFS
+","C","IBM Public License","Virtual file system , URL: /wiki/Virtual_file_system
+Installable File System , URL: /wiki/Installable_File_System
+","","","Replication","Volume[22]","2000 [23]",""
+"OpenIO , URL: /wiki/OpenIO
+","C","AGPLv3 / LGPLv3","Python , URL: /wiki/Python_(programming_language)
+C , URL: /wiki/C_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+HTTP , URL: /wiki/HTTP
+REST , URL: /wiki/REST
+S3 , URL: /wiki/Amazon_S3
+Swift , URL: /wiki/OpenStack_Swift
+FUSE , URL: /wiki/Filesystem_in_Userspace
+POSIX , URL: /wiki/POSIX
+NFS , URL: /wiki/Network_File_System
+SMB , URL: /wiki/Server_Message_Block
+FTP , URL: /wiki/File_Transfer_Protocol
+","Yes","","Pluggable erasure codes[25]","Object[26]","2015","0.5"
+"Ori[27]","C, C++","MIT","FUSE , URL: /wiki/Filesystem_in_Userspace
+","","","Replication","Filesystem[28]","2012",""
+"Quantcast File System , URL: /wiki/Quantcast_File_System
+","C","Apache License 2.0","FUSE , URL: /wiki/Filesystem_in_Userspace
+","master","No","Reed-Solomon[29]","File[30]","2012",""
+"RozoFS , URL: /wiki/RozoFS
+","C, Python","GPLv2","FUSE , URL: /wiki/Filesystem_in_Userspace
+SMB , URL: /wiki/Server_Message_Block
+NFS , URL: /wiki/Network_File_System
+","Yes","","Mojette[31]","Volume[32]","2011[33]",""
+"SeaweedFS , URL: https://github.com/chrislusf/seaweedfs
+","Go, Java","Apache License 2.0","REST , URL: /wiki/REST
+POSIX , URL: /wiki/POSIX
+FUSE , URL: /wiki/Filesystem_in_Userspace
+S3 , URL: /wiki/Amazon_S3
+HDFS , URL: /wiki/HDFS
+","requires CockroachDB, undocumented config","","Reed-Solomon[34]","Volume[35]","2015",""
+"Tahoe-LAFS , URL: /wiki/Tahoe-LAFS
+","Python","GNU GPL , URL: /wiki/GNU_GPL
+","CLI , URL: /wiki/Command-line_interface
+SFTP , URL: /wiki/SSH_File_Transfer_Protocol
+FTP , URL: /wiki/File_Transfer_Protocol
+FUSE , URL: /wiki/Filesystem_in_Userspace
+SSHFS , URL: /wiki/SSHFS
+","","","Reed-Solomon[37]","File[38]","2007",""
+"XtreemFS , URL: /wiki/XtreemFS
+","Java, C++","BSD License","FUSE , URL: /wiki/Filesystem_in_Userspace
+","","","Replication[39]","File[40]","2009",""

@@ -1,4 +1,4 @@
-"null","null","null"
-"Solid-solid transformation","Melting","Sublimation"
-"Freezing","—","Boiling/evaporation"
-"Deposition","Condensation","—"
+"To From","Solid","Liquid","Gas"
+"Solid","Solid-solid transformation","Melting","Sublimation"
+"Liquid","Freezing","—","Boiling/evaporation"
+"Gas","Deposition","Condensation","—"

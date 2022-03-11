@@ -1,31 +1,105 @@
-"null","null","null","null"
-"2002","Stuart Rackham","Text editor","Output to XHTML, HTML, DocBook (which can convert to PDF, EPUB, DVI, LaTeX, roff, and PostScript)"
-"2010","Wolfram Research","Wolfram Language & Mathematica","CDF Player; CDF format can also be embedded in web pages viewable with conventional browsers."
-"2007","","Text editor","Output to HTML, RTF, LaTeX, others; renderers for MFC, others."
-"2005","IBM, OASIS","Text/XML editor","Output to HTML, PDF, CHM, javadoc, others."
-"1992","The Davenport Group, OASIS","XML editor","Output to HTML, PDF, CHM, javadoc, others."
-"1998","Berkeley Project","Text editor","Web browser"
-"2000 (January 26)","W3C","Text/XML editor, HTML editor","Web browser"
-"1993","Tim Berners-Lee","Text editor, HTML editor","Web browser"
-"1996","Han-Wen Nienhuys, Jan Nieuwenhuizen","Text editor, Scorewriter","Output to DVI, PDF, PostScript, PNG, others."
-"1986","Frame Technology acquired by Adobe Systems in 1995","Text editor, FrameMaker","FrameMaker"
-"2000","Carl Sassenrath","Text editor","Web browser (XHTML or HTML output)"
-"2004","John Gruber and Aaron Swartz","Text editor, E-mail client","Web browser (XHTML or HTML output), preview in gedit-markdown-plugin"
-"2002[1]","Dean Allen","Text editor","Web browser (XHTML or HTML output), reference and tester (uses latest PHP-Textile version 3.5.5)"
-"1999 (July)","W3C","Text/XML editor, TeX converter","Web browser, Word processor"
-"1999","The MEI Community","XML editor","Verovio"
-"2002","Recordare","Scorewriter","Scorewriter"
-"2006","Ecma International, ISO/IEC","Office suite","Office suite"
-"2005","OASIS, ISO/IEC","Office suite","Office suite"
-"2000","Michael Kohlhase","Text/XML editor[2]","Output to XHTML+MathML, TeX, others."
-"2003","Org-mode project","Emacs, text editor","Emacs. Output to HTML, PDF, DocBook, FreeMind, OpenDocument Format (ODF), others."
-"2001[3]","David Goodger","Text editor","Output to HTML, LaTeX, PDF, Unix man pages, ODT, S5 (HTML Slide Shows), XML, others."
-"2004","W3C","Vector graphics editor","Web browser, etc."
-"1968 1971","IBM","Text editor","GDDM, AFP viewer"
-"1978 1984","Donald Knuth Leslie Lamport","Text editor","DVI or Portable Document Format (PDF) converter"
-"1986","Richard Stallman","Text editor","output to DVI, Portable Document Format (PDF), HTML, DocBook, others."
-"1998","Joris van der Hoeven","Text editor/TeXmacs editor","PDF or PostScript files. Converters exist for TeX/LaTeX and XHTML+Mathml"
-"1990","Text Encoding Initiative Consortium","Text/XML editor","Web Browser (using XHTML), PDF, Word Processor (using ODF) or EPUB"
-"1973","Joe Ossanna","Text editor","groffer, or output to PostScript"
-"1999","WAP Forum","Text/XML editor","Mobile browser"
-"null","null","null","null"
+"Language","Major purpose","Based on","Markup type","Structural markup","Presentational markup[4]","Open format , URL: /wiki/Open_format
+"
+"AsciiDoc , URL: /wiki/AsciiDoc
+","Multi-purpose","","Tag","Yes","Yes","Yes"
+"Computable Document Format , URL: /wiki/Computable_Document_Format
+","Interactive technical documents, infographics, blogs[5]","Wolfram Language , URL: /wiki/Wolfram_Language
+","Tag","Yes","Yes","No"
+"Darwin Information Typing Architecture (DITA) , URL: /wiki/Darwin_Information_Typing_Architecture
+","Technical documents","XML , URL: /wiki/XML
+","Tag","Yes","Yes[6]","Yes"
+"DocBook , URL: /wiki/DocBook
+","Technical documents","SGML , URL: /wiki/Standard_Generalized_Markup_Language
+XML , URL: /wiki/XML
+","Tag","Yes","Yes[7]","Yes"
+"Encoded Archival Description (EAD) , URL: /wiki/Encoded_Archival_Description
+","Finding aids , URL: /wiki/Finding_aid
+","XML , URL: /wiki/XML
+","Tag","Yes","No",""
+"Extensible HyperText Markup Language (XHTML) , URL: /wiki/XHTML
+","Hypertext , URL: /wiki/Hypertext
+","XML , URL: /wiki/XML
+","Tag","Yes","Yes[8]","Yes"
+"FictionBook , URL: /wiki/FB2
+","Multi-purpose","XML , URL: /wiki/XML
+","Tag","Yes","Yes","Yes"
+"HyperText Markup Language (HTML) , URL: /wiki/HTML
+","Hypertext , URL: /wiki/Hypertext
+","SGML , URL: /wiki/Standard_Generalized_Markup_Language
+","Tag","Yes","Yes[9]","Yes"
+"Lilypond , URL: /wiki/Lilypond
+","Music notation , URL: /wiki/Music_notation
+","","Control code","Yes","Yes",""
+"Maker Interchange Format (MIF) , URL: /wiki/Maker_Interchange_Format
+","Technical documents","","Tag","Yes","Yes",""
+"Markdown , URL: /wiki/Markdown
+","Hypertext , URL: /wiki/Hypertext
+E-mail , URL: /wiki/E-mail
+","Text E-mail conventions","Tag","Yes","Yes","Yes"
+"Math Markup Language (MathML) , URL: /wiki/MathML
+","Mathematical , URL: /wiki/Mathematics
+","XML , URL: /wiki/XML
+","Tag","Yes","Yes[10]",""
+"The Music Encoding Initiative (MEI) , URL: /wiki/Music_Encoding_Initiative
+","Music notation , URL: /wiki/Music_notation
+","XML , URL: /wiki/XML
+","Tag","Yes","Yes",""
+"Music Extensible Markup Language (MusicXML) , URL: /wiki/MusicXML
+","Music notation , URL: /wiki/Music_notation
+","XML , URL: /wiki/XML
+","Tag","Yes","Yes","Yes"
+"Office Open XML (OOXML) , URL: /wiki/Office_Open_XML
+","Multi-purpose","XML , URL: /wiki/XML
+ZIP , URL: /wiki/ZIP_(file_format)
+","Tag","Yes","Yes","Yes"
+"OpenDocument Format (ODF) , URL: /wiki/OpenDocument
+","Multi-purpose","XML , URL: /wiki/XML
+ZIP , URL: /wiki/ZIP_(file_format)
+","Tag","Yes","Yes","Yes"
+"Open Mathematical Document (OMDoc) , URL: /wiki/OMDoc
+","Mathematical , URL: /wiki/Mathematics
+","XML , URL: /wiki/XML
+","Tag","Yes[11]","Yes[12]",""
+"Org-mode , URL: /wiki/Org-mode
+","Multi-purpose (notes, project management, publishing, literate programming)","Text outliner","Tag","Yes","Yes",""
+"reStructuredText , URL: /wiki/ReStructuredText
+","Technical and Multi-purpose documents[13]","Structured Text and Setext","Tag","Yes","Yes[14]","Yes"
+"Scalable Vector Graphics (SVG) , URL: /wiki/Scalable_Vector_Graphics
+","Vector graphics , URL: /wiki/Vector_graphics
+","XML , URL: /wiki/XML
+","Tag","Yes","Yes","Yes"
+"Script , URL: /wiki/SCRIPT_(markup)
+GML , URL: /wiki/IBM_Generalized_Markup_Language
+","Multi-purpose","RUNOFF , URL: /wiki/RUNOFF
+","Control code","Yes","Yes",""
+"TeX , URL: /wiki/TeX
+LaTeX , URL: /wiki/LaTeX
+","Academic , URL: /wiki/Academia
+","","Control code","Yes","Yes",""
+"Texinfo , URL: /wiki/Texinfo
+","Technical documents","TeX , URL: /wiki/TeX
+Scribe , URL: /wiki/Scribe_(markup_language)
+","Control code","Yes","Yes",""
+"TeXmacs format , URL: /wiki/TeXmacs
+","Academic documents","tree , URL: /wiki/Tree_(data_structure)
+","Tag","Yes","Yes",""
+"Textile , URL: /wiki/Textile_(markup_language)
+","Hypertext , URL: /wiki/Hypertext
+","AsciiDoc (based on some similarities and dates of release)","Tag","Yes","Yes","Yes"
+"Text Encoding Initiative (TEI) , URL: /wiki/Text_Encoding_Initiative
+","Academic , URL: /wiki/Academia
+linguistic , URL: /wiki/Linguistics
+literary , URL: /wiki/Literature
+","SGML , URL: /wiki/Standard_Generalized_Markup_Language
+XML , URL: /wiki/XML
+","Tag","Yes","No",""
+"troff (typesetter runoff) , URL: /wiki/Troff
+groff (GNU runoff) , URL: /wiki/Groff_(software)
+","Technical documents","RUNOFF , URL: /wiki/RUNOFF
+","Control code","Yes","Yes",""
+"Wireless Markup Language (WML) , URL: /wiki/Wireless_Markup_Language
+","Hypertext , URL: /wiki/Hypertext
+","XML , URL: /wiki/XML
+","Tag","Yes","Yes",""
+"Language","Major purpose","Based on","Markup type","Structural markup","Presentational markup","Open format , URL: /wiki/Open_format
+"

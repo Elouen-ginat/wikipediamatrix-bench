@@ -1,0 +1,54 @@
+"Format","Languages","If not found"
+"InStrRev(«startpos,» string,substring)","VB , URL: /wiki/Visual_Basic_(classic)
+","returns 0"
+"instrrev(«startpos,» string,substring)","FreeBASIC , URL: /wiki/FreeBASIC
+","returns 0"
+"rindex(string,substring«,startpos»)","Perl 5 , URL: /wiki/Perl_5
+","returns −1"
+"rindex(string,substring«,startpos») string.rindex(substring«,startpos»)","Raku , URL: /wiki/Raku_(programming_language)
+","returns Nil"
+"strrpos(string,substring«,startpos»)","PHP , URL: /wiki/PHP
+","returns FALSE"
+"string.rfind(substring«,startpos»)","C++ , URL: /wiki/C%2B%2B
+","returns std::string::npos"
+"std.string.rfind(string, substring)","D , URL: /wiki/D_(programming_language)
+","returns −1"
+"string.rfind(substring«,startpos«, endpos»»)","Python , URL: /wiki/Python_(programming_language)
+","returns −1"
+"string.rindex(substring«,startpos«, endpos»»)","Python , URL: /wiki/Python_(programming_language)
+","raises ValueError"
+"rpos(string, substring«,startpos»)","Seed7 , URL: /wiki/Seed7
+","returns 0"
+"string.rindex(substring«,startpos»)","Ruby , URL: /wiki/Ruby_(programming_language)
+","returns nil"
+"strings.LastIndex(string, substring)","Go , URL: /wiki/Go_(programming_language)
+","returns −1"
+"string.lastIndexOf(substring«,startpos»)","Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+","returns −1"
+"string.LastIndexOf(substring«,startpos«, charcount»»)","VB .NET , URL: /wiki/Visual_Basic_.NET
+C# , URL: /wiki/C_Sharp_(programming_language)
+Windows PowerShell , URL: /wiki/Windows_PowerShell
+F# , URL: /wiki/F_Sharp_(programming_language)
+","returns −1"
+"(search substring string :from-end t)","Common Lisp , URL: /wiki/Common_Lisp
+","returns NIL"
+"[string rangeOfString:substring options:NSBackwardsSearch].location","Objective-C , URL: /wiki/Objective-C
+","returns NSNotFound"
+"Str.search_backward (Str.regexp_string substring) string (Str.length string - 1)","OCaml , URL: /wiki/OCaml
+","raises Not_found"
+"string.match(string, '.*()'..substring) string:match('.*()'..substring)","Lua , URL: /wiki/Lua_(programming_language)
+","returns nil"
+"Ada.Strings.Unbounded.Index(Source => string, Pattern => substring, Going => Ada.Strings.Backward)","Ada , URL: /wiki/Ada_(programming_language)
+","returns 0"
+"string.lastIndexOf(substring«,startpos«, charcount»»)","Cobra , URL: /wiki/Cobra_(programming_language)
+","returns −1"
+"string lastIndexOfString:substring","Smalltalk , URL: /wiki/Smalltalk
+","returns 0"
+"string last substring string startpos","Tcl , URL: /wiki/Tcl
+","returns −1"
+"(⌽<\⌽substring⍷'string')⍳1","APL , URL: /wiki/APL_(programming_language)
+","returns −1"
+"string.rfind(substring)","Rust , URL: /wiki/Rust_(programming_language)
+","None , URL: /wiki/Option_type
+"

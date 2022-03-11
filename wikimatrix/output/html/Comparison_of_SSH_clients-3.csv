@@ -1,0 +1,29 @@
+"Name","Keyboard mapping","Session tabs , URL: /wiki/Tabbed_document_interface
+","ZMODEM , URL: /wiki/ZMODEM
+","Find text in buffer","Mouse input support[Note 1]","Unicode support","URL hyperlinking","Public key , URL: /wiki/Public_key
+","Smart card , URL: /wiki/Smart_card
+","Hardware encryption","FIPS 140-2 , URL: /wiki/FIPS_140-2
+","Scripting","Shared Database","Auto-reconnect","CA Certificates"
+"AbsoluteTelnet , URL: /wiki/AbsoluteTelnet
+","full","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes","?","?","?"
+"Bitvise , URL: /wiki/Bitvise
+","?","No","No","No","Yes","Yes","No","Yes","No","?","Partial","Yes","No","Yes","No"
+"OpenSSH , URL: /wiki/OpenSSH
+","?","No","No","?","Yes[Note 2]","Yes","not native[Note 3]","Yes","Yes","Yes","Partial[Note 4]","No","No","?","Yes[Note 5]"
+"PuTTY , URL: /wiki/PuTTY
+","No","No[Note 6]","No","No","Yes","Yes","No[Note 7]","Yes","No[Note 8]","Yes","No","No","No","No","No[Note 9]"
+"SecureCRT , URL: /wiki/SecureCRT
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","No","?","?"
+"SmartFTP , URL: /wiki/SmartFTP
+","Partial","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","AES-NI , URL: /wiki/AES-NI
+","Yes","No","?","?","?"
+"Tera Term , URL: /wiki/Tera_Term
+","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","No","No","No","Yes","No","?","?"
+"TN3270 Plus , URL: /wiki/TN3270_Plus
+","Yes","Yes","No","No","No","No","Yes","Yes","No","No","No","Yes","?","?","?"
+"TtyEmulator , URL: /wiki/TtyEmulator
+","No","No","No","Yes","Yes","No","Yes","Yes","No","No","No","Yes","?","?","?"
+"wolfSSH , URL: /wiki/WolfSSH
+","No","No","No","No","No","Yes","No","Yes","No","Yes","Yes","No","No","?","Yes"
+"ZOC , URL: /wiki/ZOC_(software)
+","full","Yes","Yes","Alt+F","Yes","UTF-8","Yes","Yes","Yes","No","No","Yes","?","?","?"

@@ -1,0 +1,49 @@
+"Model","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","Boost clock (MHz)","MHz , URL: /wiki/Hertz
+","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","Nvidia Optimus , URL: /wiki/Nvidia_Optimus
+","TDP , URL: /wiki/Thermal_design_power
+"
+"Model","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","Boost clock (MHz)","MHz , URL: /wiki/Hertz
+","Core config1","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","MB , URL: /wiki/Megabyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Double , URL: /wiki/Double-precision_floating-point_format
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","Vulkan , URL: /wiki/Vulkan_(API)
+","Nvidia Optimus , URL: /wiki/Nvidia_Optimus
+","TDP , URL: /wiki/Thermal_design_power
+"
+"Quadro M500M","GM108","28","PCIe 3.0 x16","1029","1124","900 (1800)","384:24:8 (3 SMM)","8.992","17.98","2048","14.40","DDR3 , URL: /wiki/DDR3_SDRAM
+","64","863.2","26.98","12.1","4.5","1.0","Yes","25"
+"Quadro M600M","GM107","28","PCIe 3.0 x16","837","876","1253 (5012)","384:24:16 (3 SMM)","7.008","14.02","2048","80.2","GDDR5 , URL: /wiki/GDDR5_SDRAM
+","128","672.8","21.02","12.1","4.5","1.0","Yes","30"
+"Quadro M1000M","GM107","28","PCIe 3.0 x16","993","","1253 (5012)","512:32:16 (4 SMM)","15.89","31.78","2048","80.2","GDDR5 , URL: /wiki/GDDR5_SDRAM
+","128","1017","31.78","12.1","4.5","1.0","Yes","40"
+"Quadro M2000M","GM107","28","PCIe 3.0 x16","1029","1098","1253 (5012)","640:40:16 (5 SMM)","17.57","43.92","4096","80.2","GDDR5 , URL: /wiki/GDDR5_SDRAM
+","128","1405","43.92","12.1","4.5","1.0","Yes","55"
+"Quadro M3000M","GM204","28","PCIe 3.0 x16","1050","","1253 (5012)","1024:64:32 (8 SMM)","33.60","67.20","4096","160.4","GDDR5 , URL: /wiki/GDDR5_SDRAM
+","256","2150","67.20","12.1","4.5","1.0","Yes","75"
+"Quadro M4000M","GM204","28","PCIe 3.0 x16","975","","1253 (5012)","1280:80:48 (10 SMM)","62.40","78.00","4096","160.4","GDDR5 , URL: /wiki/GDDR5_SDRAM
+","256","2496","78.00","12.1","4.5","1.0","Yes","100"
+"Quadro M5000M","GM204","28","PCIe 3.0 x16","962","","1253 (5012)","1536:96:64 (12 SMM)","62.40","93.60","8192","160.4","GDDR5 , URL: /wiki/GDDR5_SDRAM
+","256","2955.3","93.60","12.1","4.5","1.0","Yes","100"

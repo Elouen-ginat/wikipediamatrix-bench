@@ -1,0 +1,60 @@
+"Name","ZIP support","FTP support","SFTP support","Version control browsing","Patch creation","Patch application","Patch preview","Unicode support","XML-aware"
+"Beyond Compare , URL: /wiki/Beyond_Compare
+","Yes","Yes","Yes","SVN","Yes","Yes","Yes","Yes",""
+"Compare++ , URL: /wiki/Compare%2B%2B
+","","","","SVN, CVS, Git, Microsoft TFS, Perforce, VSS using command line","","","","Yes",""
+"diff , URL: /wiki/Diff
+","No","No","","No","Yes","Yes with patch","Yes with patch","No","No"
+"diff3 , URL: /wiki/Diff3
+","No","No","","","","","","","No"
+"Eclipse , URL: /wiki/Eclipse_(software)
+","","","","CVS , URL: /wiki/Concurrent_Versions_System
+Subversion , URL: /wiki/Apache_Subversion
+Git , URL: /wiki/Git_(software)
+Mercurial , URL: /wiki/Mercurial
+Baazar , URL: /wiki/GNU_Bazaar
+","","","","Yes",""
+"Ediff , URL: /wiki/Ediff
+","Yes","Yes","","RCS, CVS, SVN, Mercurial, git (anything supported by Emacs' VC-mode)[29]","Yes","Yes","Yes","",""
+"ExamDiff Pro , URL: /wiki/ExamDiff_Pro
+","Yes[30]","Yes[31]","","","normal diff only","","","Yes",""
+"Far Manager , URL: /wiki/Far_Manager
+","No","No","","No","No","No","No","Yes","No"
+"fc , URL: /wiki/Microsoft_File_Compare
+","No","No","","","No","","","",""
+"FileMerge (aka opendiff) , URL: /wiki/Apple_Developer_Tools#FileMerge
+","No","supported by OS","","","No","","","No","No"
+"Guiffy SureMerge , URL: /wiki/Guiffy_SureMerge
+","Yes","","","","Yes","Yes","Yes","Yes[32]",""
+"IntelliJ IDEA , URL: /wiki/IntelliJ_IDEA
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes",""
+"jEdit JDiff plugin , URL: /wiki/JEdit
+","Yes","Yes","","Yes","Yes","Yes","Yes","Yes",""
+"Lazarus , URL: /wiki/Lazarus_(software)
+","","","","","","","","",""
+"Meld , URL: /wiki/Meld_(software)
+","","","","CVS , URL: /wiki/Concurrent_Versions_System
+Subversion , URL: /wiki/Subversion
+Git , URL: /wiki/Git_(software)
+Mercurial , URL: /wiki/Mercurial
+Baazar , URL: /wiki/GNU_Bazaar
+","Yes","","","Yes",""
+"Notepad++ (compare) , URL: /wiki/Notepad%2B%2B
+","No","Yes[33]","","Git, Subversion (compare against base)","No","No","No","Yes","No"
+"Perforce P4Merge , URL: /wiki/Perforce
+","","","","No","","","","Yes",""
+"Pretty Diff , URL: /wiki/Pretty_Diff
+","No","No","No","No","No","No","No","Yes","Yes"
+"Tkdiff , URL: /wiki/Tkdiff
+","No","No","","CVS, RCS, Subversion","No","No","No","No","No"
+"Total Commander , URL: /wiki/Total_Commander
+","Yes","Yes","Yes","No","No","No","No","Yes","No"
+"vimdiff , URL: /wiki/Vim_(text_editor)#Features_and_improvements_over_vi
+","Yes","Yes","","","Yes","","","Yes",""
+"WinDiff , URL: /wiki/WinDiff
+","No","No","","","No","","","No",""
+"WinMerge , URL: /wiki/WinMerge
+","Yes","No","","Mercurial,[34] Subversion,[35] Visual Source Safe, Rational ClearCase[36]","Yes","","","Yes",""
+"UCC , URL: /wiki/Unified_Code_Count_(UCC)
+","Yes","No","","","","","","Yes",""
+"Name","ZIP support","FTP support","SFTP support","Version control browsing","Patch creation","Patch application","Patch preview","Unicode support","XML-aware"

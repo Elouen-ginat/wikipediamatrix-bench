@@ -1,0 +1,66 @@
+"Name","Release year","Market","Processor , URL: /wiki/List_of_Intel_microprocessors
+","Processor , URL: /wiki/List_of_Intel_microprocessors
+","Device ID , URL: /wiki/Device_ID
+","Core config1","Clock rate , URL: /wiki/Clock_rate
+","Clock rate , URL: /wiki/Clock_rate
+","API , URL: /wiki/API
+","API , URL: /wiki/API
+","API , URL: /wiki/API
+","API , URL: /wiki/API
+","Memory bandwidth , URL: /wiki/Memory_bandwidth
+"
+"Name","Release year","Market","Code name","Model","Device ID , URL: /wiki/Device_ID
+","Core config1","Min (MHz)","Max (MHz)","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","OpenCL , URL: /wiki/OpenCL
+","Vulkan , URL: /wiki/Vulkan_(API)
+","Memory bandwidth , URL: /wiki/Memory_bandwidth
+"
+"UHD Graphics 730","2020","Desktop","Rocket Lake , URL: /wiki/Rocket_Lake
+","Core i5-11400T","4C8B","192:24:3","350","1200","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","51.2"
+"UHD Graphics 730","2020","Desktop","Rocket Lake , URL: /wiki/Rocket_Lake
+","Core i5-11400","4C8B","192:24:3","350","","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","51.2"
+"UHD Graphics 750","2020","Desktop","Rocket Lake , URL: /wiki/Rocket_Lake
+","Core i5-11500T","4C8A","256:32:4","350","1200","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","51.2"
+"UHD Graphics 750","2020","Desktop","Rocket Lake , URL: /wiki/Rocket_Lake
+","Core i5-11500 Core i5-11600 Core i5-11600K Core i5-11600T Core i7-11700 Core i7-11700K Core i7-11700T Core i9-11900K Core i9-11900T","4C8A","256:32:4","350","","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","51.2"
+"UHD Graphics","2020","Mobile","Tiger Lake , URL: /wiki/Tiger_Lake_(microprocessor)
+","Core i3-1110G4 Core i3-1120G4","9A78","384:48:6","400","1100","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","59.7"
+"UHD Graphics","2020","Mobile","Tiger Lake , URL: /wiki/Tiger_Lake_(microprocessor)
+","Celeron 6305 Pentium Gold 7505 Core i3-1115G4 Core i3-1125G4","9A78","384:48:6","400","","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","59.7"
+"Iris Xe Graphics","2020","Mobile","Tiger Lake , URL: /wiki/Tiger_Lake_(microprocessor)
+","Core i5-1130G7 Core i5-1140G7","9A40","640:80:6","400","1100","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","68.2"
+"Iris Xe Graphics","2020","Mobile","Tiger Lake , URL: /wiki/Tiger_Lake_(microprocessor)
+","Core i7-1160G7 Core i7-1180G7","9A40","768:96:6","400","1100","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","68.2"
+"Iris Xe Graphics","2020","Mobile","Tiger Lake , URL: /wiki/Tiger_Lake_(microprocessor)
+","Core i5-1135G7 Core i5-11300H Core i5-1145G7","9A49","640:80:6","400","1300","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","68.2"
+"Iris Xe Graphics","2020","Mobile","Tiger Lake , URL: /wiki/Tiger_Lake_(microprocessor)
+","Core i7-1165G7","9A49","768:96:6","400","1300","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","68.2"
+"Iris Xe Graphics","2020","Mobile","Tiger Lake , URL: /wiki/Tiger_Lake_(microprocessor)
+","Core i5-11320H Core i7-1185G7 Core i7-11370H Core i7-11375H","9A49","768:96:6","400","","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","68.2"
+"Iris Xe Graphics","2020","Mobile","Tiger Lake , URL: /wiki/Tiger_Lake_(microprocessor)
+","Core i7-1195G7 Core i7-11390H","9A49","768:96:6","400","","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","68.2"
+"Iris Xe Max[69]","2021","Desktop","DG1 , URL: /wiki/Intel_Xe
+","","4905","768:96:6","300","1650","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","68.2"
+"Iris Xe Pod","2021","Desktop","DG1 , URL: /wiki/Intel_Xe
+","","4906","768:96:6","300","1650","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","68.2"
+"GPU SG-18M","2021","Server","DG1 , URL: /wiki/Intel_Xe
+","","4907","768:96:6","300","1650","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","68.2"
+"Iris Xe Graphics","2021","Desktop","DG1 , URL: /wiki/Intel_Xe
+","","4908","768:96:6","300","1650","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","68.2"

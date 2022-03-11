@@ -1,0 +1,63 @@
+"OLAP server","Company","Website","Latest stable version","Software license , URL: /wiki/Software_license
+","License pricing"
+"Apache Druid , URL: /wiki/Apache_Druid
+","Apache Software Foundation , URL: /wiki/The_Apache_Software_Foundation
+","[1]","0.21.0","Apache 2.0 , URL: /wiki/Apache_License
+","free"
+"Apache Kylin , URL: /wiki/Apache_Kylin
+","Apache Software Foundation , URL: /wiki/The_Apache_Software_Foundation
+","[2]","3.1.0","Apache 2.0 , URL: /wiki/Apache_License
+","free"
+"Apache Pinot , URL: /wiki/Apache_Pinot
+","Apache Software Foundation , URL: /wiki/The_Apache_Software_Foundation
+","[3]","0.7.1","Apache 2.0 , URL: /wiki/Apache_License
+","free"
+"ClickHouse , URL: /wiki/ClickHouse
+","Clickhouse Inc , URL: https://clickhouse.com/
+","[4]","21.12","Apache 2.0 , URL: /wiki/Apache_License
+","free"
+"Essbase , URL: /wiki/Essbase
+","Oracle , URL: /wiki/Oracle_Corporation
+","[5]","21.1","Proprietary , URL: /wiki/Proprietary_software
+","[1] , URL: http://www.oracle.com/us/corporate/pricing/index.htm
+"
+"IBM Cognos TM1 , URL: /wiki/TM1
+","IBM , URL: /wiki/IBM
+","[6]","10.2.2 FP7","Proprietary , URL: /wiki/Proprietary_software
+","-"
+"icCube , URL: /wiki/IcCube
+","icCube , URL: /wiki/IcCube
+","[7]","6.8.9","Proprietary , URL: /wiki/Proprietary_software
+","[2] , URL: http://www.iccube.com//prices
+"
+"Jedox OLAP Server , URL: /wiki/Jedox
+","Jedox , URL: /wiki/Jedox
+","[8]","2019.3","Proprietary , URL: /wiki/Proprietary_software
+","[3] , URL: https://web.archive.org/web/20170203080718/http://www.jedox.com/en/product/license-model/
+"
+"Kyvos , URL: /wiki/Kyvos
+","Kyvos Insights , URL: /wiki/Kyvos_Insights
+","[9]","2021.3","Proprietary , URL: /wiki/Proprietary_software
+","-"
+"Microsoft Analysis Services , URL: /wiki/Microsoft_Analysis_Services
+","Microsoft , URL: /wiki/Microsoft
+","[10]","2016","Proprietary , URL: /wiki/Proprietary_software
+","[4] , URL: http://www.microsoft.com/sqlserver/2008/en/us/pricing.aspx
+"
+"Mondrian OLAP server , URL: /wiki/Mondrian_OLAP_server
+","Pentaho , URL: /wiki/Pentaho
+","[11]","3.7","EPL , URL: /wiki/Eclipse_Public_License
+","free"
+"Oracle Database OLAP Option , URL: /wiki/Oracle_OLAP
+","Oracle , URL: /wiki/Oracle_Corporation
+","[12]","11g R2","Proprietary , URL: /wiki/Proprietary_software
+","[5] , URL: http://www.oracle.com/us/corporate/pricing/index.htm
+"
+"SAP NetWeaver BW , URL: /wiki/SAP_NetWeaver_Business_Intelligence
+","SAP , URL: /wiki/SAP_AG
+","[13]","7.30","Proprietary , URL: /wiki/Proprietary_software
+","-"
+"SAS OLAP Server , URL: /wiki/SAS_System
+","SAS Institute , URL: /wiki/SAS_Institute
+","[14]","9.4","Proprietary , URL: /wiki/Proprietary_software
+","-"

@@ -1,0 +1,468 @@
+"Name","Creator","Host CPU","Guest CPU","Host OS","Guest OS","License"
+"bhyve , URL: /wiki/Bhyve
+","FreeBSD , URL: /wiki/FreeBSD
+","x86-64","x86 , URL: /wiki/X86
+","FreeBSD , URL: /wiki/FreeBSD
+Illumos , URL: /wiki/Illumos
+","FreeBSD , URL: /wiki/FreeBSD
+FreeNAS , URL: /wiki/FreeNAS
+pfSense , URL: /wiki/PfSense
+OpenBSD , URL: /wiki/OpenBSD
+Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Windows
+Illumos , URL: /wiki/Illumos
+","BSD , URL: /wiki/BSD_licenses
+"
+"Bochs , URL: /wiki/Bochs
+","Kevin J. Lawton","Any","x86 , URL: /wiki/X86
+","Windows , URL: /wiki/Windows
+Linux , URL: /wiki/Linux
+FreeBSD , URL: /wiki/FreeBSD
+Unix , URL: /wiki/Unix
+X11 , URL: /wiki/X_Window_System
+macOS , URL: /wiki/MacOS
+BeOS , URL: /wiki/BeOS
+MorphOS , URL: /wiki/MorphOS
+OS/2 , URL: /wiki/OS/2
+","Windows , URL: /wiki/Windows
+Linux , URL: /wiki/Linux
+DOS , URL: /wiki/DOS
+BSD , URL: /wiki/Berkeley_Software_Distribution
+OS/2 , URL: /wiki/OS/2
+Haiku , URL: /wiki/Haiku_(operating_system)
+","LGPL , URL: /wiki/LGPL
+"
+"Containers, or Zones , URL: /wiki/Solaris_Containers
+","Sun Microsystems , URL: /wiki/Sun_Microsystems
+","SPARC , URL: /wiki/SPARC
+","Same as host","Solaris 10, Solaris 11 , URL: /wiki/Solaris_(operating_system)
+OpenSolaris , URL: /wiki/OpenSolaris
+illumos distributions , URL: /wiki/Illumos#Current_Illumos_distributions
+","illumos , URL: /wiki/Illumos
+BrandZ , URL: /wiki/Branded_zones
+","CDDL , URL: /wiki/CDDL
+"
+"Cooperative Linux , URL: /wiki/Cooperative_Linux
+","Dan Aloni , URL: /wiki/Dan_Aloni
+","x86","Same as host","Windows 2000, XP, 2003, Vista","Linux","GPL version 2 , URL: /wiki/Gpl_version_2
+"
+"CHARON , URL: /wiki/Charon_(software)
+","Stromasys , URL: /w/index.php?title=Stromasys&action=edit&redlink=1
+","x86, x86-64","PDP-11 , URL: /wiki/PDP-11
+VAX , URL: /wiki/VAX
+HP3000 , URL: /wiki/HP3000
+","Windows, Linux","VMS, OpenVMS, Tru64 UNIX, MPE/iX, RSX-11, RT11, RSTS, Solaris, SunOS","Proprietary , URL: /wiki/Proprietary_software
+"
+"Denali , URL: /wiki/Denali_(operating_system)
+","University of Washington , URL: /wiki/University_of_Washington
+","x86","x86","Denali","Ilwaco , URL: /w/index.php?title=Ilwaco_(operating_system)&action=edit&redlink=1
+","Not distributed"
+"DOSBox , URL: /wiki/DOSBox
+","Peter Veenstra, Sjoerd with community","Any","x86","classic Mac OS , URL: /wiki/Classic_Mac_OS
+QNX , URL: /wiki/QNX
+Maemo , URL: /wiki/Maemo
+","PC booter , URL: /wiki/PC_booter
+","GPL , URL: /wiki/GPL
+"
+"DOSEMU , URL: /wiki/Dosemu
+","Community project","x86, x86-64","x86","Linux","DOS","GPL version 2 , URL: /wiki/Gpl_version_2
+"
+"FreeBSD Jail , URL: /wiki/FreeBSD_Jail
+","Poul-Henning Kamp , URL: /wiki/Poul-Henning_Kamp
+FreeBSD , URL: /wiki/FreeBSD
+","FreeBSD , URL: /wiki/FreeBSD
+DragonFly BSD , URL: /wiki/DragonFly_BSD
+","Same as host","FreeBSD , URL: /wiki/FreeBSD
+DragonFly BSD , URL: /wiki/DragonFly_BSD
+","Linux , URL: /wiki/Linux
+ABI , URL: /wiki/Application_binary_interface
+compat layer , URL: /wiki/FreeBSD#OS_compatibility_layers
+","BSD , URL: /wiki/BSD_licenses
+"
+"GXemul , URL: /wiki/GXemul
+","Anders Gavare","Any","ARM , URL: /wiki/ARM_architecture
+MIPS , URL: /wiki/MIPS_architecture
+Motorola 88000 , URL: /wiki/Motorola_88000
+SuperH , URL: /wiki/SuperH
+","Unix-like","NetBSD , URL: /wiki/NetBSD
+OpenBSD , URL: /wiki/OpenBSD
+Linux , URL: /wiki/Linux
+Ultrix , URL: /wiki/Ultrix
+Sprite , URL: /wiki/Sprite_(operating_system)
+","BSD , URL: /wiki/BSD_licenses
+"
+"Hercules , URL: /wiki/Hercules_emulator
+","Roger Bowler","Any","z/Architecture , URL: /wiki/Z/Architecture
+","Windows , URL: /wiki/Windows
+FreeBSD , URL: /wiki/FreeBSD
+NetBSD , URL: /wiki/NetBSD
+Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+","Linux on IBM Z , URL: /wiki/Linux_on_IBM_Z
+z/OS , URL: /wiki/Z/OS
+z/VM , URL: /wiki/Z/VM
+z/VSE , URL: /wiki/Z/VSE
+OS/360 , URL: /wiki/OS/360
+DOS/360 , URL: /wiki/DOS/360
+DOS/VS , URL: /wiki/DOS/VS
+MVS , URL: /wiki/MVS
+VM/370 , URL: /wiki/VM/370
+TSS/370 , URL: /wiki/TSS/370
+","QPL , URL: /wiki/Q_Public_License
+"
+"Hyper-V , URL: /wiki/Hyper-V
+","Microsoft , URL: /wiki/Microsoft
+","Intel VT-x , URL: /wiki/Intel_VT-x
+AMD-V , URL: /wiki/AMD-V
+","x86-64, x86 (up to 8 physical CPUs)","Windows Server 2008 , URL: /wiki/Windows_Server_2008
+R2 , URL: /wiki/Windows_Server_2008_R2
+","Windows 2000 , URL: /wiki/Windows_2000
+Windows 2003 , URL: /wiki/Windows_2003
+Windows 2008 , URL: /wiki/Windows_2008
+Windows XP , URL: /wiki/Windows_XP
+Windows Vista , URL: /wiki/Windows_Vista
+FreeBSD , URL: /wiki/FreeBSD
+Linux , URL: /wiki/Linux
+SUSE , URL: /wiki/SUSE_Linux
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"Hyper-V , URL: /wiki/Hyper-V
+","Microsoft , URL: /wiki/Microsoft
+","x86-64 with Intel VT-x or AMD-V, ARMv8[4]","x86-64, (up to 64 physical CPUs), ARMv8","Windows 8 , URL: /wiki/Windows_8
+Windows Server 2012 , URL: /wiki/Windows_Server_2012
+R2 , URL: /wiki/Windows_Server_2012_R2
+","Windows NT , URL: /wiki/Windows_NT
+SUSE , URL: /wiki/SUSE_Linux
+RHEL , URL: /wiki/Red_Hat_Enterprise_Linux
+CentOS , URL: /wiki/CentOS
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"iCore Virtual Accounts , URL: /wiki/ICore_Virtual_Accounts
+","iCore Software , URL: /wiki/ICore_Networks
+","x86","x86","Windows XP","Windows XP","Proprietary , URL: /wiki/Proprietary_software
+"
+"INTEGRITY , URL: /wiki/Integrity_(operating_system)
+","Green Hills Software , URL: /wiki/Green_Hills_Software
+","ARM, x86, PowerPC","Same as host","Windows , URL: /wiki/Windows
+","Android , URL: /wiki/Android_(operating_system)
+AUTOSAR , URL: /wiki/AUTOSAR
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"Integrity Virtual Machines , URL: /wiki/HP_Integrity_Virtual_Machines
+","Hewlett-Packard , URL: /wiki/Hewlett-Packard
+","IA-64 , URL: /wiki/IA-64
+","IA-64","HP-UX , URL: /wiki/HP-UX
+","HP-UX , URL: /wiki/HP-UX
+OpenVMS , URL: /wiki/OpenVMS
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"JPC (Virtual Machine) , URL: /wiki/Java_PC
+","Oxford University , URL: /wiki/Oxford_University
+","Java Virtual Machine , URL: /wiki/Java_Virtual_Machine
+","x86","Java Virtual Machine","DOS, Linux, Windows up to 3.0","GPL version 2 , URL: /wiki/Gpl_version_2
+"
+"KVM , URL: /wiki/Kernel-based_Virtual_Machine
+","Qumranet , URL: /wiki/Qumranet
+","x86 virtualization , URL: /wiki/X86_virtualization
+ARM , URL: /wiki/ARM_architecture
+","Same as host","Linux, FreeBSD, illumos","Plan 9 , URL: /wiki/Plan_9_from_Bell_Labs
+","GPL version 2 , URL: /wiki/Gpl_version_2
+"
+"Linux-VServer , URL: /wiki/Linux-VServer
+","Community project","PA-RISC , URL: /wiki/PA-RISC
+S/390 , URL: /wiki/S/390
+","Compatible","Linux","Linux variants","GPL version 2 , URL: /wiki/Gpl_version_2
+"
+"LynxSecure , URL: /wiki/LynxSecure
+","LynuxWorks , URL: /wiki/LynuxWorks
+","x86","x86","No host OS","LynxOS , URL: /wiki/LynxOS
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"LXC , URL: /wiki/LXC
+","Canonical Ltd. , URL: /wiki/Canonical_Ltd.
+","x86, x86-64, IA-64, PowerPC 64, SPARC64, Itanium, ARM","Same as host","Linux","Linux variants","GPL version 2 , URL: /wiki/Gpl_version_2
+"
+"OKL4 Microvisor , URL: /wiki/Open_Kernel_Labs
+","Open Kernel Labs , URL: /wiki/Open_Kernel_Labs
+General Dynamics Corporation , URL: /wiki/General_Dynamics_Corporation
+","ARM, x86, MIPS","paravirtualization , URL: /wiki/Paravirtualization
+","No Host OS","QNX , URL: /wiki/QNX
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"OpenVZ , URL: /wiki/OpenVZ
+","SWsoft , URL: /wiki/SWsoft
+Parallels, Inc. , URL: /wiki/Parallels,_Inc.
+","x86, x86-64, IA-64, PowerPC 64, SPARC64","Same as host","Linux","same as host (shared Linux kernel), choice of userland distribution","GPL , URL: /wiki/GNU_General_Public_License
+"
+"Oracle VM Server for x86 , URL: /wiki/Oracle_VM_Server_for_x86
+","Oracle Corporation , URL: /wiki/Oracle_Corporation
+","x86, x86-64","x86, x86-64","No host OS","Oracle Linux , URL: /wiki/Oracle_Linux
+Red Hat Enterprise Linux , URL: /wiki/Red_Hat_Enterprise_Linux
+Solaris , URL: /wiki/Solaris_(operating_system)
+","GPLv2 , URL: /wiki/GPLv2
+"
+"OVPsim , URL: /wiki/OVPsim
+","OVP","x86","OR1K, MIPS32, ARC600/700, ARM; and public API which enables users to write custom processor models, RISC, CISC, DSP, VLIW all possible","Microsoft Windows, Linux","Depends on target machine, for example includes MIPS Malta that runs Linux or SMP-Linux; and includes public API which enables users to write custom peripheral and system models","Proprietary , URL: /wiki/Proprietary_software
+Apache 2.0 , URL: /wiki/Apache_License
+"
+"Parallels Desktop for Mac , URL: /wiki/Parallels_Desktop_for_Mac
+","Parallels, Inc.","x86","x86, x86-64","macOS","Haiku , URL: /wiki/Haiku_(operating_system)
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"Parallels Workstation , URL: /wiki/Parallels_Workstation
+","Parallels, Inc.","x86","x86","Windows, Linux","OS/2 , URL: /wiki/OS/2
+eComStation , URL: /wiki/EComStation
+Haiku , URL: /wiki/Haiku_(operating_system)
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"PearPC , URL: /wiki/PearPC
+","Sebastian Biallas , URL: /w/index.php?title=Sebastian_Biallas&action=edit&redlink=1
+","x86, x86-64, PowerPC","PowerPC","Windows, Linux, OS X, FreeBSD, NetBSD","Darwin , URL: /wiki/Darwin_(operating_system)
+","GPL , URL: /wiki/GNU_General_Public_License
+"
+"PikeOS , URL: /wiki/PikeOS
+","SYSGO , URL: /wiki/SYSGO
+","PowerPC, x86, ARM, MIPS, SPARC, SuperH","Same as host","No host OS, Linux or Windows as dev. hosts","RTEMS , URL: /wiki/RTEMS
+OSEK , URL: /wiki/OSEK
+ARINC 653 , URL: /wiki/ARINC_653
+ITRON , URL: /wiki/ITRON
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"Proxmox VE , URL: /wiki/Proxmox_VE
+","Proxmox , URL: /wiki/Proxmox_Virtual_Environment
+","x86-64","x86, x86-64","Debian Based","OSx86 , URL: /wiki/OSx86
+virtual appliances , URL: /wiki/Virtual_appliance
+Haiku , URL: /wiki/Haiku_(operating_system)
+Darwin , URL: /wiki/Darwin_(operating_system)
+","AGPLv3 , URL: /wiki/GNU_Affero_General_Public_License
+"
+"Oracle VM Server for SPARC , URL: /wiki/Oracle_VM_Server_for_SPARC
+","Oracle Corporation , URL: /wiki/Oracle_Corporation
+","UltraSPARC T1 , URL: /wiki/UltraSPARC_T1
+UltraSPARC T2 , URL: /wiki/UltraSPARC_T2
+SPARC T3 , URL: /wiki/SPARC_T3
+SPARC T4 , URL: /wiki/SPARC_T4
+","Compatible","Solaris 10, Solaris 11 , URL: /wiki/Solaris_(operating_system)
+","Oracle support: Solaris; unsupported: Linux, FreeBSD","Proprietary , URL: /wiki/Proprietary_software
+"
+"PowerVM , URL: /wiki/PowerVM
+","IBM , URL: /wiki/IBM
+","POWER4 , URL: /wiki/POWER4
+POWER5 , URL: /wiki/POWER5
+POWER6 , URL: /wiki/POWER6
+POWER7 , URL: /wiki/POWER7
+POWER8 , URL: /wiki/POWER8
+","PowerVM-Lx86 , URL: /wiki/Lx86
+","PowerVM Firmware","AIX , URL: /wiki/AIX
+IBM i , URL: /wiki/IBM_i
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"QEMU , URL: /wiki/QEMU
+","Fabrice Bellard , URL: /wiki/Fabrice_Bellard
+","x86, x86-64, IA-64, PowerPC, SPARC 32/64, ARM, S/390, MIPS","M68k , URL: /wiki/M68k
+","Windows, Linux, macOS, Solaris, FreeBSD, OpenBSD, BeOS","Changes regularly[7]","GPL , URL: /wiki/GNU_General_Public_License
+LGPL , URL: /wiki/LGPL
+"
+"kqemu , URL: /wiki/Kqemu
+","Fabrice Bellard , URL: /wiki/Fabrice_Bellard
+","x86, x86-64","Same as host","Linux, FreeBSD, OpenBSD, Solaris, Windows","Changes regularly[7]","GPL , URL: /wiki/GNU_General_Public_License
+LGPL , URL: /wiki/LGPL
+"
+"qvm86 , URL: /wiki/Qvm86
+","Paul Brook","x86","x86","Linux, NetBSD, Windows","Changes regularly","GPL , URL: /wiki/GNU_General_Public_License
+"
+"QuickTransit , URL: /wiki/QuickTransit
+","Transitive Corp. , URL: /wiki/Transitive_Corp.
+","x86, x86-64, IA-64, POWER","MIPS, PowerPC, SPARC, x86","Linux, OS X, Solaris","Linux, OS X, Irix, Solaris","Proprietary , URL: /wiki/Proprietary_software
+"
+"RTS , URL: /wiki/Real-Time_Systems_(company)
+","Real-Time Systems GmbH , URL: /wiki/Real-Time_Systems_(company)
+","x86, x86-64","x86, x86-64","No host OS","Windows, Linux, Windows Embedded, QNX, RTOS-32, VxWorks, OS-9, T-Kernel","Proprietary , URL: /wiki/Proprietary_software
+"
+"ScaleMP vSMP Foundation","ScaleMP","x86, x86-64","Same as host","No host OS","Linux","Proprietary , URL: /wiki/Proprietary_software
+"
+"SIMH , URL: /wiki/SIMH
+","Bob Supnik, The Computer History Simulation Project","Alpha, ARM, HPPA, x86, IA-64, x86-64, M68K, MIPS, MIPSel, POWER, s390, SPARC","Data General , URL: /wiki/Data_General
+Nova , URL: /wiki/Data_General_Nova
+Eclipse , URL: /wiki/Data_General_Eclipse
+Digital Equipment Corporation , URL: /wiki/Digital_Equipment_Corporation
+PDP-1 , URL: /wiki/PDP-1
+PDP-4 , URL: /wiki/PDP-4
+PDP-7 , URL: /wiki/PDP-7
+PDP-8 , URL: /wiki/PDP-8
+PDP-9 , URL: /wiki/PDP-9
+PDP-10 , URL: /wiki/PDP-10
+PDP-15 , URL: /wiki/PDP-15
+IBM , URL: /wiki/IBM
+1401 , URL: /wiki/IBM_1401
+1620 , URL: /wiki/IBM_1620
+1130 , URL: /wiki/IBM_1130
+7090/7094 , URL: /wiki/IBM_7090
+System/3 , URL: /wiki/IBM_System/3
+Interdata , URL: /wiki/Interdata
+Perkin-Elmer , URL: /wiki/Perkin-Elmer
+32b , URL: /wiki/Interdata_7/32_and_8/32
+Honeywell , URL: /wiki/Honeywell
+MITS , URL: /wiki/Micro_Instrumentation_and_Telemetry_Systems
+Altair 8800 , URL: /wiki/Altair_8800
+8080 , URL: /wiki/Intel_8080
+Z80 , URL: /wiki/Zilog_Z80
+Royal McBee , URL: /wiki/Royal_McBee
+LGP-30 , URL: /wiki/LGP-30
+Scientific Data Systems , URL: /wiki/Scientific_Data_Systems
+SDS 940 , URL: /wiki/SDS_940
+","BSD, Linux, Solaris, VMS, Windows","VAX/VMS , URL: /wiki/OpenVMS
+Unix v6 , URL: /wiki/Version_6_Unix
+Unix v7 , URL: /wiki/Version_7_Unix
+TOPS-10 , URL: /wiki/TOPS-10
+TOPS-20 , URL: /wiki/TOPS-20
+ITS , URL: /wiki/Incompatible_Timesharing_System
+","BSD-like, unique"
+"Simics , URL: /wiki/Simics
+","Wind River , URL: /wiki/Wind_River_Systems
+","x86, x86-64","TMS320C64xx , URL: /wiki/Texas_Instruments_TMS320
+","Windows 32-bit and 64-bit, Linux 32-bit and 64-bit","VxWorks , URL: /wiki/VxWorks
+OSE , URL: /wiki/Operating_System_Embedded
+RTEMS , URL: /wiki/RTEMS
+TinyOS , URL: /wiki/TinyOS
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"Sun xVM , URL: /wiki/Sun_xVM
+","Sun Microsystems , URL: /wiki/Sun_Microsystems
+","x86-64, SPARC","Same as host","No host OS","Windows XP, 2003 Server (x86-64 only), Linux, Solaris","GPL version 3 , URL: /wiki/Gpl_version_3
+"
+"SVISTA , URL: /wiki/SVISTA
+","Serenity Systems International , URL: /w/index.php?title=Serenity_Systems_International&action=edit&redlink=1
+","x86","x86","Windows, OS/2, Linux","Windows, Linux, OS/2, BSD","Proprietary , URL: /wiki/Proprietary_software
+"
+"TRANGO , URL: /wiki/Trango_Virtual_Processors
+","TRANGO Virtual Processors, Grenoble, France , URL: http://www.trango-vp.com
+","XScale , URL: /wiki/XScale
+","Paravirtualized , URL: /wiki/Paravirtualization
+","No host OS, Linux or Windows as dev. hosts","eCos , URL: /wiki/ECos
+µC/OS-II , URL: /wiki/MicroC/OS-II
+WindowsCE , URL: /wiki/WindowsCE
+Nucleus , URL: /wiki/Nucleus_RTOS
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"User Mode Linux , URL: /wiki/User_Mode_Linux
+","Jeff Dike , URL: /w/index.php?title=Jeff_Dike&action=edit&redlink=1
+","x86, x86-64, PowerPC","Same as host","Linux","Linux","GPL version 2 , URL: /wiki/Gpl_version_2
+"
+"VirtualBox , URL: /wiki/VirtualBox
+","Oracle Corporation , URL: /wiki/Oracle_Corporation
+","x86, x86-64","x86, x86-64 (with Intel VT-x or AMD-V, and VirtualBox 2 or later)","Windows, Linux, macOS, Solaris, FreeBSD, eComStation","Haiku , URL: /wiki/Haiku_(operating_system)
+","GPL version 2; full version with extra enterprise features is proprietary"
+"Virtual Iron , URL: /wiki/Virtual_Iron
+","Virtual Iron Software, Inc., acquired by Oracle","x86 VT-x, x86-64 AMD-V","x86, x86-64","No host OS","Windows, Linux","Proprietary , URL: /wiki/Proprietary_software
+"
+"Virtual Machine Manager , URL: /wiki/Virtual_Machine_Manager
+","Red Hat , URL: /wiki/Red_Hat
+","x86, x86-64","x86, x86-64","Linux","Linux, Windows","GPL version 2"
+"Virtual PC , URL: /wiki/Microsoft_Virtual_PC
+","Connectix , URL: /wiki/Connectix
+Microsoft , URL: /wiki/Microsoft
+","x86, x86-64","x86","Windows Vista , URL: /wiki/Windows_Vista
+","DOS, Windows, OS/2, Linux (SUSE, Xubuntu), OpenSolaris (Belenix)","Proprietary , URL: /wiki/Proprietary_software
+"
+"Windows Virtual PC , URL: /wiki/Windows_Virtual_PC
+","Connectix and Microsoft","x86, x86-64 with Intel VT-x or AMD-V","x86","Windows 7","Windows XP, Windows Vista, Windows 7, Windows Server 2003, Windows Server 2008","Proprietary , URL: /wiki/Proprietary_software
+"
+"Virtual PC , URL: /wiki/Microsoft_Virtual_PC
+","Connectix and Microsoft","PowerPC","x86","Mac OS X","Windows, OS/2, Linux","Proprietary , URL: /wiki/Proprietary_software
+"
+"VirtualLogix , URL: /wiki/VirtualLogix
+","VirtualLogix","ARM, TI DSP C6000, x86, PowerPC","Same as host","No host OS","VxWorks , URL: /wiki/VxWorks
+DSP/BIOS , URL: /wiki/DSP/BIOS
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"Virtual Server , URL: /wiki/Microsoft_Virtual_Server
+","Connectix and Microsoft","x86, x86-64","x86, x86-64","Windows Server 2003, 2008, XP (Requires IIS)","Windows NT, 2000, 2003, 2008, Linux (Red Hat, SUSE, Ubuntu)","Proprietary , URL: /wiki/Proprietary_software
+"
+"Synopsys (CoWare) , URL: /wiki/CoWare
+Virtual Platform , URL: /wiki/Virtual_Platform
+","CoWare , URL: /wiki/CoWare
+","x86, x86-64, SPARC v9","Toshiba , URL: /wiki/Toshiba
+MeP , URL: /wiki/MeP
+Renesas , URL: /wiki/Renesas
+Texas Instruments , URL: /wiki/Texas_Instruments
+Tensilica , URL: /wiki/Tensilica
+","Windows, Linux, Solaris","Linux , URL: /wiki/Linux
+µITRON , URL: /wiki/%CE%9CITRON
+Symbian , URL: /wiki/Symbian
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"Virtuozzo , URL: /wiki/Virtuozzo
+","SWsoft , URL: /wiki/SWsoft
+Virtuozzo Inc , URL: https://virtuozzo.com/
+","x86, IA-64, x86-64","same as host","Linux","same as host (shared Linux kernel)","Proprietary , URL: /wiki/Proprietary_software
+"
+"vkernel , URL: /wiki/Vkernel
+","Matthew Dillon , URL: /wiki/Matthew_Dillon
+DragonFly BSD , URL: /wiki/DragonFly_BSD
+","x86-64","same as host","DragonFly BSD , URL: /wiki/DragonFly_BSD
+","any compatible vkernel binary of DragonFly","BSD , URL: /wiki/BSD_licence
+"
+"VMM","OpenBSD , URL: /wiki/OpenBSD
+","x86, x86-64","same as host","OpenBSD","OpenBSD and Linux guests","BSD , URL: /wiki/BSD_licenses
+"
+"VMware ESX Server , URL: /wiki/VMware_ESX_Server
+","VMware , URL: /wiki/VMware
+","x86, x86-64","x86, x86-64","No host OS","OSx86 , URL: /wiki/OSx86
+virtual appliances , URL: /wiki/Virtual_appliance
+Haiku , URL: /wiki/Haiku_(operating_system)
+Darwin , URL: /wiki/Darwin_(operating_system)
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"VMware ESXi , URL: /wiki/VMware_ESXi
+","VMware","x86, x86-64","x86, x86-64","No host OS","Same as VMware ESX Server","Proprietary , URL: /wiki/Proprietary_software
+"
+"VMware Fusion , URL: /wiki/VMware_Fusion
+","VMware","x86, x86-64","x86, x86-64","macOS","Same as VMware ESX Server","Proprietary , URL: /wiki/Proprietary_software
+"
+"VMware Server , URL: /wiki/VMware_Server
+","VMware","x86, x86-64","x86, x86-64","Windows, Linux","Same as VMware ESX Server","Proprietary , URL: /wiki/Proprietary_software
+"
+"VMware Workstation , URL: /wiki/VMware_Workstation
+","VMware","x86-64[b]","x86, x86-64","Windows, Linux","Same as VMware ESX Server","Proprietary , URL: /wiki/Proprietary_software
+"
+"VMware Player , URL: /wiki/VMware_Player
+","VMware","x86-64[c]","x86, x86-64","Windows, Linux","Same as VMware ESX Server","Proprietary , URL: /wiki/Proprietary_software
+"
+"Wind River , URL: /wiki/Wind_River_Systems
+","Wind River","x86, x86-64, PowerPC, ARM","Same as host","No host OS","Linux, VxWorks, unmodified guests (including MS Windows and RTOSes such ach OSE, QNX and others), bare metal virtual board","Proprietary , URL: /wiki/Proprietary_software
+"
+"Xen , URL: /wiki/Xen
+","Xensource , URL: /wiki/Xensource
+Citrix Systems , URL: /wiki/Citrix_Systems
+","x86, x86-64, ARM, IA-64 (inactive), PowerPC (inactive)","Same as host","Linux, Unix-like","Plan 9 , URL: /wiki/Plan_9_from_Bell_Labs
+","GNU GPLv2 , URL: /wiki/GNU_GPLv2
+"
+"XCP-ng","By Vates SAS","x86, x86-64, ARM, IA-64 (inactive), PowerPC (inactive)","Same as host","No host OS","Plan 9 , URL: /wiki/Plan_9_from_Bell_Labs
+","GNU GPLv2 , URL: /wiki/GNU_GPLv2
+"
+"XenServer , URL: /wiki/XenServer
+","Citrix Systems , URL: /wiki/Citrix_Systems
+","x86, x86-64, ARM, IA-64 (inactive), PowerPC (inactive)","Same as host","No host OS","Plan 9 , URL: /wiki/Plan_9_from_Bell_Labs
+","GNU GPLv2 , URL: /wiki/GNU_GPLv2
+"
+"XtratuM , URL: /wiki/XtratuM
+","fentISS","SPARC v8 LEON2/3/4, ARM v7","Same as host","No host OS","GPOS: Linux, RTOS: LithOS, RTEMS","Proprietary , URL: /wiki/Proprietary_software
+GPL version 2 , URL: /wiki/GPL_version_2
+"
+"z/VM , URL: /wiki/Z/VM
+","IBM , URL: /wiki/IBM
+","z/Architecture","z/Architecture, z/VM does not run on predecessor mainframes","No host OS, itself (single or multiple levels/versions deep; e.g., VM/ESA running in z/VM 4.4 in z/VM 5.2 in z/VM 5.1.)","Linux on IBM Z , URL: /wiki/Linux_on_IBM_Z
+z/OS , URL: /wiki/Z/OS
+z/VSE , URL: /wiki/Z/VSE
+z/TPF , URL: /wiki/Z/TPF
+VM/CMS , URL: /wiki/VM/CMS
+MUSIC/SP , URL: /wiki/MUSIC/SP
+OpenSolaris for System z , URL: /wiki/OpenSolaris_for_System_z
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"LPARs , URL: /wiki/LPAR
+","IBM","z/Architecture","z/Architecture","System z , URL: /wiki/System_z
+","Linux on IBM Z, z/OS, z/VSE, z/TPF, z/VM, MUSIC/SP, and predecessors","Proprietary , URL: /wiki/Proprietary_software
+"
+"Name","Creator","Host CPU","Guest CPU","Host OS(s)","Guest OS(s)","License"

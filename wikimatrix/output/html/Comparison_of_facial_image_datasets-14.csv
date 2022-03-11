@@ -1,0 +1,8 @@
+"Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
+"Geographic Origin of Music Data Set","Audio features of music samples from different locations.","Audio features extracted using MARSYAS software.","1,059","Text","Geographic classification, clustering","2014","[281][282]","F. Zhou et al."
+"Million Song Dataset","Audio features from one million different songs.","Audio features extracted.","1M","Text","Classification, clustering","2011","[283][284]","T. Bertin-Mahieux et al."
+"MUSDB18","Multi-track popular music recordings","Raw audio","150","MP4, WAV","Source Separation","2017","[285]","Z. Rafii et al."
+"Free Music Archive , URL: /wiki/Free_Music_Archive
+","Creative Commons , URL: /wiki/Creative_Commons_license
+","Raw audio and audio features.","106,574","Text, MP3","Classification, recommendation","2017","[286]","M. Defferrard et al."
+"Bach Choral Harmony Dataset","Bach chorale chords.","Audio features extracted.","5665","Text","Classification","2014","[287][288]","D. Radicioni et al."

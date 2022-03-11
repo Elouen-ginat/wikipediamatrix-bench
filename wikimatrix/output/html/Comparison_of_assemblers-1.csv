@@ -1,12 +1,23 @@
-"null","null","null","null","null"
-"Shepardson Microsystems","No","Proprietary","MOS Technology 6502","Atari 8-bit family"
-"Shepardson Microsystems","No","Proprietary","MOS Technology 6502","Atari 8-bit family"
-"Apple Computer","No","","MOS Technology 6502","Apple DOS 3.x"
-"Andre Kaesmacher, Hauke Brandes, Börje Sieling","Yes","Artistic License","MOS Technology 6502","Linux, Windows, macOS, possibly other Unices"
-"Randall Hyde","No","Proprietary","MOS Technology 6502","Apple II series"
-"Optimized Systems Software","No","Proprietary","MOS Technology 6502, WDC 65C02","Atari 8-bit family"
-"Glen Bredon","Yes","Public-domain","MOS Technology 6502, WDC 65C02","Apple II series"
-"The Byte Works","No","Proprietary, Free for non-commercial use","MOS Technology 6502, WDC 65C02, WDC 65C816","ProDOS 8/16, GS/OS"
-"James Hammons, George Nakos, Landon Dyer","Yes","Free","MOS Technology 6502","Linux, Windows, macOS"
-"Volker Barthelmann, Frank Wille","","Free","MOS Technology 6502","various"
-"Piotr Fusik","Yes","Free","MOS Technology 6502","Linux, Windows, macOS"
+"Assembler","Developer","FOSS , URL: /wiki/Free_and_open-source_software
+","License , URL: /wiki/Software_license
+","Instruction set , URL: /wiki/Instruction_set
+","platform , URL: /wiki/Computing_platform
+","Development active"
+"ASM-One Macro Assembler , URL: /wiki/ASM-One_Macro_Assembler
+","Rune Gram-Madsen , URL: /w/index.php?title=Rune_Gram-Madsen&action=edit&redlink=1
+","No","Free","Motorola 680x0 , URL: /wiki/Motorola_68000_series
+","Amiga , URL: /wiki/Amiga
+","No"
+"GNU Assembler , URL: /wiki/GNU_Assembler
+","GNU Project , URL: /wiki/GNU_Project
+","Yes","Free","Motorola 680x0 , URL: /wiki/Motorola_68000_series
+","various",""
+"vasm","Volker Barthelmann, Frank Wille","No","Proprietary , URL: /wiki/Proprietary_software
+","Motorola 680x0 , URL: /wiki/Motorola_68000_series
+","various","Yes"
+"rmac , URL: http://rmac.is-slick.com
+","James Hammons, George Nakos, Landon Dyer","Yes","Free","MOS Technology 6502 , URL: /wiki/MOS_Technology_6502
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+","Yes"

@@ -1,0 +1,118 @@
+"Client","Microsoft Windows , URL: /wiki/Microsoft_Windows
+","macOS , URL: /wiki/MacOS
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/BSD
+","Unix , URL: /wiki/Unix
+","DOS , URL: /wiki/DOS
+","Other"
+"Alpine , URL: /wiki/Alpine_(email_client)
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"Apple Mail , URL: /wiki/Apple_Mail
+","No","Yes","No","No","No","No","No"
+"Balsa , URL: /wiki/Balsa_(email_client)
+","No","No","Yes","Yes","No","No","No"
+"Becky! Internet Mail , URL: /wiki/Becky!
+","Yes","No","No","No","No","No","No"
+"Citadel , URL: /wiki/Citadel/UX
+","No","Yes","Yes","Yes","Yes","No","No"
+"Claws Mail , URL: /wiki/Claws_Mail
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"Courier , URL: /wiki/Courier_(email_client)
+","Yes","No","No","No","No","No","No"
+"Elm , URL: /wiki/Elm_(email_client)
+","No","Yes","Yes","Yes","Yes","No","No"
+"eM Client , URL: /wiki/EM_Client
+","Yes","Yes","No","No","No","No","No"
+"EmailTray , URL: /wiki/EmailTray
+","Yes","No","No","No","No","No","No"
+"Eudora , URL: /wiki/Eudora_(email_client)
+","Yes","Yes","No","No","No","No","No"
+"Evolution , URL: /wiki/Evolution_(software)
+","No [Note 1]","No","Yes","Yes","Yes","No","No"
+"Forté Agent , URL: /wiki/Fort%C3%A9_Agent
+","Yes","No","No","No","No","No","No"
+"Geary , URL: /wiki/Geary_(software)
+","No","No","Yes","Yes","Yes","No","No"
+"Gnus , URL: /wiki/Gnus
+","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"GroupWise , URL: /wiki/GroupWise
+","Yes","Yes","Yes","Yes","No","No","No"
+"Hiri , URL: /wiki/Hiri_(email_client)
+","Yes","Yes","Yes","No","Yes","No","No"
+"i.Scribe / InScribe , URL: /wiki/Scribe_Mail
+","Yes","Yes","Yes","No","No","No","No"
+"IBM Lotus Notes , URL: /wiki/IBM_Lotus_Notes
+","Yes","Yes","Yes","No","Yes","No","No"
+"IMP , URL: /wiki/Internet_Messaging_Program
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"KMail , URL: /wiki/KMail
+","No","Yes","Yes","Yes","Yes","No","No"
+"Mailbird , URL: /wiki/Mailbird
+","Yes","Yes","No","No","No","No","No"
+"Mailpile , URL: /wiki/Mailpile
+","Yes [Note 2]","Yes [Note 2]","Yes","Yes [Note 3]","Yes [Note 3]","No [Note 4]","No [Note 4]"
+"mailx , URL: /wiki/Mailx
+","No","No","Yes","Yes","Yes","No","No"
+"Microsoft Entourage , URL: /wiki/Microsoft_Entourage
+","No","Terminated (2008)","No","No","No","No","No"
+"Microsoft Office Outlook , URL: /wiki/Microsoft_Office_Outlook
+","Yes","Yes","No","No","No","No","No"
+"Mozilla Mail & Newsgroups , URL: /wiki/Mozilla_Mail_%26_Newsgroups
+","Terminated (1.7.13)","Terminated (1.7.13)","Terminated (1.7.13)","Terminated (1.7.13)","Terminated (1.7.13)","No","No"
+"Mozilla Thunderbird , URL: /wiki/Mozilla_Thunderbird
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"Mulberry , URL: /wiki/Mulberry_(email_client)
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"Mutt , URL: /wiki/Mutt_(email_client)
+","Yes","Yes","Yes","Yes","Yes","Yes[23]","No"
+"Netscape Messenger , URL: /wiki/Netscape_Messenger
+","Terminated (4.80)","Terminated (4.80)","Terminated (4.80)","Terminated (4.80)","Terminated (4.80)","No","No"
+"Netscape Messenger 9 , URL: /wiki/Netscape_Messenger_9
+","Terminated (9.0a1)","Terminated (9.0a1)","Terminated (9.0a1)","Terminated (9.0a1)","Terminated (9.0a1)","No","No"
+"nmh / MH , URL: /wiki/MH_Message_Handling_System
+","No","Yes","Yes","Yes","Yes","No","No"
+"Opera Mail , URL: /wiki/Opera_Mail
+","Yes","Yes","Yes","Yes","?","No","No"
+"Outlook Express , URL: /wiki/Outlook_Express
+","Included (up to XP)","No","No","No","No","No","No"
+"Pegasus Mail , URL: /wiki/Pegasus_Mail
+","Yes","No","No","No","No","Yes","NetWare , URL: /wiki/NetWare
+NLM , URL: /wiki/NetWare_Loadable_Module
+"
+"Pine , URL: /wiki/Pine_(email_client)
+","Yes","Yes","Yes","Yes","Yes","Terminated (3.96)[24]","No"
+"Pocomail , URL: /wiki/Pocomail
+","Yes","No","No","No","No","No","No"
+"RoundCube , URL: /wiki/RoundCube
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"SeaMonkey , URL: /wiki/SeaMonkey
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"SquirrelMail , URL: /wiki/SquirrelMail
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"Sylpheed , URL: /wiki/Sylpheed
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"The Bat! , URL: /wiki/The_Bat!
+","Yes","No","No","No","No","No","No"
+"Trojitá , URL: /wiki/Trojit%C3%A1
+","Yes","Yes","Yes","Yes","Yes","No","MeeGo , URL: /wiki/MeeGo
+"
+"Turnpike , URL: /wiki/Turnpike_(software)
+","Yes","No","No","No","No","No","No"
+"Windows Live Mail , URL: /wiki/Windows_Live_Mail
+","Yes","No","No","No","No","No","No"
+"Windows Mail , URL: /wiki/Windows_Mail
+","Included (Vista)","No","No","No","No","No","No"
+"YAM , URL: /wiki/YAM_(Yet_Another_Mailer)
+","No","No","No","No","No","No","AmigaOS , URL: /wiki/AmigaOS
+AROS , URL: /wiki/AROS_Research_Operating_System
+MorphOS , URL: /wiki/MorphOS
+"
+"Zimbra , URL: /wiki/Zimbra
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"Client","Microsoft Windows , URL: /wiki/Microsoft_Windows
+","macOS , URL: /wiki/MacOS
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/BSD
+","Unix , URL: /wiki/Unix
+","DOS , URL: /wiki/DOS
+","Other"

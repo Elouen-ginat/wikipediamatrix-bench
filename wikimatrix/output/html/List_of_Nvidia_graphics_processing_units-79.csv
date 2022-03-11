@@ -1,0 +1,41 @@
+"Model","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","Nvidia Optimus , URL: /wiki/Nvidia_Optimus
+","TDP , URL: /wiki/Thermal_design_power
+"
+"Model","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","MB , URL: /wiki/Megabyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","Nvidia Optimus , URL: /wiki/Nvidia_Optimus
+","TDP , URL: /wiki/Thermal_design_power
+"
+"Quadro P500","GP108","14","PCIe 3.0 x16","","","","256:16:16:2","","","2048","40","GDDR5","64","750","12.1","4.5","Yes","18"
+"Quadro P600","GP107","14","PCIe 3.0 x16","","","","384:24:16:3","","","2048","80","GDDR5","128","1200","12.1","4.5","Yes","25"
+"Quadro P1000","GP107(N18P-Q1-A1)","14","PCIe 3.0 x16","","","","512:32:16:4","","","4096","96","GDDR5","128","1600","12.1","4.5","Yes","40"
+"Quadro P2000","GP107(N18P-Q3-A1)","14","PCIe 3.0 x16","","","","768:64:32:6","","","5120","96","GDDR5","128","2400","12.1","4.5","Yes","50"
+"Quadro P3000","GP106","16","PCIe 3.0 x16","","","","1280:80:48:10","","","6144","168","GDDR5","192","3098","12.1","4.5","Yes","75"
+"Quadro P4000","GP104","16","PCIe 3.0 x16","","","","1792:112:64:14","","","8192","192","GDDR5","256","4398","12.1","4.5","Yes","100"
+"Quadro P4000 Max-Q","GP104","16","PCIe 3.0 x16","","","","1792:112:64:14","","","8192","192","GDDR5","256","","12.1","4.5","Yes",""
+"Quadro P5000","GP104","16","PCIe 3.0 x16","","","","","","","","192","GDDR5","256","","12.1","4.5","Yes",""

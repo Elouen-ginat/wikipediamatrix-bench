@@ -1,0 +1,123 @@
+"Assembler","Developer","Operating system , URL: /wiki/Operating_system
+","FOSS , URL: /wiki/Free_and_open-source_software
+","License , URL: /wiki/Software_license
+","Development active"
+"A86/A386 , URL: /wiki/A86_(software)
+","Eric Isaacson","Windows , URL: /wiki/Microsoft_Windows
+DOS , URL: /wiki/DOS
+","No","Proprietary , URL: /wiki/Proprietary_software
+","No"
+"ACK , URL: /wiki/Amsterdam_Compiler_Kit
+","Andrew Tanenbaum , URL: /wiki/Andrew_Tanenbaum
+","Linux , URL: /wiki/Linux
+MINIX , URL: /wiki/MINIX
+Unix-like , URL: /wiki/Unix-like
+","Yes","BSD , URL: /wiki/BSD_licenses
+","1985-? [1]"
+"IBM ALP , URL: /wiki/IBM_ALP
+","IBM , URL: /wiki/IBM
+","OS/2 , URL: /wiki/OS/2
+","No","Proprietary , URL: /wiki/Proprietary_software
+","No"
+"AT&T , URL: /wiki/AT%26T
+","AT&T , URL: /wiki/AT%26T
+","Unix System V , URL: /wiki/Unix_System_V
+","No","Proprietary , URL: /wiki/Proprietary_software
+","1985-?[2]"
+"Digital Research , URL: /wiki/Digital_Research
+","Digital Research , URL: /wiki/Digital_Research
+","CP/M-86 , URL: /wiki/CP/M-86
+DOS , URL: /wiki/DOS
+Intel , URL: /wiki/Intel
+ISIS , URL: /wiki/ISIS_(operating_system)
+iRMX , URL: /wiki/IRMX
+","No","Proprietary , URL: /wiki/Proprietary_software
+","1978-1992"
+"FASM , URL: /wiki/FASM
+","Tomasz Grysztar , URL: /w/index.php?title=Tomasz_Grysztar&action=edit&redlink=1
+","Windows , URL: /wiki/Microsoft_Windows
+DOS , URL: /wiki/DOS
+Linux , URL: /wiki/Linux
+Unix-like , URL: /wiki/Unix-like
+","Yes","BSD , URL: /wiki/BSD_licenses
+Copyleft , URL: /wiki/Copyleft
+","Yes"
+"GAS , URL: /wiki/GNU_Assembler
+","GNU Project , URL: /wiki/GNU_Project
+","Unix-like , URL: /wiki/Unix-like
+Windows , URL: /wiki/Microsoft_Windows
+DOS , URL: /wiki/DOS
+OS/2 , URL: /wiki/OS/2
+","Yes","GNU GPL , URL: /wiki/GNU_General_Public_License
+","Since 1987"
+"HLA , URL: /wiki/High_Level_Assembly
+","Randall Hyde , URL: /wiki/Randall_Hyde
+","Windows , URL: /wiki/Microsoft_Windows
+Linux , URL: /wiki/Linux
+FreeBSD , URL: /wiki/FreeBSD
+macOS , URL: /wiki/MacOS
+","Yes","Public domain , URL: /wiki/Public_domain
+","Yes"
+"Open Watcom Assembler , URL: /wiki/Open_Watcom_Assembler
+","Watcom , URL: /wiki/Watcom
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+DOS , URL: /wiki/DOS
+FreeBSD , URL: /wiki/FreeBSD
+OS/2 , URL: /wiki/OS/2
+","OSI , URL: /wiki/Open_Source_Initiative
+FSF , URL: /wiki/Free_Software_Foundation
+","Sybase Open Watcom Public , URL: /wiki/Sybase_Open_Watcom_Public_License
+","Yes"
+"MASM , URL: /wiki/Microsoft_Macro_Assembler
+","Microsoft , URL: /wiki/Microsoft
+","Windows , URL: /wiki/Microsoft_Windows
+DOS , URL: /wiki/DOS
+OS/2 , URL: /wiki/OS/2
+","No","EULA , URL: /wiki/End-user_license_agreement
+","Since 1981[3]"
+"NASM , URL: /wiki/Netwide_Assembler
+","Simon Tatham , URL: /wiki/Simon_Tatham
+Hans Peter Anvin , URL: /wiki/Hans_Peter_Anvin
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+DOS , URL: /wiki/DOS
+OS/2 , URL: /wiki/OS/2
+","Yes","BSD , URL: /wiki/BSD_licenses
+","Yes"
+"Tim Paterson , URL: /wiki/Tim_Paterson
+","Tim Paterson , URL: /wiki/Tim_Paterson
+","86-DOS , URL: /wiki/86-DOS
+DOS , URL: /wiki/DOS
+DEBUG , URL: /wiki/DEBUG
+","No","Proprietary , URL: /wiki/Proprietary_software
+","1979-1983 , URL: http://www.patersontech.com/dos/manuals.aspx
+"
+"TASM , URL: /wiki/Turbo_Assembler
+","Borland , URL: /wiki/Borland
+","Windows , URL: /wiki/Microsoft_Windows
+DOS , URL: /wiki/DOS
+","No","Proprietary , URL: /wiki/Proprietary_software
+","?[4][5]"
+"TCCASM , URL: /wiki/Tiny_C_Compiler
+","Fabrice Bellard , URL: /wiki/Fabrice_Bellard
+","Unix-like , URL: /wiki/Unix-like
+Windows , URL: /wiki/Microsoft_Windows
+","Yes","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","Yes"
+"vasm","","various","Yes","Free","Yes"
+"86-Assembler for DOS , URL: https://sourceforge.net/projects/asm-86-dos/
+","Stephen Duffy","DOS","Yes","GPL2 , URL: /wiki/GPL2
+","No"
+"Xenix , URL: /wiki/Xenix
+","Microsoft , URL: /wiki/Microsoft
+","Xenix , URL: /wiki/Xenix
+","No","Proprietary , URL: /wiki/Proprietary_software
+","1982-1984"
+"Yasm[2]","","Windows , URL: /wiki/Microsoft_Windows
+DOS , URL: /wiki/DOS
+Linux , URL: /wiki/Linux
+Unix-like , URL: /wiki/Unix-like
+","Yes","BSD , URL: /wiki/BSD_licenses
+","No[6]"

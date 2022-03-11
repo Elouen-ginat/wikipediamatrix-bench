@@ -1,0 +1,20 @@
+"","Release date","RTM build","Current version","Status support","Codename","Based on (kernel)","Kernel type","Operating environments","Editions","Purpose","Short description"
+"Windows CE 1.0 , URL: /wiki/Windows_CE_1.0
+","1996-11","","","Unsupported","Pegasus, Alder","CE 1.0","","","","Embedded","first release of Microsoft's Windows CE line for minimalistic computers and embedded systems"
+"Windows CE 2.0 , URL: /wiki/Windows_CE_2.0
+","1997-11","","","Unsupported","Mercury, Apollo","CE 2.0","","","2.1, 2.11","Embedded",""
+"Windows CE 3.0 , URL: /wiki/Windows_CE_3.0
+","2000-04","","","Unsupported (2007-10-09)","Cedar, Galileo, Rapier, Merlin, Stinger","CE 3.0","Embedded kernel , URL: /wiki/Embedded_system
+","","","Embedded",""
+"Windows CE 4.0 , URL: /wiki/Windows_CE_4.0
+","2002-01-07","","","Unsupported","Talisker","CE 4.0","","","4.1, 4.2","Embedded",""
+"Windows CE 5.0 , URL: /wiki/Windows_CE_5.0
+","2004-07-09","","5.0 (2004-07-09)","Unsupported (2014-10-14)","Macallan","CE 5.0","Embedded kernel , URL: /wiki/Embedded_system
+","","","Embedded",""
+"Windows Embedded CE 6.0 , URL: /wiki/Windows_Embedded_CE_6.0
+","2006-11-01","","","Unsupported (2018-04-10)","Yamazaki","CE 6.0","Hybrid kernel , URL: /wiki/Hybrid_kernel
+","","","",""
+"Windows Embedded Compact 7 , URL: /wiki/Windows_Embedded_Compact_7
+","2011-03-01","?","?","Unsupported (2021-04-13)","Chelan","CE 7.0","Hybrid , URL: /wiki/Hybrid_kernel
+","? Standard, POSReady","","",""
+"Windows Embedded Compact 2013","2013-08-11","","Update 17 (2017-11-15)","Supported (2023-10-10)","N/A","CE 8.0","","","Standard Industry (8.0, 8.1) Handheld","Embedded",""

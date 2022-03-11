@@ -1,0 +1,35 @@
+"Kernel Name","a.out , URL: /wiki/A.out_(file_format)
+","ECOFF , URL: /wiki/ECOFF
+","ELF , URL: /wiki/Executable_and_Linkable_Format
+","FDPIC ELF binaries (mmu less)","flat binaries (superH)","HUNK , URL: /wiki/Amiga_Hunk
+","Mach-O , URL: /wiki/Mach-O
+","Misc (wrapper based, like interpreters)","PE , URL: /wiki/Portable_Executable
+","SOM (PA-RISC, HP-UX)","NLM , URL: /wiki/NetWare_Loadable_Module
+","PEF , URL: /wiki/Preferred_Executable_Format
+","DOS COM , URL: /wiki/COM_file
+","MZ , URL: /wiki/DOS_MZ_executable
+","LE , URL: /wiki/Linear_Executable
+","LX , URL: /wiki/Linear_Executable
+","NE , URL: /wiki/New_Executable
+"
+"Amiga Exec , URL: /wiki/Exec_(Amiga)
+","No","No","Yes[19]","No","No","Yes","No","No","No","No","?","?","?","?","?","?","?"
+"DragonFly BSD kernel , URL: /wiki/DragonFly_BSD
+","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"HP-UX kernel , URL: /wiki/HP-UX
+","No","No","Yes","No","No","No","No","No","No","Yes","No","No","?","?","?","?","?"
+"Linux kernel , URL: /wiki/Linux_kernel
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Some[20]","Yes","?","No","?","?","?","?","?"
+"MINIX 3 kernel , URL: /wiki/MINIX_3
+","Some[7][8]","No","Yes[6]","No","No","No","No","No","No","No","No","No","?","?","?","?","?"
+"NetBSD kernel , URL: /wiki/NetBSD
+","Yes","Yes","Yes","?","?","?","Yes","?","Yes","?","?","?","?","?","?","?","?"
+"ReactOS kernel , URL: /wiki/ReactOS
+","?","?","?","?","?","?","?","?","Yes","?","?","?","?","?","?","?","?"
+"Solaris kernel , URL: /wiki/Solaris_(operating_system)
+","Yes[21]","No","Yes[22]","No","No","No","No","No","Some[23]","No","?","?","?","?","?","?","?"
+"Windows NT kernel , URL: /wiki/Architecture_of_Windows_NT#Kernel_mode
+","No","No","WSL , URL: /wiki/Windows_Subsystem_for_Linux
+","No","No","No","No","No","Yes","No","No","No","Yes on x86","Yes on x86","?","?","Yes on x86"
+"XNU , URL: /wiki/XNU
+","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No"

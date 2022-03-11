@@ -1,0 +1,33 @@
+"Maker","Model (Debut year)","Current version (year)","Connectivity","Audio output","Maximum video resolution","Video formats supported","Network","USB","Internal media storage","Card reader slot","Remote control"
+"Amazon , URL: /wiki/Amazon.com
+","Fire TV , URL: /wiki/Amazon_Fire_TV
+","Fire TV Stick (third generation, 2020), Fire TV Cube (second generation, 2019), Fire TV Stick 4K (2018)","HDMI (w/ CEC)","HDMI","4K@60fps (Fire TV Cube, Fire TV Stick 4K); 1080p (Fire TV Stick)","H.265 , URL: /wiki/H.265
+HEVC , URL: /wiki/HEVC
+VP9 , URL: /wiki/VP9
+H.264 , URL: /wiki/H.264
+H.263 , URL: /wiki/H.263
+","802.11a/b/g/n/ac, 10/100 Ethernet (via external dongle)","1× micro-USB for ethernet dongle and OTG storage (Fire TV Cube), 1× micro-USB for power and ethernet dongle (Fire TV Stick, Fire TV Stick 4K)","16GB (Fire TV Cube), 8GB (Fire TV Stick, Fire TV Stick 4K)","None","Bluetooth/IR remote with Alexa, Android app, iOS app"
+"Apple , URL: /wiki/Apple_Inc.
+","Apple TV , URL: /wiki/Apple_TV
+","6th generation (2021)","HDMI (w/ CEC)","Bluetooth , URL: /wiki/List_of_Bluetooth_profiles
+","4K@60fps (HDR)","H.265 , URL: /wiki/High_Efficiency_Video_Coding
+H.264 , URL: /wiki/H.264/MPEG-4_AVC
+MPEG-4 , URL: /wiki/MPEG-4
+Motion JPEG , URL: /wiki/Motion_JPEG
+","802.11a/b/g/n/ac/ax, Gigabit Ethernet","None","NAND Flash , URL: /wiki/Flash_memory
+","None","Siri Remote , URL: /wiki/Siri_Remote
+"
+"Google , URL: /wiki/Google
+","Chromecast , URL: /wiki/Chromecast
+","Chromecast with Google TV (CCTV; 2020)","HDMI (w/ CEC)","HDMI","1080p; 4K@60fps (Ultra)","VP8 , URL: /wiki/VP8
+","802.11b/g/n/ac (Chromecast), 802.11a/b/g/n/ac (Nexus Player, CCTV)","1× micro-USB for power (Chromecast), 1 x USB-C for power, ethernet and peripherals (CCTV)","2 GB for buffering (Chromecast), 8 GB for buffering (Nexus Player, CCTV)","None","None (Chromecast controllable by mobile device or Chrome browser); Bluetooth/IR remote with Google Assistant (CCTV)"
+"Nvidia , URL: /wiki/Nvidia
+","SHIELD Console , URL: /wiki/SHIELD_Android_TV
+","Nvidia Shield TV , URL: /wiki/Nvidia_Shield_TV
+","HDMI (w/ CEC)","3.5mm, HDMI","4K@60fps","VP8 , URL: /wiki/VP8
+VP9 , URL: /wiki/VP9
+","802.11ac 10/100/1000 Ethernet","2x USB 3.0 1x micro-USB","16GB, 500GB (SHIELD Pro)","Micro SD","IR remote (all models)"
+"Roku , URL: /wiki/Roku
+","Roku Streaming Player , URL: /wiki/Roku_Streaming_Player
+","8th & 9th generation Express, Express+, Streaming Stick+, Premiere, Ultra LT, Ultra (2018)","HDMI","HDMI (all models), Optical Toslink (Ultra)","4K@60fps; 1080p on Express and Express+","VP9 , URL: /wiki/VP9
+","802.11a/b/g/n (Express, Express+, Premiere) 802.11ac (Streaming Stick+, Ultra LT, Ultra) 10/100 Ethernet (Ultra)","1× USB 2.0 (Ultra models) 1× micro-USB for power (Streaming Stick+ Roku model)","256MB - 512MB","Micro SD (Premiere+ & Ultra)","IR remote (all models) Wi-Fi Direct (Streaming Stick+, Ultra) Headphone jack (Streaming Stick+, Ultra)"

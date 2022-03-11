@@ -1,0 +1,100 @@
+"","Data Domain , URL: /wiki/Data_Domain
+","Cursor , URL: /wiki/Cursor_(databases)
+","Trigger , URL: /wiki/Database_trigger
+","Function , URL: /wiki/Function_(programming)
+","Procedure , URL: /wiki/Subroutine
+","External routine 1"
+"4th Dimension , URL: /wiki/4th_Dimension_(Software)
+","Yes","No","Yes","Yes","Yes","Yes"
+"ADABAS , URL: /wiki/ADABAS
+","?","Yes","?","Yes?","Yes?","Yes"
+"Adaptive Server Enterprise , URL: /wiki/Adaptive_Server_Enterprise
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Advantage Database Server , URL: /wiki/Advantage_Database_Server
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Altibase , URL: /wiki/Altibase
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Apache Derby , URL: /wiki/Apache_Derby
+","No","Yes","Yes","Yes 2","Yes 2","Yes 2"
+"ClustrixDB , URL: /wiki/Clustrix
+","No","Yes","No","Yes","Yes","Yes"
+"CUBRID , URL: /wiki/CUBRID
+","Yes","Yes","Yes","Yes","Yes 2","Yes"
+"Empress Embedded Database , URL: /wiki/Empress_database
+","Yes via RANGE CHECK","Yes","Yes","Yes","Yes","Yes"
+"EXASolution , URL: /wiki/EXASOL
+","Yes","No","No","Yes","Yes","Yes"
+"DB2 , URL: /wiki/IBM_DB2
+","Yes via CHECK CONSTRAINT","Yes","Yes","Yes","Yes","Yes"
+"Firebird , URL: /wiki/Firebird_(database_server)
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"HSQLDB , URL: /wiki/HSQLDB
+","Yes","No","Yes","Yes","Yes","Yes"
+"H2 , URL: /wiki/H2_(DBMS)
+","Yes","No","Yes 2","Yes 2","Yes 2","Yes"
+"Informix Dynamic Server , URL: /wiki/Informix_Dynamic_Server
+","Yes via CHECK","Yes","Yes","Yes","Yes","Yes 5"
+"Ingres , URL: /wiki/Ingres_(database)
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"InterBase , URL: /wiki/InterBase
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Linter SQL RDBMS , URL: /wiki/Linter_SQL_RDBMS
+","No","Yes","Yes","Yes","Yes","No"
+"LucidDB , URL: /wiki/LucidDB
+","No","Yes","No","Yes 2","Yes 2","Yes 2"
+"MariaDB , URL: /wiki/MariaDB
+","Yes[161]","Yes","Yes","Yes","Yes","Yes"
+"MaxDB , URL: /wiki/MaxDB
+","Yes","Yes","Yes","Yes","Yes","?"
+"Microsoft Access , URL: /wiki/Microsoft_Access
+","Yes","No","No","No","Yes, But single DML/DDL Operation","Yes"
+"Microsoft Visual Foxpro , URL: /wiki/Microsoft_Visual_Foxpro
+","No","Yes","Yes","Yes","Yes","Yes"
+"Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Microsoft SQL Server Compact (Embedded Database) , URL: /wiki/SQL_Server_Compact
+","No","Yes","No","No","No","No"
+"Mimer SQL , URL: /wiki/Mimer_SQL
+","Yes","Yes","Yes","Yes","Yes","No"
+"MonetDB , URL: /wiki/MonetDB
+","No","No","Yes","Yes","Yes","Yes"
+"MySQL , URL: /wiki/MySQL
+","No 3","Yes","Yes","Yes","Yes","Yes"
+"OpenBase SQL , URL: /w/index.php?title=OpenBase&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Oracle , URL: /wiki/Oracle_Database
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Oracle Rdb , URL: /wiki/Oracle_Rdb
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"OpenLink Virtuoso , URL: /wiki/Virtuoso_Universal_Server
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Pervasive PSQL , URL: /wiki/Pervasive_PSQL
+","Yes","Yes","Yes","Yes","Yes","No"
+"Polyhedra DBMS , URL: /wiki/Polyhedra_DBMS
+","No","No","Yes","Yes","Yes","Yes"
+"PostgreSQL , URL: /wiki/PostgreSQL
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Raima Database Manager , URL: /wiki/Raima_Database_Manager
+","No","Yes","No","No","Yes","Yes"
+"RDM Server , URL: /wiki/RDM_Server
+","No","Yes","Yes","No","Yes","Yes"
+"SAP HANA , URL: /wiki/SAP_HANA
+","?","?","?","?","?","?"
+"solidDB , URL: /wiki/SolidDB
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"SQL Anywhere , URL: /wiki/SQL_Anywhere
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"SQLite , URL: /wiki/SQLite
+","No","No","Yes","No","No","Yes"
+"Teradata , URL: /wiki/Teradata
+","No","Yes","Yes","Yes","Yes","Yes"
+"UniData , URL: /wiki/UniData
+","No","No","Yes","Yes","Yes","Yes"
+"UniVerse , URL: /wiki/UniVerse
+","No","No","Yes","Yes","Yes","Yes"
+"","Data Domain , URL: /wiki/Data_Domain
+","Cursor , URL: /wiki/Cursor_(databases)
+","Trigger , URL: /wiki/Database_trigger
+","Function , URL: /wiki/Function_(programming)
+","Procedure , URL: /wiki/Subroutine
+","External routine 1"

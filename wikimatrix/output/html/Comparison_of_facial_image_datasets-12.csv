@@ -1,0 +1,31 @@
+"Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
+"Web of Science Dataset","Hierarchical Datasets for Text Classification","None.","46,985","Text","Classification, Categorization","2017","[232][233]","K. Kowsari et al."
+"Legal Case Reports","Federal Court of Australia , URL: /wiki/Federal_Court_of_Australia
+","None.","4,000","Text","Summarization, citation analysis","2012","[234][235]","F. Galgani et al."
+"Blogger Authorship Corpus","Blog entries of 19,320 people from blogger.com.","Blogger self-provided gender, age, industry, and astrological sign.","681,288","Text","Sentiment analysis, summarization, classification","2006","[236][237]","J. Schler et al."
+"Social Structure of Facebook Networks","Large dataset of the social structure of Facebook.","None.","100 colleges covered","Text","Network analysis, clustering","2012","[238][239]","A. Traud et al."
+"Dataset for the Machine Comprehension of Text","Stories and associated questions for testing comprehension of text.","None.","660","Text","Natural language processing, machine comprehension","2013","[240][241]","M. Richardson et al."
+"The Penn Treebank Project","Naturally occurring text annotated for linguistic structure.","Text is parsed into semantic trees.","~ 1M words","Text","Natural language processing, summarization","1995","[242][243]","M. Marcus et al."
+"DEXTER Dataset","Task given is to determine, from features given, which articles are about corporate acquisitions.","Features extracted include word stems. Distractor features included.","2600","Text","Classification","2008","[244]","Reuters , URL: /wiki/Reuters
+"
+"Google Books N-grams","N-grams , URL: /wiki/N-gram
+","None.","2.2 TB of text","Text","Classification, clustering, regression","2011","[245][246]","Google"
+"Personae Corpus","Collected for experiments in Authorship Attribution and Personality Prediction. Consists of 145 Dutch-language essays.","In addition to normal texts, syntactically annotated texts are given.","145","Text","Classification, regression","2008","[247][248]","K. Luyckx et al."
+"CNAE-9 Dataset","Categorization task for free text descriptions of Brazilian companies.","Word frequency has been extracted.","1080","Text","Classification","2012","[249][250]","P. Ciarelli et al."
+"Sentiment Labeled Sentences Dataset","3000 sentiment labeled sentences.","Sentiment of each sentence has been hand labeled as positive or negative.","3000","Text","Classification, sentiment analysis","2015","[251][252]","D. Kotzias"
+"BlogFeedback Dataset","Dataset to predict the number of comments a post will receive based on features of that post.","Many features of each post extracted.","60,021","Text","Regression","2014","[253][254]","K. Buza"
+"Stanford Natural Language Inference (SNLI) Corpus","Image captions matched with newly constructed sentences to form entailment, contradiction, or neutral pairs.","Entailment class labels, syntactic parsing by the Stanford PCFG parser","570,000","Text","Natural language inference/recognizing textual entailment","2015","[255]","S. Bowman et al."
+"DSL Corpus Collection (DSLCC)","A multilingual collection of short excerpts of journalistic texts in similar languages and dialects.","None","294,000 phrases","Text","Discriminating between similar languages","2017","[256]","Tan, Liling et al."
+"Urban Dictionary , URL: /wiki/Urban_Dictionary
+","Corpus of words, votes and definitions","User names anonymised","2,580,925","CSV","NLP, Machine comprehension","2016 May","[257]","Anonymous"
+"T-REx","Wikipedia , URL: /wiki/Wikipedia
+Wikidata , URL: /wiki/Wikidata
+","Alignment of Wikidata triples with Wikipedia abstracts","11M aligned triples","[2] , URL: https://hadyelsahar.github.io/t-rex/
+","NLP, Relation Extraction","2018","[258]","H. Elsahar et al."
+"General Language Understanding Evaluation (GLUE)","Benchmark of nine tasks","Various","~1M sentences and sentence pairs","","NLU","2018","[259][260][261]","Wang et al."
+"Contract Understanding Atticus Dataset (CUAD) (formerly known as Atticus Open Contract Dataset (AOK))","Dataset of legal contracts with rich expert annotations","","~13,000 labels","CSV and PDF","Natural language processing, QnA","2021","","The Atticus Project , URL: https://www.atticusprojectai.org/cuad
+"
+"Vietnamese Image Captioning Dataset (UIT-ViIC)","Vietnamese Image Captioning Dataset","","19,250 captions for 3,850 images","CSV and PDF","Natural language processing, Computer vision","2020","[262]","Lam et al."
+"Vietnamese Names annotated with Genders (UIT-ViNames)","Vietnamese Names annotated with Genders","","26,850 Vietnamese full names annotated with genders","CSV","Natural language processing","2020","[263]","To et al."
+"Vietnamese Constructive and Toxic Speech Detection Dataset (UIT-ViCTSD)","Vietnamese Constructive and Toxic Speech Detection Dataset","","10,000 Vietnamese users' comments on online newspapers on 10 domains","CSV","Natural Language Processing","2021","[264]","Nguyen et al."
+"ColBERT Dataset","Short jokes.","Outliers removed.","200,000","Text","Humor detection, classification","2020","[204]","Annamoradnejad et al."

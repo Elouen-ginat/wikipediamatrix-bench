@@ -1,0 +1,42 @@
+"Implementation","Secure Renegotiation [175]","Server Name Indication [176]","ALPN , URL: /wiki/Application-Layer_Protocol_Negotiation
+","Certificate Status Request , URL: /wiki/OCSP_stapling
+","OpenPGP , URL: /wiki/OpenPGP
+","Supplemental Data [179]","Session Ticket [180]","Keying Material Exporter [181]","Maximum Fragment Length [176]","HMAC , URL: /wiki/HMAC
+","Encrypt-then-MAC , URL: /wiki/Encrypt-then-MAC
+","TLS Fallback SCSV [183]","Extended Master Secret [184]","ClientHello Padding [185]","Raw Public Keys [186]"
+"Botan , URL: /wiki/Botan_(programming_library)
+","Yes","Yes","Yes[187]","No","No","No","Yes","Yes","Yes","No","Yes","Yes[188]","Yes[189]","No","Unknown"
+"BSAFE , URL: /wiki/BSAFE
+","Yes","Yes","No","Yes","No","No","No","No","Yes","No","No","No","Yes","No","No"
+"cryptlib , URL: /wiki/Cryptlib
+","Yes","Yes","No","No","No","Yes","No","No","No[190]","No","Yes","Yes","Yes","No","Unknown"
+"GnuTLS , URL: /wiki/GnuTLS
+","Yes","Yes","Yes[191]","Yes","No[192]","Yes","Yes","Yes","Yes","No","Yes[38]","Yes[193]","Yes[38]","Yes[194]","Yes[195]"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","Yes","Yes[66]","Yes[66]","Yes","No","No","Yes","No","Yes","No","No","No","Yes","No","No"
+"LibreSSL , URL: /wiki/LibreSSL
+","Yes","Yes","Yes[196]","Yes","No","No?","Yes","Yes?","No","No","No","Server side only[197]","No","Yes","No"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","Yes","Yes","Yes[198]","Yes[128]","No","No","Yes","No","Yes","Yes","No","Yes[128]","Yes[128]","No","Unknown"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","Yes","Yes","Yes[199]","No","No","No","Yes","No","Yes","Disabled by default[47]","Yes[200]","Yes[200]","Yes[200]","No","No"
+"NSS , URL: /wiki/Network_Security_Services
+","Yes","Yes","Yes[201]","Yes","No[202]","No","Yes","Yes","No","No","No[203]","Yes[204]","Yes[205]","Yes[201]","Unknown"
+"OpenSSL , URL: /wiki/OpenSSL
+","Yes","Yes","Yes[55]","Yes","No","No?","Yes","Yes","Yes","No","Yes","Yes[206]","Yes[207]","Yes[208]","No"
+"SChannel XP/2003 , URL: /wiki/SChannel
+","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Unknown"
+"SChannel Vista/2008 , URL: /wiki/SChannel
+","Yes","Yes","No","No","No","Yes","No","No","No","No","No","No","Yes[209]","No","Unknown"
+"SChannel 7/2008R2 , URL: /wiki/SChannel
+","Yes","Yes","No","Yes","No","Yes","No","No","No","No","No","No","Yes[209]","No","Unknown"
+"SChannel 8/2012 , URL: /wiki/SChannel
+","Yes","Yes","No","Yes","No","Yes","Client side only[210]","No","No","No","No","No","Yes[209]","No","Unknown"
+"SChannel 8.1/2012R2, 10 , URL: /wiki/SChannel
+","Yes","Yes","Yes","Yes","No","Yes","Yes[210]","No","No","No","No","No","Yes[209]","No","Unknown"
+"Secure Transport , URL: /wiki/MacOS
+","Yes","Yes","Unknown","No","No","Yes","No","No","No","No","No","No","No","No","Unknown"
+"wolfSSL , URL: /wiki/WolfSSL
+","Yes","Yes","Yes[148]","Yes","No","No","Yes","No","Yes","Yes","Yes[211]","No","Yes","No","Unknown"
+"Erlang/OTP SSL application","Yes","Yes","Yes","No","No","No","No","No","No","No","No","Yes","No","No","Unknown"
+"Implementation","Secure Renegotiation","Server Name Indication","ALPN","Certificate Status Request","OpenPGP","Supplemental Data","Session Ticket","Keying Material Exporter","Maximum Fragment Length","Truncated HMAC","Encrypt-then-MAC","TLS Fallback SCSV","Extended Master Secret","ClientHello Padding","Raw Public Keys"

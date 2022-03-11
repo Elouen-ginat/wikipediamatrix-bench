@@ -1,0 +1,33 @@
+"v t e Web interfaces","v t e Web interfaces","v t e Web interfaces"
+"Server-side , URL: /wiki/Server-side
+","Protocols , URL: /wiki/Communication_protocol
+","HTTP CGI SCGI FCGI AJP WSRP WebSocket"
+"Server-side , URL: /wiki/Server-side
+","Server APIs , URL: /wiki/Server_Application_Programming_Interface
+","C NSAPI C ASAPI C ISAPI COM ASP Jakarta Servlet container CLI OWIN ASP.NET Handler Python WSGI Python ASGI Ruby Rack JavaScript JSGI Perl PSGI Portlet container"
+"Server-side , URL: /wiki/Server-side
+","Apache modules , URL: /wiki/List_of_Apache_modules
+","mod_include mod_jk mod_lisp mod_mono mod_parrot mod_perl mod_php mod_proxy mod_python mod_wsgi mod_ruby Phusion Passenger"
+"Server-side , URL: /wiki/Server-side
+","Topics","Web resource vs. Web service Open API Webhook Application server comparison Scripting"
+"Client-side , URL: /wiki/Client-side
+","Browser APIs , URL: /wiki/Plug-in_(computing)
+","C NPAPI LiveConnect XPConnect C NPRuntime C PPAPI NaCl ActiveX BHO XBAP"
+"Client-side , URL: /wiki/Client-side
+","Web APIs , URL: /wiki/Web_API#Client_side
+","W3C , URL: /wiki/World_Wide_Web_Consortium
+
+Audio Canvas CORS DOM DOM events EME File Geolocation IndexedDB MSE SSE SVG Video WebAssembly WebAuthn WebGPU WebRTC WebSocket WebXR Web messaging Web storage Web worker XMLHttpRequest
+
+Khronos , URL: /wiki/Khronos_Group
+
+WebCL WebGL
+
+Others
+Gears Web SQL Database (formerly W3C) WebUSB
+
+
+"
+"Client-side , URL: /wiki/Client-side
+","Topics","Ajax and Remote scripting vs. DHTML Browser extension Mashup Web IDL Scripting"
+"Topics","Web page Static Dynamic Web standards Web API security Web application Rich Single-page Progressive Web framework","Web page Static Dynamic Web standards Web API security Web application Rich Single-page Progressive Web framework"

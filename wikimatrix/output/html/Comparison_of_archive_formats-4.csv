@@ -1,0 +1,139 @@
+"Format","Filename extension","Created by","Introduced in","Based on","Compression","Integrity check","Recovery record","Encryption supported","Unicode , URL: /wiki/Unicode
+","Modification date resolution","Pre-processing","License"
+"Archive , URL: /wiki/Ar_(Unix)
+",".a, .ar","CSRG , URL: /wiki/CSRG
+","1971","Original","No","No","No","No","No","1 s","?","?"
+"cpio , URL: /wiki/Cpio
+",".cpio","Bell Labs , URL: /wiki/Bell_Labs
+","Unix System V , URL: /wiki/UNIX_System_V
+","?","No","Partial, select formats only","No","No","No","1 s","No","?"
+"Shell Archive , URL: /wiki/Shar
+",".shar, .run","James Gosling , URL: /wiki/James_Gosling
+","4.4BSD , URL: /wiki/4.4BSD
+","Original","No","Yes, commonly MD5","Partial","Partial","Partial","arbitrary (typically 1 s)","No","Public domain , URL: /wiki/Public_domain
+GPL , URL: /wiki/GPL
+"
+"Tape Archive , URL: /wiki/Tar_(file_format)
+",".tar","Bell Labs , URL: /wiki/Bell_Labs
+","Version 6 Unix , URL: /wiki/Version_6_Unix
+","?","No","Partial, metadata only. Full integrity providable by filters such as gzip.","No","No","Optional1","1 s","No","?"
+"Extended TAR format (pax)",".tar","OpenGroup , URL: /wiki/OpenGroup
+","2001","Sun proposal + TAR","No","metadata","No","No","Yes","arbitrary (typically 1 ns)","No","?"
+"BagIt , URL: /wiki/BagIt
+","–","The Library of Congress , URL: /wiki/The_Library_of_Congress
+","2007","file system","No","Yes","No","No","Yes","No","?","?"
+"7z , URL: /wiki/7z_(file_format)
+",".7z","Igor Pavlov","2000","LZMA , URL: /wiki/Lempel-Ziv-Markov_algorithm
+LZMA2 , URL: /wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm
+Bzip2 , URL: /wiki/Bzip2
+PPMd , URL: /wiki/Prediction_by_partial_matching
+Deflate , URL: /wiki/Deflate
+","Yes","Yes, CRC32","No","Yes, AES-256","Yes","ns , URL: /wiki/Nanosecond
+","Yes","LGPL , URL: /wiki/LGPL
+Public domain , URL: /wiki/Public_domain
+"
+"ACE , URL: /wiki/ACE_(compression_file_format)
+",".ace","Marcel Lemke","1998[12]","LZ77 , URL: /wiki/LZ77
+","Yes","Yes","Yes","Yes, Blowfish","Yes","2s","?","Proprietary software , URL: /wiki/Proprietary_software
+"
+"AFA",".afa","Vicente Sánchez-Alarcos","2009","Original","Yes","Yes","Yes","Yes, AES and CAST","Yes","?","?","?"
+"ARC , URL: /wiki/ARC_(file_format)
+",".arc","Thom Henderson (SEA)","1985","?","Yes","CRC16","No","weak XOR only","No","2s","?","?"
+"ARJ , URL: /wiki/ARJ
+",".arj","Robert Jung","1991","AR001 , URL: /w/index.php?title=AR001&action=edit&redlink=1
+AR002 , URL: /w/index.php?title=AR002&action=edit&redlink=1
+","Yes","Yes","Yes","weak XOR with initial constant","No","?","?","Proprietary software , URL: /wiki/Proprietary_software
+"
+"B1 , URL: /wiki/B1_(archive_format)
+",".b1","Catalina Group Ltd","2011","LZMA , URL: /wiki/LZMA
+","Yes","Yes","No","Yes, AES","Yes","?","?","?"
+"Cabinet , URL: /wiki/Cabinet_(file_format)
+",".cab","Microsoft , URL: /wiki/Microsoft
+","Windows 3.1 , URL: /wiki/Windows_3.1
+","Deflate , URL: /wiki/Deflate
+","Yes","Authenticode , URL: /wiki/Authenticode
+","No","Optional (with SDK)","Yes","2 s","?","?"
+"Compact File Set , URL: /wiki/CFS_(Compact_File_Set_file_format)
+",".cfs","Joe Lowe (Pismo Technic Inc.)","2008","ZIP/LZMA","Yes","Yes","?","Yes","Yes","?","?","Free software , URL: /wiki/Free_software
+"
+"Compact Pro , URL: /wiki/Compact_Pro
+",".cpt","Bill Goodman","1990 (as "Compactor")","Original","Yes","Yes","No","Yes","?","?","?","Proprietary software , URL: /wiki/Proprietary_software
+"
+"Disk Archive , URL: /wiki/DAR_(Disk_Archiver)
+",".dar","Denis Corbin","2002","Original","Yes","Yes","Yes2","Yes","Yes","1 µs","Yes","GPLv2 , URL: /wiki/GPL#Version_2
+"
+"DGCA , URL: /wiki/DGCA_(Computing)
+",".dgc","Shin-ichi Tsuruta","2001","GCA","Yes","Yes","Yes","Yes","Yes","?","?","?"
+"FreeArc , URL: /wiki/FreeArc
+",".arc","Bulat Ziganshin","2006","LZMA , URL: /wiki/LZMA
+PPMd , URL: /wiki/Prediction_by_partial_matching
+TTA , URL: /wiki/TTA_(codec)
+","Yes","Yes","Yes","Yes, AES, Blowfish, Twofish and Serpent","Yes","?","?","GPLv2 , URL: /wiki/GPL#Version_2
+"
+"LHA , URL: /wiki/LHA_(file_format)
+",".lzh, .lha","Haruyasu Yoshizaki","1988","Frozen , URL: /w/index.php?title=Frozen_(file_format)&action=edit&redlink=1
+","Yes","Only on recent LHA releases","No","No","No","1–2 s","?","?"
+"LZX , URL: /wiki/LZX#Amiga_LZX
+",".lzx","Jonathan Forbes , URL: /w/index.php?title=Jonathan_Forbes_(programmer)&action=edit&redlink=1
+","1995","LZ77 , URL: /wiki/LZ77
+","Yes","Only on recent LZX releases","?","?","?","?","?","?"
+"ISO image , URL: /wiki/ISO_image
+",".iso, .img, .ima","ISO 9660 , URL: /wiki/ISO_9660
+","1988","High Sierra Format , URL: /wiki/High_Sierra_Format
+","No","?","?","?","?","?","?","?"
+"SparkFS",".arc","David Pilling","1989","?","Yes","?","?","?","?","?","?","?"
+"WinMount format , URL: /w/index.php?title=WinMount_format&action=edit&redlink=1
+",".mou","?","2007","?","Yes","Yes","Yes","Yes","Yes","?","?","Proprietary software , URL: /wiki/Proprietary_software
+"
+"Macintosh Disk Image , URL: /wiki/.dmg
+",".dmg","Apple Computer , URL: /wiki/Apple_Computer
+","Mac OS X , URL: /wiki/MacOS
+","Original","Yes","Yes","?","Yes","?","?","?","?"
+"Partition Image , URL: /wiki/PartImage
+",".partimg","François Dupoux and Franck Ladurelle","2000","?","Yes","?","?","?","?","?","?","GPLv2 , URL: /wiki/GPL#Version_2
+"
+"PAQ , URL: /wiki/PAQ
+",".paq#*, .lpaq#*","Matt Mahoney","2002–2006","Original","Yes","?","?","?","?","?","?","?"
+"PEA , URL: /wiki/PeaZip#Native_archive_format
+",".pea","Giorgio Tani","2006","Original, Deflate based compression","Yes","Yes Adler32, CRC32, CRC64, MD5, SHA1, RIPEMD-160, SHA256, SHA512, Whirlpool","No","Yes Authenticated Encryption, AES128 and AES256 in EAX mode","Yes system dependent","Yes arbitrary","?","Public domain , URL: /wiki/Public_domain
+"
+"PIM",".pim","Ilia Muraviev","2004–2008","Original","Yes","Yes","No","No","Yes","No","?","?"
+"Quadruple D",".qda","Taku Hayase (aka sandman)","1997","?","Yes","?","?","?","?","?","?","?"
+"RAR , URL: /wiki/RAR_(file_format)
+",".rar","Eugene Roshal , URL: /wiki/Eugene_Roshal
+","1993","Original","Yes","CRC32 , URL: /wiki/CRC32
+BLAKE2 , URL: /wiki/BLAKE2
+","Reed–Solomon , URL: /wiki/Reed%E2%80%93Solomon_error_correction
+","Yes, AES-256 for RAR 5.0 archives","UTF-8 , URL: /wiki/UTF-8
+","s , URL: /wiki/Second
+s , URL: /wiki/Second
+ms , URL: /wiki/Millisecond
+µs , URL: /wiki/Microsecond
+ns , URL: /wiki/Nanosecond
+","Dropped","Proprietary software , URL: /wiki/Proprietary_software
+"
+"RK",".rk","M Software, Ltd.","2004","Original","Yes","Yes","No","Yes, AES, Square, Twofish","Yes","1 s","?","?"
+"NuFX",".shk","Andy Nicholas","1989","Original","Yes","CRC16","No","No","No","1 s","?","?"
+"StuffIt , URL: /wiki/StuffIt
+",".sit","Raymond Lau","1987","?","Yes","?","?","Yes","?","?","?","Proprietary software , URL: /wiki/Proprietary_software
+"
+"StuffIt X , URL: /wiki/StuffIt_X
+",".sitx","Allume Systems , URL: /wiki/Allume_Systems
+","2002","?","Yes","?","Optional","Yes, RC4,Blowfish, AES,DES","Yes","?","?","Proprietary software , URL: /wiki/Proprietary_software
+"
+"UltraCompressor II",".uc .uc0 .uc2 .ucn .ur2 .ue2","Nico de Vries","1992–1996","LZ77 , URL: /wiki/LZ77
+Huffman coding , URL: /wiki/Huffman_coding
+","Yes","Yes","Yes","Yes, triple DES","?","?","?","?"
+"Windows Image , URL: /wiki/Windows_Imaging_Format
+",".wim, .swm, .esd","Microsoft , URL: /wiki/Microsoft
+","2006","Original","Yes","Yes","No","Partial5","Yes","100 ns","?","?"
+"ZIP , URL: /wiki/ZIP_(file_format)
+",".zip","Phil Katz , URL: /wiki/Phil_Katz
+","1989","Deflate , URL: /wiki/Deflate
+","Yes","Yes","No","Yes, AES","Yes","1–2 s, depending on version","?","?"
+"ZPAQ , URL: /wiki/ZPAQ
+",".zpaq","Matt Mahoney , URL: /w/index.php?title=Matt_Mahoney_(computer_scientist)&action=edit&redlink=1
+","2009","PAQ , URL: /wiki/PAQ
+","Yes","Yes, SHA-1","No","Yes, AES-256","Yes","?","?","MIT , URL: /wiki/MIT_License
+Public domain , URL: /wiki/Public_domain
+"

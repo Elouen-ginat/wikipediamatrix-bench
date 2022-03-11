@@ -1,0 +1,21 @@
+"Feature","Android , URL: /wiki/Android_(operating_system)
+","iOS , URL: /wiki/IOS
+","Tizen , URL: /wiki/Tizen
+","Sailfish OS , URL: /wiki/Sailfish_OS
+","Ubuntu Touch , URL: /wiki/Ubuntu_Touch
+"
+"Camera focus at specified point","2.3+[272]","Yes[59]","?","1.0.4+[273]","Yes"
+"Camera exposure metering from specified point","No,[274] available on some phones.[275][276]","Yes[277]","No","?","No"
+"Exif , URL: /wiki/Exif
+","Only date and location; more with 3rd party software[278]","Only date and location; more with 3rd party software[279]","No","?","Yes"
+"On device picture categorization","TouchWiz , URL: /wiki/TouchWiz
+","5+[282]","No","?","No"
+"On device picture description and search","No[283]","10+: Items/objects in picture;[284] 7+: Only date and location[285]","No","?","No"
+"Turn off shutter sound","In silent mode[286]","In silent mode[287]","In silent mode","In silent mode[288]","No"
+"Picture crop","Yes","5+[289]","No","Yes","Yes"
+"Photo rotation","Yes","5+[289]","No","Yes","Yes"
+"Photo red-eye reduction","2.3+[290]","5+[289]","No","No[291]","No"
+"HDR , URL: /wiki/High_dynamic_range_imaging
+","4.2+, some manufacturers earlier[292]","Yes[293]","No","No[294]","Yes"
+"Photo/video import from memory cards","Yes","With Camera Connection Kit[269]","Yes","Yes","Yes"
+"Video trim","2.3+","Yes","No","?","No"

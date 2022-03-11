@@ -1,0 +1,12 @@
+"Reference types","Java","C#"
+"Garbage collection , URL: /wiki/Garbage_collection_(computer_science)
+","Yes","Yes"
+"Weak references , URL: /wiki/Weak_reference
+","Yes","Yes"
+"Reference queue (interaction with garbage collection)","Yes","Yes"
+"Soft references , URL: /wiki/Soft_reference
+","Yes","No"
+"Phantom references , URL: /wiki/Phantom_reference
+","Yes","No"
+"Proxy support , URL: /wiki/Proxy_pattern
+","Yes; proxy generation","Yes; object contexts"

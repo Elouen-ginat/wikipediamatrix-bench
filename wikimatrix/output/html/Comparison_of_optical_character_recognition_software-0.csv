@@ -1,0 +1,81 @@
+"Name","Founded year","Latest stable version","Release year","License","Online","Windows , URL: /wiki/Microsoft_Windows
+","Mac OS X , URL: /wiki/Mac_OS_X
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/Berkeley_Software_Distribution
+","Android","iOS","Programming language","SDK , URL: /wiki/Software_development_kit
+","Languages","Fonts","Output Formats","Notes"
+"Google Drive , URL: /wiki/Google_Drive
+Google Cloud Vision , URL: /wiki/Google_Cloud_Platform
+","","","2015","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Browser","Browser","Browser","Unknown","?","?","Unknown","Yes","200+","All fonts","text","Google blog post[1][2]"
+"Tesseract , URL: /wiki/Tesseract_(software)
+","1985","4.1.1","2019","Apache , URL: /wiki/Apache_License
+","No","Yes","Yes","Yes","Yes","?","?","C++, C","Yes","100+[3]","Any printed font","ALTO , URL: /wiki/ALTO_(XML)
+hOCR , URL: /wiki/HOCR
+","Hewlett-Packard , URL: /wiki/Hewlett-Packard
+"
+"ABBYY FineReader , URL: /wiki/ABBYY_FineReader
+","1989","15","2019","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","No","Yes","Yes","Yes","C/C++","Yes","192[7]","All fonts","DOC, DOCX, XLS, XLSX, PPTX, RTF, PDF, HTML, CSV, TXT, ODT, DjVu, EPUB, FB2[8]","ABBYY also supplies SDKs for embedded and mobile devices. Professional, Corporate and Site License Editions for Windows, Express Edition for Mac.[9]"
+"E-aksharayan , URL: /wiki/E-aksharayan
+","2010","","","","","Yes","No","Yes","No","?","?","","","14","","RTF, TXT, BRL",""
+"Asprise OCR , URL: /wiki/Asprise_OCR
+","1998","15","2015","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Yes","Yes","?","?","Java, C#,VB.NET, C/C++/Delphi","Yes","20+[10]","?","Plain text, searchable PDF, XML[11]","Java, C#, VB.NET, C/C++/Delphi SDKs for OCR and Barcode recognition on Windows, Linux, Mac OS X and Unix.[12]"
+"AnyDoc Software , URL: /wiki/AnyDoc_Software
+","1989","?","?","Proprietary , URL: /wiki/Proprietary_software
+","No","Yes","No","No","No","?","?","VBScript","?","?","?","","Works with structured, semi-structured, and unstructured documents."
+"CuneiForm , URL: /wiki/CuneiForm_(software)
+","1996","1.1","2011-04-19","BSD , URL: /wiki/BSD_licenses
+","No","Yes","Yes","Yes","Yes","?","?","C/C++","Yes","28","Any printed font","TeX , URL: /wiki/TeX
+","Enterprise-class system, can save text formatting and recognizes complicated tables of any structure"
+"Dynamsoft OCR SDK , URL: /wiki/Dynamsoft
+","2003","8.2","2012","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","No","No","?","?","C/C++","Yes","40+[14]","?","PDF, TXT",""
+"OmniPage , URL: /wiki/OmniPage
+","1970s","19.2","2015","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Yes","No","?","?","C/C++, C#[15]","Yes","125[16]","Machine and handprinted fonts","DOC/DOCX XLS/XLSX PPTX RTF PDF PDF/A Searchable PDF HTML Text XML ePUB MP3","Nuance Communications , URL: /wiki/Nuance_Communications
+"
+"Microsoft Office OneNote 2007 , URL: /wiki/Microsoft_OneNote
+","2011","?","2007","Proprietary , URL: /wiki/Proprietary_software
+","No","Yes","No","No","No","?","?","?","?","?","?","",""
+"GOCR , URL: /wiki/GOCR
+","2000","0.52[17]","2018-10-15","GPL , URL: /wiki/GNU_General_Public_License
+","Yes[18]","Yes","Yes","Yes","Yes","?","?","C","?","20+","?","",""
+"Ocrad , URL: /wiki/Ocrad
+","?","0.26[19]","2017-03-31","GPL , URL: /wiki/GNU_General_Public_License
+","Yes","No","Yes","Yes","Yes","?","?","C++","Yes","Latin alphabet","?","","Command line"
+"SmartScore , URL: /wiki/SmartScore
+","1991","10.5.8","2015-07","Proprietary , URL: /wiki/Proprietary_software
+","No","Yes","Yes","No","No","?","?","?","?","?","?","","For musical scores"
+"Microsoft Office Document Imaging , URL: /wiki/Microsoft_Office_Document_Imaging
+","?","Office 2007","2007","Proprietary , URL: /wiki/Proprietary_software
+","No","Yes","No","No","No","?","?","?","?","?","?","","Uses OmniPage[citation needed]"
+"Puma.NET , URL: /wiki/Puma.NET
+","?","?","2009-10-29","BSD , URL: /wiki/BSD_licenses
+","No","Yes","No","No","No","?","?","C#","Yes","28","Any printed font","",".NET , URL: /wiki/.NET_Framework
+SDK , URL: /wiki/Software_development_kit
+API , URL: /wiki/Application_programming_interface
+"
+"ReadSoft , URL: /wiki/ReadSoft
+","?","?","?","Proprietary , URL: /wiki/Proprietary_software
+","No","Yes","No","No","No","?","?","?","?","?","?","","Scan, capture and classify business documents such as invoices, forms and purchase orders integrated with business processes."
+"Scantron , URL: /wiki/Scantron
+","?","?","?","Proprietary , URL: /wiki/Proprietary_software
+","No","Yes","No","No","No","?","?","?","?","?","?","","For working with localized interfaces, corresponding language support is required."
+"OCRFeeder , URL: /wiki/OCRFeeder
+","2009-03","0.8.3","2014-12-22","GPL , URL: /wiki/GNU_General_Public_License
+","No","No","No","Yes","No","?","?","Python","?","?","?","","Tesseract , URL: /wiki/Tesseract_(software)
+Ocrad , URL: /wiki/Ocrad
+"
+"OCRopus , URL: /wiki/OCRopus
+","2007","1.3.3","2017-12-16","Apache , URL: /wiki/Apache_License
+","No","No","Yes","Yes","Yes","?","?","Python","?","Latin script , URL: /wiki/Latin_script
+","Fraktur , URL: /wiki/Fraktur
+","TXT, hOCR,[20] PDF[21]","Google Books , URL: /wiki/Google_Books
+"
+"Name","Founded year","Latest stable version","Release year","License","Online","Windows , URL: /wiki/Microsoft_Windows
+","Mac OS X , URL: /wiki/Mac_OS_X
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/Berkeley_Software_Distribution
+","Android","iOS","Programming language","SDK?","Languages","Fonts","Output Formats","Notes"

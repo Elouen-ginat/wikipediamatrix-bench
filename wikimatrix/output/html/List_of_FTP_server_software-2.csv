@@ -1,0 +1,54 @@
+"Name","FOSS , URL: /wiki/Free_and_open-source_software
+","Platform","Details"
+"CrushFTP Server , URL: /wiki/CrushFTP_Server
+","proprietary , URL: /wiki/Proprietary_software
+","Mac OS X, Windows, Linux, *BSD, Solaris, etc.","FTP , URL: /wiki/FTP
+FTPS , URL: /wiki/FTPS
+SFTP , URL: /wiki/SSH_File_Transfer_Protocol
+SCP , URL: /wiki/Secure_copy
+HTTP , URL: /wiki/HTTP
+HTTPS , URL: /wiki/HTTPS
+WebDAV , URL: /wiki/WebDAV
+AS2 , URL: /wiki/AS2
+AS3 , URL: /wiki/AS3_(networking)
+Active Directory , URL: /wiki/Active_Directory
+LDAP , URL: /wiki/LDAP
+SQL , URL: /wiki/SQL
+SSH Tunneling , URL: /wiki/Secure_Shell
+HTTP(S) Tunneling , URL: /wiki/Tunneling_protocol
+S3 , URL: /wiki/Amazon_S3
+Azure , URL: /wiki/Microsoft_Azure
+Citrix , URL: /wiki/Citrix
+Hadoop , URL: /wiki/Hadoop
+Google Drive , URL: /wiki/Google_Drive
+"
+"glFTPd , URL: /wiki/Glftpd
+","proprietary , URL: /wiki/Proprietary_software
+","Linux, BSD, Mac OS X","FTPS , URL: /wiki/FTPS
+FXP , URL: /wiki/File_eXchange_Protocol
+"
+"ProFTPD , URL: /wiki/ProFTPD
+","GPL , URL: /wiki/GNU_General_Public_License
+","Cygwin , URL: /wiki/Cygwin
+","Graphical User Interfaces (GUIs) , URL: /wiki/Graphical_User_Interface
+"
+"Pure-FTPd , URL: /wiki/Pure-FTPd
+","BSD License , URL: /wiki/BSD_License
+","Linux, BSD, Mac OS X, and more","FXP , URL: /wiki/File_eXchange_Protocol
+"
+"vsftpd , URL: /wiki/Vsftpd
+","Yes, GPLv2","Linux, BSD, and more","FTP , URL: /wiki/FTP
+FTPS , URL: /wiki/FTPS
+FTPES , URL: /wiki/FTPES
+vsftpd , URL: /wiki/Vsftpd
+Ubuntu , URL: /wiki/Ubuntu_(operating_system)
+CentOS , URL: /wiki/CentOS
+Fedora , URL: /wiki/Fedora_(operating_system)
+Slackware , URL: /wiki/Slackware
+NimbleX , URL: /wiki/NimbleX
+RHEL , URL: /wiki/RHEL
+Debian , URL: /wiki/Debian
+"
+"WU-FTPD , URL: /wiki/WU-FTPD
+","proprietary , URL: /wiki/Proprietary_software
+","Linux, BSD, Solaris, Mac OS X and more","Main website seems offline, but continues development in the newer CC series"

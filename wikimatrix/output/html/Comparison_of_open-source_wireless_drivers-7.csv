@@ -1,0 +1,130 @@
+"Driver","Chipset","Integration","Free firmware[note 2]","License","Original/Primary developer","Development","Free software , URL: /wiki/Free_software
+"
+"acx , URL: https://man.openbsd.org/acx.4
+","Texas Instruments , URL: /wiki/Texas_Instruments
+","Integrated","No[46]","BSD , URL: /wiki/BSD
+","Ported from DragonFlyBSD","Reverse engineering","Yes"
+"an , URL: https://man.openbsd.org/an.4
+","Aironet , URL: /wiki/Cisco_Systems
+Cisco , URL: /wiki/Cisco_Systems
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","","","Yes"
+"ath , URL: https://man.openbsd.org/ath.4
+","Atheros , URL: /wiki/Atheros
+","Integrated","N/A[3]","BSD , URL: /wiki/BSD
+","","Reverse engineering","Yes"
+"athn , URL: https://man.openbsd.org/athn.4
+","Atheros , URL: /wiki/Atheros
+","Integrated (since 4.7)","Yes[47]","BSD , URL: /wiki/BSD
+","Damien Bergamini","Linux , URL: /wiki/Linux
+","Yes"
+"atu , URL: https://man.openbsd.org/atu.4
+","Atmel , URL: /wiki/Atmel
+","Integrated","Yes[48]","BSD , URL: /wiki/BSD
+","","Reverse engineering","Yes"
+"atw , URL: https://man.openbsd.org/atw.4
+","ADMtek , URL: /wiki/ADMtek
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","","Documentation based","Yes"
+"awi , URL: https://man.openbsd.org/OpenBSD-4.3/awi.4
+","BayStack , URL: /w/index.php?title=BayStack&action=edit&redlink=1
+","2.7 to 4.3","N/A","BSD , URL: /wiki/BSD
+","","","Yes"
+"bwi , URL: https://man.openbsd.org/bwi.4
+","Broadcom , URL: /wiki/Broadcom
+","Integrated","No","BSD , URL: /wiki/BSD
+","Sepherosa Ziehau","Ported from DragonFly BSD","Yes"
+"cnw , URL: https://man.openbsd.org/OpenBSD-6.0/cnw.4
+","NetWave AirSurfer","2.6 to 6.0","N/A","BSD , URL: /wiki/BSD
+","","","Yes"
+"ipw , URL: https://web.archive.org/web/20170124003320/http://damien.bergamini.free.fr/ipw/
+","Intel , URL: /wiki/Intel
+","Integrated","No[49]","BSD , URL: /wiki/BSD
+","Damien Bergamini","Reverse engineering","Yes"
+"iwi , URL: https://man.openbsd.org/iwi.4
+","Intel , URL: /wiki/Intel
+","Integrated","No[50]","BSD , URL: /wiki/BSD
+","Damien Bergamini","Reverse engineering","Yes"
+"iwn , URL: https://man.openbsd.org/iwn.4
+","Intel , URL: /wiki/Intel
+","Integrated","No[51]","BSD , URL: /wiki/BSD
+","Damien Bergamini","Reverse engineering","Yes"
+"iwm , URL: https://man.openbsd.org/iwm.4
+","Intel , URL: /wiki/Intel
+","Integrated (since 5.8)","No[52]","BSD , URL: /wiki/BSD
+","Antti Kantee,[53] Stefan Sperling","Intel , URL: /wiki/Intel
+Linux , URL: /wiki/Linux
+","Yes"
+"malo , URL: https://man.openbsd.org/malo.4
+","Marvell , URL: /wiki/Marvell_Technology_Group
+","Integrated","No[55]","BSD , URL: /wiki/BSD
+","Marcus Glocker and Claudio Jeker","Reverse engineering[56]","Yes"
+"otus , URL: https://man.openbsd.org/otus.4
+","Atheros , URL: /wiki/Atheros
+","Integrated (since 4.6)","No[57]","BSD , URL: /wiki/BSD
+","Damien Bergamini","Atheros , URL: /wiki/Atheros
+Linux , URL: /wiki/Linux
+","Yes"
+"pgt , URL: https://man.openbsd.org/pgt.4
+","Conexant , URL: /wiki/Conexant
+","Integrated","No[58]","BSD , URL: /wiki/BSD
+","Ported from FreeBSD","Reverse engineering[59]","Yes"
+"ral , URL: https://man.openbsd.org/ral.4
+ural , URL: https://man.openbsd.org/ural.4
+","Ralink , URL: /wiki/Ralink
+","Integrated","Yes[60]","BSD , URL: /wiki/BSD
+","Damien Bergamini","Documentation based","Yes"
+"ray , URL: https://man.openbsd.org/OpenBSD-5.4/ray.4
+","Raytheon Raylink/WebGear Aviator IEEE 802.11FH","2.7 to 5.4","N/A","BSD , URL: /wiki/BSD
+","","","Yes"
+"rsu , URL: https://man.openbsd.org/rsu.4
+","Realtek , URL: /wiki/Realtek
+","Integrated (since 4.9)","No","BSD , URL: /wiki/BSD
+","Damien Bergamini","Reverse engineering","Yes"
+"rtw , URL: https://man.openbsd.org/rtw.4
+","Realtek , URL: /wiki/Realtek
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","Ported from NetBSD","Documentation based","Yes"
+"rtwn , URL: https://man.openbsd.org/rtwn.4
+","Realtek , URL: /wiki/Realtek
+","Integrated","No[61]","BSD , URL: /wiki/BSD
+","Stefan Sperling","Based on urtwn driver.","Yes"
+"rum , URL: https://man.openbsd.org/rum.4
+","Ralink , URL: /wiki/Ralink
+","Integrated","Yes[43]","BSD , URL: /wiki/BSD
+","Niall O'Higgins and Damien Bergamini","Documentation based","Yes"
+"run , URL: https://man.openbsd.org/run.4
+","Ralink , URL: /wiki/Ralink
+","Integrated","Yes[43]","BSD , URL: /wiki/BSD
+","Damien Bergamini","Documentation based","Yes"
+"uath , URL: https://man.openbsd.org/uath.4
+","Atheros , URL: /wiki/Atheros
+","Integrated","No[62]","BSD , URL: /wiki/BSD
+","Damien Bergamini","Reverse Engineering[59]","Yes"
+"upgt , URL: https://man.openbsd.org/upgt.4
+","Conexant , URL: /wiki/Conexant
+","Integrated","No[63]","BSD , URL: /wiki/BSD
+","Marcus Glocker","Reverse engineering","Yes"
+"urtw , URL: https://man.openbsd.org/urtw.4
+","Realtek , URL: /wiki/Realtek
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","Weongyo Jeong (FreeBSD)","?","Yes"
+"urtwn , URL: https://man.openbsd.org/urtwn.4
+","Realtek , URL: /wiki/Realtek
+","Integrated (since 4.9)","No","BSD , URL: /wiki/BSD
+","Damien Bergamini","Reverse engineering","Yes"
+"wi , URL: https://man.openbsd.org/wi.4
+","Lucent , URL: /wiki/Lucent
+ORiNOCO , URL: /wiki/ORiNOCO
+Intersil , URL: /wiki/Intersil
+PRISM , URL: /wiki/PRISM_(chipset)
+Symbol , URL: /wiki/Symbol_Technologies
+","Integrated","Yes for Spectrum24[64] and N/A for others","BSD , URL: /wiki/BSD
+","Bill Paul","Documentation based","Yes"
+"wpi , URL: https://man.openbsd.org/wpi.4
+","Intel , URL: /wiki/Intel
+","Integrated","No[66]","BSD , URL: /wiki/BSD
+","Damien Bergamini","Reverse engineering","Yes"
+"zyd , URL: https://man.openbsd.org/zyd.4
+","ZyDAS ZD1211/ZD1211B","Integrated","Yes[67]","BSD , URL: /wiki/BSD
+","Florian Stoehr, Damien Bergamini, and Jonathan Gray","Documentation based","Yes"

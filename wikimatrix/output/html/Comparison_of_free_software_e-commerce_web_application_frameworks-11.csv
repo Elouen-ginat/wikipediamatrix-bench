@@ -1,0 +1,35 @@
+"","Authorize.Net AIM , URL: /wiki/Authorize.Net
+","Authorize.Net SIM , URL: /wiki/Authorize.Net
+","Barclaycard CPI , URL: /wiki/Barclaycard
+","Barclaycard MPI , URL: /wiki/Barclaycard
+","HSBC API , URL: /wiki/HSBC
+","HSBC CPI , URL: /wiki/HSBC
+","PayPal , URL: /wiki/PayPal
+"
+"Apache OFBiz , URL: /wiki/Apache_OFBiz
+","Yes","No","No","No","No","No","Yes"
+"Batavi , URL: /wiki/Batavi_(software)
+","No","No","No","No","No","No","No"
+"BigCommerce , URL: /wiki/BigCommerce
+","Yes","Yes","No","No","No","No","Yes"
+"Drupal Commerce , URL: /wiki/Drupal_Commerce
+","Yes","No","No","No","No","No","Yes"
+"KonaKart , URL: /wiki/KonaKart
+","Yes","Yes","No","No","No","No","Yes"
+"Magento , URL: /wiki/Magento
+","Yes","3rd party","Yes","Yes","Yes","Yes","Yes"
+"nopCommerce , URL: /wiki/NopCommerce
+","Yes","Yes","No","No","No","No","Yes"
+"osCommerce , URL: /wiki/OsCommerce
+","Yes","Yes","No","No","No","No","Yes"
+"pimcore , URL: /wiki/Pimcore
+","No","No","No","No","No","No","No"
+"PrestaShop , URL: /wiki/PrestaShop
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Shopify , URL: /wiki/Shopify
+","Yes","Yes","No","Yes","No","No","Yes"
+"WooCommerce , URL: /wiki/WooCommerce
+","Yes","Yes","No","No","No","No","Yes"
+"Zen Cart , URL: /wiki/Zen_Cart
+","Yes","Yes","No","No","No","No","Yes"
+"","Authorize.Net AIM","Authorize.Net SIM","Barclaycard CPI","Barclaycard MPI","HSBC API","HSBC CPI","PayPal Standard"

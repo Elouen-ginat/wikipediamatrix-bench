@@ -1,0 +1,9 @@
+"","Java","C#"
+"Definition","class , URL: /wiki/Class_(computer_programming)
+objects , URL: /wiki/Object_(computer_science)
+fields , URL: /wiki/Member_variable
+methods , URL: /wiki/Method_(computer_programming)
+interfaces , URL: /wiki/Protocol_(object-oriented_programming)
+","Enumerations , URL: /wiki/Enumeration
+"
+"Combining","Java enumeration set and map collections provide functionality to combine multiple enumeration values to a combined value. These special collections allows compiler optimization to minimize the overhead incurred by using collections as the combination mechanism.","C# supports bit-mapped enumerations where an actual value may be a combination of enumerated values bitwise or'ed together. The formatting and parsing methods implicitly defined by the type will attempt to use these values."

@@ -1,0 +1,31 @@
+"Model","Launch","Core","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Memory clock (MHz)","Core config1","Fillrate , URL: /wiki/Fillrate
+GT , URL: /wiki/Texel_(graphics)
+","Memory","Memory","Memory","Memory","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","TDP , URL: /wiki/Thermal_Design_Power
+","Notes"
+"Model","Launch","Core","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Memory clock (MHz)","Core config1","Fillrate , URL: /wiki/Fillrate
+GT , URL: /wiki/Texel_(graphics)
+","MB , URL: /wiki/Megabyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","TDP , URL: /wiki/Thermal_Design_Power
+","Notes"
+"FireMV 2200 PCI.[243]","January 2006","RV280 GL","PCI , URL: /wiki/Conventional_PCI
+","240","200","1:4:4:4","0.96","64","3.2","DDR","64","8.1","1.4","15","DMS-59 for dual DVI-D output"
+"FireMV 2200 PCIe.[244]","January 2006","RV370","PCIe , URL: /wiki/PCIE
+","324","196","2:4:4:4","1.296","128","3.2","DDR","64","9.0","2.1","15","DMS-59 for dual DVI-D output"
+"FireMV 2260[245]","January 2008","RV620","PCIe , URL: /wiki/PCIE
+","600","500","40(8×5):4:4","2.4","256","32","DDR2 , URL: /wiki/DDR2_SDRAM
+","256","10.1[246]","3.3","15/8","DisplayPort , URL: /wiki/DisplayPort
+"
+"FireMV 2400 PCI.[247]","January 2008","RV380","PCI , URL: /wiki/Conventional_PCI
+","500","500","2:4:4:4","2.0","128","16","DDR","128","9.0b","2.1","20","2x VHDCI for quad DVI-D output, VGA"
+"FireMV 2400 PCIe.[248]","January 2008","RV380","PCIe , URL: /wiki/PCIE
+","500","500","2:4:4:4","2.0","256","16","DDR3","128","9.0b","2.1","20","2x VHDCI for quad DVI-D output, VGA"

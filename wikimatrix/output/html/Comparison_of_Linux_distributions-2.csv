@@ -1,0 +1,206 @@
+"Distribution","Linux kernel , URL: /wiki/Linux_kernel
+","file system , URL: /wiki/File_system
+","init system , URL: /wiki/Init
+","desktop environment , URL: /wiki/Desktop_environment
+window manager , URL: /wiki/Window_manager
+","Reproducible builds , URL: /wiki/Reproducible_builds
+"
+"Alpine Linux , URL: /wiki/Alpine_Linux
+","Binary blobs","ext4","openrc , URL: /wiki/OpenRC
+","none","In progress[85]"
+"ALT Linux , URL: /wiki/ALT_Linux
+","Binary blobs","ext3","systemd , URL: /wiki/Systemd
+","Xfce , URL: /wiki/Xfce
+","No"
+"Arch Linux , URL: /wiki/Arch_Linux
+","Binary blobs[86]","none[87]","systemd","Deepin , URL: /wiki/Deepin
+i3 , URL: /wiki/I3_(window_manager)
+LXQt , URL: /wiki/LXQt
+Sway , URL: /wiki/Sway_(window_manager)
+","In progress[89][90]"
+"BLAG , URL: /wiki/BLAG_Linux_and_GNU
+","Linux-libre , URL: /wiki/Linux-libre
+","ext3","sysvinit","GNOME","No"
+"Bodhi Linux , URL: /wiki/Bodhi_Linux
+","Binary blobs","ext4","systemd","Enlightenment , URL: /wiki/Enlightenment_(window_manager)
+","No"
+"Canaima , URL: /wiki/Canaima_(operating_system)
+","Binary blobs[86]","?","systemd","Cinnamon , URL: /wiki/Cinnamon_(software)
+MATE , URL: /wiki/MATE_(software)
+","No"
+"CentOS , URL: /wiki/CentOS
+","Binary blobs[86]","xfs","systemd","GNOME","No"
+"Chakra , URL: /wiki/Chakra_(operating_system)
+","Binary blobs","ext4","systemd","KDE Plasma Workspaces","No"
+"Clear Linux OS , URL: /wiki/Clear_Linux_OS
+","","","","",""
+"ClearOS , URL: /wiki/ClearOS
+","Binary blobs","ext3","systemd","none (Web based)","No"
+"CoreOS , URL: /wiki/CoreOS
+","Binary blobs","ext4","systemd","None","No"
+"CrunchBang Linux , URL: /wiki/CrunchBang_Linux
+","Binary blobs","ext4","sysvinit","Openbox , URL: /wiki/Openbox
+","No"
+"Damn Small Linux , URL: /wiki/Damn_Small_Linux
+","Binary blobs","ext3","sysvinit","JWM , URL: /wiki/JWM
+","No"
+"Debian , URL: /wiki/Debian
+","Linux-libre , URL: /wiki/Linux-libre
+","ext4","systemd","KDE , URL: /wiki/KDE
+Xfce , URL: /wiki/Xfce
+LXDE , URL: /wiki/LXDE
+","In progress[93][94]"
+"Devuan , URL: /wiki/Devuan
+","Binary blobs","ext4 , URL: /wiki/Ext4
+","sysvinit , URL: /wiki/Sysvinit
+","Xfce , URL: /wiki/Xfce
+","No"
+"Dragora GNU/Linux-Libre , URL: /wiki/Dragora_GNU/Linux-Libre
+","Linux-libre , URL: /wiki/Linux-libre
+","ext4","runit , URL: /wiki/Runit
+","Xfce","No"
+"dyne:bolic , URL: /wiki/Dyne:bolic
+","Linux-libre , URL: /wiki/Linux-libre
+","?","systemd","GNOME","No"
+"Fedora , URL: /wiki/Fedora_(operating_system)
+","Binary blobs","btrfs[95]","systemd","Sugar on a Stick , URL: /wiki/Sugar_(software)#Sugar_on_a_Stick
+","In progress[96]"
+"Funtoo , URL: /wiki/Funtoo_Linux
+","Binary blobs","none","openrc","None","No"
+"Gentoo , URL: /wiki/Gentoo_Linux
+","Binary blobs","none","openrc","Awesome , URL: /wiki/Awesome_(window_manager)
+","No"
+"gNewSense , URL: /wiki/GNewSense
+","Debian Linux kernel, and (unlike Debian) blobs cannot be installed[91]","ext3","sysvinit","GNOME","No"
+"Guix System , URL: /wiki/GNU_Guix
+","Linux-libre , URL: /wiki/Linux-libre
+Hurd , URL: /wiki/GNU_Hurd
+","ext4","GNU Shepherd , URL: /wiki/GNU_Shepherd
+","GNOME, Xfce, MATE, Enlightenment, Openbox, awesome, i3, ratpoison, EXWM","In progress[100][101]"
+"Hyperbola GNU/Linux-libre , URL: /wiki/Hyperbola_GNU/Linux-libre
+","Linux-libre , URL: /wiki/Linux-libre
+","none","openrc[102]","none","No"
+"Kali Linux , URL: /wiki/Kali_Linux
+","Binary blobs","ext3","systemd","GNOME","No"
+"Knoppix , URL: /wiki/Knoppix
+","Binary blobs","xfs","microknoppix","LXDE","No"
+"LibreCMC , URL: /wiki/LibreCMC
+","Binary blobs","ext4","busybox-init","none","No"
+"Linux Mint , URL: /wiki/Linux_Mint
+","Binary blobs[86]","ext4","systemd , URL: /wiki/Systemd
+","MATE , URL: /wiki/MATE_(desktop_environment)
+Cinnamon , URL: /wiki/Cinnamon_(user_interface)
+KDE 4 , URL: /wiki/KDE_Software_Compilation_4
+XFCE , URL: /wiki/XFCE
+","No"
+"Mageia , URL: /wiki/Mageia
+","Binary blobs","ext4","systemd","KDE Plasma Workspaces, GNOME","No"
+"Mandriva Linux , URL: /wiki/Mandriva_Linux
+","Binary blobs","ext4","systemd","KDE Plasma Workspaces","No"
+"Manjaro Linux , URL: /wiki/Manjaro_Linux
+","Binary blobs","none[105]","systemd","Xfce , URL: /wiki/Xfce
+KDE , URL: /wiki/KDE
+GNOME , URL: /wiki/GNOME
+","No"
+"MEPIS , URL: /wiki/MEPIS
+","Binary blobs","ext3, ext4","sysvinit","KDE Plasma Workspaces","No"
+"Musix GNU+Linux , URL: /wiki/Musix_GNU%2BLinux
+","Linux-libre , URL: /wiki/Linux-libre
+","ext4","initscripts","LXDE","No"
+"OpenELEC , URL: /wiki/OpenELEC
+","Binary blobs","SquashFS","shell script","XBMC Media Center , URL: /wiki/XBMC_Media_Center
+","No"
+"openSUSE , URL: /wiki/OpenSUSE
+","Binary blobs","btrfs","systemd","KDE Plasma Workspaces, GNOME, Xfce","In progress[108]"
+"OpenWrt , URL: /wiki/OpenWrt
+","Binary blobs","overlayfs , URL: /wiki/Overlayfs
+SquashFS , URL: /wiki/SquashFS
+JFFS2 , URL: /wiki/JFFS2
+","procd[110]","none","In progress[111]"
+"Parabola GNU/Linux-libre , URL: /wiki/Parabola_GNU/Linux-libre
+","Linux-libre , URL: /wiki/Linux-libre
+","none","openrc or systemd","none","No"
+"Pardus , URL: /wiki/Pardus_(operating_system)
+","Binary blobs","ext4","systemd","KDE Plasma Workspaces","No"
+"Parsix , URL: /wiki/Parsix
+","Binary blobs","ext4","systemd","GNOME","No"
+"PCLinuxOS , URL: /wiki/PCLinuxOS
+","Binary blobs","none","sysvinit","KDE Plasma Workspaces, GNOME, LXDE, Xfce, Enlightenment, Openbox","No"
+"Pentoo , URL: /wiki/Pentoo
+","Binary blobs","SquashFS","openrc","Enlightenment","No"
+"Porteus , URL: /wiki/Porteus_(operating_system)
+","Binary blobs","Squashfs, ext2, ext3, ext4, FAT32, reiser, xfs","sysvinit","KDE, LXDE, Xfce, Openbox, Razor-qt","No"
+"Puppy Linux , URL: /wiki/Puppy_Linux
+","Binary blobs","SquashFS containing ext2","busybox-init","JWM","No"
+"Red Hat Enterprise Linux , URL: /wiki/Red_Hat_Enterprise_Linux
+","Binary blobs","xfs","systemd","GNOME","No"
+"Rxart Desktop , URL: /wiki/Pixart
+","Binary blobs","ext3","?","KDE Plasma Workspaces","No"
+"Sabayon Linux , URL: /wiki/Sabayon_Linux
+","Binary blobs","ext4[112]","systemd","KDE Plasma Workspaces, GNOME","No"
+"Scientific Linux , URL: /wiki/Scientific_Linux
+","Binary blobs","ext4","sysvinit, systemd[113]","GNOME","No"
+"Slackware , URL: /wiki/Slackware
+","Binary blobs[86]","ext4, ext3, ext2, reiserfs, brtfs, xfs","RC.d and sysvinit compatible","Blackbox , URL: /wiki/Blackbox
+twm , URL: /wiki/Twm
+","No"
+"Slax , URL: /wiki/Slax
+","Binary blobs","SquashFS","sysvinit","KDE Plasma Workspaces","No"
+"SliTaz GNU/Linux , URL: /wiki/SliTaz_GNU/Linux
+","Binary blobs","ext3","busybox-init","Openbox","No"
+"Solus , URL: /wiki/Solus_(operating_system)
+","Binary blobs","ext4","systemd","Budgie , URL: /wiki/Budgie_(desktop_environment)
+","No"
+"Source Mage GNU/Linux , URL: /wiki/Source_Mage_GNU/Linux
+","Binary blobs","ext2","simpleinit-msb","none","No"
+"SteamOS , URL: /wiki/SteamOS
+","Binary blobs","?","systemd","Steam , URL: /wiki/Steam_(service)
+","No"
+"SUSE Linux Enterprise Desktop , URL: /wiki/SUSE_Linux_Enterprise_Desktop
+","Binary blobs[86]","btrfs[114]","systemd","GNOME","No"
+"Tails , URL: /wiki/The_Amnesic_Incognito_Live_System
+","Vanilla Linux[86]","?","systemd","GNOME","Reproducible ISO and USB images[115][116]"
+"Trisquel , URL: /wiki/Trisquel
+","Linux-libre , URL: /wiki/Linux-libre
+","ext4, xfs","systemd , URL: /wiki/Systemd
+","GNOME , URL: /wiki/GNOME
+LXDE , URL: /wiki/LXDE
+","No"
+"TurnKey GNU/Linux , URL: /wiki/TurnKey_Linux_Virtual_Appliance_Library
+","Binary blobs","ext4","systemd","Webmin , URL: /wiki/Webmin
+","No"
+"Ubuntu , URL: /wiki/Ubuntu_(operating_system)
+Edubuntu , URL: /wiki/Edubuntu
+","Binary blobs[86]","ext4[117]","systemd","GNOME , URL: /wiki/GNOME
+","No"
+"Ubuntu GNOME , URL: /wiki/Ubuntu_GNOME
+","Binary blobs","ext4","systemd","GNOME 3","No"
+"Ubuntu MATE , URL: /wiki/Ubuntu_MATE
+","Binary blobs","ext4","systemd","MATE","No"
+"Kubuntu , URL: /wiki/Kubuntu
+","Binary blobs","ext4[117]","systemd","KDE Plasma Workspaces","No"
+"Xubuntu , URL: /wiki/Xubuntu
+","Binary blobs","ext4[117]","systemd","Xfce","No"
+"Lubuntu , URL: /wiki/Lubuntu
+","Binary blobs","ext4","systemd","LXQt","No"
+"Ututo , URL: /wiki/Ututo
+","Linux-libre , URL: /wiki/Linux-libre
+Linux-libre , URL: /wiki/Linux-libre
+","ext3","systemd","GNOME","No"
+"VectorLinux , URL: /wiki/VectorLinux
+","Binary blobs","ReiserFS","sysvinit","KDE, Openbox, Fluxbox, IceWM, Xfce","No"
+"Void Linux , URL: /wiki/Void_Linux
+","Binary blobs","none","runit","none","No"
+"Webconverger , URL: /wiki/Webconverger
+","Binary blobs","gitfs","sysvinit","dwm , URL: /wiki/Dwm
+","No"
+"XBMC Live , URL: /wiki/XBMC_Live
+","Binary blobs","ext3","systemd , URL: /wiki/Systemd
+","XBMC Media Center , URL: /wiki/XBMC_Media_Center
+","No"
+"Zentyal , URL: /wiki/Zentyal
+","Binary blobs","ext4","systemd","LXDE","No"
+"Zenwalk , URL: /wiki/Zenwalk
+","Binary blobs","ext4","sysvinit","Xfce","No"
+"Distribution","Default Linux kernel","Default file system","Default init system","Install-time desktop environment or window manager selection","Reproducible builds , URL: /wiki/Reproducible_builds
+"

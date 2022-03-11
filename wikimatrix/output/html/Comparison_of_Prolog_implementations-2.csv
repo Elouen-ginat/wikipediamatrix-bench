@@ -1,0 +1,15 @@
+"Name","Type checker","Determinacy checker","Call-pattern checker"
+"Ciao , URL: /wiki/Ciao_(programming_language)
+","Yes","Yes","Yes"
+"GNU Prolog , URL: /wiki/GNU_Prolog
+","","",""
+"SICStus Prolog , URL: /wiki/SICStus_Prolog
+","","Yes",""
+"SWI-Prolog , URL: /wiki/SWI-Prolog
+","","Yes",""
+"Visual Prolog , URL: /wiki/Visual_Prolog
+","Yes","Yes","Yes"
+"XSB , URL: /wiki/XSB
+","","",""
+"YAP-Prolog , URL: /wiki/YAP-Prolog
+","","",""

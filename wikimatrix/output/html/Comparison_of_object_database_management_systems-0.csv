@@ -1,0 +1,114 @@
+"Name","Current Stable Version","Language(s) , URL: /wiki/Computer_languages
+","SQL , URL: /wiki/SQL
+","Datatypes , URL: /wiki/Datatypes
+","License , URL: /wiki/Software_license
+","Description",""
+"Caché , URL: /wiki/Cach%C3%A9_(software)
+","2017.2.1","Caché ObjectScript , URL: /wiki/Cach%C3%A9_ObjectScript
+","SQL subset. Object notation allowed. Supports embedded SQL, dynamic SQL and xDBC access.","","Proprietary , URL: /wiki/Proprietary_software
+","MUMPS ancestry. Includes built-in support for XML, Web/AJAX and an EMB system called Ensemble. Supports embedded, client/server and distributed implementations.",""
+"ConceptBase , URL: /wiki/ConceptBase
+","8.1.13 (2019-12-09)","Telos , URL: /w/index.php?title=Telos_(computer_science)&action=edit&redlink=1
+","Datalog , URL: /wiki/Datalog
+","no types but classes","open source, FreeBSD-style license","historical db, active rules, meta-modeling, deductive rules",""
+"Db4o , URL: /wiki/Db4o
+","8.0 (2011-03-09)","C# , URL: /wiki/C_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+","db4o-sql , URL: https://code.google.com/p/db4o-sql/
+",".NET and Java data types","GPL , URL: /wiki/GPL
+proprietary , URL: /wiki/Proprietary_software
+","Native Queries, LINQ support, automatic schema evolution, Transparent Activation/Persistence, replication to RDBMS, Object Manager plugin for Visual Studio and Eclipse",""
+"GemStone/S , URL: /wiki/Gemstone_(database)
+","3.6.0","Smalltalk , URL: /wiki/Smalltalk
+","None","Objects and code","Proprietary , URL: /wiki/Proprietary_software
+","GemTalk Systems , URL: /w/index.php?title=GemTalk_Systems&action=edit&redlink=1
+",""
+"ObjectDatabase++ , URL: /wiki/ObjectDatabase%2B%2B
+","4.4 (2015-07-03)","TScript , URL: /wiki/TScript
+","","","Proprietary , URL: /wiki/Proprietary_software
+","Embedded",""
+"ObjectDB , URL: /wiki/ObjectDB
+","2.4.6","Java","JPA , URL: /wiki/Java_Persistence_API
+JDO , URL: /wiki/Java_Data_Objects
+","","Proprietary , URL: /wiki/Proprietary_software
+","",""
+"ObjectFile , URL: /w/index.php?title=ObjectFile&action=edit&redlink=1
+","4.14","C++, XML","None","Objects, References, BLOB's, C types.","MIT License , URL: /wiki/Proprietary_software
+","Very fast loading. Full source code for easy porting and debugging. Database versioning supported. Byte order conversion supported for cross-platform support. Memory efficient. Objects can be in or out of memory. Binary Large Object (BLOB) support.XML object and full database representation can be generated. Import and export objects from xml. Proven in a large desktop application. Small footprint. Database files can be small or very large.Cross-platform and portable. Portable file format. Open source and free to use.",""
+"Objectivity/DB , URL: /wiki/Objectivity/DB
+","10.2.1","C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+Python , URL: /wiki/Python_(programming_language)
+Smalltalk , URL: /wiki/Smalltalk
+XML , URL: /wiki/XML
+","SQL superset","","Proprietary , URL: /wiki/Proprietary_software
+","Distributed, Parallel Query Engine",""
+"ObjectStore , URL: /wiki/Objectstore
+","7.2 (July 2011)","C++ , URL: /wiki/C%2B%2B
+Java , URL: /wiki/Java_(programming_language)
+","SQL subset (also has own object query language)","","Proprietary , URL: /wiki/Proprietary_software
+","Embedded database supporting efficient, distributed management of C++ and Java objects. Avoids the complexities and limitations of ORM products such as Hibernate by storing objects directly with their relationships intact. Uses a page-based mapping system for fast locking and efficient, distributed, client-side caching.",""
+"ODABA , URL: /wiki/ODABA
+","12.3.0 (August 2013)","C++, .NET","SQL subset, DQL","Basic Types, Classes, Multiple inheritance, Weak Typed","GPL , URL: /wiki/GNU_GPL
+","Terminology-oriented database , URL: /wiki/Terminology-oriented_database
+",""
+"OpenAccess , URL: /wiki/OpenAccess
+","2.2","C++ , URL: /wiki/C%2B%2B
+","no","","Proprietary , URL: /wiki/Proprietary_software
+","EDA database , URL: /wiki/EDA_database
+",""
+"OpenLink Virtuoso , URL: /wiki/Virtuoso_Universal_Server
+","7.2.5.1","C++ , URL: /wiki/C%2B%2B
+Java/JSP , URL: /wiki/Java_(programming_language)
+ASPX , URL: /wiki/ASPX
+RDF , URL: /wiki/Resource_Description_Framework
+SPARQL , URL: /wiki/SPARQL
+SPARUL , URL: /wiki/SPARUL
+SQL , URL: /wiki/SQL
+Python , URL: /wiki/Python_(programming_language)
+PHP , URL: /wiki/PHP
+Ruby , URL: /wiki/Ruby_(programming_language)
+XML , URL: /wiki/XML
+","SQL 9x/200x","","GPL , URL: /wiki/GNU_GPL
+","",""
+"Perst , URL: /wiki/Perst
+","Java: 4.38 (2015-03-18) C#: 4.46 (2014-08-23)","Java , URL: /wiki/Java_(programming_language)
+Java SE , URL: /wiki/Java_SE
+Java ME , URL: /wiki/Java_ME
+Android , URL: /wiki/Android_(operating_system)
+C# , URL: /wiki/C_Sharp_(programming_language)
+.NET , URL: /wiki/.NET_Framework
+.NET Compact Framework , URL: /wiki/.NET_Compact_Framework
+Mono , URL: /wiki/Mono_(software)
+Silverlight , URL: /wiki/Silverlight
+","JSQL - object-oriented subset of SQL","Java and .NET data types","GPL , URL: /wiki/GPL
+","embedded database , URL: /wiki/Embedded_database
+indexes , URL: /wiki/Database_index
+collection classes , URL: /wiki/Collection_class
+LINQ , URL: /wiki/LINQ
+ACID transactions , URL: /wiki/ACID
+full text search , URL: /wiki/Full_text_search
+",""
+"Picolisp , URL: /wiki/Picolisp
+","3.1.1","Picolisp","","","MIT License , URL: /wiki/MIT_License
+","DB built into the language",""
+"Versant Object Database / JPA / FastObjects , URL: /wiki/Versant_Object_Database
+","9.1 / 3.0 / 12.0 (2015-10-21)","C++ , URL: /wiki/C%2B%2B
+Java , URL: /wiki/Java_(programming_language)
+C# , URL: /wiki/C_Sharp_(programming_language)
+","OQL (ODMG 3.0) , URL: http://www.odbms.org/odmg-standard/
+","","Proprietary , URL: /wiki/Proprietary_software
+","",""
+"WakandaDB , URL: /wiki/Wakanda_(software)
+","4","JavaScript , URL: /wiki/JavaScript
+C++ , URL: /wiki/C%2B%2B
+","REST , URL: /wiki/REST
+","JavaScript , URL: /wiki/JavaScript
+4D , URL: /wiki/4th_Dimension_(software)
+","AGPL , URL: /wiki/Affero_General_Public_License
+","NoSQL REST / Server-Side JavaScript engine. Integrates Webkit JavaScriptCore engine with HTML5 JS APIs supported on the server. Tables and columns are replaced by JavaScript DataClasses and attributes.",""
+"Zope Object Database , URL: /wiki/Zope_Object_Database
+","","Python , URL: /wiki/Python_(programming_language)
+","No support. Object indexing and searching is done through ZCatalog facility.","","Zope Public License , URL: /wiki/Zope_Public_License
+","",""

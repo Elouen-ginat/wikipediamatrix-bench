@@ -1,0 +1,75 @@
+"Assembler","Developer","FOSS , URL: /wiki/Free_and_open-source_software
+","License , URL: /wiki/Software_license
+","Instruction set , URL: /wiki/Instruction_set
+","platform , URL: /wiki/Computing_platform
+"
+"Autocoder , URL: /wiki/Autocoder
+","IBM , URL: /wiki/IBM
+","","Free","IBM 1400 series , URL: /wiki/IBM_1400_series
+","IBM 1401, 1440, 1460"
+"Babbage , URL: /wiki/Babbage_(programming_language)
+","","No","Proprietary , URL: /wiki/Proprietary_software
+","GEC 4000 series , URL: /wiki/GEC_4000_series
+","GEC 4000 series , URL: /wiki/GEC_4000_series
+"
+"MACRO-10 , URL: /wiki/MACRO-10
+","Digital Equipment Corporation , URL: /wiki/Digital_Equipment_Corporation
+","","Free","PDP-10 , URL: /wiki/PDP-10
+","PDP-10 , URL: /wiki/PDP-10
+"
+"MACRO-11 , URL: /wiki/MACRO-11
+","Digital Equipment Corporation , URL: /wiki/Digital_Equipment_Corporation
+","","Free","PDP-11 , URL: /wiki/PDP-11
+","PDP-11 , URL: /wiki/PDP-11
+"
+"vasm","","","Free","Zilog Z80 , URL: /wiki/Zilog_Z80
+Motorola 6800 family , URL: /wiki/Motorola_6800_family
+","various"
+"GPASM , URL: /wiki/GPUTILS
+","James Bowman, Craig Franklin, David Barnett","Yes","GNU GPL , URL: /wiki/GNU_General_Public_License
+","PIC microcontroller , URL: /wiki/PIC_microcontroller
+","many"
+"MIPS , URL: /wiki/MIPS_architecture
+","","","Free","MIPS , URL: /wiki/MIPS_architecture
+","MIPS , URL: /wiki/MIPS_architecture
+"
+"Symbolic Optimal Assembly Program , URL: /wiki/Symbolic_Optimal_Assembly_Program
+","IBM","","Free","IBM 650 , URL: /wiki/IBM_650
+","IBM 650 , URL: /wiki/IBM_650
+"
+"Technical Assembly System (TASS)","","","Free","IBM 650 , URL: /wiki/IBM_650
+","IBM 650 , URL: /wiki/IBM_650
+"
+"Symbolic Programming System , URL: /wiki/Symbolic_Programming_System
+","Gary Mokotoff , URL: /wiki/Gary_Mokotoff
+","","Free","14xx , URL: /wiki/IBM_1401
+1620 , URL: /wiki/IBM_1620
+1710 , URL: /wiki/IBM_1710
+","IBM 1401, 1440, 1460, 1620, 1710"
+"ASMB, ASBL, NSBL - Numeric op codes, used for 1900 Operating System Executive","","No","Proprietary , URL: /wiki/Proprietary_software
+","ICL 1900 , URL: /wiki/ICL_1900
+","ICL 1900 , URL: /wiki/ICL_1900
+"
+"GEORGE (operating system) , URL: /wiki/GEORGE_(operating_system)
+","","No","Proprietary , URL: /wiki/Proprietary_software
+","ICL 1900 , URL: /wiki/ICL_1900
+","ICL 1900 , URL: /wiki/ICL_1900
+"
+"PLAN mnemonic opcodes, used for commercial 1900 programs","","No","Proprietary , URL: /wiki/Proprietary_software
+","ICL 1900 , URL: /wiki/ICL_1900
+","ICL 1900 , URL: /wiki/ICL_1900
+"
+"Single Address Assembly Language (SAAL)","","","Free","UNIVAC 1005 , URL: /wiki/UNIVAC_1005
+","UNIVAC 1005 , URL: /wiki/UNIVAC_1005
+"
+"Sleuth","","","Free","UNIVAC 1107 , URL: /wiki/UNIVAC_1107
+","EXEC , URL: /wiki/UNIVAC_EXEC_I
+EXEC II , URL: /wiki/UNIVAC_EXEC_II
+EXEC 8 , URL: /wiki/UNIVAC_EXEC_8
+"
+"Meta Assembler (MASM)","","","Free","UNIVAC 1100/2200 series , URL: /wiki/UNIVAC_1100/2200_series
+","UNIVAC EXEC 8 , URL: /wiki/UNIVAC_EXEC_8
+"
+"UTMOST","","","?","UNIVAC III , URL: /wiki/UNIVAC_III
+","UNIVAC III , URL: /wiki/UNIVAC_III
+"

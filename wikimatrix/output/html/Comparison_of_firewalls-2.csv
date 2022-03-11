@@ -1,0 +1,21 @@
+"Can Target:","Changing default policy to accept/reject (by issuing a single rule)","IP destination address(es)","IP source address(es)","TCP/UDP destination port(s)","TCP/UDP source port(s)","Ethernet MAC destination address","Ethernet MAC source address","Inbound firewall (ingress)","Outbound firewall (egress)"
+"Trend Micro Internet Security , URL: /wiki/Trend_Micro_Internet_Security
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes"
+"Vyatta , URL: /wiki/Vyatta
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes"
+"Windows XP Firewall , URL: /wiki/Windows_Firewall#Windows_XP
+","No","No","Yes","Partial[a]","No","No","No","Yes","No"
+"Windows Vista Firewall , URL: /wiki/Windows_Firewall#Windows_Vista
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes"
+"Windows 7 / Windows 2008 R2 Firewall , URL: /wiki/Windows_Firewall#Windows_7
+","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes"
+"WinGate , URL: /wiki/WinGate
+","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes"
+"Zeroshell , URL: /wiki/Zeroshell
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Zorp , URL: /wiki/Zorp_firewall
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No"
+"pfSense , URL: /wiki/PfSense
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes"
+"IPFire , URL: /wiki/IPFire
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"

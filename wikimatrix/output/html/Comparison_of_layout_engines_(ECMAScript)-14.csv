@@ -1,0 +1,16 @@
+"Error object","MSHTML , URL: /wiki/MSHTML
+","Gecko , URL: /wiki/Gecko_(software)
+","WebKit , URL: /wiki/WebKit
+","Presto , URL: /wiki/Presto_(browser_engine)
+"
+"Called as function","Called as function","Called as function","Called as function","Called as function"
+"Error (message)","?","?","?","?"
+"Called as constructor","Called as constructor","Called as constructor","Called as constructor","Called as constructor"
+"new Error (message)","5.0","1.0","Yes","1.0"
+"Properties","Properties","Properties","Properties","Properties"
+"prototype","5.0","1.0","Yes","1.0"
+"Properties of prototype","Properties of prototype","Properties of prototype","Properties of prototype","Properties of prototype"
+"constructor","5.0","1.0","Yes","1.0"
+"name","5.5","1.0","Yes","1.0"
+"message","5.5","1.0","Yes","1.0"
+"toString()","5.0","1.0","Yes","1.0"

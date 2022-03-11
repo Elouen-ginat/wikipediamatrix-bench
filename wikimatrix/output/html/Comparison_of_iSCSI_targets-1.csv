@@ -1,4 +1,55 @@
-"","This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages) This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of iSCSI targets" – news · newspapers · books · scholar · JSTOR (September 2009) (Learn how and when to remove this template message) This article may be confusing or unclear to readers. Please help clarify the article. There might be a discussion about this on the talk page. (September 2009) (Learn how and when to remove this template message) A major contributor to this article appears to have a close connection with its subject. It may require cleanup to comply with Wikipedia's content policies, particularly neutral point of view. Please discuss further on the talk page. (August 2010) (Learn how and when to remove this template message) (Learn how and when to remove this template message)","","This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of iSCSI targets" – news · newspapers · books · scholar · JSTOR (September 2009) (Learn how and when to remove this template message)","","This article may be confusing or unclear to readers. Please help clarify the article. There might be a discussion about this on the talk page. (September 2009) (Learn how and when to remove this template message)","","A major contributor to this article appears to have a close connection with its subject. It may require cleanup to comply with Wikipedia's content policies, particularly neutral point of view. Please discuss further on the talk page. (August 2010) (Learn how and when to remove this template message)"
-"","This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of iSCSI targets" – news · newspapers · books · scholar · JSTOR (September 2009) (Learn how and when to remove this template message)","null","null","null","null","null","null"
-"","This article may be confusing or unclear to readers. Please help clarify the article. There might be a discussion about this on the talk page. (September 2009) (Learn how and when to remove this template message)","null","null","null","null","null","null"
-"","A major contributor to this article appears to have a close connection with its subject. It may require cleanup to comply with Wikipedia's content policies, particularly neutral point of view. Please discuss further on the talk page. (August 2010) (Learn how and when to remove this template message)","null","null","null","null","null","null"
+"Function","FalconStor , URL: /wiki/FalconStor
+","FreeNAS , URL: /wiki/FreeNAS
+","Microsoft , URL: /wiki/Microsoft
+Windows Storage Server , URL: /wiki/Windows_Storage_Server
+","Open-E [2]","Openfiler , URL: /wiki/Openfiler
+"
+"Continuous Data Protection , URL: /wiki/Continuous_Data_Protection
+","Yes","No","Yes","Yes","Yes"
+"Snapshot , URL: /wiki/Snapshot_(computer_storage)
+","Yes","Yes","Yes","Yes","Yes"
+"Mirroring , URL: /wiki/Disk_mirroring
+Replication , URL: /wiki/Replication_(computer_science)
+","Yes","Yes","Yes","Yes","Yes"
+"Thin Provisioning , URL: /wiki/Thin_Provisioning
+","Yes","No","Yes","No","No"
+"I/O caching , URL: /wiki/Cache_(computing)
+","Yes","No","Yes","No","Yes"
+"Challenge Handshake Authentication Protocol (CHAP) , URL: /wiki/Challenge-handshake_authentication_protocol
+","Yes","Yes","Yes","Yes","Yes"
+"CHAP , URL: /wiki/Challenge-Handshake_Authentication_Protocol
+","No","No","No","No","No"
+"IPsec tunnelling , URL: /wiki/IPsec_tunnelling
+","No","No","Yes","Yes","No"
+"Software RAID , URL: /wiki/Software_RAID
+","No","Yes","Yes","Yes","Yes"
+"Virtual Optical Drive , URL: /wiki/RAM_drive
+","No","Yes","Yes","Yes","Yes"
+"Virtual tape library , URL: /wiki/Virtual_tape_library
+","Yes","No","No","Yes","No"
+"Microsoft Management Console , URL: /wiki/Microsoft_Management_Console
+","No","Yes","No","No","No"
+"PerfMon , URL: /w/index.php?title=PerfMon&action=edit&redlink=1
+","No","No","Yes","No","No"
+"High availability , URL: /wiki/High_availability
+","Yes","No","Yes","Yes, but unstable [3]","No"
+"VHD , URL: /wiki/VHD_(file_format)
+","Yes","CHAP , URL: /wiki/Challenge-handshake_authentication_protocol
+","Yes","Yes","No"
+"Dynamically expanding file support","Yes","No","No","No","No"
+"Virtual Burner , URL: /wiki/Virtual_Burner
+","No","No","No","No","No"
+"EventViewer , URL: /w/index.php?title=EventViewer&action=edit&redlink=1
+","No","No","Yes","No","No"
+"MPIO , URL: /wiki/Multipath_I/O
+","Yes","No","Yes","Yes","Yes"
+"Windows , URL: /wiki/Windows
+Volume Snapshot Service , URL: /wiki/Volume_Snapshot_Service
+","No","No","Yes","No","No"
+"VMware , URL: /wiki/VMware
+","No","No","No","No","No"
+"Remote management , URL: /w/index.php?title=Remote_management&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","Yes"
+"Network Interface Controller , URL: /wiki/Network_Interface_Controller
+","Yes","Yes","Yes","Yes","Yes (Old v:1)"
+"Storage unlimited","No 64 TB","Yes","Yes","No 4/8/16 (more need additional license)","Yes"

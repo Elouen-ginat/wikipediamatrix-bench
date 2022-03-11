@@ -1,0 +1,207 @@
+"","OS support","OS support","OS support","Protocol support","Protocol support","Protocol support","Protocol support","Protocol support","Protocol support","Protocol support","Features","Features","Features","Features","Features","Features","Features","Storage","Storage","License , URL: /wiki/Software_license
+"
+"Mail server","Linux , URL: /wiki/Linux
+Unix , URL: /wiki/Unix
+","Windows , URL: /wiki/Microsoft_Windows
+","macOS , URL: /wiki/MacOS
+","SMTP , URL: /wiki/Simple_Mail_Transfer_Protocol
+","POP3 , URL: /wiki/Post_Office_Protocol
+","IMAP , URL: /wiki/Internet_Message_Access_Protocol
+","JMAP , URL: /wiki/JSON_Meta_Application_Protocol
+","IDLE , URL: /wiki/IMAP_IDLE
+","SMTPS , URL: /wiki/SMTPS
+","POP3S , URL: /wiki/Post_Office_Protocol#STARTTLS
+","IPv6 , URL: /wiki/IPv6
+","SSL , URL: /wiki/Transport_Layer_Security
+","DANE , URL: /wiki/DNS-based_Authentication_of_Named_Entities
+","Webmail , URL: /wiki/Webmail
+","ActiveSync , URL: /wiki/Exchange_ActiveSync
+","Sieve , URL: /wiki/Sieve_(mail_filtering_language)
+","IDN , URL: /wiki/International_email
+UTF8 , URL: /wiki/Simple_Mail_Transfer_Protocol#SMTPUTF8
+","Database , URL: /wiki/Database
+","File-based , URL: /wiki/File_system
+","License , URL: /wiki/Software_license
+"
+"agorum core , URL: /wiki/Agorum_core
+","Yes","Yes","No","Yes","No","Yes","No","No","No","No","No","Yes","No","Yes","No","No","?","Yes","No","GPLv2 , URL: /wiki/GNU_General_Public_License
+"
+"Apache James , URL: /wiki/Apache_James
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","?","No","No","Yes","?","Yes","Yes","ASLv2 , URL: /wiki/Apache_Software_License
+"
+"Axigen , URL: /wiki/Axigen
+","Yes","Yes","No","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes","Yes","?","Ajax, Basic & Mobile","Yes","Yes","Yes","Embedded, Optimized for Email & Groupware","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"Citadel , URL: /wiki/Citadel/UX
+","Yes","No","Yes","Yes","Yes","Yes","?","No","Yes","Yes","Yes","Yes","?","Yes","No","Yes","?","Yes","No","GPLv3 , URL: /wiki/GNU_General_Public_License
+"
+"CommuniGate Pro , URL: /wiki/CommuniGate_Pro
+","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes","?","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"Courier Mail Server , URL: /wiki/Courier_Mail_Server
+","Yes","No","Yes","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes","Yes","No","Yes","No","maildrop , URL: /wiki/Maildrop
+","Yes","No","maildir , URL: /wiki/Maildir
+","GPLv3+ , URL: /wiki/GNU_General_Public_License
+"
+"Cyrus IMAP , URL: /wiki/Cyrus_IMAP
+","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes[3]","Yes","Yes","Yes","No","No","No","Yes","No[4]","Indexes only","Yes","BSD 4-clause , URL: /wiki/BSD_4-Clause_License
+"
+"Dovecot , URL: /wiki/Dovecot_(software)
+","Yes[6]","No","Yes","Yes[7]","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","No","Yes","maildir , URL: /wiki/Maildir
+mbox , URL: /wiki/Mbox
+","MIT , URL: /wiki/MIT_License
+LGPL-2.1 , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"Eudora Internet Mail Server , URL: /wiki/Eudora_Internet_Mail_Server
+","No","No","Yes","Yes","Yes","Yes","?","?","No","No","?","No","?","No","No","?","?","No","No","Proprietary , URL: /wiki/Proprietary_software
+"
+"Exim , URL: /wiki/Exim
+","Yes","Yes (via Cygwin)","Yes","Yes","Dovecot , URL: /wiki/Dovecot_(software)
+UW IMAP , URL: /wiki/UW_IMAP
+","Dovecot , URL: /wiki/Dovecot_(software)
+UW IMAP , URL: /wiki/UW_IMAP
+","?","Dovecot , URL: /wiki/Dovecot_(software)
+UW IMAP , URL: /wiki/UW_IMAP
+","Yes","No","Yes","Yes","Yes[10]","No","No","Yes","Yes","Yes","Yes","GPLv2+ , URL: /wiki/GPL
+"
+"FirstClass , URL: /wiki/FirstClass
+","Yes","Yes","Yes","Yes","Yes","Yes","?","?","Yes","Yes","?","Yes","?","Yes","Yes","?","?","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"Gordano Messaging Suite , URL: /wiki/Gordano_Messaging_Suite
+","Yes","Yes","No","Yes","Yes","Yes","?","Yes","Yes","Yes","?","Yes","?","Yes","Yes","No","?","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"GroupWise , URL: /wiki/GroupWise
+","Yes","Yes","No","Yes","Yes","Yes","?","?","Yes","Yes","?","Yes","?","Yes","Yes","?","?","Yes","No","Proprietary , URL: /wiki/Proprietary_software
+"
+"Halon , URL: /wiki/Halon_(software)
+","Yes","No","No","Yes","No","No","?","No","Yes","No","Yes","Yes","Yes[12]","No","No","?","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"Haraka , URL: /wiki/Haraka_(software)
+","Yes","Yes","Yes","Yes","No","No","?","No","Yes","No","Yes","Yes","?","No","No","?","Yes","Yes","Yes","MIT , URL: /wiki/MIT_License
+"
+"hMailServer , URL: /wiki/HMailServer
+","No","Yes","No","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes","Yes","?","Yes","No","?","No","Yes","Yes","GNU AGPL , URL: /wiki/GNU_AGPL
+"
+"IBM , URL: /wiki/IBM
+Lotus Domino , URL: /wiki/Lotus_Domino
+","Yes","Yes","No","Yes","Yes","Yes","?","No","Yes","Yes","Yes","Yes","No","Yes","No","?","No","Yes","No","Proprietary , URL: /wiki/Proprietary_software
+"
+"IceWarp Mail Server , URL: /wiki/IceWarp_Mail_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","No","?","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"Ipswitch IMail Server , URL: /wiki/Ipswitch_IMail_Server
+","No","Yes","No","Yes","Yes","Yes","?","Yes (since v12.2)[13]","Yes","Yes","?","Yes","?","Yes","Yes","?","?","No","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"Kerio Connect , URL: /wiki/Kerio_Connect
+","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes","Yes","?","No","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"Kolab , URL: /wiki/Kolab
+","Yes","No","No","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes","GPLv3 , URL: /wiki/GNU_General_Public_License
+"
+"Kopano , URL: /wiki/Kopano_(software)
+","Yes","No","No","postfix, etc.[14]","Yes","Yes","No","Yes","postfix","Yes","Yes","Yes","postfix","Yes","z-push","No","Yes","SQL","Yes","AGPLv3 , URL: /wiki/Affero_General_Public_License
+"
+"Mailsite , URL: /wiki/Mailsite
+","No","Yes","No","Yes","Yes","Yes","?","?","Yes","Yes","?","Yes","?","Yes","Yes","Yes","?","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"Mailtraq , URL: /wiki/Mailtraq
+","No","Yes","No","Yes","Yes","Yes","?","Yes","Yes","Yes","?","Yes","?","Yes","No","?","?","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"MDaemon , URL: /wiki/MDaemon
+","No","Yes","No","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","No","Not IMAP","No","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"Mercury Mail Transport System , URL: /wiki/Mercury_Mail_Transport_System
+","No","Yes","No","Yes","Yes","Yes","?","Yes","Yes","Yes","No","Yes","No","Yes","No","No","No","No","Yes","Proprietary donationware"
+"Microsoft Exchange Server , URL: /wiki/Microsoft_Exchange_Server
+","No","Yes","No","Yes","Yes","Yes","No","Yes[16][17]","Yes","Yes","Yes [18]","Yes","No","Yes","Yes","3rd Party support","Not IMAP","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"NetMail , URL: /wiki/NetMail
+","Yes","Yes","No","Yes","Yes","Yes","?","?","Yes","Yes","?","Yes","?","Yes","No","?","?","Yes","No","Proprietary , URL: /wiki/Proprietary_software
+"
+"OpenSMTPD , URL: /wiki/OpenSMTPD
+","Yes","No","Yes","Yes","No","No","No","No","Yes","No","Yes","Yes","No[19]","No","No","?","No","via custom backends","Yes","ISC , URL: /wiki/ISC_license
+"
+"Open-Xchange , URL: /wiki/Open-Xchange
+","Yes","No","No","Yes","Yes","Yes","?","?","Yes","Yes","?","Yes","?","Yes","Yes","?","?","Yes","No","SaaS , URL: /wiki/SaaS
+"
+"Oracle Communications Messaging Server , URL: /wiki/Oracle_Communications_Messaging_Server
+","Yes","No","No","Yes","Yes","Yes","?","?","Yes","Yes","?","Yes","?","Yes","No","?","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"Postfix , URL: /wiki/Postfix_(software)
+","Yes","No","Yes","Yes","Dovecot , URL: /wiki/Dovecot_(software)
+UW IMAP , URL: /wiki/UW_IMAP
+","Dovecot , URL: /wiki/Dovecot_(software)
+UW IMAP , URL: /wiki/UW_IMAP
+","?","Dovecot , URL: /wiki/Dovecot_(software)
+UW IMAP , URL: /wiki/UW_IMAP
+","Yes","No","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","IBM Public License , URL: /wiki/IBM_Public_License
+"
+"qmail , URL: /wiki/Qmail
+","Yes","No","Yes","Yes","Yes","Dovecot , URL: /wiki/Dovecot_(software)
+UW IMAP , URL: /wiki/UW_IMAP
+","?","Dovecot , URL: /wiki/Dovecot_(software)
+UW IMAP , URL: /wiki/UW_IMAP
+","No","Dovecot , URL: /wiki/Dovecot_(software)
+UW IMAP , URL: /wiki/UW_IMAP
+","via Qsmtp","No","No","No","No","?","?","(cdb)","Yes","Public domain , URL: /wiki/Public_domain
+"
+"Qpopper , URL: /wiki/Qpopper
+","Yes","Yes (via Cygwin)","Yes","No","Yes","No","?","No","No","Yes","?","Yes","?","No","No","?","?","No","Yes","BSD-style , URL: https://web.archive.org/web/20130221075156if_/http://www.eudora.com/products/unsupported/qpopper/license.html
+"
+"Scalix , URL: /wiki/Scalix
+","Yes","No","No","Yes","Yes","Yes","?","Yes","Stunnel , URL: /wiki/Stunnel
+","Stunnel , URL: /wiki/Stunnel
+","?","Stunnel , URL: /wiki/Stunnel
+","?","Yes","Yes","?","?","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+Freeware , URL: /wiki/Freeware
+"
+"Sendmail , URL: /wiki/Sendmail
+","Yes","No","Yes","Yes","Dovecot , URL: /wiki/Dovecot_(software)
+UW IMAP , URL: /wiki/UW_IMAP
+","Dovecot , URL: /wiki/Dovecot_(software)
+UW IMAP , URL: /wiki/UW_IMAP
+","?","Dovecot , URL: /wiki/Dovecot_(software)
+UW IMAP , URL: /wiki/UW_IMAP
+","Yes","No","Yes","Yes","Yes (since 8.16)[22]","No","No","No","Yes","?","Yes","Sendmail License , URL: https://ftp.sendmail.org/LICENSE
+"
+"SparkEngine , URL: /wiki/SparkEngine
+","Yes","Yes","Yes","Yes","No","No","?","No","Yes","No","?","Yes","?","No","No","?","?","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"UW IMAP , URL: /wiki/UW_IMAP
+","Yes","Yes","Yes","No","Yes","Yes","?","Yes","No","Yes","Yes","Yes","No","WebPine , URL: /wiki/Pine_(e-mail_client)
+","No","No","?","Yes (Indexes)","Yes","Apache License 2.0 , URL: /wiki/Apache_license
+"
+"WinGate , URL: /wiki/WinGate_(computing)
+","No","Yes","No","Yes","Yes","Yes","?","Yes","Yes","Yes","No","Yes","?","Yes","No","?","?","No","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"Zarafa , URL: /wiki/Zarafa_(software)
+","Yes","No","No","postfix etc.[14]","Yes","Yes","No","Yes","postfix","Yes","Yes","Yes","postfix","Yes","z-push","No","No","SQL","Yes","AGPLv3 , URL: /wiki/Affero_General_Public_License
+"
+"Zentyal , URL: /wiki/Zentyal
+","Yes","No","No","Yes","Yes","Yes","?","Yes","Yes","Yes","No","Yes","?","Yes","Yes","?","?","Yes","Yes","Proprietary, 45-day trial"
+"Zimbra , URL: /wiki/Zimbra
+","Yes","No","Yes","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","ZPL , URL: https://www.zimbra.com/legal/zimbra-public-license-1-4/
+"
+"Mail server","Linux , URL: /wiki/Linux
+Unix , URL: /wiki/Unix
+","Windows , URL: /wiki/Microsoft_Windows
+","macOS , URL: /wiki/MacOS
+","SMTP , URL: /wiki/Simple_Mail_Transfer_Protocol
+","POP3 , URL: /wiki/Post_Office_Protocol
+","IMAP , URL: /wiki/Internet_Message_Access_Protocol
+","JMAP , URL: /wiki/JSON_Meta_Application_Protocol
+","IDLE , URL: /wiki/IMAP_IDLE
+","SMTPS , URL: /wiki/SMTPS
+","POP3S , URL: /wiki/Post_Office_Protocol#STARTTLS
+","IPv6 , URL: /wiki/IPv6
+","SSL , URL: /wiki/Transport_Layer_Security
+","DANE , URL: /wiki/DNS-based_Authentication_of_Named_Entities
+","Webmail , URL: /wiki/Webmail
+","ActiveSync , URL: /wiki/Exchange_ActiveSync
+","Sieve , URL: /wiki/Sieve_(mail_filtering_language)
+","IDN , URL: /wiki/International_email
+UTF8 , URL: /wiki/Simple_Mail_Transfer_Protocol#SMTPUTF8
+","Database , URL: /wiki/Database
+","File-based , URL: /wiki/File_system
+","License , URL: /wiki/Software_license
+"

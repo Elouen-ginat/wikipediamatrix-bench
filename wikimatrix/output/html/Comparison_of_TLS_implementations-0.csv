@@ -1,0 +1,131 @@
+"Implementation","Developed by","Open source","Software license","Copyright holder","Written in","Latest stable version, release date","Latest stable version, release date","Origin"
+"Botan , URL: /wiki/Botan_(programming_library)
+","Jack Lloyd","Yes","Simplified BSD License , URL: /wiki/Simplified_BSD_License
+","Jack Lloyd","C++ , URL: /wiki/C%2B%2B
+","2.18.1 (May 9, 2021; 10 months ago (2021-05-09)[1]) [±]","2.18.1 (May 9, 2021; 10 months ago (2021-05-09)[1]) [±]","US (Vermont)"
+"BoringSSL , URL: /wiki/BoringSSL
+","Google , URL: /wiki/Google
+","Yes","OpenSSL-SSLeay dual-license , URL: /wiki/OpenSSL_license#Licensing
+ISC license , URL: /wiki/ISC_license
+","Eric Young, Tim Hudson, Sun, OpenSSL project, Google, and others","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Go , URL: /wiki/Go_(programming_language)
+assembly , URL: /wiki/Assembly_language
+","??","??","Australia/EU"
+"Bouncy Castle , URL: /wiki/Bouncy_Castle_(cryptography)
+","The Legion of the Bouncy Castle Inc.","Yes","MIT License , URL: /wiki/MIT_License
+","Legion of the Bouncy Castle Inc.","Java , URL: /wiki/Java_(programming_language)
+C# , URL: /wiki/C_sharp_(programming_language)
+","Java","1.70 / November 29, 2021; 3 months ago (2021-11-29)[2]","Australia"
+"Bouncy Castle , URL: /wiki/Bouncy_Castle_(cryptography)
+","The Legion of the Bouncy Castle Inc.","Yes","MIT License , URL: /wiki/MIT_License
+","Legion of the Bouncy Castle Inc.","Java , URL: /wiki/Java_(programming_language)
+C# , URL: /wiki/C_sharp_(programming_language)
+","Java FIPS","BC-FJA 1.0.2.3 / February 9, 2022; 29 days ago (2022-02-09)[3]","Australia"
+"Bouncy Castle , URL: /wiki/Bouncy_Castle_(cryptography)
+","The Legion of the Bouncy Castle Inc.","Yes","MIT License , URL: /wiki/MIT_License
+","Legion of the Bouncy Castle Inc.","Java , URL: /wiki/Java_(programming_language)
+C# , URL: /wiki/C_sharp_(programming_language)
+","C#","1.9.0 / October 17, 2021; 4 months ago (2021-10-17)[4]","Australia"
+"Bouncy Castle , URL: /wiki/Bouncy_Castle_(cryptography)
+","The Legion of the Bouncy Castle Inc.","Yes","MIT License , URL: /wiki/MIT_License
+","Legion of the Bouncy Castle Inc.","Java , URL: /wiki/Java_(programming_language)
+C# , URL: /wiki/C_sharp_(programming_language)
+","C# FIPS","BC-FNA 1.0.1.1 / April 21, 2021; 10 months ago (2021-04-21)[5]","Australia"
+"BSAFE , URL: /wiki/BSAFE
+","Dell , URL: /wiki/Dell
+RSA Security , URL: /wiki/RSA_Security
+","No","Proprietary , URL: /wiki/Proprietary_software
+","Dell , URL: /wiki/Dell
+","Java , URL: /wiki/Java_(programming_language)
+C , URL: /wiki/C_(programming_language)
+assembly , URL: /wiki/Assembly_language
+","SSL-J 6.4 (February 15, 2022; 23 days ago (2022-02-15)[6]) [±] SSL-J 7.0 (April 13, 2021; 10 months ago (2021-04-13)[7]) [±] Micro Edition Suite 4.6.1 (August 17, 2021; 6 months ago (2021-08-17)[8]) [±]","SSL-J 6.4 (February 15, 2022; 23 days ago (2022-02-15)[6]) [±] SSL-J 7.0 (April 13, 2021; 10 months ago (2021-04-13)[7]) [±] Micro Edition Suite 4.6.1 (August 17, 2021; 6 months ago (2021-08-17)[8]) [±]","Australia"
+"cryptlib , URL: /wiki/Cryptlib
+","Peter Gutmann , URL: /wiki/Peter_Gutmann_(computer_scientist)
+","Yes","Sleepycat License , URL: /wiki/Sleepycat_License
+","Peter Gutmann , URL: /wiki/Peter_Gutmann_(computer_scientist)
+","C , URL: /wiki/C_(programming_language)
+","3.4.5 (2019; 3 years ago (2019)[9]) [±]","3.4.5 (2019; 3 years ago (2019)[9]) [±]","NZ"
+"GnuTLS , URL: /wiki/GnuTLS
+","GnuTLS project , URL: /wiki/GnuTLS
+","Yes","GNU LGPLv2.1 , URL: /wiki/GNU_Lesser_General_Public_License#Version_2
+","Free Software Foundation , URL: /wiki/Free_Software_Foundation
+","C , URL: /wiki/C_(programming_language)
+","3.6.16 (May 24, 2021; 9 months ago (2021-05-24)[10]) [±]","3.6.16 (May 24, 2021; 9 months ago (2021-05-24)[10]) [±]","EU (Greece and Sweden)"
+"Java Secure Socket Extension , URL: /wiki/Java_Secure_Socket_Extension
+","Oracle , URL: /wiki/Oracle_Corporation
+","Yes","GNU GPLv2 , URL: /wiki/GNU_General_Public_License#Version_2
+","Oracle","Java , URL: /wiki/Java_(programming_language)
+","17.0.2 (January 18, 2022; 51 days ago (2022-01-18)) [±] 11.0.14 (January 18, 2022; 51 days ago (2022-01-18)[11]) [±] 8u321 (January 18, 2022; 51 days ago (2022-01-18)[12]) [±]","17.0.2 (January 18, 2022; 51 days ago (2022-01-18)) [±] 11.0.14 (January 18, 2022; 51 days ago (2022-01-18)[11]) [±] 8u321 (January 18, 2022; 51 days ago (2022-01-18)[12]) [±]","US"
+"LibreSSL , URL: /wiki/LibreSSL
+","OpenBSD Project , URL: /wiki/OpenBSD
+","Yes","Apache License , URL: /wiki/Apache_License
+BSD License , URL: /wiki/BSD_License
+ISC License , URL: /wiki/ISC_License
+public domain , URL: /wiki/Public_domain
+","Eric Young, Tim Hudson, Sun, OpenSSL project, OpenBSD Project, and others","C , URL: /wiki/C_(programming_language)
+assembly , URL: /wiki/Assembly_language
+","3.4.2 (25 November 2021; 3 months ago (2021-11-25)[13]) [±]","3.4.2 (25 November 2021; 3 months ago (2021-11-25)[13]) [±]","Canada"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","PeerSec Networks","Yes","GNU GPLv2 , URL: /wiki/GNU_General_Public_License#Version_2
+","PeerSec Networks","C , URL: /wiki/C_(programming_language)
+","4.2.2 (September 11, 2019; 2 years ago (2019-09-11) [15]) [±]","4.2.2 (September 11, 2019; 2 years ago (2019-09-11) [15]) [±]","US"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","Arm , URL: /wiki/Arm_Holdings
+","Yes","Apache License , URL: /wiki/Apache_License
+GNU GPLv2 , URL: /wiki/GNU_General_Public_License#Version_2
+","Arm Holdings , URL: /wiki/Arm_Holdings
+","C , URL: /wiki/C_(programming_language)
+","3.0.0 (July 7, 2021; 8 months ago (2021-07-07)[16]) [±]","3.0.0 (July 7, 2021; 8 months ago (2021-07-07)[16]) [±]","EU (Netherlands)"
+"Network Security Services , URL: /wiki/Network_Security_Services
+","Mozilla , URL: /wiki/Mozilla
+AOL , URL: /wiki/AOL
+Red Hat , URL: /wiki/Red_Hat
+Sun , URL: /wiki/Sun_Microsystems
+Oracle , URL: /wiki/Oracle_Corporation
+Google , URL: /wiki/Google
+","Yes","MPL , URL: /wiki/Mozilla_Public_License
+","NSS contributors","C , URL: /wiki/C_(programming_language)
+assembly , URL: /wiki/Assembly_language
+","Standard","3.68 / July 8, 2021; 8 months ago (2021-07-08)[17]","US"
+"Network Security Services , URL: /wiki/Network_Security_Services
+","Mozilla , URL: /wiki/Mozilla
+AOL , URL: /wiki/AOL
+Red Hat , URL: /wiki/Red_Hat
+Sun , URL: /wiki/Sun_Microsystems
+Oracle , URL: /wiki/Oracle_Corporation
+Google , URL: /wiki/Google
+","Yes","MPL , URL: /wiki/Mozilla_Public_License
+","NSS contributors","C , URL: /wiki/C_(programming_language)
+assembly , URL: /wiki/Assembly_language
+","Extended Support Release","3.53.1 / June 16, 2020; 20 months ago (2020-06-16)[17]","US"
+"OpenSSL , URL: /wiki/OpenSSL
+","OpenSSL project , URL: /wiki/OpenSSL
+","Yes","OpenSSL-SSLeay dual-license , URL: /wiki/OpenSSL_license#Licensing
+","Eric Young, Tim Hudson, Sun, OpenSSL project, and others","C , URL: /wiki/C_(programming_language)
+assembly , URL: /wiki/Assembly_language
+","3.0.1 (14 December 2021; 2 months ago (2021-12-14)[18]) [±]","3.0.1 (14 December 2021; 2 months ago (2021-12-14)[18]) [±]","Australia/EU"
+"s2n , URL: /wiki/S2n
+","Amazon , URL: /wiki/Amazon.com
+","Yes","Apache License , URL: /wiki/Apache_License
+GNU GPLv2 , URL: /wiki/GNU_General_Public_License#Version_2
+","Amazon, Inc.","C , URL: /wiki/C_(programming_language)
+","Continuous","Continuous","US"
+"SChannel , URL: /wiki/SChannel
+","Microsoft , URL: /wiki/Microsoft
+","No","Proprietary , URL: /wiki/Proprietary_software
+","Microsoft Inc.","","Windows 10, 2015-07-29","Windows 10, 2015-07-29","US"
+"Secure Transport , URL: /wiki/MacOS
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","Yes","APSL 2.0 , URL: /wiki/Apple_Public_Source_License
+","Apple Inc.","","OS X , URL: /wiki/OS_X
+","OS X , URL: /wiki/OS_X
+","US"
+"wolfSSL , URL: /wiki/WolfSSL
+","wolfSSL[19]","Yes","GNU GPLv2 , URL: /wiki/GNU_General_Public_License#Version_2
+","wolfSSL Inc.[20]","C , URL: /wiki/C_(programming_language)
+","5.1.1 (January 3, 2022; 2 months ago (2022-01-03)[21]) [±]","5.1.1 (January 3, 2022; 2 months ago (2022-01-03)[21]) [±]","US"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","Ericsson","Yes","Apache License 2.0","Ericsson","Erlang","OTP-21, 2018-06-19","OTP-21, 2018-06-19","Sweden"
+"Implementation","Developed by","Open source","Software license","Copyright owner","Written in","Latest stable version, release date","Latest stable version, release date","Origin"

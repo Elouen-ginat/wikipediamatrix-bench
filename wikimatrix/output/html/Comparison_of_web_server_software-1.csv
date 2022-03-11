@@ -1,41 +1,89 @@
-"null","null","null","null"
-"NaviSoft","Mozilla","4.5.2","2012-09-19 (discontinued)"
-"Apache Software Foundation","Apache","2.4.49","2021-09-15"
-"Apache Software Foundation","Apache","10.0.11","2021-09-11"
-"Jon Nelson and Larry Doolittle","GNU GPL","0.94.13","2002-07-30 (discontinued)"
-"Glenn Engel, Vladimir Oleynik, BusyBox Team","GNU GPL","1.34.0","2020-08-19"
-"Matt Holt","Apache","2.4.2","2021-06-17"
-"The Caudium Group","GNU GPL","1.4.18","2012-02-24"
-"Álvaro López Ortega","GNU GPL","1.2.103","2013-04-21"
-"Sun Microsystems, Oracle Corporation, since 2019 Eclipse Foundation","Eclipse Public License & GNU General Public License","6.2.1","2021-08-27"
-"Hugo Leisink","GNU GPLv2","10.12","2021-03-25"
-"Rejetto","GNU GPL","2.3m","2018-08-16"
-"IBM","Non-free proprietary","9.0.5.4","2020-06-12[1]"
-"Microsoft","Non-free proprietary","10.0.17763.1","2018-10-02"
-"Eclipse Foundation","Apache","11.0.6x","2021-03-29"
-"Bing Liu","Non-free proprietary","6.2.x","2020"
-"Jan Kneschke (Incremental)","BSD variant","1.4.64","2022-01-19"
-"LiteSpeed Technologies","Non-free proprietary","5.4.8","2020-07-01"
-"Cesanta Software","GNU GPLv2 / proprietary license","6.18","2020-05-21"
-"Monkey Software","Apache","1.6.9","2016-06-04"
-"Various","Mozilla 1.1","4.99.23","2021-12-31"
-"Robert McCool","Non-free proprietary","1.5.2a","1996-10-08 (discontinued)"
-"NGINX, Inc.","BSD variant","1.21.0","2021-05-25"
-"Reyk Floeter","ISC","5.8","2015-08-18"
-"OpenLink Software","GNU GPL and proprietary versions","8.3.3316","2020-03-10"
-"LiteSpeed Technologies","GNU GPL","1.7.6","2020-11-10"
-"Oracle Corporation","Non-free proprietary","12cR2 (12.2.1.4)[2]","Unknown"
-"Oracle Corporation","BSD","7.0.27","2017-10-01"
-"Oracle Corporation (formerly BEA Systems)","Non-free proprietary","14c (14.1.1.0) [2]","2020-03-30"
-"Caucho Technology","GNU GPLv3 / proprietary license","4.0.65","2020-07-29"
-"Caucho Technology","Non-free proprietary","4.0.65","2020-07-29"
-"Jef Poskanzer for ACME Laboratories","BSD variant","2.29","2018-05-24"
-"Ingo Molnár","GNU GPL","3.2.6.18","2006-09-20 (discontinued)"
-"Wakanda","GNU AGPLv3 / proprietary license","2.7.0","2019-04-29 (Discontinued)"
-"Ruby Community","BSD 2-clause","1.6.0","2019-11-30"
-"Kyle Graehl","MIT","0.5.2","2021-04-06"
-"iMatix Corporation","BSD","5.0a0","2009-02-19 (discontinued)"
-"Claes Wikström","BSD variant","2.0.7","2019-07-14"
-"Zeus Technology","Non-free proprietary","4.3r5","2010-01-13 (discontinued)"
-"Zope Corporation","Zope","2.13.30","2020-02-14"
-"null","null","null","null"
+"Server","Security","Security","Security","Virtual hosting , URL: /wiki/Shared_web_hosting_service
+","Dynamic content[a]","Dynamic content[a]","Dynamic content[a]","Dynamic content[a]","Dynamic content[a]","Dynamic content[a]","Dynamic content[a]","Dynamic content[a]","user , URL: /wiki/User_space
+kernel space , URL: /wiki/Kernel_space
+","Adminis-tration console","Additional protocol support","Additional protocol support","Additional protocol support","Additional protocol support"
+"Server","Basic access authenti- cation , URL: /wiki/Basic_access_authentication
+","Digest access authenti- cation , URL: /wiki/Digest_access_authentication
+","SSL/TLS , URL: /wiki/Transport_Layer_Security
+https , URL: /wiki/HTTP_Secure
+","Virtual hosting , URL: /wiki/Shared_web_hosting_service
+","CGI , URL: /wiki/Common_Gateway_Interface
+","FCGI , URL: /wiki/FastCGI
+","SCGI , URL: /wiki/Simple_Common_Gateway_Interface
+","WSGI , URL: /wiki/Web_Server_Gateway_Interface
+","Java Servlets , URL: /wiki/Java_Servlets
+","SSI , URL: /wiki/Server_Side_Includes
+","ISAPI , URL: /wiki/Internet_Server_Application_Programming_Interface
+","SSJS , URL: /wiki/JavaScript#Server-side_JavaScript
+","user , URL: /wiki/User_space
+kernel space , URL: /wiki/Kernel_space
+","Adminis-tration console","IPv6","HTTP/2 , URL: /wiki/HTTP/2
+","QUIC , URL: /wiki/QUIC
+","HTTP/3 , URL: /wiki/HTTP/3
+"
+"AOLserver , URL: /wiki/AOLserver
+","Yes","No","Yes[b][c][d][3]","Yes","Yes","No","Unknown","No","No","Yes","Unknown","Unknown","user","Unknown","Unknown","Unknown","Unknown","Unknown"
+"Apache HTTP Server , URL: /wiki/Apache_HTTP_Server
+","Yes","Yes","Yes[e][c][4][f][5]","Yes","Yes","Yes","Yes","Yes[e]","No[g]","Yes","Yes[h]","Unknown","user","Yes[i]","Yes","Yes","Unknown","Unknown"
+"Apache Tomcat , URL: /wiki/Apache_Tomcat
+","Yes","Yes","Yes[j][6]","Yes","Yes","No","Unknown","No","Yes","Yes","No[k]","Unknown","user","Yes","Yes[l]","Yes","Unknown","Unknown"
+"Boa , URL: /wiki/Boa_(web_server)
+","No","No","Yes[m]","Yes","Yes","No","Unknown","No","No","No","No","No","user","Unknown","Yes","No","No","No"
+"BusyBox httpd , URL: /wiki/BusyBox
+","Yes","No","No","No","Yes","No","No","No","No","No[n]","No","No","user","No","Yes","No","No","No"
+"Caddy , URL: /wiki/Caddy_(web_server)
+","Yes","No","Yes","Yes","Partial[o]","Yes","No","No","No","No[p]","No","No","user","No","Yes","Yes","Yes","Yes[q]"
+"Caucho Resin Server , URL: /wiki/Resin_Server
+","Yes","Yes","paid version[c]","Yes","Yes","Yes","Unknown","No","Yes","Yes","No","Unknown","user","Yes","Yes","Unknown","Unknown","Unknown"
+"Caudium , URL: /wiki/Caudium_(web_server)
+","Yes","Yes","Yes","Yes","Yes","Yes","Unknown","No","Yes","Yes","Unknown","Unknown","user","Yes","Yes[r]","Unknown","Unknown","Unknown"
+"Cherokee HTTP Server , URL: /wiki/Cherokee_HTTP_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","No","Unknown","user","Yes","Yes[8]","Unknown","Unknown","Unknown"
+"HFS , URL: /wiki/HTTP_File_Server
+","Yes","No","No[9]","No","No","No","Unknown","No","No","No","Unknown","Unknown","user","Unknown","No","Unknown","Unknown","Unknown"
+"Hiawatha HTTP Server , URL: /wiki/Hiawatha_webserver
+","Yes","Yes","Yes[s][10]","Yes","Yes","Yes","No","No","No","Yes","No","Unknown","user","Yes","Yes","No[11]","No[11]","No[11]"
+"IBM HTTP Server , URL: /wiki/IBM_HTTP_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","Unknown","No","No","Yes","No","Unknown","user","Yes","Yes","Unknown","Unknown","Unknown"
+"Internet Information Services , URL: /wiki/Internet_Information_Services
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No[t]","Yes","Yes","Yes","kernel and user[12]","Yes","Yes","Yes","Unknown","Unknown"
+"Jetty , URL: /wiki/Jetty_(web_server)
+","Yes","Yes","Yes","Yes","Yes","Unknown","Unknown","No","Yes","Unknown","Unknown","Yes","user","Unknown","Unknown","Yes","Unknown","Unknown"
+"Jexus , URL: /wiki/Jexus
+","No","No","Yes","Yes","No","Yes","No","No","No","No","No","Yes","user","Yes","No","Unknown","Unknown","Unknown"
+"lighttpd , URL: /wiki/Lighttpd
+","Yes","Yes","Yes[c][13]","Yes","Yes","Yes","Yes","Yes","No[g]","Yes","No","No","user","No","Yes","Yes","No","No"
+"LiteSpeed Web Server , URL: /wiki/LiteSpeed_Web_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","Unknown","Yes","No[g]","Yes","No","Unknown","user","Yes","Yes","Yes","Yes","Yes[14]"
+"Mongoose , URL: /wiki/Mongoose_(web_server)
+","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","No","No","user","Yes","Yes","Unknown","Unknown","Unknown"
+"Monkey HTTP Server , URL: /wiki/Monkey_HTTP_Server
+","Yes","No","Yes[s]","Yes","Yes","Yes","No","No","No","No","No","No","user","No","Yes","Unknown","Unknown","Unknown"
+"NaviServer , URL: /wiki/NaviServer
+","Yes","No","Yes","Yes","Yes","No","Unknown","No","No","Yes","Unknown","Unknown","user","Yes","Yes","Unknown","Unknown","Unknown"
+"NCSA HTTPd , URL: /wiki/NCSA_HTTPd
+","Yes","Yes","Unknown","Partial[u]","Yes","Unknown","Unknown","No","No","Yes","No","No","user","No","No","No","No","No"
+"nginx , URL: /wiki/Nginx
+","Yes","Yes (module)","Yes","Yes","No","Yes","Yes","Yes","No[15]","Yes","No","Unknown","user","Yes[16]","Yes[17]","Yes[18]","No","Yes[v]"
+"OpenBSD , URL: /wiki/OpenBSD
+","Yes","No","Yes","Yes","No","Yes","No","No","No","No","No","No","user","No","Yes","No","No","No"
+"OpenLink Virtuoso , URL: /wiki/Virtuoso_Universal_Server
+","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","No","No","user","Yes","No","No","Unknown","Unknown"
+"Oracle HTTP Server , URL: /wiki/Oracle_HTTP_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","Unknown","No","No","Yes","No","Unknown","user","Yes[w]","Yes","Unknown","Unknown","Unknown"
+"Oracle iPlanet Web Server , URL: /wiki/Oracle_iPlanet_Web_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","Unknown","No","Yes","Yes","No","Yes","user","Yes","Yes","Unknown","Unknown","Unknown"
+"thttpd , URL: /wiki/Thttpd
+","Yes","Unknown","No","Yes","Yes","No","Unknown","No","No","No","No","Unknown","user","No","Yes","Unknown","Unknown","Unknown"
+"TUX web server , URL: /wiki/TUX_web_server
+","No","No","No","Yes","Yes","No","Unknown","No","No","No","No","Unknown","kernel","Unknown","Unknown","Unknown","Unknown","Unknown"
+"uhttpd","Yes","No","Yes","No","Yes","No","No","No","No","No","No","No","user","No","Yes","No","No","No"
+"Wakanda Server , URL: /wiki/Wakanda_(software)
+","Yes","Yes","Yes","Yes","No","No","No","No","No","No","No","Yes","user","Yes","Yes","Unknown","Unknown","Unknown"
+"Web Server for Chrome","Yes","No","Yes","No","No","No","No","No","No","No","No","No","user","No","Yes","No","No","No"
+"Xitami , URL: /wiki/Xitami
+","Yes","Unknown","paid version","Yes","Yes","Unknown","Unknown","No","Unknown","Yes","Unknown","Unknown","user","Unknown","Unknown","Unknown","Unknown","Unknown"
+"Yaws , URL: /wiki/Yaws_(web_server)
+","Yes","Unknown","Yes","Yes","Yes","Yes","Unknown","No","No","Yes","No","Unknown","user","Unknown","Yes","Unknown","Unknown","Unknown"
+"Zeus Web Server , URL: /wiki/Zeus_Web_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","Unknown","No","No[g]","Yes","Yes","Unknown","user","Yes","No","Unknown","Unknown","Unknown"

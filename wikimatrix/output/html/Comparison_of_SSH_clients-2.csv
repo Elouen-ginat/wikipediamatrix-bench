@@ -1,0 +1,93 @@
+"Name","User interface , URL: /wiki/User_interface
+","SSH1 (insecure)","SSH2","Additional protocols","Additional protocols","Port forwarding , URL: /wiki/Port_forwarding
+Tunneling , URL: /wiki/Tunneling_protocol
+","Port forwarding , URL: /wiki/Port_forwarding
+Tunneling , URL: /wiki/Tunneling_protocol
+","Port forwarding , URL: /wiki/Port_forwarding
+Tunneling , URL: /wiki/Tunneling_protocol
+","Session multiplexing [Note 1]","Kerberos , URL: /wiki/Kerberos_(protocol)
+","IPv6 , URL: /wiki/IPv6
+","Terminal , URL: /wiki/Terminal_emulator
+","SFTP , URL: /wiki/SSH_file_transfer_protocol
+SCP , URL: /wiki/Secure_copy
+","Proxy client[Note 2]"
+"Name","User interface , URL: /wiki/User_interface
+","SSH1 (insecure)","SSH2","TELNET , URL: /wiki/TELNET
+","rlogin , URL: /wiki/Rlogin
+","Port forwarding , URL: /wiki/Port_forwarding
+","SOCKS , URL: /wiki/SOCKS
+","VPN , URL: /wiki/Virtual_private_network
+","Session multiplexing [Note 1]","Kerberos , URL: /wiki/Kerberos_(protocol)
+","IPv6 , URL: /wiki/IPv6
+","Terminal , URL: /wiki/Terminal_emulator
+","SFTP , URL: /wiki/SSH_file_transfer_protocol
+SCP , URL: /wiki/Secure_copy
+","Proxy client[Note 2]"
+"AbsoluteTelnet , URL: /wiki/AbsoluteTelnet
+","GUI , URL: /wiki/Graphical_user_interface
+","yes","Yes","Yes","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","SOCKS 4, 5; HTTP"
+"Bitvise , URL: /wiki/Bitvise
+","GUI , URL: /wiki/Graphical_user_interface
+command line , URL: /wiki/Command-line_interface
+","no","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","SOCKS 4, 5"
+"Dropbear , URL: /wiki/Dropbear_(software)
+","command line , URL: /wiki/Command_line_interface
+","no","Yes","No","No","Yes","No","No","No","No","Yes","Yes","Yes","?"
+"lsh , URL: /wiki/Lsh
+","command line","no","Yes","Yes","No","Yes","Yes","No","Yes","No","Yes","Yes","Yes","?"
+"OpenSSH , URL: /wiki/OpenSSH
+","command line , URL: /wiki/Command_line_interface
+","no[Note 5]","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","ProxyCommand"
+"PuTTY , URL: /wiki/PuTTY
+","GUI , URL: /wiki/Graphical_user_interface
+command line , URL: /wiki/Command_line_interface
+","yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes[Note 6]","Yes","Yes","Yes[Note 7]","SOCKS 4, 5; HTTP; Telnet; Local"
+"SecureCRT , URL: /wiki/SecureCRT
+","GUI , URL: /wiki/Graphical_user_interface
+","yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","SOCKS 4, 5; HTTP; Telnet; Generic"
+"SmartFTP , URL: /wiki/SmartFTP
+","GUI , URL: /wiki/Graphical_user_interface
+","no","Yes","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","SOCKS 4, 5; HTTP"
+"Tera Term , URL: /wiki/Tera_Term
+","GUI , URL: /wiki/Graphical_user_interface
+","yes","Yes","Yes","No","Yes","No","No","No","No","Yes","Yes","SCP","SOCKS 4, 5; HTTP; Telnet"
+"TN3270 Plus , URL: /wiki/TN3270_Plus
+","GUI , URL: /wiki/Graphical_user_interface
+","yes","Yes","Yes","No","No","Yes","No","Yes","No","Yes","Yes","No","SOCKS 4"
+"TtyEmulator , URL: /wiki/TtyEmulator
+","GUI , URL: /wiki/Graphical_user_interface
+command line , URL: /wiki/Command_line_interface
+","yes","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","Yes","No","SOCKS 4,4a, 5; HTTP Local"
+"WinSCP , URL: /wiki/WinSCP
+","GUI , URL: /wiki/Graphical_user_interface
+command line , URL: /wiki/Command_line_interface
+","yes","Yes","No","No","limited[Note 9]","No","No","No","Yes","Yes","simple","Yes","SOCKS 4, 5; HTTP; Telnet; Local"
+"wolfSSH , URL: /wiki/WolfSSH
+","command line , URL: /wiki/Command_line_interface
+","no","Yes","No","No","Yes","No","No","No","No","Yes","simple","Yes","?"
+"ZOC , URL: /wiki/ZOC_(software)
+","TDI , URL: /wiki/Tabbed_document_interface
+command line , URL: /wiki/Command_line_interface
+","yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","SCP and SFTP through terminal[Note 10]","SOCKS 4; 5; HTTP; Jumpserver"
+"Name","User interface , URL: /wiki/User_interface
+","SSH1 (insecure)","SSH2","Additional protocols","Additional protocols","Tunneling , URL: /wiki/Tunneling_protocol
+","Tunneling , URL: /wiki/Tunneling_protocol
+","Tunneling , URL: /wiki/Tunneling_protocol
+","Session multiplexing [Note 1]","Kerberos , URL: /wiki/Kerberos_(protocol)
+","IPv6 , URL: /wiki/IPv6
+","Terminal , URL: /wiki/Terminal_emulator
+","SFTP , URL: /wiki/SSH_file_transfer_protocol
+SCP , URL: /wiki/Secure_copy
+","Proxy client[Note 2]"
+"Name","User interface , URL: /wiki/User_interface
+","SSH1 (insecure)","SSH2","TELNET , URL: /wiki/TELNET
+","rlogin , URL: /wiki/Rlogin
+","Port forwarding , URL: /wiki/Port_forwarding
+","SOCKS , URL: /wiki/SOCKS
+","VPN , URL: /wiki/Virtual_private_network
+","Session multiplexing [Note 1]","Kerberos , URL: /wiki/Kerberos_(protocol)
+","IPv6 , URL: /wiki/IPv6
+","Terminal , URL: /wiki/Terminal_emulator
+","SFTP , URL: /wiki/SSH_file_transfer_protocol
+SCP , URL: /wiki/Secure_copy
+","Proxy client[Note 2]"

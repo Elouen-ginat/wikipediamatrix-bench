@@ -1,0 +1,74 @@
+"Name","ATA , URL: /wiki/Advanced_Technology_Attachment
+","SATA , URL: /wiki/Serial_ATA
+","SCSI , URL: /wiki/SCSI
+","USB , URL: /wiki/Universal_Serial_Bus
+","USB 2.0","USB 1.1","FireWire , URL: /wiki/FireWire
+","PCMCIA/PC card , URL: /wiki/PC_card
+","AGP , URL: /wiki/Accelerated_Graphics_Port
+","Nvidia , URL: /wiki/Nvidia
+","Nvidia official driver IA-64","Nvidia official driver AMD64","ATI , URL: /wiki/ATI_Technologies
+","ATI official driver x86-64","ATI r200 free software driver","ATI r300 free software driver","Nvidia free software driver","Audio , URL: /wiki/Sound_card
+","TV tuner , URL: /wiki/TV_tuner_card
+video editing , URL: /wiki/Video_editing_card
+webcam , URL: /wiki/Webcam
+"
+"Linux , URL: /wiki/Linux
+","Yes","Yes","Yes","Yes 2.6.31+[11]","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","nouveau , URL: /wiki/Nouveau_(graphics)
+","OSS , URL: /wiki/Open_Sound_System
+ALSA , URL: /wiki/Advanced_Linux_Sound_Architecture
+","V4L , URL: /wiki/Video4Linux
+"
+"FreeBSD , URL: /wiki/FreeBSD
+","Yes","Yes","Yes","Yes 8.2+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes"
+"OpenBSD , URL: /wiki/OpenBSD
+","Yes","Yes","Yes","Yes 5.7+","Yes","Yes","No","Yes","Yes","No","No","No","No","No","Yes[12]","2d only[12]","2d only[13]","Yes","Yes"
+"NetBSD , URL: /wiki/NetBSD
+","Yes","Yes","Yes","No 7.1[14]","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No","","","","Yes","Yes"
+"DragonFly BSD , URL: /wiki/DragonFly_BSD
+","Yes","Yes","Yes","Yes[15]","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No","","","","Yes",""
+"OpenSolaris , URL: /wiki/OpenSolaris
+illumos , URL: /wiki/Illumos
+","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","","","","Yes","V4L2"
+"Darwin , URL: /wiki/Darwin_(operating_system)
+OpenDarwin , URL: /wiki/OpenDarwin
+","Yes","Yes","Yes","Yes","","Yes","","","","No","No","No","No","No","","","","",""
+"MINIX , URL: /wiki/MINIX
+","","","","","","","","","","No","No","No","No","No","","","","",""
+"FreeDOS , URL: /wiki/FreeDOS
+","Yes","Yes","Yes","No","No[16]","No[16]","No","","Yes","No","No","No","No","No","No","No","No","Yes","No"
+"Genode , URL: /wiki/Genode
+","Yes","Yes","No","Yes","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","No"
+"Haiku , URL: /wiki/Haiku_(operating_system)
+","Yes","Yes","Yes","","Yes","Yes","Yes","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes"
+"KolibriOS , URL: /wiki/KolibriOS
+","Yes","Yes","No","","Yes","Yes","","No","No","No","No","No","No","No","","","","Yes","No"
+"MenuetOS , URL: /wiki/MenuetOS
+","Yes","No","No","","Yes","Yes","","No","No","No","No","No","No","No","","","","Yes","Yes"
+"GNU , URL: /wiki/GNU
+","Yes","Yes[Note 1]","Yes[Note 1]","","Yes[Note 1]","Yes[Note 1]","Yes[Note 1]","Yes[Note 1]","Yes","No[Note 2]","No[Note 2]","No[Note 2]","No[Note 2]","No[Note 2]","No[Note 3]","No[Note 3]","Yes[Note 1]","Yes[Note 1]","Yes[Note 1]"
+"ReactOS , URL: /wiki/ReactOS
+","Yes","Yes","Yes","","Yes[17]","Yes[17]","No","No","Yes","No","No","No","No","No","","","","Yes",""
+"RISC OS , URL: /wiki/RISC_OS
+","?","Yes","Yes","?","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","TV tuner[18]"
+"L4 , URL: /wiki/L4_microkernel_family
+Fiasco , URL: /wiki/L4_microkernel_family#L4/Fiasco
+Pistachio , URL: /wiki/L4_microkernel_family#L4Ka::Pistachio
+","","","","","","","","","","No","No","No","No","No","","","","",""
+"Plan 9 , URL: /wiki/Plan_9_from_Bell_Labs
+","Yes","Yes","Yes","","Yes","Yes","","Yes","Yes","No","No","No","No","No","","","","Yes","Yes"
+"AROS , URL: /wiki/Amiga_Research_Operating_System
+","Yes","","","","","","","","Yes","No","No","No","own","No","","","2D only","",""
+"Syllable , URL: /wiki/Syllable_Desktop
+","Yes","Yes","","","Yes","Yes","","","Yes","No","No","No","No","No","","","","Yes",""
+"Inferno , URL: /wiki/Inferno_(operating_system)
+","Yes","No","Yes","","No","No","No","Yes","Yes","No","No","No","No","No","","","","Yes",""
+"FreeRTOS , URL: /wiki/FreeRTOS
+","","","","","","","","","","No","No","No","No","No","","","","",""
+"eCos , URL: /wiki/ECos
+","Yes","Yes","","","Yes","Yes","","","","No","No","No","No","No","","","","",""
+"RTEMS , URL: /wiki/RTEMS
+","Yes","","","","","","","Yes","","No","No","No","No","No","","","","",""
+"HelenOS , URL: /wiki/HelenOS
+","Yes","Yes","No","","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","No"
+"E/OS","Yes","Yes","Yes","","No[5]","Yes","Yes","Yes","No","No","No","No","No","No","","","","Yes","Yes"
+"Name","ATA","SATA","SCSI","USB 3.0","USB 2.0","USB 1.1","FireWire","PCMCIA/PC card","AGP","Nvidia official driver IA-32","Nvidia official driver IA-64","Nvidia official driver AMD64","ATI official driver x86","ATI official driver x86-64","ATI r200 free software driver","ATI r300 free software driver","Nvidia free software driver","Audio","TV tuner, video editing, or webcam"

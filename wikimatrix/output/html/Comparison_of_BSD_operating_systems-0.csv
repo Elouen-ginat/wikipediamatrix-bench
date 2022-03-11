@@ -1,0 +1,275 @@
+"Name","Primary developers","First public release","Based on","Latest stable version","Latest stable version","USD , URL: /wiki/United_States_dollar
+","license , URL: /wiki/Software_license
+","Purpose","Short description",""
+"Name","Primary developers","First public release","Based on","Version","Release Date","USD , URL: /wiki/United_States_dollar
+","license , URL: /wiki/Software_license
+","Purpose","Short description",""
+"FreeBSD , URL: /wiki/FreeBSD
+","FreeBSD , URL: /wiki/FreeBSD
+","1993-12-01","386BSD , URL: /wiki/386BSD
+4.4BSD , URL: /wiki/4.4BSD
+","13.0","2021-04-13[39]","Free","Simplified BSD , URL: /wiki/BSD_licenses#2-clause
+","Server , URL: /wiki/Server_(computing)
+Workstation , URL: /wiki/Computer_workstation
+Network Appliance , URL: /wiki/Network-attached_storage
+Embedded , URL: /wiki/Embedded_system
+","Aims to be usable for any purpose.",""
+"OpenBSD , URL: /wiki/OpenBSD
+","OpenBSD , URL: /wiki/OpenBSD
+","1996-09-01","NetBSD 1.0 , URL: /wiki/NetBSD
+","7.0","2021-10-14[40]","Free","ISC , URL: /wiki/ISC_license
+","Server , URL: /wiki/Server_(computing)
+Workstation , URL: /wiki/Computer_workstation
+Network Appliance , URL: /wiki/Network-attached_storage
+Embedded , URL: /wiki/Embedded_system
+","Aims for maximum correctness in code, bringing simplicity and security.",""
+"NetBSD , URL: /wiki/NetBSD
+","NetBSD , URL: /wiki/NetBSD
+","1993-05-01","386BSD , URL: /wiki/386BSD
+4.4BSD , URL: /wiki/4.4BSD
+","9.2","2021-05-12","Free","Simplified BSD , URL: /wiki/BSD_licenses#2-clause
+","Server , URL: /wiki/Server_(computing)
+Workstation , URL: /wiki/Computer_workstation
+Network Appliance , URL: /wiki/Network-attached_storage
+Embedded , URL: /wiki/Embedded_system
+","Aims for maximum portability.",""
+"DragonFly BSD , URL: /wiki/DragonFly_BSD
+","Matt Dillon , URL: /wiki/Matt_Dillon_(computer_scientist)
+","2004-07-12","FreeBSD , URL: /wiki/FreeBSD
+","6.0.0","2021-05-10[41]","Free","Modified BSD , URL: /wiki/BSD_licenses#3-clause
+","Server , URL: /wiki/Server_(computing)
+Workstation , URL: /wiki/Computer_workstation
+Network Appliance , URL: /wiki/Network-attached_storage
+Embedded , URL: /wiki/Embedded_system
+","Aims for maximum scalability.",""
+"386BSD , URL: /wiki/386BSD
+","William , URL: /wiki/William_Jolitz
+Lynne Jolitz , URL: /wiki/Lynne_Jolitz
+","1992-03-01","4.3BSD , URL: /wiki/4.3BSD
+","2.0","2016-08-05","Free","BSD , URL: /wiki/BSD_License
+","Open source general purpose","Historical",""
+"BSD/OS , URL: /wiki/BSD/OS
+","BSDi , URL: /wiki/BSDi
+Wind River Systems , URL: /wiki/Wind_River_Systems
+","1993-03-01","4.3BSD , URL: /wiki/4.3BSD
+4.4BSD , URL: /wiki/4.4BSD
+","5.1","2003-10-01","?","Proprietary , URL: /wiki/Proprietary_software
+","General purpose","Historical",""
+"SunOS , URL: /wiki/SunOS
+","Sun Microsystems , URL: /wiki/Sun_Microsystems
+","1982","UNIX System V , URL: /wiki/UNIX_System_V
+","4.1.4","1994-11-01","Included in hardware and support charges","Proprietary , URL: /wiki/Proprietary_software
+","Server , URL: /wiki/Server_(computing)
+Workstation , URL: /wiki/Computer_workstation
+","Solaris , URL: /wiki/Solaris_(operating_system)
+",""
+"Ultrix , URL: /wiki/Ultrix
+","Digital Equipment Corporation , URL: /wiki/Digital_Equipment_Corporation
+","1984","SVR2 , URL: /wiki/UNIX_System_V
+","4.5","1995","?","Proprietary , URL: /wiki/Proprietary_software
+","General Purpose","DEC , URL: /wiki/Digital_Equipment_Corporation
+VAX , URL: /wiki/VAX
+MIPS , URL: /wiki/MIPS_architecture
+emulators , URL: /wiki/Emulator
+",""
+"RISCiX , URL: /wiki/RISC_iX
+","Acorn Computers , URL: /wiki/Acorn_Computers
+","1988","Unix System V , URL: /wiki/UNIX_System_V
+","1.31c","1993-09-07","Cost £1000 GBP (Approx $1400)","Proprietary , URL: /wiki/Proprietary_software
+","Workstation , URL: /wiki/Workstation
+","Archimedes , URL: /wiki/Acorn_Archimedes
+",""
+"Tru64 UNIX , URL: /wiki/Tru64_UNIX
+","DEC , URL: /wiki/Digital_Equipment_Corporation
+Compaq , URL: /wiki/Compaq
+HP , URL: /wiki/Hewlett-Packard
+","1993","Mach , URL: /wiki/Mach_kernel
+UNIX System V , URL: /wiki/UNIX_System_V
+","5.1B-6","2010-10-01","Cost $99 (non-commercial)","Proprietary , URL: /wiki/Proprietary_software
+","General Purpose","HP Alpha , URL: /wiki/DEC_Alpha
+emulators , URL: /wiki/Emulator
+",""
+"macOS , URL: /wiki/MacOS
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","2001-03-24","Darwin , URL: /wiki/Darwin_(operating_system)
+","12.0.1 "Monterey" , URL: /wiki/MacOS_Monterey
+","2021-10-25","Client: Free Server (add-on application): $19.99","Open source , URL: /wiki/Open-source_software
+proprietary , URL: /wiki/Proprietary_software
+","Workstation , URL: /wiki/Computer_workstation
+Server , URL: /wiki/Server_(computing)
+","Locked to Apple hardware use only",""
+"iOS , URL: /wiki/IOS
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","2007-06-01","Darwin , URL: /wiki/Darwin_(operating_system)
+","15.1 , URL: https://www.apple.com/ios/ios-15/
+","2021-10-25","Included with hardware, No-charge Updates","Open source , URL: /wiki/Open-source_software
+proprietary , URL: /wiki/Proprietary_software
+","Embedded , URL: /wiki/Embedded_system
+mobile device , URL: /wiki/Mobile_device
+","Ships with Apple iPhone, iPod Touch",""
+"iPadOS , URL: /wiki/IPadOS
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","2019-09-24","Darwin , URL: /wiki/Darwin_(operating_system)
+","15.1 , URL: https://www.apple.com/ipados/ipados-15/
+","2021-10-25","Included with hardware, No-charge Updates","Open source , URL: /wiki/Open-source_software
+proprietary , URL: /wiki/Proprietary_software
+","Embedded , URL: /wiki/Embedded_system
+mobile device , URL: /wiki/Mobile_device
+","Ships with Apple iPads",""
+"tvOS , URL: /wiki/TvOS
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","2015-10-29","Darwin , URL: /wiki/Darwin_(operating_system)
+","15.1.1 , URL: https://developer.apple.com/tvos
+","2021-10-29","Included with hardware, No-charge Updates","Open source , URL: /wiki/Open-source_software
+proprietary , URL: /wiki/Proprietary_software
+","","Ships with Apple TVs",""
+"watchOS , URL: /wiki/WatchOS
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","2015-04-24","Darwin , URL: /wiki/Darwin_(operating_system)
+","8.1 , URL: https://www.apple.com/watchos/watchos-8/
+","2021-10-25","Included with hardware, No-charge Updates","Open source , URL: /wiki/Open-source_software
+proprietary , URL: /wiki/Proprietary_software
+","Embedded , URL: /wiki/Embedded_system
+mobile device , URL: /wiki/Mobile_device
+","Ships with Apple Watches",""
+"Darwin , URL: /wiki/Darwin_(operating_system)
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","2001-03-01","NeXTSTEP , URL: /wiki/NeXTSTEP
+FreeBSD , URL: /wiki/FreeBSD
+classic Mac OS , URL: /wiki/Classic_Mac_OS
+","20.3.0","2020-12-16","Free","APSL , URL: /wiki/Apple_Public_Source_License
+GPL , URL: /wiki/GNU_General_Public_License
+","Workstation , URL: /wiki/Computer_workstation
+Server , URL: /wiki/Server_(computing)
+","The kernel and certain userland components of macOS and iOS",""
+"TrueOS , URL: /wiki/TrueOS
+","iXsystems, Inc. , URL: /wiki/Berkeley_Software_Design
+","2006-04-29","FreeBSD , URL: /wiki/FreeBSD
+","18.12","2018-12-15","Free","BSD , URL: /wiki/BSD_License
+","Server , URL: /wiki/Server_(computing)
+","Easy to use while maintaining full use of FreeBSD base",""
+"GhostBSD , URL: /wiki/GhostBSD
+","Eric Turgeon","2009-11-01","FreeBSD , URL: /wiki/FreeBSD
+","20.01","2020-01-22","Free","BSD , URL: /wiki/BSD_License
+","Workstation , URL: /wiki/Computer_workstation
+","GNOME , URL: /wiki/GNOME
+Mate , URL: /wiki/MATE_(software)
+Xfce , URL: /wiki/Xfce
+LXDE , URL: /wiki/LXDE
+Openbox , URL: /wiki/Openbox
+",""
+"FuryBSD","Joe Maloney","2019-10-24","FreeBSD , URL: /wiki/FreeBSD
+","12.1-2020090701 (2020Q3)","2019-12-02","Free","BSD , URL: /wiki/BSD_License
+","Workstation , URL: /wiki/Computer_workstation
+","Xfce , URL: /wiki/Xfce
+KDE , URL: /wiki/KDE
+",""
+"DesktopBSD , URL: /wiki/DesktopBSD
+","Peter Hofer, Daniel Seuffert","2005-07-25","FreeBSD , URL: /wiki/FreeBSD
+","1.7","2009-09-07","Free","BSD , URL: /wiki/BSD_License
+","Desktop","Easy to use",""
+"ClosedBSD","various contributors , URL: https://web.archive.org/web/20050404200956/http://www.closedbsd.org/contributions.html
+","?","FreeBSD , URL: /wiki/FreeBSD
+","1.0B (floppy), 1.0-RC1 (CD)","?","Free","Proprietary , URL: /wiki/Proprietary_software
+","?","NAT , URL: /wiki/Network_address_translation
+Live CD , URL: /wiki/Live_CD
+",""
+"FreeSBIE , URL: /wiki/FreeSBIE
+","?","?","FreeBSD , URL: /wiki/FreeBSD
+","2.0.3","2007-02-01","Free","?","?","Live CD , URL: /wiki/Live_CD
+","Live CD , URL: /wiki/Live_CD
+"
+"PicoBSD , URL: /wiki/PicoBSD
+","Michael Bialecki","?","FreeBSD , URL: /wiki/FreeBSD
+","0.42","?","Free","BSD , URL: /wiki/BSD_License
+","boot floppy","?",""
+"Anonym.OS , URL: /wiki/Anonym.OS
+","?","2005-01-01","OpenBSD , URL: /wiki/OpenBSD
+","none (beta only)","?","Free","?","Anonymous browsing","Live CD , URL: /wiki/Live_CD
+",""
+"MirOS BSD , URL: /wiki/MirOS_BSD
+","The MirOS Project","?","OpenBSD , URL: /wiki/OpenBSD
+","#10","2008-03-16","Free","?","?","European",""
+"ekkoBSD[Note 1]","Rick Collette","?","OpenBSD , URL: /wiki/OpenBSD
+","?","?","?","?","Server , URL: /wiki/Server_(computing)
+","easy to administer",""
+"MicroBSD , URL: /w/index.php?title=MicroBSD&action=edit&redlink=1
+","Bulgarians","?","OpenBSD , URL: /wiki/OpenBSD
+","0.6","2003-10-27","Free","?","General purpose","Small, secure",""
+"OliveBSD , URL: /wiki/OliveBSD
+","Gabriel Paderni","?","OpenBSD , URL: /wiki/OpenBSD
+","?","?","Free","?","Live CD , URL: /wiki/Live_CD
+","DistroWatch lists as discontinued.",""
+"Gentoo/FreeBSD , URL: /wiki/Gentoo/FreeBSD
+","Gentoo Linux , URL: /wiki/Gentoo_Linux
+","?","FreeBSD , URL: /wiki/FreeBSD
+","?","?","Free","GPL , URL: /wiki/GNU_General_Public_License
+","Server, Workstation, Network Appliance","uses Gentoo framework",""
+"Gentoo/OpenBSD , URL: /wiki/Gentoo/Alt
+","Gentoo Linux , URL: /wiki/Gentoo_Linux
+","?","OpenBSD , URL: /wiki/OpenBSD
+","?","?","Free","GPL, BSD","Server, Workstation, Network Appliance, Embedded","uses Gentoo framework",""
+"Gentoo/NetBSD , URL: /wiki/Gentoo/Alt
+","Gentoo Linux , URL: /wiki/Gentoo_Linux
+","?","NetBSD , URL: /wiki/NetBSD
+","?","?","Free","GPL, BSD","Server, Workstation, Network Appliance, Embedded","uses Gentoo framework",""
+"Gentoo/DragonflyBSD","Robert Sebastian Gerus (project not yet officially supported by Gentoo)","?","DragonFly BSD , URL: /wiki/DragonFly_BSD
+","?","?","Free","?","Server, Workstation, Network Appliance","uses Gentoo framework",""
+"Debian GNU/kFreeBSD , URL: /wiki/Debian_GNU/FreeBSD
+","Debian GNU/kFreeBSD , URL: http://www.debian.org/ports/kfreebsd-gnu/
+","2011-02-06","GNU , URL: /wiki/GNU
+FreeBSD , URL: /wiki/FreeBSD
+","7.5","2014-04-26","Free","DFSG","General purpose","GNU userspace on FreeBSD kernel",""
+"Debian GNU/NetBSD , URL: /wiki/Debian_GNU/NetBSD
+","Debian GNU/kNetBSD , URL: http://www.debian.org/ports/netbsd/
+","Abandoned","GNU , URL: /wiki/GNU
+NetBSD , URL: /wiki/NetBSD
+","Abandoned","Abandoned","Free","DFSG","General purpose","GNU userspace on NetBSD kernel",""
+"MidnightBSD , URL: /wiki/MidnightBSD
+","Lucas Holt","2007-08-04","FreeBSD , URL: /wiki/FreeBSD
+","2.0","2020-11-13","Free","BSD , URL: /wiki/BSD_License
+","Desktop","GNUstep , URL: /wiki/GNUstep
+",""
+"pfSense , URL: /wiki/PfSense
+","various contributors , URL: http://www.pfsense.org/index.php?option=com_content&task=view&id=59&Itemid=58
+","2006-10-04","FreeBSD , URL: /wiki/FreeBSD
+","2.5.2","2021-07-17","Free","BSD , URL: /wiki/BSD_License
+","Security appliance","NAT , URL: /wiki/Network_address_translation
+Live CD , URL: /wiki/Live_CD
+",""
+"Paxym FreeBSD for Octeon","Paxym Inc.","2007-12-11","FreeBSD , URL: /wiki/FreeBSD
+","4.7","2008-08-13","?","Proprietary , URL: /wiki/Proprietary_software
+","Network, Storage, Security Applications: Routers/UTM/Firewall/NAS","Cavium Networks , URL: /wiki/Cavium_Networks
+MIPS architecture , URL: /wiki/MIPS_architecture
+",""
+"MaheshaBSD , URL: /w/index.php?title=MaheshaBSD&action=edit&redlink=1
+","","?","FreeBSD , URL: /wiki/FreeBSD
+","?","?","Free","BSD , URL: /wiki/BSD_License
+","FreeBSD , URL: /wiki/FreeBSD
+","",""
+"KarmaBSD[46]","","?","FreeBSD , URL: /wiki/FreeBSD
+OpenBSD , URL: /wiki/OpenBSD
+","?","?","Free","Free software , URL: /wiki/Free_software
+","FreeBSD , URL: /wiki/FreeBSD
+OpenBSD , URL: /wiki/OpenBSD
+","",""
+"Jibbed[47]","","","OpenBSD , URL: /wiki/OpenBSD
+NetBSD , URL: /wiki/NetBSD
+","6.0","","Free","BSD , URL: /wiki/BSD_License
+","","Live CD , URL: /wiki/Live_CD
+","Live CD , URL: /wiki/Live_CD
+"
+"Bitrig , URL: /wiki/Bitrig
+","The Bitrig Developers","2014-11-25","OpenBSD , URL: /wiki/OpenBSD
+","1.0","2014-11-25","Free","ISC , URL: /wiki/ISC_License
+","General Purpose","Focus on modern platforms and tools",""
+"StarBSD","digital IXI Corp","2009-12-01","FreeBSD , URL: /wiki/FreeBSD
+","2020.3","2020-03-25","Free","Simplified BSD , URL: /wiki/BSD_licenses#2-clause
+","Server , URL: /wiki/Server_(computing)
+Workstation , URL: /wiki/Computer_workstation
+Network Appliance , URL: /wiki/Network-attached_storage
+Embedded , URL: /wiki/Embedded_system
+","Aims for maximum scalability.",""
+"","Developer","First public release","Based on","Version","Release Date","USD , URL: /wiki/United_States_dollar
+","license , URL: /wiki/Software_license
+","Purpose","Short description",""

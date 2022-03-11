@@ -1,1 +1,148 @@
-"","This section may be confusing or unclear to readers. In particular, Open and Royalty free are not defined and most entries are unsourced. Please help clarify the section. There might be a discussion about this on the talk page. (October 2021) (Learn how and when to remove this template message)"
+"Archi- tecture","Bits","Version","Intro- duced","operands , URL: /wiki/Operand
+","Type","Design","Registers , URL: /wiki/Processor_register
+","Instruction encoding","Branch , URL: /wiki/Branch_(computer_science)
+","Endian- ness , URL: /wiki/Endianness
+","Extensions","Open","Royalty free"
+"6502 , URL: /wiki/MOS_Technology_6502
+","8","","1975","1","Register–Memory , URL: /wiki/Register%E2%80%93memory_architecture
+","CISC , URL: /wiki/Complex_instruction_set_computer
+","3","Variable (8- to 32-bit)","Condition register","Little","","",""
+"6809 , URL: /wiki/Motorola_6809
+","8","","1978","1","Register–Memory","CISC","9","Variable (8- to 32-bit)","Condition register","Big","","",""
+"680x0 , URL: /wiki/Motorola_68000_series
+","32","","1979","2","Register–Memory","CISC","8 data and 8 address","Variable","Condition register","Big","","",""
+"8080 , URL: /wiki/8080
+","8","","1974","2","Register–Memory","CISC","8","Variable (8 to 24 bits)","Condition register","Little","","",""
+"8051 , URL: /wiki/8051
+","32 (8→32)","","1977?","1","Register–Register , URL: /wiki/Load%E2%80%93store_architecture
+","CISC","32 in 4-bit 16 in 8-bit 8 in 16-bit 4 in 32-bit","Variable (8-bit to 128 bytes)","Compare and branch","Little","","",""
+"x86 , URL: /wiki/X86
+","16, 32, 64 (16→32→64)","","1978","AVX , URL: /wiki/Advanced_Vector_Extensions
+FMA4 , URL: /wiki/FMA_instruction_set
+","Register–Memory","CISC","8 (+ 4 or 6 segment reg.) (16/32-bit) 16 (+ 2 segment reg. gs/cs) (64-bit) 32 with AVX-512","Variable (8086 ~ 80386: variable between 1 and 6 bytes /w MMU + intel SDK, 80486: 2 to 5 bytes with prefix, pentium and onward: 2 to 4 bytes with prefix, x64: 4 bytes prefix, third party x86 emulation: 1 to 15 bytes w/o prefix & MMU . SSE/MMX: 4 bytes /w prefix AVX: 8 Bytes /w prefix)","Condition code","Little","x87 , URL: /wiki/X87
+IA-32 , URL: /wiki/IA-32
+MMX , URL: /wiki/MMX_(instruction_set)
+3DNow! , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+PAE , URL: /wiki/Physical_Address_Extension
+x86-64 , URL: /wiki/X86-64
+SSE3 , URL: /wiki/SSE3
+SSSE3 , URL: /wiki/SSSE3
+SSE4 , URL: /wiki/SSE4
+BMI , URL: /wiki/Bit_Manipulation_Instruction_Sets
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AES , URL: /wiki/AES_instruction_set
+FMA , URL: /wiki/FMA_instruction_set
+XOP , URL: /wiki/XOP_instruction_set
+F16C , URL: /wiki/F16C
+","No","No"
+"Alpha , URL: /wiki/DEC_Alpha
+","64","","1992","3","Register–Register","RISC , URL: /wiki/Reduced_instruction_set_computer
+","32 (including "zero")","Fixed (32-bit)","Condition register","Bi","MVI, BWX, FIX, CIX","No",""
+"ARC , URL: /wiki/ARC_(processor)
+","16/32/64 (32→64)","ARCv3[5]","1996","3","Register–Register","RISC","16 or 32 including SP user can increase to 60","Variable (16- or 32-bit)","Compare and branch","Bi","APEX User-defined instructions","",""
+"ARM/A32 , URL: /wiki/ARM_architecture#32-bit_architecture
+","32","ARMv1–v9","1983","3","Register–Register","RISC","15","Fixed (32-bit)","Condition code","Bi","Jazelle , URL: /wiki/Jazelle
+TrustZone , URL: /wiki/ARM_architecture#Security_Extensions_(TrustZone)
+","","No"
+"Thumb/T32 , URL: /wiki/ARM_architecture#Thumb
+","32","ARMv4T-ARMv8","1994","3","Register–Register","RISC","7 with 16-bit Thumb instructions 15 with 32-bit Thumb-2 instructions","Thumb: Fixed (16-bit), Thumb-2: Variable (16- or 32-bit)","Condition code","Bi","Jazelle , URL: /wiki/Jazelle
+TrustZone , URL: /wiki/ARM_architecture#Security_Extensions_(TrustZone)
+","","No"
+"Arm64/A64 , URL: /wiki/ARM_architecture#64/32-bit_architecture
+","64","ARMv8-A[6]","2011[7]","3","Register–Register","RISC","32 (including the stack pointer/"zero" register)","Fixed (32-bit), Variable (32-bit or 64-bit for FMA4 with 32-bit prefix[8])","Condition code","Bi","SVE and SVE2","","No"
+"AVR , URL: /wiki/Atmel_AVR_instruction_set
+","8","","1997","2","Register–Register","RISC","32 16 on "reduced architecture"","Variable (mostly 16-bit, four instructions are 32-bit)","Condition register, skip conditioned on an I/O or general purpose register bit, compare and skip","Little","","",""
+"AVR32 , URL: /wiki/AVR32
+","32","Rev 2","2006","2–3","","RISC","15","Variable[9]","","Big","Java Virtual Machine , URL: /wiki/Java_Virtual_Machine
+","",""
+"Blackfin , URL: /wiki/Blackfin
+","32","","2000","3[10]","Register–Register","RISC[11]","2 accumulators 8 data registers 8 pointer registers 4 index registers 4 buffer registers","Variable (16- or 32-bit)","Condition code","Little[12]","","",""
+"CDC Upper 3000 series , URL: /wiki/CDC_3600#Upper_3000_series
+","48","","1963","3","Register–Memory","CISC","48-bit A reg., 48-bit Q reg., 6 15-bit B registers, miscellaneous","Variable (24- or 48-bit)","Multiple types of jump and skip","Big","","",""
+"CDC 6000 , URL: /wiki/CDC_6000_series
+Central Processor (CP) , URL: /wiki/CDC_6600#Central_Processor_(CP)
+","60","","1964","3","Register–Register","n/a[b]","24 (8 18-bit address reg., 8 18-bit index reg., 8 60-bit operand reg.)","Variable (15-, 30-, or 60-bit)","Compare and branch","n/a[c]","Compare/Move Unit","No","No"
+"CDC 6000 , URL: /wiki/CDC_6000_series
+Peripheral Processor (PP) , URL: /wiki/CDC_6600#Peripheral_Processors_(PPs)
+","12","","1964","1 or 2","Register–Memory","CISC","1 18-bit A register, locations 1–63 serve as index registers for some instructions","Variable (12- or 24-bit)","Test A register, test channel","n/a[d]","additional Peripheral Processing Units","No","No"
+"Crusoe , URL: /wiki/Transmeta_Crusoe
+","32[13]","","2000","1","Register–Register","VLIW , URL: /wiki/Very_long_instruction_word
+","1 in native push stack mode 6 in x86 emulation + 8 in x87/MMX mode + 50 in rename status 12 integer + 48 shadow + 4 debug in native VLIW mode[13][14]","Variable (64- or 128-bit in native mode, 15 bytes in x86 emulation)[14]","Condition code[13]","Little","","",""
+"Elbrus , URL: /wiki/Elbrus_2000
+","64","Elbrus-4S","2014","1","Register–Register[13]","VLIW","8–64","64","Condition code","Little","x87 , URL: /wiki/X87
+IA-32 , URL: /wiki/IA-32
+MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+x86-64 , URL: /wiki/X86-64
+SSE3 , URL: /wiki/SSE3
+AVX , URL: /wiki/Advanced_Vector_Extensions
+","No","No"
+"DLX , URL: /wiki/DLX
+","32","","1990","3","","RISC","32","Fixed (32-bit)","","Big","","Yes","?"
+"eSi-RISC , URL: /wiki/ESi-RISC
+","16/32","","2009","3","Register–Register","RISC","8–72","Variable (16- or 32-bit)","Compare and branch and condition register","Bi","User-defined instructions","No","No"
+"Itanium , URL: /wiki/Itanium
+","64","","2001","","Register–Register","EPIC , URL: /wiki/Explicitly_parallel_instruction_computing
+","128","Fixed (128-bit bundles with 5-bit template tag and 3 instructions, each 41-bit long)","Condition register","Bi (selectable)","Intel Virtualization Technology","No","No"
+"M32R , URL: /wiki/M32R
+","32","","1997","3","Register–Register","RISC","16","Variable (16- or 32-bit)","Condition register","Bi","","",""
+"Mico32 , URL: /wiki/LatticeMico32
+","32","?","2006","3","Register–Register","RISC","32[15]","Fixed (32-bit)","Compare and branch","Big","User-defined instructions","Yes[16]","Yes"
+"MIPS , URL: /wiki/MIPS_architecture
+","64 (32→64)","6[17][18]","1981","1–3","Register–Register","RISC","4–32 (including "zero")","Fixed (32-bit)","Condition register","Bi","MDMX , URL: /wiki/MDMX
+MIPS-3D , URL: /wiki/MIPS-3D
+","No","No[19][20]"
+"MMIX , URL: /wiki/MMIX
+","64","?","1999","3","Register–Register","RISC","256","Fixed (32-bit)","?","Big","?","Yes","Yes"
+"Nios II , URL: /wiki/Nios_II
+","32","","200x","3","Register–Register","RISC","32","Fixed (32-bit)","Condition register","Little","Soft processor that can be instantiated on an Altera FPGA device","No","On Altera/Intel FPGA only"
+"NS320xx , URL: /wiki/NS320xx
+","32","","1982","5","Memory–Memory","CISC","8","Huffman coded , URL: /wiki/Huffman_coding
+","Condition code","Little","BitBlt instructions","",""
+"OpenRISC , URL: /wiki/OpenRISC
+","32, 64","1.3[21]","2010","3","Register–Register","RISC","16 or 32","Fixed","?","?","?","Yes","Yes"
+"PA-RISC , URL: /wiki/PA-RISC
+","64 (32→64)","2.0","1986","3","Register–Register","RISC","32","Fixed (32-bit)","Compare and branch","Big → Bi","MAX , URL: /wiki/Multimedia_Acceleration_eXtensions
+","No",""
+"PDP-8 , URL: /wiki/PDP-8
+","12","","1966","","Register–Memory","CISC","1 accumulator 1 multiplier quotient register","Fixed (12-bit)","Condition register Test and branch","","EAE (Extended Arithmetic Element)","",""
+"PDP-11 , URL: /wiki/PDP-11
+","16","","1970","2","Memory–Memory","CISC","8 (includes stack pointer, though any register can act as stack pointer)","Variable (16-, 32-, or 48-bit)","Condition code","Little","Floating Point, Commercial Instruction Set","No","No"
+"POWER , URL: /wiki/IBM_POWER_instruction_set_architecture
+PowerPC , URL: /wiki/PowerPC
+Power ISA , URL: /wiki/Power_ISA
+","32/64 (32→64)","3.1[23]","1990","3","Register–Register","RISC","32","Fixed (32-bit), Variable (32- or 64-bit with the 32-bit prefix[23])","Condition code","Big/Bi","AltiVec , URL: /wiki/AltiVec
+VSX , URL: /wiki/AltiVec#VSX
+Cell , URL: /wiki/Cell_(microprocessor)
+","Yes","Yes"
+"RISC-V , URL: /wiki/RISC-V
+","32, 64, 128","20191213[24]","2010","3","Register–Register","RISC","32 (including "zero")","Variable","Compare and branch","Little","?","Yes","Yes"
+"RX , URL: /wiki/RX_microcontroller_family
+","64/32/16","","2000","3","Memory–Memory","CISC","4 integer + 4 address","Variable","Compare and branch","Little","","","No"
+"S+core , URL: /wiki/S%2Bcore
+","16/32","","2005","","","RISC","","","","Little","","",""
+"SPARC , URL: /wiki/SPARC
+","64 (32→64)","OSA2017[25]","1985","3","Register–Register","RISC","32 (including "zero")","Fixed (32-bit)","Condition code","Big → Bi","VIS , URL: /wiki/Visual_Instruction_Set
+","Yes","Yes[26]"
+"SuperH , URL: /wiki/SuperH
+","32","","1994","2","Register–Register Register–Memory","RISC","16","Fixed (16- or 32-bit), Variable","Condition code (single bit)","Bi","","Yes","Yes"
+"System/360 , URL: /wiki/IBM_System/360_architecture
+System/370 , URL: /wiki/System/370
+z/Architecture , URL: /wiki/Z/Architecture
+","64 (32→64)","","1964","2 (most) 3 (FMA, distinct operand facility) 4 (some vector inst.)","Register–Memory Memory–Memory Register–Register","CISC","16 general 16 control (S/370 and later) 16 access (ESA/370 and later)","Variable (16-, 32-, or 48-bit)","Condition code, compare and branch","Big","","No","No"
+"Transputer , URL: /wiki/Transputer
+","32 (4→64)","","1987","1","Stack machine , URL: /wiki/Stack_machine
+","MISC , URL: /wiki/Minimal_instruction_set_computer
+","3 (as stack)","Variable (8 ~ 120 bytes)","Compare and branch","Little","","",""
+"VAX , URL: /wiki/VAX
+","32","","1977","6","Memory–Memory","CISC","16","Variable","Compare and branch","Little","","No",""
+"Z80 , URL: /wiki/Z80
+","8","","1976","2","Register–Memory","CISC","17","Variable (8 to 32 bits)","Condition register","Little","","",""
+"Archi- tecture","Bits","Version","Intro- duced","operands , URL: /wiki/Operand
+","Type","Design","Registers , URL: /wiki/Processor_register
+","Instruction encoding","Branch , URL: /wiki/Branch_(computer_science)
+","Endian- ness , URL: /wiki/Endianness
+","Extensions","Open","Royalty free"

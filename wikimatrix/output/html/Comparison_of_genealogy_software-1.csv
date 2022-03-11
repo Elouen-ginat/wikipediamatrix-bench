@@ -1,23 +1,43 @@
-"null","null","null","null","null","null","null","null","null","null"
-"5.5","2020-04-08","No (40 Person Free Trial)","No","Proprietary","Yes","Yes","Using Wine","No","No"
-"3.36","2022-01-14","No (Free demo, 50 person limit, watermarked reports; latest free version: 2.99p)","No","Proprietary","Yes","No","Using Wine","No","No"
-"16.0.6","2020-08-10","Yes (Basics version)","No","Proprietary","Yes","Yes","Using Wine","No","No"
-"11","2021-04-29","Yes","Yes","GNU GPL","Yes","Yes","Yes","No","No"
-"7.5.9","2021-12-15","Yes (Unreg. ver.)","No","Shareware","Yes","No","Using Wine","No","No"
-"7.0.11.0","2022-02-26","No (30-Day Free Trial)","No","Proprietary","Yes","using Crossover","Using Wine","No","No"
-"8.0","2016-08-12","Yes (Free ver.)","No","Proprietary","Yes","Yes","Using Wine","Yes","Yes"
-"2019 (24.0.1)","2019-11","No","No","Proprietary","Yes","Yes","No","No","No"
-"2.3","2016-11-17","No (15-Day Free Trial, Read-Only afterwards)","No","Proprietary","No","Yes","No","?","Yes"
-"3.7.1","2007-11-17","No (30 Day Free Trial)","No","Proprietary","Yes","No","Using Wine","No","No"
-"3.0[1]","2010-03-17","Yes","Yes","GPL-2.0-or-later","Java[a]","Java[a]","Java[a]","No","No"
-"2016, 3.0.0.7","2016-01-27","No (25 Person Free Trial)","No","Proprietary","Yes","No","Using Wine","No","No"
-"5.1.5[2]","2022-02-06","Yes","Yes","GPL-2.0-or-later","Yes","Yes","Yes","No","No"
-"2021","2020-09-22","No (50 Person Free Trial)","No","Proprietary","Yes","Yes","No","Yes","Yes"
-"3.3.0","2019-09-14","No (30-Day Free Trial)","No","Shareware","Yes","No","No","No","No"
-"9.0.0.393","2021-07-12","Yes (Standard Edition)","No","Proprietary","Yes","No","Using Wine","No","No"
-"3.1.1[3]","2016-03-17","Yes","Yes","MIT","Yes","Yes","Yes","No","No"
-"9.3.3","2021-12-13","No (Free Trial, but you cannot save or export your entries)","No","Proprietary","No","Yes","No","No","Yes"
-"5.2.18.0","2002-07-23 (discontinued 2014)","Yes","No","Proprietary","Yes","No","Using Wine","?","?"
-"13.0 (build 220214)","2022-02-14","No (Free demo, 50 person limit, no import/export, watermarked reports)","No","Proprietary","No","Yes","No","No","Yes"
-"8.1.6.0","2022-02-09","Yes (Essentials)","No","Proprietary","Yes","Yes","Using Wine","Yes","Yes"
-"9.05.0000","2014-12-03 (discontinued 2015)","No (30 Day Free Trial)","No","Proprietary","Yes","No","Using Wine","No","No"
+"Name","Individual view","Family view","Pedigree view","Chronology view","Ancestor charts","Ancestor narrative reports","Ancestor pedigree reports","Descendant charts","Descendant narrative reports","Fan charts","Research Manager","DNA charts","Research Guidance","Mapping"
+"Agelong Tree","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No"
+"Ahnenblatt , URL: /wiki/Ahnenblatt
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes"
+"Ancestral Quest , URL: /wiki/Ancestral_Quest
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes"
+"Ancestris","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes"
+"Brother's Keeper , URL: /wiki/Brother%27s_Keeper_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No"
+"Family Historian , URL: /wiki/Family_Historian
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes"
+"Family Tree Builder , URL: /wiki/MyHeritage#Family_Tree_Builder
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes"
+"Family Tree Maker , URL: /wiki/Family_Tree_Maker
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes"
+"GEDitCOM II , URL: /wiki/GEDitCOM
+","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes"
+"Genbox Family History , URL: /wiki/Genbox_Family_History
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No"
+"GenealogyJ , URL: /wiki/GenealogyJ
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes"
+"GenoPro , URL: /wiki/GenoPro
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?","No","Yes"
+"Gramps , URL: /wiki/Gramps_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes"
+"Heredis , URL: /w/index.php?title=Heredis&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes"
+"Kith and Kin Pro , URL: /wiki/Kith_and_Kin_Pro
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No"
+"Legacy Family Tree , URL: /wiki/Legacy_Family_Tree
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"LifeLines , URL: /wiki/LifeLines
+","Yes","Yes","Yes","?","?","?","?","?","?","?","?","?","No","?"
+"MacFamilyTree , URL: /wiki/MacFamilyTree
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes"
+"Personal Ancestral File , URL: /wiki/Personal_Ancestral_File
+","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","No","No","?","No","?"
+"Reunion , URL: /wiki/Reunion_(genealogy_software)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes"
+"RootsMagic , URL: /wiki/RootsMagic
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"The Master Genealogist , URL: /wiki/The_Master_Genealogist
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?","No","?"

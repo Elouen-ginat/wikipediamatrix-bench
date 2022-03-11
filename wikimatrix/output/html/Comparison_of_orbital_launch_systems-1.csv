@@ -1,121 +1,677 @@
-"null","null","null","null","null","null","null","null","null"
-"null","null","null","null","null","null","null","null","null"
-"Agnibaan","India","AgniKul Cosmos","100","","","0","2022[citation needed]",""
-"Alpha","United States","Firefly Aerospace","1,000[1]","","630 to SSO","1","2021","2021"
-"Amur","Russia","","10,500[2]","","","","2026[2]",""
-"Angara 1.2","Russia","Khrunichev","3,500[3]","","2,400 to SSO","0","2022[4][c]",""
-"Angara A5","Russia","Khrunichev","24,000[3]","7,500 with KVTK 5,400 with Briz-M[3]","","3[4]","2014","2021"
-"Antares 230 / 230+","United States","Northrop Grumman","8,200[6]","","3,000 to SSO[d]","6[7]","2016","2021"
-"Ariane 5 ECA / ECA+","Europe","EADS Astrium","21,000[8]","11,210[9]","","79[10]","2002","2021"
-"Ariane 6 A62","Europe","ArianeGroup","10,350[11]: 45 ","5,000[11]: 33 ","6,450 to SSO 3,000 to HEO 3,000 to TLI [11]: 40–49 ","0","2022",""
-"Ariane 6 A64","Europe","ArianeGroup","21,650[11]: 46 ","11,500+ [11]: 33 ","14,900 to SSO 5,000 to GEO 8,400 to HEO 8,500 to TLI [11]: 40–49 ","0","2023",""
-"Rocket 3.2","United States","Astra Space","100[12]","","150 to SSO","3","2020[12]","2021[13]"
-"Atlas V 401","United States","ULA","9,050[14]","4,950","6,670 to SSO","38[14]","2002","2021"
-"Atlas V 411","United States","ULA","9,050[14]","6,075","8,495 to SSO","6[14]","2006","2020"
-"Atlas V 421","United States","ULA","9,050[14]","7,000","9,050 to SSO","7[14]","2007","2017"
-"Atlas V 431","United States","ULA","9,050[14]","7,800","9,050 to SSO","3[14]","2005","2016"
-"Atlas V 501","United States","ULA","8,250[14]","3,970","5,945 to SSO 1,500 to GEO","6[14]","2010","2020"
-"Atlas V 521","United States","ULA","13,300[14]","6,485","9,585 to SSO 2,760 to GEO","2[14]","2003","2004"
-"Atlas V 531","United States","ULA","15,300[14]","7,425","11,160 to SSO 3,250 to GEO","3[14]","2010","2020"
-"Atlas V 541","United States","ULA","17,100[14]","8,240","12,435 to SSO 3,730 to GEO","7[14]","2011","2020"
-"Atlas V 551","United States","ULA","18,500[14]","8,700","13,550 to SSO 3,960 to GEO","11[14]","2006","2020"
-"Atlas V N22[e]","United States","ULA","13,000","","","1","2019[16]","2019"
-"Beta","United States Ukraine","Firefly Aerospace","8,000[17]","TBA","5,800 to SSO","0","TBA",""
-"Bloostar","Spain","Zero 2 Infinity","140[18]","","75 to SSO[18]","0","TBA",""
-"Blue Whale 1","South Korea","Perigee Aerospace","63[19]","","50 to SSO","0","TBA",""
-"Ceres-1","China","Galactic Energy","350","","270 to SSO","2[20]","2020","2021"
-"Cyclone-4M","Ukraine","Yuzhnoye Yuzhmash","5,000[21]","1,000[22]","3,350 to SSO[21]","0","2023[23]",""
-"Chetak","India","Bellatrix Aerospace","","","","","2023",""
-"Delta IV Heavy","United States","ULA","28,790[24]","14,220","23,560 to polar 11,290 to TLI 8,000 to TMI","11[25]","2004","2020"
-"Electron","United States New Zealand","Rocket Lab","300[26]","","200 to SSO[26]","20[27]","2017","2021"
-"Epsilon","Japan","IHI[28]","1,500[29]","","590 to SSO","4[30]","2013","2019"
-"Eris","Australia Singapore","Gilmour Space Technologies","305[31]","","","0","2022[31]",""
-"Falcon 9 Full Thrust (partially reusable)","United States","SpaceX","16,800+[32]","5,500[33][f]","9,600 to polar[35]","108[36][37][g]","2015","2022"
-"Falcon 9 Full Thrust (expended)","United States","SpaceX","22,800[33]","8,300[33]","4,020 to TMI","15[39][40]","2017","2020"
-"Falcon Heavy (partially reusable)[41]","United States","SpaceX","30,000[42]–57,000[43]","8,000[33]–10,000[h]","","3[44][45]","2018","2019"
-"Falcon Heavy (expended)","United States","SpaceX","63,800[46]","26,700[46]","16,800 to TMI[46]","0","– [i]",""
-"GSLV Mk II","India","ISRO","5,000[47]","2,700[48][j]","","7[49]","2010","2018"
-"GSLV Mk III","India","ISRO","10,000[50]","4,000","2,380 to TLI","3[51]","2017[k]","2019"
-"H-IIA 202","Japan","Mitsubishi","8,000[53]: 67 ","4,000[53]: 48 ","5,100 to SSO[l] [53]: 64–65 ","26[54]","2001","2020"
-"H-IIA 204","Japan","Mitsubishi","","5,950[53]: 48 ","","4[54]","2006","2017"
-"H3","Japan","Mitsubishi","4,000[55]","6,500[56]","4,000 to SSO[57]","0","2022[58]",""
-"Hyperbola-1","China","i-Space","300[59]","","","1[60]","2019[61][m]","2019"
-"Hyperbola-2","China","i-Space","2,000[59]","","","0","2022[62]",""
-"Jielong 1[63]","China","CALT","","","200 (SSO)","1[63]","2019","2019"
-"Kaituozhe-2","China","CASC","800[64]","","","1[64]","2017","2017"
-"Kuaizhou 1/1A","China","ExPace","400[65]","","","9[65]","2013[n]","2020"
-"Kuaizhou 11","China","ExPace","1,500[66]","","1,000 to SSO[67]","1","2020","2020"
-"Kuaizhou 21","China","ExPace","20,000[68]","","","0","2025[67]",""
-"LauncherOne","United States","Virgin Orbit","500[69]","","300 to SSO[70]","2","2020","2021"
-"Long March 2C","China","CALT","3,850 [citation needed]","1,250 with CTS2","2,000 to SSO with YZ-1S[71]","64[72]","1982","2021"
-"Long March 2D","China","SAST","4,000","","1,150 to SSO","54[72]","1992","2021"
-"Long March 2F","China","CALT","8,600","","","15[72]","1999","2021"
-"Long March 3A","China","CALT","6,000[73]","2,600","5,000 to SSO","27[74]","1994","2018"
-"Long March 3B/E","China","CALT","11,500[73]","5,500","6,900 to SSO","67[74]","2007","2021"
-"Long March 3C","China","CALT","9,100[73]","3,800","6,500 to SSO","18[74]","2008","2021"
-"Long March 4B","China","SAST","4,200[75]","1,500","2,800 to SSO","43[75]","1999","2021"
-"Long March 4C","China","SAST","4,200[76]","1,500","2,800 to SSO","36[75]","2006","2021"
-"Long March 5","China","CALT","","14,000 [77]","15,000 to SSO[78] 9,400 to TLI[77] 6,000 to TMI[77]","5[78]","2016","2020"
-"Long March 5B","China","CALT","25,000[78]","","","2[78]","2020[79]","2021"
-"Long March 6","China","SAST","","","1,080 to SSO[80]","8[81]","2015","2021"
-"Long March 7","China","CALT","13,500[82]","","5,500 to SSO","4[83]","2016[84]","2021"
-"Long March 7A","China","CALT","","5,500 to 7,000[79]","","3[83]","2020","2021"
-"Long March 8","China","CALT","8,400","2,800","5,000 to SSO","1[85]","2020","2020"
-"Long March 9","China","CALT","150,000[86]","66,000[87]","53,000 to TLI[86] 40,000 to TMI[88]","0","2030[89]",""
-"Long March 11","China","CALT","700[90]","","350 to SSO","11[91]","2015","2020"
-"Minotaur I","United States","Northrop Grumman","580[92]","","","12[93]","2000","2021"
-"Minotaur IV","United States","Northrop Grumman","1,735[94]","","","5[95][o]","2010","2020"
-"Minotaur V","United States","Northrop Grumman","","670[95]","465 to HCO","1[95]","2013","2013"
-"Minotaur-C (Taurus)[96]","United States","Northrop Grumman","1,458[97]","","1,054 to SSO[p]","10[98]","1994","2017"
-"Miura 5","Spain","PLD Space","300[99]","","","0","2024[100]",""
-"Neutron","United States New Zealand","Rocket Lab","8,000","","","0","2024[101]",""
-"New Glenn","United States","Blue Origin","45,000[102]","13,000","","0","2022 Q4[103]",""
-"New Line 1 (partially reusable)[104]","China","LinkSpace","","","200 to SSO[104]","0","TBA",""
-"Nuri (KSLV-II)","South Korea","KARI","","","1,500 to SSO[105][106]","1[106]","2021","2021"
-"OS-M1","China","OneSpace","205[107]","","143 to SSO","1","2019[108][q]","2019"
-"OS-M2","China","OneSpace","390[107]","","292 to SSO","0","TBA",""
-"Pegasus","United States","Northrop Grumman","500[110]","","","44[110][111]","1990","2019"
-"Prime","United Kingdom","Orbex","220[112]","","150 to SSO[d][113]","0","2022[114]",""
-"Proton-M / M+","Russia","Khrunichev","23,000 (M+)[115] 21,600 (M)[116]","6,920 (M+) 6,150 (M)","","108[117][118][119]","2001","2020"
-"PSLV-CA","India","ISRO","2,100[120]","","1,100 to SSO","14[120]","2007","2019"
-"PSLV-DL","India","ISRO","","","","1[120]","2019","2021"
-"PSLV-QL","India","ISRO","","","","2[120]","2019","2019"
-"PSLV-XL","India","ISRO","3,800[120]","1,300","1,750 to SSO 550 to TMI[121]","21[120]","2008","2020"
-"Qased","Iran","Revolutionary Guard Corps (IRGC)","","","","1","2020","2020"
-"Ravn X","United States","Aevum","100[122]","","","0","TBA",""
-"RFA One","Germany","Rocket Factory Augsburg AG","1,600[123]","450[123]","","0","2022[124]",""
-"RS1","United States","ABL Space Systems","1,350[125]","400","1,000 to SSO 750 to MEO","0","2022[126]",""
-"Shavit","Israel","IAI","300[127]","","","10[128]","1988","2020"
-"Simorgh","Iran","Iranian Space Agency","350[129]","","","2[129][r]","2017","2019"
-"Soyuz-2.1a","Russia","TsSKB-Progress","7,020 from Baikonur[130]","","","33[131][132][133]","2006[s]","2020"
-"Soyuz-2.1b","Russia","TsSKB-Progress","8,200 from Baikonur[130]","2,400[134]","","32[132][135]","2006","2021"
-"Soyuz ST-A","Russia Europe","TsSKB-Progress Arianespace","7,800 from Kourou[136]","2,810 with Fregat[137]","","6[132]","2011","2020"
-"Soyuz ST-B","Russia Europe","TsSKB-Progress Arianespace","9,000 from Kourou[138]","3,250 with Fregat[137]","4,400 to SSO[139]","16[132]","2011","2019"
-"Soyuz-2-1v","Russia","TsSKB-Progress","2,800[140]","","1,400 to SSO","5[140]","2013","2019"
-"Soyuz-5 / Irtysh","Russia","TsSKB-Progress RSC Energia","18,000[141]","","2,500 to GEO","0","2022[142][143]",""
-"Space Launch System Block 1[t]","United States","NASA / Boeing (core) Northrop Grumman (SRBs)","95,000[144]","","26,000 to TLI[144]","0","2022[145]",""
-"Spectrum","Germany","Isar Aerospace","1,000[146]","","700 to SSO[146]","0","2022[147]",""
-"SLS Block 1B[u]","United States","NASA / Boeing Northrop Grumman","105,000[148]","","37,000 to TLI[144]","0","2025[149]",""
-"SLS Block 2[v]","United States","NASA / Boeing Northrop Grumman","130,000[150]","","45,000 to HCO[144]","0","late 2020s (TBD)",""
-"SS-520","Japan","IHI Aerospace","4[151]","","","2[152]","2017[153][w]","2018"
-"SSLV","India","ISRO","500[154]","","300 to SSO","0","2022[155]",""
-"Starship[156] (Single launch)","United States","SpaceX","100,000+[156][note 5]","21,000[157]","100,000+ to SSO[157]","0","2022 (orbital)[158]",""
-"Starship[156] (Additional refuelling launches)","United States","SpaceX","100,000+[156][note 6]","100,000+ [156]","100,000+ to Mars surface[156] 100,000+ to lunar surface[156]","0","2022-2023 (TBD)[158]",""
-"Starship (expended, single launch)","United States","SpaceX","250,000[159]","85,000[160]","","0","2022 (TBD)[158]",""
-"Terran 1","United States","Relativity Space","1,250[161]","","900 to SSO","0","2022[162]",""
-"Terran R","United States","Relativity Space","20,000[161]","","","0","2024[161]",""
-"Unha","North Korea","KCST","100[163]","","","4[164]","2009[x]","2016"
-"Vector-R","United States","Vector Launch","64","","","0 (+2)","2022",""
-"Vega","Europe","ESA / ASI","1,500[y][165]","","1,330 to SSO[166]","15[167]","2012","2020"
-"Vega C","Europe","ESA / ASI","2,200[y][168]","","","0","2022[169]",""
-"Vega E","Europe","ESA / ASI","3,000[y][170]","","","0","2025[171]",""
-"Vikram 1[172]","India","Skyroot Aerospace[173]","315 to 45º inclination 500 km LEO","","200 to 500 km SSPO","0","2022[174]",""
-"Vikram 2[172]","India","Skyroot Aerospace","520 to 45º inclination 500 km LEO","","410 to 500 km SSPO","0","TBA",""
-"Vikram 3[172]","India","Skyroot Aerospace","720 to 45º inclination 500 km LEO","","580 to 500 km SSPO","0","TBA",""
-"Vulcan / Centaur","United States","ULA","27,200[175]","14,400[175]","7,200 to GEO[175] 12,100 to TLI","0","2022[176]",""
-"Yenisei[177]","Russia","TsSKB-Progress RSC Energia","88,000 – 115,000[143]","","27,000 to TLI[178][179][180]","0","2028[179]",""
-"Zero","Japan","Interstellar Technologies","","","100 to SSO[d][181]","0","2023[182]",""
-"Zhuque-1","China","LandSpace","300[183]","","200 to SSO","1[184]","2018[184]","2018"
-"Zhuque-2","China","LandSpace","4,000[185]","","2,000 to SSO","0","2022[62]",""
-"Zuljanah","Iran","Iranian Space Agency","220[186]","","","0","TBA",""
-"921 rocket","China","CALT","","","25,000 to TLI[187]","0","2025[89]",""
+"Vehicle","Origin","Manufacturer","Mass to ... (kg)","Mass to ... (kg)","Mass to ... (kg)","Launches (+ suborbital)","Date of flight","Date of flight"
+"Vehicle","Origin","Manufacturer","LEO , URL: /wiki/Low_Earth_orbit
+","GTO , URL: /wiki/Geostationary_transfer_orbit
+","Other , URL: /wiki/List_of_orbits
+","Launches (+ suborbital)","First","Last"
+"Antares 110–130 , URL: /wiki/Antares_(rocket)
+","United States , URL: /wiki/United_States
+","Orbital , URL: /wiki/Orbital_Sciences_Corporation
+","5,100[6]","","1,500 to SSO","5[6]","2013","2014"
+"Ariane 1 , URL: /wiki/Ariane_1
+","Europe , URL: /wiki/Europe
+","Aérospatiale , URL: /wiki/A%C3%A9rospatiale
+","","1,830[188]","","11[188]","1979","1986"
+"Ariane 2 , URL: /wiki/Ariane_2
+","Europe , URL: /wiki/Europe
+","Aérospatiale , URL: /wiki/A%C3%A9rospatiale
+","","2,270[188]","","6[188]","1986","1989"
+"Ariane 3 , URL: /wiki/Ariane_3
+","Europe , URL: /wiki/Europe
+","Aérospatiale , URL: /wiki/A%C3%A9rospatiale
+","","2,650[188]","","11[188]","1984","1989"
+"Ariane 4 , URL: /wiki/Ariane_4
+","Europe , URL: /wiki/Europe
+","Aérospatiale , URL: /wiki/A%C3%A9rospatiale
+","4,600[188]","2,105","2,740 to SSO","7[188]","1990","1999"
+"Ariane 4 , URL: /wiki/Ariane_4
+","Europe , URL: /wiki/Europe
+","Aérospatiale , URL: /wiki/A%C3%A9rospatiale
+","7,000[188]","3,480","4,500 to SSO","13[188]","1993","2002"
+"Ariane 4 , URL: /wiki/Ariane_4
+","Europe , URL: /wiki/Europe
+","Aérospatiale , URL: /wiki/A%C3%A9rospatiale
+","6,000[188]","2,930","3,400 to SSO","15[188]","1990","2002"
+"Ariane 4 , URL: /wiki/Ariane_4
+","Europe , URL: /wiki/Europe
+","Aérospatiale , URL: /wiki/A%C3%A9rospatiale
+","7,000[188]","4,720","6,000 to SSO","40[188]","1989","2003"
+"Ariane 4 , URL: /wiki/Ariane_4
+","Europe , URL: /wiki/Europe
+","Aérospatiale , URL: /wiki/A%C3%A9rospatiale
+","7,000[188]","4,220","5,000 to SSO","26[188]","1988","2001"
+"Ariane 4 , URL: /wiki/Ariane_4
+","Europe , URL: /wiki/Europe
+","Aérospatiale , URL: /wiki/A%C3%A9rospatiale
+","6,500[188]","3,465","4,100 to SSO","15[188]","1991","2001"
+"Ariane 5 , URL: /wiki/Ariane_5
+","Europe , URL: /wiki/Europe
+","EADS Astrium , URL: /wiki/EADS_Astrium_Space_Transportation
+","18,000[10]","6,900[10]","","16[10]","1996","2003"
+"Ariane 5 , URL: /wiki/Ariane_5
+","Europe , URL: /wiki/Europe
+","EADS Astrium , URL: /wiki/EADS_Astrium_Space_Transportation
+","","7,100[10]","","3[10]","2004","2004"
+"Ariane 5 , URL: /wiki/Ariane_5
+","Europe , URL: /wiki/Europe
+","EADS Astrium , URL: /wiki/EADS_Astrium_Space_Transportation
+","16,000[189]","6,600[10]","","6[10]","2005","2009[190]"
+"Ariane 5 , URL: /wiki/Ariane_5
+","Europe , URL: /wiki/Europe
+","EADS Astrium , URL: /wiki/EADS_Astrium_Space_Transportation
+","21,000[8]","8,000[10]","","8[10]","2008","2018"
+"ASLV , URL: /wiki/Augmented_Satellite_Launch_Vehicle
+","India , URL: /wiki/India
+","ISRO , URL: /wiki/ISRO
+","150[192]","","","4[192]","1987","1994"
+"Athena I , URL: /wiki/Athena_I
+","United States , URL: /wiki/United_States
+","Lockheed Martin , URL: /wiki/Lockheed_Martin
+","795[193]","515","","4[194]","1995","2001"
+"Athena II , URL: /wiki/Athena_II
+","United States , URL: /wiki/United_States
+","Lockheed Martin , URL: /wiki/Lockheed_Martin
+","1,800[195]","","","3[196]","1998","1999[197]"
+"Atlas-Centaur , URL: /wiki/Atlas-Centaur
+","United States , URL: /wiki/United_States
+","Lockheed , URL: /wiki/Lockheed_Corporation
+","1,134[198]","2,222[199]","","148","1962","1983"
+"Atlas G , URL: /wiki/Atlas_G
+","United States , URL: /wiki/United_States
+","Lockheed , URL: /wiki/Lockheed_Corporation
+","5,900[200]","2,222","1,179 to HCO[200]","7[200]","1984","1989"
+"Atlas H , URL: /wiki/Atlas_H
+MSD , URL: /w/index.php?title=Multiple_Satellite_Dispenser&action=edit&redlink=1
+","United States , URL: /wiki/United_States
+","Lockheed , URL: /wiki/Lockheed_Corporation
+","3,630[201]","","","5","1983","1987"
+"Atlas I , URL: /wiki/Atlas_I
+","United States , URL: /wiki/United_States
+","Lockheed Martin , URL: /wiki/Lockheed_Martin
+","5,900[200]","2,340[200]","","11[200]","1990","1997"
+"Atlas II , URL: /wiki/Atlas_II
+","United States , URL: /wiki/United_States
+","Lockheed Martin , URL: /wiki/Lockheed_Martin
+","6,780[200]","2,810","2,000 to HCO[200]","10[200]","1991","1998"
+"Atlas II , URL: /wiki/Atlas_II
+","United States , URL: /wiki/United_States
+","Lockheed Martin , URL: /wiki/Lockheed_Martin
+","7,316[200]","3,180","2,160 to HCO[200]","23[200]","1992","2002"
+"Atlas II , URL: /wiki/Atlas_II
+","United States , URL: /wiki/United_States
+","Lockheed Martin , URL: /wiki/Lockheed_Martin
+","8,618[200]","3,833","2,680 to HCO[200]","30[200]","1993","2004"
+"Atlas III , URL: /wiki/Atlas_III
+","United States , URL: /wiki/United_States
+","Lockheed Martin , URL: /wiki/Lockheed_Martin
+","8,686[200]","4,060","2,970 to HCO[200]","2[200]","2000","2004"
+"Atlas III , URL: /wiki/Atlas_III
+DEC , URL: /wiki/Centaur_(rocket_stage)
+","United States","Lockheed Martin , URL: /wiki/Lockheed_Martin
+","10,759[200]","4,609[200]","","1[200]","2002","2002"
+"Atlas III , URL: /wiki/Atlas_III
+SEC , URL: /wiki/Centaur_(rocket_stage)
+","United States , URL: /wiki/United_States
+","Lockheed Martin , URL: /wiki/Lockheed_Martin
+","10,218[202]","4,193[200]","","3[200]","2003","2005"
+"Atlas V , URL: /wiki/Atlas_V
+","United States , URL: /wiki/United_States
+","ULA , URL: /wiki/United_Launch_Alliance
+","11,000[14]","5,250","7,820 to SSO 1,750 to GEO","1[203]","2022","2022"
+"Black Arrow , URL: /wiki/Black_Arrow
+","United Kingdom","RAE , URL: /wiki/Royal_Aircraft_Establishment
+","73[204]","","","2 (+2)","1969[a]","1971"
+"Commercial Titan III , URL: /wiki/Commercial_Titan_III
+","United States , URL: /wiki/United_States
+","Martin Marietta , URL: /wiki/Martin_Marietta
+","13,100[205]","","","4","1990","1992"
+"Delta 0300 , URL: /wiki/Delta_0100
+","United States , URL: /wiki/United_States
+","McDonnell Douglas","","340[206]","747 to SSO[207]","3[208]","1972","1973[209]"
+"Delta 0900 , URL: /wiki/Delta_0100
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","1,300[210]","","818 to SSO[208]","2[208]","1972","1972"
+"Delta 1410 , URL: /wiki/Delta_1000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","340[211]","","","1[208]","1975","1975"
+"Delta 1604 , URL: /wiki/Delta_1000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","390[212]","","","2[208]","1972","1973"
+"Delta 1900 , URL: /wiki/Delta_1000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","1,800[208]","","","1[208]","1973","1973"
+"Delta 1910 , URL: /wiki/Delta_1000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","1,066[213]","","","1[208]","1975","1975"
+"Delta 1913 , URL: /wiki/Delta_1000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","328[214]","","","1[208]","1973","1973"
+"Delta 1914 , URL: /wiki/Delta_1000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","","680[215]","","2[208]","1972","1973"
+"Delta 2310 , URL: /wiki/Delta_2000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","336[216]","","","3[208]","1974","1981"
+"Delta 2313 , URL: /wiki/Delta_2000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","","","243 to GEO[217]","3[208]","1974","1977"
+"Delta 2910 , URL: /wiki/Delta_2000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","1,887[208]","","","6[208]","1975","1978"
+"Delta 2913 , URL: /wiki/Delta_2000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","2,000[218]","700[218]","","6[208]","1975","1976"
+"Delta 2914 , URL: /wiki/Delta_2000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","","724[208]","","30[208]","1974","1979"
+"Delta 3910 , URL: /wiki/Delta_3000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","2,494[208]","PAM-D , URL: /wiki/PAM-D
+","","10[208]","1980","1988"
+"Delta 3913 , URL: /wiki/Delta_3000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","816[219]","","","1[208]","1981","1981"
+"Delta 3914 , URL: /wiki/Delta_3000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","","954[208]","","13[208]","1975","1987"
+"Delta 3920 , URL: /wiki/Delta_3000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","3,452[208]","PAM-D , URL: /wiki/PAM-D
+","","10[208]","1982","1989"
+"Delta 3924 , URL: /wiki/Delta_3000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","","1,104[208]","","4[208]","1982","1984"
+"Delta 4925 , URL: /wiki/Delta_4000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","3,400[220]","1,312[208]","","2[208]","1989","1990"
+"Delta 5920 , URL: /wiki/Delta_5000
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","3,848[221]","","","1[208]","1989","1989"
+"Delta II , URL: /wiki/Delta_II
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","3,983[208]","","","3[208]","1990","1992"
+"Delta II , URL: /wiki/Delta_II
+","United States , URL: /wiki/United_States
+","McDonnell Douglas , URL: /wiki/McDonnell_Douglas
+","","1,447[208]","","14[208]","1989","1992"
+"Delta II , URL: /wiki/Delta_II
+","United States , URL: /wiki/United_States
+","Boeing IDS , URL: /wiki/Boeing_IDS
+ULA , URL: /wiki/United_Launch_Alliance
+","2,865[208]","","1,651 to SSO","12[208]","1999","2015"
+"Delta II , URL: /wiki/Delta_II
+","United States , URL: /wiki/United_States
+","Boeing IDS , URL: /wiki/Boeing_IDS
+","","934[208]","636 to TLI 629 to HCO","3[208]","1998","2001"
+"Delta II , URL: /wiki/Delta_II
+","United States , URL: /wiki/United_States
+","ULA , URL: /wiki/United_Launch_Alliance
+","3,185[208]","","1,966 to SSO","14[208]","1998","2018"
+"Delta II , URL: /wiki/Delta_II
+","United States , URL: /wiki/United_States
+","Boeing IDS , URL: /wiki/Boeing_IDS
+","","1,100[208]","804 to HCO","4[208]","1998","2002"
+"Delta II , URL: /wiki/Delta_II
+","United States , URL: /wiki/United_States
+","Boeing IDS , URL: /wiki/Boeing_IDS
+","","1,058[208]","734 to TLI 711 to HCO","1[208]","1999","1999"
+"Delta II , URL: /wiki/Delta_II
+","United States , URL: /wiki/United_States
+","Boeing IDS , URL: /wiki/Boeing_IDS
+ULA , URL: /wiki/United_Launch_Alliance
+","5,030[208]","","3,123 to SSO","29[208]","1998","2017"
+"Delta II , URL: /wiki/Delta_II
+","United States , URL: /wiki/United_States
+","Boeing IDS , URL: /wiki/Boeing_IDS
+ULA , URL: /wiki/United_Launch_Alliance
+","","1,819[208]","1,177 to TLI 1,265 to HCO","69[208]","1990","2009"
+"Delta II-H , URL: /wiki/Delta_II
+","United States , URL: /wiki/United_States
+","Boeing IDS , URL: /wiki/Boeing_IDS
+ULA , URL: /wiki/United_Launch_Alliance
+","6,097[208]","","","3[208]","2003","2011"
+"Delta II-H , URL: /wiki/Delta_II
+","United States , URL: /wiki/United_States
+","Boeing IDS , URL: /wiki/Boeing_IDS
+ULA , URL: /wiki/United_Launch_Alliance
+","","2,171","1,508 to HCO[208]","3[208]","2003","2007"
+"Delta III , URL: /wiki/Delta_III
+","United States , URL: /wiki/United_States
+","Boeing IDS , URL: /wiki/Boeing_IDS
+","8,292[208]","3,810","","3[208]","1998","2000"
+"Delta IV , URL: /wiki/Delta_IV
+","United States , URL: /wiki/United_States
+","Boeing IDS , URL: /wiki/Boeing_IDS
+","9,440[24]","4,440","7,690 to polar","3[25]","2003","2006"
+"Delta IV , URL: /wiki/Delta_IV
+","United States , URL: /wiki/United_States
+","ULA , URL: /wiki/United_Launch_Alliance
+","13,140[24]","6,390","10,250 to polar","14[25]","2002","2019"
+"Delta IV , URL: /wiki/Delta_IV
+","United States , URL: /wiki/United_States
+","ULA , URL: /wiki/United_Launch_Alliance
+","11,470[24]","5,490","9,600 to polar","3[25]","2012","2018"
+"Delta IV , URL: /wiki/Delta_IV
+","United States , URL: /wiki/United_States
+","ULA , URL: /wiki/United_Launch_Alliance
+","14,140[24]","7,300","11,600 to polar","8[25]","2009","2019"
+"Diamant , URL: /wiki/Diamant
+","France , URL: /wiki/France
+","SEREB , URL: /wiki/SEREB
+","107[222][223]","","","12","1965","1975"
+"Dnepr , URL: /wiki/Dnepr_(rocket)
+","Ukraine , URL: /wiki/Ukraine
+","Yuzhmash , URL: /wiki/Yuzhmash
+","3,700[224]","","","22[224]","1999","2015[225]"
+"Energia , URL: /wiki/Energia
+","Soviet Union , URL: /wiki/Soviet_Union
+","NPO Energia , URL: /wiki/NPO_Energia
+","100,000[226]","","GEO , URL: /wiki/Geostationary_orbit
+","1 (failed to orbit)[227]","1987","1987"
+"Energia , URL: /wiki/Energia
+Buran , URL: /wiki/Buran_(spacecraft)
+","Soviet Union , URL: /wiki/Soviet_Union
+","NPO Energia , URL: /wiki/NPO_Energia
+Launcher , URL: /wiki/Energia
+NPO Molniya , URL: /wiki/NPO_Molniya
+Orbiter , URL: /wiki/Buran_(spacecraft)
+","30,000[226][c]","","","1","1988","1988"
+"Falcon 1 , URL: /wiki/Falcon_1
+","United States , URL: /wiki/United_States
+","SpaceX , URL: /wiki/SpaceX
+","470[228]","","","5[228]","2006","2009"
+"Falcon 9 v1.0 , URL: /wiki/Falcon_9_v1.0
+","United States , URL: /wiki/United_States
+","SpaceX , URL: /wiki/SpaceX
+","10,450[229]","4,540[229]","","5[230]","2010","2013"
+"Falcon 9 v1.1 , URL: /wiki/Falcon_9_v1.1
+","United States , URL: /wiki/United_States
+","SpaceX , URL: /wiki/SpaceX
+","13,150[231][d]","4,850[231]","","15[230]","2013","2016"
+"Feng Bao 1 , URL: /wiki/Feng_Bao_1
+","China , URL: /wiki/China
+","Shanghai Bureau No.2 , URL: /wiki/Shanghai_Academy_of_Spaceflight_Technology
+","2,500[232]","","","8 (+3)[233]","1972","1981"
+"GSLV Mk.I(a) , URL: /wiki/Geosynchronous_Satellite_Launch_Vehicle
+","India , URL: /wiki/India
+","ISRO , URL: /wiki/ISRO
+","5,000[47]","1,540[234]","","1[234]","2001","2001"
+"GSLV Mk.I(b) , URL: /wiki/Geosynchronous_Satellite_Launch_Vehicle
+","India , URL: /wiki/India
+","ISRO , URL: /wiki/ISRO
+","5,000[47]","2,150[234]","","4[234]","2003","2007"
+"GSLV Mk.I(c) , URL: /wiki/Geosynchronous_Satellite_Launch_Vehicle
+","India , URL: /wiki/India
+","ISRO , URL: /wiki/Indian_Space_Research_Organisation
+","5,000[47]","","","1[234]","2010","2010"
+"H-I , URL: /wiki/H-I
+","Japan , URL: /wiki/Japan
+United States , URL: /wiki/United_States
+","Mitsubishi , URL: /wiki/Mitsubishi_Heavy_Industries
+","1,400[235]","","","9","1986","1992"
+"H-II , URL: /wiki/H-II
+","Japan , URL: /wiki/Japan
+","Mitsubishi , URL: /wiki/Mitsubishi_Heavy_Industries
+","10,060[236]","4,000[237]","","7[237]","1994","1999"
+"H-IIA , URL: /wiki/H-IIA
+","Japan , URL: /wiki/Japan
+","Mitsubishi , URL: /wiki/Mitsubishi_Heavy_Industries
+","","4,500[54]","","3[54]","2005","2007"
+"H-IIA , URL: /wiki/H-IIA
+","Japan , URL: /wiki/Japan
+","Mitsubishi , URL: /wiki/Mitsubishi_Heavy_Industries
+","11,000[238]","5,000[54]","","7[54]","2002","2008"
+"H-IIB , URL: /wiki/H-IIB
+","Japan , URL: /wiki/Japan
+","Mitsubishi , URL: /wiki/Mitsubishi_Heavy_Industries
+","ISS , URL: /wiki/ISS
+","8,000","","8[239]","2009","2020"
+"J-I , URL: /wiki/J-I
+","Japan , URL: /wiki/Japan
+","Nissan Motors , URL: /wiki/Nissan_Motors
+","1,000[241]","","","0 (+1)","1996","1996"
+"Kaituozhe-1 , URL: /wiki/Kaituozhe-1
+","China , URL: /wiki/China
+","CALT , URL: /wiki/China_Academy_of_Launch_Vehicle_Technology
+","100[242]","","","2","2002","2003"
+"Kosmos-3M , URL: /wiki/Kosmos-3M
+","Soviet Union , URL: /wiki/Soviet_Union
+Russia , URL: /wiki/Russia
+","NPO Polyot , URL: /wiki/NPO_Polyot
+","1,500[243]","","","442[244]","1967","2010"
+"Lambda 4S , URL: /wiki/Lambda_4S
+","Japan , URL: /wiki/Japan
+","Nissan Motors , URL: /wiki/Nissan_Motors
+","26[245]","","","5","1966","1970"
+"Long March 1 , URL: /wiki/Long_March_1
+","China , URL: /wiki/China
+","CALT , URL: /wiki/China_Academy_of_Launch_Vehicle_Technology
+","300[246]","","","2[247]","1970","1971"
+"Long March 1D , URL: /wiki/Long_March_1D
+","China , URL: /wiki/China
+","CALT , URL: /wiki/China_Academy_of_Launch_Vehicle_Technology
+","740[248]","","","0 (+3)[247]","1995[e]","2002"
+"Long March 2A","China , URL: /wiki/China
+","CALT , URL: /wiki/China_Academy_of_Launch_Vehicle_Technology
+","2,000[249]","","","4[72]","1974","1978"
+"Long March 2E , URL: /wiki/Long_March_2E
+","China , URL: /wiki/China
+","CALT , URL: /wiki/China_Academy_of_Launch_Vehicle_Technology
+","9,200[72]","","","7[72]","1990","1995"
+"Long March 3 , URL: /wiki/Long_March_3
+","China , URL: /wiki/China
+","CALT , URL: /wiki/China_Academy_of_Launch_Vehicle_Technology
+","5,000[74]","","","13[74]","1984","2000"
+"Long March 3B , URL: /wiki/Long_March_3B
+","China , URL: /wiki/China
+","CALT , URL: /wiki/China_Academy_of_Launch_Vehicle_Technology
+","11,200[73]","5,100","5,700 to SSO","12[74]","1996","2012"
+"Long March 4A , URL: /wiki/Long_March_4A
+","China , URL: /wiki/China
+","CALT , URL: /wiki/China_Academy_of_Launch_Vehicle_Technology
+","4,000","","","2[75]","1988","1990"
+"M-V , URL: /wiki/M-V
+","Japan , URL: /wiki/Japan
+","Nissan Motors[240] (1997–2000) IHI Aerospace[28] (2000–2006)","1,850[245]","","","7","1997","2006"
+"Molniya , URL: /wiki/Molniya_(rocket)
+","Soviet Union , URL: /wiki/Soviet_Union
+","RSC Energia , URL: /wiki/RSC_Energia
+","1,800[250]","","","40[251]","1960","1967"
+"Molniya-M , URL: /wiki/Molniya-M
+","Soviet Union , URL: /wiki/Soviet_Union
+Russia , URL: /wiki/Russia
+","RSC Energia , URL: /wiki/RSC_Energia
+","2,400[252]","","","280[253]","1965","2010"
+"Mu-3C , URL: /wiki/Mu_(rocket_family)
+","Japan , URL: /wiki/Japan
+","Nissan Motors , URL: /wiki/Nissan_Motors
+","195[245]","","","4","1974","1979"
+"Mu-3H , URL: /wiki/Mu_(rocket_family)
+","Japan , URL: /wiki/Japan
+","Nissan Motors , URL: /wiki/Nissan_Motors
+","300[245]","","","3","1977","1978"
+"Mu-3S , URL: /wiki/Mu_(rocket_family)
+","Japan , URL: /wiki/Japan
+","Nissan Motors , URL: /wiki/Nissan_Motors
+","300[245]","","","4","1980","1984"
+"Mu-3SII , URL: /wiki/Mu_(rocket_family)
+","Japan , URL: /wiki/Japan
+","Nissan Motors , URL: /wiki/Nissan_Motors
+","770[245]","","","8","1985","1995"
+"Mu-4S , URL: /wiki/Mu_(rocket_family)
+","Japan , URL: /wiki/Japan
+","Nissan Motors , URL: /wiki/Nissan_Motors
+","180[245]","","","4","1971","1972"
+"N1 , URL: /wiki/N1_(rocket)
+","Soviet Union , URL: /wiki/Soviet_Union
+","NPO Energia , URL: /wiki/NPO_Energia
+","95,000[254][255][256][f]","","","4[257] (never reached orbit)","1969","1972"
+"N-I , URL: /wiki/N-I_(rocket)
+","Japan , URL: /wiki/Japan
+United States , URL: /wiki/United_States
+","Mitsubishi , URL: /wiki/Mitsubishi_Heavy_Industries
+","1,200[258]","","","7","1975","1982"
+"N-II , URL: /wiki/N-II_(rocket)
+","Japan , URL: /wiki/Japan
+United States , URL: /wiki/United_States
+","Mitsubishi , URL: /wiki/Mitsubishi_Heavy_Industries
+","2,000[259]","","","8","1981","1987"
+"Naro-1 , URL: /wiki/Naro-1
+","South Korea , URL: /wiki/South_Korea
+Russia , URL: /wiki/Russia
+","KARI , URL: /wiki/KARI
+Khrunichev , URL: /wiki/Khrunichev_State_Research_and_Production_Space_Center
+","100[260]","","","3","2009","2013"
+"NOTS-EV-1 Pilot , URL: /wiki/NOTS-EV-1_Pilot
+","United States , URL: /wiki/United_States
+","United States Navy , URL: /wiki/United_States_Navy
+","1.05[261]","","","10","1958","1958"
+"Paektusan , URL: /wiki/Taepodong-1
+","North Korea , URL: /wiki/North_Korea
+","KCST , URL: /wiki/Korean_Committee_of_Space_Technology
+","700[262]","","","0 (+1)","1998","1998"
+"Polyot , URL: /wiki/Polyot_(rocket)
+","Soviet Union , URL: /wiki/Soviet_Union
+","RSC Energia , URL: /wiki/RSC_Energia
+","1,400","","","2","1963","1964"
+"Proton-K , URL: /wiki/Proton-K
+","Soviet Union , URL: /wiki/Soviet_Union
+Russia , URL: /wiki/Russia
+","Khrunichev , URL: /wiki/Khrunichev_State_Research_and_Production_Space_Center
+","19,760[263]","4,930[264]","","311[265]","1965","2012"
+"PSLV-G , URL: /wiki/PSLV-G
+","India , URL: /wiki/India
+","ISRO , URL: /wiki/Indian_Space_Research_Organisation
+","3,200[120]","1,050","1,600 to SSO","12[120]","1993","2016[266]"
+"Rokot , URL: /wiki/Rokot
+","Russia , URL: /wiki/Russia
+","Khrunichev , URL: /wiki/Khrunichev_State_Research_and_Production_Space_Center
+","1,950[267]","","1,200 to SSO","34[267]","1990","2019"
+"Safir , URL: /wiki/Safir_(rocket)
+","Iran , URL: /wiki/Iran
+","Iranian Space Agency , URL: /wiki/Iranian_Space_Agency
+","65[268]","","","7[268][g]","2008","2019"
+"Saturn I , URL: /wiki/Saturn_I
+","United States , URL: /wiki/United_States
+","Chrysler , URL: /wiki/Chrysler
+Douglas , URL: /wiki/Douglas_Aircraft_Company
+S-IV , URL: /wiki/S-IV
+","9,000[269]","","","10[270]","1961","1965[270]"
+"Saturn IB , URL: /wiki/Saturn_IB
+","United States , URL: /wiki/United_States
+","Chrysler , URL: /wiki/Chrysler
+S-IB , URL: /wiki/S-IB
+Douglas , URL: /wiki/Douglas_Aircraft_Company
+S-IVB , URL: /wiki/S-IVB
+","18,600[271]","","","9[272]","1966","1975"
+"Saturn V , URL: /wiki/Saturn_V
+","United States , URL: /wiki/United_States
+","Boeing , URL: /wiki/Boeing
+S-IC , URL: /wiki/S-IC
+North American , URL: /wiki/North_American_Aviation
+S-II , URL: /wiki/S-II
+Douglas , URL: /wiki/Douglas_Aircraft_Company
+S-IVB , URL: /wiki/S-IVB
+","140,000[273][274]","","47,000 to TLI[275]","13[276][277][h]","1967","1973"
+"Scout , URL: /wiki/Scout_(rocket_family)
+","United States , URL: /wiki/United_States
+","US Air Force , URL: /wiki/US_Air_Force
+NASA , URL: /wiki/NASA
+","174[278]","","","125","1961","1994"
+"Shtil' , URL: /wiki/Shtil%27
+","Russia , URL: /wiki/Russia
+","Makeyev , URL: /wiki/Makeyev_Rocket_Design_Bureau
+","280–420[279]","","","2[280]","1998","2006"
+"SLV , URL: /wiki/Satellite_Launch_Vehicle
+","India , URL: /wiki/India
+","ISRO , URL: /wiki/Indian_Space_Research_Organisation
+","40[281]","","","4[281]","1979","1983[281]"
+"Soyuz , URL: /wiki/Soyuz_(rocket)
+","Soviet Union , URL: /wiki/Soviet_Union
+","RSC Energia , URL: /wiki/RSC_Energia
+","6,450","","","31[282]","1966","1976"
+"Soyuz-FG , URL: /wiki/Soyuz-FG
+","Russia , URL: /wiki/Russia
+","TsSKB-Progress , URL: /wiki/TsSKB-Progress
+","6,900[283]","","","70[132][284]","2001","2019"
+"Soyuz-L , URL: /wiki/Soyuz-L
+","Soviet Union , URL: /wiki/Soviet_Union
+","RSC Energia , URL: /wiki/RSC_Energia
+","5,500","","","3[285]","1970","1971"
+"Soyuz-M , URL: /wiki/Soyuz-M
+","Soviet Union , URL: /wiki/Soviet_Union
+","RSC Energia , URL: /wiki/RSC_Energia
+","6,600","","","8[286]","1971","1976"
+"Soyuz-U , URL: /wiki/Soyuz-U
+","Soviet Union , URL: /wiki/Soviet_Union
+Russia , URL: /wiki/Russia
+","TsSKB-Progress , URL: /wiki/TsSKB-Progress
+","Baikonour , URL: /wiki/Baikonur_Cosmodrome
+Plesetsk , URL: /wiki/Plesetsk_Cosmodrome
+","","","786[132][133][288]","1973","2017"
+"Soyuz-U2 , URL: /wiki/Soyuz-U2
+","Soviet Union , URL: /wiki/Soviet_Union
+Russia , URL: /wiki/Russia
+","TsSKB-Progress , URL: /wiki/TsSKB-Progress
+","7,050","","","72[289]","1982","1995"
+"Space Shuttle , URL: /wiki/Space_Shuttle
+","United States , URL: /wiki/United_States
+","ATK , URL: /wiki/Alliant_Techsystems
+SRBs , URL: /wiki/Space_Shuttle_Solid_Rocket_Booster
+Martin Marietta , URL: /wiki/Martin_Marietta
+External tank , URL: /wiki/Space_Shuttle_external_tank
+Rockwell , URL: /wiki/Rockwell_International
+Orbiter , URL: /wiki/Space_Shuttle_orbiter
+","24,400[c]","4,944 with IUS[290] 1,200 with PAM-D[291]","IUS , URL: /wiki/Inertial_Upper_Stage
+","135[292]","1981","2011"
+"Sputnik , URL: /wiki/Sputnik_(rocket)
+","Soviet Union , URL: /wiki/Soviet_Union
+","RSC Energia , URL: /wiki/RSC_Energia
+","500[293]","","","2","1957","1957"
+"Sputnik , URL: /wiki/Sputnik_(rocket)
+","Soviet Union , URL: /wiki/Soviet_Union
+","RSC Energia , URL: /wiki/RSC_Energia
+","1,327","","","2","1958","1958"
+"Start-1 , URL: /wiki/Start-1
+","Russia , URL: /wiki/Russia
+","MITT , URL: /wiki/Moscow_Institute_of_Thermal_Technology
+","532","","SSO , URL: /wiki/Sun_synchronous_orbit
+","5[295]","1993","2006"
+"Strela , URL: /wiki/Strela_(rocket)
+","Russia , URL: /wiki/Russia
+","Khrunichev , URL: /wiki/Khrunichev_State_Research_and_Production_Space_Center
+","1,400[296]","","","3[297]","2003","2014"
+"Titan II GLV , URL: /wiki/Titan_II_GLV
+","United States , URL: /wiki/United_States
+","Martin Marietta , URL: /wiki/Martin_Marietta
+","3,600[298]","","","11 (+1)","1964","1966"
+"Titan II(23)G , URL: /wiki/Titan_23G
+","United States , URL: /wiki/United_States
+","Martin Marietta , URL: /wiki/Martin_Marietta
+","3,600[299]","","","13","1988","2003"
+"Titan IIIA , URL: /wiki/Titan_IIIA
+","United States , URL: /wiki/United_States
+","Martin Marietta , URL: /wiki/Martin_Marietta
+","3,100[300]","","","4","1964","1965"
+"Titan IIIB , URL: /wiki/Titan_IIIB
+","United States , URL: /wiki/United_States
+","Martin Marietta , URL: /wiki/Martin_Marietta
+","3,000[301]","","","70","1966","1987"
+"Titan IIIC , URL: /wiki/Titan_IIIC
+","United States , URL: /wiki/United_States
+","Martin Marietta , URL: /wiki/Martin_Marietta
+","13,100[302]","","","36","1965","1982"
+"Titan IIID , URL: /wiki/Titan_IIID
+","United States , URL: /wiki/United_States
+","Martin Marietta , URL: /wiki/Martin_Marietta
+","12,300[303]","","","22","1971","1982"
+"Titan IIIE , URL: /wiki/Titan_IIIE
+","United States , URL: /wiki/United_States
+","Martin Marietta , URL: /wiki/Martin_Marietta
+","15,400[304]","","","7","1974","1977"
+"Titan 34D , URL: /wiki/Titan_34D
+","United States , URL: /wiki/United_States
+","Martin Marietta , URL: /wiki/Martin_Marietta
+","4,515[305]","","","15","1982","1989"
+"Titan IV , URL: /wiki/Titan_IV
+","United States , URL: /wiki/United_States
+","Martin Marietta , URL: /wiki/Martin_Marietta
+","17,110[306]","IUS , URL: /wiki/Inertial_Upper_Stage
+","14,090 to SSO[306] 4,536 to GSO with Centaur 3,550 to escape with IUS","22[307]","1989","1998"
+"Titan IV , URL: /wiki/Titan_IV
+","United States , URL: /wiki/United_States
+","Lockheed Martin , URL: /wiki/Lockheed_Martin
+","21,682[308]","5,761[308] (9,000 with upper stage)","","17[307]","1997","2005"
+"Tsyklon-2A , URL: /wiki/Tsyklon-2A
+","Soviet Union , URL: /wiki/Soviet_Union
+","Yuzhmash , URL: /wiki/Yuzhmash
+","3,350[309]","","","8[310]","1967","1969"
+"Tsyklon-2 , URL: /wiki/Tsyklon-2
+","Soviet Union , URL: /wiki/Soviet_Union
+Ukraine , URL: /wiki/Ukraine
+","Yuzhmash , URL: /wiki/Yuzhmash
+","2,820[311]","","","106[312]","1969","2006[312]"
+"Tsyklon-3 , URL: /wiki/Tsyklon-3
+","Soviet Union , URL: /wiki/Soviet_Union
+Ukraine , URL: /wiki/Ukraine
+","Yuzhmash , URL: /wiki/Yuzhmash
+","1,920[313]","","","122[314]","1977","2009[314]"
+"Vanguard , URL: /wiki/Vanguard_(rocket)
+","United States , URL: /wiki/United_States
+","Martin , URL: /wiki/Martin_Aircraft
+","9[315]","","","11 (+1)","1957","1959"
+"VLS-1 , URL: /wiki/VLS-1
+","Brazil , URL: /wiki/Brazil
+","AEB , URL: /wiki/Brazilian_Space_Agency
+IAE , URL: /wiki/Aeronautics_and_Space_Institute
+","380[316]","","","2[i] (never reached orbit)","1997","2003"
+"Volna , URL: /wiki/Volna
+","Russia , URL: /wiki/Russia
+","Makeyev , URL: /wiki/Makeyev_Rocket_Design_Bureau
+","100[317]","","","1 (+5)[280]","1995[j]","2005[280]"
+"Voskhod , URL: /wiki/Voskhod_(rocket)
+","Soviet Union , URL: /wiki/Soviet_Union
+","RSC Energia , URL: /wiki/RSC_Energia
+","6,000[318]","","","306","1963","1976"
+"Vostok-L , URL: /wiki/Vostok-L
+","Soviet Union , URL: /wiki/Soviet_Union
+","RSC Energia , URL: /wiki/RSC_Energia
+","","","390 to TLI[319]","4","1960","1960"
+"Vostok-K , URL: /wiki/Vostok-K
+","Soviet Union , URL: /wiki/Soviet_Union
+","RSC Energia , URL: /wiki/RSC_Energia
+","2,460[320]","","","16","1960","1964"
+"Vostok-2 , URL: /wiki/Vostok-2_(rocket)
+","Soviet Union , URL: /wiki/Soviet_Union
+","RSC Energia , URL: /wiki/RSC_Energia
+","4,730[320]","","","45","1962","1967"
+"Vostok-2M , URL: /wiki/Vostok-2M
+","Soviet Union , URL: /wiki/Soviet_Union
+","RSC Energia , URL: /wiki/RSC_Energia
+","1,300[321]","","","93","1964","1991"
+"Soyuz/Vostok , URL: /wiki/Soyuz/Vostok
+","Soviet Union , URL: /wiki/Soviet_Union
+","RSC Energia , URL: /wiki/RSC_Energia
+","6,000[322]","","","2","1965","1966"
+"Zenit-2 , URL: /wiki/Zenit-2
+","Soviet Union , URL: /wiki/Soviet_Union
+Ukraine , URL: /wiki/Ukraine
+","Yuzhnoye , URL: /wiki/Yuzhnoye_Design_Bureau
+","13,740[323]","","","36[324]","1985","2004[325]"
+"Zenit-2M , URL: /wiki/Zenit-2M
+","Ukraine , URL: /wiki/Ukraine
+","Yuzhnoye , URL: /wiki/Yuzhnoye_Design_Bureau
+","13,920[323]","","","2[324]","2007","2011"
+"Zenit-3F , URL: /wiki/Zenit-3F
+","Ukraine , URL: /wiki/Ukraine
+","Yuzhnoye , URL: /wiki/Yuzhnoye_Design_Bureau
+","","","1,740 to GEO[326]","4[327]","2011","2017"
+"Zenit-3SL , URL: /wiki/Zenit-3SL
+","Ukraine , URL: /wiki/Ukraine
+","Yuzhmash , URL: /wiki/Yuzhmash
+RSC Energia , URL: /wiki/RSC_Energia
+","7,000[327]","6,160","","36[327]","1999","2014"
+"Zenit-3SLB , URL: /wiki/Zenit-3SLB
+","Ukraine , URL: /wiki/Ukraine
+","Yuzhmash , URL: /wiki/Yuzhmash
+RSC Energia , URL: /wiki/RSC_Energia
+","","3,750[327]","","6[327]","2008","2013"

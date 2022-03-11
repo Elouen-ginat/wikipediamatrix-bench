@@ -1,0 +1,58 @@
+"Program","search (criteria)","selection (styles)","metadata","adjust image (functions)","hotkeys","ICC , URL: /wiki/ICC_profile
+","JPEG Lossless operations","Unicode support","other / special"
+"ACDSee , URL: /wiki/ACDSee
+","Yes","Yes individual, linear, block","Yes Exif, IPTC","Yes many","Yes","Yes","Yes rotation only","Yes","GPS Location, Scripts for batch/pre processing, automatic slideshow"
+"CDisplay , URL: /wiki/CDisplay
+","No","No","Yes","Yes Rotate, Filter","Yes configurable","Yes","No","No","Slider, automatic slideshow, mouse control"
+"digiKam , URL: /wiki/DigiKam
+","Yes file name, comments, most Exif and meta data","Yes linear, block, complex","Yes Exif and IPTC","Yes many editing function","Yes","Yes","Yes by changing EXIF orientation and not in editor","Yes","Geotagging , URL: /wiki/Geotagging
+"
+"Eye of gnome , URL: /wiki/Eye_of_gnome
+","No","No","Yes","Yes Rotate","Yes unconfigurable","","Yes","",""
+"F-Spot , URL: /wiki/F-Spot
+","","","Yes","","","","","","Flickr , URL: /wiki/Flickr
+"
+"FastPictureViewer , URL: /wiki/Fast_Picture_Viewer
+","Yes Filter the view by rating, file name...","Yes Copy, move, delete, rate, label","Yes Write XMP Rating/Label, IPTC metadata, Windows Rating, embedded or in sidecar files, shows shooting info (Exif) and realtime RGB histogram","No","Yes","Yes (supports custom monitor profile, direct conversion from image colorspace to monitor colorspace, ICC v4)","n/a","Yes, native","MTP/PTP , URL: /wiki/Media_Transfer_Protocol
+USB , URL: /wiki/Universal_Serial_Bus
+Multicore , URL: /wiki/Multi-core
+DirectX , URL: /wiki/DirectX
+HD Photo , URL: /wiki/HD_Photo
+JPEG XR , URL: /wiki/JPEG_XR
+"
+"Gonvisor , URL: /wiki/Gonvisor
+","No","Yes Delete, rename","No","Yes","Yes","Yes","n/a","Yes, native","Made to easily read comics or manga can display two pages at time and view images in compressed ZIP, RAR, 7z, cbr, cba, cbz etc."
+"FastStone Image Viewer , URL: /wiki/FastStone_Image_Viewer
+","","Yes individual, linear","Yes EXIF, JPEG comment","Yes many","Yes","","Yes lossless transitions","Yes","full screen mode with all commands available via pop-up menu bars when approaching the mouse from the borders of the screen"
+"Geeqie , URL: /wiki/Geeqie
+","Yes collections, keywords, filename, location, size, date, dimensions, comments, previous results","Yes block, linear, complex","Yes","Yes rotate, brightness, contrast","Yes","Yes","","","find duplicates, sort manager, recent collections"
+"gThumb , URL: /wiki/GThumb
+","Yes name, comment, date, category, folder, recursive-folder","Yes linear, block, complex","Partial","Yes manipulate color, flip/rotate, etc.","Yes","","Yes","","bookmarks, comments, rename series, create index image, create HTML album"
+"Gwenview , URL: /wiki/Gwenview
+","Yes tags","","Yes Exif, IPTC, XMP","Yes Rotate, Red eye removal, saturation, color balance, levels and more","Yes","","Yes, rotation and flipping","Yes","batch processing, export to Internet/social media/HTML"
+"KPhotoAlbum , URL: /wiki/KPhotoAlbum
+","Yes keywords, comments, title, any field from Exif metadata","Yes linear, complex","Partial","KIPI , URL: /wiki/KIPI
+","Yes configurable","","","","Quick-tagging using keyboard tokens"
+"Phase One Media Pro , URL: /wiki/Phase_One_Media_Pro
+","Yes name, date, rating, file size, and many more.","Yes individual, linear","Yes EXIF, IPTC, and custom keywords","Yes Rotate, Red eye removal, saturation, color balance, levels and more","Yes","Yes","","Yes","Find duplicates, hierarchical keywords, distributable catalog with free Media Pro reader, offline browsing of images"
+"Picasa , URL: /wiki/Picasa
+","Yes name, date, rating, faces","Yes individual, linear","Partial Keywords","Partial basic","Yes","Yes","Yes rotation only","Yes","Geotagging , URL: /wiki/Geotagging
+"
+"Shotwell , URL: /wiki/Shotwell_(software)
+","No","Yes individual, linear, hide","Yes Read IPTC, Exif, XMP","Yes Exposure, Saturation, Tint, Shadows, Temperature, and more","Yes","No","No","Yes","Non-destructive editor, Auto Enhance Images, Duplicate, Upload, Favorite"
+"STDU Viewer , URL: /wiki/STDU_Viewer
+","No","No","No","No","Yes","No","No","Yes",""
+"Windows Photo Viewer , URL: /wiki/Windows_Photo_Viewer
+","No","No","Yes: Exif","Yes rotate, lossless JPEG rotate, annotate TIFF images","Yes","","Yes rotate only","Yes",""
+"XnView , URL: /wiki/XnView
+","Yes name, date, file size, image size, meta data, ...","Yes individual, linear","Yes IPTC, Exif, JPEG comment","Yes many","Yes configurable","Yes Custom monitor profile supported","Yes","XnView , URL: /wiki/XnView
+","8BF , URL: /wiki/8BF
+"
+"xv , URL: /wiki/Xv_(software)
+","No","Partial individual, all","Partial view comments","Yes many","Yes","","","",""
+"Zoner Photo Studio , URL: /wiki/Zoner_Photo_Studio
+","Yes name, date, file size, meta data","Yes individual, linear","Yes IPTC, Exif, XMP, JPEG comment","Yes very many","Yes configurable","Yes","Yes","Yes","GPS , URL: /wiki/GPS
+HDR , URL: /wiki/High_dynamic_range_rendering
+"
+"Program","search (criteria)","selection (styles)","metadata","adjust image (functions)","hotkeys","ICC , URL: /wiki/ICC_profile
+","JPEG Lossless operations","Unicode support","other / special"

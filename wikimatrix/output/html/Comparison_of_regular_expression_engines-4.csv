@@ -1,0 +1,28 @@
+"","UTF-16 , URL: /wiki/UTF-16
+","UTF-8 , URL: /wiki/UTF-8
+","Multi-line matching","Partial match[Note 2]"
+"Boost.Regex , URL: /w/index.php?title=Boost.Regex&action=edit&redlink=1
+","No","No","Yes","Yes"
+"GLib , URL: /wiki/GLib
+","Yes","Yes","Yes","Yes"
+"RXP , URL: https://titan-ic.com/technology/rxp-explained
+","Yes","Yes","No","Yes"
+"ICU , URL: /wiki/International_Components_for_Unicode
+","Yes","No","Yes","?"
+"Java , URL: /wiki/Java_(programming_language)
+","No","Partial[Note 3]","Yes","Yes"
+".NET , URL: /wiki/.NET_Framework
+","No[Note 4]","Yes","Yes","?"
+"PCRE , URL: /wiki/Perl_Compatible_Regular_Expression
+","Yes[Note 5]","Yes","Yes","Yes"
+"Qt , URL: /wiki/Qt_(toolkit)
+","Yes","No","No","?"
+"Tcl , URL: /wiki/Tcl
+","Yes","Yes[Note 6]","Yes","?"
+"TRE , URL: /wiki/TRE_(computing)
+","Yes","Yes","Yes","?"
+"RGX","No","No","Yes","?"
+"wxWidgets , URL: /wiki/WxWidgets
+wxRegEx , URL: http://docs.wxwidgets.org/3.0/classwx_reg_ex.html
+","Yes","Yes","Yes","?"
+"XRegExp","Yes","?","Yes","?"

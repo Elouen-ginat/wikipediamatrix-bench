@@ -1,0 +1,221 @@
+"Product","Creator","Latest stable release date","Latest stable release","License , URL: /wiki/Software_license
+","Windows , URL: /wiki/Microsoft_Windows
+","Mac OS X , URL: /wiki/Mac_OS_X
+","Linux , URL: /wiki/Linux
+","Oracle , URL: /wiki/Oracle_Database
+","MySQL , URL: /wiki/MySQL
+","PostgreSQL , URL: /wiki/PostgreSQL
+","MS SQL Server , URL: /wiki/Microsoft_SQL_Server
+","ODBC , URL: /wiki/ODBC
+","JDBC , URL: /wiki/JDBC
+","SQLite , URL: /wiki/SQLite
+","Other","Programming language"
+"DaDaBIK","Eugenio Tacchini","2021-08-27[±]","11.0 Elba[1]","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","","PHP , URL: /wiki/PHP
+"
+"DatabaseSpy , URL: /wiki/DatabaseSpy
+","Altova , URL: /wiki/Altova
+","2019-04-02[±]","2019r3[2]","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","","IBM DB2 , URL: /wiki/IBM_DB2
+Sybase , URL: /wiki/Sybase
+MS Access , URL: /wiki/MS_Access
+","C++ , URL: /wiki/C%2B%2B
+"
+"Database Workbench , URL: /wiki/Database_Workbench
+","Upscene Productions","2021-12-08","6.0.3","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Wine , URL: /wiki/Wine_(software)
+","Wine , URL: /wiki/Wine_(software)
+","Yes","Yes","Yes","Yes","Yes","","","InterBase , URL: /wiki/InterBase
+Firebird , URL: /wiki/Firebird_(database_server)
+SQL Anywhere , URL: /wiki/SQL_Anywhere
+NexusDB , URL: /wiki/NexusDB
+MariaDB , URL: /wiki/MariaDB
+","Delphi , URL: /wiki/Delphi_(programming_language)
+"
+"DataGrip , URL: /wiki/DataGrip
+","JetBrains","2017-09-06","2017.2.2","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Sybase , URL: /wiki/Sybase
+DB2 , URL: /wiki/IBM_DB2
+H2 , URL: /wiki/H2_(DBMS)
+Hypersonic SQL , URL: /wiki/Hypersonic_SQL
+Amazon Redshift , URL: /wiki/Amazon_Redshift
+Apache Derby , URL: /wiki/Apache_Derby
+","Java , URL: /wiki/Java_(programming_language)
+"
+"DBeaver , URL: /wiki/DBeaver
+","Serge Rider","2021-10-03","21.2.2","Apache License , URL: /wiki/Apache_License
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","MySQL , URL: /wiki/MySQL
+PostgreSQL , URL: /wiki/PostgreSQL
+Oracle , URL: /wiki/Oracle_Database
+EXASOL , URL: /wiki/EXASOL
+IBM DB2 , URL: /wiki/IBM_DB2
+SQL Server , URL: /wiki/Microsoft_SQL_Server
+Apache Derby , URL: /wiki/Apache_Derby
+Firebird , URL: /wiki/Firebird_(database_server)
+JDBC , URL: /wiki/JDBC
+","Java , URL: /wiki/Java_(programming_language)
+"
+"DBEdit , URL: /wiki/DBEdit
+","Jef Van Den Ouweland","2012-05-10","2.4.6","GPL , URL: /wiki/GPL
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","IBM DB2 , URL: /wiki/IBM_DB2
+HSQLDB , URL: /wiki/HSQLDB
+Apache Derby , URL: /wiki/Apache_Derby
+H2 , URL: /wiki/H2_(DBMS)
+","Java , URL: /wiki/Java_(programming_language)
+"
+"DbVisualizer , URL: /w/index.php?title=DbVisualizer&action=edit&redlink=1
+","DbVis Software AB","2021-11-11","12.1.5","Free Reducted Function Version / Prorietary Pro Version","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","[1] , URL: https://www.dbvis.com/features/database-drivers/
+","Java , URL: /wiki/Java_(programming_language)
+"
+"Epictetus , URL: /wiki/Epictetus_Database_Client
+","Antilogic Software","?","?","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Yes","","Yes","Yes","","","","Sybase , URL: /wiki/Sybase
+InterBase , URL: /wiki/InterBase
+Firebird , URL: /wiki/Firebird_(database_server)
+H2 , URL: /wiki/H2_(DBMS)
+HSQLDB , URL: /wiki/HSQLDB
+","Java , URL: /wiki/Java_(programming_language)
+"
+"HeidiSQL , URL: /wiki/HeidiSQL
+","Ansgar Becker","2021-05-30[±]","11.3[4]","GPL , URL: /wiki/GPL
+","Yes","Wine , URL: /wiki/Wine_(software)
+","Wine , URL: /wiki/Wine_(software)
+","","Yes","Yes","Yes","","","Yes","","Embarcadero Delphi , URL: /wiki/Embarcadero_Delphi
+"
+"Maatkit , URL: /wiki/Maatkit
+","Baron Schwartz , URL: /wiki/Baron_Schwartz
+","2010-06-01","5247","GPL , URL: /wiki/GPL
+","Yes","Yes","Yes","","Yes","","","","","","","Perl , URL: /wiki/Perl
+"
+"Microsoft SQL Server Management Studio , URL: /wiki/SQL_Server_Management_Studio
+","Microsoft , URL: /wiki/Microsoft
+","2022-03-08[5]","18.11.1","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","No","","","","Yes","","","","including SSAS management, and MDX, DMX, and XMLA languages",".Net , URL: /wiki/.NET_Framework
+"
+"ModelRight , URL: /wiki/ModelRight
+","ModelRight , URL: /wiki/ModelRight
+","2016-12-??","4.1[6][7]","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","No","Yes","Yes","","Yes","Yes","","","SQL Server , URL: /wiki/Microsoft_SQL_Server
+Oracle , URL: /wiki/Oracle_Database
+MySQL , URL: /wiki/MySQL
+PostgreSQL , URL: /wiki/PostgreSQL
+DB2 , URL: /wiki/IBM_DB2
+MS Access , URL: /wiki/MS_Access
+","C++ , URL: /wiki/C%2B%2B
+"
+"MySQL Workbench , URL: /wiki/MySQL_Workbench
+","Oracle Corporation , URL: /wiki/Oracle_Corporation
+","2020-09-12[±]","8.0.22[8]","GPL , URL: /wiki/GPL
+","Yes","Yes","Yes","","Yes","","","","","","","C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+Objective-C , URL: /wiki/Objective-C
+Python (programming language) , URL: /wiki/Python_(programming_language)
+"
+"Navicat , URL: /wiki/Navicat
+","PremiumSoft CyberTech Ltd.","2020-04-15","15.0.13","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Wine , URL: /wiki/Wine_(software)
+","Yes","Yes","Yes","Yes","Yes","","Yes","","Borland Delphi , URL: /wiki/Borland_Delphi
+Objective-C , URL: /wiki/Objective-C
+"
+"Navicat Data Modeler , URL: /wiki/Navicat
+","PremiumSoft CyberTech Ltd.","2015-12-10","2.1","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","","Yes","","Borland Delphi , URL: /wiki/Borland_Delphi
+Objective-C , URL: /wiki/Objective-C
+"
+"Oracle Enterprise Manager , URL: /wiki/Oracle_Enterprise_Manager
+","Oracle Corp. , URL: /wiki/Oracle_Corporation
+","2015-06-16","12.1.0.5","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","Yes","Yes","Yes","","Yes","","","","DB2 , URL: /wiki/IBM_DB2
+Sybase , URL: /wiki/Sybase
+TimesTen , URL: /wiki/TimesTen
+","Java , URL: /wiki/Java_(programming_language)
+"
+"Oracle SQL Developer , URL: /wiki/Oracle_SQL_Developer
+","Oracle Corp. , URL: /wiki/Oracle_Corporation
+","2018-04-05","18.1.0.095.1630","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","","Microsoft Access , URL: /wiki/Microsoft_Access
+Sybase , URL: /wiki/Sybase
+DB2 , URL: /wiki/IBM_DB2
+Teradata , URL: /wiki/Teradata
+","Java , URL: /wiki/Java_(programming_language)
+"
+"Orbada , URL: /wiki/Orbada
+","Andrzej Kaluza","2016-12-06[±]","1.2.5.395[9]","GPL , URL: /wiki/GPL
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Firebird , URL: /wiki/FirebirdSQL
+HSQL , URL: /wiki/HSQL
+InterBase , URL: /wiki/InterBase
+Derby , URL: /wiki/Derby
+JDBC , URL: /wiki/JDBC
+","Java , URL: /wiki/Java_(programming_language)
+"
+"pgAdmin , URL: /wiki/PgAdmin_III
+","pgAdmin Development Team","2020-03-05","4.19[10]","PostgreSQL License , URL: /wiki/PostgreSQL
+","Yes","Yes","Yes","","","Yes","","","","","","C++ , URL: /wiki/C%2B%2B
+"
+"phpLiteAdmin , URL: /wiki/PhpLiteAdmin
+","Dane Iracleous, Christopher Kramer and others","2019-09-05","1.9.8.2[11]","GPL , URL: /wiki/GPL
+","Yes","Yes","Yes","No","No","No","No","No","No","Yes","","PHP , URL: /wiki/PHP
+"
+"phpMyAdmin , URL: /wiki/PhpMyAdmin
+","phpMyAdmin Development Team","2022-02-11[±]","5.1.3[12]","GPL , URL: /wiki/GPL
+","Yes","Yes","Yes","","Yes","","","","","","Drizzle , URL: /wiki/Drizzle_(database_server)
+MariaDB , URL: /wiki/MariaDB
+","php , URL: /wiki/Php
+"
+"SQL Database Studio , URL: /wiki/SQL_Database_Studio
+","Jan Prochazka","2016-05-27","3.4.1","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","No","No","No","No","Yes","","","","",".NET , URL: /wiki/.NET_Framework
+WPF , URL: /wiki/Wolf_Preservation_Foundation
+C# , URL: /wiki/C_Sharp_(programming_language)
+"
+"SQLyog , URL: /wiki/SQLyog
+","Webyog Softworks Pvt. Ltd.","2022-01-11[±]","13.1.9[13]","GPLv2 , URL: /wiki/Gpl_v2#Version_2
+","Yes","Wine , URL: /wiki/Wine_(software)
+","Wine , URL: /wiki/Wine_(software)
+","","Yes","","","","","","","C++ , URL: /wiki/C%2B%2B
+"
+"SQuirreL SQL , URL: /wiki/SQuirreL_SQL_Client
+","Colin Bell, Gerd Wagner, Rob Manning and others","2021-10-02[±]","4.3.0[14]","GPLv2 , URL: /wiki/GPLv2
+LGPLv , URL: /wiki/LGPL
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Access , URL: /wiki/Microsoft_Access
+Apache Derby , URL: /wiki/Apache_Derby
+Fujitsu Siemens SESAM/SQL , URL: /wiki/SESAM_(database)
+Firebird , URL: /wiki/Firebird_(database_server)
+FrontBase , URL: /wiki/FrontBase
+HSQLDB , URL: /wiki/HSQLDB
+Hypersonic SQL , URL: /wiki/Hypersonic_SQL
+H2 (DBMS) , URL: /wiki/H2_(DBMS)
+IBM DB2 , URL: /wiki/IBM_DB2
+Informix , URL: /wiki/Informix
+Ingres , URL: /wiki/Ingres_(database)
+OpenIngres , URL: /wiki/OpenIngres
+InterBase , URL: /wiki/InterBase
+Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
+Mimer SQL , URL: /wiki/Mimer_SQL
+Netezza , URL: /wiki/Netezza
+SAPDB , URL: /wiki/SAPDB
+Sybase , URL: /wiki/Sybase
+","Java , URL: /wiki/Java_(programming_language)
+"
+"Toad , URL: /wiki/Toad_(software)
+","Quest Software , URL: /wiki/Quest_Software
+","Various","Various","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","No","Yes","Yes","","Yes","Yes","","","DB2 , URL: /wiki/IBM_DB2
+Sybase , URL: /wiki/Sybase
+","Embarcadero Delphi , URL: /wiki/Embarcadero_Delphi
+C#.NET , URL: /wiki/C_Sharp_(programming_language)
+"
+"Toad Data Modeler , URL: /wiki/Toad_Data_Modeler
+","Quest Software , URL: /wiki/Quest_Software
+","2009-03-05","3.3.8","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","No","Yes","Yes","Yes","Yes","","","","DB2 , URL: /wiki/IBM_DB2
+MS Access , URL: /wiki/MS_Access
+Sybase , URL: /wiki/Sybase
+","Embarcadero Delphi , URL: /wiki/Embarcadero_Delphi
+"
+"TOra , URL: /wiki/TOra
+","Community","2017-07-04","3.2","GPL , URL: /wiki/GPL
+","Yes","Yes","Yes","Yes","Yes","Yes","","","","","Teradata , URL: /wiki/Teradata
+","C++ , URL: /wiki/C%2B%2B
+Qt , URL: /wiki/Qt_(software)
+"

@@ -6,13 +6,16 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.List;
 
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 import org.junit.Test;
 
 import fr.univrennes1.istic.wikipediamatrix.Convertor.Convertor;
 import fr.univrennes1.istic.wikipediamatrix.Convertor.HTML.WikipediaHTMLConvertor;
+import fr.univrennes1.istic.wikipediamatrix.Convertor.HTML.WikipediaHTMLConvertorPlus;
 import fr.univrennes1.istic.wikipediamatrix.Exception.NoTableException;
 import fr.univrennes1.istic.wikipediamatrix.Extractor.Extractor;
 import fr.univrennes1.istic.wikipediamatrix.Extractor.HTML.WikipediaHTMLExtractor;
@@ -58,30 +61,29 @@ public class BenchTest {
 				continue;
 			}
 
-			Element table = null;
+			Elements tables = null;
 			try {
-				table = extractor.getTable(doc, 0);
+				tables = extractor.getAllFirstTable(doc);
 			}catch (NoTableException e) {
 				App.LOGGER.info(e.getMessage());
 				continue;
 			}
-			Convertor convertor = new WikipediaHTMLConvertor();
-			String[][] string_table = convertor.toStringTable(table);
+			Convertor convertor = new WikipediaHTMLConvertorPlus();
+			List<String[][]> string_tables = convertor.toStringTables(tables);
 	       
-	       // for exporting to CSV files, we will use mkCSVFileName 
-	       // example: for https://en.wikipedia.org/wiki/Comparison_of_operating_system_kernels
-	       // the *first* extracted table will be exported to a CSV file called 
-	       // "Comparison_of_operating_system_kernels-1.csv"
-	       String csvFileName = mkCSVFileName(url, 1);
-	       System.out.println("CSV file name: " + csvFileName);
-	       // the *second* (if any) will be exported to a CSV file called
-	       // "Comparison_of_operating_system_kernels-2.csv"
+			// for exporting to CSV files, we will use mkCSVFileName 
+			// example: for https://en.wikipedia.org/wiki/Comparison_of_operating_system_kernels
+			// the *first* extracted table will be exported to a CSV file called 
+			// "Comparison_of_operating_system_kernels-1.csv"
+	    	Serializer serializer = new WikipediaHTMLSerializer();
+			for (int i = 0; i < string_tables.size(); i++) {
+				String csvFileName = mkCSVFileName(url, i);
+				App.LOGGER.info("CSV file name: " + csvFileName);
 
-	       
-	       // the HTML extractor should save CSV files into output/HTML
-	       // see outputDirHtml 
-		   Serializer serializer = new WikipediaHTMLSerializer();
-		   serializer.saveToCSV(string_table, csvFileName);
+				String[][] string_table = string_tables.get(i);
+
+				serializer.saveToCSV(string_table, csvFileName);
+			}
 	       
 	       // the Wikitext extractor should save CSV files into output/wikitext
 	       // see outputDirWikitext      

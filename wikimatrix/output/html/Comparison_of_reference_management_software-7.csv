@@ -1,0 +1,83 @@
+"Software","ArXiv , URL: /wiki/ArXiv
+","CiteSeer , URL: /wiki/CiteSeer
+","IEEE Xplore , URL: /wiki/IEEE_Xplore
+","PubMed , URL: /wiki/PubMed
+","Unpaywall , URL: /wiki/Unpaywall
+","Other"
+"Bebop","No","No","No","No","No","No"
+"BibBase","No","No","No","No","No","DBLP , URL: /wiki/DBLP
+Zotero , URL: /wiki/Zotero
+BibSonomy , URL: /wiki/BibSonomy
+Mendeley , URL: /wiki/Mendeley
+"
+"BibDesk","Yes","Yes","No","Yes","No","ACM , URL: /wiki/Association_for_Computing_Machinery
+Jstor , URL: /wiki/Jstor
+DBLP , URL: /wiki/DBLP
+Google Scholar , URL: /wiki/Google_Scholar
+Z39.50 , URL: /wiki/Z39.50
+Entrez , URL: /wiki/Entrez
+"
+"Biblioscape","No","No","No","Yes","No","Import from integrated web browser"
+"BibSonomy","Yes","Yes","Yes","Yes","No","various[46]"
+"Bibus","No","No","No","Yes","No","none"
+"Bookends","Yes","No","No","Yes","No","Z39.50 , URL: /wiki/Z39.50
+"
+"Citavi","Yes","Yes","Yes","Yes","No","WorldCat , URL: /wiki/WorldCat
+OCLC , URL: /wiki/Online_Computer_Library_Center
+Ovid , URL: /wiki/Ovid_Technologies
+EBSCO , URL: /wiki/EBSCO
+ProQuest , URL: /wiki/ProQuest
+Web of Science , URL: /wiki/Web_of_Science
+Z39.50 , URL: /wiki/Z39.50
+SRU , URL: /wiki/Search/Retrieve_via_URL
+request , URL: https://www.citavi.com/databases
+COinS , URL: /wiki/COinS
+"
+"CiteULike","Yes","Yes","Yes","Yes","No","[4] , URL: http://www.citeulike.org/post
+"
+"colwiz","Yes","Yes","Yes","Yes","No","Over 30 repositories, Import from integrated web browser"
+"EndNote","Yes","No","Yes","Yes","No","Z39.50 , URL: /wiki/Z39.50
+"
+"JabRef","Yes","Yes","Yes","Yes","Yes[48]","ACM Portal , URL: /wiki/ACM_Portal
+CrossRef , URL: /wiki/CrossRef
+DBLP , URL: /wiki/DBLP
+DOAJ , URL: /wiki/DOAJ
+DOI , URL: /wiki/Digital_object_identifier
+Google Scholar , URL: /wiki/Google_Scholar
+INSPIRE-HEP , URL: /wiki/INSPIRE-HEP
+Medline , URL: /wiki/Medline
+MathSciNet , URL: /wiki/MathSciNet
+SAO/NASA Astrophysics Data System , URL: /wiki/Astrophysics_Data_System
+Springer , URL: /wiki/Springer_Publishing
+zbMATH , URL: /wiki/ZbMATH
+"
+"KBibTeX","Yes","Yes","Yes","Yes","No","BibSonomy , URL: /wiki/BibSonomy
+CiteBase , URL: /w/index.php?title=CiteBase&action=edit&redlink=1
+CSB , URL: /wiki/The_Collection_of_Computer_Science_Bibliographies
+DBLP , URL: /wiki/DBLP
+Google Scholar , URL: /wiki/Google_Scholar
+ScienceDirect , URL: /wiki/ScienceDirect
+INSPIRE-HEP , URL: /wiki/INSPIRE-HEP
+Z MATH , URL: /wiki/Zentralblatt_MATH
+Z39.50 , URL: /wiki/Z39.50
+"
+"Mendeley","Yes","Yes","Yes","Yes","No","[5] , URL: http://www.mendeley.com/import/
+"
+"Paperpile","Yes","No","No","Yes","No","Google Scholar , URL: /wiki/Google_Scholar
+"
+"Pybliographer","No","No","No","Yes","No","none"
+"Qiqqa","Yes","No","Yes","Yes","No","GoogleScholar, JSTOR"
+"ReadCube (now Papers)","Yes","No","Yes","Yes","No","Microsoft Academic, Google Scholar"
+"refbase","Yes","No","No","Yes","No","DOI , URL: /wiki/Digital_object_identifier
+"
+"RefDB","Yes","No","No","Yes","No","Z39.50 , URL: /wiki/Z39.50
+"
+"Reference Manager","No","No","No","Yes","No","various[49]"
+"Referencer","?","?","?","?","No","?"
+"RefME","?","?","?","?","?","?"
+"RefWorks","No","No","No","Yes","No","various"
+"SciRef","No","No","No","No","No","No"
+"Sente","Yes","Yes","Yes","Yes","No","Z39.50, SRU, Web of Knowledge"
+"Wikindx","No","No","No","Yes","No","No"
+"WizFolio","Yes","No","Yes","Yes","No","various[50]"
+"Zotero","Yes","Yes","Yes","Yes","Yes[51]","various[52]"

@@ -1,0 +1,92 @@
+"Name","Hidden containers","Pre-boot authentication","Single sign-on","Custom authentication","Multiple keys","Passphrase strengthening","Hardware acceleration","TPM","Filesystems","Two-factor authentication"
+"Aloaha Secure Stick","Yes","No","N/A","Yes","Yes","No","No","No","NTFS, FAT32","Yes"
+"ArchiCrypt Live","Yes[64]","No","N/A","No","Yes[64][65]","No","No","No","?","Yes[64][66]"
+"BestCrypt , URL: /wiki/BestCrypt
+","Yes","Yes","Yes","Yes","Yes[67]","Yes","Yes","Yes","Any supported by OS","Yes[68]"
+"BitArmor , URL: /wiki/BitArmor
+","No","Yes","?","No","Yes","Yes","No","No","NTFS, FAT32 on non-system volumes","No"
+"BitLocker , URL: /wiki/BitLocker
+","No","Yes[69]","No","Yes[70]","Yes[71]","Yes[72]","Yes","Yes[71]","Chiefly NTFS [Note 1]","Yes [Note 2]"
+"Bloombase StoreSafe","No","No","N/A","Yes","Yes","Yes","Yes","No","Any supported by OS","Yes"
+"CGD","No","No","N/A","Yes[73]","Yes[74]","Yes[73]","No","No","Any supported by OS","Yes[73]"
+"CenterTools DriveLock","No","Yes","Yes","No","No","Yes","No","No","Any supported by OS","Yes"
+"Check Point Full Disk Encryption","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","NTFS, FAT32","Yes"
+"CipherShed , URL: /wiki/CipherShed
+","Yes (limited to one per "outer" container)","only on Windows[75]","?","No","yes with multiple keyfiles[76][77]","Yes","Yes","No[78]","Only Windows MBR volumes; no UEFI GPT drives, and dynamic drives discouraged[79]","Yes"
+"CryFS","No","No","N/A","No","No","Yes[80]","No","No","Any supported by OS","No"
+"CrossCrypt , URL: /wiki/CrossCrypt
+","No","No","N/A","No","No","No","No","No","?","No"
+"CryptArchiver","No","No","N/A","No","No","?","No","No","?","?"
+"Cryptic Disk","Yes","No","No","No","Yes","Yes","Yes","No","Any supported by OS","Yes"
+"Cryhod","No","Yes","Yes","No","Yes","Yes","Yes","No","Any supported by OS","Yes"
+"Cryptoloop , URL: /wiki/Cryptoloop
+","No","Yes[81]","?","Yes","No","No","Yes[citation needed]","No","Any supported by OS","?"
+"Cryptomator","No","No","N/A","No","No","Yes","Yes","No","Any supported by OS","No"
+"CryptoPro Secure Disk Enterprise","Yes with add-on Secure Device","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Any supported by OS","Yes"
+"CryptoPro Secure Disk for BitLocker","Yes with add-on Secure Device","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Any supported by OS","Yes"
+"Cryptsetup , URL: /wiki/Cryptsetup
+Dmsetup , URL: /wiki/Dmsetup
+","No","Yes[81]","?","Yes","No","No","Yes","No","Any supported by OS","Yes"
+"DiskCryptor , URL: /wiki/DiskCryptor
+","No","Yes","?","No","No","No","Yes[82]","No","Windows volumes on MBR and UEFI GPT drives, ReFs any FS supported by OS[83]","Yes[82]"
+"DISK Protect","No","Yes[84]","Yes","No","Yes[84]","No","Yes","Yes","NTFS,FAT32","Yes"
+"Dm-crypt , URL: /wiki/Dm-crypt
+LUKS , URL: /wiki/LUKS
+","No","Yes[81]","?","Yes","Yes","Yes","Yes","Partial[85] [Note 3]","Any supported by OS","Yes"
+"DriveCrypt , URL: https://www.securstar.com/en/drivecrypt.html
+","Yes[86]","Yes","Yes","Yes","Yes","Yes","Yes","No","Any supported by OS","Yes"
+"DriveSentry , URL: /wiki/DriveSentry
+","No","No","N/A","Yes","No","Yes","No","?","Any supported by OS","Yes"
+"E4M , URL: /wiki/E4M
+","No","No","N/A","No","No","?","No","No","?","No"
+"e-Capsule Private Safe","Yes[87]","No","N/A","No","Yes[87]","No","Yes","No","?","?"
+"eCryptfs , URL: /wiki/ECryptfs
+","No","No","N/A","Yes","Yes","Yes","Yes","Yes","Yes[88]","Yes"
+"EgoSecure HDD Encryption","No","Yes","Yes","Yes","Yes","Yes","Yes[89]","Yes","NTFS, FAT32","Yes"
+"EncryptUSB","No","No","No","No","No","Yes","No","No","NTFS, FAT32, exFAT","No"
+"FileVault , URL: /wiki/FileVault
+","No","No","N/A","No","Two passwords[90]","Yes[90]","?","No","HFS+, possibly others","No"
+"FileVault 2 , URL: /wiki/FileVault
+","No","Yes","Yes","No","Yes","Yes","Yes[91]","No","HFS+, possibly others","No"
+"FREE CompuSec","No","Yes","?","No","No","No","No","No","Any supported by OS","No"
+"FreeOTFE , URL: /wiki/FreeOTFE
+","Yes","No","N/A","Yes[92]","Yes[93]","Yes","Yes","No","Any supported by OS","Yes"
+"GBDE , URL: /wiki/GBDE
+","No","No[94]","N/A","Yes","Yes[95]","No[95]","No[94]","No","Any supported by OS","Yes"
+"GELI , URL: /wiki/Geli_(software)
+","No","Yes[94]","?","Yes","Yes[96]","Yes[96]","Yes[94]","No","Any supported by OS","Yes"
+"Loop-AES","No","Yes[97]","?","Yes[97]","Yes[97]","Yes[97]","Yes[97]","No","Any supported by OS","Yes[98]"
+"McAfee Drive Encryption (SafeBoot)","Yes","Yes","Yes","Yes","Yes","Yes","Yes[89][99]","Yes","Any supported by OS","Yes"
+"n-Crypt Pro","No","No","N/A","No","No","N/A[100]","No","No","?","?"
+"PGPDisk , URL: /wiki/PGPDisk
+","No","Yes[101]","Yes","?","Yes","Yes[102]","?","Yes","?","Yes"
+"Private Disk , URL: /wiki/Private_Disk
+","No","No","N/A","No","Yes","Yes","No","No","Any supported by OS","Yes"
+"ProxyCrypt","Yes","No","No","No","No","Yes","Yes","No","Any supported by OS","Yes"
+"R-Crypto","?","No","N/A","?","?","?","?","?","Any supported by OS","?"
+"SafeGuard Easy","No","Yes","?","No","Yes","Yes","No","Yes[103]","Any supported by OS","Yes"
+"SafeGuard Enterprise","No","Yes","Yes","No","Yes","Yes","No","Yes[103]","Any supported by OS","Yes"
+"SafeGuard PrivateDisk","No","No","N/A","No","Yes","Yes","No","Yes[104]","Any supported by OS","Yes"
+"SafeHouse Professional","No","No","N/A","Yes","Yes","Yes","No","No","Any supported by OS","Yes"
+"Scramdisk , URL: /wiki/Scramdisk
+","Yes","No","N/A","No","No","No","No","No","?","Last update to web site 2009-07-02"
+"Scramdisk , URL: /wiki/Scramdisk
+","Yes[105]","No","N/A","No","No","Yes[105]","No","No","ext2, ext3, reiserfs, minix, ntfs, vfat/msdos","No"
+"SecuBox","No","No","N/A","No","No","Yes","No","No","?","No"
+"SecureDoc","No","Yes[106]","?","Yes","Yes","Yes","Yes","Yes","?","Yes"
+"Seqrite , URL: /wiki/Seqrite
+","No","Yes","Yes","No","Yes","Yes","Yes","No","Any supported by OS","No"
+"Sentry 2020 , URL: /wiki/Sentry_2020
+","No","No","?","No","No","No","No","No","?","No"
+"Softraid / RAID C","No","No","?","?","?","?","Yes","?","Any supported by OS","?"
+"Svnd / Vnconfig","No","No","N/A","No","No","Yes[107]","Yes","?","Any supported by OS","?"
+"Symantec , URL: /wiki/NortonLifeLock
+","No","Yes","Yes","Yes","Yes","Yes","No","No","NTFS, FAT32","Yes"
+"Trend Micro , URL: /wiki/Trend_Micro
+","No","Yes","Yes","Yes","Yes","Yes[108]","Yes[109]","No","Any supported by OS","Yes[110]"
+"TrueCrypt , URL: /wiki/TrueCrypt
+","Yes (limited to one per "outer" container)","only on Windows[111]","?","No","yes with multiple keyfiles[77][112]","Yes","Yes","No[78]","Only Windows MBR volumes; no UEFI GPT drives, and dynamic drives discouraged[79]","Yes"
+"VeraCrypt , URL: /wiki/VeraCrypt
+","Yes (limited to one per "outer" container)","only on Windows[113]","No","No","yes with multiple keyfiles","Yes","Yes","No","Windows on both MBR and UEFI GPT drives; dynamic drives discouraged","Yes"
+"CyberSafe Top Secret","Yes","No","No","No","Yes","Yes","Yes","No","Only Windows MBR volumes; no UEFI GPT drives, and dynamic drives discouraged","Yes"
+"Name","Hidden containers","Pre-boot authentication","Single sign-on","Custom authentication","Multiple keys","Passphrase strengthening","Hardware acceleration","TPM","Filesystems","Two-factor authentication"

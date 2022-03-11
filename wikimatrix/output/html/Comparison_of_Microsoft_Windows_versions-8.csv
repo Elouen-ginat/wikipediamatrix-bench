@@ -1,0 +1,160 @@
+"Name","Architecture","Store","firewall , URL: /wiki/Firewall_(computing)
+","SMP , URL: /wiki/Symmetric_multiprocessing
+","USB , URL: /wiki/USB
+","UDMA support","Long filename , URL: /wiki/Long_filename
+","Package management , URL: /wiki/Package_management
+","Update management","APIs","DDIs","Safe Mode","Data Execution Prevention , URL: /wiki/Data_Execution_Prevention
+","DirectX"
+"Windows NT 3.1 , URL: /wiki/Windows_NT_3.1
+","IA-32 , URL: /wiki/IA-32
+DEC Alpha , URL: /wiki/DEC_Alpha
+MIPS , URL: /wiki/MIPS_architecture
+","N/A","No","Yes","No","?","NTFS , URL: /wiki/NTFS
+HPFS , URL: /wiki/High_Performance_File_System
+","N/A","","OS/2 , URL: /wiki/OS/2
+POSIX , URL: /wiki/POSIX
+","DLL, KMD","No","No","No"
+"Windows NT 3.5 , URL: /wiki/Windows_NT_3.5
+","IA-32 , URL: /wiki/IA-32
+DEC Alpha , URL: /wiki/DEC_Alpha
+MIPS , URL: /wiki/MIPS_architecture
+","N/A","No","Yes","No","?","Yes (except on CDFS volumes)","N/A","","Win32, OS/2, POSIX","DLL, KMD","No","No","No"
+"Windows NT 3.51 , URL: /wiki/Windows_NT_3.51
+","IA-32 , URL: /wiki/IA-32
+DEC Alpha , URL: /wiki/DEC_Alpha
+MIPS , URL: /wiki/MIPS_architecture
+PowerPC , URL: /wiki/PowerPC
+","N/A","No","Yes","No","?","Yes (except on CDFS volumes)","N/A","","Win32, OS/2, POSIX","DLL, KMD","No","No","No"
+"Windows NT 4.0 , URL: /wiki/Windows_NT_4.0
+","IA-32 , URL: /wiki/IA-32
+DEC Alpha , URL: /wiki/DEC_Alpha
+MIPS , URL: /wiki/MIPS_architecture
+PowerPC , URL: /wiki/PowerPC
+","N/A","No","Yes","Yes (if the Ion USB update is installed)","Yes","Yes","N/A","Windows Update , URL: /wiki/Windows_Update
+","Win32, OS/2, POSIX","DLL, KMD","No","No","Yes 3.0a, 5.0(unofficial)"
+"Windows 2000 , URL: /wiki/Windows_2000
+","IA-32 , URL: /wiki/IA-32
+","N/A","No","Yes","Yes (USB 2.0 with update or SP4)[4]","Yes","Yes","N/A","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+","Win32, OS/2, POSIX","DLL, KMD, WDM, KMDF","Yes","No","Yes 7.0, 9.0c(feb2010)(optional)"
+"Windows XP , URL: /wiki/Windows_XP
+","IA-32 , URL: /wiki/IA-32
+Itanium , URL: /wiki/Itanium
+x64 , URL: /wiki/X64
+","N/A","Yes","Yes (Professional Edition only)","Yes (USB 2.0 with update or SP1+)[5]","Yes","Yes","N/A","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+",".NET , URL: /wiki/.NET_Framework
+","DLL, KMD, WDM, KMDF, UMDFv1","Yes","Yes (in SP2)","Yes 9.0c"
+"Windows Server 2003 , URL: /wiki/Windows_Server_2003
+","IA-32 , URL: /wiki/IA-32
+Itanium , URL: /wiki/Itanium
+x64 , URL: /wiki/X64
+","N/A","Yes","Yes","Yes (USB 2.0)[6]","Yes","Yes","N/A","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+","Win32","DLL, KMD, WDM, KMDF, UMDFv1","Yes","Yes (in SP1)","Yes 9.0c"
+"Windows Fundamentals for Legacy PCs , URL: /wiki/Windows_Fundamentals_for_Legacy_PCs
+","IA-32 , URL: /wiki/IA-32
+","N/A","Yes","No","Yes","Yes","Yes","N/A","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+","Win32","DLL, KMD, WDM, KMDF, UMDFv1","Yes","Yes","Yes 9.0c"
+"Windows Vista , URL: /wiki/Windows_Vista
+","IA-32 , URL: /wiki/IA-32
+x64 , URL: /wiki/X64
+","Windows Marketplace , URL: /wiki/Windows_Marketplace
+","Yes","Yes","Yes (USB 2.0)","Yes","Yes","N/A","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+",".NET , URL: /wiki/.NET_Framework
+","DLL, KMD, WDM, KMDF, UMDFv1","Yes","Yes","Yes 10.1 11.0(optional)"
+"Windows Server 2008 , URL: /wiki/Windows_Server_2008
+","IA-32 , URL: /wiki/IA-32
+Itanium , URL: /wiki/Itanium
+x64 , URL: /wiki/X64
+","N/A","Yes","Yes","Yes (USB 2.0)","Yes","Yes","N/A","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+","Win32","DLL, KMD, WDM, KMDF, UMDFv1","Yes","Yes","Yes 10.1 11.0(optional)"
+"Windows Home Server , URL: /wiki/Windows_Home_Server
+","IA-32 , URL: /wiki/IA-32
+","N/A","?","Yes","Yes (USB 2.0)","?","Yes","N/A","Windows Update , URL: /wiki/Windows_Update
+","Win32","DLL, KMD, WDM, KMDF, UMDFv1","?","?","Yes 9.0c"
+"Windows 7 , URL: /wiki/Windows_7
+","IA-32 , URL: /wiki/IA-32
+x64 , URL: /wiki/X64
+","N/A","Yes","Yes","Yes (USB 3.0)","Yes","Yes","N/A","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+",".NET , URL: /wiki/.NET_Framework
+","DLL, KMD, WDM, KMDF, UMDFv1","Yes","Yes","Yes 11.0 11.1(optional)"
+"Windows Server 2008 R2 , URL: /wiki/Windows_Server_2008_R2
+","Itanium , URL: /wiki/Itanium
+x64 , URL: /wiki/X64
+","N/A","Yes","Yes","Yes (USB 3.0)","Yes","Yes","N/A","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+",".NET , URL: /wiki/.NET_Framework
+","DLL, KMD, WDM, KMDF, UMDFv1","Yes","Yes","Yes 11.0 11.1(optional)"
+"Windows Home Server 2011 , URL: /wiki/Windows_Home_Server_2011
+","x64 , URL: /wiki/X64
+","N/A","?","Yes","Yes (USB 3.0)","?","Yes","N/A","Windows Update , URL: /wiki/Windows_Update
+","Win32","DLL, KMD, WDM, KMDF, UMDFv1","?","?","Yes 11.0 11.1(optional)"
+"Windows Server 2012 , URL: /wiki/Windows_Server_2012
+","x64 , URL: /wiki/X64
+","Windows Store , URL: /wiki/Windows_Store
+","Yes","Yes","Yes (USB 3.0)","Yes","Yes","Windows Store , URL: /wiki/Windows_Store
+","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+",".NET , URL: /wiki/.NET_Framework
+WinRT , URL: /wiki/WinRT
+","DLL, KMD, WDM, KMDF, UMDFv1","Yes","Yes","Yes 11.1"
+"Windows 8 , URL: /wiki/Windows_8
+","IA-32 , URL: /wiki/IA-32
+x64 , URL: /wiki/X64
+","Windows Store , URL: /wiki/Windows_Store
+","Yes","Yes","Yes (USB 3.0)","Yes","Yes","Windows Store , URL: /wiki/Windows_Store
+","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+",".NET , URL: /wiki/.NET_Framework
+WinRT , URL: /wiki/WinRT
+","DLL, KMD, WDM, KMDF, UMDFv1","Yes","Yes","Yes 11.1"
+"Windows 8.1 , URL: /wiki/Windows_8.1
+","IA-32 , URL: /wiki/IA-32
+x64 , URL: /wiki/X64
+","Windows Store , URL: /wiki/Windows_Store
+","Yes","Yes","Yes (USB 3.0)","Yes","Yes","Windows Store , URL: /wiki/Windows_Store
+PowerShell , URL: /wiki/PowerShell
+","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+Windows Store , URL: /wiki/Windows_Store
+",".NET , URL: /wiki/.NET_Framework
+WinRT , URL: /wiki/WinRT
+","DLL, KMD, WDM, KMDF, UMDFv1, UMDFv2","Yes","Yes","Yes 11.2"
+"Windows Server 2012 R2 , URL: /wiki/Windows_Server_2012_R2
+","x64 , URL: /wiki/X64
+","Windows Store , URL: /wiki/Windows_Store
+","Yes","Yes","Yes (USB 3.0)","Yes","Yes","Windows Store , URL: /wiki/Windows_Store
+","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+Windows Store , URL: /wiki/Windows_Store
+",".NET , URL: /wiki/.NET_Framework
+WinRT , URL: /wiki/WinRT
+","DLL, KMD, WDM, KMDF, UMDFv1, UMDFv2","Yes","Yes","Yes 11.2"
+"Windows 10 , URL: /wiki/Windows_10
+","IA-32 , URL: /wiki/IA-32
+x64 , URL: /wiki/X64
+","Windows Store , URL: /wiki/Windows_Store
+","Yes","Yes","Yes (USB 3.1 and Thunderbolt 3)","Yes","Yes","Windows Store , URL: /wiki/Windows_Store
+PowerShell , URL: /wiki/PowerShell
+","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+Windows Store , URL: /wiki/Windows_Store
+",".NET , URL: /wiki/.NET_Framework
+WinRT , URL: /wiki/WinRT
+Linux , URL: /wiki/Linux
+","DLL, KMD, WDM, KMDF, UMDFv1, UMDFv2","Yes","Yes","Yes 12"
+"Windows Server 2016 , URL: /wiki/Windows_Server_2016
+","x64 , URL: /wiki/X64
+","Windows Store , URL: /wiki/Windows_Store
+","Yes","Yes","Yes (USB 3.1 and Thunderbolt 3)","Yes","Yes","Windows Store , URL: /wiki/Windows_Store
+","Windows Update , URL: /wiki/Windows_Update
+WSUS , URL: /wiki/Windows_Server_Update_Services
+Windows Store , URL: /wiki/Windows_Store
+",".NET , URL: /wiki/.NET_Framework
+WinRT , URL: /wiki/WinRT
+","DLL, KMD, WDM, KMDF, UMDFv1, UMDFv2","Yes","Yes","Yes 12"

@@ -1,0 +1,152 @@
+"Format","Type","License[a]","MKV , URL: /wiki/Matroska
+","MP4 , URL: /wiki/MPEG-4_Part_14
+","QTFF , URL: /wiki/QuickTime_File_Format
+","ASF , URL: /wiki/Advanced_Systems_Format
+","AVI , URL: /wiki/Audio_Video_Interleave
+","MXF , URL: /wiki/Material_eXchange_Format
+","PS , URL: /wiki/MPEG_program_stream
+TS , URL: /wiki/MPEG_transport_stream
+","M2TS , URL: /wiki/.m2ts
+","VOB , URL: /wiki/VOB
+","EVO , URL: /wiki/Enhanced_VOB
+","3GP , URL: /wiki/3GP_and_3G2
+","3G2 , URL: /wiki/3GP_and_3G2
+","F4V , URL: /wiki/Flash_Video
+","FLV , URL: /wiki/Flash_Video
+","Ogg , URL: /wiki/Ogg
+","WebM , URL: /wiki/WebM
+","RMVB , URL: /wiki/RMVB
+","DMF , URL: /wiki/DivX_Media_Format
+"
+"AAC , URL: /wiki/Advanced_Audio_Coding
+","Lossy , URL: /wiki/Lossy_compression
+","Royalties on codecs[β]","Yes","Yes","Yes","AAC-LC, HE-AAC[87]","AAC-LC, HE-AAC[γ][87]","Yes","Private","No","No","No","AAC-LC, HE-AAC","AAC-LC, HE-AAC v1","Yes[δ]","Yes","No","No","AAC-LC, HE-AAC v1","No"
+"MP3 , URL: /wiki/MP3
+","Lossy , URL: /wiki/Lossy_compression
+","Expired patents[88]","Yes","Yes","MPEG-1 Audio","Yes","Yes[γ]","Yes","Yes","No","No","Yes","No","No","Yes","Yes","Needs OGMtools[91]","No","No","Yes"
+"AC-3 , URL: /wiki/Dolby_Digital
+","Lossy , URL: /wiki/Lossy_compression
+","Expired patents","Yes","Yes[92]","Yes","Yes","Yes","Yes","Private","Yes","Private","Yes","No","No","No","No","Needs OGMtools[91]","No","Yes","Yes"
+"E-AC-3 , URL: /wiki/Dolby_Digital_Plus
+","Lossy , URL: /wiki/Lossy_compression
+","Patent encumbered","QuickTime , URL: /wiki/QuickTime
+","Yes","Yes","Yes","No","No","No","Yes","No","Yes","No","No","No","No","No","No","No","No"
+"DTS , URL: /wiki/DTS_(sound_system)#DTS_audio_codec
+","Lossy , URL: /wiki/Lossy_compression
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","Yes","Yes","No","Private","Yes","Private","Yes","No","No","No","No","No","No","No","Yes"
+"WMA , URL: /wiki/Windows_Media_Audio
+","Lossy , URL: /wiki/Lossy_compression
+","Proprietary , URL: /wiki/Proprietary_software
+","ACM , URL: /wiki/Audio_Compression_Manager
+","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"Opus , URL: /wiki/Opus_(audio_format)
+","Lossy , URL: /wiki/Lossy_compression
+","Royalty-free","Yes","Yes","No","Yes","Yes","No","Yes","No","No","No","No","No","No","No","Yes","Yes","No","No"
+"Vorbis , URL: /wiki/Vorbis
+","Lossy , URL: /wiki/Lossy_compression
+","Open source[94]","Yes","Private","No","No","Tricky[ζ]","No","No","No","No","No","No","No","No","No","Yes","Yes","No","No"
+"MP2 , URL: /wiki/MPEG-1_Audio_Layer_II
+","Lossy , URL: /wiki/Lossy_compression
+","Patent-free[η]","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Yes","Yes","No","No","No","No","No","No","No","No"
+"MP1 , URL: /wiki/MPEG-1_Audio_Layer_I
+","Lossy , URL: /wiki/Lossy_compression
+","Expired patents","Yes","Yes","No","Yes","Yes","Yes","Yes","No","No","Yes","No","No","No","No","No","No","No","No"
+"QDesign , URL: /wiki/QDesign
+","Lossy , URL: /wiki/Lossy_compression
+","Proprietary , URL: /wiki/Proprietary_software
+","QuickTime , URL: /wiki/QuickTime
+","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"ATRAC3 , URL: /wiki/Adaptive_Transform_Acoustic_Coding#ATRAC3_(LP2_and_LP4_Modes)
+","Lossy , URL: /wiki/Lossy_compression
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No"
+"FLAC , URL: /wiki/FLAC
+","Lossless , URL: /wiki/Lossless_compression
+","Open source","Yes","Not standard[98]","No","Yes","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No"
+"ALAC , URL: /wiki/Apple_Lossless
+","Lossless , URL: /wiki/Lossless_compression
+","Open source","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"WMA Lossless , URL: /wiki/WMA_Lossless
+","Lossless , URL: /wiki/Lossless_compression
+","Proprietary , URL: /wiki/Proprietary_software
+","ACM , URL: /wiki/Audio_Compression_Manager
+","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"DTS-HD , URL: /wiki/DTS_(sound_system)#DTS_audio_codec
+","Lossless , URL: /wiki/Lossless_compression
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes[45]","Yes","No","No","No","No","Yes","No","Yes","No","No","No","No","No","No","No","No"
+"Dolby TrueHD , URL: /wiki/Dolby_TrueHD
+","Lossless , URL: /wiki/Lossless_compression
+","Proprietary , URL: /wiki/Proprietary_software
+","Mature[θ]","Yes","No","No","No","No","No","Yes","No","Yes","No","No","No","No","No","No","No","No"
+"MLP , URL: /wiki/Meridian_Lossless_Packing
+","Lossless , URL: /wiki/Lossless_compression
+","Proprietary , URL: /wiki/Proprietary_software
+","No","Yes[45]","No","No","No","No","Private","No","Private","Yes","No","No","No","No","No","No","No","No"
+"ALS , URL: /wiki/Audio_Lossless_Coding
+","Lossless , URL: /wiki/Lossless_compression
+","Patent encumbered","No","Yes","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No"
+"SLS , URL: /wiki/MPEG-4_SLS
+","Lossless , URL: /wiki/Lossless_compression
+","Patent encumbered","No","Yes","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No"
+"LPCM , URL: /wiki/Linear_pulse-code_modulation
+","Not compressed , URL: /wiki/Uncompressed_audio
+","Patent-free[100]","Yes","Yes","Yes","Yes","Yes","Yes","Private","Yes","Private","Yes","No","No","No","Yes","Planned[101]","No","No","Yes"
+"A-law , URL: /wiki/A-law_algorithm
+PCM , URL: /wiki/Pulse-code_modulation
+","Not compressed , URL: /wiki/Uncompressed_audio
+","Expired patents[102]","ACM , URL: /wiki/Audio_Compression_Manager
+","No","Yes","No","Yes","Yes","No","No","No","No","No","No","No","Yes","Yes","No","No","No"
+"μ-law , URL: /wiki/%CE%9C-law_algorithm
+PCM , URL: /wiki/Pulse-code_modulation
+","Not compressed , URL: /wiki/Uncompressed_audio
+","Expired patents[102]","ACM , URL: /wiki/Audio_Compression_Manager
+","No","Yes","Yes","Yes","No","No","No","No","No","No","No","No","Yes","Yes","No","No","No"
+"IEEE floating-point , URL: /wiki/IEEE_754
+","Not compressed , URL: /wiki/Uncompressed_audio
+","Patent-free[ι]","Yes","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No"
+"ADPCM , URL: /wiki/Adaptive_differential_pulse-code_modulation
+","Not compressed , URL: /wiki/Uncompressed_audio
+","Proprietary , URL: /wiki/Proprietary_software
+","ACM , URL: /wiki/Audio_Compression_Manager
+","No","Yes","Yes[47]","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"DV , URL: /wiki/DV
+","Not compressed , URL: /wiki/Uncompressed_audio
+","Proprietary , URL: /wiki/Proprietary_software
+","No","Yes","Yes","No","No","Yes[77]","No","No","No","No","No","No","No","No","No","No","No","No"
+"AMR , URL: /wiki/Adaptive_Multi-Rate_audio_codec
+","Speech , URL: /wiki/Speech_coding
+","Patent encumbered","No","Yes","No","Yes","Yes","No","No","No","No","No","Yes","AMR-NB, AMR-WB","No","No","No","No","No","No"
+"G.728 , URL: /wiki/G.728
+","Speech , URL: /wiki/Speech_coding
+","Expired patents","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","No"
+"Speex , URL: /wiki/Speex
+","Speech , URL: /wiki/Speech_coding
+","Open source[103]","ACM , URL: /wiki/Audio_Compression_Manager
+","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","No","No","No"
+"QCELP , URL: /wiki/Qualcomm_code-excited_linear_prediction
+","Speech , URL: /wiki/Speech_coding
+","Proprietary , URL: /wiki/Proprietary_software
+","No","No","Yes","Yes","No","No","No","No","No","No","No","13K","No","No","No","No","No","No"
+"Other","Other","Varies","Musepack , URL: /wiki/Musepack
+WavPack , URL: /wiki/WavPack
+TTA , URL: /wiki/TTA_(codec)
+ACM , URL: /wiki/Audio_Compression_Manager
+","—","IEEE , URL: /wiki/IEEE_754
+floating-point , URL: /wiki/Floating-point_arithmetic
+","Microsoft GSM 6.10","G.722 , URL: /wiki/G.722
+G.723 , URL: /wiki/G.723
+G.726 , URL: /wiki/G.726
+G.729a , URL: /wiki/G.729
+CVSD , URL: /wiki/Continuously_variable_slope_delta_modulation
+ATRAC1 , URL: /wiki/Adaptive_Transform_Acoustic_Coding
+","—","—","—","—","—","EVS , URL: /wiki/Enhanced_Voice_Services
+","EVRC , URL: /wiki/Enhanced_Variable_Rate_Codec
+SMV , URL: /wiki/Selectable_Mode_Vocoder
+","—","Asao , URL: /wiki/Asao_(codec)
+ADPCM , URL: /wiki/ADPCM
+","—","—","Cook Codec , URL: /wiki/Cook_Codec
+","—"
+"Obsolete","Other","Varies","—","—","MACE 3:1, MACE 6:1","—","Truespeech , URL: /wiki/Truespeech
+","—","—","—","—","—","—","—","—","—","CELT","—","—","—"

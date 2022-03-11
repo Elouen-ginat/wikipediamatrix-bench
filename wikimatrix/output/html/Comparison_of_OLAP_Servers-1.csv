@@ -1,15 +1,42 @@
-"null","null","null","null","null"
-"Apache Software Foundation","[1]","0.21.0","Apache 2.0","free"
-"Apache Software Foundation","[2]","3.1.0","Apache 2.0","free"
-"Apache Software Foundation","[3]","0.7.1","Apache 2.0","free"
-"Clickhouse Inc","[4]","21.12","Apache 2.0","free"
-"Oracle","[5]","21.1","Proprietary","[1]"
-"IBM","[6]","10.2.2 FP7","Proprietary","-"
-"icCube","[7]","6.8.9","Proprietary","community/[2]"
-"Jedox","[8]","2019.3","Proprietary","[3]"
-"Kyvos Insights","[9]","2021.3","Proprietary","-"
-"Microsoft","[10]","2016","Proprietary","[4]"
-"Pentaho","[11]","3.7","EPL","free"
-"Oracle","[12]","11g R2","Proprietary","[5]"
-"SAP","[13]","7.30","Proprietary","-"
-"SAS Institute","[14]","9.4","Proprietary","-"
+"OLAP server","MOLAP , URL: /wiki/MOLAP
+","ROLAP , URL: /wiki/ROLAP
+","HOLAP , URL: /wiki/HOLAP
+","Offline"
+"Apache Druid , URL: /wiki/Apache_Druid
+","Yes","Yes","Yes","Yes"
+"Apache Kylin , URL: /wiki/Apache_Kylin
+","Yes","No","No","Yes"
+"Apache Pinot , URL: /wiki/Apache_Pinot
+","Yes","Yes","Yes","Yes"
+"ClickHouse , URL: /wiki/ClickHouse
+","Yes","Yes","Yes","Yes"
+"Essbase , URL: /wiki/Essbase
+","Yes","No","No",""
+"IBM Cognos BI , URL: /wiki/IBM_Cognos_BI
+","Yes","Yes","Yes",""
+"IBM Cognos TM1 , URL: /wiki/TM1
+","Yes","No","No","Cognos Insight Distributed mode , URL: http://www-01.ibm.com/support/knowledgecenter/SSVJ22_10.2.2/com.ibm.swg.ba.cognos.dsk_ug.10.2.2.doc/t_dsk_maintain_offline.html%23t_dsk_maintain_offline
+"
+"icCube , URL: /wiki/IcCube
+","Yes","No","No","Offline Cubes , URL: http://www.iccube.com/support/documentation/user_guide/using/offline_cubes.html
+"
+"Jedox OLAP Server , URL: /wiki/Jedox
+","Yes","No","No","No"
+"Kyvos , URL: /wiki/Kyvos
+","Yes","Yes","Yes","Yes"
+"Microsoft Analysis Services , URL: /wiki/Microsoft_Analysis_Services
+","Yes","Yes","Yes","PowerPivot for Excel , URL: /wiki/PowerPivot
+Power BI Desktop , URL: /wiki/Power_BI
+"
+"MicroStrategy Intelligence Server , URL: /wiki/MicroStrategy
+","Yes","Yes","Yes","MicroStrategy Office , URL: http://www.microstrategy.com/Software/Products/User_Interfaces/Office/
+Dynamic Dashboards , URL: http://www.microstrategy.com/Software/Products/Service_Modules/Report_Services/
+"
+"Mondrian OLAP server , URL: /wiki/Mondrian_OLAP_server
+","No","Yes","No",""
+"Oracle Database OLAP Option , URL: /wiki/Oracle_OLAP
+","No","Yes","No",""
+"SAP NetWeaver BW , URL: /wiki/SAP_NetWeaver_Business_Intelligence
+","Yes","Yes","No",""
+"SAS OLAP Server , URL: /wiki/SAS_System
+","Yes","Yes","Yes",""

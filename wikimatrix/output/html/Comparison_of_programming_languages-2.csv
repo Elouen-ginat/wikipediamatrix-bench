@@ -1,0 +1,114 @@
+"Language","Failsafe I/O"
+"1C:Enterprise , URL: /wiki/1C:Enterprise_programming_language
+","Yes"
+"Ada , URL: /wiki/Ada_(programming_language)
+","Yes (exceptions)"
+"ALGOL , URL: /wiki/ALGOL
+","Yes (exceptions or return value depending on function)"
+"AutoHotkey , URL: /wiki/AutoHotkey
+","No (global ErrorLevel must be explicitly checked)"
+"Bash , URL: /wiki/Bash_(Unix_shell)
+","Optional[FSIO 1]"
+"Ballerina , URL: /wiki/Ballerina_(programming_language)
+","Yes"
+"Bro , URL: /wiki/Bro_(software)
+","Yes"
+"C , URL: /wiki/C_(programming_language)
+","No[FSIO 2]"
+"C++ , URL: /wiki/C%2B%2B
+","STL iostreams , URL: /wiki/Input/output_(C%2B%2B)
+stdio , URL: /wiki/C_file_input/output
+POSIX , URL: /wiki/C_POSIX_library
+"
+"C# , URL: /wiki/C_Sharp_(programming_language)
+","Yes"
+"COBOL , URL: /wiki/COBOL
+","No"
+"Common Lisp , URL: /wiki/Common_Lisp
+","Yes ("conditions and restarts" system)"
+"Curry , URL: /wiki/Curry_(programming_language)
+","Yes"
+"D , URL: /wiki/D_(programming_language)
+","Yes (throwing on failure) [FSIO 3]"
+"Eiffel , URL: /wiki/Eiffel_(programming_language)
+","No – It actually depends on the library and it is not defined by the language"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","Yes"
+"Fortran , URL: /wiki/Fortran
+","Yes"
+"GLBasic , URL: /wiki/GLBasic
+","No – Will generally cause program to crash"
+"Go , URL: /wiki/Go_(programming_language)
+","Yes (unless result explicitly ignored)"
+"Gosu , URL: /wiki/Gosu_(programming_language)
+","Yes"
+"Harbour , URL: /wiki/Harbour_(programming_language)
+","Yes"
+"Haskell , URL: /wiki/Haskell_(programming_language)
+","Yes"
+"ISLISP , URL: /wiki/ISLISP
+","Yes"
+"Java , URL: /wiki/Java_(programming_language)
+","Yes"
+"Julia , URL: /wiki/Julia_(programming_language)
+","Yes"
+"Kotlin , URL: /wiki/Kotlin_(programming_language)
+","Yes"
+"LabVIEW , URL: /wiki/LabVIEW
+","Yes"
+"Lua , URL: /wiki/Lua_(programming_language)
+","No (some functions do not warn or throw exceptions)"
+"Mathematica , URL: /wiki/Mathematica
+","Yes"
+"Object Pascal , URL: /wiki/Object_Pascal
+","Some"
+"Objective-C , URL: /wiki/Objective-C
+","Yes (exceptions)"
+"OCaml , URL: /wiki/OCaml
+","Yes (exceptions)"
+"OpenLisp , URL: /wiki/OpenLisp
+","Yes"
+"Perl , URL: /wiki/Perl
+","No[FSIO 4]"
+"PHP , URL: /wiki/PHP
+","Yes"
+"Python , URL: /wiki/Python_(programming_language)
+","Yes"
+"Raku , URL: /wiki/Raku_(programming_language)
+","Yes"
+"Rebol , URL: /wiki/Rebol
+","Yes"
+"Rexx , URL: /wiki/Rexx
+","Yes (with optional signal on... trap handling)"
+"RPG , URL: /wiki/IBM_RPG
+","No"
+"Ruby , URL: /wiki/Ruby_(programming_language)
+","Yes"
+"Rust , URL: /wiki/Rust_(programming_language)
+","Yes (unless result explicitly ignored)"
+"S , URL: /wiki/S_(programming_language)
+","Unknown"
+"Smalltalk , URL: /wiki/Smalltalk
+","Yes"
+"Scala , URL: /wiki/Scala_(programming_language)
+","Yes[FSIO 5]"
+"Standard ML , URL: /wiki/Standard_ML
+","Yes[citation needed]"
+"Swift ≥ 2.0 , URL: /wiki/Swift_(programming_language)
+","Yes (exceptions)"
+"Tcl , URL: /wiki/Tcl
+","Yes"
+"Visual Basic , URL: /wiki/Visual_Basic_(classic)
+","Yes"
+"Visual Basic .NET , URL: /wiki/Visual_Basic_.NET
+","Yes"
+"Visual Prolog , URL: /wiki/Visual_Prolog
+","Yes"
+"Wolfram Language , URL: /wiki/Wolfram_Language
+","Yes"
+"Xojo , URL: /wiki/Xojo
+","Yes"
+"XPath , URL: /wiki/XPath
+XQuery , URL: /wiki/XQuery
+","Yes (exceptions)"
+"Language","Failsafe I/O"

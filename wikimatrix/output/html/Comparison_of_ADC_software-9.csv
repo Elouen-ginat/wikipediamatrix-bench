@@ -1,0 +1,16 @@
+"Other software","Software type","FOSS , URL: /wiki/Free_and_open_source_software
+","Software license , URL: /wiki/Software_license
+","Active","Last Update"
+"ADCCore","General library","Yes","GNU GPL , URL: /wiki/GNU_GPL
+","Yes",""
+"DCBouncer","Relay","Yes","GNU GPL , URL: /wiki/GNU_GPL
+","Yes",""
+"DC-Hublink","Hub linker","Yes","GNU GPL","No",""
+"DCWatch","Hub operator helper","Yes","GNU GPL","No",""
+"Embla","General library","Yes","GNU GPL","?",""
+"FlowLib","General library","Yes","GNU GPL","Yes",""
+"NetChatLink","Hub linker","Yes","GNU GPL","Yes",""
+"Announcer Bot","Announce new Releases","Yes","GNU GPLv2","Yes",""
+"Certmanager","Manage SSL Certificates","Yes","GNU GPLv2","Yes",""
+"SerieBot","SerieBot","Yes","GNU GPL","Yes",""
+"Other software","Software type","FOSS","Software license","Active",""

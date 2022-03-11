@@ -1,0 +1,43 @@
+"Data types , URL: #Data_types
+","Java","C#"
+"Arbitrary-size decimals , URL: #Advanced_numeric_types
+","Reference type; no operators[1]","Third party library[2]"
+"Arbitrary-size integers , URL: #Advanced_numeric_types
+","Reference type; no operators","Yes[3]"
+"Arrays , URL: #Arrays_and_collections
+","Yes[4]","Yes"
+"Boolean type , URL: /wiki/Boolean_type
+","Yes","Yes"
+"Character , URL: /wiki/Primitive_data_type#Characters_and_strings
+","Yes[5]","Yes"
+"Complex numbers , URL: #Advanced_numeric_types
+","Third-party library[6]","Yes"
+"Date/time","Yes; reference type[7]","Yes; value type"
+"Enumerated types , URL: #Enumerations
+","Yes; reference type","Yes; scalar"
+"High-precision decimal number","No; but see 'Arbitrary-size decimals' above","128-bit (28 digits) Decimal type[8]"
+"binary32 , URL: /wiki/Binary32
+","Yes","Yes"
+"binary64 , URL: /wiki/Binary64
+","Yes","Yes"
+"Lifted (nullable) types , URL: #Lifted_(nullable)_types
+","No; but wrapper types","Yes"
+"Pointers , URL: #Pointers
+","No;[9] only method references[10]","Yes[11]"
+"Reference types , URL: #Reference_types
+","Yes","Yes"
+"Signed integers , URL: /wiki/Signedness
+","Yes; 8, 16, 32, 64 bits","Yes; 8, 16, 32, 64 bits"
+"Strings , URL: /wiki/Primitive_data_type#Characters_and_strings
+","Unicode , URL: /wiki/Unicode
+","Unicode , URL: /wiki/Unicode
+"
+"Type annotations","Yes","Yes"
+"Single-root (unified) type system , URL: /wiki/Type_system#Unified_type_system
+","No; but wrapper types","Yes[12]"
+"Tuples , URL: /wiki/Tuples
+","No; limited 3rd party available.[13]","Yes[14]"
+"Unsigned integers , URL: /wiki/Unsigned_integers
+","No; but some method support.[15]","Yes; 8, 16, 32, 64 bits"
+"Value types , URL: #User-defined_value_type_(struct)
+","No; only primitive types","Yes"

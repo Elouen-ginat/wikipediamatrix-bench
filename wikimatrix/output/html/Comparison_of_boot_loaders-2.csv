@@ -1,0 +1,105 @@
+"Name","Can boot","Can boot","Can boot","Can boot","Can boot","Can boot","Can boot","Can boot","Can boot"
+"Name","MS-DOS , URL: /wiki/MS-DOS
+","Windows 9x , URL: /wiki/Windows_9x
+Me , URL: /wiki/Windows_Me
+","Windows NT series , URL: /wiki/Windows_NT
+","Windows Vista , URL: /wiki/Windows_Vista
+7 , URL: /wiki/Windows_7
+8 , URL: /wiki/Windows_8
+10 , URL: /wiki/Windows_10
+","Linux , URL: /wiki/Linux
+","ReactOS , URL: /wiki/ReactOS
+","MenuetOS , URL: /wiki/MenuetOS
+","*BSD , URL: /wiki/*BSD
+","Mac OS X , URL: /wiki/Mac_OS_X
+"
+"Acronis OS Selector , URL: /wiki/Acronis_Disk_Director_Suite
+","Yes","Yes","Yes","Yes","Yes","?","?","Yes","Yes"
+"AiR-BOOT","Yes","Yes","Yes","Yes","Yes","?","?","?","?"
+"AKernelLoader","?","?","?","?","Yes","?","?","?","?"
+"Barebox , URL: /wiki/Barebox
+","?","?","?","?","Yes","?","?","?","?"
+"BOOTBOOT","Yes","Yes","Yes","Yes","Yes","?","?","?","?"
+"BootIt Bare Metal","Yes","Yes","Yes","Yes","Yes","?","?","?","?"
+"BootKey , URL: /wiki/BootKey
+","Yes","Yes","Yes","Yes","Yes","?","?","?","?"
+"BootManager , URL: /wiki/Bootmanager
+","Yes","Yes","NTLDR , URL: /wiki/NTLDR
+","Windows Boot Manager , URL: /wiki/Windows_Boot_Manager
+","GRUB , URL: /wiki/GRUB
+LILO , URL: /wiki/LILO_(boot_loader)
+","?","?","?","?"
+"BootX (Apple) , URL: /wiki/BootX_(Apple)
+","?","?","?","?","?","?","?","?","Yes"
+"BootX (Linux) , URL: /wiki/BootX_(Linux)
+","?","?","?","?","Yes","?","?","?","?"
+"Clover","?","?","Yes","Yes","Yes","?","?","Yes","Yes"
+"Darwin Boot Loader","?","?","?","Yes","?","?","?","Yes","Yes"
+"Das U-Boot , URL: /wiki/Das_U-Boot
+","?","?","?","?","Yes","?","?","Yes (FreeBSD)","?"
+"FreeBSD loader","?","?","?","?","?","?","?","FreeBSD , URL: /wiki/FreeBSD
+TrueOS , URL: /wiki/TrueOS
+","?"
+"GAG , URL: /w/index.php?title=GAG_(boot_loader)&action=edit&redlink=1
+","Yes","Yes","Calls NTLDR","Calls Windows Boot Manager","Calls GRUB or LILO","Calls bootloader","Calls bootloader","Calls bootloader","No"
+"GRUB Legacy , URL: /wiki/GNU_GRUB
+GRUB4DOS , URL: /wiki/GRUB4DOS
+","Yes","Yes","Calls NTLDR","Calls Windows Boot Manager","Yes","FreeLoader , URL: /w/index.php?title=FreeLoader&action=edit&redlink=1
+","Yes","Calls bootloader for some kernels","Yes"
+"GNU GRUB , URL: /wiki/GNU_GRUB
+","Yes","Yes","Calls NTLDR","Calls Windows Boot Manager","Yes","FreeLoader , URL: /w/index.php?title=FreeLoader&action=edit&redlink=1
+","Yes","Yes","Yes"
+"Grub2Win , URL: /w/index.php?title=Grub2Win&action=edit&redlink=1
+","Yes","Yes","Calls NTLDR","Calls Windows Boot Manager","Yes","?","?","Yes (FreeBSD)","Calls Clover"
+"Gujin","Yes","Yes","Calls NTLDR","Yes","Yes","?","?","?","?"
+"systemd-boot / Gummiboot , URL: /wiki/Gummiboot_(software)
+","No","No","Windows Server 2013 64bits with UEFI only","Calls Windows Boot Manager[3]","Yes","?","?","UEFI only","Yes[3]"
+"iBoot , URL: /wiki/IBoot_(Bootloader)
+","?","?","?","?","?","?","?","?","Yes"
+"LILO , URL: /wiki/LILO_(boot_loader)
+","?","Yes","Calls NTLDR","Yes","Yes","?","?","Calls biosboot (FreeBSD, PC-BSD, ...)","?"
+"loadlin , URL: /wiki/Loadlin
+","MEMDISK , URL: /wiki/MEMDISK
+","No","No","No","Yes","No","No","?","?"
+"Limine","Calls bootloader","Calls bootloader","Calls bootloader","Calls bootloader","Yes","Calls bootloader","Calls bootloader","Calls bootloader","Calls bootloader"
+"MasterBooter","Yes","Yes","Yes","Yes","Yes","?","?","Yes","?"
+"NTLDR , URL: /wiki/NTLDR
+","Yes","Yes","Yes","No","Calls GRUB4DOS","?","?","?","Calls Darwin bootloader[4]"
+"OpenCore","?","?","Yes","Yes","Yes","?","?","Yes","Yes"
+"OSL2000 Boot Manager","Yes","Yes","Yes","Yes","Calls GRUB or LILO","?","?","?","?"
+"PLoP Boot Manager","Yes","Yes","Yes","Yes","Calls GRUB or LILO","?","?","?","?"
+"RedBoot , URL: /wiki/RedBoot
+","Yes","Yes","Calls NTLDR","Calls Windows Boot Manager","Yes","FreeLoader , URL: /w/index.php?title=FreeLoader&action=edit&redlink=1
+","Yes","Yes","Yes"
+"rEFInd , URL: /wiki/REFInd
+","?","?","Yes","Yes","Yes","?","?","Yes","Yes"
+"rEFIt , URL: /wiki/REFIt
+","?","?","Yes","Yes","Yes","?","?","Yes","Yes"
+"Smart Boot Manager","Yes","Yes","Yes","?","Yes","?","?","Yes","?"
+"SPFdisk , URL: /wiki/SPFdisk
+","Yes","Yes","?","?","?","?","?","?","?"
+"SYSLINUX , URL: /wiki/SYSLINUX
+","Yes","Yes","Calls NTLDR","Calls Windows Boot Manager","Yes","?","Yes","[1] , URL: http://www.syslinux.org/wiki/index.php/Mboot.c32
+","?"
+"Tianocore EDK II","No","No","No","Yes","Yes","No","?","Yes (FreeBSD,OpenBSD)","Yes"
+"Windows Boot Manager , URL: /wiki/Windows_Boot_Manager
+","?","Yes","Calls NTLDR","Yes","Calls GRUB or LILO","?","?","?","?"
+"XOSL , URL: /wiki/XOSL
+","Yes","Yes","Yes","Yes","Yes","?","?","?","?"
+"FreeLoader , URL: /w/index.php?title=FreeLoader&action=edit&redlink=1
+","Yes","Yes","Partial[5]","Calls Windows Boot Manager","Yes","Yes","?","?","?"
+"Name","Can boot","Can boot","Can boot","Can boot","Can boot","Can boot","Can boot","Can boot","Can boot"
+"Name","MS-DOS , URL: /wiki/MS-DOS
+","Windows 9x , URL: /wiki/Windows_9x
+Me , URL: /wiki/Windows_Me
+","Windows NT series , URL: /wiki/Windows_NT
+","Windows Vista , URL: /wiki/Windows_Vista
+7 , URL: /wiki/Windows_7
+8 , URL: /wiki/Windows_8
+10 , URL: /wiki/Windows_10
+","Linux , URL: /wiki/Linux
+","ReactOS , URL: /wiki/ReactOS
+","MenuetOS , URL: /wiki/MenuetOS
+","*BSD , URL: /wiki/*BSD
+","Mac OS X , URL: /wiki/Mac_OS_X
+"

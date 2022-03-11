@@ -1,0 +1,17 @@
+"Generics","Java","C#"
+"Implementation","Type erasure , URL: /wiki/Type_erasure
+","Reification , URL: /wiki/Reification_(computer_science)
+"
+"Runtime realization","No","Yes"
+"Type variance , URL: /wiki/Covariance_and_contravariance_(computer_science)
+","Use-site , URL: /wiki/Covariance_and_contravariance_(computer_science)#Use-site_variance_annotations_(wildcards)
+","Declaration-site , URL: /wiki/Covariance_and_contravariance_(computer_science)#Declaration-site_variance_annotations
+"
+"Reference type constraint","Yes; implicit","Yes"
+"Value/primitive type constraint","No","Yes"
+"Constructor constraint","No","Yes (only for parameterless constructor)"
+"Subtype constraint , URL: /wiki/Bounded_quantification
+","Yes","Yes"
+"Supertype constraint , URL: /wiki/Wildcard_(Java)#Bounded_Wildcards
+","Yes","No"
+"Migration compatibility","Yes","No"

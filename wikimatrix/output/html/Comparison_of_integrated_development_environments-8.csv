@@ -1,0 +1,143 @@
+"IDE , URL: /wiki/Integrated_development_environment
+","Widget toolkit , URL: /wiki/Widget_toolkit
+","Platform , URL: /wiki/Platform_(computing)
+","Compilers , URL: /wiki/Compiler
+","Open Source , URL: /wiki/Open_Source
+","Made in D","Notes"
+"Visual Studio , URL: /wiki/Microsoft_Visual_Studio
+","Microsoft , URL: /wiki/Microsoft
+","Windows , URL: /wiki/Windows
+","DMD , URL: /wiki/D_(programming_language)
+LDC , URL: /wiki/D_(programming_language)
+LLVM , URL: /wiki/LLVM
+GDC , URL: /wiki/D_(programming_language)
+GCC , URL: /wiki/GNU_Compiler_Collection
+","No","No","Visual Studio , URL: /wiki/Microsoft_Visual_Studio
+VisualD , URL: /w/index.php?title=VisualD&action=edit&redlink=1
+"
+"NetBeans , URL: /wiki/NetBeans
+","Java Swing , URL: /wiki/Swing_(Java)
+","Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+Linux , URL: /wiki/Linux
+FreeBSD , URL: /wiki/FreeBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+OpenIndiana , URL: /wiki/OpenIndiana
+Java , URL: /wiki/Java_(software_platform)
+","DMD , URL: /wiki/D_(programming_language)
+LDC , URL: /wiki/D_(programming_language)
+LLVM , URL: /wiki/LLVM
+GDC , URL: /wiki/D_(programming_language)
+GCC , URL: /wiki/GNU_Compiler_Collection
+","Yes","No","NetBeans , URL: /wiki/NetBeans
+NetBeans-D , URL: /w/index.php?title=NetBeans-D&action=edit&redlink=1
+MIT License , URL: /wiki/MIT_License
+"
+"SlickEdit , URL: /wiki/SlickEdit
+","Qt , URL: /wiki/Qt_(software)
+","Windows , URL: /wiki/Windows
+Linux , URL: /wiki/Linux
+MacOS , URL: /wiki/MacOS
+AIX , URL: /wiki/AIX
+HP-UX , URL: /wiki/HP-UX
+Solaris , URL: /wiki/Solaris_(operating_system)
+Solaris SPARC , URL: /w/index.php?title=Solaris_SPARC&action=edit&redlink=1
+","DMD , URL: /wiki/D_(programming_language)
+","No","No",""
+"CodeLite , URL: /wiki/CodeLite
+","wxWidget , URL: /wiki/WxWidget
+","Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+Linux , URL: /wiki/Linux
+FreeBSD , URL: /wiki/FreeBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+OpenIndiana , URL: /wiki/OpenIndiana
+","DMD , URL: /wiki/D_(programming_language)
+LDC , URL: /wiki/D_(programming_language)
+LLVM , URL: /wiki/LLVM
+GDC , URL: /wiki/D_(programming_language)
+GCC , URL: /wiki/GNU_Compiler_Collection
+","Yes","No",""
+"Xcode , URL: /wiki/Xcode
+","Cocoa , URL: /wiki/Cocoa_(API)
+","macOS , URL: /wiki/MacOS
+","DMD , URL: /wiki/D_(programming_language)
+GDC , URL: /wiki/D_(programming_language)
+GCC , URL: /wiki/GNU_Compiler_Collection
+","No","No","Xcode , URL: /wiki/Xcode
+D for Xcode , URL: /w/index.php?title=D_for_Xcode&action=edit&redlink=1
+GPL , URL: /wiki/GPL
+"
+"MonoDevelop , URL: /wiki/MonoDevelop
+","GTK# , URL: /wiki/GTK
+","Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+Linux , URL: /wiki/Linux
+FreeBSD , URL: /wiki/FreeBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+OpenIndiana , URL: /wiki/OpenIndiana
+","DMD , URL: /wiki/D_(programming_language)
+LDC , URL: /wiki/D_(programming_language)
+LLVM , URL: /wiki/LLVM
+GDC , URL: /wiki/D_(programming_language)
+GCC , URL: /wiki/GNU_Compiler_Collection
+","Yes","No","MonoDevelop , URL: /wiki/MonoDevelop
+Mono-D , URL: /w/index.php?title=Mono-D&action=edit&redlink=1
+VisualD , URL: /w/index.php?title=VisualD&action=edit&redlink=1
+Xamarin Studio , URL: /wiki/Xamarin_Studio
+Apache License , URL: /wiki/Apache_License
+"
+"KDevelop , URL: /wiki/KDevelop
+","Qt , URL: /wiki/Qt_(software)
+","Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+Linux , URL: /wiki/Linux
+FreeBSD , URL: /wiki/FreeBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+OpenIndiana , URL: /wiki/OpenIndiana
+","DMD , URL: /wiki/D_(programming_language)
+LDC , URL: /wiki/D_(programming_language)
+LLVM , URL: /wiki/LLVM
+GDC , URL: /wiki/D_(programming_language)
+GCC , URL: /wiki/GNU_Compiler_Collection
+","Yes","No",""
+"Geany , URL: /wiki/Geany
+","GTK+ , URL: /wiki/GTK%2B
+","Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+Linux , URL: /wiki/Linux
+FreeBSD , URL: /wiki/FreeBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+OpenIndiana , URL: /wiki/OpenIndiana
+","DMD , URL: /wiki/D_(programming_language)
+LDC , URL: /wiki/D_(programming_language)
+LLVM , URL: /wiki/LLVM
+GDC , URL: /wiki/D_(programming_language)
+GCC , URL: /wiki/GNU_Compiler_Collection
+","Yes","No","Native support."
+"Code::Blocks , URL: /wiki/Code::Blocks
+","wxWidget , URL: /wiki/WxWidget
+","Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+Linux , URL: /wiki/Linux
+FreeBSD , URL: /wiki/FreeBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+OpenIndiana , URL: /wiki/OpenIndiana
+","DMD , URL: /wiki/D_(programming_language)
+LDC , URL: /wiki/D_(programming_language)
+LLVM , URL: /wiki/LLVM
+GDC , URL: /wiki/D_(programming_language)
+GCC , URL: /wiki/GNU_Compiler_Collection
+","Yes","No","Includes partial support."
+"Eclipse , URL: /wiki/Eclipse_(software)
+","SWT , URL: /wiki/Standard_Widget_Toolkit
+","Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+Linux , URL: /wiki/Linux
+FreeBSD , URL: /wiki/FreeBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+OpenIndiana , URL: /wiki/OpenIndiana
+Java , URL: /wiki/Java_(software_platform)
+","DMD , URL: /wiki/D_(programming_language)
+","Yes","No","Eclipse , URL: /wiki/Eclipse_(software)
+"

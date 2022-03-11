@@ -1,0 +1,124 @@
+"Implementation","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Stream cipher , URL: /wiki/Stream_cipher
+","None"
+"Implementation","AES , URL: /wiki/Advanced_Encryption_Standard
+GCM , URL: /wiki/Galois/Counter_Mode
+","AES , URL: /wiki/Advanced_Encryption_Standard
+CCM , URL: /wiki/CCM_mode
+","AES , URL: /wiki/Advanced_Encryption_Standard
+CBC , URL: /wiki/Cipher_block_chaining
+","Camellia , URL: /wiki/Camellia_(cipher)
+GCM , URL: /wiki/Galois/Counter_Mode
+","Camellia , URL: /wiki/Camellia_(cipher)
+CBC , URL: /wiki/Cipher_block_chaining
+","ARIA , URL: /wiki/ARIA_(cipher)
+GCM , URL: /wiki/Galois/Counter_Mode
+","ARIA , URL: /wiki/ARIA_(cipher)
+CBC , URL: /wiki/Cipher_block_chaining
+","SEED , URL: /wiki/SEED
+CBC , URL: /wiki/Cipher_block_chaining
+","CBC , URL: /wiki/Cipher_block_chaining
+","CNT , URL: /wiki/Block_cipher_mode_of_operation#Counter_(CTR)
+","ChaCha20 , URL: /wiki/ChaCha20
+Poly1305 , URL: /wiki/Poly1305
+","Null (insecure) [n 2]"
+"Botan , URL: /wiki/Botan_(programming_library)
+","Yes","Yes","Yes","Yes","Yes","No","No","Disabled by default","Disabled by default","No","Yes[123]","Not implemented"
+"BoringSSL , URL: /wiki/BoringSSL
+","Yes","No","Yes","No","No","No","No","No","Yes","No","Yes",""
+"BSAFE , URL: /wiki/BSAFE
+","Yes","Yes","Yes","No","No","No","No","No","Disabled by default","No","No","Disabled by default"
+"cryptlib , URL: /wiki/Cryptlib
+","Yes","No","Yes","No","No","No","No","No","Yes","No","No","Not implemented"
+"GnuTLS , URL: /wiki/GnuTLS
+","Yes","Yes[38]","Yes","Yes","Yes","No","No","No","Disabled by default[124]","No","Yes[125]","Disabled by default"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","Yes","No","Yes","No","No","No","No","No","Disabled by default[126]","No","Yes (JDK 12+)[127]","Disabled by default"
+"LibreSSL , URL: /wiki/LibreSSL
+","Yes[42]","No","Yes","No","Yes[83]","No","No","No[42]","Yes","Yes[83]","Yes[42]","Disabled by default"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","Yes","No","Yes","No","No","No","No","Yes","Disabled by default","No","Yes[128]","Disabled by default"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","Yes","Yes [129]","Yes","Yes","Yes","Yes[130]","Yes[130]","No","No[46]","No","Yes[131]","Disabled by default at compile time"
+"NSS , URL: /wiki/Network_Security_Services
+","Yes[132]","No","Yes","No[133][n 3]","Yes[134]","No","No","Yes[135]","Yes","No[85][86]","Yes[136]","Disabled by default"
+"OpenSSL , URL: /wiki/OpenSSL
+","Yes[137]","Disabled by default[53]","Yes","No","Disabled by default[53]","Disabled by default[138]","No","Disabled by default[53]","Disabled by default[53]","Yes[87]","Yes[53]","Disabled by default"
+"SChannel XP/2003 , URL: /wiki/SChannel
+","No","No","2003 only[139]","No","No","No","No","No","Yes","No[88]","No","Disabled by default"
+"SChannel Vista/2008, 2008R2, 2012 , URL: /wiki/SChannel
+","No","No","Yes","No","No","No","No","No","Yes","No[88]","No","Disabled by default"
+"SChannel 7, 8, 8.1/2012R2 , URL: /wiki/SChannel
+","Yes except ECDHE_RSA [90][91]","No","Yes","No","No","No","No","No","Yes","No[88]","No","Disabled by default"
+"Schannel 10 , URL: /wiki/SChannel
+","Yes","No","Yes","No","No","No","No","No","Yes","No[88]","No","Disabled by default"
+"Secure Transport , URL: /wiki/MacOS
+","No","No","Yes","No","No","No","No","No","Yes","No","No","Disabled by default"
+"Secure Transport , URL: /wiki/MacOS
+","Yes","No","Yes","No","No","No","No","No","Yes","No","No","Disabled by default"
+"wolfSSL , URL: /wiki/WolfSSL
+","Yes","Yes","Yes","No","No","No","No","No","Yes","No","Yes","Disabled by default"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","Yes","No","Yes","No","No","No","No","No","Disabled by default","No","Experimental","Disable by default"
+"Implementation","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Stream cipher , URL: /wiki/Stream_cipher
+","None"
+"Implementation","AES , URL: /wiki/Advanced_Encryption_Standard
+GCM , URL: /wiki/Galois/Counter_Mode
+","AES , URL: /wiki/Advanced_Encryption_Standard
+CCM , URL: /wiki/CCM_mode
+","AES , URL: /wiki/Advanced_Encryption_Standard
+CBC , URL: /wiki/Cipher_block_chaining
+","Camellia , URL: /wiki/Camellia_(cipher)
+GCM , URL: /wiki/Galois/Counter_Mode
+","Camellia , URL: /wiki/Camellia_(cipher)
+CBC , URL: /wiki/Cipher_block_chaining
+","ARIA , URL: /wiki/ARIA_(cipher)
+GCM , URL: /wiki/Galois/Counter_Mode
+","ARIA , URL: /wiki/ARIA_(cipher)
+CBC , URL: /wiki/Cipher_block_chaining
+","SEED , URL: /wiki/SEED
+CBC , URL: /wiki/Cipher_block_chaining
+","CBC , URL: /wiki/Cipher_block_chaining
+","CNT , URL: /wiki/Block_cipher_mode_of_operation#Counter_(CTR)
+","ChaCha20 , URL: /wiki/ChaCha20
+Poly1305 , URL: /wiki/Poly1305
+","Null (insecure) [n 2]"

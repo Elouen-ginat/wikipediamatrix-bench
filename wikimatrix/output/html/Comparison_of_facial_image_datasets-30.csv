@@ -1,0 +1,9 @@
+"Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
+"Numenta Anomaly Benchmark (NAB)","Data are ordered, timestamped, single-valued metrics. All data files contain anomalies, unless otherwise noted.","None","50+ files","Comma separated values","Anomaly detection , URL: /wiki/Anomaly_detection
+","2016 (continually updated)","[448]","Numenta , URL: /wiki/Numenta
+"
+"Skoltech Anomaly Benchmark (SKAB)","Each file represents a single experiment and contains a single anomaly. The dataset represents a multivariate time series collected from the sensors installed on the testbed.","There are two markups for Outlier detection (point anomalies) and Changepoint detection (collective anomalies) problems","30+ files (v0.9)","Comma separated values","Anomaly detection , URL: /wiki/Anomaly_detection
+","2020 (continually updated)","[449] [450]","Iurii D. Katser and Vyacheslav O. Kozitsin"
+"On the Evaluation of Unsupervised Outlier Detection: Measures, Datasets, and an Empirical Study","Most data files are adapted from UCI Machine Learning Repository data, some are collected from the literature.","treated for missing values, numerical attributes only, different percentages of anomalies, labels","1000+ files","ARFF , URL: /wiki/Attribute-Relation_File_Format
+","Anomaly detection , URL: /wiki/Anomaly_detection
+","2016 (possibly updated with new datasets and/or results)","[451]","Campos et al."

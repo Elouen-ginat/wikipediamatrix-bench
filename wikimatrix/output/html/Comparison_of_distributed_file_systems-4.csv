@@ -1,0 +1,29 @@
+"v t e File systems","v t e File systems","v t e File systems"
+"Comparison of file systems distributed Unix filesystem","Comparison of file systems distributed Unix filesystem","Comparison of file systems distributed Unix filesystem"
+"Disk and non-rotating","ADFS AdvFS Amiga FFS Amiga OFS APFS AthFS bcachefs BFS Be File System Boot File System Byte File System (z/VM) Btrfs CVFS CXFS DFS EFS Encrypting File System Extent File System Episode ext ext2 ext3 ext3cow ext4 FFS/FFS2 FAT exFAT Files-11 Fossil GPFS HAMMER HAMMER2 HFS (Classic Mac OS) HFS (MVS) HFS+ HPFS HTFS JFS LFS MFS Macintosh File System TiVo Media File System MINIX NetWare File System Next3 NILFS NILFS2 NSS NTFS OneFS OpenZFS PFS QFS QNX4FS ReFS ReiserFS Reiser4 Reliance Reliance Nitro RFS SFS Shared File System (VM) Smart File System SNFS Soup (Apple) Tux3 UBIFS UFS soft updates WAPBL VxFS WAFL Xiafs XFS Xsan zFS (z/OS) ZFS (Sun)","ADFS AdvFS Amiga FFS Amiga OFS APFS AthFS bcachefs BFS Be File System Boot File System Byte File System (z/VM) Btrfs CVFS CXFS DFS EFS Encrypting File System Extent File System Episode ext ext2 ext3 ext3cow ext4 FFS/FFS2 FAT exFAT Files-11 Fossil GPFS HAMMER HAMMER2 HFS (Classic Mac OS) HFS (MVS) HFS+ HPFS HTFS JFS LFS MFS Macintosh File System TiVo Media File System MINIX NetWare File System Next3 NILFS NILFS2 NSS NTFS OneFS OpenZFS PFS QFS QNX4FS ReFS ReiserFS Reiser4 Reliance Reliance Nitro RFS SFS Shared File System (VM) Smart File System SNFS Soup (Apple) Tux3 UBIFS UFS soft updates WAPBL VxFS WAFL Xiafs XFS Xsan zFS (z/OS) ZFS (Sun)"
+"Disk and non-rotating","Optical disc , URL: /wiki/Optical_disc
+","HSF ISO 9660 ISO 13490 UDF"
+"Disk and non-rotating","Flash memory , URL: /wiki/Flash_memory
+SSD , URL: /wiki/Solid-state_drive
+","wear leveling , URL: /wiki/Wear_leveling
+
+CHFS JFFS JFFS2 LogFS NILFS NILFS2 YAFFS UBIFS
+
+
+"
+"Disk and non-rotating","Distributed parallel , URL: /wiki/Clustered_file_system#Distributed_file_systems
+","BeeGFS CXFS GFS2 Google File System OCFS2 OrangeFS PVFS QFS Xsan more..."
+"NAS , URL: /wiki/Network-attached_storage
+","9P AFS (OpenAFS) AFP Coda DFS Google File System GPFS Lustre NCP NFS POHMELFS Hadoop SMB (CIFS) SSHFS more...","9P AFS (OpenAFS) AFP Coda DFS Google File System GPFS Lustre NCP NFS POHMELFS Hadoop SMB (CIFS) SSHFS more..."
+"Specialized","Aufs AXFS Boot File System CDfs Compact Disc File System cramfs Davfs2 EROFS FTPFS FUSE Lnfs LTFS NOVA MVFS SquashFS UMSDOS OverlayFS UnionFS WBFS","Aufs AXFS Boot File System CDfs Compact Disc File System cramfs Davfs2 EROFS FTPFS FUSE Lnfs LTFS NOVA MVFS SquashFS UMSDOS OverlayFS UnionFS WBFS"
+"Specialized","Pseudo","configfs devfs debugfs kernfs procfs specfs sysfs tmpfs WinFS"
+"Specialized","Encrypted , URL: /wiki/Filesystem-level_encryption
+","eCryptfs EncFS EFS Rubberhose SSHFS ZFS"
+"Types","Clustered Global Grid Self-certifying Flash Journaling Log-structured Object Record-oriented Semantic Steganographic Synthetic Versioning","Clustered Global Grid Self-certifying Flash Journaling Log-structured Object Record-oriented Semantic Steganographic Synthetic Versioning"
+"Features","Case preservation Copy-on-write Data deduplication Data scrubbing Execute in place Extent File attribute Extended file attributes File change log Fork Links Hard Symbolic","Case preservation Copy-on-write Data deduplication Data scrubbing Execute in place Extent File attribute Extended file attributes File change log Fork Links Hard Symbolic"
+"Features","Access control , URL: /wiki/Computer_access_control
+","Access-control list Filesystem-level encryption Permissions Modes Sticky bit"
+"Interfaces , URL: /wiki/Interface_(computing)
+","File manager File system API Installable File System Virtual file system","File manager File system API Installable File System Virtual file system"
+"Lists , URL: /wiki/List_of_file_systems
+","Cryptographic Default Log-structured","Cryptographic Default Log-structured"

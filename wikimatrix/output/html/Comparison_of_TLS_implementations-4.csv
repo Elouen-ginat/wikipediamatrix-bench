@@ -1,0 +1,78 @@
+"Implementation","RSA , URL: /wiki/RSA_(cryptosystem)
+","RSA , URL: /wiki/RSA_(cryptosystem)
+","DHE , URL: /wiki/Diffie%E2%80%93Hellman_key_exchange
+RSA , URL: /wiki/RSA_(cryptosystem)
+forward secrecy , URL: /wiki/Forward_secrecy
+","DHE , URL: /wiki/Diffie%E2%80%93Hellman_key_exchange
+DSS , URL: /wiki/Digital_Signature_Algorithm
+forward secrecy , URL: /wiki/Forward_secrecy
+","ECDH , URL: /wiki/Elliptic_curve_Diffie%E2%80%93Hellman
+ECDSA , URL: /wiki/Elliptic_Curve_DSA
+","ECDHE , URL: /wiki/Elliptic_curve_Diffie%E2%80%93Hellman
+ECDSA , URL: /wiki/Elliptic_Curve_DSA
+forward secrecy , URL: /wiki/Forward_secrecy
+","ECDH , URL: /wiki/Elliptic_curve_Diffie%E2%80%93Hellman
+RSA , URL: /wiki/RSA_(cryptosystem)
+","ECDHE , URL: /wiki/Elliptic_curve_Diffie%E2%80%93Hellman
+RSA , URL: /wiki/RSA_(cryptosystem)
+forward secrecy , URL: /wiki/Forward_secrecy
+","GOST , URL: /wiki/GOST
+"
+"Botan , URL: /wiki/Botan_(programming_library)
+","Disabled by default","No","Yes","Disabled by default","No","Yes","No","Yes","No"
+"BSAFE , URL: /wiki/BSAFE
+","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"cryptlib , URL: /wiki/Cryptlib
+","Yes","No","Yes","Yes","No","Yes","No","No","No"
+"GnuTLS , URL: /wiki/GnuTLS
+","Yes","No","Yes","Disabled by default[38]","No","Yes","No","Yes","No"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","Yes","Disabled by default","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"LibreSSL , URL: /wiki/LibreSSL
+","Yes","No[42]","Yes","Yes","Yes","Yes","Yes","Yes","Yes[83]"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","Yes","No","Yes","No","Yes","Yes","Yes","Yes","No"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","Yes","No","Yes","No","Yes","Yes","Yes","Yes","No"
+"NSS , URL: /wiki/Network_Security_Services
+","Yes","Disabled by default","Yes[84]","Yes","Yes","Yes","Yes","Yes","No[85][86]"
+"OpenSSL , URL: /wiki/OpenSSL
+","Yes","No[53]","Yes","Disabled by default[53]","Yes","Yes","Yes","Yes","Yes[87]"
+"SChannel XP/2003 , URL: /wiki/SChannel
+","Yes","Yes","No","XP: Max 1024 bits 2003: 1024 bits only","No","No","No","No","No[88]"
+"SChannel Vista/2008 , URL: /wiki/SChannel
+","Yes","Disabled by default","No","1024 bits by default[89]","No","Yes","No","except AES_GCM","No[88]"
+"SChannel 8/2012 , URL: /wiki/SChannel
+","Yes","Disabled by default","AES_GCM only[90][91][92]","1024 bits by default[89]","No","Yes","No","except AES_GCM","No[88]"
+"SChannel 7/2008R2, 8.1/2012R2 , URL: /wiki/SChannel
+","Yes","Disabled by default","Yes","2048 bits by default[89]","No","Yes","No","except AES_GCM","No[88]"
+"SChannel 10 , URL: /wiki/SChannel
+","Yes","Disabled by default","Yes","2048 bits by default[89]","No","Yes","No","Yes","No[88]"
+"Secure Transport , URL: /wiki/MacOS
+","Yes","Yes","except AES_GCM","Yes","Yes","except AES_GCM","yes","except AES_GCM","No"
+"Secure Transport OS X 10.8-10.10","Yes","No","except AES_GCM","No","Yes","except AES_GCM","Yes","except AES_GCM","No"
+"Secure Transport OS X 10.11","Yes","No","Yes","No","No","Yes","No","Yes","No"
+"wolfSSL , URL: /wiki/WolfSSL
+","Yes","No","Yes","No","Yes","Yes","Yes","Yes","No"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"Implementation","RSA , URL: /wiki/RSA_(cryptosystem)
+","RSA , URL: /wiki/RSA_(cryptosystem)
+","DHE , URL: /wiki/Diffie%E2%80%93Hellman_key_exchange
+RSA , URL: /wiki/RSA_(cryptosystem)
+forward secrecy , URL: /wiki/Forward_secrecy
+","DHE , URL: /wiki/Diffie%E2%80%93Hellman_key_exchange
+DSS , URL: /wiki/Digital_Signature_Algorithm
+forward secrecy , URL: /wiki/Forward_secrecy
+","ECDH , URL: /wiki/Elliptic_curve_Diffie%E2%80%93Hellman
+ECDSA , URL: /wiki/Elliptic_Curve_DSA
+","ECDHE , URL: /wiki/Elliptic_curve_Diffie%E2%80%93Hellman
+ECDSA , URL: /wiki/Elliptic_Curve_DSA
+forward secrecy , URL: /wiki/Forward_secrecy
+","ECDH , URL: /wiki/Elliptic_curve_Diffie%E2%80%93Hellman
+RSA , URL: /wiki/RSA_(cryptosystem)
+","ECDHE , URL: /wiki/Elliptic_curve_Diffie%E2%80%93Hellman
+RSA , URL: /wiki/RSA_(cryptosystem)
+forward secrecy , URL: /wiki/Forward_secrecy
+","GOST , URL: /wiki/GOST
+"

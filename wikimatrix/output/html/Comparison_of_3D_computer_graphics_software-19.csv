@@ -1,0 +1,6 @@
+"Application","MIPMAP generation","Adaptive Tessellation","Instancing","Camera Culling","Deep Pixel Rendering","Fisheye Stereo for Fulldome","Omnidirectional stereo for HMD","Deforming Motion Blur"
+"V-Ray","img2tiledexr","?","Yes","?","Yes","Domemaster Stereo Shader","3.2 and later","Yes"
+"RenderMan","txmake","?","Yes","?","Yes","?","Yes[45]","Yes"
+"Arnold","maketx","Yes[46]","Yes","?","Yes","Domemaster Stereo Shader","5 and later","Yes"
+"Houdini Karma","icp","?","Yes[47]","?","Yes[47]","?","15.5 and later","Yes"
+"Blender Cycles","No","2.78 and later","Some","Camera Cull","No","2.78 and later","2.78 and later","Yes"

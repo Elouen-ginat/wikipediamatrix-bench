@@ -1,24 +1,87 @@
-"null","null","null"
-"Proprietary","Paid","Microsoft Windows"
-"Proprietary","Free","Windows 10/8.1/8/7/Vista x86/x64, XP x86"
-"Proprietary","Paid","Windows 10/8.1/8/7"
-"Proprietary","Paid","Mac OS X 10.5 or later; on an Xserve"
-"GPLv2","Free","Package for multiple UNIX-like operating systems"
-"BSD","Free","*BSD package"
-"Proprietary","Paid / 30 day trial","Windows unknown versions x86/x64"
-"Proprietary","Paid","Windows unknown versions x86/x64"
-"Proprietary","Discontinued","Windows unknown versions x64"
-"GPL","Free","Linux kernel module"
-"Proprietary","Paid","Windows 10, 8, 7 x64"
-"GPL","Free","Linux kernel (>=3.13) module"
-"Proprietary","Paid","Windows unknown versions x86/x64"
-"BSD","Free","NetBSD kernel module"
-"BSD","Free","*BSD kernel module"
-"Proprietary","Discontinued","Windows unknown versions x86/x64"
-"Proprietary","Discontinued","Windows 10, 8, 7, Vista, XP x86/x64"
-"Proprietary","Discontinued","Windows unknown versions x86/x64"
-"GPL","Free","Windows 8/8.1, 7, Vista x86/x64"
-"GPL","Free","Linux-based appliance"
-"Proprietary","Discontinued","Windows unknown versions x86"
-"Proprietary","Included with Windows XP SP2 and later","Windows versions x86/x64"
-"Proprietary","Free / Paid","Windows 10/8.1/8/7/Vista x86/x64, XP x86"
+"Firewall","License , URL: /wiki/Software_license
+","Cost","OS , URL: /wiki/Operating_system
+"
+"Clavister , URL: /wiki/Clavister
+","Proprietary , URL: /wiki/Proprietary_software
+","Included on all Clavister NGFWs","Proprietary operating system cOS Core"
+"Check Point , URL: /wiki/Check_Point
+","Proprietary , URL: /wiki/Proprietary_software
+","Included on Check Point security gateways","Check Point IPSO , URL: /wiki/Check_Point_IPSO
+Linux , URL: /wiki/Linux
+"
+"FortiGate , URL: /wiki/Fortinet#FortiGate_Firewall_Platform
+","Proprietary , URL: /wiki/Proprietary_software
+","Included on all Fortigate devices","Proprietary, FortiOS, Based on the Linux kernel"
+"Palo Alto Networks , URL: /wiki/Palo_Alto_Networks
+","Proprietary , URL: /wiki/Proprietary_software
+","Included on Palo Alto Networks firewalls","Proprietary, PAN-OS, Based on the Linux kernel"
+"Sophos , URL: /wiki/Sophos
+","Proprietary , URL: /wiki/Proprietary_software
+","Included on Sophos UTM","Linux , URL: /wiki/Linux
+"
+"Cisco ASA Firepower , URL: /wiki/Sourcefire
+","Proprietary , URL: /wiki/Proprietary_software
+","Included on all CISCO ASA devices","Proprietary operating system. Based on the Linux kernel."
+"Cisco PIX , URL: /wiki/Cisco_PIX
+","Proprietary , URL: /wiki/Proprietary_software
+","Included on all CISCO PIX devices","Proprietary operating system"
+"Juniper , URL: /wiki/Juniper_Networks
+","Proprietary , URL: /wiki/Proprietary_software
+","Included on Netscreen security gateways","ScreenOS , URL: /wiki/ScreenOS
+"
+"Juniper , URL: /wiki/Juniper_Networks
+","Proprietary , URL: /wiki/Proprietary_software
+","Included on SRX security gateways","Junos , URL: /wiki/Junos
+"
+"Sonicwall , URL: /wiki/Sonicwall
+","Proprietary , URL: /wiki/Proprietary_software
+","Included on Dell appliance","SonicOS , URL: /w/index.php?title=SonicOs&action=edit&redlink=1
+"
+"Barracuda , URL: /wiki/Barracuda_Networks
+","Proprietary , URL: /wiki/Proprietary_software
+","Included Firewall Next Generation appliance","Windows , URL: /wiki/Windows
+"
+"Cyberoam , URL: /wiki/Cyberoam
+","Proprietary , URL: /wiki/Proprietary_software
+","Included Firewall Sophos appliance","Windows , URL: /wiki/Windows
+"
+"D-Link , URL: /wiki/D-Link
+","Proprietary , URL: /wiki/Proprietary_software
+","Included Firewall DFL","Windows , URL: /wiki/Windows
+"
+"Endian Firewall , URL: /wiki/Endian_Firewall
+","Proprietary , URL: /wiki/Proprietary_software
+","Free / Paid","Linux , URL: /wiki/Linux
+"
+"Forcepoint , URL: /wiki/Forcepoint
+","Proprietary , URL: /wiki/Proprietary_software
+","Included on all Forcepoint NGFW devices","Proprietary operating system"
+"OPNsense , URL: /wiki/OPNsense
+","Simplified BSD / FreeBSD License , URL: /wiki/Simplified_BSD_license
+","Free / Paid","FreeBSD , URL: /wiki/FreeBSD
+"
+"pfSense , URL: /wiki/PfSense
+","Apache 2.0 , URL: /wiki/Apache_2.0
+Proprietary , URL: /wiki/Proprietary
+","Free / Paid","FreeBSD , URL: /wiki/FreeBSD
+"
+"Zeroshell , URL: /wiki/Zeroshell
+","GPL , URL: /wiki/GPL
+","Free / Paid","Linux , URL: /wiki/Linux
+NanoBSD , URL: /wiki/NanoBSD
+"
+"SmoothWall , URL: /wiki/SmoothWall
+","GPL , URL: /wiki/GPL
+","Free / Paid","Linux , URL: /wiki/Linux
+"
+"IPFire , URL: /wiki/IPFire
+","GPL , URL: /wiki/GPL
+","Free (Donations welcomed)","Linux , URL: /wiki/Linux
+"
+"WatchGuard , URL: /wiki/WatchGuard
+","Proprietary , URL: /wiki/Proprietary_software
+","Included on all Firebox devices","Proprietary, Fireware OS, Based on the Linux kernel"
+"WinGate , URL: /wiki/WinGate
+","Proprietary , URL: /wiki/Proprietary_software
+","Free / Paid","Windows , URL: /wiki/Windows
+"

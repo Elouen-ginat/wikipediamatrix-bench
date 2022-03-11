@@ -1,0 +1,30 @@
+"Implementation","DEFLATE[174] (insecure)"
+"Botan , URL: /wiki/Botan_(programming_library)
+","No"
+"BSAFE , URL: /wiki/BSAFE
+","No"
+"cryptlib , URL: /wiki/Cryptlib
+","No"
+"GnuTLS , URL: /wiki/GnuTLS
+","Disabled by default"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","No"
+"LibreSSL , URL: /wiki/LibreSSL
+","No[42]"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","Disabled by default"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","Disabled by default"
+"NSS , URL: /wiki/Network_Security_Services
+","Disabled by default"
+"OpenSSL , URL: /wiki/OpenSSL
+","Disabled by default"
+"SChannel , URL: /wiki/SChannel
+","No"
+"Secure Transport , URL: /wiki/MacOS
+","No"
+"wolfSSL , URL: /wiki/WolfSSL
+","Disabled by default"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","No"
+"Implementation","DEFLATE"

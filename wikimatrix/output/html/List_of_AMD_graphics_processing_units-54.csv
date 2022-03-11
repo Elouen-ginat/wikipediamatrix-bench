@@ -1,0 +1,48 @@
+"codename , URL: /wiki/Codename
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/Floating-point_operations_per_second
+","GFLOPS , URL: /wiki/Floating-point_operations_per_second
+","GFLOPS , URL: /wiki/Floating-point_operations_per_second
+","Memory","Memory","Memory","Memory","TBP","Bus interface"
+"codename , URL: /wiki/Codename
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Config[e]","MHz , URL: /wiki/Hertz
+","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","Half , URL: /wiki/Half-precision_floating-point_format
+","Single , URL: /wiki/Single_precision_floating-point_format
+","Double , URL: /wiki/Double_precision_floating-point_format
+","Bus type & width","GiB , URL: /wiki/Gibibyte
+","MT/s , URL: /wiki/Transfer_(computing)
+","GB , URL: /wiki/Gigabyte
+","TBP","Bus interface"
+"Radeon 610[209][210]","August 13, 2019 OEM","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+TSMC , URL: /wiki/TSMC
+28FF , URL: /w/index.php?title=28_nanometer&action=edit&redlink=1
+","1.0×109 77 mm2","320:20:4 5 CU","1030","20.6","8.24","?","659.2","41.2","GDDR5 , URL: /wiki/GDDR5
+","4","4500","48","50 W","PCIe 3.0 ×8"
+"Radeon 620[211][212]","August 13, 2019 OEM","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+GlobalFoundries , URL: /wiki/GlobalFoundries
+14FF , URL: /wiki/14_nanometer
+","2.2×109 101 mm2","384:24:8 6 CU 320:20:8 6 CU","1024","24.58","8.192","786.4","786.4","49.15","GDDR5 , URL: /wiki/GDDR5
+DDR3 , URL: /wiki/DDR3
+","4","4500","48","50 W","PCIe 3.0 ×8"
+"Radeon 625[213][214]","August 13, 2019 OEM","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+GlobalFoundries , URL: /wiki/GlobalFoundries
+14FF , URL: /wiki/14_nanometer
+","2.2×109 101 mm2","384:24:8 6 CU","1024","24.58","8.192","786.4","786.4","49.15","GDDR5 , URL: /wiki/GDDR5
+","4","4500","48","50 W","PCIe 3.0 ×8"
+"Radeon 630[215][216]","August 13, 2019 OEM","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+GlobalFoundries , URL: /wiki/GlobalFoundries
+14FF , URL: /wiki/14_nanometer
+","3.3×109 125 mm2","512:32:16 8 CU","1219","38.98","19.49","1247","1247","77.95","GDDR5 , URL: /wiki/GDDR5
+","4","6000","48","50 W","PCIe 3.0 ×8"
+"Radeon RX 640 [217][218]","August 13, 2019 OEM","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+GlobalFoundries , URL: /wiki/GlobalFoundries
+14FF , URL: /wiki/14_nanometer
+","3.3×109 125 mm2","640:40:16 10 CU 512:32:16 8 CU","1287","38.98","19.49","1247","1247","77.95","GDDR5 , URL: /wiki/GDDR5
+","4","7000","56","50 W","PCIe 3.0 ×8"

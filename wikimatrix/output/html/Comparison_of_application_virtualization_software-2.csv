@@ -1,0 +1,178 @@
+"Virtual machine , URL: /wiki/Virtual_machine
+","Languages , URL: /wiki/Programming_language
+","Comments","Interpreter , URL: /wiki/Interpreter_(computing)
+","JIT , URL: /wiki/Just-in-time_compilation
+","Implementation language","SLoC , URL: /wiki/Source_lines_of_code
+"
+"Common Language Runtime , URL: /wiki/Common_Language_Runtime
+","C# , URL: /wiki/C_Sharp_(programming_language)
+C++/CLI , URL: /wiki/C%2B%2B/CLI
+F# , URL: /wiki/F_Sharp_(programming_language)
+VB.NET , URL: /wiki/Visual_Basic_.NET
+","CIL , URL: /wiki/Common_Intermediate_Language
+","No","Yes","C#, C++",""
+"Adobe Flash Player , URL: /wiki/Adobe_Flash_Player
+Tamarin , URL: /wiki/Tamarin_(JavaScript_engine)
+","ActionScript , URL: /wiki/ActionScript
+SWF , URL: /wiki/SWF
+","interactive web authoring tool. bytecode is named "ActionScript Byte Code (.abc)"","Yes","Yes","C++","135k (initially released)"
+"Dis , URL: /wiki/Dis_virtual_machine
+Inferno , URL: /wiki/Inferno_(operating_system)
+","Limbo , URL: /wiki/Limbo_(programming_language)
+","Dis Virtual Machine Specification","Yes","Yes","C","15k + 2850 per JIT arch + 500 per host OS"
+"DotGNU , URL: /wiki/DotGNU
+Portable.NET , URL: /wiki/Portable.NET
+","CLI languages , URL: /wiki/List_of_CLI_languages
+C# , URL: /wiki/C_Sharp_(programming_language)
+","Common Language Runtime clone","No","Yes","C, C#",""
+"Forth , URL: /wiki/Forth_virtual_machine
+","Forth , URL: /wiki/Forth_(programming_language)
+","Features are simplified, usually include assembler, compiler, text-level and binary-level interpreters, sometimes editor, debugger and OS. Compiling speeds are >20 SKLOC/S and behave much like JIT.","Yes","No","Forth, Forth Assembler","2.8K to 5.6K; advanced, professional implementations are smaller."
+"Glulx , URL: /wiki/Glulx
+","Inform 6, Inform 7, others","","Yes","No","Various implementations exist",""
+"HHVM , URL: /wiki/HHVM
+","PHP , URL: /wiki/PHP
+Hack , URL: /wiki/Hack_(programming_language)
+","Is an open-source virtual machine designed for executing programs written in Hack and PHP.","Yes","Yes","C++, OCaml",""
+"Icon , URL: /wiki/Icon_(programming_language)
+","Icon","Base source code provides both the interpreter as well as an unsupported compile-to-C version. The runtime code, that is shared between the compiler and the interpreter, is written in a variant of C called RTT.","Yes","No","C, RTT (a custom front-end to C, provided with the base source for Icon).","~180k total. (source to bytecode: ~11k, bytecode interpreter: ~46k, iconc: ~23k, common/headers: ~13k, rtt: ~15k)"
+"JVM , URL: /wiki/Java_virtual_machine
+","Java , URL: /wiki/Java_(programming_language)
+Kotlin , URL: /wiki/Kotlin_(programming_language)
+Jython , URL: /wiki/Jython
+Groovy , URL: /wiki/Groovy_(programming_language)
+JRuby , URL: /wiki/JRuby
+C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Clojure , URL: /wiki/Clojure
+Scala , URL: /wiki/Scala_(programming_language)
+","OpenJDK , URL: /wiki/OpenJDK
+GPL , URL: /wiki/GPL
+IcedTea , URL: /wiki/IcedTea
+GPL , URL: /wiki/GPL
+","Yes","Yes","JDK , URL: /wiki/JDK
+OpenJDK , URL: /wiki/OpenJDK
+IcedTea , URL: /wiki/IcedTea
+IcedTea , URL: /wiki/IcedTea
+","TCK , URL: /wiki/Technology_Compatibility_Kit
+"
+"LLVM , URL: /wiki/LLVM
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Kotlin , URL: /wiki/Kotlin_(programming_language)
+Objective-C , URL: /wiki/Objective-C
+Swift , URL: /wiki/Swift_(programming_language)
+Ada , URL: /wiki/Ada_(programming_language)
+Fortran , URL: /wiki/Fortran
+Rust , URL: /wiki/Rust_(programming_language)
+","MSIL, C and C++ output are supported. ActionScript Byte Code output is supported by Adobe Alchemy. bytecode is named "LLVM Bytecode (.bc)". assembly is named "LLVM Assembly Language (*.ll)".","Yes","Yes","C++","811k [4]"
+"Lua , URL: /wiki/Lua_(programming_language)
+","Lua","","Yes","LuaJIT","C","13k + 7k LuaJIT"
+"MMIX , URL: /wiki/MMIX
+","MMIXAL","","","","",""
+"Mono , URL: /wiki/Mono_(software)
+","CLI languages , URL: /wiki/List_of_CLI_languages
+C# , URL: /wiki/C_Sharp_(programming_language)
+VB.NET , URL: /wiki/VB.NET
+IronPython , URL: /wiki/IronPython
+IronRuby , URL: /wiki/IronRuby
+","Common Language Runtime clone","Yes","Yes","C#, C","2332k"
+"NekoVM , URL: /wiki/NekoVM
+","Neko , URL: /wiki/NekoVM
+Haxe , URL: /wiki/Haxe
+","","Yes","x86 only","C","46k"
+"Oz , URL: /wiki/Oz_(programming_language)
+","Alice , URL: /wiki/Alice_(programming_language)
+","","","","",""
+"O-code machine , URL: /wiki/O-code_machine
+","BCPL , URL: /wiki/BCPL
+","","","","",""
+"p-code machine , URL: /wiki/P-code_machine
+","Pascal , URL: /wiki/Pascal_(programming_language)
+","UCSD Pascal, widespread in late 70s including Apple II","","","",""
+"Parrot , URL: /wiki/Parrot_virtual_machine
+","Perl 5 , URL: /wiki/Perl#2000–present
+Raku , URL: /wiki/Raku_(programming_language)
+PIR , URL: /w/index.php?title=Parrot_intermediary_language&action=edit&redlink=1
+PASM , URL: /wiki/Parrot_assembly_language
+PBC , URL: /wiki/Bytecode
+BASIC , URL: /wiki/BASIC
+bc , URL: /wiki/Bc_(programming_language)
+C99 , URL: /wiki/C99
+ECMAScript , URL: /wiki/ECMAScript
+Lisp , URL: /wiki/Lisp_(programming_language)
+Lua , URL: /wiki/Lua_(programming_language)
+m4 , URL: /wiki/GNU_m4
+Tcl , URL: /wiki/Tcl
+WMLScript , URL: /wiki/WMLScript
+XML , URL: /wiki/Simple_API_for_XML#XML_processing_with_SAX
+","","Yes","Yes","C, Perl","111k C, 240k Perl"
+"Perl virtual machine , URL: /wiki/Perl_virtual_machine
+","Perl , URL: /wiki/Perl
+","op-code , URL: /wiki/Op-code
+","Yes","No","C, Perl","175k C, 9k Perl"
+"CPython , URL: /wiki/CPython
+","Python , URL: /wiki/Python_(programming_language)
+","","Yes","Psyco Unladen Swallow","C","387k C, 368k Python, 10k ASM, 31k Psyco"
+"PyPy , URL: /wiki/PyPy
+","Python , URL: /wiki/Python_(programming_language)
+","Self-hosting , URL: /wiki/Self-hosting_(compilers)
+Psyco , URL: /wiki/Psyco
+","Yes","Yes","Python",""
+"Rubinius , URL: /wiki/Rubinius
+","Ruby , URL: /wiki/Ruby_(programming_language)
+","Virtual machine for another Ruby implementation","Yes","Yes","C++, Ruby",""
+"Silverlight , URL: /wiki/Silverlight
+","C# , URL: /wiki/C_Sharp_(programming_language)
+VB.NET , URL: /wiki/VB.NET
+","A Micro-version of Microsoft .NET Framework to let applications run sandboxed inside browser","Yes","Yes","C++","7MB (initially released)"
+"ScummVM , URL: /wiki/ScummVM
+","Scumm , URL: /wiki/Scumm
+","Computer game engine","","","",""
+"SECD , URL: /wiki/SECD_machine
+","ISWIM , URL: /wiki/ISWIM
+Lispkit Lisp , URL: /wiki/Lispkit_Lisp
+","","","","",""
+"Squirrel , URL: /wiki/Squirrel_(programming_language)
+","Squirrel","","Yes","Squirrel_JIT","C++","12k"
+"Smalltalk , URL: /wiki/Smalltalk
+","Smalltalk","","","","",""
+"SQLite , URL: /wiki/SQLite
+","SQLite opcodes","Virtual database engine","","","",""
+"Squeak , URL: /wiki/Squeak
+","Smalltalk , URL: /wiki/Smalltalk
+","Self hosting , URL: /wiki/Self-hosting_(compilers)
+","Yes","Cog & Exupery","Smalltalk/Slang","110k Smalltalk, ~300K C"
+"SWI-Prolog , URL: /wiki/SWI-Prolog
+","SWI-Prolog , URL: /wiki/SWI-Prolog
+YAP , URL: /wiki/YAP_(Prolog)
+","","Yes","No","C, SWI-Prolog",""
+"TraceMonkey , URL: /wiki/TraceMonkey
+","JavaScript","Tamarin , URL: /wiki/Tamarin_(JavaScript_engine)
+","No","Yes","C++","173k"
+"TrueType , URL: /wiki/TrueType
+","TrueType , URL: /wiki/TrueType#Hinting_language
+","Font rendering engine","Yes","No","C (typically)",""
+"Valgrind , URL: /wiki/Valgrind
+","x86 , URL: /wiki/X86
+x86-64 , URL: /wiki/X86-64
+","Linux , URL: /wiki/Linux
+","","","C","467k [5]"
+"VisualWorks , URL: /wiki/VisualWorks
+","Smalltalk , URL: /wiki/Smalltalk
+","","No","Yes","C",""
+"Vx32 , URL: /wiki/Vx32
+","x86 , URL: /wiki/X86
+","Application-level virtualization for native code","No","Yes","",""
+"Waba , URL: /wiki/SuperWaba
+","","Java , URL: /wiki/Java_(programming_language)
+","","","",""
+"YARV , URL: /wiki/YARV
+","Ruby , URL: /wiki/Ruby_(programming_language)
+","Ruby , URL: /wiki/Ruby_(programming_language)
+","Yes","Yes","C",""
+"Z-machine , URL: /wiki/Z-machine
+","Z-Code","","","","",""
+"Zend Engine , URL: /wiki/Zend_Engine
+","PHP , URL: /wiki/PHP
+","","Yes","No","C","75k"

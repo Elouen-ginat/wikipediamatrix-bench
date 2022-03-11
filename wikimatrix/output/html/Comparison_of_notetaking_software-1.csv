@@ -1,37 +1,100 @@
-"null","null","null"
-"Vladonai Software","Proprietary, Freemium","Microsoft Windows"
-"KDE","GPL-2.0-or-later","Unix-like (KDE)"
-"Cinta Software","Proprietary, Freemium","Microsoft Windows"
-"Eduardo Mauro","Proprietary, Commercial","Microsoft Windows"
-"Bloom Built","Proprietary, Commercial","macOS, iOS, Android"
-"Dropbox","Proprietary, Freemium","Android, IOS, web-based"
-"Evernote Corporation","Proprietary, Freemium for personal use, per-seat licensing for business","Android, iOS, macOS, Microsoft Windows 7/8/10, Microsoft Windows Phone, and web-based"
-"Aurimas Černius","GPL-3.0-or-later","Linux"
-"Google","Proprietary, no-cost","Android, iOS, Chrome OS, browser based"
-"laurent22 et al","MIT","Microsoft Windows, Mac, Linux, iOS, Android"
-"Marek Jedliński, Tranglos Software","MPL-2.0","Microsoft Windows"
-"Nektoon AG","Proprietary, Freemium[Notes 1]","Android (not released yet), iOS, macOS, Microsoft Windows XP/Vista/7/Mobile web-based"
-"Microsoft","Proprietary, Shareware/Freeware/Freemium[Notes 2]","Android, macOS, iOS (iPad, iPhone), Microsoft Windows 7/8/10, Microsoft Windows Server 2008R2/2012R2/2016, Microsoft Windows Phone 8/8.1/10, web-based, mobile web"
-"Milenix Software","Proprietary, Shareware","Microsoft Windows 7/10/11"
-"Massimo Nardello","GPL-3.0-or-later","Linux"
-"Zachary Schneirov","GPL-3.0-or-later","macOS"
-"Apple","Proprietary","macOS, iOS, web-based"
-"Notion Labs Inc.","Proprietary, Freemium","Android, macOS, iOS (iPad, iPhone), Microsoft Windows, web-based"
-"Sankoré","LGPL-2.0-only","Linux, macOS, Unix, Microsoft Windows"
-"Carsten Dominik, et al.","GPL-3.0-or-later","Linux, macOS, Unix, Microsoft Windows (Emacs mode)"
-"Gorillized Corporation","Proprietary, Commercial","macOS, iOS"
-"Qoppa Software","Proprietary, Shareware","Linux, macOS, Microsoft Windows, web-based"
-"Bitsmith Software","Proprietary, Commercial","Microsoft Windows"
-"Patrizio Bekerle","GPL-2.0-only","Linux, macOS, Microsoft Windows"
-"Quantisle Ltd.","Proprietary, Freemium","Microsoft Windows XP/Vista/7/8, Web-based, Android"
-"Automattic inc.","Clients: GPL-2.0-only Server: Proprietary","Cross-platform"
-"Standard Notes.","AGPL-3.0-only[1]","Cross-platform (Available for Android, Windows, Linux and other major OS)"
-"TagSpaces UG","AGPL-3.0-only","Cross-platform (browser, web-based)"
-"Jeremy Ruston","BSD-3-Clause","Cross-platform (single HTML file, runs in browser, on a nodeJS server, on Android and IOS)"
-"Alex Graveley","LGPL-2.1-or-later","Cross-platform (Mono/GTK+)"
-"The Soulmen","SaaS","macOS, iOS"
-"AvniTech Solutions","Proprietary, Commercial","Microsoft Windows"
-"Microsoft","Proprietary, Commercial","Microsoft Windows XP Tablet PC edition, Microsoft Windows Vista, Microsoft Windows 7/8/10 (included with OS)"
-"Xournalpp Team","GPL-2.0-or-later","Linux, macOS, Microsoft Windows, Android (beta)"
-"Jaap Karssenberg","GPL-2.0-or-later","Cross-platform (Python, GTK+)"
-"ZOHO Corporation","Proprietary, Commercial, Freemium","Self-hosted. SaaS."
+"Name","Organizing principle(s)","Outline bulleting with indent","Tabbed sections","Sync , URL: /wiki/Data_synchronization
+","Web Clipping","PDF , URL: /wiki/PDF
+","Whiteboard , URL: /wiki/Whiteboarding
+","Ink-pen input","Handwriting recognition , URL: /wiki/Pen_computing#Handwriting_recognition
+","Spell check","Search","Replace in note","Printing","File save/export/import formats"
+"AllMyNotes Organizer , URL: /wiki/AllMyNotes_Organizer
+","Tree","Yes","No","Yes","?","No","No","No","No","Yes","Yes","?","Yes","Proprietary, encrypted; import: plain text, RTF, CSV, images, HTML; exports: plain text, HTML, RTF, images"
+"BasKet Note Pads , URL: /wiki/BasKet_Note_Pads
+","Tree, tags","?","No","No","?","No","Yes","No","No","Yes","Yes","?","No","Rich text; export as HTML; import text files"
+"CintaNotes , URL: /wiki/CintaNotes
+","tags , URL: /wiki/Tag_(metadata)
+","Yes","Yes","Yes","?","No","No","No","No","No","Yes","?","Yes","Proprietary; export to Unicode text, XML and HTML"
+"ConnectedText , URL: /wiki/ConnectedText
+","Wiki , URL: /wiki/Wiki
+Tree , URL: /wiki/Tree_structure
+Categories , URL: /wiki/Tag_(metadata)
+","Yes","Yes","No","?","No","No","No","No","Yes","Yes","?","Yes","Proprietary (SQL); Export to text, XML, CHM and HTML. Import from text, HTML, XML and RTF"
+"Day One , URL: /wiki/Day_One_(app)
+","tags , URL: /wiki/Tag_(metadata)
+","Yes","No","Yes[Notes 3]","?","No","No","No","No","Yes","Yes","?","Yes[Notes 4]","Markdown , URL: /wiki/Markdown
+"
+"Evernote , URL: /wiki/Evernote
+","tags , URL: /wiki/Tag_(metadata)
+","Yes","No","Yes","Yes","Yes","No","Partial[Notes 5]","Yes","Yes","Yes","Yes","Yes","Imports and exports in Evernote XML.[2][3]"
+"Gnote , URL: /wiki/Gnote
+","Notebooks","?","No","Yes","?","Yes","No","?","?","Yes","Yes","?","Yes","NoteXmlFormat, HTML, PDF"
+"Google Keep , URL: /wiki/Google_Keep
+","tags , URL: /wiki/Tag_(metadata)
+","No","No","Yes","Partial[Notes 6]","No","Yes","No","?","Partial[Notes 7]","Yes","?","No","Proprietary; export to Google Doc and thence to PDF, Word, ODT etc."
+"KeyNote NF , URL: /wiki/Keynote_(notetaking_software)
+","tree , URL: /wiki/Tree_structure
+","Yes","Yes","No","?","No","No","No","No","Yes","Yes","?","Yes","Internal: combination of TXT and RTF; import/export: TXT, RTF, HTML, Treepad"
+"Memonic , URL: /wiki/Memonic
+","?","?","No","Yes","?","Yes","No","No","?","?","?","?","Yes","Notes stored as XML; can attach any filetype"
+"Microsoft OneNote , URL: /wiki/Microsoft_OneNote
+","Notebooks, notebook sections, section groups, tags (could be applied to content blocks)","Yes","Yes","Yes[Notes 8]","Yes","Yes[Notes 9]","Yes","Yes","Yes","Yes","Yes","No","Yes","Imports: Evernote XML.[4] Exports: OneNote binary format.[5]"
+"MyInfo , URL: /wiki/MyInfo
+","Notebooks, sections, notes, tree, tags, custom attributes","Yes","Yes","No","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Proprietary, encrypted; import: plain text, RTF, CSV, MS Word, TreePad, images, web pages; exports: plain text, HTML, RTF, CSV, MS Word, TreePad"
+"MyNotex , URL: /wiki/MyNotex
+","?","?","?","Yes","?","No","No","No","No","?","Yes","?","Yes","LaTeX , URL: /wiki/LaTeX
+OpenOffice.org , URL: /wiki/OpenOffice.org
+"
+"Notes , URL: /wiki/Notes_(Apple)
+","notes, tree, tags","Yes","?","Yes","Yes","?","?","Yes","Yes","Yes","Yes","Yes","Yes","Sqlite based; export to PDF"
+"Notion , URL: /wiki/Notion_(app)
+","Notebooks, notebook sections, section","Yes","Yes","Yes","Partial[Notes 10]","Yes[Notes 11]","No","No","No","Yes","Yes","?","Yes","Proprietary; export to PDF, HTML, Markdown, CSV"
+"Okular , URL: /wiki/Okular
+","?","?","?","No","?","Yes[Notes 12]","No","No","No","?","?","?","Yes","PDF, PS, TIFF, CHM, DjVu, DVI, XPS, ODF, others; export PDF+notes for sending to other Okular users"
+"Open-Sankoré , URL: /wiki/Open-Sankor%C3%A9
+","tree, notebooks","No","No","No","?","Yes","Yes","Yes","No","No","No","?","Yes","Save/export: PDF, IWB, UBZ; Import: PDF, IWB, UBZ, images, image directories"
+"Org-mode , URL: /wiki/Org-mode
+Emacs , URL: /wiki/Emacs
+","tree , URL: /wiki/Tree_structure
+tags , URL: /wiki/Tag_(metadata)
+","Yes","Yes","Yes","?","Yes","No","No","No","Yes","Yes","?","Yes","LaTeX , URL: /wiki/LaTeX
+"
+"Outline , URL: /wiki/Outline_(software)
+","Tree-structured notebooks, sections, pages","Yes","Yes","Yes[Notes 13]","?","Yes","No","Yes","No","Yes","Yes","?","Yes","MS OneNote format, export/import as PDF"
+"PDF Studio , URL: /wiki/PDF_Studio
+","?","?","?","?","?","Yes","No","?","?","?","?","?","Yes","PDF"
+"Personal Knowbase , URL: /wiki/Personal_Knowbase
+","tags , URL: /wiki/Tag_(metadata)
+","?","?","?","?","No","No","?","?","?","?","?","Yes","Export to RTF, HTML, TXT, CSV"
+"Qiqqa , URL: /wiki/Qiqqa
+","tags , URL: /wiki/Tag_(metadata)
+brainstorm , URL: /wiki/Brainstorming
+","No","No","Yes","?","Yes","No","Yes","No","No","Yes","?","Yes","Proprietary, PDF, Brainstorm; export to RTF and Word"
+"Simplenote , URL: /wiki/Simplenote
+","tags , URL: /wiki/Tag_(metadata)
+","Yes","No","Yes","?","No","No","No","No","Yes","Yes","?","Yes","Export to XML"
+"TagSpaces , URL: /wiki/TagSpaces
+","tags , URL: /wiki/Tag_(metadata)
+","Yes","No","No","?","No","No","No","No","No","Yes","?","Yes","PNG, JPG, GIF, BMP, ICO, WEBP, SVG, PDF, HTML, MHT, MHTML, MARKDOWN, TXT, XML, JSON, OGG, OGV, WEBM, ODT, ODS, ODP, ODG, EPUB, ZIP"
+"TiddlyWiki , URL: /wiki/TiddlyWiki
+","tags , URL: /wiki/Tag_(metadata)
+","Yes","Yes","Yes","?","Via plugin","No","?","No","Yes(via browser)","Yes","?","Yes","HTML, json, txt,csv"
+"Tomboy , URL: /wiki/Tomboy_(software)
+","?","Yes","?","Yes","?","No","No","No","No","Yes","Yes","?","Yes","NoteXmlFormat, HTML, PDF, wiki-formats"
+"Ulysses , URL: /wiki/Ulysses_(text_editor)
+","tags , URL: /wiki/Tag_(metadata)
+","Yes","Yes","Yes","?","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes","Rich text; export as HTML; import text files; markdown editing."
+"Microsoft Windows Journal , URL: /wiki/Microsoft_Windows_Journal
+","?","?","No","?","?","No","?","Yes","Yes[Notes 14]","?","?","?","Yes","Proprietary"
+"Xournal++ , URL: /w/index.php?title=Xournal%2B%2B&action=edit&redlink=1
+","Pages, Layers","Yes","No","No","?","Yes","Yes","Yes","Yes","?","Yes","Yes","Yes","PDF , URL: /wiki/PDF
+SVG , URL: /wiki/SVG
+PNG , URL: /wiki/Portable_Network_Graphics
+"
+"Zim , URL: /wiki/Zim_(software)
+","tags , URL: /wiki/Tag_(metadata)
+","Yes","No","No","?","No","No","No","No","Yes","Yes","Yes","Yes, using installed web browser","DokuWiki , URL: /wiki/DokuWiki
+HTML , URL: /wiki/HTML
+LaTeX , URL: /wiki/LaTeX
+Sphinx RST (reStructuredText) , URL: /wiki/ReStructuredText
+"
+"Name","Organizing principle(s)","Outline bulleting with indent","Tabbed sections","Sync , URL: /wiki/Data_synchronization
+","Web Clipping","PDF , URL: /wiki/PDF
+","Whiteboard , URL: /wiki/Whiteboarding
+","Ink-pen input","Handwriting recognition , URL: /wiki/Pen_computing#Handwriting_recognition
+","Spell check","Search","Replace","Printing","File save/export/import formats"

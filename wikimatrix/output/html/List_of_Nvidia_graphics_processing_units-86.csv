@@ -1,0 +1,65 @@
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Fab , URL: /wiki/Semiconductor_device_fabrication
+nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1,2","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+"
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Fab , URL: /wiki/Semiconductor_device_fabrication
+nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1,2","MOperations/s","MTexels , URL: /wiki/Texel_(graphics)
+","MPixels , URL: /wiki/Pixel
+","MTri/s","MB , URL: /wiki/Megabyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Half precision , URL: /wiki/Half_precision_floating-point_format
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","Vulkan , URL: /wiki/Vulkan
+","Other"
+"Xbox , URL: /wiki/Xbox_(console)
+","November 15, 2001","NV2A , URL: /wiki/NV25
+","TSMC , URL: /wiki/TSMC
+150 nm , URL: /wiki/180_nanometer
+","Integrated","233","200","4:2:8:4","5800","1864","932","116.5","64","5.34","DDR","128","5,8","-","8.1","1.4","N/A","N/A"
+"RSX , URL: /wiki/RSX_%27Reality_Synthesizer%27
+PS3 , URL: /wiki/PS3
+","November 11, 2006","G70 , URL: /wiki/GeForce_7_series
+","Toshiba , URL: /wiki/Toshiba
+90 , URL: /wiki/90_nanometer
+65 , URL: /wiki/65_nanometer
+40 nm , URL: /wiki/40_nanometer
+28 nm , URL: /w/index.php?title=28_nanometer&action=edit&redlink=1
+","FlexIO","500, 550 (Pixel Shaders)","650","24:8:24:8","13200","12000","4000","275","256 256","20.8 20 (read), 15 (write)","XDR , URL: /wiki/XDR_DRAM
+","128","Cell , URL: /wiki/Cell_(microprocessor)
+","-","N/A","Cg , URL: /wiki/Cg_(programming_language)
+","N/A","N/A"
+"NX-SoC , URL: /wiki/Tegra#Tegra_X1
+Nintendo Switch , URL: /wiki/Nintendo_Switch
+","March 3, 2017","GM20B , URL: /wiki/Maxwell_(microarchitecture)
+","TSMC , URL: /wiki/TSMC
+20 nm , URL: /w/index.php?title=20_nanometer&action=edit&redlink=1
+","Integrated","307 384 460 (Undocked) 768 921 (Docked)","1333 1600","256:16:16","157000 196000 235500 393000 471552","4900 6200 7360 12300 14736","4900 6200 7360 12300 14736","probably ~500/1000","4096","25.6","LPDDR4","64","157 196 235.5 393 471.5","314 392 471 786 943","N/A","4.6[360] ES 3.2[361]","1.2[362]","Nvidia NVN [363]"
+"NX-SoC , URL: /wiki/Tegra#Tegra_X1
+Nintendo Switch , URL: /wiki/Nintendo_Switch
+","August 30, 2019","GM20B , URL: /wiki/Maxwell_(microarchitecture)
+","TSMC , URL: /wiki/TSMC
+16 nm , URL: /w/index.php?title=16_nanometer&action=edit&redlink=1
+","Integrated","307 384 460 (Undocked) 768 921 (Docked)","1333 1600","256:16:16","157000 196000 235500 393000 471552","4900 6200 7360 12300 14736","4900 6200 7360 12300 14736","probably ~500/1000","4096","","","64","157 196 235.5 393 471.5","314 392 471 786 943","N/A","4.6[360] ES 3.2[361]","1.2[362]","Nvidia NVN [363]"

@@ -1,0 +1,19 @@
+"Kernel Name","NFS , URL: /wiki/Network_File_System_(protocol)
+","AFS , URL: /wiki/Andrew_File_System
+","CIFS , URL: /wiki/CIFS
+","Coda , URL: /wiki/Coda_(file_system)
+","9P , URL: /wiki/9P_(protocol)
+","Ceph , URL: /wiki/Ceph_(software)
+"
+"DragonFly BSD kernel , URL: /wiki/DragonFly_BSD
+","Yes","No","Yes","No","No","No"
+"FreeBSD kernel , URL: /wiki/FreeBSD
+","Yes","Yes","Yes","Yes","No","Yes"
+"Linux kernel , URL: /wiki/Linux_kernel
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Solaris kernel , URL: /wiki/Solaris_(operating_system)
+","Yes","Yes","Yes","No","No","No"
+"Windows NT kernel , URL: /wiki/Architecture_of_Windows_NT#Kernel_mode
+","Yes","Yes","Yes","No","No","No"
+"XNU , URL: /wiki/XNU
+","Yes","Yes","Yes","No","No","No"

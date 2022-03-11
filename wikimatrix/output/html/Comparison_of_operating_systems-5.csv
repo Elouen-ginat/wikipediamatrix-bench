@@ -1,0 +1,20 @@
+"v t e Operating systems","v t e Operating systems","v t e Operating systems"
+"General","Advocacy Comparison Forensic engineering History List Timeline Usage share User features comparison","Advocacy Comparison Forensic engineering History List Timeline Usage share User features comparison"
+"Variants","Disk operating system Distributed operating system Embedded operating system Hobbyist operating system Just enough operating system Mobile operating system Network operating system Object-oriented operating system Real-time operating system Supercomputer operating system","Disk operating system Distributed operating system Embedded operating system Hobbyist operating system Just enough operating system Mobile operating system Network operating system Object-oriented operating system Real-time operating system Supercomputer operating system"
+"Kernel , URL: /wiki/Kernel_(operating_system)
+","Architectures , URL: /wiki/Computer_architecture
+","Exokernel Hybrid Microkernel Monolithic vkernel Rump kernel Unikernel"
+"Kernel , URL: /wiki/Kernel_(operating_system)
+","Components","Device driver Loadable kernel module User space and kernel space"
+"Process management , URL: /wiki/Process_management_(computing)
+","Concepts","Computer multitasking (Cooperative, Preemptive) Context switch Interrupt IPC Process Process control block Real-time Thread Time-sharing"
+"Process management , URL: /wiki/Process_management_(computing)
+","Scheduling algorithms , URL: /wiki/Scheduling_(computing)
+","Fixed-priority preemptive Multilevel feedback queue Round-robin Shortest job next"
+"Memory management , URL: /wiki/Memory_management
+resource , URL: /wiki/System_resource
+","Bus error General protection fault Memory protection Paging Protection ring Segmentation fault Virtual memory","Bus error General protection fault Memory protection Paging Protection ring Segmentation fault Virtual memory"
+"Storage , URL: /wiki/Non-volatile_memory
+file systems , URL: /wiki/File_system
+","Boot loader Defragmentation Device file File attribute Inode Journal Partition Virtual file system Virtual tape library","Boot loader Defragmentation Device file File attribute Inode Journal Partition Virtual file system Virtual tape library"
+"Supporting concepts","API Computer network HAL Live CD Live USB Shell CLI GUI 3D GUI NUI TUI VUI ZUI PXE","API Computer network HAL Live CD Live USB Shell CLI GUI 3D GUI NUI TUI VUI ZUI PXE"

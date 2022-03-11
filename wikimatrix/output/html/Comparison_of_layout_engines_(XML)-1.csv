@@ -1,9 +1,18 @@
-"null"
-"Fully supported"
-"Has never been supported"
-"Only some values are supported"
-"Not implemented correctly in all cases"
-"May be incomplete or buggy"
-"Currently in development; full support is expected"
-"Only supported for the specified conditions"
-"No longer supported"
+"","MSHTML , URL: /wiki/MSHTML
+","Gecko , URL: /wiki/Gecko_(software)
+","WebKit , URL: /wiki/WebKit
+","KHTML , URL: /wiki/KHTML
+","Presto , URL: /wiki/Presto_(browser_engine)
+","Prince , URL: /wiki/Prince_(software)
+","Antenna House , URL: /wiki/Antenna_House_Formatter
+"
+"XML namespace , URL: /wiki/XML_namespace
+","5.0","1.0","?","Yes","1.0","5.1","Yes"
+"xml:id[spec 2]","No","No[g 1]","No","No","2.0","5.1","Yes"
+"XML Events , URL: /wiki/XML_Events
+","No","1.8","?","?","1.0","?","No"
+"XInclude , URL: /wiki/XInclude
+","3.1","No[g 2]","No","?","No","5.1","No"
+"XML Fragment Interchange[spec 5]","?","?","?","?","?","?","No"
+"CSS , URL: /wiki/Cascading_Style_Sheets
+","<3.1[IE 5.0]","1.0","419","Yes","1.0","Yes","Yes"

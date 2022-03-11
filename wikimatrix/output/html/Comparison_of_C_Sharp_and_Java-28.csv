@@ -1,0 +1,11 @@
+"Java","C#"
+"Java doesn't have this feature, although a similar effect is possible with the Optional class var a = Optional.of(42);
+var b = Optional.empty();
+
+// orElse(0) returns 0 if the value of b is null
+var c = a.get() * b.orElse(0);","int? a = 42;
+int? b = null;
+
+// c will receive the null value
+// because*is lifted and one of the operands are null
+int? c = a * b;"

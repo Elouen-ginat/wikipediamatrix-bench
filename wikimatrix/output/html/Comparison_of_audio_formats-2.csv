@@ -1,0 +1,207 @@
+"Audio compression format , URL: /wiki/Audio_compression_format
+","ACM , URL: /wiki/Audio_Compression_Manager
+","DirectShow , URL: /wiki/DirectShow
+","QuickTime , URL: /wiki/QuickTime
+","GStreamer , URL: /wiki/GStreamer
+","FFmpeg , URL: /wiki/FFmpeg
+","Media Foundation , URL: /wiki/Media_Foundation
+"
+"8SVX , URL: /wiki/8SVX
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"AAC , URL: /wiki/Advanced_Audio_Coding
+","Yes","ffdshow , URL: /wiki/Ffdshow
+","Yes","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","Yes"
+"AC3 , URL: /wiki/Dolby_AC-3
+","Yes","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","Yes"
+"ALS , URL: /wiki/Audio_Lossless_Coding
+","?","?","?","?","?","?"
+"AMR , URL: /wiki/Adaptive_Multi-Rate_audio_codec
+","No","No","Yes [48] [49]","GStreamer Ugly Plug-ins , URL: /w/index.php?title=GStreamer_Ugly_Plug-ins&action=edit&redlink=1
+","Yes","Yes"
+"ALAC , URL: /wiki/Apple_Lossless_Audio_Codec
+","Yes","ffdshow , URL: /wiki/Ffdshow
+","Yes","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","Yes"
+"aptX , URL: /wiki/AptX
+","?","?","?","?","Yes","?"
+"ATRAC3 , URL: /wiki/ATRAC3
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"ATRAC3plus , URL: /wiki/ATRAC3plus
+","No","No","No","No","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"CELT , URL: /wiki/CELT
+","?","?","?","?","?","?"
+"Cook Codec , URL: /wiki/Cook_Codec
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"DCA aka DTS , URL: /wiki/DTS_(sound_system)
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"DTS-HD , URL: /wiki/DTS-HD_Master_Audio
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"E-AC-3 , URL: /wiki/E-AC-3
+","Yes","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","Yes"
+"FLAC , URL: /wiki/FLAC
+","yes","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer Base Plug-ins , URL: /w/index.php?title=GStreamer_Base_Plug-ins&action=edit&redlink=1
+GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","Yes"
+"HE-AAC , URL: /wiki/HE-AAC
+","?","?","?","?","?","?"
+"Monkey's Audio , URL: /wiki/Monkey%27s_Audio
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"WavPack , URL: /wiki/WavPack
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"Shorten , URL: /wiki/Shorten_(file_format)
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"Sonic Audio","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"MP3 , URL: /wiki/MP3
+","Yes","Yes","Yes","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","Yes"
+"RealAudio , URL: /wiki/RealAudio
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"Speex , URL: /wiki/Speex
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStramer Good Plug-ins , URL: /wiki/GStreamer#Plug-ins
+GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"Vorbis , URL: /wiki/Vorbis
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer Base Plug-ins , URL: /wiki/GStreamer#Plug-ins
+GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"La ???","No","No","No","No","No","ffdshow , URL: /wiki/Ffdshow
+"
+"LPAC , URL: /wiki/Lossless_Predictive_Audio_Compression
+","No","No","No","No","No","ffdshow , URL: /wiki/Ffdshow
+"
+"Windows Media Audio , URL: /wiki/Windows_Media_Audio
+","Yes","Yes","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","Yes"
+"Windows Media Audio , URL: /wiki/Windows_Media_Audio
+","Yes","Yes","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","Yes"
+"Windows Media Audio , URL: /wiki/Windows_Media_Audio
+","Yes","Yes","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","Yes"
+"Windows Media Audio , URL: /wiki/Windows_Media_Audio
+","Yes","Yes","flip4mac , URL: /wiki/Flip4mac
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","Yes"
+"Windows Media Audio , URL: /wiki/Windows_Media_Audio
+","Yes","Yes","No","No","Yes","Yes"
+"Musepack , URL: /wiki/Musepack
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"Meridian Lossless Packing , URL: /wiki/Meridian_Lossless_Packing
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"Nellymoser Asao Codec in Flash , URL: /wiki/Nellymoser_Asao_Codec_in_Flash
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"OptimFROG , URL: /wiki/OptimFROG
+","No","No","No","No","No","ffdshow , URL: /wiki/Ffdshow
+"
+"Truespeech , URL: /wiki/Truespeech
+","Yes","Yes","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"True Audio (TTA) , URL: /wiki/TTA_(codec)
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Perian , URL: /wiki/Perian
+","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"QCELP , URL: /wiki/QCELP
+","ffdshow , URL: /wiki/Ffdshow
+","ffdshow , URL: /wiki/Ffdshow
+","Yes","GStreamer FFmpeg plug-in , URL: /wiki/GStreamer_FFmpeg_plug-in
+","Yes","ffdshow , URL: /wiki/Ffdshow
+"
+"Audio compression format , URL: /wiki/Audio_compression_format
+","ACM , URL: /wiki/Audio_Compression_Manager
+","DirectShow , URL: /wiki/DirectShow
+","QuickTime , URL: /wiki/QuickTime
+","GStreamer , URL: /wiki/GStreamer
+","FFmpeg , URL: /wiki/FFmpeg
+","Media Foundation , URL: /wiki/Media_Foundation
+"

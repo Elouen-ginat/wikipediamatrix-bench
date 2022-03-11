@@ -1,0 +1,90 @@
+"Client","Secure POP3","Secure POP3","Secure IMAP4","Secure IMAP4","Secure SMTP","Secure SMTP","Secure NNTP","Secure NNTP","Secure LDAP","Secure LDAP","SNI","OCSP [Note 1]","CRL [Note 2]"
+"Client","SSL","TLS [Note 3]","SSL","TLS [Note 3]","SSL","TLS [Note 4]","SSL","TLS","SSL","TLS","SNI","OCSP [Note 1]","CRL [Note 2]"
+"Alpine , URL: /wiki/Alpine_(email_client)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","?","?","?"
+"Apple Mail , URL: /wiki/Apple_Mail
+","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?","?","?","?","?"
+"Becky! Internet Mail , URL: /wiki/Becky!
+","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?","?","?","?","?"
+"Citadel , URL: /wiki/Citadel/UX
+","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Claws Mail , URL: /wiki/Claws_Mail
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?","Yes"
+"Courier , URL: /wiki/Courier_(email_client)
+","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"Elm , URL: /wiki/Elm_(email_client)
+","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"eM Client , URL: /wiki/EM_Client
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","?","No","Yes"
+"EmailTray , URL: /wiki/EmailTray
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","?","No","No"
+"Eudora , URL: /wiki/Eudora_(email_client)
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","?","?","?"
+"Evolution , URL: /wiki/Evolution_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","No","No"
+"Gnus , URL: /wiki/Gnus
+","?","?","Yes","Yes","?","?","?","?","?","?","?","?","?"
+"GroupWise , URL: /wiki/GroupWise
+","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Hiri , URL: /wiki/Hiri_(email_client)
+","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"i.Scribe / InScribe , URL: /wiki/Scribe_Mail
+","Yes","Yes","Yes","No","Yes","Yes","No","No","No","No","?","No","No"
+"IBM Lotus Notes , URL: /wiki/IBM_Lotus_Notes
+","Yes","Yes","Yes","?","Yes","Yes","Yes","?","Yes","?","?","Yes","Yes"
+"KMail , URL: /wiki/KMail
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","?","?","?","?","?"
+"Mailpile , URL: /wiki/Mailpile
+","?","Yes","?","Yes","?","?","?","?","?","?","?","?","?"
+"Microsoft Entourage , URL: /wiki/Microsoft_Entourage
+","Yes","?","Yes","?","Yes","?","Yes","?","Yes","?","?","?","?"
+"Microsoft Office Outlook , URL: /wiki/Microsoft_Office_Outlook
+","Yes","No","Yes","Yes","Yes","Yes","?","?","?","?","?","?","?"
+"Mozilla Mail & Newsgroups , URL: /wiki/Mozilla_Mail_%26_Newsgroups
+","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Mozilla Thunderbird , URL: /wiki/Mozilla_Thunderbird
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes"
+"Mulberry , URL: /wiki/Mulberry_(email_client)
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","?","?","?"
+"Mutt , URL: /wiki/Mutt_(email_client)
+","Yes","Yes","Yes","Yes","1.5.15","1.5.15","?","?","?","?","?","?","?"
+"Netscape Messenger , URL: /wiki/Netscape_Messenger
+","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Netscape Messenger 9 , URL: /wiki/Netscape_Messenger_9
+","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"nmh / MH , URL: /wiki/MH_Message_Handling_System
+","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Opera Mail , URL: /wiki/Opera_Mail
+","Yes","Partial [Note 5]","Yes","Partial [Note 5]","Yes","Partial [Note 5]","Yes","No","N/A","N/A","?","Yes","Yes"
+"Outlook Express , URL: /wiki/Outlook_Express
+","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?","?","?","?","?"
+"Pegasus Mail , URL: /wiki/Pegasus_Mail
+","Yes","Yes","Yes","Yes","Yes","Yes","?","?","Yes","?","?","?","?"
+"Pine , URL: /wiki/Pine_(email_client)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","?","?","?"
+"Pocomail , URL: /wiki/Pocomail
+","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"RoundCube , URL: /wiki/RoundCube
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","?","?","?"
+"SeaMonkey , URL: /wiki/SeaMonkey
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"SquirrelMail , URL: /wiki/SquirrelMail
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","?","?","?"
+"Sylpheed , URL: /wiki/Sylpheed
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?","?","?"
+"The Bat! , URL: /wiki/The_Bat!
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes [Note 6]","Yes [Note 6]"
+"Trojitá , URL: /wiki/Trojit%C3%A1
+","?","?","Yes","Yes","Yes","Yes","?","?","?","?","?","Yes (system)","Yes (system)"
+"Turnpike , URL: /wiki/Turnpike_(software)
+","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Windows Live Mail , URL: /wiki/Windows_Live_Mail
+","Yes","No","Yes","No","Yes","No","?","?","?","?","?","?","?"
+"Windows Mail , URL: /wiki/Windows_Mail
+","Yes","No","Yes","?","Yes","?","?","?","?","?","?","?","?"
+"YAM , URL: /wiki/YAM_(Yet_Another_Mailer)
+","Yes","Yes","No","No","?","?","?","?","?","?","?","?","?"
+"Zimbra , URL: /wiki/Zimbra
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?"
+"Client","Secure POP3","Secure POP3","Secure IMAP4","Secure IMAP4","Secure SMTP","Secure SMTP","Secure NNTP","Secure NNTP","Secure LDAP","Secure LDAP","SNI","OCSP [Note 1]","CRL [Note 2]"
+"Client","SSL","TLS [Note 3]","SSL","TLS [Note 3]","SSL","TLS [Note 4]","SSL","TLS","SSL","TLS","SNI","OCSP [Note 1]","CRL [Note 2]"

@@ -1,0 +1,116 @@
+"Function","Year","Designer","Derived from","Reference"
+"BLAKE , URL: /wiki/BLAKE_(hash_function)
+","2008","Jean-Philippe Aumasson Luca Henzen Willi Meier Raphael C.-W. Phan","ChaCha20 , URL: /wiki/ChaCha20
+","Website , URL: https://131002.net/blake/
+Specification , URL: https://131002.net/blake/blake.pdf
+"
+"BLAKE2 , URL: /wiki/BLAKE2
+","2012","Zooko Wilcox-O'Hearn , URL: /wiki/Zooko_Wilcox-O%27Hearn
+","BLAKE , URL: /wiki/BLAKE_(hash_function)
+","Website , URL: https://blake2.net/
+Specification , URL: https://blake2.net/blake2.pdf
+RFC , URL: /wiki/RFC_(identifier)
+7693 , URL: https://datatracker.ietf.org/doc/html/rfc7693
+"
+"BLAKE3 , URL: /wiki/BLAKE3
+","2020","Zooko Wilcox-O'Hearn , URL: /wiki/Zooko_Wilcox-O%27Hearn
+","BLAKE2 , URL: /wiki/BLAKE2
+","Website , URL: https://github.com/BLAKE3-team/BLAKE3
+Specification , URL: https://github.com/BLAKE3-team/BLAKE3-specs/blob/master/blake3.pdf
+"
+"GOST R 34.11-94 , URL: /wiki/GOST_(hash_function)
+","1994","FAPSI , URL: /wiki/FAPSI
+","GOST 28147-89 , URL: /wiki/GOST_(block_cipher)
+","RFC , URL: /wiki/RFC_(identifier)
+5831 , URL: https://datatracker.ietf.org/doc/html/rfc5831
+"
+"HAVAL , URL: /wiki/HAVAL
+","1992","Yuliang Zheng , URL: /wiki/Yuliang_Zheng
+Josef Pieprzyk , URL: /wiki/Josef_Pieprzyk
+Jennifer Seberry , URL: /wiki/Jennifer_Seberry
+","","Website , URL: https://web.archive.org/web/20150111210116/http://labs.calyptix.com/haval.php
+Specification , URL: https://web.archive.org/web/20140411060613/http://labs.calyptix.com/files/haval-paper.pdf
+"
+"KangarooTwelve , URL: /wiki/KangarooTwelve
+","2016","Joan Daemen , URL: /wiki/Joan_Daemen
+Gilles Van Assche , URL: /wiki/Gilles_Van_Assche
+","Keccak , URL: /wiki/Keccak
+","Website , URL: https://keccak.team/kangarootwelve.html
+Specification , URL: https://keccak.team/files/KangarooTwelve.pdf
+"
+"MD2 , URL: /wiki/MD2_(hash_function)
+","1989","Ronald Rivest , URL: /wiki/Ronald_Rivest
+","","RFC , URL: /wiki/RFC_(identifier)
+1319 , URL: https://datatracker.ietf.org/doc/html/rfc1319
+"
+"MD4 , URL: /wiki/MD4
+","1990","Ronald Rivest , URL: /wiki/Ronald_Rivest
+","","RFC , URL: /wiki/RFC_(identifier)
+1320 , URL: https://datatracker.ietf.org/doc/html/rfc1320
+"
+"MD5 , URL: /wiki/MD5
+","1992","Ronald Rivest , URL: /wiki/Ronald_Rivest
+","MD4 , URL: /wiki/MD4
+","RFC , URL: /wiki/RFC_(identifier)
+1321 , URL: https://datatracker.ietf.org/doc/html/rfc1321
+"
+"MD6 , URL: /wiki/MD6
+","2008","Ronald Rivest , URL: /wiki/Ronald_Rivest
+","","Website , URL: https://groups.csail.mit.edu/cis/md6/
+Specification , URL: https://groups.csail.mit.edu/cis/md6/docs/2009-04-15-md6-report.pdf
+"
+"RIPEMD , URL: /wiki/RIPEMD
+","1992","The RIPE Consortium[1]","MD4 , URL: /wiki/MD4
+",""
+"RIPEMD-128 , URL: /wiki/RIPEMD-128
+RIPEMD-256 , URL: /wiki/RIPEMD-256
+RIPEMD-160 , URL: /wiki/RIPEMD-160
+RIPEMD-320 , URL: /wiki/RIPEMD-320
+","1996","Hans Dobbertin , URL: /wiki/Hans_Dobbertin
+Bart Preneel , URL: /wiki/Bart_Preneel
+","RIPEMD , URL: /wiki/RIPEMD
+","Website , URL: http://homes.esat.kuleuven.be/~bosselae/ripemd160.html
+Specification , URL: https://homes.esat.kuleuven.be/~bosselae/ripemd160/pdf/AB-9601/AB-9601.pdf
+"
+"SHA-0 , URL: /wiki/SHA-0
+","1993","NSA , URL: /wiki/National_Security_Agency
+","","SHA-0 , URL: https://web.archive.org/web/20090130063617/http://w2.eff.org/Privacy/Digital_signature/?f=fips_sha_shs.info.txt
+"
+"SHA-1 , URL: /wiki/SHA-1
+","1995","NSA , URL: /wiki/National_Security_Agency
+","SHA-0 , URL: /wiki/SHA-0
+","Specification , URL: https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf
+"
+"SHA-256 , URL: /wiki/SHA-256
+SHA-384 , URL: /wiki/SHA-384
+SHA-512 , URL: /wiki/SHA-512
+","2002","NSA , URL: /wiki/National_Security_Agency
+","","Specification , URL: https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf
+"
+"SHA-224 , URL: /wiki/SHA-224
+","2004","NSA , URL: /wiki/National_Security_Agency
+","","Specification , URL: https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf
+"
+"SHA-3 , URL: /wiki/SHA-3
+","2008","Joan Daemen , URL: /wiki/Joan_Daemen
+Gilles Van Assche , URL: /wiki/Gilles_Van_Assche
+","RadioGatún , URL: /wiki/RadioGat%C3%BAn
+","Website , URL: https://keccak.team/
+Specification , URL: https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf
+"
+"Streebog , URL: /wiki/Streebog
+","2012","FSB , URL: /wiki/Federal_Security_Service
+","","RFC , URL: /wiki/RFC_(identifier)
+6986 , URL: https://datatracker.ietf.org/doc/html/rfc6986
+"
+"Tiger , URL: /wiki/Tiger_(hash_function)
+","1995","Ross Anderson , URL: /wiki/Ross_J._Anderson
+Eli Biham , URL: /wiki/Eli_Biham
+","","Website , URL: https://www.cs.technion.ac.il/~biham/Reports/Tiger/
+Specification , URL: https://www.cs.technion.ac.il/~biham/Reports/Tiger/tiger/node3.html
+"
+"Whirlpool , URL: /wiki/Whirlpool_(hash_function)
+","2004","Vincent Rijmen , URL: /wiki/Vincent_Rijmen
+Paulo Barreto , URL: /wiki/Paulo_S._L._M._Barreto
+","","Website , URL: https://web.archive.org/web/20171129084214/http://www.larc.usp.br/~pbarreto/WhirlpoolPage.html
+"

@@ -1,0 +1,42 @@
+"Implementation","TPM , URL: /wiki/Trusted_Platform_Module
+","Hardware token support","Objects identified via"
+"Botan , URL: /wiki/Botan_(programming_library)
+","Partial[189]","PKCS11 , URL: /wiki/PKCS11
+",""
+"BSAFE , URL: /wiki/BSAFE
+","No","No",""
+"cryptlib , URL: /wiki/Cryptlib
+","No","PKCS11 , URL: /wiki/PKCS11
+","User-defined label"
+"GnuTLS , URL: /wiki/GnuTLS
+","Yes","PKCS11 , URL: /wiki/PKCS11
+","RFC 7512 PKCS #11 URLs[229]"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","No","PKCS11 , URL: /wiki/PKCS11
+Java Cryptography Architecture , URL: /wiki/Java_Cryptography_Architecture
+Java Cryptography Extension , URL: /wiki/Java_Cryptography_Extension
+",""
+"LibreSSL , URL: /wiki/LibreSSL
+","Yes","PKCS11 , URL: /wiki/PKCS11
+","Custom method"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","No","PKCS11 , URL: /wiki/PKCS11
+",""
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","No","PKCS11 , URL: /wiki/PKCS11
+","Custom method"
+"NSS , URL: /wiki/Network_Security_Services
+","No","PKCS11 , URL: /wiki/PKCS11
+",""
+"OpenSSL , URL: /wiki/OpenSSL
+","Yes","PKCS11 , URL: /wiki/PKCS11
+","RFC 7512 PKCS #11 URLs[229]"
+"SChannel , URL: /wiki/SChannel
+","No","Microsoft CryptoAPI , URL: /wiki/Microsoft_CryptoAPI
+","UUID, User-defined label"
+"Secure Transport , URL: /wiki/MacOS
+","","",""
+"wolfSSL , URL: /wiki/WolfSSL
+","Yes","PKCS11 , URL: /wiki/PKCS11
+",""
+"Implementation","TPM support","Hardware token support","Objects identified via"

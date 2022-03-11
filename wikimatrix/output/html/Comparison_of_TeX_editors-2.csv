@@ -1,0 +1,50 @@
+"Name","Inverse search[Note 7]","DDE , URL: /wiki/Dynamic_Data_Exchange
+","Organises Projects","Menu for inserting symbols","Document comparison","Spell-checking","Multiple undo-redo"
+"AUCTeX , URL: /wiki/AUCTeX
+","Yes","No","Partial (master file)","Yes","Yes","Yes[Note 9]","Yes"
+"Authorea , URL: /wiki/Authorea
+","Yes","N/A","Yes","No","No","Yes","Yes"
+"Auto-Latex Equations for Google Docs","Yes","N/A","Yes","No","No","Yes","Yes"
+"CoCalc , URL: /wiki/CoCalc
+","Yes","N/A","No","No","No","Yes","Yes"
+"GNOME LaTeX , URL: /wiki/GNOME_LaTeX
+","Yes","N/A","Yes","Yes","No","Yes","Yes"
+"Gummi , URL: /wiki/Gummi_(software)
+","Yes","N/A","Yes","No","No","Yes","Yes"
+"Kile , URL: /wiki/Kile
+","Yes","No","Yes","Yes","No","Yes","Yes"
+"LEd , URL: /wiki/LEd
+","Yes","?","Yes","Yes","No","Yes","Yes"
+"LyX , URL: /wiki/LyX
+","Yes","?","No","Yes","Yes","Yes","Yes"
+"MeWa , URL: /wiki/MeWa
+","No","No","No","Yes","No","Yes","Yes"
+"Notepad++ , URL: /wiki/Notepad%2B%2B
+","Yes, with SumatraPDF","Yes, with a DDE client","Yes","Partial[Note 10]","Yes","Yes","Yes"
+"Overleaf , URL: /wiki/Overleaf
+","Yes","No","Yes","No","Yes","Yes","Yes"
+"Scientific WorkPlace , URL: /wiki/Scientific_WorkPlace
+","N/A","?","?","Yes","No","Yes","No (one level)"
+"TexLab , URL: /wiki/TexLab
+","Yes","N/A","Yes","Yes","No","Yes","Yes"
+"TeXmacs , URL: /wiki/GNU_TeXmacs
+","N/A","Yes","Partial (shows document parts)","Yes","Partial (for own format only)","Yes","Yes"
+"Texmaker , URL: /wiki/Texmaker
+","Yes","No","Partial (master file)","Yes","No","Yes","Yes"
+"TeXnicCenter , URL: /wiki/TeXnicCenter
+","Yes","Yes","Yes","Yes","No","Yes","Yes"
+"TeXShop , URL: /wiki/TeXShop
+","Yes","No","No","Yes[Note 11]","No","Yes","Yes"
+"TeXstudio , URL: /wiki/TeXstudio
+","Yes","Yes","Partial (master file)","Yes","Yes","Yes","Yes"
+"TeXworks , URL: /wiki/TeXworks
+","Yes","No","No","No","No","Yes[Note 12]","Yes"
+"Verbosus , URL: /wiki/Verbosus
+","No","No","Yes","Yes","No","No","Yes"
+"Visual Studio Code , URL: /wiki/Visual_Studio_Code
+","Yes","?","Yes","Yes","Yes","Yes","Yes"
+"WinEdt , URL: /wiki/WinEdt
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"WinShell , URL: /wiki/WinShell
+","Yes","No","Yes","Yes","No","Yes","Yes"
+"Name","Inverse search","DDE Support","Organises Projects","Menu for inserting symbols","Document comparison","Spell-checking","Multiple undo-redo"

@@ -1,0 +1,131 @@
+"Name","View functions","Other functions","License , URL: /wiki/Software_license
+"
+"ACDSee , URL: /wiki/ACDSee
+","Exif , URL: /wiki/Exif
+","face recognition , URL: /wiki/Facial_recognition_system
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"Adobe Bridge , URL: /wiki/Adobe_Bridge
+","Thumbnails, slideshow, filmstrip, preview, versions with alternates","metadata , URL: /wiki/Metadata
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"Adobe Photoshop Lightroom , URL: /wiki/Adobe_Photoshop_Lightroom
+","RAW , URL: /wiki/Raw_image_format
+JPEG , URL: /wiki/JPEG
+","","Proprietary , URL: /wiki/Proprietary_software
+"
+"Aperture , URL: /wiki/Apple_Aperture
+","","","Proprietary , URL: /wiki/Proprietary_software
+"
+"CDisplay , URL: /wiki/CDisplay
+","Fit to window, zoom, print, full-screen, slideshow, image collection, image information...","Rotate, flip, save as, used for reading comics and manga.","Proprietary , URL: /wiki/Proprietary_software
+"
+"Darktable , URL: /wiki/Darktable
+","Lighttable (contact sheet), darkroom (image editing), map, tethering","Non-destructive RAW photo editing (like Adobe Lightroom) as well as common image formats","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+"
+"digiKam , URL: /wiki/DigiKam
+","Fit to window, zoom, pan, light table, slideshow with effects, OpenGL viewer","Exif , URL: /wiki/Exif
+IPTC , URL: /wiki/IPTC_Information_Interchange_Model
+XMP , URL: /wiki/Extensible_Metadata_Platform
+GPS , URL: /wiki/GPS
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+"
+"Eye of GNOME , URL: /wiki/Eye_of_GNOME
+","Fit to window, zoom, flip, rotate, full-screen, slideshow, image collection, image information","Delete, print, save, rename, set wallpaper","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+"
+"FastPictureViewer , URL: /wiki/Fast_Picture_Viewer
+","Borderless full-screen kiosk mode, Fit-to-window, 1:1, 50% to 6400% magnifier, multicore-enabled, GPU-based panning/zooming, black & white preview and lost shadows/highlights view.","color management , URL: /wiki/Color_management
+Unicode , URL: /wiki/Unicode
+Exif , URL: /wiki/Exif
+R,G,B histogram , URL: /wiki/Image_histogram
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"FastStone Image Viewer , URL: /wiki/FastStone_Image_Viewer
+","All major formats, thumbnail view (6 predefined sizes), full screen, magnifier, slideshow. Uses second monitor for fullscreen preview. Popups image gallery, detailed image informations, editing options at the image border in fullscreen modus.","Many editing features: rotate, move, rename, 150+ transitional effects, crop, resize, clone, heal, convert format, color adjust, sharpen, drop shadow effects, scanner support, histogram. JPEG lossless rotate/flip/crop.","Proprietary , URL: /wiki/Proprietary_software
+"
+"F-Spot , URL: /wiki/F-Spot
+","Flickr , URL: /wiki/Flickr
+Gallery Project , URL: /wiki/Gallery_Project
+Picasa , URL: /wiki/Picasa
+Facebook , URL: /wiki/Facebook
+","Tags, rotate in single degree increments, hue, contrast, white balance, colour, sharpen, soft focus, crop, auto red-eye reduction. Files stored at /user/Pictures/Photos/[year]/[month]/[day]","MIT , URL: /wiki/MIT_License
+"
+"Geeqie , URL: /wiki/Geeqie
+","Full-screen, slideshow, zoom, color spectrum, 14 sizes of thumbnails","Rotate, move, rename, hue, contrast, find/remove duplicates","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+"
+"Gonvisor , URL: /wiki/Gonvisor
+","Fit to window, zoom, print, full-screen, slideshow, image collection, image information, view images in compressed ZIP, RAR, or 7z files.","Rotate, flip, save as, used for reading comics and manga","Proprietary , URL: /wiki/Proprietary_software
+"
+"GraphicConverter , URL: /wiki/GraphicConverter
+","Full-screen, slideshow","Rotate, move, rename","Proprietary , URL: /wiki/Proprietary_software
+"
+"gThumb , URL: /wiki/GThumb
+","Full-screen, slideshow, zoom, color spectrum, three sizes of thumbnails","Rotate, move, rename, hue, contrast","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+"
+"Gwenview , URL: /wiki/Gwenview
+","Fullscreen, slideshow, zoom, rotate, adjust gamma/contrast/brightness, disk navigator, file tree, thumbnails, extended thumbnails, bookmarks...","Add border, filter, effects, resize, rename, raw image converter, recompress, edit color. Share using 23, Dropbox, Facebook, Flickr, Google drive, Google photos/Picasaweb, Imageshack, Imgur, Piwigo, Rajce.net, remote storage, SmugMug, Yandex.Fotki, Zooomr","GPL-2.0-only , URL: /wiki/GNU_General_Public_License
+GPL-3.0-only , URL: /wiki/GNU_General_Public_License
+"
+"iPhoto , URL: /wiki/IPhoto
+","Thumbnails, fullscreen, slideshow, camera information, search, tags, organize by event or album, auto organize by date during first import","Lossless JPEG rotate, cropping (custom and template), brightness/contrast adjustment, red-eye reduction, retouch, color enhancement, B&W and sepia conversion, export to multiple formats & sizes","Proprietary , URL: /wiki/Proprietary_software
+"
+"IrfanView , URL: /wiki/IrfanView
+","Thumbnails (18 pre-defined sizes from 50×50–800×800 pixels), fullscreen, slideshow, zoom, fit (several options), view IPTC and Exif info, hex view, histogram (also RGB); Format detection with offer to rename, set wallpaper, EXE/SCR creation, Burn slideshow to CD; directory tree 32 languages (version 4.28/4.30)","Add Text, crop, cut/copy selected area, paste-Into selected area, paste from print screen, resize/resample, rotate, flip vertically/horizontally, JPEG lossless transformations, color adjustments, change color depth, greyscale, red-eye reduction, sharpen, effects/filters, own and 8bf (Photoshop) plugins compatibility, edit IPTC info, move, copy, delete, rename, convert, batch conversion, batch renaming/resizing/cropping, panorama creation, send email, also via IrfanView Thumbnails/Plugins: contact sheet creation, thumbnail creation, web gallery creation, face detection","Freeware for Non commercial"
+"KSquirrel , URL: /wiki/KSquirrel
+","KIPI , URL: /wiki/KIPI
+","resize, rotate, colorize, convert, print","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+"
+"KPhotoAlbum , URL: /wiki/KPhotoAlbum
+","Zoom, rotate, metadata, Exif, thumbnails (customize size), slideshow, categories","KIPI , URL: /wiki/KIPI
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+"
+"Lphoto","Zoom, slideshow, camera information","Crop, redeye, color tweaking, auto attach and resize for email, export to HTML, export to CD","GPL , URL: /wiki/GNU_General_Public_License
+"
+"Microsoft Photos , URL: /wiki/Microsoft_Photos
+","fullscreen, slideshow, fit, zoom, print","","Proprietary , URL: /wiki/Proprietary_software
+"
+"Phase One Media Pro , URL: /wiki/Phase_One_Media_Pro
+","Thumbnails, slideshow, zoom, print, light table, library organization, best practice DAM","Rotate, rename, delete, batch rename, add/edit metadata (IPTC, EXIF, Custom), free reader app to distribute catalogs","Proprietary , URL: /wiki/Proprietary_software
+"
+"Paint.net , URL: /wiki/Paint.net
+","Thumbnail, zoom, rotation, multiple page support, pan, fit to screen","Resize, crop, copy, paste, black and white/sepia, various blurs, add and reduce noise, plugin support","Creative Commons , URL: /wiki/Creative_Commons
+"
+"Apple Photos , URL: /wiki/Apple_Photos
+","","","Proprietary , URL: /wiki/Proprietary_software
+"
+"Picasa , URL: /wiki/Picasa
+","Zoom, lossless rotate, histogram, camera information, Thumbnails (fully adjustable), Slide Show (Full Screen w/zoom), Magnifier, Search, Search for faces","Crop, straighten, redeye, color tweaking, retouch, tuning, add text, numerous effects, batch edit, batch rename, video rendering, HTML gallery creation, photo browser application creator, screensaver, face recognition, keyword tagging, geo-tagging, photo collage, original file preservation, reorganize storage","Proprietary , URL: /wiki/Proprietary_software
+"
+"Preview , URL: /wiki/Preview_(software)
+","Zoom, rotate, metadata","Crop, straighten, color tweaking, profile assignment","Proprietary , URL: /wiki/Proprietary_software
+"
+"Shotwell , URL: /wiki/Shotwell_(software)
+","Thumbnails, fullscreen, slideshow, zoom, print, camera information, events","Facebook , URL: /wiki/Facebook
+Picasa Web Albums , URL: /wiki/Picasa_Web_Albums
+Flickr , URL: /wiki/Flickr
+","LGPL-2.1-or-later , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"STDU Viewer , URL: /wiki/STDU_Viewer
+","Fullscreen, fit to window, zoom, print","rotate, brightness, contrast, gamma setting","Proprietary , URL: /wiki/Proprietary_software
+"
+"Windows Photo Gallery , URL: /wiki/Windows_Photo_Gallery
+","Fullscreen, slideshow, fit, zoom, print","Panorama stitching , URL: /wiki/Panorama_stitching
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"Windows Photo Viewer , URL: /wiki/Windows_Photo_Viewer
+","Fullscreen, slideshow, fit, zoom, print","Rotate, lossy JPEG rotate, annotate TIFF images","Proprietary , URL: /wiki/Proprietary_software
+"
+"XnView , URL: /wiki/XnView
+","Thumbnails (user-defined sizes), fullscreen, slideshow, zoom, fit, view IPTC and Exif info","Resize, crop, rotate, flip, JPEG lossless rotate/flip/crop, adjust exposure and colors etc., filters (sharpen, blur, average, emboss), batch convert, batch rename, edit IPTC info","Proprietary , URL: /wiki/Proprietary_software
+"
+"Xv , URL: /wiki/Xv_(software)
+","View as ASCII or hex, magnify, determine pixel values","Crop, pad, resize, rotate, flip, brightness, contrast, gamma, saturation, hue, colormap, reduce colors, dither, convert, and more","Proprietary , URL: /wiki/Proprietary_software
+"
+"Zoner Photo Studio , URL: /wiki/Zoner_Photo_Studio
+","GPS , URL: /wiki/GPS
+","HDR , URL: /wiki/High_dynamic_range_rendering
+DNG , URL: /wiki/Digital_Negative_(file_format)
+","Proprietary , URL: /wiki/Proprietary_software
+"
+"Name","View functions","Other functions","License , URL: /wiki/Software_license
+"

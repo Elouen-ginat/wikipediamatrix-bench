@@ -1,0 +1,110 @@
+"Platform","Platform","Platform","Features","Features","Features","Features","Features","Features","Features","Features","Toolkit","Toolkit","Toolkit","Prolog Mechanics"
+"Name","OS","Licence","Native Graphics","Compiled Code","Unicode","Object Oriented","Native OS Control","Stand Alone Executable","C Interface[3]","Java Interface[3]","Interactive Interpreter","Debugger","Code Profiler","Syntax"
+"AllegroProlog","Unix , URL: /wiki/Unix
+Windows , URL: /wiki/Microsoft_Windows
+Mac OS X , URL: /wiki/Mac_OS_X
+","Commercial, limited free edition available","","Yes","Yes","Yes","Yes, via Lisp","Yes","Yes, via Lisp","Yes, via Lisp","Yes","Yes","Yes, via Lisp","S-expressions. Full Common Lisp integration."
+"BProlog , URL: /wiki/BProlog
+","Unix , URL: /wiki/Unix
+Windows , URL: /wiki/Microsoft_Windows
+Mac OS X , URL: /wiki/Mac_OS_X
+","Free for non-commercial uses","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","ISO-Prolog, plus event-handling, CLP(FD), and tabling"
+"Ciao , URL: /wiki/Ciao_(programming_language)
+","Unix , URL: /wiki/Unix
+Windows , URL: /wiki/Microsoft_Windows
+Mac OS X , URL: /wiki/Mac_OS_X
+","GPL , URL: /wiki/GPL
+LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","","Yes","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","ISO-Prolog, plus extensions"
+"DOS-PROLOG , URL: http://www.lpa.co.uk/dos.htm
+","MS-DOS , URL: /wiki/MS-DOS
+","Shareware , URL: /wiki/Shareware
+","Yes","Yes","Yes","","Yes","Yes","","","","Yes","","Edinburgh Prolog"
+"ECLiPSe , URL: /wiki/ECLiPSe
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+Solaris , URL: /wiki/Solaris_(operating_system)
+macOS , URL: /wiki/MacOS
+","MPL , URL: /wiki/Mozilla_Public_License
+","","Yes","","","Yes","","Yes","Yes","Yes","Yes","Yes","Extended Prolog, Multi-dialect, including ISO"
+"GNU Prolog , URL: /wiki/GNU_Prolog
+","Unix , URL: /wiki/Unix
+Windows , URL: /wiki/Microsoft_Windows
+Mac OS X , URL: /wiki/Mac_OS_X
+","GPL , URL: /wiki/GNU_General_Public_License
+LGPL , URL: /wiki/LGPL
+","","Yes","","","Yes","Yes","Yes","","Yes","Yes","","ISO-Prolog"
+"JIProlog , URL: /w/index.php?title=JIProlog&action=edit&redlink=1
+","JVM , URL: /wiki/JVM
+Android , URL: /wiki/Android_(operating_system)
+","Shareware , URL: /wiki/Shareware
+AGPL , URL: /wiki/Affero_General_Public_License
+","Yes","","Yes","","Yes via Java","Yes","Yes via Java","Yes","Yes","Yes","","ISO-Prolog"
+"JLog , URL: http://jlogic.sourceforge.net/
+","JVM , URL: /wiki/JVM
+","GPL , URL: /wiki/GNU_General_Public_License
+","Yes","Yes","","","","","","Yes","Yes","","","ISO-Prolog"
+"JScriptLog , URL: http://jlogic.sourceforge.net/
+","Web Browser","GPL , URL: /wiki/GNU_General_Public_License
+","","","","","","","","","Yes","","","ISO-Prolog"
+"jTrolog , URL: https://web.archive.org/web/20121113023104/http://java.net/projects/jTrolog
+","JVM , URL: /wiki/JVM
+","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","","","Yes","","","","","Yes","Yes","Yes","","tests , URL: http://jtrolog.dev.java.net/test_results/resultsISO.html
+"
+"LPA-PROLOG , URL: http://www.lpa.co.uk/win.htm
+","Windows , URL: /wiki/Microsoft_Windows
+","Commercial","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Edinburgh Prolog with extensions"
+"Open Prolog","Mac OS , URL: /wiki/Mac_OS
+","Freeware , URL: /wiki/Freeware
+","","","","","","","","","","Yes","",""
+"Poplog , URL: /wiki/Poplog
+","Linux , URL: /wiki/Linux
+Unix , URL: /wiki/Unix
+Windows , URL: /wiki/Microsoft_Windows
+","Free Open Source","POP-11 , URL: /wiki/POP-11
+","Yes","","","Yes","Yes","Yes","","Yes","Yes","","Edinburgh Prolog, with interfaces to Poplog Common Lisp and Pop-11"
+"SICStus Prolog , URL: /wiki/SICStus_Prolog
+","Unix , URL: /wiki/Unix
+Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+","Commercial , URL: /wiki/Software_license
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","ISO-Prolog , URL: /w/index.php?title=Comparison_of_Prolog_standards_compliance&action=edit&redlink=1
+"
+"Strawberry Prolog , URL: /w/index.php?title=Strawberry_Prolog&action=edit&redlink=1
+","Windows , URL: /wiki/Microsoft_Windows
+Unix , URL: /wiki/Unix
+","Freeware , URL: /wiki/Freeware
+","Yes","Yes","Yes","","","Yes","","","","Yes","","Not ISO-Prolog + extensions"
+"SWI-Prolog , URL: /wiki/SWI-Prolog
+","Unix , URL: /wiki/Unix
+Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+","BSD License , URL: /wiki/BSD_License
+","Yes","Yes","Yes","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","ISO-Prolog, Edinburgh Prolog"
+"tuProlog , URL: /w/index.php?title=TuProlog&action=edit&redlink=1
+","JVM , URL: /wiki/JVM
+Android , URL: /wiki/Android_(operating_system)
+","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","Yes","","Yes","","","","Yes","Yes","Yes","Yes","","ISO-Prolog"
+"Visual Prolog , URL: /wiki/Visual_Prolog
+","Windows , URL: /wiki/Microsoft_Windows
+","Freeware , URL: /wiki/Freeware
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","","","Yes","Yes",""
+"XSB Prolog , URL: /wiki/XSB
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+Solaris , URL: /wiki/Solaris_(operating_system)
+macOS , URL: /wiki/MacOS
+","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","","Yes","Yes","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","ISO-Prolog, tabled WFS"
+"YAP-Prolog , URL: /wiki/YAP-Prolog
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+Solaris , URL: /wiki/Solaris_(operating_system)
+Mac OS X , URL: /wiki/Mac_OS_X
+HP-UX , URL: /wiki/HP-UX
+","GPL , URL: /wiki/GNU_General_Public_License
+","","Yes","Yes","","Yes","Yes","Yes","Yes","Yes","Yes","","Edinburgh, ISO-Prolog, Quintus and SICStus Prolog compatible"

@@ -1,0 +1,50 @@
+"Name","Filename casing","CRC","Filedate","Daylight saving","Character casing"
+"Beyond Compare , URL: /wiki/Beyond_Compare
+","Yes","Yes","Yes","Yes","Yes"
+"Compare++ , URL: /wiki/Compare%2B%2B
+","Yes","Yes","Yes","","Yes"
+"diff , URL: /wiki/Diff
+","Yes","No","No","No","Optional"
+"diff3 , URL: /wiki/Diff3
+","","","","",""
+"Eclipse , URL: /wiki/Eclipse_(software)
+","","","","",""
+"Ediff , URL: /wiki/Ediff
+","","","","",""
+"ExamDiff Pro , URL: /wiki/ExamDiff_Pro
+","No","Yes","Yes","Yes","Yes"
+"Far Manager , URL: /wiki/Far_Manager
+","Yes","No","Yes","No","Yes"
+"fc , URL: /wiki/Microsoft_File_Compare
+","No","","","","Optional"
+"FileMerge (aka opendiff) , URL: /wiki/Apple_Developer_Tools#FileMerge
+","No","No","No","","Optional"
+"Guiffy SureMerge , URL: /wiki/Guiffy_SureMerge
+","filesystem dependent","","Yes","","Yes"
+"IntelliJ IDEA , URL: /wiki/IntelliJ_IDEA
+","","","","",""
+"jEdit JDiff plugin , URL: /wiki/JEdit
+","","","","",""
+"Lazarus , URL: /wiki/Lazarus_(software)
+","","","","",""
+"Meld , URL: /wiki/Meld_(software)
+","","","","",""
+"Notepad++ (compare) , URL: /wiki/Notepad%2B%2B
+","No","No","No","","Yes"
+"Perforce P4Merge , URL: /wiki/Perforce
+","N/A","No","No","No","Yes"
+"Pretty Diff , URL: /wiki/Pretty_Diff
+","N/A","No","No","No","Optional"
+"Tkdiff , URL: /wiki/Tkdiff
+","","","","",""
+"Total Commander , URL: /wiki/Total_Commander
+","","","Optional","Yes (in synchronize only)","Optional"
+"vimdiff , URL: /wiki/Vim_(text_editor)#Features_and_improvements_over_vi
+","No","No","No","No","Yes"
+"WinDiff , URL: /wiki/WinDiff
+","No","No","when different","Yes","Optional"
+"WinMerge , URL: /wiki/WinMerge
+","No","No","Optional","","Optional"
+"UCC , URL: /wiki/Unified_Code_Count_(UCC)
+","No","No","Yes","No",""
+"Name","Filename casing","CRC","Filedate","Daylight saving","Character casing"

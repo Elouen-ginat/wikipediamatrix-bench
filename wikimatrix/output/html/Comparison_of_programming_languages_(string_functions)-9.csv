@@ -1,0 +1,73 @@
+"Format","Languages"
+"string1 & string2","Ada , URL: /wiki/Ada_(programming_language)
+FreeBASIC , URL: /wiki/FreeBASIC
+Seed7 , URL: /wiki/Seed7
+BASIC , URL: /wiki/BASIC
+VB , URL: /wiki/Visual_Basic_(classic)
+VB .NET , URL: /wiki/Visual_Basic_.NET
+COBOL , URL: /wiki/COBOL
+"
+"strcat(string1, string2)","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+"
+"string1 . string2","Perl , URL: /wiki/Perl
+PHP , URL: /wiki/PHP
+"
+"string1 + string2","ALGOL 68 , URL: /wiki/ALGOL_68
+C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+Cobra , URL: /wiki/Cobra_(programming_language)
+FreeBASIC , URL: /wiki/FreeBASIC
+Go , URL: /wiki/Go_(programming_language)
+Pascal , URL: /wiki/Pascal_(programming_language)
+Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+Windows PowerShell , URL: /wiki/Windows_PowerShell
+Python , URL: /wiki/Python_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+Rust , URL: /wiki/Rust_(programming_language)
+F# , URL: /wiki/F_Sharp_(programming_language)
+Swift , URL: /wiki/Swift_(programming_language)
+Turing , URL: /wiki/Turing_(programming_language)
+VB , URL: /wiki/Visual_Basic_(classic)
+"
+"string1 ~ string2","D , URL: /wiki/D_(programming_language)
+Raku , URL: /wiki/Raku_(programming_language)
+"
+"(string-append string1 string2)","Scheme , URL: /wiki/Scheme_(programming_language)
+ISLISP , URL: /wiki/ISLISP
+"
+"(concatenate 'string string1 string2)","Common Lisp , URL: /wiki/Common_Lisp
+"
+"(str string1 string2)","Clojure , URL: /wiki/Clojure
+"
+"string1 || string2","Rexx , URL: /wiki/Rexx
+SQL , URL: /wiki/SQL
+PL/I , URL: /wiki/PL/I
+"
+"string1 // string2","Fortran , URL: /wiki/Fortran
+"
+"string1 ++ string2","Erlang , URL: /wiki/Erlang_(programming_language)
+Haskell , URL: /wiki/Haskell_(programming_language)
+"
+"string1 ^ string2","OCaml , URL: /wiki/OCaml
+Standard ML , URL: /wiki/Standard_ML
+F# , URL: /wiki/F_Sharp_(programming_language)
+"
+"[string1 stringByAppendingString:string2]","Objective-C , URL: /wiki/Objective-C
+"
+"string1 .. string2","Lua , URL: /wiki/Lua_(programming_language)
+"
+"string1 , string2","Smalltalk , URL: /wiki/Smalltalk
+APL , URL: /wiki/APL_(programming_language)
+"
+"string1 string2","SNOBOL , URL: /wiki/SNOBOL
+"
+"string1string2","Bash shell , URL: /wiki/Bash_shell
+"
+"string1 <> string2","Mathematica , URL: /wiki/Mathematica
+"
+"concat string1 string2","Tcl , URL: /wiki/Tcl
+"

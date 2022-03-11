@@ -1,20 +1,24 @@
-"null","null","null","null","null","null"
-"C++, C#, FreePascal, VBA","3.8.0 / August 2013","Yes","Yes","Dual (Commercial, GPL)","General purpose library, includes optimization package."
-"C, C++, C#, Python, Java, Matlab, R","October 2018","Yes","Yes","Dual (Commercial, academic)","A popular algebraic modeling language for linear, mixed-integer and nonlinear optimization. Student and AMPL for courses versions are available for free."
-"Fortran, C++, Python, Matlab, Julia","0.6.2 / March 2016","Yes","Yes","Dual (Commercial, academic)","A differential and algebraic modeling language for mixed-integer and nonlinear optimization. Freely available interfaces for Matlab, Python, and Julia."
-"C, C++, C#, Python, Java, Julia, Matlab, R","11.1 / November 2018","No","Yes","Commercial, Academic, Trial","General purpose library, specialized in nonlinear optimization. Handles mixed-integer problems (MINLP) and mathematical programs with equilibrium constraints (MPEC). Specialized algorithms for nonlinear least squares problems."
-"C, C++, Java, C#, Python, R","20.1 / Dec 2020","Yes","Yes","Commercial, academic, trial","IBM CPLEX Optimization Studio is a suite of optimization engines (CPLEX for Mathematical Programming, and CP Optimizer for Constraint programming), a modeling language (OPL), and an Integrated Development Environment."
-"Mosel, BCL, C, C++, Java, R, Python, Matlab, .Net, VB6","8.13 / Nov 2021","Yes","Yes","Commercial, academic, community, trial","Suite of Optimization Technologies and Solutions. Includes: Solver technologies including (LP (Simplex & Barrier), MIP, MIQP, MIQCQP, MISOCP, MINLP QP, QCQP, SOCP, NLP (SLP & Interior Point); An algebraic modelling and procedural programming language; an Integrated Development Environment; Supports for a range of execution services; Support for packaging of optimization models and services as software solutions"
-"Python","0.2.8 / August 2020","Yes","Yes","Dual (Commercial, academic)","GEKKO is a Python package for machine learning and optimization of mixed-integer and differential algebraic equations. It is coupled with large-scale solvers for linear, quadratic, nonlinear, and mixed integer programming (LP, QP, NLP, MILP, MINLP). Modes of operation include parameter regression, data reconciliation, real-time optimization, dynamic simulation, and nonlinear predictive control."
-"C","4.52 / July 2013","Yes","No","GPL","Free library for linear programming (LP) and mixed integer programming (MIP)."
-"C","1.16 / July 2013","Yes","No","GPL","Free library provided by GNU project."
-"C, Java, C#, Fortran, Python","many components","No","Yes","Proprietary",""
-"C++, Java","2.0.198 / October 2011","Yes","Yes","Proprietary","Support for interactive and learning optimization, according to RSO principles .[2]"
-"C++, Fortran","11.1 / October 2013","No","Yes","Proprietary","Numerical library from Intel. MKL is specialized on linear algebra, but contains some optimization-related functionality."
-"C++, Wolfram Language","13.0.1 (February 17, 2022; 0 days ago (2022-02-17)) [±][3]","No","Yes","Proprietary","Constrained nonlinear optimization, interior point methods, convex optimization and integer programming-as well as original symbolic methods integrated with general computational capabilities."
-"C++, C#, Python, Matlab, Octave, Fortran, R, Java, Excel, VBA, Julia","6.0 / Mar 2018","Yes","Yes","Dual (Commercial, academic)","Lightweight software tool for single- and multi-objective optimization. Supporting MINLP and parallelization."
-"C, Fortran","Mark 26 / October 2017","No","Yes","Proprietary",""
-"C#","5.3 / May 2013","No","Yes","Proprietary","C# numerical library built on top of MKL."
-"C++/Python","0.11.29 / November 2019","No","Yes","Commercial","Supercomputing deterministic global optimization solver for general MINLP problems. Octeract Engine uses MPI for distributed calculations."
-"Java","8.0.0.Final / November 2020","Yes","Yes","ASL (open source)","Lightweight optimization solver in Java, with optional integration modules for JPA-Hibernate, Quarkus, Spring, Jackson, JAXB, etc. Works on Kotlin and Scala too."
-"Python","0.13.1 / November 2013","Yes","Yes","BSD","General purpose numerical and scientific computing library for Python."
+"v t e Mathematical optimization software","v t e Mathematical optimization software"
+"Data formats","Mathematica MPS nl sol"
+"Modeling , URL: /wiki/Mathematical_modeling
+","AIMMS AMPL APMonitor ECLiPSe-CLP GEKKO GAMS GNU MathProg JuMP LINDO OPL Mathematica OptimJ PuLP Pyomo TOMLAB Xpress Mosel ZIMPL"
+"LP , URL: /wiki/Linear_programming
+MILP , URL: /wiki/Linear_programming#Integer_unknowns
+","APOPT∗ ANTIGONE∗ Artelys Knitro∗ BCP∗ CLP CBC∗ CPLEX∗ FortMP∗ GCG∗ GLOP∗ GLPK/GLPSOL∗ LINDO∗ Lp_solve LOQO Mathematica MINOS MINTO∗ MOSEK∗ NAG SCIP∗ SoPlex Octeract Engine∗ SYMPHONY∗ Xpress Optimizer∗"
+"QP , URL: /wiki/Quadratic_programming
+","APOPT∗ ANTIGONE∗ Artelys Knitro∗ CBC∗ CLP CPLEX∗ FortMP∗ IPOPT LINDO∗ Mathematica MINOS MOSEK∗ NAG Octeract Engine∗ SCIP∗ Xpress Optimizer∗"
+"QCP , URL: /wiki/Quadratically_constrained_quadratic_program
+","APOPT∗ ANTIGONE∗ Artelys Knitro∗ CPLEX∗ IPOPT LINDO∗ Mathematica MINOS MOSEK∗ NAG SCIP∗ Octeract Engine∗ Xpress Optimizer∗ Xpress NonLinear∗"
+"SOCP , URL: /wiki/Second-order_cone_programming
+","Artelys Knitro∗ CPLEX∗ LINDO∗ LOQO Mathematica MOSEK∗ NAG SCIP∗ Xpress Optimizer∗"
+"SDP , URL: /wiki/Semidefinite_programming
+","Mathematica MOSEK NAG"
+"NLP , URL: /wiki/Nonlinear_programming
+","AOA∗ APOPT∗ ANTIGONE∗ Artelys Knitro∗ BARON∗ Couenne∗ Galahad library IPOPT LINDO∗ LOQO MIDACO∗ MINOS NAG NLPQLP NPSOL SCIP∗ SNOPT∗ Octeract Engine∗ WORHP Xpress NonLinear∗"
+"GO , URL: /wiki/Global_optimization
+","ANTIGONE∗ BARON Couenne∗ Mathematica LINDO SCIP Octeract Engine"
+"CP , URL: /wiki/Constraint_programming
+","Artelys Kalis Comet CPLEX CP Optimizer Gecode Mathematica JaCoP Xpress Kalis"
+"Metaheuristic , URL: /wiki/Metaheuristic
+","OptaPlanner"
+"List of optimization software Comparison of optimization software","List of optimization software Comparison of optimization software"

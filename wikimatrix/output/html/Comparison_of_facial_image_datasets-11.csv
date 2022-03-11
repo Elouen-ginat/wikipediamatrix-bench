@@ -1,0 +1,8 @@
+"Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
+"NPS Chat Corpus","Posts from age-specific online chat rooms.","Hand privacy masked, tagged for part of speech and dialogue-act.","~ 500,000","XML","NLP, programming, linguistics","2007","[225]","Forsyth, E., Lin, J., & Martell, C."
+"Twitter Triple Corpus","A-B-A triples extracted from Twitter.","","4,232","Text","NLP","2016","[226]","Sordini, A. et al."
+"UseNet Corpus","UseNet forum postings.","Anonymized e-mails and URLs. Omitted documents with lengths <500 words or >500,000 words, or that were <90% English.","7 billion","Text","","2011","[227]","Shaoul, C., & Westbury C."
+"NUS SMS Corpus","SMS messages collected between two users, with timing analysis.","","~ 10,000","XML","NLP","2011","[228]","KAN, M"
+"Reddit All Comments Corpus","All Reddit comments (as of 2015).","","~ 1.7 billion","JSON","NLP, research","2015","[229]","Stuck_In_the_Matrix"
+"Ubuntu Dialogue Corpus","Dialogues extracted from Ubuntu chat stream on IRC.","","","CSV","Dialogue Systems Research","2015","[230]","Lowe, R. et al."
+"Dialog State Tracking Challenge","The Dialog State Tracking Challenges 2 & 3 (DSTC2&3) were research challenge focused on improving the state of the art in tracking the state of spoken dialog systems.","Transcription of spoken dialogs with labelling","DSTC2 contains ~3.2k calls – DSTC3 contains ~2.3k calls","Json","Dialogue state tracking","2014","[231]","Henderson, Matthew and Thomson, Blaise and Williams, Jason D"

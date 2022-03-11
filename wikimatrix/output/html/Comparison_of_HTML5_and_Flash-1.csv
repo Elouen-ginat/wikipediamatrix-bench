@@ -1,1 +1,125 @@
-"","This article needs to be updated. The reason given is: Flash is no longer supported. Please help update this article to reflect recent events or newly available information. (February 2022)"
+"","HTML5 , URL: /wiki/HTML5
+","web browser , URL: /wiki/Web_browser
+","Adobe Flash , URL: /wiki/Adobe_Flash
+AIR , URL: /wiki/Adobe_AIR
+"
+"Date started","Work began in 2003 Working Draft as of 2011[3]","N/A","Work began in 1996[4] Version 1 released in 1997"
+"Desktop operating systems","N/A","AmigaOS , URL: /wiki/AmigaOS
+MorphOS , URL: /wiki/MorphOS
+macOS , URL: /wiki/MacOS
+Linux , URL: /wiki/Linux
+Microsoft Windows , URL: /wiki/Microsoft_Windows
+","macOS , URL: /wiki/MacOS
+Linux , URL: /wiki/Linux
+Microsoft Windows , URL: /wiki/Microsoft_Windows
+"
+"Mobile operating systems","N/A","Android 2.3 and newer[5] Apple iOS 6 and newer[5] Chrome OS Symbian Belle[5] BlackBerry OS 7 and 10[5] Windows Phone 7 and newer[5]","Android 2.1 to 4.1[6][7] Apple iOS (Adobe AIR only)[8] BlackBerry 10 (up to OS 10.3.0)[9] BlackBerry Tablet OS[10] Windows RT"
+"Video game consoles , URL: /wiki/Video_game_console
+","N/A","PlayStation (PS4, PS3 and PS Vita)[11][12][13] Nintendo Switch and Wii U[14][15][11][16] Nintendo 3DS family (partial)[11] Xbox One and Xbox 360[11][17]","PlayStation 3 (Flash 9.1) and PSP (Flash 6) Wii (Flash Lite 3.1, equivalent to Flash 8) Leapster (Flash 5 for games) Dreamcast (Flash 4)"
+"Device support","N/A","web camera , URL: /wiki/Web_camera
+microphone , URL: /wiki/Microphone
+accelerometer , URL: /wiki/Accelerometer
+GPS , URL: /wiki/GPS
+","web camera , URL: /wiki/Web_camera
+microphone , URL: /wiki/Microphone
+accelerometer , URL: /wiki/Accelerometer
+GPS , URL: /wiki/GPS
+"
+"Market penetration","N/A","82.3% of websites (as of March 28, 2020)[18]","4.5% of websites (as of April 19, 2018)[19]"
+"Browser support","N/A","97.5% of browser installations (as of February 2020)[20]","29% of browser installations (as of July 2019)[21]"
+"Vector graphics formats","N/A","Scalable Vector Graphics , URL: /wiki/Scalable_Vector_Graphics
+","SWF , URL: /wiki/SWF
+"
+"Bitmap effects","Yes","90+%[23] support of Filters in CSS3 (e.g. Glow, Blur, Drop Shadow, Sepia)[24]","Yes, applied to text or graphics (e.g. Glow, Drop Shadow, Bevel)[25]"
+"Vector text display","Yes","Yes","Saffron Type System , URL: /wiki/Saffron_Type_System
+"
+"Font support","N/A","CSS 3 web fonts , URL: /wiki/Web_typography
+","Installed fonts and embedded fonts[26]"
+"anti-aliasing , URL: /wiki/Spatial_anti-aliasing
+","N/A","Yes, implemented in most browsers, for system and custom fonts","Yes, in most cases ^2"
+"tab stops , URL: /wiki/Tab_stop
+","No","Only supported inside "pre" tags","Yes, with Text Layout Framework"
+"Liquid text layout","Yes","Yes, via "div" tag and CSS styling","No, but text fields can be resized in ActionScript"
+"Tabular data","Yes","Yes, via "table" tag","No, but text fields can be arranged into a grid"
+"Linked text frames ^1","As of 2016[update], two specifications compete: CSS Regions[27] and CSS Overflow[28]","With CSS Regions, supported by Safari, IE11 and Edge[29]","Yes, with Text Layout Framework[30]"
+"Programming languages","Depends","JavaScript , URL: /wiki/JavaScript
+","ActionScript , URL: /wiki/ActionScript
+Pixel Bender , URL: /wiki/Adobe_Pixel_Bender
+"
+"C++ , URL: /wiki/C%2B%2B
+","Emscripten , URL: /wiki/Emscripten
+","WebAssembly , URL: /wiki/WebAssembly
+","Cross-compiling C++ code to run in Flash Player via FlasCC[31] AIR has AIR Native Extensions that allow loading native code, such as compiled C++ code."
+"Code delivery format","Plaintext","obfuscation , URL: /wiki/Obfuscation
+WebAssembly , URL: /wiki/WebAssembly
+bytecode , URL: /wiki/Bytecode
+GLSL , URL: /wiki/GLSL
+Canvas elements , URL: /wiki/Canvas_element
+","Compiled , URL: /wiki/Compiler
+bytecode , URL: /wiki/Bytecode
+"
+"Data formats","Depends","CSS , URL: /wiki/CSS
+HTML , URL: /wiki/HTML
+XML , URL: /wiki/XML
+JSON , URL: /wiki/JSON
+","JSON , URL: /wiki/JSON
+XML , URL: /wiki/XML
+CSS , URL: /wiki/CSS
+"
+"Data compression","No","GZIP , URL: /wiki/GZIP
+","LZMA , URL: /wiki/LZMA
+DEFLATE , URL: /wiki/DEFLATE
+"
+"Image formats","Depends","PNG , URL: /wiki/Portable_Network_Graphics
+JPEG , URL: /wiki/JPEG
+SVG , URL: /wiki/Scalable_Vector_Graphics
+GIF , URL: /wiki/Graphics_Interchange_Format
+","PNG , URL: /wiki/Portable_Network_Graphics
+JPEG , URL: /wiki/JPEG
+JPEG-XR , URL: /wiki/JPEG-XR
+GIF , URL: /wiki/Graphics_Interchange_Format
+"
+"Video formats","Depends","H.264 , URL: /wiki/H.264
+WebM , URL: /wiki/WebM
+Ogg Theora , URL: /wiki/Ogg_Theora
+HTML5 video , URL: /wiki/HTML5_video
+","Sorenson Spark , URL: /wiki/Sorenson_Spark
+On2 VP6 , URL: /wiki/VP6
+"
+"Streaming video","Yes[40]","Supported by IE, Edge, Firefox, Chrome, Safari and Opera.[41]","Flash Video , URL: /wiki/Flash_Video
+H.264 , URL: /wiki/H.264
+MP4 , URL: /wiki/MP4
+"
+"Audio formats","Depends","MP3 , URL: /wiki/MP3
+AAC , URL: /wiki/Advanced_Audio_Coding
+WAV , URL: /wiki/WAV
+PCM , URL: /wiki/Pulse-code_modulation
+Ogg , URL: /wiki/Ogg
+Vorbis , URL: /wiki/Vorbis
+WebM , URL: /wiki/WebM_Project
+Vorbis , URL: /wiki/Vorbis
+HTML5 audio , URL: /wiki/HTML5_audio
+","MP3 , URL: /wiki/MP3
+WAV , URL: /wiki/WAV
+AAC , URL: /wiki/Advanced_Audio_Coding
+"
+"Fullscreen support","Yes[44]","Supported on all major desktop browsers, with warning displayed.[45] Not yet widely supported on mobile","Yes, with warning displayed"
+"DRM , URL: /wiki/Digital_rights_management
+","Depends","~65% support of audio/video files.[46] All other files being plaintext, except for obfuscation","No, binary formatted files can be decompiled, which is obfuscation"
+"File system , URL: /wiki/File_system
+","Depends","drag and drop , URL: /wiki/Drag_and_drop
+","Support for single file upload and generation,[48] AIR only: full create/read/write access to file system[49]"
+"Bitmap manipulation","Depends","~95% support for canvas element[50]","Yes, via BitmapData class[51]"
+"Binary manipulation","Yes","Yes, via JavaScript Typed Arrays[52]","Yes, via ByteArray class[53]"
+"Large binary data , URL: /wiki/BLOB
+","No","Via Web Sockets to stream binary or other data","Yes, embedded or streaming binary data[54]"
+"Offline storage","Depends","Web storage , URL: /wiki/Web_storage
+HTTP cookie , URL: /wiki/HTTP_cookie
+Indexed DB , URL: /wiki/Indexed_DB
+","Local Shared Objects , URL: /wiki/Local_Shared_Object
+AMF , URL: /wiki/Action_Message_Format
+"
+"Metadata","Meta tags , URL: /wiki/Meta_tag
+","meta tags , URL: /wiki/Meta_tag
+","Extensible Metadata Platform , URL: /wiki/Extensible_Metadata_Platform
+"

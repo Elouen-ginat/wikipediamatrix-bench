@@ -1,0 +1,36 @@
+"Model","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","Nvidia Optimus , URL: /wiki/Nvidia_Optimus
+","TDP , URL: /wiki/Thermal_design_power
+"
+"Model","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","MB , URL: /wiki/Megabyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","Nvidia Optimus , URL: /wiki/Nvidia_Optimus
+","TDP , URL: /wiki/Thermal_design_power
+"
+"Quadro P3200","GP104","16","PCIe 3.0 x16","","","","1792:112:64:14","","","6144","168","GDDR5","192","5300","12.1","4.5","Yes","78"
+"Quadro P4200","GP104","16","PCIe 3.0 x16","","","","2304:144:64:18","","","8192","168","GDDR5","256","7600","12.1","4.5","Yes","115"
+"Quadro P5200","GP104","16","PCIe 3.0 x16","","","","2560:160:64:20","","","16384","230","GDDR5","256","8900","12.1","4.5","Yes","150"

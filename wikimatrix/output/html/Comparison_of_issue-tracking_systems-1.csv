@@ -1,1 +1,272 @@
-"","This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of issue-tracking systems" – news · newspapers · books · scholar · JSTOR (October 2011) (Learn how and when to remove this template message)"
+"System","Creator","License , URL: /wiki/Software_license
+","Implementation language(s)","Back end","Launch date","Refs"
+"Apache Bloodhound , URL: /wiki/Apache_Bloodhound
+","Apache Software Foundation , URL: /wiki/Apache_Software_Foundation
+","Apache License , URL: /wiki/Apache_License
+","Python , URL: /wiki/Python_(programming_language)
+","MySQL , URL: /wiki/MySQL
+PostgreSQL , URL: /wiki/PostgreSQL
+SQLite , URL: /wiki/SQLite
+","2012","[1]"
+"Assembla , URL: /wiki/Assembla
+","Assembla , URL: /wiki/Assembla
+","Proprietary , URL: /wiki/Proprietary_software
+open source , URL: /wiki/Open-source_license
+","Ruby , URL: /wiki/Ruby_(programming_language)
+","MySQL , URL: /wiki/MySQL
+","2008",""
+"Axosoft , URL: /wiki/Axosoft
+","Axosoft LLC","Proprietary , URL: /wiki/Proprietary_software
+Saas , URL: /wiki/Software_as_a_service
+","C# , URL: /wiki/C_Sharp_(programming_language)
+.NET , URL: /wiki/.NET_Framework
+","SQL Server , URL: /wiki/Microsoft_SQL_Server
+","2002",""
+"Azure DevOps Server (Team Foundation Server) , URL: /wiki/Azure_DevOps_Server
+","Microsoft , URL: /wiki/Microsoft
+","Proprietary, Commercial",".NET , URL: /wiki/.NET_Framework
+","MS SQL Server 2005 & 2008","2005",""
+"Bugzilla , URL: /wiki/Bugzilla
+","Mozilla Foundation , URL: /wiki/Mozilla_Foundation
+","MPL , URL: /wiki/Mozilla_Public_License
+","Perl , URL: /wiki/Perl
+","MySQL , URL: /wiki/MySQL
+Oracle , URL: /wiki/Oracle_Database
+PostgreSQL , URL: /wiki/PostgreSQL
+SQLite , URL: /wiki/SQLite
+","1998-09-19",""
+"Debbugs , URL: /wiki/Debbugs
+","Debian , URL: /wiki/Debian
+","GPL , URL: /wiki/GPL
+","Perl , URL: /wiki/Perl
+","Flat file , URL: /wiki/Flat_file_database
+Berkeley DB , URL: /wiki/Berkeley_DB
+","Between 1994 and 1999[notes 1]",""
+"Dolibarr , URL: /wiki/Dolibarr
+","Dolibarr community","GPL , URL: /wiki/GPL
+","PHP , URL: /wiki/PHP
+","MySQL , URL: /wiki/MySQL
+PostgreSQL , URL: /wiki/PostgreSQL
+","2018",""
+"Faveo Helpdesk , URL: /wiki/Faveo
+","Ladybird Web Solution","Open Software License , URL: /wiki/Open_Software_License
+","PHP , URL: /wiki/PHP
+","MySQL , URL: /wiki/MySQL
+","2015",""
+"FogBugz , URL: /wiki/FogBugz
+","Glitch , URL: /wiki/Glitch_(company)
+","Proprietary , URL: /wiki/Proprietary_software
+Saas , URL: /wiki/Software_as_a_service
+","ASP , URL: /wiki/Active_Server_Pages
+Windows , URL: /wiki/Microsoft_Windows
+PHP , URL: /wiki/PHP
+macOS , URL: /wiki/MacOS
+FreeBSD , URL: /wiki/FreeBSD
+Linux , URL: /wiki/Linux
+","SQL Server , URL: /wiki/Microsoft_SQL_Server
+MySQL , URL: /wiki/MySQL
+","2000","[2]"
+"Fossil , URL: /wiki/Fossil_(software)
+","D. Richard Hipp","BSD , URL: /wiki/BSD_licenses
+","C , URL: /wiki/C_(programming_language)
+","SQLite , URL: /wiki/SQLite
+","2006",""
+"FusionForge , URL: /wiki/FusionForge
+","open source , URL: /wiki/Open-source_model
+","GPLv2 , URL: /wiki/GPLv2
+","PHP , URL: /wiki/PHP
+","PostgreSQL , URL: /wiki/PostgreSQL
+","2009-02",""
+"GLPI , URL: /wiki/GLPI
+","INDEPNET","GPLv2 , URL: /wiki/GPLv2
+","PHP , URL: /wiki/PHP
+","MySQL , URL: /wiki/MySQL
+","2003-11-17",""
+"GNATS , URL: /wiki/GNATS
+","Free Software Foundation , URL: /wiki/Free_Software_Foundation
+","GPL , URL: /wiki/GPL
+","C , URL: /wiki/C_(programming_language)
+Perl , URL: /wiki/Perl
+","Text files with custom daemon/search engine","1992",""
+"Helix ALM (aka TestTrack) , URL: /wiki/Helix_ALM
+","Perforce Software , URL: /wiki/Perforce_Software
+","Proprietary","C++ , URL: /wiki/C%2B%2B
+Qt5 , URL: /wiki/Qt5
+JavaScript , URL: /wiki/JavaScript
+","Oracle , URL: /wiki/Oracle_database
+PostgreSQL , URL: /wiki/PostgreSQL
+SQL Server , URL: /wiki/Microsoft_SQL_Server
+SQLite , URL: /wiki/SQLite
+","1996",""
+"HP Quality Center , URL: /wiki/HP_Quality_Center
+","Hewlett-Packard , URL: /wiki/Hewlett-Packard
+Mercury Interactive , URL: /wiki/Mercury_Interactive
+","Proprietary , URL: /wiki/Proprietary_software
+",".NET , URL: /wiki/.NET_Framework
+Java , URL: /wiki/Java_(programming_language)
+","Oracle , URL: /wiki/Oracle_database
+SQL Server , URL: /wiki/Microsoft_SQL_Server
+","1995",""
+"Jira , URL: /wiki/Jira_(software)
+","Atlassian , URL: /wiki/Atlassian
+","open source , URL: /wiki/Open-source_model
+","Java , URL: /wiki/Java_(programming_language)
+","MySQL , URL: /wiki/MySQL
+PostgreSQL , URL: /wiki/PostgreSQL
+Oracle , URL: /wiki/Oracle_Database
+SQL Server , URL: /wiki/Microsoft_SQL_Server
+","2002",""
+"Launchpad , URL: /wiki/Launchpad_(website)
+","Canonical Ltd. , URL: /wiki/Canonical_Ltd.
+","AGPL , URL: /wiki/Affero_General_Public_License
+","JavaScript , URL: /wiki/JavaScript
+Python , URL: /wiki/Python_(programming_language)
+","PostgreSQL , URL: /wiki/PostgreSQL
+","2004-01",""
+"MantisBT , URL: /wiki/Mantis_Bug_Tracker
+","open source , URL: /wiki/Open-source_model
+","GPL , URL: /wiki/GPL
+","PHP , URL: /wiki/PHP
+","MariaDB , URL: /wiki/MariaDB
+MySQL , URL: /wiki/MySQL
+PostgreSQL , URL: /wiki/PostgreSQL
+SQL Server , URL: /wiki/Microsoft_SQL_Server
+Oracle , URL: /wiki/Oracle_Database
+","2000",""
+"Microsoft Dynamics CRM , URL: /wiki/Microsoft_Dynamics_CRM
+","Microsoft , URL: /wiki/Microsoft
+","Proprietary, Commercial",".NET , URL: /wiki/.NET_Framework
+","Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
+","2003",""
+"OpenProject , URL: /wiki/OpenProject
+","OpenProject Foundation e.V.","GPL , URL: /wiki/GPL
+","Ruby , URL: /wiki/Ruby_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+","MySQL , URL: /wiki/MySQL
+PostgreSQL , URL: /wiki/PostgreSQL
+MariaDB , URL: /wiki/MariaDB
+","2010",""
+"org-mode , URL: /wiki/Org-mode
+","Carsten Dominik","GPL , URL: /wiki/GPL
+","Emacs","Flat file","2003",""
+"OTRS , URL: /wiki/OTRS
+","OTRS , URL: /wiki/OTRS
+","AGPL , URL: /wiki/Affero_General_Public_License
+","Perl , URL: /wiki/Perl
+JavaScript , URL: /wiki/JavaScript
+","MySQL , URL: /wiki/MySQL
+PostgreSQL , URL: /wiki/PostgreSQL
+Oracle , URL: /wiki/Oracle_Database
+SQL Server , URL: /wiki/Microsoft_SQL_Server
+","2002",""
+"Phabricator , URL: /wiki/Phabricator
+","Facebook , URL: /wiki/Facebook
+","Apache License , URL: /wiki/Apache_License
+","PHP , URL: /wiki/PHP
+","","2010",""
+"Pivotal Tracker , URL: /wiki/Pivotal_Tracker
+","Pivotal Labs , URL: /wiki/Pivotal_Labs
+","Proprietary , URL: /wiki/Proprietary_software
+","Ruby , URL: /wiki/Ruby_(programming_language)
+","Ruby on Rails , URL: /wiki/Ruby_on_Rails
+MySQL , URL: /wiki/MySQL
+Memcached , URL: /wiki/Memcached
+","2008",""
+"Redmine , URL: /wiki/Redmine
+","Jean-Philippe Lang","GPLv2 , URL: /wiki/GPLv2
+","Ruby , URL: /wiki/Ruby_(programming_language)
+","MySQL , URL: /wiki/MySQL
+PostgreSQL , URL: /wiki/PostgreSQL
+SQLite , URL: /wiki/SQLite
+","2006",""
+"Request Tracker , URL: /wiki/Request_Tracker
+","Best Practical Solutions, LLC","GPLv2 , URL: /wiki/GPLv2
+","Perl , URL: /wiki/Perl
+","MySQL , URL: /wiki/MySQL
+PostgreSQL , URL: /wiki/PostgreSQL
+Oracle , URL: /wiki/Oracle_Database
+SQLite , URL: /wiki/SQLite
+","1999-10-13",""
+"Roundup , URL: /wiki/Roundup_(issue_tracker)
+","Ka-Ping Yee, Richard Jones","MIT license , URL: /wiki/MIT_license
+","Python , URL: /wiki/Python_(programming_language)
+","SQLite , URL: /wiki/SQLite
+MySQL , URL: /wiki/MySQL
+PostgreSQL , URL: /wiki/PostgreSQL
+Berkeley DB , URL: /wiki/Berkeley_DB
+","2001",""
+"StarTeam , URL: /wiki/StarTeam
+","Borland , URL: /wiki/Borland
+","Proprietary","C++ , URL: /wiki/C%2B%2B
+Java , URL: /wiki/Java_(programming_language)
+","SQL Server , URL: /wiki/Microsoft_SQL_Server
+Oracle , URL: /wiki/Oracle_database
+DB2 , URL: /wiki/IBM_DB2
+","Unknown",""
+"Supportworks , URL: /wiki/Supportworks
+","Hornbill Systems","Proprietary","C++ , URL: /wiki/C%2B%2B
+PHP , URL: /wiki/PHP
+","SQL Server , URL: /wiki/Microsoft_SQL_Server
+MySQL , URL: /wiki/MySQL
+Oracle , URL: /wiki/Oracle_database
+Sybase , URL: /wiki/Adaptive_Server_Enterprise
+","1994[4]",""
+"SysAid , URL: /wiki/SysAid_Technologies
+","SysAid Technologies","Proprietary","C# , URL: /wiki/C_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+","Derby , URL: /wiki/Apache_Derby
+Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
+MySQL , URL: /wiki/MySQL
+Oracle , URL: /wiki/Oracle_Database
+","2002",""
+"Trac , URL: /wiki/Trac
+","Edgewall Software","New BSD , URL: /wiki/New_BSD_License
+","Python , URL: /wiki/Python_(programming_language)
+","SQLite , URL: /wiki/SQLite
+PostgreSQL , URL: /wiki/PostgreSQL
+MySQL , URL: /wiki/MySQL
+","2006-10-01",""
+"TrackerSuite.Net , URL: /wiki/Tracker_(business_software)
+","Automation Centre , URL: /wiki/Automation_Centre
+","Proprietary","C# , URL: /wiki/C_Sharp_(programming_language)
+","SQL Server , URL: /wiki/Microsoft_SQL_Server
+SQL Server Express , URL: /wiki/SQL_Server_Express
+","2006",""
+"Trello , URL: /wiki/Trello
+","Atlassian , URL: /wiki/Atlassian
+","Saas , URL: /wiki/Software_as_a_service
+","Node.js , URL: /wiki/Node.js
+","MongoDB , URL: /wiki/MongoDB
+","2011",""
+"Tuleap , URL: /wiki/Tuleap_(project_management)
+","enalean","GPLv2 , URL: /wiki/GPLv2
+","php , URL: /wiki/Php
+","LAMP , URL: /wiki/LAMP_(software_bundle)
+MySQL , URL: /wiki/MySQL
+","2011",""
+"Twproject , URL: /wiki/Twproject
+","Open Lab","Proprietary , URL: /wiki/Proprietary_software
+LGPL , URL: /wiki/LGPL
+","Java , URL: /wiki/Java_(programming_language)
+","Hibernate , URL: /wiki/Hibernate_(Java)
+","2003",""
+"Wrike , URL: /wiki/Wrike_(software)
+","Wrike, Inc.","Proprietary, hosted","Java , URL: /wiki/Java_(programming_language)
+","PostgreSQL , URL: /wiki/PostgreSQL
+","2006",""
+"YouTrack , URL: /wiki/YouTrack
+","JetBrains , URL: /wiki/JetBrains
+","Proprietary , URL: /wiki/Proprietary_software
+open source , URL: /wiki/Open-source_model
+","Java , URL: /wiki/Java_(programming_language)
+","JavaScript , URL: /wiki/JavaScript
+Kotlin , URL: /wiki/Kotlin_(programming_language)
+","2009",""
+"Zammad , URL: /wiki/Zammad
+","Zammad GmbH","AGPL , URL: /wiki/Affero_General_Public_License
+","Ruby , URL: /wiki/Ruby_(programming_language)
+","MySQL , URL: /wiki/MySQL
+PostgreSQL , URL: /wiki/PostgreSQL
+","2016[5]",""
+"System","Creator","License , URL: /wiki/Software_license
+","Implementation language(s)","Back end","Launch date","Refs"

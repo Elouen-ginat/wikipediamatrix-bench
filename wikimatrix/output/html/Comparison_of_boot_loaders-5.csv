@@ -1,0 +1,76 @@
+"Name","cpio , URL: /wiki/Cpio
+","tar , URL: /wiki/Tar_(computing)
+","ISO 9660 , URL: /wiki/ISO_9660
+","romfs , URL: /wiki/Romfs
+","SquashFS , URL: /wiki/SquashFS
+","cramfs , URL: /wiki/Cramfs
+"
+"Acronis OS Selector , URL: /wiki/Acronis_Disk_Director_Suite
+","?","?","?","?","?","?"
+"AiR-BOOT","?","?","?","?","?","?"
+"AKernelLoader","?","?","?","?","?","?"
+"Barebox , URL: /wiki/Barebox
+","?","?","?","?","Yes[a]","Yes"
+"BOOTBOOT","Yes","Yes","Yes","Yes","No","No"
+"BootIt Bare Metal","?","?","?","?","?","?"
+"BootKey","?","?","?","?","?","?"
+"bootload","?","?","?","?","?","?"
+"BootManager , URL: /wiki/BootManager
+","?","?","?","?","?","?"
+"BootX (Apple) , URL: /wiki/BootX_(Apple)
+","?","?","?","?","?","?"
+"BootX (Linux) , URL: /wiki/BootX_(Linux)
+","?","?","?","?","?","?"
+"Clover","?","?","?","?","?","?"
+"Darwin Boot Loader","?","?","?","?","?","?"
+"Das U-Boot , URL: /wiki/Das_U-Boot
+","?","?","?","?","?","Yes"
+"extipl","?","?","?","?","?","?"
+"ReactOS , URL: /wiki/ReactOS
+","?","?","?","?","?","?"
+"GAG","?","?","?","?","?","?"
+"GNU GRUB 2 , URL: /wiki/GNU_GRUB
+","Yes","Yes","Yes","Yes","Yes","?"
+"GRUB Legacy , URL: /wiki/GNU_GRUB
+","?","?","Yes[b]","?","?","?"
+"Grub2Win , URL: /wiki/GNU_GRUB#Variants
+","?","?","?","?","?","?"
+"GRUB4DOS , URL: /wiki/GNU_GRUB#Variants
+","?","?","Yes[b]","?","?","?"
+"Gujin","?","?","?","?","?","?"
+"systemd-boot / Gummiboot , URL: /wiki/Gummiboot_(software)
+","?","?","?","?","?","?"
+"iBoot , URL: /wiki/IBoot
+","?","?","?","?","?","?"
+"LILO , URL: /wiki/LILO_(boot_loader)
+","?","?","?","?","?","?"
+"Limine","No","No","Yes","No","No","No"
+"FreeBSD , URL: /wiki/FreeBSD
+","?","?","?","?","?","?"
+"loadlin , URL: /wiki/Loadlin
+","No","No","Yes[c]","?","?","?"
+"LOLO","?","?","?","?","?","?"
+"MasterBooter","?","?","?","?","?","?"
+"Multiple Boot Manager","?","?","?","?","?","?"
+"NTLDR , URL: /wiki/NTLDR
+","?","?","?","?","?","?"
+"OpenCore","?","?","?","?","?","?"
+"OSL2000 Boot Manager","?","?","?","?","?","?"
+"PLoP Boot Manager","?","?","?","?","?","?"
+"RedBoot , URL: /wiki/RedBoot
+","?","?","?","?","?","?"
+"rEFInd , URL: /wiki/REFInd
+","?","?","Yes[d]","?","?","?"
+"rEFIt , URL: /wiki/REFIt
+","?","?","?","?","?","?"
+"Smart Boot Manager","?","?","?","?","?","?"
+"SPFdisk","?","?","?","?","?","?"
+"Syslinux , URL: /wiki/Syslinux
+","?","?","Yes","?","?","?"
+"Tianocore EDK II","?","?","?","?","?","?"
+"Windows Boot Manager , URL: /wiki/Windows_Boot_Manager
+","No","No","Yes","No","No","No"
+"XOSL , URL: /wiki/XOSL
+","?","?","?","?","?","?"
+"yaboot , URL: /wiki/Yaboot
+","?","?","?","?","?","?"

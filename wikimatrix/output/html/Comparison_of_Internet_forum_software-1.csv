@@ -1,20 +1,44 @@
-"null","null","null","null","null"
-"WordPress Foundation","2020-11-20","2.6.6","PHP[2]","GPL[3]"
-"Project Beehive Forum Developers","2016-11-05","1.5.2","PHP","GPL"
-"Civilized Discourse Construction Kit, Inc.","2022-02-14[±]","2.8.1[6]","Ruby, JavaScript","GPL"
-"Comsenz Inc.","2018-01-01","X3.4","PHP","EULA (proprietary, gratis for non-commercial use)"
-"FluxBB.org Developers","2018-12-31","1.5.11","PHP","GPL"
-"Advanced Internet Designs Inc.","2018-04-09","3.0.9","PHP","GPL"
-"Matt Mecham (original creator) Joshua Johnson","2012-10-19","3.1.5A","Perl","Proprietary"
-"Invision Power Services Inc.","2020-02-04","4.4.10","PHP","Proprietary"
-"MyBB Group","2021-10-30","1.8.29[13]","PHP","LGPL, moving to BSD in 2.0[14]"
-"Brian Moon","2017-08-23","5.2.23","PHP","Phorum License 2 (BSD like)"
-"phpBB Ltd.","2021-10-03","3.3.5","PHP","GPL"
-"PunBB","2015-10-14","1.4.4","PHP","GPL"
-"Simple Machines","2022-02-09[18]","2.1.0[18]","PHP","BSD License"
-"Anonymous (related to I2P)","2014-08-14","1.107b","Java","Open source, multiple licenses"
-"Joel Oliveira, Gleb Mazovetskiy, et al.","2019-08-17","0.16.13","Ruby","MIT"
-"Vanilla Forums","2019-07-09","3.1","PHP","Proprietary/GPL[22]"
-"vBulletin Solutions Inc.","2020-01-08","5.5.6","PHP[24]","Proprietary[25]"
-"XenForo Limited, Kier Darby, Mike Sullivan","2021-07-22","2.2.6 Patch 2","PHP[26]","Proprietary"
-"null","null","null","null","null"
+"","Flat , URL: /wiki/Comparison_of_Internet_forum_software#Flat_vs._threaded
+","Threaded , URL: /wiki/Comparison_of_Internet_forum_software#Flat_vs._threaded
+","User selectable themes , URL: /wiki/Comparison_of_Internet_forum_software#User-selectable_themes
+","Unread message tracking , URL: /wiki/Comparison_of_Internet_forum_software#Unread_message_tracking
+","WYSIWYG Editor , URL: /wiki/WYSIWYG
+","Export, portability , URL: #Export,_portability
+","Email , URL: /wiki/Email
+NNTP , URL: /wiki/NNTP
+","Languages , URL: #Languages
+","SSO , URL: /wiki/Single_sign-on
+"
+"bbPress , URL: /wiki/BbPress
+","Yes[27]","","","","","No[28]","Plugin[29][30]","Yes[31]",""
+"Beehive Forum , URL: /wiki/Beehive_Forum
+","Yes[27]","Yes[27]","Partial[27]","Full[27]","TinyMCE , URL: /wiki/TinyMCE
+","Partial[32]","","",""
+"Discourse , URL: /wiki/Discourse_(software)
+","Yes","No[33]","Yes[34]","Full","Real-time side-by-side preview","Full[35]","Partial[36]","Yes[37][38]","OAuth2 , URL: /wiki/OAuth2
+"
+"Discuz! , URL: /wiki/Discuz!
+","","","Yes[41]","","","","","",""
+"FluxBB , URL: /wiki/FluxBB
+","Yes[27]","No[27]","Partial[27]","Session[27]","No[27]","","","Yes[42]",""
+"FUDforum , URL: /wiki/FUDforum
+","Yes[27]","Yes[27]","Yes[27]","Full[27]","Yes[27]","Partial[43]","Yes[44]","Yes[45]",""
+"Invision Power Board , URL: /wiki/Invision_Power_Board
+","Yes[27]","","Yes[27]","Full[27]","Yes[27]","","No[46]","","No[47]"
+"MyBB , URL: /wiki/MyBB
+","Yes[27]","Yes[27]","Yes[27]","Full[27]","Yes[27]","No[49]","No[50][51]","Yes[52]",""
+"Phorum , URL: /wiki/Phorum
+","Yes[27]","Yes[27]","Yes[27]","Full[27]","Yes[27]","Plugin[53]","","No[54]",""
+"phpBB , URL: /wiki/PhpBB
+","Yes[27]","No[27]","Yes[27]","Full[27]","No[27]","No[56]","No[57][58]","Yes[59]","Yes (LDAP, OAuth)[60]"
+"PunBB , URL: /wiki/PunBB
+","Yes[27]","","Yes[27]","Session[27]","","","","No[62][63]",""
+"Simple Machines Forum , URL: /wiki/Simple_Machines_Forum
+","Yes[27]","No[27]","Yes[27]","Full[27]","Yes[27]","Partial [64]","No[65]","Yes[66]",""
+"Thredded","Yes[20]","No[20]","Yes[20]","Full[20]","No[20]","No[20]","Read-only[20]","Yes[20]","Custom[20]"
+"Vanilla Forums , URL: /wiki/Vanilla_Forums
+","Yes[27]","","Yes[27]","Yes[27]","Plugin[27]","Plugin [67][68]","","Yes[69]","Yes[70]"
+"vBulletin , URL: /wiki/VBulletin
+","Yes[27]","No","Yes[27]","Full[27]","Yes[27]","Plugin[72][73]","","No[74]",""
+"XenForo , URL: /wiki/XenForo
+","Yes[27]","Yes","Yes[27]","Full[27]","Yes[27]","Yes[75]","","Yes[76]","Yes[77]"

@@ -1,0 +1,156 @@
+"Language","In-line comment","Block comment"
+"Ada , URL: /wiki/Ada_(programming_language)
+Eiffel , URL: /wiki/Eiffel_(programming_language)
+Euphoria , URL: /wiki/Euphoria_(programming_language)
+Occam , URL: /wiki/Occam_(programming_language)
+SPARK , URL: /wiki/SPARK_(programming_language)
+SQL , URL: /wiki/SQL
+VHDL , URL: /wiki/VHDL
+","-- InlineComment",""
+"ALGOL 60 , URL: /wiki/Algol_60
+","","comment BlockComment;"
+"ALGOL 68 , URL: /wiki/Algol_68
+","","¢ BlockComment ¢ comment BlockComment comment co BlockComment co # BlockComment # £ BlockComment £"
+"APL , URL: /wiki/APL_(programming_language)
+","⍝ InlineComment",""
+"AppleScript , URL: /wiki/AppleScript
+","-- InlineComment","(* BlockComment *)"
+"Assembly language , URL: /wiki/Assembly_language
+","; InlineComment one example (most assembly languages use line comments only)",""
+"AutoHotkey , URL: /wiki/AutoHotkey
+","; InlineComment","/* BlockComment */"
+"AWK , URL: /wiki/AWK_(programming_language)
+Bash , URL: /wiki/Bash_(Unix_shell)
+Bourne shell , URL: /wiki/Bourne_shell
+C shell , URL: /wiki/C_shell
+Maple , URL: /wiki/Maple_computer_algebra_system
+R , URL: /wiki/R_(programming_language)
+Tcl , URL: /wiki/Tcl
+Windows PowerShell , URL: /wiki/Windows_PowerShell
+","# InlineComment","<# BlockComment #>"
+"BASIC , URL: /wiki/BASIC_programming_language
+","'InlineComment (not all dialects) *InlineComment (not all dialects) !InlineComment (not all dialects) REM InlineComment",""
+"C , URL: /wiki/C_(programming_language)
+CHILL , URL: /wiki/CHILL_programming_language
+PL/I , URL: /wiki/PL/I
+REXX , URL: /wiki/REXX
+","","/* BlockComment */"
+"C (C99) , URL: /wiki/C_(programming_language)#C99
+C++ , URL: /wiki/C%2B%2B
+Go , URL: /wiki/Go_(programming_language)
+Swift , URL: /wiki/Swift_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+","// InlineComment","/* BlockComment */"
+"C# , URL: /wiki/C_Sharp_(programming_language)
+","// InlineComment /// InlineComment (XML documentation comment)","/* BlockComment */ /** BlockComment */ (XML documentation comment)"
+"COBOL , URL: /wiki/COBOL
+","* InlineComment (* in column 7)",""
+"COBOL 2002","*> InlineComment",""
+"Curl , URL: /wiki/Curl_programming_language
+","|| InlineComment","|# BlockComment #| |foo# BlockComment #|"
+"Cobra , URL: /wiki/Cobra_(programming_language)
+","# InlineComment","/# BlockComment #/ (nestable)"
+"D , URL: /wiki/D_programming_language
+","ddoc , URL: /wiki/Ddoc
+","ddoc , URL: /wiki/Ddoc
+"
+"DCL , URL: /wiki/DIGITAL_Command_Language
+","$! InlineComment",""
+"ECMAScript , URL: /wiki/ECMAScript
+JavaScript , URL: /wiki/JavaScript
+ActionScript , URL: /wiki/ActionScript
+","// InlineComment","/* BlockComment */"
+"Forth , URL: /wiki/Forth_(programming_language)
+","\ InlineComment","( BlockComment ) (single line as well as multiline) ( before -- after ) stack comment convention"
+"FORTRAN , URL: /wiki/FORTRAN
+","C InlineComment (C in column 1)",""
+"Fortran 90 , URL: /wiki/Fortran_90
+","! InlineComment",""
+"Haskell , URL: /wiki/Haskell_(programming_language)
+","-- InlineComment","{- BlockComment -}"
+"Java , URL: /wiki/Java_(programming_language)
+","// InlineComment","/* BlockComment */ /** BlockComment */ (Javadoc documentation comment)"
+"Julia , URL: /wiki/Julia_(programming_language)
+","# InlineComment","#= BlockComment =#"
+"Lisp , URL: /wiki/Lisp_(programming_language)
+Scheme , URL: /wiki/Scheme_(programming_language)
+","; InlineComment","#| BlockComment |#"
+"Lua , URL: /wiki/Lua_(programming_language)
+","-- InlineComment","--[==[ BlockComment]==] (variable number of = signs)"
+"Maple , URL: /wiki/Maple_(software)
+","# InlineComment","(* BlockComment *)"
+"Mathematica , URL: /wiki/Mathematica
+","","(* BlockComment *)"
+"Matlab , URL: /wiki/Matlab
+","% InlineComment","%{ BlockComment (nestable) %} Note: Both percent–bracket symbols must be the only non-whitespace characters on their respective lines."
+"Nim , URL: /wiki/Nim_(programming_language)
+","# InlineComment","#[ BlockComment ]#"
+"Object Pascal , URL: /wiki/Object_Pascal
+","// InlineComment","(* BlockComment *) { BlockComment }"
+"OCaml , URL: /wiki/OCaml
+","","(* BlockComment (* nestable *) *)"
+"Pascal , URL: /wiki/Pascal_(programming_language)
+Modula-2 , URL: /wiki/Modula-2
+Modula-3 , URL: /wiki/Modula-3
+Oberon , URL: /wiki/Oberon_(programming_language)
+ML , URL: /wiki/ML_(programming_language)
+","","(* BlockComment *)"
+"Perl , URL: /wiki/Perl
+Ruby , URL: /wiki/Ruby_(programming_language)
+","# InlineComment","POD , URL: /wiki/Plain_Old_Documentation
+"
+"PHP , URL: /wiki/PHP
+","# InlineComment // InlineComment","PHP Doc comments , URL: /wiki/PHPDoc
+"
+"PILOT , URL: /wiki/PILOT
+","R:InlineComment",""
+"PLZ/SYS , URL: /w/index.php?title=PLZ/SYS&action=edit&redlink=1
+","","! BlockComment !"
+"PL/SQL , URL: /wiki/PL/SQL
+TSQL , URL: /wiki/TSQL
+","-- InlineComment","/* BlockComment */"
+"Prolog , URL: /wiki/Prolog
+","% InlineComment","/* BlockComment */"
+"Python , URL: /wiki/Python_(programming_language)
+","# InlineComment","''' BlockComment ''' """ BlockComment """ (Documentation string when first line of module, class, method, or function)"
+"R , URL: /wiki/R_(programming_language)
+","# InlineComment",""
+"Raku , URL: /wiki/Raku_(programming_language)
+","# InlineComment","#`{ BlockComment } =comment This comment paragraph goes until the next POD directive or the first blank line.[22][23]"
+"Red , URL: /wiki/Red_(programming_language)
+","; InlineComment","{ BlockComment }"
+"Rust , URL: /wiki/Rust_(programming_language)
+","// InlineComment /// InlineComment ("Outer" rustdoc comment) //! InlineComment ("Inner" rustdoc comment)","/* BlockComment */ (nestable) /** BlockComment */ ("Outer" rustdoc comment) /*! BlockComment */ ("Inner" rustdoc comment)"
+"SAS , URL: /wiki/SAS_System
+","","* BlockComment; /* BlockComment */"
+"Seed7 , URL: /wiki/Seed7
+","# InlineComment","(* BlockComment *)"
+"Simula , URL: /wiki/Simula
+","","comment BlockComment; ! BlockComment;"
+"Smalltalk , URL: /wiki/Smalltalk
+","",""BlockComment""
+"Smarty , URL: /wiki/Smarty_(template_engine)
+","","{* BlockComment *}"
+"Standard ML , URL: /wiki/Standard_ML
+","","(* BlockComment *)"
+"TeX , URL: /wiki/TeX
+LaTeX , URL: /wiki/LaTeX
+PostScript , URL: /wiki/PostScript
+Erlang , URL: /wiki/Erlang_(programming_language)
+Elixir , URL: /wiki/Elixir_(programming_language)
+S-Lang , URL: /wiki/S-Lang_(programming_language)
+","% InlineComment",""
+"Texinfo , URL: /wiki/Texinfo
+","@c InlineComment @comment InlineComment",""
+"TUTOR , URL: /wiki/TUTOR_(programming_language)
+","* InlineComment command $$ InlineComment",""
+"Visual Basic , URL: /wiki/Visual_Basic
+","' InlineComment Rem InlineComment",""
+"Visual Basic .NET , URL: /wiki/Visual_Basic_.NET
+","' InlineComment ''' InlineComment (XML documentation comment) Rem InlineComment",""
+"Visual Prolog , URL: /wiki/Visual_Prolog
+","% InlineComment","/* BlockComment */"
+"Wolfram Language , URL: /wiki/Wolfram_Language
+","","(* BlockComment *)"
+"Xojo , URL: /wiki/Xojo
+","' InlineComment // InlineComment rem InlineComment",""

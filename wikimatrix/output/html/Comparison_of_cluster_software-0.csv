@@ -1,0 +1,106 @@
+"Software","Maintainer","Category","Development status","ArchitectureOCS","High-Performance , URL: /wiki/High-performance_computing
+High-Throughput Computing , URL: /wiki/High-Throughput_Computing
+","License , URL: /wiki/Software_license
+","Platforms supported","Cost","Paid support available"
+"Accelerator","Altair","Job Scheduler","actively developed","Master/worker distributed","HPC/HTC","Proprietary","Linux, Windows","Cost","Yes"
+"Amoeba , URL: /wiki/Amoeba_distributed_operating_system
+","","","No active development","","","MIT , URL: /wiki/MIT_license
+","","",""
+"Base One Foundation Component Library , URL: /wiki/Base_One_Foundation_Component_Library
+","","","","","","Proprietary , URL: /wiki/Proprietary_software
+","","",""
+"DIET , URL: /wiki/DIET
+","INRIA , URL: /wiki/Institut_national_de_recherche_en_informatique_et_en_automatique
+","All in one","","GridRPC, SPMD, Hierarchical and distributed architecture, CORBA","HTC/HPC","CeCILL , URL: /wiki/CeCILL
+","Unix-like , URL: /wiki/Unix-like
+Mac OS X , URL: /wiki/Mac_OS_X
+AIX , URL: /wiki/AIX
+","Free",""
+"Enduro/X , URL: /wiki/Enduro/X
+","Mavimax, Ltd.","Job/Data Scheduler","actively developed","SOA Grid","HTC/HPC/HA","GPLv2 or Commercial","Linux, FreeBSD, MacOS, Solaris, AIX","Free / Cost","Yes"
+"Ganglia , URL: /wiki/Ganglia_(software)
+","","Monitoring","actively developed","","","BSD , URL: /wiki/BSD_license
+","Unix , URL: /wiki/Unix
+Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+","Free",""
+"Globus Toolkit , URL: /wiki/Globus_Toolkit
+","Globus Alliance, Argonne National Laboratory","Job/Data Scheduler","actively developed","SOA Grid","","","Linux","Free",""
+"Grid MP , URL: /wiki/Grid_MP
+","Univa , URL: /wiki/Univa
+United Devices , URL: /wiki/United_Devices
+","Job Scheduler","no active development","Distributed master/worker","HTC/HPC","Proprietary , URL: /wiki/Proprietary_software
+","Windows, Linux, Mac OS X, Solaris","Cost",""
+"Apache Mesos , URL: /wiki/Apache_Mesos
+","Apache","","actively developed","","","Apache license , URL: /wiki/Apache_license
+","Linux","Free","Yes"
+"Moab Cluster Suite , URL: /wiki/Moab_Cluster_Suite
+","Adaptive Computing","Job Scheduler","actively developed","","HPC","Proprietary , URL: /wiki/Proprietary_software
+","Linux, Mac OS X, Windows, AIX, OSF/Tru-64, Solaris, HP-UX, IRIX, FreeBSD & other UNIX platforms","Cost","Yes"
+"NetworkComputer , URL: /wiki/NetworkComputer
+","Runtime Design Automation","","actively developed","","HTC/HPC","Proprietary , URL: /wiki/Proprietary_software
+","Unix-like , URL: /wiki/Unix-like
+Windows , URL: /wiki/Microsoft_Windows
+","Cost",""
+"OpenHPC , URL: /wiki/OpenHPC
+","OpenHPC project","all in one","actively developed","","HPC","","Linux (CentOS)","Free","No"
+"OpenLava , URL: /wiki/OpenLava
+","Teraproc","Job Scheduler","actively developed","Master/Worker, multiple admin/submit nodes","HTC/HPC","GPL","Linux","Free","Yes"
+"PBS Pro , URL: /wiki/PBS_Pro
+","Altair","Job Scheduler","actively developed","Master/worker distributed with fail-over","HPC/HTC","AGPL or Proprietary","Linux, Windows","Free or Cost","Yes"
+"Proxmox Virtual Environment , URL: /wiki/Proxmox_Virtual_Environment
+","Proxmox Server Solutions","Complete","actively developed","","","Open-source AGPLv3","Linux, Windows, other operating systems are known to work and are community supported","Free","Yes"
+"Rocks Cluster Distribution , URL: /wiki/Rocks_Cluster_Distribution
+","Open Source/NSF grant","All in one","actively developed","","HTC/HPC","OpenSource","CentOS , URL: /wiki/CentOS
+","Free",""
+"Popular Power , URL: /wiki/Popular_Power
+","","","","","","","","",""
+"ProActive , URL: /wiki/ProActive
+","INRIA , URL: /wiki/Institut_national_de_recherche_en_informatique_et_en_automatique
+ActiveEon , URL: /w/index.php?title=ActiveEon&action=edit&redlink=1
+","All in one","actively developed","Master/Worker, SPMD, Distributed Component Model, Skeletons","HTC/HPC","GPL , URL: /wiki/GNU_General_Public_License
+","Unix-like , URL: /wiki/Unix-like
+Windows , URL: /wiki/Microsoft_Windows
+Mac OS X , URL: /wiki/Mac_OS_X
+","Free",""
+"RPyC , URL: /wiki/RPyC
+","Tomer Filiba","","actively developed","","","MIT License , URL: /wiki/MIT_License
+","*nix/Windows","Free",""
+"SLURM , URL: /wiki/Simple_Linux_Utility_for_Resource_Management
+","SchedMD","Job Scheduler","actively developed","","HPC/HTC","GPL","Linux/*nix","Free","Yes"
+"Spectrum LSF , URL: /wiki/Platform_LSF
+","IBM , URL: /wiki/IBM
+","Job Scheduler","actively developed","Master node with failover/exec clients, multiple admin/submit nodes, Suite addOns","HPC/HTC","Proprietary , URL: /wiki/Proprietary_software
+","Unix , URL: /wiki/Unix
+Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+","Cost and Academic - model - Academic, Express, Standard, Advanced and Suites","Yes"
+"Oracle Grid Engine | Oracle Grid Engine (Sun Grid Engine, SGE) , URL: /wiki/Univa_Grid_Engine
+","Altair","Job Scheduler","active Development moved to Altair Grid Engine","Master node/exec clients, multiple admin/submit nodes","HPC/HTC","Proprietary , URL: /wiki/Proprietary_Software
+","*nix/Windows","Cost",""
+"Some of Grid Engine | Son of Grid Engine , URL: https://github.com/daimh/sge
+","daimh","Job Scheduler","actively developed (stable/maintenance)","Master node/exec clients, multiple admin/submit nodes","HPC/HTC","Open-source SISSL","*nix","Free","No"
+"SynfiniWay , URL: /wiki/SynfiniWay
+","Fujitsu , URL: /wiki/Fujitsu
+","","actively developed","","HPC/HTC","?","Unix , URL: /wiki/Unix
+Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+","Cost",""
+"TORQUE Resource Manager , URL: /wiki/TORQUE_Resource_Manager
+","Adaptive Computing","Job Scheduler","actively developed","","","Proprietary","Linux, *nix","Cost","Yes"
+"UniCluster , URL: /wiki/UniCluster
+","Univa , URL: /wiki/Univa
+","All in One","Functionality and development moved to UniCloud (see above)","","","","","Free","Yes"
+"UNICORE , URL: /wiki/UNICORE
+","","","","","","","","",""
+"Altair Grid Engine , URL: /w/index.php?title=Altair_Grid_Engine&action=edit&redlink=1
+","Altair , URL: /wiki/Altair
+","Job Scheduler","actively developed","Master node/exec clients, multiple admin/submit nodes","HPC/HTC","Proprietary , URL: /wiki/Proprietary_software
+","*nix/Windows","Cost",""
+"Xgrid , URL: /wiki/Xgrid
+","Apple Computer , URL: /wiki/Apple_Computer
+","","","","","","","",""
+"Software","Maintainer","Category","Development status","Architecture","High-Performance , URL: /wiki/High-performance_computing
+High-Throughput Computing , URL: /wiki/High-Throughput_Computing
+","License , URL: /wiki/Software_license
+","Platforms supported","Cost","Paid support available"

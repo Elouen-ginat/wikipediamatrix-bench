@@ -1,0 +1,92 @@
+"","Temporary table","Materialized view , URL: /wiki/Materialized_view
+"
+"4th Dimension , URL: /wiki/4th_Dimension_(Software)
+","Yes","No"
+"ADABAS , URL: /wiki/ADABAS
+","?","?"
+"Adaptive Server Enterprise , URL: /wiki/Adaptive_Server_Enterprise
+","Yes1","Yes – see precomputed result sets"
+"Advantage Database Server , URL: /wiki/Advantage_Database_Server
+","Yes","No (only common views)"
+"Altibase , URL: /wiki/Altibase
+","Yes","No (only common views)"
+"Apache Derby , URL: /wiki/Apache_Derby
+","Yes","No"
+"ClustrixDB , URL: /wiki/Clustrix
+","Yes","No"
+"CUBRID , URL: /wiki/CUBRID
+","No","No"
+"DB2 , URL: /wiki/IBM_DB2
+","Yes","Yes"
+"Empress Embedded Database , URL: /wiki/Empress_database
+","Yes","Yes"
+"EXASolution , URL: /wiki/EXASOL
+","Yes","No"
+"Firebird , URL: /wiki/Firebird_(database_server)
+","Yes","No (only common views)"
+"HSQLDB , URL: /wiki/HSQLDB
+","Yes","No"
+"H2 , URL: /wiki/H2_(DBMS)
+","Yes","No (only common views)"
+"Informix Dynamic Server , URL: /wiki/Informix_Dynamic_Server
+","Yes","No2"
+"Ingres , URL: /wiki/Ingres_(database)
+","Yes","No"
+"InterBase , URL: /wiki/InterBase
+","Yes","No"
+"Linter SQL RDBMS , URL: /wiki/Linter_SQL_RDBMS
+","Yes","Yes"
+"LucidDB , URL: /wiki/LucidDB
+","No","No"
+"MariaDB , URL: /wiki/MariaDB
+","Yes","No4"
+"MaxDB , URL: /wiki/MaxDB
+","Yes","No"
+"Microsoft Access , URL: /wiki/Microsoft_Access
+","No","No"
+"Microsoft Visual Foxpro , URL: /wiki/Microsoft_Visual_Foxpro
+","Yes","Yes"
+"Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
+","Yes","Yes"
+"Microsoft SQL Server Compact (Embedded Database) , URL: /wiki/SQL_Server_Compact
+","Yes","No"
+"Mimer SQL , URL: /wiki/Mimer_SQL
+","No","No"
+"MonetDB , URL: /wiki/MonetDB
+","Yes","No (only common views)"
+"MySQL , URL: /wiki/MySQL
+","Yes","No4"
+"Oracle , URL: /wiki/Oracle_Database
+","Yes","Yes"
+"Oracle Rdb , URL: /wiki/Oracle_Rdb
+","Yes","Yes"
+"OpenLink Virtuoso , URL: /wiki/Virtuoso_Universal_Server
+","Yes","Yes"
+"Pervasive PSQL , URL: /wiki/Pervasive_PSQL
+","Yes","No"
+"Polyhedra DBMS , URL: /wiki/Polyhedra_DBMS
+","No","No (only common views)"
+"PostgreSQL , URL: /wiki/PostgreSQL
+","Yes","Yes"
+"Raima Database Manager , URL: /wiki/Raima_Database_Manager
+","Yes","No"
+"RDM Server , URL: /wiki/RDM_Server
+","Yes","No"
+"SAP HANA , URL: /wiki/SAP_HANA
+","Yes","?"
+"solidDB , URL: /wiki/SolidDB
+","Yes","No (only common views)"
+"SQL Anywhere , URL: /wiki/SQL_Anywhere
+","Yes","Yes"
+"SQLite , URL: /wiki/SQLite
+","Yes","No"
+"Superbase , URL: /wiki/Superbase_database
+","Yes","Yes"
+"Teradata , URL: /wiki/Teradata
+","Yes","Yes"
+"UniData , URL: /wiki/UniData
+","Yes","No"
+"UniVerse , URL: /wiki/UniVerse
+","Yes","No"
+"","Temporary table","Materialized view , URL: /wiki/Materialized_view
+"

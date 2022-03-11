@@ -1,0 +1,28 @@
+"Kernel Name","HTTP , URL: /wiki/HTTP
+","FTP , URL: /wiki/FTP
+","NFS , URL: /wiki/Network_File_System_(protocol)
+","CIFS , URL: /wiki/CIFS
+","Name server , URL: /wiki/Name_server
+","Transport-layer load balancer","Application-layer load balancer","9P , URL: /wiki/9P_(protocol)
+","TLS , URL: /wiki/Transport_Layer_Security
+","WAF , URL: /wiki/Application_firewall
+","Memcached server"
+"Linux kernel , URL: /wiki/Linux_kernel
+","TUX web server , URL: /wiki/TUX_web_server
+","TUX web server , URL: /wiki/TUX_web_server
+","knfsd","CIFSD , URL: /wiki/CIFSD
+","?","IP Virtual Server , URL: /wiki/IP_Virtual_Server
+","KTCPVS , URL: /w/index.php?title=KTCPVS&action=edit&redlink=1
+","patch available , URL: http://lkml.indiana.edu/hypermail/linux/kernel/0711.0/0585.html
+","SOL_TLS[15]","(Tempesta FW)[16]","(kmemcached)"
+"DragonFly BSD kernel , URL: /wiki/DragonFly_BSD
+","No","No","Yes","Yes","?","?","?","No","No","?","?"
+"FreeBSD kernel , URL: /wiki/FreeBSD
+","No","No","Yes","No","No","Yes","No","No","No","?","?"
+"Solaris kernel , URL: /wiki/Solaris_(operating_system)
+","?","?","Yes","Yes[17]","?","Yes[18]","Yes[18]","?","KSSL , URL: /wiki/KSSL
+","?","?"
+"Windows NT kernel , URL: /wiki/Architecture_of_Windows_NT#Kernel_mode
+","HTTP.sys","?","?","Yes","?","Yes","Yes","No","?","?","?"
+"XNU , URL: /wiki/XNU
+","No","No","Yes","No","No","No","No","No","No","?","?"

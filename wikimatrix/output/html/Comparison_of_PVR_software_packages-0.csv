@@ -1,0 +1,80 @@
+"Name","Windows","MacOSX","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/Berkeley_Software_Distribution
+","Android","Price","License , URL: /wiki/Software_license
+","Latest stable release","Notes"
+"Beyond TV , URL: /wiki/Beyond_TV
+","Yes","No","No","No","No","Discontinued","Proprietary , URL: /wiki/Proprietary_software
+","4.9.3 (Build 6535) October 15, 2010; 11 years ago (2010-10-15)","DVB , URL: /wiki/Digital_Video_Broadcasting
+"
+"DVB Dream , URL: /wiki/DVB_Dream
+","Yes","No","No","No","No","US$49","Proprietary , URL: /wiki/Proprietary_software
+","3.7.1 March 14, 2019; 2 years ago (2019-03-14)[1]","Focused on DVB and live TV"
+"DVBViewer , URL: /wiki/DVBViewer
+","Yes","No","No","No","No","€20","Proprietary , URL: /wiki/Proprietary_software
+","6.1.5 July 22, 2019; 2 years ago (2019-07-22)[2]",""
+"Emby , URL: /wiki/Emby
+","Yes","Yes","Yes","Yes","Yes (client only)","Crippleware , URL: /wiki/Crippleware
+","GPL , URL: /wiki/GNU_General_Public_License
+Proprietary , URL: /wiki/Proprietary_software
+","4.6.7.0 November 21, 2021; 3 months ago (2021-11-21)[5]","HDHomeRun , URL: /wiki/HDHomeRun
+"
+"EyeTV , URL: /wiki/Elgato
+","No","Yes","No","No","No","Bundled , URL: /wiki/Bundled_software
+","Proprietary , URL: /wiki/Proprietary_software
+","3.6.9 (build 7521) January 10, 2017; 5 years ago (2017-01-10)","Bundled for no extra charge with all Elgato USB tuners, but also sold separately for use with other tuners."
+"Hauppauge , URL: /wiki/Hauppauge_Computer_Works
+","Yes","No","No","No","No","Bundled , URL: /wiki/Bundled_software
+","Proprietary , URL: /wiki/Proprietary_software
+","8.5 (build 37122) May 2, 2019; 2 years ago (2019-05-02)","Bundled for no extra charge, only works with Hauppauge TV cards and peripherals."
+"InterVideo WinDVR , URL: /wiki/InterVideo_WinDVR
+","Yes","No","No","No","No","Discontinued","Proprietary , URL: /wiki/Proprietary_software
+","5.2 March 29, 2010; 11 years ago (2010-03-29)","Discontinued. Used to be bundled for no extra charge with various TV tuner devices."
+"Jellyfin , URL: /wiki/Jellyfin
+","Yes","Yes","Yes","Yes (unofficially)","Yes (client only)","Free","GPL , URL: /wiki/GNU_General_Public_License
+","10.6.0 July 19, 2020; 19 months ago (2020-07-19)",""
+"JRiver Media Center , URL: /wiki/JRiver_Media_Center
+","Yes","Yes","Yes","No","Yes","US$59.98 (unlimited installations)","Proprietary , URL: /wiki/Proprietary_software
+","25.0.114 October 14, 2019; 2 years ago (2019-10-14)[7]","DirectShow video player, madVR, LAV filters, HD audio, images, 10 foot GUI, Remote control, DLNA, Android/iPhone interface, automatic meta-data lookup for Audio, TV and Movies, fully customizable database"
+"Kodi , URL: /wiki/Kodi_(software)
+","Yes","Yes","Yes","Yes","Yes","Free","GPL , URL: /wiki/GNU_General_Public_License
+","18.4 "Leia" August 31, 2019; 2 years ago (2019-08-31)[8]","Cross-platform free and open-source software media center application, able to watch live or recorded TV, music, photos and has one of the most expansive collection of plugins/addons, enabling the system to do anything from browsing the web or downloading movies, to dimming the lights in the sitting room."
+"MediaPortal , URL: /wiki/MediaPortal
+","Yes","No","No","No","No","Free","GPL , URL: /wiki/GNU_General_Public_License
+","MP1: 1.23 October 4, 2019; 2 years ago (2019-10-04)[9] MP2: 2.2.2 October 7, 2019; 2 years ago (2019-10-07)[10]","built on the .NET 2.0 Framework"
+"MythTV , URL: /wiki/MythTV
+","Limited[c]","Yes","Yes","Yes","No","Free","GPL , URL: /wiki/GNU_General_Public_License
+","31.0 March 23, 2020; 22 months ago (2020-03-23)[12]","Under heavy development since 2002, and now contains most features one would expect from a good DVR."
+"NextPVR , URL: /wiki/NextPVR
+","Yes","Yes","Yes","Yes","Yes (client only)","Free","Proprietary , URL: /wiki/Proprietary_software
+","5.0.9.201026 October 26, 2020; 15 months ago (2020-10-26)","Personal video recorder application for Microsoft Windows, Linux, Mac and Docker. Supports a wide variety of devices, and a good set of features. Free for personal use. Commercial use requires a license."
+"SageTV , URL: /wiki/SageTV
+","Yes[d]","Yes","Yes","No","Yes (client only)","Free (was US$79.95/server, US$29.95/client)","GPL , URL: /wiki/GNU_General_Public_License
+","9.2.2 May 16 2020","Java based. SageTV was purchased by Google on June 20, 2011 and on August 10, 2015 it was announced that the project was converting to open-source development.[13]"
+"Showshifter , URL: /wiki/Showshifter
+","Yes","No","No","No","No","Discontinued (was £30)","Proprietary , URL: /wiki/Proprietary_software
+","3.12.2945 May 14, 2005; 16 years ago (2005-05-14)","Hauppauge , URL: /wiki/Hauppauge_Computer_Works
+BDA , URL: /wiki/Broadcast_Driver_Architecture
+"
+"tvtime","No","No","Yes","No","No","Free","GPL , URL: /wiki/GNU_General_Public_License
+","1.0.2 November 10, 2005; 16 years ago (2005-11-10)[14]","High quality television application for use with video capture cards on Linux systems. tvtime processes the input from a capture card and displays it on a computer monitor or projector"
+"Video Disk Recorder , URL: /wiki/Video_Disk_Recorder
+","No","No","Yes","Yes","No","Free","GPL , URL: /wiki/GNU_General_Public_License
+","2.4.1 June 17, 2019; 2 years ago (2019-06-17)[15]","TV Done Right, VDR can use one to eight video cards and support DVB-S, DVB-C and DVB-T. Record and read any DVB flux with a lot of plugins."
+"Windows Media Center , URL: /wiki/Windows_Media_Center
+","Yes","No","No","No","No","Windows 8/8.1: US$69.99 Windows 8/8.1 Pro: US$9.99 Windows XP/Vista/7: Free","Proprietary , URL: /wiki/Proprietary_software
+","6.3.9600.16384 February 23, 2011; 10 years ago (2011-02-23)","Windows XP Media Center Edition , URL: /wiki/Windows_XP_Media_Center_Edition
+Windows Vista , URL: /wiki/Windows_Vista
+Windows 7 , URL: /wiki/Windows_7
+Windows 8 Pro , URL: /wiki/Windows_8_Pro
+Windows 8.1 , URL: /wiki/Windows_8.1
+Windows 8 , URL: /wiki/Windows_8
+Windows 10 , URL: /wiki/Windows_10
+unofficially through a windows command script installer , URL: /wiki/Windows_Media_Center#Unofficial_Windows_10_Port
+Windows RT , URL: /wiki/Windows_RT
+"
+"V@Home , URL: /wiki/VBox_Home_TV_Gateway
+","Yes","Yes[e]","Yes","No","No","Bundled , URL: /wiki/Bundled_software
+","Proprietary , URL: /wiki/Proprietary_software
+","2.59 April 14, 2018; 3 years ago (2018-04-14)[18]","VBox Home TV Gateway , URL: /wiki/VBox_Home_TV_Gateway
+"
+"^ Emby Server is available for free under GPL which provides web access to the library. Client software is generally free when connected to an Emby Premiere-licensed server, though some, like Emby on the Windows Store, cost $4.99.[3] ^ Premiere license costs $4.99/month, $49.99/year, or $99.99 for lifetime.[4] ^ Porting MythTV to Windows is under development.[11] ^ There is also a Windows Home Server Edition ^ Manage and schedule recordings","^ Emby Server is available for free under GPL which provides web access to the library. Client software is generally free when connected to an Emby Premiere-licensed server, though some, like Emby on the Windows Store, cost $4.99.[3] ^ Premiere license costs $4.99/month, $49.99/year, or $99.99 for lifetime.[4] ^ Porting MythTV to Windows is under development.[11] ^ There is also a Windows Home Server Edition ^ Manage and schedule recordings","^ Emby Server is available for free under GPL which provides web access to the library. Client software is generally free when connected to an Emby Premiere-licensed server, though some, like Emby on the Windows Store, cost $4.99.[3] ^ Premiere license costs $4.99/month, $49.99/year, or $99.99 for lifetime.[4] ^ Porting MythTV to Windows is under development.[11] ^ There is also a Windows Home Server Edition ^ Manage and schedule recordings","^ Emby Server is available for free under GPL which provides web access to the library. Client software is generally free when connected to an Emby Premiere-licensed server, though some, like Emby on the Windows Store, cost $4.99.[3] ^ Premiere license costs $4.99/month, $49.99/year, or $99.99 for lifetime.[4] ^ Porting MythTV to Windows is under development.[11] ^ There is also a Windows Home Server Edition ^ Manage and schedule recordings","^ Emby Server is available for free under GPL which provides web access to the library. Client software is generally free when connected to an Emby Premiere-licensed server, though some, like Emby on the Windows Store, cost $4.99.[3] ^ Premiere license costs $4.99/month, $49.99/year, or $99.99 for lifetime.[4] ^ Porting MythTV to Windows is under development.[11] ^ There is also a Windows Home Server Edition ^ Manage and schedule recordings","^ Emby Server is available for free under GPL which provides web access to the library. Client software is generally free when connected to an Emby Premiere-licensed server, though some, like Emby on the Windows Store, cost $4.99.[3] ^ Premiere license costs $4.99/month, $49.99/year, or $99.99 for lifetime.[4] ^ Porting MythTV to Windows is under development.[11] ^ There is also a Windows Home Server Edition ^ Manage and schedule recordings","^ Emby Server is available for free under GPL which provides web access to the library. Client software is generally free when connected to an Emby Premiere-licensed server, though some, like Emby on the Windows Store, cost $4.99.[3] ^ Premiere license costs $4.99/month, $49.99/year, or $99.99 for lifetime.[4] ^ Porting MythTV to Windows is under development.[11] ^ There is also a Windows Home Server Edition ^ Manage and schedule recordings","^ Emby Server is available for free under GPL which provides web access to the library. Client software is generally free when connected to an Emby Premiere-licensed server, though some, like Emby on the Windows Store, cost $4.99.[3] ^ Premiere license costs $4.99/month, $49.99/year, or $99.99 for lifetime.[4] ^ Porting MythTV to Windows is under development.[11] ^ There is also a Windows Home Server Edition ^ Manage and schedule recordings","^ Emby Server is available for free under GPL which provides web access to the library. Client software is generally free when connected to an Emby Premiere-licensed server, though some, like Emby on the Windows Store, cost $4.99.[3] ^ Premiere license costs $4.99/month, $49.99/year, or $99.99 for lifetime.[4] ^ Porting MythTV to Windows is under development.[11] ^ There is also a Windows Home Server Edition ^ Manage and schedule recordings","^ Emby Server is available for free under GPL which provides web access to the library. Client software is generally free when connected to an Emby Premiere-licensed server, though some, like Emby on the Windows Store, cost $4.99.[3] ^ Premiere license costs $4.99/month, $49.99/year, or $99.99 for lifetime.[4] ^ Porting MythTV to Windows is under development.[11] ^ There is also a Windows Home Server Edition ^ Manage and schedule recordings"

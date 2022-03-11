@@ -1,0 +1,25 @@
+"OLAP server","# cubes","# measures","# dimensions","# dimensions in cube","# hierarchies in dimension","# levels in hierarchy","# dimension members"
+"Apache Druid , URL: /wiki/Apache_Druid
+","Unrestricted[a]","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted"
+"Apache Kylin , URL: /wiki/Apache_Kylin
+","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted"
+"Apache Pinot , URL: /wiki/Apache_Pinot
+","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted"
+"ClickHouse , URL: /wiki/ClickHouse
+","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted"
+"Essbase , URL: /wiki/Essbase
+","Unrestricted","Unrestricted","Unrestricted","255","255","?","20,000,000 (ASO), 1,000,000 (BSO)"
+"IBM Cognos TM1 , URL: /wiki/IBM_Cognos_TM1
+","Unrestricted[a]","Unrestricted","Unrestricted[a]","256","Unrestricted[a]","Unrestricted","Unrestricted"
+"icCube , URL: /wiki/IcCube
+","2,147,483,647","2,147,483,647","2,147,483,647","2,147,483,647","2,147,483,647","2,147,483,647","2,147,483,647"
+"Jedox OLAP Server , URL: /wiki/Jedox
+","2 32 {\displaystyle 2^{32}} (32 bits)","2 32 {\displaystyle 2^{32}}","2 32 {\displaystyle 2^{32}} (32 bits)","250","2 32 {\displaystyle 2^{32}}","2 32 {\displaystyle 2^{32}}","2 32 {\displaystyle 2^{32}}"
+"Kyvos , URL: /wiki/Kyvos
+","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted","Unrestricted"
+"Microsoft Analysis Services , URL: /wiki/Microsoft_Analysis_Services
+","2,147,483,647","2,147,483,647","2,147,483,647","2,147,483,647 (max. number of dimensions in a database)","2,147,483,647","2,147,483,647","2,147,483,647 (xOLAP) Unrestricted (In-memory)"
+"MicroStrategy Intelligence Server , URL: /wiki/MicroStrategy
+","Unrestricted[a]","Unrestricted[a]","Unrestricted[a]","?","Unrestricted[a]","Unrestricted[a]","Unrestricted[a]"
+"SAS OLAP Server , URL: /wiki/SAS_System
+","Unrestricted[a]","1024","128","?","128","19","4,294,967,296"

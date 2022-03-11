@@ -1,0 +1,13 @@
+"Features:","Configuration: GUI, text or both modes?","Remote Access: Web (HTTP), Telnet, SSH, RDP, Serial COM RS232, ...","Change rules without requiring restart?","Ability to centrally manage all firewalls together"
+"WinGate , URL: /wiki/WinGate
+","GUI","Proprietary user interface","Yes","N/A"
+"ClearOS , URL: /wiki/ClearOS
+","both","RS232, SSH, WebConfig,","Yes","Yes with ClearDNS"
+"Zeroshell , URL: /wiki/Zeroshell
+","GUI","SSH, Web (HTTPS), RS232","Yes","No"
+"OPNsense , URL: /wiki/OPNsense
+","both","SSH, Web (HTTP/HTTPS), RS232","Yes","No"
+"pfSense , URL: /wiki/PfSense
+","both","SSH, Web (HTTP/HTTPS), RS232","Yes","No"
+"IPFire , URL: /wiki/IPFire
+","both","SSH, Web (HTTPS), RS232","Yes","No"

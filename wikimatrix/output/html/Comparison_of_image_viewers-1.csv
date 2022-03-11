@@ -1,36 +1,174 @@
-"null","null","null"
-"Thumbnails (user-defined sizes), fullscreen, slideshow, zoom, fit, view Exif info, view inside ZIP archives, ...","Resize, crop, rotate, flip, JPEG lossless rotate/mirror, face recognition, adjust exposure and colors etc., filters (sharpen, blur, average, emboss), red eye removal, batch rename, edit Exif info","Proprietary"
-"Thumbnails, slideshow, filmstrip, preview, versions with alternates","Stand Alone: rotate, rename, delete, move, copy, batch rename, add/Edit metadata, camera raw image adjustments: crop, resize, exposure, contrast, white balance, curves Via Photoshop: contact sheet, merge to HDR, PDF presentation, photomerge, Web picture gallery","Proprietary"
-"Library organization, RAW and JPEG editing, slideshow tools, print layout and preferences, web gallery creation and uploading","","Proprietary"
-"","","Proprietary"
-"Fit to window, zoom, print, full-screen, slideshow, image collection, image information...","Rotate, flip, save as, used for reading comics and manga.","Proprietary"
-"Lighttable (contact sheet), darkroom (image editing), map, tethering","Non-destructive RAW photo editing (like Adobe Lightroom) as well as common image formats","GPL-3.0-or-later"
-"Fit to window, zoom, pan, light table, slideshow with effects, OpenGL viewer","Rotate, crop, vertical/horizontal flip, lossless JPEG operations (90° steps), color management, 16bit color depth, Light Table, Exif, IPTC, XMP, GPS metadata, adjust colors/brightness/levels, elaborate Black and White conversion, automatic lens correction, anti-vignetting, sharpening tools, vibrance, many filters, face recognition, Batch operations, export to archive, HTML, flickr, gallery2, picasaweb, smugmug, iPod, Facebook, 23hq, flash.","GPL-2.0-or-later"
-"Fit to window, zoom, flip, rotate, full-screen, slideshow, image collection, image information","Delete, print, save, rename, set wallpaper","GPL-2.0-or-later"
-"Borderless full-screen kiosk mode, Fit-to-window, 1:1, 50% to 6400% magnifier, multicore-enabled, GPU-based panning/zooming, black & white preview and lost shadows/highlights view.","File renaming, single-click background copy/move to preset location, single-click rating/labeling (writes Adobe XMP sidecar files and/or embeds XMP metadata within JPEG/TIFF/HD Photo/JPEG XR), Windows rating, color management including custom target profile selection, Unicode support, Exif shooting data (shutter speed, f-stop, ISO speed, exposure compensation) and real-time, seamless R,G,B histogram in translucent floating window. IPTC metadata editor in the registered version.","Proprietary"
-"All major formats, thumbnail view (6 predefined sizes), full screen, magnifier, slideshow. Uses second monitor for fullscreen preview. Popups image gallery, detailed image informations, editing options at the image border in fullscreen modus.","Many editing features: rotate, move, rename, 150+ transitional effects, crop, resize, clone, heal, convert format, color adjust, sharpen, drop shadow effects, scanner support, histogram. JPEG lossless rotate/flip/crop.","Proprietary"
-"Full-screen, slideshow, zoom, multiple sizes of thumbnails. Export: HTML, Flickr, Gallery Project, Picasa, Facebook (via extension) and O.r.i.g.i.n.a.l","Tags, rotate in single degree increments, hue, contrast, white balance, colour, sharpen, soft focus, crop, auto red-eye reduction. Files stored at /user/Pictures/Photos/[year]/[month]/[day]","MIT"
-"Full-screen, slideshow, zoom, color spectrum, 14 sizes of thumbnails","Rotate, move, rename, hue, contrast, find/remove duplicates","GPL-2.0-or-later"
-"Fit to window, zoom, print, full-screen, slideshow, image collection, image information, view images in compressed ZIP, RAR, or 7z files.","Rotate, flip, save as, used for reading comics and manga","Proprietary"
-"Full-screen, slideshow","Rotate, move, rename","Proprietary"
-"Full-screen, slideshow, zoom, color spectrum, three sizes of thumbnails","Rotate, move, rename, hue, contrast","GPL-2.0-or-later"
-"Fullscreen, slideshow, zoom, rotate, adjust gamma/contrast/brightness, disk navigator, file tree, thumbnails, extended thumbnails, bookmarks...","Add border, filter, effects, resize, rename, raw image converter, recompress, edit color. Share using 23, Dropbox, Facebook, Flickr, Google drive, Google photos/Picasaweb, Imageshack, Imgur, Piwigo, Rajce.net, remote storage, SmugMug, Yandex.Fotki, Zooomr","GPL-2.0-only or GPL-3.0-only"
-"Thumbnails, fullscreen, slideshow, camera information, search, tags, organize by event or album, auto organize by date during first import","Lossless JPEG rotate, cropping (custom and template), brightness/contrast adjustment, red-eye reduction, retouch, color enhancement, B&W and sepia conversion, export to multiple formats & sizes","Proprietary"
-"Thumbnails (18 pre-defined sizes from 50×50–800×800 pixels), fullscreen, slideshow, zoom, fit (several options), view IPTC and Exif info, hex view, histogram (also RGB); Format detection with offer to rename, set wallpaper, EXE/SCR creation, Burn slideshow to CD; directory tree 32 languages (version 4.28/4.30)","Add Text, crop, cut/copy selected area, paste-Into selected area, paste from print screen, resize/resample, rotate, flip vertically/horizontally, JPEG lossless transformations, color adjustments, change color depth, greyscale, red-eye reduction, sharpen, effects/filters, own and 8bf (Photoshop) plugins compatibility, edit IPTC info, move, copy, delete, rename, convert, batch conversion, batch renaming/resizing/cropping, panorama creation, send email, also via IrfanView Thumbnails/Plugins: contact sheet creation, thumbnail creation, web gallery creation, face detection","Freeware for Non commercial"
-"disk navigator, file tree, thumbnails, bookmarks, fullscreen, KIPI plugins","resize, rotate, colorize, convert, print","GPL-2.0-or-later"
-"Zoom, rotate, metadata, Exif, thumbnails (customize size), slideshow, categories","As Available per KIPI plugins","GPL-2.0-or-later"
-"Zoom, slideshow, camera information","Crop, redeye, color tweaking, auto attach and resize for email, export to HTML, export to CD","GPL"
-"fullscreen, slideshow, fit, zoom, print","","Proprietary"
-"Thumbnails, slideshow, zoom, print, light table, library organization, best practice DAM","Rotate, rename, delete, batch rename, add/edit metadata (IPTC, EXIF, Custom), free reader app to distribute catalogs","Proprietary"
-"Thumbnail, zoom, rotation, multiple page support, pan, fit to screen","Resize, crop, copy, paste, black and white/sepia, various blurs, add and reduce noise, plugin support","(Creative Commons Non commercial CC-BY-NC)"
-"","","Proprietary"
-"Zoom, lossless rotate, histogram, camera information, Thumbnails (fully adjustable), Slide Show (Full Screen w/zoom), Magnifier, Search, Search for faces","Crop, straighten, redeye, color tweaking, retouch, tuning, add text, numerous effects, batch edit, batch rename, video rendering, HTML gallery creation, photo browser application creator, screensaver, face recognition, keyword tagging, geo-tagging, photo collage, original file preservation, reorganize storage","Proprietary"
-"Zoom, rotate, metadata","Crop, straighten, color tweaking, profile assignment","Proprietary"
-"Thumbnails, fullscreen, slideshow, zoom, print, camera information, events","Auto enhance, rotate, mirror, flip, red eye reduction, crop, exposure, saturation, tint, temperature, shadows, revert to original, rename, straighten, change time/date, publish to Facebook, Picasa Web Albums, Flickr","LGPL-2.1-or-later"
-"Fullscreen, fit to window, zoom, print","rotate, brightness, contrast, gamma setting","Proprietary"
-"Fullscreen, slideshow, fit, zoom, print","Panorama stitching, adjust brightness, contrast, color saturation/hue, filters, stitching, rotate, straightening and skew, face recognition","Proprietary"
-"Fullscreen, slideshow, fit, zoom, print","Rotate, lossy JPEG rotate, annotate TIFF images","Proprietary"
-"Thumbnails (user-defined sizes), fullscreen, slideshow, zoom, fit, view IPTC and Exif info","Resize, crop, rotate, flip, JPEG lossless rotate/flip/crop, adjust exposure and colors etc., filters (sharpen, blur, average, emboss), batch convert, batch rename, edit IPTC info","Proprietary"
-"View as ASCII or hex, magnify, determine pixel values","Crop, pad, resize, rotate, flip, brightness, contrast, gamma, saturation, hue, colormap, reduce colors, dither, convert, and more","Proprietary"
-"Thumbnails (user-defined sizes), fullscreen, histogram, slideshow with transition effects, auto rotation, JPEG lossless rotate, pan, zoom, fit, IPTC and Exif info, GPS support, full Unicode support, free version does not support color profiles","Resize, crop, rotate, flip, JPEG lossless rotate/mirror, adjust exposure, colors, contrast, saturation, hue, white balance, levels, curves, gamma correction, filters (sharpen, blur, soften, edge, emboss, average, grayscale, ...), .8bf (Photoshop) plugins compatibility, color management, batch operations, image conversions with reduced/dithered colors, batch rename, red eye removal, edit ITPC, XMP and Exif info, time creation offset, merge to HDR, PDF presentation, panorama creation, lens correction, anti-vignetting, web picture gallery, DNG/RAW image converter, TWAIN scanners support, send pictures via e-mail, 3D pictures, dynamic calendar generation, support for WIC codecs (RAW processing)","Proprietary"
-"null","null","null"
+"Program","Comic book , URL: /wiki/Comic_book_archive
+","PDF , URL: /wiki/Portable_Document_Format
+","BMP , URL: /wiki/BMP_file_format
+","JPEG , URL: /wiki/JPEG
+","PNG , URL: /wiki/Portable_Network_Graphics
+","TIFF , URL: /wiki/TIFF
+","GIF , URL: /wiki/Graphics_Interchange_Format
+","PSD , URL: /wiki/Adobe_Photoshop#File_format
+","Other graphics file formats , URL: /wiki/Image_file_formats
+"
+"ACDSee , URL: /wiki/ACDSee
+","","","BMP","JPEG","PNG","TIFF","GIF","PSD","EMF , URL: /wiki/Windows_Metafile
+PCX , URL: /wiki/PCX
+PSD , URL: /wiki/Adobe_Photoshop#File_format
+PSP , URL: /wiki/Corel_Paint_Shop_Pro
+WMF , URL: /wiki/Windows_Metafile
+XBM , URL: /wiki/XBM
+"
+"Adobe Bridge , URL: /wiki/Adobe_Bridge
+","","","","","","","","","Adobe Creative Suite , URL: /wiki/Adobe_Creative_Suite
+"
+"Aperture , URL: /wiki/Apple_Aperture
+","","PDF","","JPEG","PNG","TIFF","GIF","PSD","PSD , URL: /wiki/Adobe_Photoshop#File_format
+AVI , URL: /wiki/Audio_Video_Interleave
+MOV , URL: /wiki/.mov
+MPEG , URL: /wiki/MPEG
+"
+"CDisplay , URL: /wiki/CDisplay
+","CBZ, CBR, CBT, CBA","","BMP","JPEG","PNG","","GIF","",""
+"digiKam , URL: /wiki/DigiKam
+","","","BMP","JPEG","PNG","TIFF","GIF","","JPEG 2000 , URL: /wiki/JPEG_2000
+PCX , URL: /wiki/PCX
+WMF , URL: /wiki/Windows_Metafile
+PNM , URL: /wiki/Netpbm_format
+XCF , URL: /wiki/XCF_(file_format)
+XPM , URL: /wiki/X_PixMap
+MPEG , URL: /wiki/MPEG
+MPO , URL: /wiki/Image_file_formats#MPO
+AVI , URL: /wiki/Audio_Video_Interleave
+MOV , URL: /wiki/.mov
+ASF , URL: /wiki/Advanced_Systems_Format
+PGF , URL: /wiki/Portable_Graphics_Format
+"
+"Eye of GNOME , URL: /wiki/Eye_of_GNOME
+","","","BMP","JPEG","PNG","TIFF","GIF","","PNM , URL: /wiki/Netpbm_format
+RAS , URL: /wiki/.ras
+ICO , URL: /wiki/ICO_(file_format)
+XPM , URL: /wiki/X_PixMap
+SVG , URL: /wiki/Scalable_Vector_Graphics
+"
+"F-Spot , URL: /wiki/F-Spot
+","","","","JPEG","PNG","TIFF","GIF","","PPM , URL: /wiki/Portable_pixmap
+SVG , URL: /wiki/Scalable_Vector_Graphics
+"
+"FastPictureViewer , URL: /wiki/Fast_Picture_Viewer
+","","","BMP","JPEG","PNG","TIFF","","PSD","HD Photo , URL: /wiki/HD_Photo
+HDP , URL: /wiki/HD_Photo
+WDP , URL: /wiki/HD_Photo
+JPEG XR , URL: /wiki/HD_Photo
+RLE , URL: /wiki/Run-length_encoding
+DIB , URL: /wiki/Device-independent_bitmap
+ICO , URL: /wiki/ICO_(file_format)
+DjVu , URL: /wiki/DjVu
+TGA , URL: /wiki/Truevision_TGA
+WIC codecs , URL: /wiki/Windows_Imaging_Component
+"
+"FastStone Image Viewer , URL: /wiki/FastStone_Image_Viewer
+","","","BMP","JPEG","PNG","TIFF","GIF","PSD","JPEG 2000 , URL: /wiki/JPEG_2000
+PCX , URL: /wiki/PCX
+WMF , URL: /wiki/Windows_Metafile
+ICO , URL: /wiki/ICO_(file_format)
+CUR , URL: /wiki/ICO_(icon_image_file_format)
+TGA , URL: /wiki/Truevision_TGA
+CRW , URL: /wiki/Raw_image_format
+FAX , URL: /wiki/FAX
+JFIF , URL: /wiki/JFIF
+HEIC , URL: /wiki/High_Efficiency_Image_File_Format
+WEBP , URL: /wiki/WEBP
+"
+"Geeqie , URL: /wiki/Geeqie
+","","PDF","BMP","JPEG","PNG","TIFF","GIF","PSD","ANI , URL: /wiki/ANI_(file_format)
+APM , URL: /wiki/Windows_Metafile
+CUR , URL: /wiki/ICO_(file_format)
+ICNS , URL: /wiki/Apple_Icon_Image_format
+ICO , URL: /wiki/ICO_(file_format)
+JP2/JPC/JPX/J2K/JPF , URL: /wiki/JPEG_2000
+JPS , URL: /wiki/JPEG#JPEG_Stereoscopic
+MPO , URL: /wiki/JPEG#JPEG_Multi-Picture_Format
+PCX , URL: /wiki/PCX
+PBM/PGM/PNM/PPM , URL: /wiki/Netpbm_format
+QuickTime , URL: /wiki/QuickTime
+Sun Raster , URL: /wiki/Sun_Raster
+SVG/SVGZ , URL: /wiki/Scalable_Vector_Graphics
+TGA/TARGA , URL: /wiki/Truevision_TGA
+WBMP , URL: /wiki/Wireless_Application_Protocol_Bitmap_Format
+WMF , URL: /wiki/Windows_Metafile
+XBM , URL: /wiki/X_BitMap
+XPM , URL: /wiki/X_PixMap
+"
+"Gonvisor , URL: /wiki/Gonvisor
+","CBZ, CBR, CBA, CB7","PDF","BMP","JPEG","PNG","","GIF","","Opens images contained in rar, zip, ace and 7zip files."
+"GraphicConverter , URL: /wiki/GraphicConverter
+","","PDF","BMP","JPEG","PNG","TIFF","GIF","PSD","190 types read, 79 types saved"
+"gThumb , URL: /wiki/GThumb
+","","","BMP","JPEG","PNG","TIFF","GIF","",""
+"Gwenview , URL: /wiki/Gwenview
+","","","BMP","JPEG","PNG","TIFF","GIF","PSD","MNG , URL: /wiki/Multiple-image_Network_Graphics
+SVG , URL: /wiki/Scalable_Vector_Graphic
+XCF , URL: /wiki/XCF_(file_format)
+"
+"iPhoto , URL: /wiki/IPhoto
+","","","","JPEG","PNG","","GIF","PSD","QuickTime , URL: /wiki/QuickTime
+"
+"IrfanView , URL: /wiki/IrfanView
+","","PDF","BMP","JPEG","PNG","TIFF","GIF","PSD","PSD , URL: /wiki/Adobe_Photoshop#File_format
+"
+"KSquirrel , URL: /wiki/KSquirrel
+","","","","","","","","","51 types"
+"KPhotoAlbum , URL: /wiki/KPhotoAlbum
+","","","","","","","","","Photo formats supported by KDE; AVI, MPEG, RAW"
+"Lphoto","","","","","","","","","iPhoto Clone"
+"Phase One Media Pro , URL: /wiki/Phase_One_Media_Pro
+","","PDF","","JPEG","PNG","TIFF","GIF","PSD","Supports over 100 file formats for images, videos and documents, including: PSD, IIQ, CR, EIP, DOC"
+"Picasa , URL: /wiki/Picasa
+","","","BMP","JPEG","PNG","TIFF","GIF","","TGA , URL: /wiki/Truevision_TGA
+RAW , URL: /wiki/Raw_image_format
+"
+"Preview , URL: /wiki/Preview_(software)
+","","PDF","BMP","JPEG","PNG","TIFF","GIF","","QuickTime , URL: /wiki/QuickTime
+"
+"Shotwell , URL: /wiki/Shotwell_(software)
+","","","","JPEG","PNG","TIFF","GIF","","RAW , URL: /wiki/Raw_image_format
+"
+"STDU Viewer , URL: /wiki/STDU_Viewer
+","","PDF","BMP","JPEG","PNG","TIFF (multipage)","GIF","PSD","TXT, EMF, WMF, DjVu, XPS"
+"Windows Photo Viewer , URL: /wiki/Windows_Photo_Viewer
+","","","BMP","JPEG","PNG","TIFF","GIF","","WMF , URL: /wiki/Windows_Metafile
+EMF , URL: /wiki/Windows_Metafile
+ICO , URL: /wiki/ICO_(icon_image_file_format)
+"
+"XnView , URL: /wiki/XnView
+","","PDF","BMP","IPTC , URL: /wiki/IPTC
+Exif , URL: /wiki/Exif
+","PNG","TIFF (multipage)","GIF","PSD","FAX , URL: /wiki/FAX
+EPS , URL: /wiki/Encapsulated_PostScript
+WMF , URL: /wiki/Windows_Metafile
+DICOM , URL: /wiki/DICOM
+DPX , URL: /wiki/Digital_Picture_Exchange
+"
+"Xv , URL: /wiki/Xv_(software)
+","","","BMP","JPEG","PNG (with patch)","TIFF","GIF","","PBM , URL: /wiki/Portable_bitmap
+PGM , URL: /wiki/Portable_graymap
+PPM , URL: /wiki/Portable_pixmap
+XPM , URL: /wiki/XPM_(image_format)
+Sun Rasterfile , URL: /wiki/Sun_Raster
+Targa , URL: /wiki/Truevision_TGA
+RGB , URL: /wiki/RGB
+PCX , URL: /wiki/PCX
+FITS , URL: /wiki/FITS
+PostScript , URL: /wiki/PostScript
+"
+"Zoner Photo Studio , URL: /wiki/Zoner_Photo_Studio
+","","","BMP","JPEG","PNG","TIFF","GIF/aGIF","","DCM , URL: /wiki/DICOM
+"
+"Program","Comic book , URL: /wiki/Comic_book_archive
+","PDF , URL: /wiki/Portable_Document_Format
+","BMP , URL: /wiki/BMP_file_format
+","JPEG , URL: /wiki/JPEG
+","PNG , URL: /wiki/Portable_Network_Graphics
+","TIFF , URL: /wiki/TIFF
+","GIF , URL: /wiki/Graphics_Interchange_Format
+","PSD , URL: /wiki/Adobe_Photoshop#File_format
+","Other graphics file formats , URL: /wiki/Image_file_formats
+"

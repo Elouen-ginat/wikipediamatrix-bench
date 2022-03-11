@@ -1,41 +1,22 @@
-"null","null","null","null","null","null","null","null","null"
-"Viewer(s)","No","Yes","Yes","No","No","Yes","Yes","Google Earth Plugin, KML, WMS"
-"Viewer(s)","No","Yes","No","Yes","No","No","Yes","No"
-"Viewer(s)","No","Yes","No","No","No","No","Yes","No"
-"Yes","Yes","Yes","No","No","No","No","No","No"
-"Yes","Yes","Yes","Yes","Yes","Yes","Yes","AMP","No"
-"Yes","Yes","Java","Java","Java","Java","Java","Yes","No"
-"Viewers & Plug-ins","No","Yes","No","No","No","No","Yes","No"
-"Trial","No","Yes","No","Yes","Yes","No","Yes","Traffic, WMS, ADAS, Routing"
-"Yes","Yes","Java","Java","Java","Java","Java","Yes","No"
-"Yes","Yes","Java","Java","Java","Java","Java","Java","No"
-"Yes","Yes","Java","Java","Java","Java","Java","No","No"
-"Yes","Yes","Yes","Yes","Yes","Yes","Yes","via pyWPS[1]","No"
-"Yes","Yes","Java","Java","Java","Java","Java","No","No"
-"No","No","Yes","No","No","No","No","No","No"
-"Yes","Yes","Yes","No","No","No","No","No","No"
-"Viewer(s)","No","Yes","No","No","No","CLIX","Yes","KML"
-"Yes","Yes","Java","Java","Java","Java","Java","No","No"
-"Yes","Yes","Java","Java","Java","Java","Java","No","No"
-"No","No","Java","Java","Java","Java","Java","No","No"
-"No","No","Yes","No","No","No","No","Yes","null"
-"No","No","Yes","No","No","No","No","Yes","No"
-"Discontinued","No","Yes","No","No","No","No","Yes","No"
-"Viewer(s)","No","Yes","No","No","No","Yes","Yes","No"
-"Yes","Yes","Yes","Yes","Yes","Yes","Yes","AMP","No"
-"No","No","Yes","No","No","No","No","Yes","No"
-"Yes","Yes","Yes","No","No","No","No","No","No"
-"No","No","Yes","Yes","Yes","No","Yes","Yes","No"
-"Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
-"Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Google Earth Plugin, KML, WMS"
-"No","No","Yes","No","No","No","No","No","No"
-"No","No","Yes","No","No","No","No","No","No"
-"Yes","Yes","Yes","Yes","Yes","Yes","No","No","KLM"
-"Free Trial","No","No","No","Yes","No","No","Yes","No"
-"No","Yes","Yes","No","Yes","No","Yes","Read-only","OLE, XML, Multiuser, Utility Data Model, Data Translator export/import"
-"Yes","Yes","Yes","No","Yes","No","Solaris","No","No"
-"Yes","Yes","Yes","No","Yes","No","No","No","No"
-"Viewer(s)","No","Yes","Yes","Yes","No","Yes","No","No"
-"No","No","Yes","No","No","No","No","No","No"
-"Yes","Yes","Java","Java","Java","Java","Java","No","No"
-"null","null","null","null","null","null","null","null","null"
+"Name","Language","WMS , URL: /wiki/Web_Map_Service
+","WFS , URL: /wiki/Web_Feature_Service
+","WFS-T","WCS , URL: /wiki/Web_Coverage_Service
+","WMC , URL: /w/index.php?title=Web_Map_Context&action=edit&redlink=1
+","SLD , URL: /wiki/Styled_Layer_Descriptor
+","FES , URL: /w/index.php?title=Filter_Encoding_Specification&action=edit&redlink=1
+","Other"
+"ArcGIS Server , URL: /wiki/ArcGIS_Server
+",".NET/Java","Yes","Yes","Yes","Yes","No","Yes","No","KML , URL: /wiki/Keyhole_Markup_Language
+"
+"MapServer , URL: /wiki/MapServer
+","C","Yes","Yes","No","Yes","Yes","Yes","Yes",""
+"Deegree , URL: /wiki/Deegree
+","Java","Yes","Yes","Yes","Yes","No","Yes","Yes",""
+"GeoServer , URL: /wiki/GeoServer
+","Java","Yes","Yes","Yes","Yes","Yes","Yes","Yes",""
+"MapDotNet , URL: /wiki/MapDotNet
+","C#/.NET","Yes","No","No","No","No","No","No","SOAP and REST feature and map services"
+"Manifold System , URL: /wiki/Manifold_System
+","ASP C#","Yes","Yes","No","No","No","No","No","client and server"
+"GeoMedia WebMap , URL: /wiki/Hexagon_Geospatial
+","ASP C#","Yes","Yes","Yes","Yes","No","?","No",""

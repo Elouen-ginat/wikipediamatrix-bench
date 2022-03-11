@@ -1,0 +1,39 @@
+"Model","Code name , URL: /wiki/Code_name
+","Fab (nm)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Boost clock (MHz)","L2 , URL: /wiki/GPU_cache
+","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","Memory","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","TDP , URL: /wiki/Thermal_design_power
+","Notes"
+"Model","Code name , URL: /wiki/Code_name
+","Fab (nm)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Boost clock (MHz)","L2 , URL: /wiki/GPU_cache
+","Core config1","Pixel (GP/s)","Texture (GT/s)","Size (GB)","Bandwidth (GB/s)","Memory clock (MHz)","Bus type","Bus width (bit)","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Half , URL: /wiki/Half-precision_floating-point_format
+","Double precision , URL: /wiki/Double_precision_floating-point_format
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","Vulkan , URL: /wiki/Vulkan_(API)
+","OpenCL , URL: /wiki/OpenCL
+","CUDA , URL: /wiki/CUDA
+","TDP , URL: /wiki/Thermal_design_power
+","Notes"
+"Quadro T1000[306]","TU117(N19P-Q1-A1)","12","PCIe 3.0","1395","1455","1","768:48:32:12:1536","46.56","69.84","4","128","2000","GDDR5","128","2235","","69.84","12.1","4.6","1.2","3.0","7.5","40-50",""
+"Quadro T2000[306]","TU117(N19P-Q3-A1)","12","PCIe 3.0","1575","1785","1","1024:64:32:16:2048","57.1","114.2","4","128","","GDDR5","128","3500","","","12.1","4.6","1.2","3.0","7.5","60",""
+"Quadro T2000 Max-Q","TU117","12","PCIe 3.0","","","1","1024:64:32:16:2048","","","4","128","","GDDR5","128","","","","12.1","4.6","1.2","3.0","7.5","40",""
+"Quadro RTX 3000[306]","TU106(N19E-Q1-KA-K1)","12","PCIe 3.0","945","1380","4","2304:144:48:36:288","88.32","198.7","6","448","1750","GDDR6","256","6359","12720","198.7","12.1","4.6","1.2","3.0","7.5","60-80",""
+"Quadro RTX 3000 Max-Q[307]","TU106","12","PCIe 3.0","600","1215","4","2304:144:48:36:288","77.76","175.0","6","416","1625","GDDR6","256","5599","11200","175.0","12.1","4.6","1.2","3.0","7.5","60",""
+"Quadro RTX 4000[306]","TU104(N19E-Q3-A1)","12","PCIe 3.0","1110","1560","4","2560:160:64:40:320","99.84","249.6","8","448","1750","GDDR6","256","7987","15970","249.6","12.1","4.6","1.2","3.0","7.5","110",""
+"Quadro RTX 4000 Max-Q[308]","TU104","12","PCIe 3.0","780","1380","4","2560:160:64:40:320","88.32","220.8","8","416","1625","GDDR6","256","7066","14130","220.8","12.1","4.6","1.2","3.0","7.5","80",""
+"Quadro RTX 5000[306]","TU104(N19E-Q5-A1)","12","PCIe 3.0","","","4","3072:192:64:48:384","98.88","296.6","16","448","1750","GDDR6","256","9492","18980","296.6","12.1","4.6","1.2","3.0","7.5","110",""
+"Quadro RTX 5000 Max-Q[309]","TU104","12","PCIe 3.0","600","1350","4","3072:192:64:48:384","86.40","259.2","16","448","1750","GDDR6","256","8294","15970","259.2","12.1","4.6","1.2","3.0","7.5","80",""

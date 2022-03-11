@@ -1,10 +1,84 @@
-"null","null","null","null","null"
-".a, .ar","application/x-archive","Unix Archiver","Unix-like","The traditional archive format on Unix-like systems, now used mainly for the creation of static libraries."
-".cpio","application/x-cpio","cpio","Unix-like","RPM files consist of metadata concatenated with (usually) a cpio archive. Newer RPM systems also support other archives, as cpio is becoming obsolete. cpio is also used with initramfs."
-".shar","application/x-shar","Shell archive","Unix-like","A self-extracting archive that uses the Bourne shell (sh)."
-".LBR","",".LBR","CP/M DOS","A system for storing multiple files. LBR archives typically contained files processed by SQ, or the archive itself was compressed with SQ. LBR archives that were compressed with SQ ended with the extension .LQR"
-".iso","application/x-iso9660-image","ISO-9660 image","(Various; cross platform)","An archive format originally used mainly for archiving and distribution of the exact, nearly-exact, or custom-modified contents of an optical storage medium such as a CD-ROM or DVD-ROM. However, it can be used to archive the contents of other storage media, selected partitions, folders, and/or files. The resulting archive is typically optimized for convenient rendering to (re-)writable CD or DVD media."
-".lbr","","","Commodore 64/128","A library format used primarily on the Commodore 64 and 128 lines of computers. This bears no resemblance to the DOS LBR format. While library files were quick to implement (a number of programs exist to work with them) they are crippled in that they cannot grow with use: once a file has been created it cannot be amended (files added, changed or deleted) without recreating the entire file."
-".mar","","Mozilla ARchive","(Various; cross platform)","An archive format used by Mozilla for storing binary diffs. Used in conjunction with bzip2."
-".sbx","application/x-sbx","SeqBox","(Various; cross platform)","A single file container/archive that can be reconstructed even after total loss of file system structures."
-".tar","application/x-tar","Tape archive","Unix-like","A common archive format used on Unix-like systems. Generally used in conjunction with compressors such as gzip, bzip2, compress or xz to create .tar.gz, .tar.bz2, .tar.Z or tar.xz files."
+"File extension , URL: /wiki/File_extension
+","MIME , URL: /wiki/MIME
+","Official name[3]","Platform[4]","Description"
+".bz2","application/x-bzip2","bzip2 , URL: /wiki/Bzip2
+","Unix-like","open source , URL: /wiki/Open-source_license
+patent , URL: /wiki/Patent
+royalty , URL: /wiki/Royalties
+Burrows–Wheeler transform , URL: /wiki/Burrows%E2%80%93Wheeler_transform
+move-to-front transform , URL: /wiki/Move-to-front_transform
+Huffman coding , URL: /wiki/Huffman_coding
+"
+".F, .?XF[5]","","[1] , URL: http://www.ibiblio.org/pub/Linux/utils/compress/freeze-2.5.0.tar.gz
+","QNX , URL: /wiki/QNX
+Unix-like , URL: /wiki/Unix-like
+DOS , URL: /wiki/DOS
+","LZSS , URL: /wiki/LZSS
+Huffman coding , URL: /wiki/Huffman_coding
+"
+".gz","application/gzip[6]","gzip , URL: /wiki/Gzip
+","Unix-like","GNU , URL: /wiki/GNU
+Unix-like , URL: /wiki/Unix-like
+Deflate , URL: /wiki/Deflate
+LZSS , URL: /wiki/LZSS
+Huffman coding , URL: /wiki/Huffman_coding
+"
+".lz","application/x-lzip","lzip , URL: /wiki/Lzip
+","Unix-like","LZMA , URL: /wiki/LZMA
+"
+".lz4","","LZ4 , URL: /wiki/LZ4_(compression_algorithm)
+","Unix-like","LZ77 , URL: /wiki/LZ77
+entropy encoding , URL: /wiki/Entropy_encoding
+"
+".lzma","application/x-lzma","lzma , URL: /wiki/LZMA
+","Unix-like","LZMA , URL: /wiki/LZMA
+7-Zip , URL: /wiki/7-Zip
+"
+".lzo","application/x-lzop","lzop , URL: /wiki/Lzop
+","Unix-like","LZO , URL: /wiki/Lempel%E2%80%93Ziv%E2%80%93Oberhumer
+"
+".rz","","rzip , URL: /wiki/Rzip
+","Unix-like","A compression program designed to do particularly well on very large files containing long distance redundancy."
+".sfark","","sfArk , URL: /w/index.php?title=SfArk&action=edit&redlink=1
+","Windows , URL: /wiki/Microsoft_Windows
+Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+","SoundFont , URL: /wiki/SoundFont
+"
+".sz","application/x-snappy-framed","Snappy , URL: /wiki/Snappy_(compression)
+","Unix-like","Google , URL: /wiki/Google
+Snappy , URL: /wiki/Snappy_(compression)
+LZ77 , URL: /wiki/LZ77
+entropy encoding , URL: /wiki/Entropy_encoding
+"
+".?Q?","","SQ , URL: /wiki/SQ_(program)
+","CP/M , URL: /wiki/CP/M
+DOS , URL: /wiki/DOS
+","Huffman coding , URL: /wiki/Huffman_coding
+"
+".?Z?","","CRUNCH , URL: /w/index.php?title=CRUNCH_(program)&action=edit&redlink=1
+","CP/M , URL: /wiki/CP/M
+DOS , URL: /wiki/DOS
+","A compression program written by Steven Greenberg implementing the LZW algorithm. For several years in the CP/M world when no implementation was available of ARC, CRUNCHed files stored in .LBR archives were very popular. CRUNCH's implementation of LZW had a somewhat unusual feature of modifying and occasionally clearing the code table in memory when it became full, resulting in a few percent better compression on many files."
+".xz","application/x-xz","xz , URL: /wiki/XZ_Utils
+","Unix-like","LZMA2 , URL: /wiki/LZMA2
+LZ77 , URL: /wiki/LZ77
+entropy encoding , URL: /wiki/Entropy_encoding
+range encoding , URL: /wiki/Range_encoding
+"
+".z","application/x-compress","pack , URL: /wiki/Pack_(compression)
+","Unix-like","Huffman coding , URL: /wiki/Huffman_coding
+"
+".Z","application/x-compress","compress , URL: /wiki/Compress
+","Unix-like","LZW , URL: /wiki/LZW
+"
+".zst","application/zstd","Zstandard , URL: /wiki/Zstandard
+","Cross-platform , URL: /wiki/Cross-platform
+","Facebook , URL: /wiki/Facebook
+LZ77 , URL: /wiki/LZ77
+entropy encoding , URL: /wiki/Entropy_encoding
+Finite State Entropy , URL: /wiki/Finite_State_Entropy
+Huffman coding , URL: /wiki/Huffman_coding
+"
+".??_","","","MS-DOS/Windows","LZSS , URL: /wiki/LZSS
+"

@@ -1,0 +1,21 @@
+"BitTorrent library","Protocol version","Super-seeding , URL: /wiki/Super-seeding
+","Tracker , URL: /wiki/BitTorrent_tracker
+","UPnP , URL: /wiki/Universal_Plug_and_Play
+","NAT Port Mapping Protocol , URL: /wiki/NAT_Port_Mapping_Protocol
+","NAT traversal , URL: /wiki/NAT_traversal
+","DHT , URL: /wiki/Distributed_hash_table
+","Peer exchange , URL: /wiki/Peer_exchange
+","Encryption , URL: /wiki/BitTorrent_protocol_encryption
+","UDP tracker , URL: /wiki/UDP_tracker
+","LPD , URL: /wiki/Local_Peer_Discovery
+","Fast extensions , URL: /w/index.php?title=Fast_extensions&action=edit&redlink=1
+","Magnet URI , URL: /wiki/Magnet_URI
+","μTP , URL: /wiki/Micro_Transport_Protocol
+"
+"libtorrent , URL: /wiki/Libtorrent
+","1, 2[90]","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[91]","Yes","Yes","Yes[92]"
+"MonoTorrent , URL: /wiki/MonoTorrent
+","1","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"rTorrent , URL: /wiki/RTorrent
+","1","Yes","Yes","No","?","?","Yes","Yes","Yes","Yes","?","No","Yes","No"
+"BitTorrent library","Protocol version","Super-seeding","Tracker","UPnP","NAT Port Mapping Protocol","NAT traversal","DHT","Peer exchange","Encryption","UDP tracker","LPD","Fast extensions","Magnet URI","μTP"

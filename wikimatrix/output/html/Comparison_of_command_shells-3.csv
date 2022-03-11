@@ -1,0 +1,60 @@
+"Shell","Functions , URL: /wiki/Subroutine
+","Exception handling , URL: /wiki/Exception_handling
+","Search & replace on variable substitutions","Arithmetic , URL: /wiki/Arithmetic
+","Floating point , URL: /wiki/Floating_point
+","Math function library","Linear arrays , URL: /wiki/Array_data_type
+lists , URL: /wiki/List_(abstract_data_type)
+","Associative arrays , URL: /wiki/Associative_array
+","Lambda functions , URL: /wiki/Lambda_calculus
+","eval function , URL: /wiki/Eval
+","Pseudorandom number generation , URL: /wiki/Pseudorandom_number_generator
+","Bytecode , URL: /wiki/Bytecode
+"
+"Bourne shell , URL: /wiki/Bourne_shell
+","No","Yes (via trap)","No","No","No","No","No","No","No","Yes","No","No"
+"Bourne shell , URL: /wiki/Bourne_shell
+","Yes since SVR2","Yes (via trap)","No","Yes[nb 8]","No","No","No","No","No","Yes","No","No"
+"POSIX , URL: /wiki/POSIX
+","Yes","Yes (via trap)","No","Yes","No","No","No","No","No","Yes","No","No"
+"bash , URL: /wiki/Bash_(Unix_shell)
+","Yes","Yes (via trap)","Yes (via ${//} syntax)","Yes","No","No","Yes","Yes","No","Yes","Yes ( $RANDOM)","No"
+"csh , URL: /wiki/C_shell
+","No","No","Yes (via $var:s/// syntax)","Yes","No","No","Yes","No","No","Yes","No","No"
+"tcsh , URL: /wiki/Tcsh
+","No","No","Yes (via $var:s/// syntax)","Yes","No","No","Yes","No","No","Yes","No","No"
+"Hamilton C shell , URL: /wiki/Hamilton_C_shell
+","Yes","No","Yes (via $var:s/// syntax)","Yes","Yes","Yes","Yes","No","No","Yes","Yes (random utility)","No"
+"Scsh , URL: /wiki/Scsh
+","Yes","?","Yes (via string functions and regular expressions)","?","?","?","Yes","?","Yes","Yes","Yes (random-integer, random-real)","Yes (compiler is Scheme48 virtual machine, via scshvm)"
+"ksh , URL: /wiki/Korn_Shell
+","Yes","Yes (via trap)","Yes (via ${//} syntax and builtin commands)","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes ( $RANDOM)","Yes (compiler is called shcomp)"
+"pdksh , URL: /wiki/Pdksh
+","Yes","Yes (via trap)","No","Yes","No","No","Yes","No","No","Yes","Yes ( $RANDOM)","No"
+"zsh , URL: /wiki/Zsh
+","Yes","Yes","Yes (via ${:s//} and ${//} syntax)","Yes","Yes","Yes ( zsh/mathfunc module)","Yes","Yes","No","Yes","Yes ( $RANDOM)","Yes (built-in zcompile command)"
+"ash , URL: /wiki/Almquist_shell
+","Yes","Yes (via trap)","No","Yes (since 1992)[52]","No","No","No","No","No","Yes","No","No"
+"CCP , URL: /wiki/CCP_(CP/M)
+","No","?","No","No","?","?","No","No","No","No","No","No"
+"COMMAND.COM , URL: /wiki/COMMAND.COM
+","No","Partial (only Auto-fail (via COMMAND /F (or /N in some versions of DR-DOS))","No","No","No","No","No","No","No","No","No","No"
+"CMD.EXE , URL: /wiki/CMD.EXE
+","No","No","No","?","No","No","?","No","No","No","No","No"
+"CMD.EXE , URL: /wiki/CMD.EXE
+","Yes (via CALL :label)","No","Yes (via SET %varname:expression syntax)","Yes (via SET /A)[53]","No","No","Yes (via SET[54])","No","No","No","Yes ( %random%)","No"
+"4DOS , URL: /wiki/4DOS
+","Yes","Yes (via ON command, optional Auto-fail via 4DOS /F)","Yes (via %@Replace[...] function)","Yes (via SET /A)","?","?","Yes (via ranges, include lists, @file lists and FOR command)","No","No","Yes","Yes ( %@Random[...] function)","Yes (via BATCOMP command)"
+"4OS2 , URL: /wiki/4OS2
+","?","?","?","?","?","?","?","?","No","Yes","Yes ( %@Random[...] function)","?"
+"TCC , URL: /wiki/Take_Command_Console
+","Yes","Yes (via ON and various ...MONITOR commands)","Yes (via %@Replace[...] function)","Yes (via SET /A)","?","?","Yes (via ranges, include lists, @file lists and FOR command)","?","No","Yes","Yes ( %@Random[...] function)","Yes (via BATCOMP command)"
+"PowerShell , URL: /wiki/Windows_PowerShell
+","Yes","Yes (Try-Catch-Finally)","Yes ( -replace operator)","Yes","Yes","[Math] class[55]","Yes","Yes","Yes","Yes","Yes","Yes, automatic"
+"rc , URL: /wiki/Rc
+","Yes","Yes","No","?","?","?","Yes","?","No","Yes","No","No"
+"BeanShell , URL: /wiki/BeanShell
+","Yes","Yes","?","Yes","?","?","Yes","Yes","No","Yes","Yes","Yes"
+"VMS DCL , URL: /wiki/DIGITAL_Command_Language
+","Yes","Yes","No","Yes","No","yes, for compiled programs","Yes","No","No","No","No","No"
+"fish , URL: /wiki/Friendly_interactive_shell
+","Yes","Yes (via trap)","Yes, via string builtin command[56]","Yes","Yes","Yes","Yes","No","No","Yes","Yes ( random)","No"

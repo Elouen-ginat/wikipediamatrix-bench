@@ -1,0 +1,90 @@
+"Codename , URL: /wiki/Codename
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","Memory","Memory","Memory","Memory","W , URL: /wiki/Watt
+","Bus interface"
+"Codename , URL: /wiki/Codename
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors Die Size","Config[e]","MHz , URL: /wiki/Hertz
+","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","Single , URL: /wiki/Single_precision_floating-point_format
+","Double , URL: /wiki/Double_precision_floating-point_format
+","Bus type & width","MiB , URL: /wiki/Mebibyte
+","MT/s , URL: /wiki/Transfer_(computing)
+","GB , URL: /wiki/Gigabyte
+","W , URL: /wiki/Watt
+","Bus interface"
+"Radeon R5 330 (Oland Pro)","May 2015 OEM","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","1040×106 90 mm2","320:20:8","Unknown 855","17.1","6.84","547.2","34.2","DDR3 128-bit","1024 2048","1800","28.8","30","PCIe 3.0 ×16"
+"Radeon R5 340 (Oland XT)","May 2015 OEM","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","1040×106 90 mm2","384:24:8","Unknown 825","19.8","6.6","633.6","39.6","DDR3 GDDR5 128-bit","1024 2048","1800 4500","72","75","PCIe 3.0 ×16"
+"Radeon R7 340 (Oland XT)","May 2015 OEM","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","1040×106 90 mm2","384:24:8","730 780","17.5 18.7","5.8 6.2","560.6 599","32.7 35","DDR3 GDDR5 128-bit","1024 2048 4096","1800 4500","72","75","PCIe 3.0 ×16"
+"Radeon R5 340X[53] (Oland XT)","May 2015 OEM","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","1040×106 90 mm2","384:24:8","1050","25.2","8.4","806","50.4","DDR3 64-bit","2048","2000","16","30","PCIe 3.0 ×16"
+"Radeon R7 350 (Oland XT)","May 2015 OEM","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","1040×106 90 mm2","384:24:8","1000 1050","24 25.2","8 8.4","768 806.4","48 50.4","DDR3 GDDR5 128-bit","1024 2048","1800 4500","72","75","PCIe 3.0 ×16"
+"Radeon R7 350 [54] (Cape Verde XTL)","February 2016 $89 USD","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","1500×106 123 mm2","512:32:16","925","29.6","14.8","947.2","59.2","GDDR5 128-bit","2048","4500","72","75","PCIe 3.0 ×16"
+"Radeon R7 350X[55] (Oland XT)","May 2015 OEM","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","1040×106 90 mm2","384:24:8","1050","25.2","8.4","806","50.4","DDR3 128-bit","4096","2000","32","30","PCIe 3.0 ×16"
+"Radeon R7 360[56][57] (Bonaire Pro)","June 2015 $109 USD","GCN 2nd gen , URL: /wiki/Graphics_Core_Next#second
+","2080×106 160 mm2","768:48:16","1050","50.4","16.8","1612.8","100.8","GDDR5 128-bit","2048","6500","104","100","PCIe 3.0 ×16"
+"Radeon R9 360 (Bonaire Pro)","May 2015 OEM","GCN 2nd gen , URL: /wiki/Graphics_Core_Next#second
+","2080×106 160 mm2","768:48:16","1000 1050","48 50.4","16 16.8","1536 1612.8","96 100.8","GDDR5 128-bit","2048","6500","104","85","PCIe 3.0 ×16"
+"Radeon R7 370[56] (Pitcairn Pro)","June 2015 $149 USD","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","2800×106 212 mm2","1024:64:32","975","62.4","31.2","1996.8","124.8","GDDR5 256-bit","2048 4096","5600","179.2","110","PCIe 3.0 ×16"
+"Radeon R9 370 (Pitcairn Pro)","May 2015 OEM","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","2800×106 212 mm2","1024:64:32","950 975","60.8 62.4","30.4 31.2","1945.6 1996.8","121.6 124.8","GDDR5 256-bit","2048 4096","5600","179.2","150","PCIe 3.0 ×16"
+"Radeon R9 370X (Pitcairn XT)","August 2015 $179 USD","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","2800×106 212 mm2","1280:80:32","1000","80","32","2560","160","GDDR5 256-bit","2048 4096","5600","179.2","185","PCIe 3.0 ×16"
+"Radeon R9 380 (Tonga Pro)","May 2015 OEM","GCN 3rd gen , URL: /wiki/Graphics_Core_Next#third
+","5000×106 359 mm2","1792:112:32","918","102.8","29.4","3290","206.6","GDDR5 256-bit","4096","5500","176","190","PCIe 3.0 ×16"
+"Radeon R9 380[58] (Tonga Pro)","June 2015 $199 USD","GCN 3rd gen , URL: /wiki/Graphics_Core_Next#third
+","5000×106 359 mm2","1792:112:32","970","108.6","31.0","3476.5","217.3","GDDR5 256-bit","2048 4096","5700","182.4[f]","190","PCIe 3.0 ×16"
+"Radeon R9 380X[58] (Tonga XT)","November 2015 $229 USD","GCN 3rd gen , URL: /wiki/Graphics_Core_Next#third
+","5000×106 359 mm2","2048:128:32","970","124.2","31.0","3973.1","248.3","GDDR5 256-bit","4096","5700","182.4","190","PCIe 3.0 ×16"
+"Radeon R9 390[58] (Grenada Pro)","June 2015 $329 USD","GCN 2nd gen , URL: /wiki/Graphics_Core_Next#second
+","6200×106 438 mm2","2560:160:64","1000","160","64","5120","640","GDDR5 512-bit","8192","6000","384","275","PCIe 3.0 ×16"
+"Radeon R9 390X[58] (Grenada XT)","June 2015 $429 USD","GCN 2nd gen , URL: /wiki/Graphics_Core_Next#second
+","6200×106 438 mm2","2816:176:64","1050","184.8","67.2","5913.6","739.2","GDDR5 512-bit","8192","6000","384","275","PCIe 3.0 ×16"
+"Radeon R9 Fury[59] (Fiji Pro)","July 2015 $549 USD","GCN 3rd gen , URL: /wiki/Graphics_Core_Next#third
+","8900×106 596 mm2","3584:224:64","1000","224","64","7168","448","HBM , URL: /wiki/High_Bandwidth_Memory
+","4096","1000","512","275","PCIe 3.0 ×16"
+"Radeon R9 Nano[60] (Fiji XT)","August 2015 $649 USD","GCN 3rd gen , URL: /wiki/Graphics_Core_Next#third
+","8900×106 596 mm2","4096:256:64","1000","256","64","8192","512","HBM , URL: /wiki/High_Bandwidth_Memory
+","4096","1000","512","175","PCIe 3.0 ×16"
+"Radeon R9 Fury X[58][61] (Fiji XT)","June 2015 $649 USD","GCN 3rd gen , URL: /wiki/Graphics_Core_Next#third
+","8900×106 596 mm2","4096:256:64","1050","268.8","67.2","8601.6","537.6","HBM , URL: /wiki/High_Bandwidth_Memory
+","4096","1000","512","275","PCIe 3.0 ×16"
+"Radeon Pro Duo[62][63][64][65] (Fiji XT)","April 2016 $1499 USD","GCN 3rd gen , URL: /wiki/Graphics_Core_Next#third
+","2× 8900×106 2× 596 mm2","2× 4096:256:64","1000","512","128","16384","1024","HBM , URL: /wiki/High_Bandwidth_Memory
+","2× 4096","1000","2× 512","350","PCIe 3.0 ×16"
+"Codename , URL: /wiki/Codename
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors Die Size","Config[e]","MHz , URL: /wiki/Hertz
+","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","Single , URL: /wiki/Single_precision_floating-point_format
+","Double , URL: /wiki/Double_precision_floating-point_format
+","Bus type & width","MiB , URL: /wiki/Mebibyte
+","MT/s , URL: /wiki/Transfer_(computing)
+","GB , URL: /wiki/Gigabyte
+","W , URL: /wiki/Watt
+","Bus interface"
+"Codename , URL: /wiki/Codename
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","Memory","Memory","Memory","Memory","W , URL: /wiki/Watt
+","Bus interface"

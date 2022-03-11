@@ -1,0 +1,18 @@
+"Other software","Windows , URL: /wiki/Microsoft_Windows
+","Linux , URL: /wiki/Linux
+","OS X , URL: /wiki/OS_X
+","Other"
+"ADCCore","Yes","?","?","Any .NET4 enabled platform"
+"DCBouncer","Yes","Yes","No","No"
+"DC-Hublink","Yes","No","No","No"
+"DCWatch","Yes","Yes","No","No"
+"Embla","Yes","Yes","Yes","Java , URL: /wiki/Java_(programming_language)
+"
+"FlowLib","Yes","Yes","Yes","C# , URL: /wiki/C_Sharp_(programming_language)
+"
+"NetChatLink","Yes","No","No","Wine , URL: /wiki/Wine_(software)
+"
+"Announcer Bot","Yes","No","No","No"
+"Certmanager","Yes","No","No","No"
+"SerieBot","Yes","Yes","Yes","Any C# enabled platform"
+"Other software","Windows","Linux","OS X","Other"

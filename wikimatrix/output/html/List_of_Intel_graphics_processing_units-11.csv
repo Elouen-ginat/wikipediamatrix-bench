@@ -1,0 +1,82 @@
+"Graphics","Launch","PowerVR core","Market","Chipset , URL: /wiki/List_of_Intel_chipsets
+","Code name","Device id.","clock , URL: /wiki/Clock_rate
+MHz , URL: /wiki/Hertz
+","Pixel pipelines , URL: /wiki/Pixel_pipelines
+","Shader , URL: /wiki/Shader
+vertex , URL: /wiki/Vertex_shader
+pixel , URL: /wiki/Pixel_shader
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","Memory bandwidth , URL: /wiki/Memory_bandwidth
+GB/s , URL: /wiki/Gigabyte_per_second
+","DVMT , URL: /wiki/Dynamic_video_memory_technology
+MB , URL: /wiki/Megabyte
+","Hardware acceleration","Hardware acceleration","Hardware acceleration"
+"Graphics","Launch","PowerVR core","Market","Chipset , URL: /wiki/List_of_Intel_chipsets
+","Code name","Device id.","clock , URL: /wiki/Clock_rate
+MHz , URL: /wiki/Hertz
+","Pixel pipelines , URL: /wiki/Pixel_pipelines
+","Shader , URL: /wiki/Shader
+vertex , URL: /wiki/Vertex_shader
+pixel , URL: /wiki/Pixel_shader
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","OpenCL , URL: /wiki/OpenCL
+","Memory bandwidth , URL: /wiki/Memory_bandwidth
+GB/s , URL: /wiki/Gigabyte_per_second
+","DVMT , URL: /wiki/Dynamic_video_memory_technology
+MB , URL: /wiki/Megabyte
+","MPEG-2 , URL: /wiki/H.262/MPEG-2_Part_2
+","VC-1 , URL: /wiki/VC-1
+","AVC , URL: /wiki/H.264/MPEG-4_AVC
+"
+"GMA 500","2008","SGX535","CE , URL: /wiki/Intel_Consumer_Electronics
+","CE3100 Atom Z520","Canmore , URL: /wiki/Canmore_(SoC)
+","2E5B","?","2[95]","3.0","9.0c","2.0","—","4.2","256","Full","Full","Full"
+"GMA 500","2009","SGX535","CE , URL: /wiki/Intel_Consumer_Electronics
+","Atom CE4100","Sodaville , URL: /wiki/Sodaville_(SoC)
+","2E5B","?","2[95]","3.0","9.0c","2.0","—","4.2","256","Full","Full","Full"
+"GMA 500","2009","SGX535","CE , URL: /wiki/Intel_Consumer_Electronics
+","Atom CE4110","Sodaville , URL: /wiki/Sodaville_(SoC)
+","2E5B","","2[95]","3.0","9.0c","2.0","—","4.2","256","Full","Full","Full"
+"GMA 500","2009","SGX535","CE , URL: /wiki/Intel_Consumer_Electronics
+","Atom CE4130","Sodaville , URL: /wiki/Sodaville_(SoC)
+","2E5B","","2[95]","3.0","9.0c","2.0","—","4.2","256","Full","Full","Full"
+"GMA 500","2009","SGX535","CE , URL: /wiki/Intel_Consumer_Electronics
+","Atom CE4150","Sodaville , URL: /wiki/Sodaville_(SoC)
+","2E5B","","2[95]","3.0","9.0c","2.0","—","4.2","256","Full","Full","Full"
+"GMA 500","2009","SGX535","CE , URL: /wiki/Intel_Consumer_Electronics
+","Atom CE4170","Sodaville , URL: /wiki/Sodaville_(SoC)
+","2E5B","","2[95]","3.0","9.0c","2.0","—","4.2","256","Full","Full","Full"
+"GMA 500","2010","SGX535","CE , URL: /wiki/Intel_Consumer_Electronics
+","Atom CE4200","Groveland , URL: /wiki/Groveland_(SoC)
+","2E5B","?","2[95]","3.0","9.0c","2.0","—","4.2","256","Full","Full","Full"
+"GMA 500","2008","SGX535","MID , URL: /wiki/Mobile_Internet_Devices
+","UL11L","Poulsbo , URL: /wiki/Poulsbo_chipset
+","8108 8109","100","2[95]","3.0","9.0c","2.0","—","4.2","256","Full","Full","Full"
+"GMA 500","2008","SGX535","MID , URL: /wiki/Mobile_Internet_Devices
+","US15L","Poulsbo , URL: /wiki/Poulsbo_chipset
+","8108 8109","","2[95]","3.0","9.0c","2.0","—","4.2","256","Full","Full","Full"
+"GMA 500","2008","SGX535","MID , URL: /wiki/Mobile_Internet_Devices
+","US15W","Poulsbo , URL: /wiki/Poulsbo_chipset
+","8108 8109","","2[95]","3.0","9.0c","2.0","—","4.2","256","Full","Full","Full"
+"GMA 600","2010","SGX535","MID","Atom Z6xx","Lincroft , URL: /wiki/Intel_Atom
+Moorestown , URL: /wiki/Moorestown_(computing_platform)
+","4102","400[96]","2","3.0","9.0c","2.0","—","6.4","759","Full","Full","Full"
+"GMA","2012","SGX540","Smartphone , URL: /wiki/Smartphone
+","Atom , URL: /wiki/Atom_(system_on_chip)
+","Penwell , URL: /wiki/Penwell_(SoC)
+Medfield , URL: /wiki/Mobile_Internet_device#Medfield_platform_(2012)
+","?","400[97]","4","—","—","ES 2.0","—","6.4","1024","Full","Full","Full"
+"GMA 3600","2011","SGX545","Nettop Netbook","Atom D2500 Atom N2600","Cedarview , URL: /wiki/Intel_Atom
+","0BE0 0BE1 0BE2 0BE3","400[98]","4","3.0","9.0c","3.0","—","8.5 6.4","1024[99]","Full","Full","Full"
+"GMA 3650","2011","SGX545","Nettop Netbook","Atom D2700 Atom N2800","Cedarview , URL: /wiki/Intel_Atom
+","0BE0 0BE1 0BE2 0BE3","640[98]","4","3.0","9.0c","3.0","—","","1024[99]","Full","Full","Full"
+"GMA","2012","SGX545","Tablet , URL: /wiki/Tablet_computer
+","Atom Z2760","Cloverview , URL: /wiki/Atom_(system_on_chip)
+","08C7 08C8 08C9 08CA 08CB 08CC 08CD 08CE 08CF","533","4","3.0","9.0c","2.0","—","6.4","2048","Full","Full","Full"
+"GMA","2012","SGX544 MP2","Tablet , URL: /wiki/Tablet_computer
+","Atom Z2520 Atom Z2560 Atom Z2580","Cloverview , URL: /wiki/Atom_(system_on_chip)
+","?","300Mhz 400 MHz 533 MHz","?","?","9.0 L3 , URL: /wiki/Direct3D_feature_levels
+","2.0ES, 2.0?","1.1","?","?","Full","Full","Full"

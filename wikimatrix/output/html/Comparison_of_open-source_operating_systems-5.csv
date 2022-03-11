@@ -1,0 +1,100 @@
+"Name","FAT16, dosfs , URL: /wiki/File_Allocation_Table
+FAT32, vfat , URL: /wiki/File_Allocation_Table
+","NTFS , URL: /wiki/NTFS
+","Ext2 , URL: /wiki/Ext2
+","Ext3 , URL: /wiki/Ext3
+","XFS , URL: /wiki/XFS
+","ReiserFS , URL: /wiki/ReiserFS
+","UFS , URL: /wiki/Unix_File_System
+","UFS2","HFS , URL: /wiki/Hierarchical_File_System
+","HFS+ , URL: /wiki/HFS_Plus
+","MINIXfs , URL: /wiki/MINIX_file_system
+","BFS , URL: /wiki/Be_File_System
+","ISO 9660 , URL: /wiki/ISO_9660
+","UDF , URL: /wiki/Universal_Disk_Format
+","NFS , URL: /wiki/Network_File_System
+","SMBFS , URL: /wiki/Server_Message_Block
+","RAM disk , URL: /wiki/RAM_disk
+tmpfs , URL: /wiki/Tmpfs
+","ZFS , URL: /wiki/ZFS
+","file systems , URL: /wiki/File_system
+"
+"Linux , URL: /wiki/Linux
+","Yes","Yes[Note 1][Note 2]","Yes","Yes","Yes","Yes","Yes[Note 3]","Yes[19]","Yes","Yes[Note 4]","Yes","Yes[Note 3]","Yes","Yes","Yes","Yes","Yes","Yes","9P , URL: /wiki/9P_(protocol)
+FUSE , URL: /wiki/Filesystem_in_Userspace
+sysfs , URL: /wiki/Sysfs
+configfs , URL: /wiki/Configfs
+Reiser4 , URL: /wiki/Reiser4
+JFS , URL: /wiki/IBM_Journaled_File_System_2_(JFS2)
+Btrfs , URL: /wiki/Btrfs
+UnionFS , URL: /wiki/UnionFS
+Ext4 , URL: /wiki/Ext4
+"
+"FreeBSD , URL: /wiki/FreeBSD
+","Yes","Yes[Note 3][Note 2]","Yes","Yes[Note 3]","Yes[Note 1]","Yes[Note 3]","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","nullfs , URL: /w/index.php?title=Nullfs&action=edit&redlink=1
+"
+"NetBSD , URL: /wiki/NetBSD
+","Yes","Yes[Note 3][Note 2]","Yes","","No","No","Yes","Yes","","Yes[Note 3]","No","No","Yes","Yes[Note 3]","Yes","Yes","Yes","Yes","PUFFS , URL: /wiki/PUFFS_(NetBSD)
+LFS , URL: /wiki/Log-structured_file_system
+EFS , URL: /wiki/Extent_File_System
+"
+"OpenBSD , URL: /wiki/OpenBSD
+","Yes","Yes[Note 3]","Yes","","No","No","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","AFS , URL: /wiki/Andrew_File_System
+"
+"DragonFly BSD , URL: /wiki/DragonFly_BSD
+","Yes","Yes[Note 3]","Yes","No","No","No","Yes","No","No","No","No","No","Yes","Yes[Note 7]","Yes","Yes","Yes","No","HAMMER , URL: /wiki/HAMMER_(file_system)
+"
+"OpenSolaris , URL: /wiki/OpenSolaris
+illumos , URL: /wiki/Illumos
+","Yes","Yes [Note 2][Note 8]","No","No","No","No","Yes","","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","SMB , URL: /wiki/Server_Message_Block
+QFS , URL: /wiki/QFS
+"
+"Darwin , URL: /wiki/Darwin_(operating_system)
+OpenDarwin , URL: /wiki/OpenDarwin
+","Yes","Yes[Note 3][Note 2]","","","","","Yes","","Yes","Yes","","","Yes","Yes","Yes","Yes","","",""
+"MINIX , URL: /wiki/MINIX
+","Yes","No","Yes","","","","","","","","Yes","No","","","","","","",""
+"FreeDOS , URL: /wiki/FreeDOS
+","Yes","No","No","No","No","No","No","","","","No","No","Yes","","","","Yes","",""
+"Genode , URL: /wiki/Genode
+","Yes","No","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","Yes","No","Extensible VFS layer"
+"Haiku , URL: /wiki/Haiku_(operating_system)
+","Yes","Yes [Note 2]","Yes [Note 9]","Yes [Note 9]","","","","","","","","Yes","Yes","Yes","Yes","No[Note 10]","","",""
+"KolibriOS , URL: /wiki/KolibriOS
+","Yes","Yes[Note 3]","Yes[Note 3]","Yes[Note 3]","Yes[Note 3]","","","","","","","","Yes","","","","Yes","",""
+"MenuetOS , URL: /wiki/MenuetOS
+","Yes","","","","","","","","","","","","","","","","","",""
+"GNU , URL: /wiki/GNU
+","Yes","","Yes","Yes[Note 11]","","","Yes[Note 12]","","","","","","Yes","","Yes","","Yes","No",""
+"ReactOS , URL: /wiki/ReactOS
+","Yes","","Yes","No","No","No","No","","","","No","No","","","","","","",""
+"L4 , URL: /wiki/L4_microkernel_family
+Fiasco , URL: /wiki/L4_microkernel_family#L4/Fiasco
+Pistachio , URL: /wiki/L4_microkernel_family#L4Ka::Pistachio
+","Yes","No","","","","","","","","","","","","","","","","",""
+"Plan 9 , URL: /wiki/Plan_9_from_Bell_Labs
+","Yes","","Yes","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","No","Fossil , URL: /wiki/Fossil_(file_system)
+Venti , URL: /wiki/Venti
+"
+"AROS , URL: /wiki/Amiga_Research_Operating_System
+","Yes","","","","","","","","","","","","","","","","Yes","","SFS , URL: /wiki/Smart_File_System
+AFFS , URL: /wiki/Amiga_Fast_File_System
+"
+"Syllable , URL: /wiki/Syllable_Desktop
+","Yes","Yes[Note 3]","Yes[Note 3]","Yes[Note 3]","","","","","","","","Yes","Yes","","","","Yes","","AFS , URL: /wiki/AtheOS_File_System
+"
+"Inferno , URL: /wiki/Inferno_(operating_system)
+","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","Yes","","kfs, most system services"
+"FreeRTOS , URL: /wiki/FreeRTOS
+","","","","","","","","","","","","","","","","","","No",""
+"eCos , URL: /wiki/ECos
+","Yes","","Yes[Note 3]","","","","","","","","","","","","","","Yes","","JFFS2 , URL: /wiki/JFFS2
+YAFFS , URL: /wiki/YAFFS
+"
+"RTEMS , URL: /wiki/RTEMS
+","Yes","","","","","","","","","","","","","","Yes","","Yes","","TarFS, TFTP FS, IMFS, miniIMFS"
+"HelenOS , URL: /wiki/HelenOS
+","Yes","No","Yes","Yes","No","No","No","No","No","No","Yes","No","Yes","Yes","No","No","Yes","","exFAT , URL: /wiki/ExFAT
+"
+"E/OS","Yes","No","Yes","No","No","No","No","No","No","No","Yes","Yes[Note 13]","Yes","No","Yes","Yes","Yes","",""
+"Name","FAT16, dosfs; FAT32, vfat","NTFS","Ext2","Ext3","XFS","ReiserFS","UFS","UFS2","HFS","HFS+","MINIXfs","BFS","ISO 9660","UDF","NFS","SMBFS","RAM disk, tmpfs","ZFS","Other special file systems"

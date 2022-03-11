@@ -1,0 +1,125 @@
+"Client name","Platform , URL: /wiki/Computing_platform
+","License , URL: /wiki/Software_license
+","WebDAV ACL editor","Discovery of other user’s collections , URL: https://tools.ietf.org/html/rfc3744#section-9.4
+","ICalendar , URL: /wiki/ICalendar
+events , URL: /wiki/ICalendar#Events_(VEVENT)
+","tasks , URL: /wiki/ICalendar#To-do_(VTODO)
+","journals , URL: /wiki/ICalendar#Journal_entry_(VJOURNAL)
+","ICalendar VAVAILABILITY (RFC 7953) , URL: https://tools.ietf.org/html/rfc7953
+","CalDAV Scheduling , URL: https://tools.ietf.org/html/6638
+","CardDAV , URL: /wiki/CardDAV
+","vCard Synchronization , URL: https://tools.ietf.org/html/rfc6350#section-7
+","User interface , URL: /wiki/User_interface
+","Online store , URL: /wiki/Online_shopping
+",".well-known URLs","FBURL , URL: http://www.calconnect.org/pubdocs/CD0903%20Freebusy%20Read%20URL.pdf
+","DNS SRV , URL: /wiki/SRV_record
+","handles home-sets"
+"AgenDAV[1]","Cross-platform , URL: /wiki/Cross-platform
+JavaScript , URL: /wiki/JavaScript
+Web browser , URL: /wiki/Web_browser
+","GNU GPL , URL: /wiki/GNU_General_Public_License
+","Yes limited","No","Yes","N/A","Unknown","No","No Does not arrange meetings with participants","N/A","out of scope","AgenDAV's fullcalendar.io","No","No The used server is fixed in the configuration file","No Does not arrange meetings with participants","No the caldav-server settings need to be fixed in AgenDAV's configuration file","Yes"
+"Cadaver[2]","Command-line , URL: /wiki/Command-line_interface
+","GNU GPL , URL: /wiki/GNU_General_Public_License
+","Unknown","Unknown","Yes","Unknown","Unknown","Unknown","Unknown","Yes","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"aCal[3]","Android , URL: /wiki/Android_(operating_system)
+","GNU GPL , URL: /wiki/GNU_General_Public_License
+","Unknown","Unknown","Yes","Yes","Unknown","Unknown","Unknown","N/A","Unknown","aCal","aCal","Unknown","Unknown","Unknown","Unknown"
+"AndroidCaldavSyncAdapater[4]","Android , URL: /wiki/Android_(operating_system)
+","GNU GPL , URL: /wiki/GNU_General_Public_License
+","Unknown","Unknown","Yes","N/A","Unknown","Unknown","Unknown","N/A","out of scope","Android","Google Play , URL: /wiki/Google_Play
+","Unknown","No Out of scope","Unknown","Unknown"
+"CalDavZAP[5]","Cross-platform , URL: /wiki/Cross-platform
+JavaScript , URL: /wiki/JavaScript
+Web browser , URL: /wiki/Web_browser
+","AGPL , URL: /wiki/GNU_Affero_General_Public_License
+","No","No","Yes","Yes","Unknown","No","No Does not arrange meetings with participants","N/A","out of scope","CalDavZAP","No","No The used server is fixed in the configuration file","No Does not arrange meetings with participants","No The used server is fixed in the configuration file","Yes"
+"CardDavMATE[6]","Cross-platform , URL: /wiki/Cross-platform
+JavaScript , URL: /wiki/JavaScript
+Web browser , URL: /wiki/Web_browser
+","AGPL , URL: /wiki/GNU_Affero_General_Public_License
+","No","No","out of scope","out of scope","out of scope","out of scope","out of scope","Yes vCard 3.0 only","No","CardDavMATE","No","No The used server is fixed in the configuration file","No Out of scope","No The used server is fixed in the configuration file","Yes"
+"InfCloud (CalDavZAP+CardDavMATE)[7]","Cross-platform , URL: /wiki/Cross-platform
+JavaScript , URL: /wiki/JavaScript
+Web browser , URL: /wiki/Web_browser
+","AGPL , URL: /wiki/GNU_Affero_General_Public_License
+","No","No","Yes","Yes","Unknown","No","No Does not arrange meetings with participants","Yes vCard 3.0 only","No","InfCloud","No","No The used server is fixed in the configuration file","No Does not arrange meetings with participants","No The used server is fixed in the configuration file","Yes"
+"Chandler Desktop[8]","Cross-platform , URL: /wiki/Cross-platform
+Python , URL: /wiki/Python_(programming_language)
+","Apache , URL: /wiki/Apache_License
+","Unknown","Unknown","Yes","Yes","Unknown","Unknown","Unknown","No","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"DAVx⁵[9]","Android , URL: /wiki/Android_(operating_system)
+","GNU GPL , URL: /wiki/GNU_General_Public_License
+","No","No","Yes","Yes","out of scope","out of scope","No (except attendees/invitations)","Yes","server always wins , URL: https://web.archive.org/web/20190110234927/https://www.davx5.com/manual/synchronization
+","Android, OpenTasks","Google Play , URL: /wiki/Google_Play
+","Yes","out of scope","Yes","Yes"
+"Tasks.org[10]","Android , URL: /wiki/Android_(operating_system)
+","GNU GPL , URL: /wiki/GNU_General_Public_License
+","No","No","No","Yes","No","No","No","No","No","Android","Google Play , URL: /wiki/Google_Play
+","Yes","No","No","Yes"
+"jqCalDAV[11]","Cross-platform , URL: /wiki/Cross-platform
+JavaScript , URL: /wiki/JavaScript
+Web browser , URL: /wiki/Web_browser
+","MIT , URL: /wiki/MIT_License
+","Unknown","Unknown","Yes","Yes","Unknown","Unknown","Unknown","N/A","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"KCardDAV[12] (discontinued)","Cross-platform , URL: /wiki/Cross-platform
+Kontact , URL: /w/index.php?title=Kontakt_(software)&action=edit&redlink=1
+","GNU GPL , URL: /wiki/GNU_General_Public_License
+","Unknown","Unknown","N/A","N/A","N/A","Unknown","Unknown","Yes","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"KOrganizer , URL: /wiki/KOrganizer
+","Unix , URL: /wiki/Unix
+KDE , URL: /wiki/KDE
+","GNU GPL , URL: /wiki/GNU_General_Public_License
+","Unknown","Unknown","Yes","Yes","Yes","Unknown","Unknown","Yes","Unknown","KOrganizer KAddressbook","KOrganizer KAddressbook","Unknown","Unknown","Unknown","Unknown"
+"Lightning , URL: /wiki/Mozilla_Lightning
+","Cross-platform , URL: /wiki/Cross-platform
+Thunderbird , URL: /wiki/Mozilla_thunderbird
+Add-on , URL: /wiki/Add-on_(Mozilla)
+","MPL , URL: /wiki/Mozilla_Public_License
+GPL , URL: /wiki/GNU_General_Public_License
+LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","Unknown","Unknown","Yes","Yes","Unknown","Unknown","Unknown","N/A","Out of scope","Lightning","Lightning","Unknown","Unknown","Unknown","Unknown probably not"
+"CardBook[14]","Cross-platform , URL: /wiki/Cross-platform
+Thunderbird , URL: /wiki/Mozilla_thunderbird
+Add-on , URL: /wiki/Add-on_(Mozilla)
+","MPL , URL: /wiki/Mozilla_Public_License
+","No","No","Out of scope","Out of scope","Out of scope","Out of scope","Out of scope","vCard 3.0 , URL: /wiki/VCard#vCard_3.0
+vCard 4.0 , URL: /wiki/VCard#vCard_4.0
+","Yes","CardBook","Mozilla Add-ons (ATN) , URL: https://addons.thunderbird.net/thunderbird/addon/cardbook/
+","Yes","Out of scope","No","partial"
+"MineTime[15]","Cross-platform , URL: /wiki/Cross-platform
+","Proprietary , URL: /wiki/Proprietary_software
+","No","No","Yes","No","No","No","No","No","No","No","MineTime","minetime.ai","No","No","No"
+"Mulberry , URL: /wiki/Mulberry_(e-mail_client)
+","Cross-platform , URL: /wiki/Cross-platform
+","Apache , URL: /wiki/Apache_License
+","Unknown","Unknown","Yes","Yes","Unknown","Unknown","Unknown","Yes","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"Outlook CalDav Synchronizer[17]","Windows , URL: /wiki/Microsoft_Windows
+","AGPL , URL: /wiki/GNU_Affero_General_Public_License
+","Unknown","Unknown","Yes","Yes","Unknown","Unknown","Unknown","Yes","Unknown","Outlook","Unknown","Yes","Unknown","Yes","Yes"
+"pyCardDAV[18]","Cross-platform , URL: /wiki/Cross-platform
+Python , URL: /wiki/Python_(programming_language)
+","MIT , URL: /wiki/MIT_License
+","Unknown","Unknown","N/A","N/A","N/A","Unknown","Unknown","Yes","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"The Bat! , URL: /wiki/The_Bat!
+","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","Unknown","Unknown","No","No","No","Unknown","Unknown","Yes","Unknown","The Bat! , URL: /wiki/The_Bat!
+","The Bat!'s address book","Unknown","Unknown","Unknown","Unknown"
+"SOGo , URL: /wiki/SOGo
+","Cross-platform , URL: /wiki/Cross-platform
+Thunderbird , URL: /wiki/Mozilla_thunderbird
+Add-on , URL: /wiki/Add-on_(Mozilla)
+","MPL , URL: /wiki/Mozilla_Public_License
+GPL , URL: /wiki/GNU_General_Public_License
+LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","Unknown","Unknown","Yes","Yes","Unknown","Unknown","Unknown","Yes","Unknown","Mozilla","Mozilla Add-ons , URL: /wiki/Add-on_(Mozilla)#Website
+","Unknown","Unknown","Unknown","Unknown"
+"Evolution , URL: /wiki/Evolution_(software)
+","Cross-platform , URL: /wiki/Cross-platform
+","GNU GPL , URL: /wiki/GNU_General_Public_License
+","No","No","Yes","Yes","Yes","No","No","Yes vCard 3.0 only","Unknown","Evolution","Evolution","Yes","Yes if the URL does not require authentication","Yes","Yes"
+"ReminderFox[21]","Cross-platform , URL: /wiki/Cross-platform
+Firefox , URL: /wiki/Firefox
+","MPL , URL: /wiki/Mozilla_Public_License
+","Unknown","Unknown","Yes","Yes","Unknown","Unknown","No","N/A","Unknown","ReminderFox","Yes","Unknown","Unknown","Unknown","Unknown"

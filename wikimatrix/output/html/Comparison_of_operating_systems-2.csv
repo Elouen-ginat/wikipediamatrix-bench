@@ -1,0 +1,241 @@
+"Name","Resource access control","Subsystem isolation mechanisms","firewall , URL: /wiki/Firewall_(computing)
+","Encrypted file systems","No execute (NX) page flag , URL: /wiki/NX_bit
+","No execute (NX) page flag , URL: /wiki/NX_bit
+","Manufacturer acknowledged unpatched vulnerabilities (by severity)[s 1]","Manufacturer acknowledged unpatched vulnerabilities (by severity)[s 1]","Manufacturer acknowledged unpatched vulnerabilities (by severity)[s 1]","Manufacturer acknowledged unpatched vulnerabilities (by severity)[s 1]","Manufacturer acknowledged unpatched vulnerabilities (by severity)[s 1]","Manufacturer acknowledged unpatched vulnerabilities (by severity)[s 1]"
+"Name","Resource access control","Subsystem isolation mechanisms","firewall , URL: /wiki/Firewall_(computing)
+","Encrypted file systems","No execute (NX) page flag , URL: /wiki/NX_bit
+","No execute (NX) page flag , URL: /wiki/NX_bit
+","Secunia","Secunia","Secunia","Secunia","Secunia","Security- Focus"
+"Name","Resource access control","Subsystem isolation mechanisms","firewall , URL: /wiki/Firewall_(computing)
+","Encrypted file systems","Hard- ware","Emula- tion","Extremely critical (number / oldest)","Highly critical (number / oldest)","Moderately critical (number / oldest)","Less critical (number / oldest)","Not critical (number / oldest)","Total (number / oldest)"
+"AIX 7.1 , URL: /wiki/AIX_operating_system
+","POSIX , URL: /wiki/Filesystem_permissions
+ACLs , URL: /wiki/Access_control_list
+MAC , URL: /wiki/Mandatory_access_control
+Trusted AIX - MLS , URL: /w/index.php?title=Trusted_AIX_-_MLS&action=edit&redlink=1
+RBAC , URL: /wiki/Role-based_access_control
+","chroot , URL: /wiki/Chroot
+","IPFilter , URL: /wiki/IPFilter
+IPsec , URL: /wiki/IPsec
+","Yes","Yes[s 2]","N/A","Unknown","Unknown","Unknown","Unknown","Unknown","0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=IBM&title=AIX&version=%207.1
+"
+"FreeBSD , URL: /wiki/FreeBSD
+","POSIX , URL: /wiki/Filesystem_permissions
+ACLs , URL: /wiki/Access_control_list
+MAC , URL: /wiki/Mandatory_access_control
+","chroot , URL: /wiki/Chroot
+Jails , URL: /wiki/FreeBSD_jail
+multilevel security , URL: /wiki/Multilevel_security
+Biba Model , URL: /wiki/Biba_Model
+chflags , URL: /wiki/Chflags
+Capability-based security , URL: /wiki/Capability-based_security
+","IPFW2 , URL: /wiki/IPFW2
+IPFilter , URL: /wiki/IPFilter
+PF , URL: /wiki/PF_(firewall)
+IPsec , URL: /wiki/IPsec
+","Yes","Yes","Yes[s 3]","0 , URL: https://secunia.com/product/32931/
+","0 , URL: https://secunia.com/product/32931/
+","0 , URL: https://secunia.com/product/32931/
+","0 , URL: https://secunia.com/product/32931/
+","0 , URL: https://secunia.com/product/32931/
+",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=FreeBSD&title=FreeBSD&version=%20-current
+"
+"GhostBSD , URL: /wiki/GhostBSD
+","POSIX, ACLs, MAC","jail , URL: /wiki/Operating_system-level_virtualization
+chflags , URL: /wiki/Chflags
+","IPFW2 , URL: /wiki/IPFW2
+PF , URL: /wiki/PF_(firewall)
+","Yes","Yes","Yes","0 , URL: https://secunia.com/product/32931/
+","0 , URL: https://secunia.com/product/32931/
+","0 , URL: https://secunia.com/product/32931/
+","0 , URL: https://secunia.com/product/32931/
+","0 , URL: https://secunia.com/product/32931/
+",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=FreeBSD&title=FreeBSD&version=%20-current
+"
+"Genode , URL: /wiki/Genode
+","least privilege , URL: /wiki/Least_privilege
+","capability-based security , URL: /wiki/Capability-based_security
+","NAPT , URL: /wiki/Network_address_translation
+","No","kernel dependent","No","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"HP-UX , URL: /wiki/HP-UX
+","POSIX, ACLs","chroot","IPFilter","Yes","?","?","0 , URL: https://secunia.com/product/138/
+","0 , URL: https://secunia.com/product/138/
+","3 , URL: https://secunia.com/product/138/
+June 30, 2004; 17 years ago (2004-06-30) , URL: https://secunia.com/advisories/11969/
+","2 , URL: https://secunia.com/product/138/
+December 12, 2002; 19 years ago (2002-12-12) , URL: https://secunia.com/advisories/7702/
+","0 , URL: https://secunia.com/product/138/
+",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=HP&title=HP-UX&version=%2011.31
+"
+"Inferno , URL: /wiki/Inferno_(operating_system)
+","POSIX","Namespaces , URL: /wiki/Namespace
+capability-based security , URL: /wiki/Capability-based_security
+superuser , URL: /wiki/Superuser
+setuid , URL: /wiki/Setuid
+","?","?","No","No","Unknown","Unknown","Unknown","Unknown","Unknown",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=Bell%20Labs&title=Plan%209
+"
+"Linux-based , URL: /wiki/Linux
+","POSIX, ACLs,[s 4] MAC","seccomp , URL: /wiki/Seccomp
+Namespaces , URL: /wiki/Linux_namespaces
+SELinux , URL: /wiki/Security-Enhanced_Linux
+AppArmor , URL: /wiki/AppArmor
+","Netfilter , URL: /wiki/Netfilter
+","Yes","Yes","Yes","0 , URL: https://secunia.com/product/2719/
+","0 , URL: https://secunia.com/product/2719/
+","0 , URL: https://secunia.com/product/2719/
+","6 , URL: https://secunia.com/product/2719/
+June 24, 2004; 17 years ago (2004-06-24) , URL: https://secunia.com/advisories/11931/
+","11 , URL: https://secunia.com/product/2719/
+April 4, 2005; 16 years ago (2005-04-04) , URL: https://secunia.com/advisories/14718/
+",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=Linux&title=kernel&version=2.6.36
+"
+"Mac OS , URL: /wiki/Classic_Mac_OS
+","No","No","No","No","No","No","0 , URL: https://secunia.com/product/832/
+","0 , URL: https://secunia.com/product/832/
+","0 , URL: https://secunia.com/product/832/
+","0 , URL: https://secunia.com/product/832/
+","0 , URL: https://secunia.com/product/832/
+",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=Apple&title=Mac%20OS%209&version=9.2.2
+"
+"OS X , URL: /wiki/OS_X
+","POSIX, ACLs[s 6]","chroot, BSD file flags set using chflags","ipfw , URL: /wiki/Ipfirewall
+","Yes","Yes (as of 10.5, X64 only)","Yes (Intel only)","0 , URL: https://secunia.com/product/96/
+","0 , URL: https://secunia.com/product/96/
+","1 , URL: https://secunia.com/product/96/
+April 14, 2009; 12 years ago (2009-04-14) , URL: https://secunia.com/advisories/34424/
+","2 , URL: https://secunia.com/product/96/
+January 8, 2007; 15 years ago (2007-01-08) , URL: https://secunia.com/advisories/23653/
+","5 , URL: https://secunia.com/product/96/
+November 22, 2006; 15 years ago (2006-11-22) , URL: https://secunia.com/advisories/23062/
+",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=Apple&title=Mac%20OS%20X&version=10.6.4
+"
+"NetBSD , URL: /wiki/NetBSD
+","Veriexec , URL: /wiki/Veriexec
+","chroot, kauth, BSD file flags set using chflags","NPF , URL: /wiki/NPF_(firewall)
+","Yes","Yes","No","Unknown","Unknown","Unknown","Unknown","Unknown",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=NetBSD&title=NetBSD&version=5.0.2
+"
+"NetWare 6.5 SP8 , URL: /wiki/Novell_NetWare
+","Directory-enabled ACLs","Protected address spaces","IPFLT.NLM","Yes","Yes","No","0 , URL: https://secunia.com/product/78/
+","0 , URL: https://secunia.com/product/78/
+","1 , URL: https://secunia.com/product/78/
+August 31, 2010; 11 years ago (2010-08-31) , URL: https://secunia.com/advisories/41180/
+","2 , URL: https://secunia.com/product/78/
+October 30, 2003; 18 years ago (2003-10-30) , URL: https://secunia.com/advisories/10100/
+","0 , URL: https://secunia.com/product/78/
+","0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=Novell&title=Netware&version=%206.5.0%20SP8
+"
+"OES-Linux , URL: /wiki/Novell_Open_Enterprise_Server
+","Directory-enabled ACLs","chroot","IPFilter","Yes","Yes","No","Unknown","Unknown","Unknown","Unknown","Unknown",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=Novell&title=Open%20Enterprise%20Server&version=%202%20Linux%20Support%20Pack
+"
+"OpenBSD , URL: /wiki/OpenBSD
+","POSIX","chroot, systrace, BSD file flags set using chflags","PF","Yes","Yes","Yes","Unknown","Unknown","Unknown","Unknown","Unknown",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=OpenBSD&title=OpenBSD&version=%20-current
+"
+"OpenVMS , URL: /wiki/OpenVMS
+","privileges , URL: /wiki/Privilege_(computing)
+","logical name tables , URL: https://web.archive.org/web/20051130185759/http://h71000.www7.hp.com/DOC/731final/6489/6489pro_027.html#usingdifflogtables
+","?","?","Yes","?","0 , URL: https://secunia.com/product/6052/
+","0 , URL: https://secunia.com/product/6052/
+","0 , URL: https://secunia.com/product/6052/
+","0 , URL: https://secunia.com/product/6052/
+","0 , URL: https://secunia.com/product/6052/
+","Unknown , URL: http://www.securityfocus.com/cgi-bin/index.cgi?o=0&l=100&c=12&op=display_list&vendor=HP&title=OpenVMS&version=%208.4%20Integrity
+"
+"OS/2 , URL: /wiki/OS/2
+eComStation , URL: /wiki/EComStation
+ArcaOS , URL: /wiki/ArcaOS
+","ACLs[s 7]","No","IPFilter","No","?","?","0 , URL: https://secunia.com/product/1188/
+","0 , URL: https://secunia.com/product/1188/
+","0 , URL: https://secunia.com/product/1188/
+","0 , URL: https://secunia.com/product/1188/
+","0 , URL: https://secunia.com/product/1188/
+","0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=IBM&title=OS/2&version=4.5%20Warp
+"
+"TrueOS , URL: /wiki/TrueOS
+","POSIX, ACLs, MAC","chroot, jail, MAC partitions","IPFW2, IPFilter, PF","Yes[s 8]","?","?","0 , URL: https://secunia.com/product/32931/
+","0 , URL: https://secunia.com/product/32931/
+","0 , URL: https://secunia.com/product/32931/
+","0 , URL: https://secunia.com/product/32931/
+","0 , URL: https://secunia.com/product/32931/
+",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=FreeBSD&title=FreeBSD&version=%20-current
+"
+"Plan 9 , URL: /wiki/Plan_9_from_Bell_Labs
+","POSIX ?","Namespaces,[20] capability-based security, no superuser or setuid bit","ipmux","Yes","No","No","Unknown","Unknown","Unknown","Unknown","Unknown",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=Bell%20Labs&title=Plan%209
+"
+"QNX , URL: /wiki/QNX
+","POSIX","?","PF, from NetBSD","?","?","?","0 , URL: https://secunia.com/product/708/
+","0 , URL: https://secunia.com/product/708/
+","0 , URL: https://secunia.com/product/708/
+","5 , URL: https://secunia.com/product/708/
+November 20, 2002; 19 years ago (2002-11-20) , URL: https://secunia.com/advisories/7562/
+","1 , URL: https://secunia.com/product/708/
+November 7, 2002; 19 years ago (2002-11-07) , URL: https://secunia.com/advisories/7463/
+","Unknown , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=QNX&title=RTOS&version=6.5.0
+"
+"RISC OS , URL: /wiki/RISC_OS
+","No","No","IPFilter","No","No","No","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"Solaris 10 , URL: /wiki/Solaris_(operating_system)
+","least privilege , URL: /wiki/Least_privilege
+Trusted Extensions , URL: /wiki/Solaris_Trusted_Extensions
+","Containers , URL: /wiki/Solaris_Containers
+Logical Domains , URL: /wiki/Logical_Domains
+","IPFilter","Yes[s 10]","Yes","No","0 , URL: https://secunia.com/product/4813/
+","2 , URL: https://secunia.com/product/4813/
+October 31, 2007; 14 years ago (2007-10-31) , URL: https://secunia.com/advisories/27423/
+","5 , URL: https://secunia.com/product/4813/
+October 23, 2007; 14 years ago (2007-10-23) , URL: https://secunia.com/advisories/27328/
+","3 , URL: https://secunia.com/product/4813/
+September 10, 2009; 12 years ago (2009-09-10) , URL: https://secunia.com/advisories/36668/
+","2 , URL: https://secunia.com/product/4813/
+November 6, 2006; 15 years ago (2006-11-06) , URL: https://secunia.com/advisories/22714/
+",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=Sun&title=Solaris&version=%2010
+"
+"OpenSolaris , URL: /wiki/OpenSolaris
+","POSIX, RBAC, ACLs, least privilege, Trusted Extensions","chroot, Containers,[s 9] Logical Domains","IPFilter","Yes[s 10]","Yes","No","0 , URL: https://secunia.com/product/32733/
+","0 , URL: https://secunia.com/product/32733/
+","0 , URL: https://secunia.com/product/32733/
+","0 , URL: https://secunia.com/product/32733/
+","0 , URL: https://secunia.com/product/32733/
+",">0 , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=Sun&title=OpenSolaris&version=%202009.06
+"
+"Windows Server 2012 , URL: /wiki/Windows_Server_2012
+","ACLs, privileges, RBAC","Win32 WindowStation, desktop, job objects","Windows Firewall , URL: /wiki/Windows_Firewall
+","Yes","Yes","Yes","0 , URL: https://secunia.com/product/42761/
+","0 , URL: https://secunia.com/product/42761/
+","0 , URL: https://secunia.com/product/42761/
+","0 , URL: https://secunia.com/product/42761/
+","0 , URL: https://secunia.com/product/42761/
+","[Unknown]"
+"Windows 8.1 , URL: /wiki/Windows_8.1
+","ACLs, privileges, RBAC","Win32 WindowStation, desktop, job objects","Windows Firewall , URL: /wiki/Windows_Firewall
+","Yes","Yes","Yes","0 , URL: https://secunia.com/product/48611/
+","0 , URL: https://secunia.com/product/48611/
+","0 , URL: https://secunia.com/product/48611/
+","0 , URL: https://secunia.com/product/48611/
+","1 , URL: https://secunia.com/product/48611/
+May 30, 2014; 7 years ago (2014-05-30) , URL: https://secunia.com/advisories/58891/
+","[Unknown]"
+"ZETA , URL: /wiki/Magnussoft_ZETA
+","POSIX[s 11]","No","No","No","No","No","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"STOP 6, XTS-400 , URL: /wiki/XTS-400
+","multilevel security , URL: /wiki/Multilevel_security
+Biba Model , URL: /wiki/Biba_Model
+","Multilevel security, Biba Model, subtype mechanism","No","No","No","No","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"z/OS , URL: /wiki/Z/OS
+","RACF , URL: /wiki/RACF
+","RACF, low storage protection, page protection, storage protect key, execution key, subspace group facility, APF, ACR (alternate CPU recovery), more","z/OS IPSecurity","Optional","Yes (storage protect key, execution key, APF, more)","Yes","0 , URL: https://secunia.com/product/210/
+","0 , URL: https://secunia.com/product/210/
+","0 , URL: https://secunia.com/product/210/
+","0 , URL: https://secunia.com/product/210/
+","0 , URL: https://secunia.com/product/210/
+","Unknown , URL: http://www.securityfocus.com/cgi-bin/index.cgi?c=12&op=display_list&vendor=IBM&title=z/OS&version=%201.11
+"
+"Name","Resource access control","Subsystem isolation mechanisms","firewall , URL: /wiki/Firewall_(computing)
+","Encrypted file systems","Hard- ware","Emula- tion","Extremely critical (number / oldest)","Highly critical (number / oldest)","Moderately critical (number / oldest)","Less critical (number / oldest)","Not critical (number / oldest)","Total (number / oldest)"
+"Name","Resource access control","Subsystem isolation mechanisms","firewall , URL: /wiki/Firewall_(computing)
+","Encrypted file systems","No execute (NX) page flag , URL: /wiki/NX_bit
+","No execute (NX) page flag , URL: /wiki/NX_bit
+","Secunia","Secunia","Secunia","Secunia","Secunia","Security- Focus"
+"Name","Resource access control","Subsystem isolation mechanisms","firewall , URL: /wiki/Firewall_(computing)
+","Encrypted file systems","No execute (NX) page flag , URL: /wiki/NX_bit
+","No execute (NX) page flag , URL: /wiki/NX_bit
+","Known unpatched vulnerabilities (severity is accounted for)[s 1]","Known unpatched vulnerabilities (severity is accounted for)[s 1]","Known unpatched vulnerabilities (severity is accounted for)[s 1]","Known unpatched vulnerabilities (severity is accounted for)[s 1]","Known unpatched vulnerabilities (severity is accounted for)[s 1]","Known unpatched vulnerabilities (severity is accounted for)[s 1]"

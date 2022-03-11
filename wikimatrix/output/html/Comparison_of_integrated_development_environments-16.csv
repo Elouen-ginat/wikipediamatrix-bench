@@ -1,0 +1,22 @@
+"IDE , URL: /wiki/Integrated_development_environment
+","License , URL: /wiki/Software_license
+","Windows , URL: /wiki/Microsoft_Windows
+","Linux , URL: /wiki/Linux
+","macOS , URL: /wiki/MacOS
+","Other platforms , URL: /wiki/Platform_(computing)
+","Debugger , URL: /wiki/Debugger
+","Profiler , URL: /wiki/Profiler_(computer_science)
+","Notes"
+"Atom , URL: /wiki/Atom_(text_editor)
+","MIT License[33]","Yes","Yes","Yes","?","Yes[34]","Yes[35]","Has a plotting pane. Juno team merged with VS Code extension team (see below); Juno now in maintenance mode."
+"Emacs , URL: /wiki/Emacs
+spacemacs , URL: /wiki/Spacemacs
+","GPL , URL: /wiki/GNU_General_Public_License
+","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+","Yes","Yes","ESS extension , URL: https://github.com/emacs-ess/ESS/wiki/Julia
+"
+"Visual Studio Code , URL: /wiki/Visual_Studio_Code
+Julia extension , URL: https://marketplace.visualstudio.com/items?itemName=julialang.language-julia
+","MIT License","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+","Yes","flame graph , URL: /wiki/Brendan_Gregg#Contributions
+","Has a plotting pane. License is for the extension; and Microsoft's source code (only)."

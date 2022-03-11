@@ -1,0 +1,95 @@
+"Name","Creator","FOSS , URL: /wiki/Free_and_open-source_software
+","Free","First public release date","Year of latest stable version","Windows","Macintosh","Linux","Other platforms","Max supported file size"
+"Beyond Compare , URL: /wiki/Beyond_Compare
+","Scooter Software[1]","Proprietary , URL: /wiki/Proprietary_software
+","No","1996","2021-12-20 (v4.4.1)","Yes","Yes","Yes","","> 2GB (64 bits)"
+"Compare++ , URL: /wiki/Compare%2B%2B
+","Coode Software[2]","No; Proprietary","No","2010","2016-7-17 (3.0.1.0b)","Yes[3]","No","No","",""
+"diff , URL: /wiki/Diff
+diff3 , URL: /wiki/Diff3
+","AT&T , URL: /wiki/AT%26T
+","BSD 3-clause , URL: /wiki/BSD_licenses
+BSD 4-clause , URL: /wiki/BSD_licenses
+CDDL , URL: /wiki/CDDL
+","Yes","1974","","No","Mac OS X , URL: /wiki/Mac_OS_X
+","Yes","SCCS , URL: /wiki/Source_Code_Control_System
+","> 2GB but less than 64 bits"
+"Eclipse , URL: /wiki/Eclipse_(software)
+","","Eclipse Public License , URL: /wiki/Eclipse_Public_License
+","Yes","2004-07-21","2016-09-28 (4.6.1 (Neon.1))","Yes","Yes","Yes","Java , URL: /wiki/Java_(programming_language)
+",""
+"Ediff , URL: /wiki/Ediff
+","Michael Kifer[4]","GPL , URL: /wiki/GNU_General_Public_License
+","Yes","1994","2.81.4","Yes[5]","Mac OS X , URL: /wiki/Mac_OS_X
+","Yes","Emacs , URL: /wiki/Emacs
+diff , URL: /wiki/Diff
+",""
+"ExamDiff Pro , URL: /wiki/ExamDiff_Pro
+","PrestoSoft[6]","No; Proprietary","No","1998","2020-12-10 (v 11.0.1.11)","Win98 , URL: /wiki/Windows_98
+","No","No","",""
+"Far Manager , URL: /wiki/Far_Manager
+","Eugene Roshal (original); FAR Group","BSD license , URL: /wiki/BSD_license
+","Yes","1996","2020-11-12 (v3.0 build 5700)","Yes","No","No","",""
+"fc , URL: /wiki/File_Compare
+","Microsoft[7]","No; Proprietary","OS , URL: /wiki/Operating_System
+","1987","","Yes (DOS)","No","No","",""
+"FileMerge (aka opendiff) , URL: /wiki/Apple_Developer_Tools#FileMerge
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","No; Proprietary","Apple Developer Tools , URL: /wiki/Apple_Developer_Tools
+","NEXTSTEP , URL: /wiki/NEXTSTEP
+","2014 (v2.8)","No","Yes (Mac OS X)","No","",""
+"FreeFileSync , URL: /wiki/FreeFileSync
+","Zenju , URL: /w/index.php?title=Zenju&action=edit&redlink=1
+","GPLv3 , URL: /wiki/GNU_General_Public_License
+","Yes","2008","2020-12-04 (v11.4)","Yes","Yes","Yes","",""
+"Guiffy SureMerge , URL: /wiki/Guiffy_SureMerge
+","Guiffy Software[9]","No; Proprietary","No","2000","2022-02-08 (v12.0)","Yes","Yes","Yes","Java , URL: /wiki/Java_(programming_language)
+","> 2GB"
+"IntelliJ IDEA , URL: /wiki/IntelliJ_IDEA
+","JetBrains[10]","No; Proprietary","No","2001","2019-08-20 (2019.2.1)","Yes","Yes","Yes","",""
+"jEdit JDiff plugin , URL: /wiki/JEdit#Plugins
+","Various[11]","Yes; GPL","Yes","1998","2020-09-03 (5.6.0)","Yes","Yes","Yes","Java , URL: /wiki/Java_(programming_language)
+",""
+"Lazarus , URL: /wiki/Lazarus_(software)
+","Lazarus (software) , URL: /wiki/Lazarus_(software)
+","Yes; GPL","Yes","2000","2020-07-11 (2.0.10)","Yes","Yes","Yes","FreeBSD",""
+"Meld , URL: /wiki/Meld_(software)
+","Stephen Kennedy[12]","GPLv2+ , URL: /wiki/GNU_General_Public_License
+","Yes","2002","2020-02-16 (3.20.2)","Yes[13]","Yes","Yes","BSD , URL: /wiki/Berkeley_Software_Distribution
+Solaris , URL: /wiki/Solaris_(operating_system)
+",""
+"Notepad++ (compare) , URL: /wiki/Notepad%2B%2B
+","Various","GPLv3 , URL: /wiki/GNU_General_Public_License
+","Yes","2009","2015-01-06 (1.5.6.6)","Yes[14]","No","No","",""
+"Perforce P4Merge , URL: /wiki/Perforce
+","Perforce , URL: /wiki/Perforce
+","No; Proprietary","Yes","","2019 (2019.1/1815056)","Yes","Yes","Yes","Sun Solaris",""
+"Pretty Diff , URL: /wiki/Pretty_Diff
+","Austin Cheney[15]","Yes; MIT-compatible","Yes","2009","2019-09-02 (101.2.6)","Web , URL: /wiki/World_Wide_Web
+","Web , URL: /wiki/World_Wide_Web
+","Web , URL: /wiki/World_Wide_Web
+","Node.js , URL: /wiki/Node.js
+",""
+"Tkdiff , URL: /wiki/Tkdiff
+","Tkdiff[16]","GPLv2+ , URL: /wiki/GNU_General_Public_License
+","Yes","2003 (or before)","2021-03-24 (v5.2.1)","Tcl , URL: /wiki/Tcl
+","Yes (Tcl)","Yes (Tcl)","Anything with Tcl",""
+"Total Commander , URL: /wiki/Total_Commander
+","Christian Ghisler[17]","No; Proprietary","No","","2020-03-25 (v9.51)","Yes","No","No","",""
+"twdiff , URL: /wiki/TextWrangler
+","Bare Bones Software, Inc.[18]","No; Proprietary","TextWrangler , URL: /wiki/TextWrangler
+","","2012 (1.0 (v22))","No","Yes","No","No",""
+"vimdiff , URL: /wiki/Vim_(text_editor)#Features_and_improvements_over_vi
+","Bram Moolenaar , URL: /wiki/Bram_Moolenaar
+","Yes; GPL-compatible [19]","Yes","2001","2016-10-03 (v8.0.0022)","Yes","Yes","Yes","vim , URL: /wiki/Vim_(text_editor)
+",""
+"WinDiff , URL: /wiki/WinDiff
+","Microsoft[20]","No; Proprietary","Platform SDK , URL: /wiki/Platform_SDK
+","1992","2010-05-14 (v6.1.7716.0)","Yes","No","No","No",""
+"WinMerge , URL: /wiki/WinMerge
+","Dean Grimm[21]","Yes; GPL","Yes","1998","2021-04-29 (v2.16.12)","Win95 , URL: /wiki/Windows_95
+","Yes (in wine[22])","Yes (in wine[22])","","2 GB"
+"UCC , URL: /wiki/Unified_Code_Count_(UCC)
+","USC CSSE[23]","No; USC-CSSE Limited Public License","Yes","2009","2015-12-30 (2015.12)","Yes","Yes","Yes {2.6.9}","Sun Solaris",""
+"Name","Creator","FOSS , URL: /wiki/Free_and_open-source_software
+","Free","First public release date","Year of latest stable version","Windows","Macintosh","Linux","Other platforms","Max supported file size"

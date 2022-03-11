@@ -1,0 +1,59 @@
+"Model","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config12*","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","TDP , URL: /wiki/Thermal_design_power
+","Notes"
+"Model","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config12*","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","MB , URL: /wiki/Megabyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","TDP , URL: /wiki/Thermal_design_power
+","Notes"
+"NVS 50","NV18","150","AGP 4x/PCI","250","250","200","0:2:4:2","0.5","1.0","64","1.6","DDR","32","","7","1.2","","DVI-I , URL: /wiki/DVI-I
+S-Video , URL: /wiki/S-Video
+"
+"NVS 100","NV17","150","AGP 4x/PCI","200","","333","0:2:4:2","","","64","2.664","DDR","64","","7","1.2","","VGA , URL: /wiki/VGA
+"
+"NVS 200","NV17","150","AGP 4x/PCI","250","250","250","0:2:4:2","0.5","1.0","64","8.0","DDR","128","","7","1.2","","LFH-60 , URL: /wiki/Low_Force_Helix
+"
+"NVS 210S","MCP51","90","Integrated","425","","","1:2:2:1","0.425","0.850","Up to 256 from system memory","","DDR","128","","9.0c","1.2","","DVI , URL: /wiki/Digital_Visual_Interface
+VGA , URL: /wiki/VGA
+"
+"NVS 280","NV34GL","150","PCIe x16/AGP 8x / PCI","275","275","250","0:2:4:2/ 1:2:2:2 *:4:4:4","0.55","1.1","64","8.0","DDR","128","","9.0","1.5","13","DMS-59 , URL: /wiki/DMS-59
+"
+"NVS 285","NV44","110","PCIe x1/x16","275","275","275","3:4:4:2","0.55","1.1","128","8.8","DDR","128","","9.0","2.1","18","DMS-59 , URL: /wiki/DMS-59
+"
+"NVS 290","G86","80","PCIe x1/x16","460","920","800","16:8:4","1.84","3.68","256","6.4","DDR2","64","44.16","10","3.3","21","DMS-59 , URL: /wiki/DMS-59
+"
+"NVS 295","G98","65","PCIe x1/x16","550","1300","1400","8:8:4","2.2","4.4","256","11.2","GDDR3","64","31.2","10","3.3","23","2x DisplayPort or 2x DVI-D"
+"NVS 300","GT218","40","PCIe x1/x16","589","1402","1580","16:8:4","2.356","4.712","512","12.64","DDR3","64","67.3","10.1","3.3","17.5","DMS-59 , URL: /wiki/DMS-59
+"
+"NVS 310","GF119","40","PCIe x16","523","1046","1750","48:8:4","2.092","4.184","512","14","DDR3","64","100.4","11.0","4.1","19.5","2x DisplayPort"
+"NVS 315","GF119","40","PCIe x16","523","1046","1750","48:8:4","2.092","4.184","","14","DDR3","64","100.4","11.0","4.1","19.5",""
+"NVS 400","2x NV17","150","PCI","220","220","343","2x 0:2:4:2","2x 0.44","2x 0.88","2x 64","2x 11.0","DDR","2x 128","2x 5.328","","","","DMS-59"
+"NVS 420","2xG98","65","PCIe x1/x16","550","1300","1400","2x 8:8:4","2x 2.2","2x 4.4","2x 256","2x 11.2","GDDR3","2x 64","2x 31.2","10","3.3","40","through VHDCI to (4x DisplayPort or 4x DVI-D)"
+"NVS 440","2xNV43","110","PCIe x1/x16","250","","","","","","2x 128","","DDR","","","","","31","DMS-59 , URL: /wiki/DMS-59
+"
+"NVS 450","2xG98","65","PCIe x1/x16","550","1300","1400","2x 8:8:4","2x 2.2","2x 4.4","2x 256","2x 11.2","GDDR3","2x 64","2x 31.2","10","3.3","35","4x DisplayPort"
+"NVS 510","GK107","28","PCIe 2.0 x16","","","1800","192:16:8 (1 SMX)","","","2048","28.5","DDR3","128","","11.0","4.5","35","4x miniDisplayPort"
+"NVS 810","2x GM107","28","PCIe 3.0 x16","","","1800","2x 512:32:16","","","2x 2048","2 x 14.4","DDR3","2x 128","","11.0","4.5","68","8x miniDisplayPort"

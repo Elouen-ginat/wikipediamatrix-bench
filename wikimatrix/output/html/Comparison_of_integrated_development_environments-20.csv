@@ -1,0 +1,172 @@
+"IDE , URL: /wiki/Integrated_development_environment
+","Developer , URL: /wiki/Software_developer
+","release , URL: /wiki/Software_release
+","Platform , URL: /wiki/Platform_(computing)
+","License , URL: /wiki/Software_license
+","Autocomplete , URL: /wiki/Autocomplete
+","Debugger , URL: /wiki/Debugger
+","Refactoring support , URL: /wiki/Refactoring
+","VCS Support , URL: /wiki/Revision_control
+"
+"Adobe Dreamweaver , URL: /wiki/Dreamweaver
+","Adobe Systems , URL: /wiki/Adobe_Inc.
+","-","Cross-platform , URL: /wiki/Cross-platform
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","No","No"
+"Aptana Studio , URL: /wiki/Aptana
+","Aptana, Inc. , URL: /wiki/Aptana
+","December 2013, 3.5.0","Cross-platform , URL: /wiki/Cross-platform
+","GPL , URL: /wiki/GNU_General_Public_License
+","Yes","Yes","No","via plugins"
+"CodeLite , URL: /wiki/CodeLite
+","CodeLite , URL: /wiki/CodeLite
+","October 2015, 9.0","Cross-platform , URL: /wiki/Cross-platform
+","GPL , URL: /wiki/GNU_General_Public_License
+","Yes","Yes","No","Git , URL: /wiki/Git_(software)
+SVN , URL: /wiki/Apache_Subversion
+"
+"Codelobster , URL: /wiki/Codelobster
+","Codelobster , URL: /wiki/Codelobster
+","March 2018, 5.14.5","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","via plugins"
+"Eclipse Che , URL: /wiki/Eclipse_Che
+","Eclipse Foundation , URL: /wiki/Eclipse_Foundation
+Zend , URL: /wiki/Zend_Technologies
+","4.7 / September 2, 2016","Cross-platform , URL: /wiki/Cross-platform
+","EPL , URL: /wiki/Eclipse_Public_License
+","Yes","Yes","Yes","Unknown"
+"Eclipse PDT , URL: /wiki/Eclipse_PDT
+","Eclipse Foundation , URL: /wiki/Eclipse_Foundation
+Zend , URL: /wiki/Zend_Technologies
+","7.0 / December 18, 2019","Windows , URL: /wiki/Microsoft_Windows
+Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+FreeBSD , URL: /wiki/FreeBSD
+JVM , URL: /wiki/Java_Virtual_Machine
+Solaris , URL: /wiki/Solaris_(operating_system)
+","EPL , URL: /wiki/Eclipse_Public_License
+","Yes","Yes","Yes","CVS , URL: /wiki/Concurrent_Versions_System
+Git , URL: /wiki/Git_(software)
+Mercurial , URL: /wiki/Mercurial
+SVN , URL: /wiki/Apache_Subversion
+"
+"Geany , URL: /wiki/Geany
+","Geany , URL: /wiki/Geany
+","1.37.1 / November 8, 2020","Windows , URL: /wiki/Microsoft_Windows
+Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+FreeBSD , URL: /wiki/FreeBSD
+AIX , URL: /wiki/IBM_AIX
+OpenBSD , URL: /wiki/OpenBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+Unix , URL: /wiki/Unix
+","GPL , URL: /wiki/GPL
+","Yes","No","No","via plugins"
+"HTML-Kit , URL: /wiki/HTML-Kit
+","Chami.com","292","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","Unknown","No","Unknown","Unknown"
+"HyperEdit , URL: /wiki/HyperEdit
+","Jonathan Deutsch / Tumult","1.6 / April 30, 2008","macOS , URL: /wiki/MacOS
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","No","No"
+"KDevelop , URL: /wiki/KDevelop
+","KDE , URL: /wiki/KDE
+","5.5.1 (May 5, 2020; 22 months ago (2020-05-05)) [±]","Cross-platform , URL: /wiki/Cross-platform
+","GPL , URL: /wiki/GPL
+","Yes","No","Unknown","CVS , URL: /wiki/Concurrent_Versions_System
+Git , URL: /wiki/Git_(software)
+SVN , URL: /wiki/Apache_Subversion
+"
+"Komodo IDE / Edit , URL: /wiki/ActiveState_Komodo
+","ActiveState , URL: /wiki/ActiveState
+","10.0.1 (June 2016)","Cross-platform , URL: /wiki/Cross-platform
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Bazaar , URL: /wiki/GNU_Bazaar
+CVS , URL: /wiki/Concurrent_Versions_System
+Git , URL: /wiki/Git_(software)
+Mercurial , URL: /wiki/Mercurial
+Perforce , URL: /wiki/Perforce
+SVN , URL: /wiki/Apache_Subversion
+"
+"NetBeans , URL: /wiki/NetBeans
+","Sun Microsystems , URL: /wiki/Sun_Microsystems
+Oracle , URL: /wiki/Oracle_Corporation
+","
+URL: https://www.wikidata.org/wiki/Q264456?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","Cross-platform , URL: /wiki/Cross-platform
+","Apache License , URL: /wiki/Apache_License
+","Yes","Yes","Yes","CVS , URL: /wiki/Concurrent_Versions_System
+Git , URL: /wiki/Git_(software)
+Mercurial , URL: /wiki/Mercurial
+SVN , URL: /wiki/Apache_Subversion
+"
+"PHPEclipse , URL: /wiki/PHPEclipse
+Eclipse , URL: /wiki/Eclipse_(software)
+","PHPEclipse , URL: /wiki/PHPEclipse
+","1.2.2 / September 2009","Windows , URL: /wiki/Microsoft_Windows
+Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+FreeBSD , URL: /wiki/FreeBSD
+JVM , URL: /wiki/Java_Virtual_Machine
+Solaris , URL: /wiki/Solaris_(operating_system)
+","CPL , URL: /wiki/Common_Public_License
+","Yes","Yes","Unknown","Unknown"
+"PhpED Professional , URL: /wiki/PHPEd
+","NuSphere Corporation","19.111 / May, 2019","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Unknown","CVS , URL: /wiki/Concurrent_Versions_System
+SVN , URL: /wiki/Apache_Subversion
+"
+"PHPEdit , URL: /wiki/PHPEdit
+","WaterProof SARL","3.6.4 (April 9, 2010; 11 years ago (2010-04-09)) [±]","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","CVS , URL: /wiki/Concurrent_Versions_System
+SVN , URL: /wiki/Apache_Subversion
+"
+"PhpStorm , URL: /wiki/PhpStorm
+IntelliJ IDEA , URL: /wiki/IntelliJ_IDEA
+","JetBrains , URL: /wiki/JetBrains
+","2019.1 / 28 March 2019","Windows , URL: /wiki/Microsoft_Windows
+Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+FreeBSD , URL: /wiki/FreeBSD
+OpenBSD , URL: /wiki/OpenBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","CVS , URL: /wiki/Concurrent_Versions_System
+Git , URL: /wiki/Git_(software)
+Mercurial , URL: /wiki/Mercurial
+Perforce , URL: /wiki/Perforce
+SVN , URL: /wiki/Apache_Subversion
+"
+"Quanta Plus , URL: /wiki/Quanta_Plus
+","KDE , URL: /wiki/KDE
+","3.5.8 / October 16, 2007","Linux , URL: /wiki/Linux
+","GPL , URL: /wiki/GPL
+","Unknown","No","Unknown","Unknown"
+"RadPHP , URL: /wiki/RadPHP
+","Embarcadero Technologies , URL: /wiki/Embarcadero_Technologies
+","XE2 / August 30, 2011","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Unknown"
+"SlickEdit , URL: /wiki/SlickEdit
+","SlickEdit , URL: /wiki/SlickEdit
+","October 2016","Windows , URL: /wiki/Windows
+Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+AIX , URL: /wiki/AIX
+HP-UX , URL: /wiki/HP-UX
+Solaris , URL: /wiki/Solaris_(operating_system)
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","Yes"
+"Zend Studio , URL: /wiki/Zend_Studio
+","Zend , URL: /wiki/Zend_Technologies
+","10.6 / February 2014","Cross-platform , URL: /wiki/Cross-platform
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","CVS , URL: /wiki/Concurrent_Versions_System
+Git , URL: /wiki/Git_(software)
+SVN , URL: /wiki/Apache_Subversion
+"

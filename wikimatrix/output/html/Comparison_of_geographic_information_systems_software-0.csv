@@ -1,0 +1,145 @@
+"GIS software","Free software , URL: /wiki/Free_software
+","Open source , URL: /wiki/Open-source_software
+","Windows , URL: /wiki/Microsoft_Windows
+","Mac OS X , URL: /wiki/Mac_OS_X
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/Berkeley_Software_Distribution
+","Unix , URL: /wiki/Unix
+","Web","Other"
+"ArcGIS , URL: /wiki/ArcGIS
+","Viewer(s)","No","Yes","Yes","No","No","Yes","Yes","Google Earth Plugin , URL: /wiki/Google_Earth
+KML , URL: /wiki/Keyhole_Markup_Language
+WMS , URL: /wiki/Web_Map_Service
+"
+"Autodesk , URL: /wiki/Autodesk
+","Viewer(s)","No","Yes","No","Yes","No","No","Yes","No"
+"Cadcorp , URL: /wiki/Cadcorp
+","Viewer(s)","No","Yes","No","No","No","No","Yes","No"
+"CAPAWARE , URL: /wiki/Capaware
+","Yes","Yes","Yes","No","No","No","No","No","No"
+"Chameleon , URL: /wiki/Chameleon_(GIS)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","AMP , URL: /wiki/LAMP_(software_bundle)
+","No"
+"Deegree , URL: /wiki/Deegree
+","Yes","Yes","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Yes","No"
+"Erdas Imagine , URL: /wiki/Erdas_Imagine
+","Viewers & Plug-ins","No","Yes","No","No","No","No","Yes","No"
+"GeoBase , URL: /wiki/GeoBase_(Telogis_GIS_software)
+","Trial","No","Yes","No","Yes","Yes","No","Yes","WMS , URL: /wiki/Web_Map_Service
+"
+"GeoNetwork , URL: /wiki/GeoNetwork_opensource
+","Yes","Yes","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Yes","No"
+"GeoServer , URL: /wiki/GeoServer
+","Yes","Yes","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","No"
+"GeoTools , URL: /wiki/GeoTools
+","Yes","Yes","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","No","No"
+"GRASS , URL: /wiki/GRASS_GIS
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","via pyWPS[1]","No"
+"gvSIG , URL: /wiki/GvSIG
+","Yes","Yes","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","No","No"
+"IDRISI , URL: /wiki/IDRISI
+","No","No","Yes","No","No","No","No","No","No"
+"ILWIS , URL: /wiki/ILWIS
+","Yes","Yes","Yes","No","No","No","No","No","No"
+"GeoMedia , URL: /wiki/Hexagon_Geospatial
+","Viewer(s)","No","Yes","No","No","No","CLIX","Yes","KML , URL: /wiki/Keyhole_Markup_Language
+"
+"JUMP GIS , URL: /wiki/JUMP_GIS
+","Yes","Yes","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","No","No"
+"Kosmo , URL: /wiki/Kosmo
+","Yes","Yes","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","No","No"
+"LandSerf , URL: /wiki/LandSerf
+","No","No","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","No","No"
+"MapDotNet , URL: /wiki/MapDotNet
+","No","No","Yes","No","No","No","No","Yes",""
+"Manifold System , URL: /wiki/Manifold_System
+","No","No","Yes","No","No","No","No","Yes","No"
+"Microsoft MapPoint , URL: /wiki/Microsoft_MapPoint
+","Discontinued","No","Yes","No","No","No","No","Yes","No"
+"Pitney Bowes MapInfo Pro , URL: /wiki/MapInfo_Professional
+","Viewer(s)","No","Yes","No","No","No","Yes","Yes","No"
+"MapServer , URL: /wiki/MapServer
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","AMP , URL: /wiki/LAMP_(software_bundle)
+","No"
+"Maptitude , URL: /wiki/Maptitude
+","No","No","Yes","No","No","No","No","Yes","No"
+"MapWindow GIS , URL: /wiki/MapWindow_GIS
+","Yes","Yes","Yes","No","No","No","No","No","No"
+"Oracle Spatial , URL: /wiki/Oracle_Spatial
+","No","No","Yes","Yes","Yes","No","Yes","Yes","No"
+"PostGIS , URL: /wiki/PostGIS
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"QGIS , URL: /wiki/QGIS
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Google Earth Plugin , URL: /wiki/Google_Earth
+KML , URL: /wiki/Keyhole_Markup_Language
+WMS , URL: /wiki/Web_Map_Service
+"
+"RegioGraph , URL: /wiki/RegioGraph
+","No","No","Yes","No","No","No","No","No","No"
+"RemoteView , URL: /wiki/RemoteView
+","No","No","Yes","No","No","No","No","No","No"
+"SAGA GIS , URL: /wiki/SAGA_GIS
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","KLM"
+"SAP HANA , URL: /wiki/SAP_HANA
+","Free Trial","No","No","No","Yes","No","No","Yes","No"
+"Smallworld , URL: /wiki/Smallworld
+","No","Yes","Yes","No","Yes","No","Yes","Read-only","OLE, XML, Multiuser, Utility Data Model, Data Translator export/import"
+"SPRING , URL: /wiki/SPRING
+","Yes","Yes","Yes","No","Yes","No","Solaris , URL: /wiki/Solaris_(operating_system)
+","No","No"
+"TerraLib , URL: /wiki/TerraLib
+TerraView , URL: /wiki/TerraView
+","Yes","Yes","Yes","No","Yes","No","No","No","No"
+"TNTmips , URL: /wiki/TNTmips
+","Viewer(s)","No","Yes","Yes","Yes","No","Yes","No","No"
+"TransModeler , URL: /wiki/TransModeler
+","No","No","Yes","No","No","No","No","No","No"
+"uDIG , URL: /wiki/UDIG
+","Yes","Yes","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","Java , URL: /wiki/Java_(Sun)
+","No","No"
+"GIS software","Free software","Open source","Windows","Mac OS X","Linux","BSD","Unix","Web","Other"

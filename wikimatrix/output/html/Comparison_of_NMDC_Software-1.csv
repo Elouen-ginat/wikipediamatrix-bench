@@ -1,20 +1,45 @@
-"null","null","null","null","null","null","null","null","null","null","null","null"
-"UFOHub","No","Proprietary Freeware","Yes","8.22.3 (2022-Feb-12)","Yes","No","Yes","Yes","Unknown","",""
-"Verlihub","Yes","GNU GPL","Yes","1.2.0.0 (2019-03-10)","No","Yes","Unknown","No","C++, Lua, Python, Perl","","null"
-"PTDCH","Yes","GNU GPL","Yes","Never released since 2008","Yes","Unknown","Unknown","No","Visual Basic, Jscript, VBscript","DDCH","null"
-"Dtella","Yes","GNU GPL","Yes","1.2.9 (2015-06-07)[2]","No","No","Yes","No","Python","","null"
-"HeXHub","Yes","Open Software License","Yes","5.12 (2014-03-01)","Yes","Unknown","Unknown","No","Assembly","","null"
-"Open Direct Connect Hub","Yes","GNU GPL","No","0.8.3 (2014-08-14)","No","Unknown","Unknown","No","C, Perl","","Available in Debian[3] and OpenWrt[4]"
-"Flexhub","Yes","GNU AGPL","Yes","Beta 0.2 svn 1469 (2013-10-22)","Pending","Yes","Unknown","No","Lua","","null"
-"PtokaX","Yes","GNU GPL","Yes","0.5.2.2 (2017-04-11)[5]","Yes","Yes","Unknown","Yes","C++, Lua","","null"
-"RusHub","Yes","GNU GPL","Yes","2.3.10 (2012-06-10)[6]","No","Yes","Unknown","Yes","C++, Lua","Verlihub[7]","null"
-"Eximius[8]","No","Proprietary Freeware","Yes","2007","Yes","Unknown","Unknown","No","C#, Lua","","null"
-"DB Hub","Yes","GNU GPL","No","0.451 (2008-02-08)","Unknown","Unknown","Unknown","No","Unknown","OpenDCHub","null"
-"openDCd","Yes","GNU GPL","No","2002","Unknown","Unknown","Unknown","No","Unknown","","null"
-"DDCH DevDirect Connect Hub","Unknown","Unknown","No","","Yes","No","No","No","Visual Basic, Jscript","","null"
-"py-dchub","Yes","MIT License","No","0.2.4 (2006-02-13)","Unknown","Unknown","Unknown","No","Python","","null"
-"Aquila","Yes","GNU GPL","No","0.1.11-pre4-beta4 (2015-02-17)","No","Yes","No","No","C++, Lua","","null"
-"YnHub","No","Proprietary Freeware","Yes","1.0364.126 (2016-07-15)","Yes","No","No","No","Delphi","","null"
-"LamaHub","Yes","GNU GPL","No","0.0.6.3 (2010-04-25)","Unknown","Unknown","Unknown","No","C","","null"
-"DC Sharp Hub","Yes","GNU GPL","No","3.0.4 beta (2004-09-06)","Unknown","Unknown","Unknown","No","C#","","null"
-"null","null","null","null","null","null","null","null","null","null","null","null"
+"NMDC hub","Windows , URL: /wiki/Windows
+","Linux , URL: /wiki/Linux
+","Mac OS X , URL: /wiki/Mac_OS_X
+","Other"
+"UFOHub","Yes","No","No","No"
+"Eximius","Yes","No","No","No"
+"PTDCH","Yes","No","No","No"
+"Aquila","Yes","Yes","No","No"
+"Dtella","Yes","Yes","Yes","No"
+"HeXHub","Yes","No","No","No"
+"Open Direct Connect Hub","No","Yes","No","OpenWrt , URL: /wiki/OpenWrt
+"
+"Flexhub","Yes","Yes","No","Qnap , URL: /w/index.php?title=Qnap&action=edit&redlink=1
+Synology , URL: /wiki/Synology
+NAS , URL: /wiki/Network-attached_storage
+"
+"openDCd","Yes","Yes","No","No"
+"DDCH DevDirect Connect Hub","Yes","No","No","No"
+"DBHub","No","Yes","No","No"
+"PtokaX","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+OpenBSD , URL: /wiki/OpenBSD
+NetBSD , URL: /wiki/NetBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+illumos , URL: /wiki/Illumos
+Haiku , URL: /wiki/Haiku_(operating_system)
+"
+"py-dchub","Yes","Yes","Yes","Python , URL: /wiki/Python_(programming_language)
+"
+"RusHub","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+"
+"VerliHub","No","Yes","No","No"
+"Yhub","Yes","No","No","No"
+"Ynhub","Yes","No","No","No"
+"LamaHub","Yes","Yes","Yes","OS/2 , URL: /wiki/OS/2
+OpenBSD , URL: /wiki/OpenBSD
+NetBSD , URL: /wiki/NetBSD
+TrueOS , URL: /wiki/TrueOS
+FreeBSD , URL: /wiki/FreeBSD
+"
+"DC Sharp Hub","Yes","No","No","No"
+"NMDC hub","Windows , URL: /wiki/Windows
+","Linux , URL: /wiki/Linux
+","Mac OS X , URL: /wiki/Mac_OS_X
+","Other"

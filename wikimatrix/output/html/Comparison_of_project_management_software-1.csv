@@ -1,131 +1,251 @@
-"null","null","null","null","null","null"
-"24SevenOffice","Yes","No","Yes","Proprietary",""
-"Actionspace","Yes","No","Yes","Proprietary",""
-"AnyChart (AnyGantt)","Yes","Yes","Yes","Proprietary","JavaScript"
-"Apache Allura","Yes","Yes","","Apache License","Python"
-"Apache OFBiz","Yes","Yes","Yes","Apache License","Java, XML, FreeMarker, Groovy, JavaScript"
-"Apache Bloodhound","Yes","Yes","Yes","Apache License","Python"
-"Asana","Yes","No","Yes","Proprietary",""
-"Assembla","Yes","Yes","Yes","Proprietary",""
-"Axosoft","Yes","Yes","Yes","Proprietary",""
-"Basecamp","Yes[1]","No[2]","Yes","Proprietary","Ruby"
-"BigGantt","Yes","Yes","Yes","Proprietary","Java, Angular"
-"BigPicture","Yes","Yes","Yes","Proprietary","Java, Angular"
-"Calligra Plan","No","File-based","No","GPL","C++ and Java"
-"CEITON","Yes","Yes","Yes","Proprietary","ASP.NET, JavaScript"
-"Clarizen","Yes[3]","No","Yes[3]","Proprietary",""
-"Clubhouse Software","Yes","","Yes","Proprietary","Clojure, JavaScript"
-"ConceptDraw Project","No","Yes","No","Proprietary",""
-"ConceptDraw PLAN","Yes","No","Yes","Proprietary","PHP and Java"
-"Copper Project","Yes","Yes","Yes","Proprietary",""
-"dotProject","Yes","Yes","Yes","GPL","PHP"
-"DynaRoad","No","Unknown","Unknown","Proprietary",""
-"Easy projects","Yes[4]","Yes[4]","Yes[4]","Proprietary","ASP.NET"
-"Endeavour Software Project Management","Yes","Unknown","Unknown","GPL","Java"
-"eGroupWare","Yes","Unknown","Unknown","GPL","PHP"
-"enQuire","Yes","Unknown","Yes","Proprietary","Java"
-"FastTrack Schedule","No","Yes","No","Proprietary",""
-"Feng Office Community Edition","Yes","Yes","Yes","AGPLv3","PHP"
-"FinancialForce.com","Yes","Unknown","Yes","Proprietary",""
-"FogBugz","Yes","Yes","Yes","Proprietary","ASP.NET"
-"Fossil-scm","Yes[5]","Yes[6]","Yes[7]","2-clause BSD license","SQLite and C"
-"Freedcamp","Yes","No","Yes","Proprietary",""
-"FusionForge","Yes","Yes","Unknown","GPL","PHP"
-"GanttProject","No","Yes","Unknown","GPL","Java"
-"Genius Project","Yes","Yes","Yes","Proprietary",""
-"Group-Office","Yes","Yes","Yes","Proprietary",""
-"GroveSite","Yes","Unknown","Yes","Unknown",""
-"Hall.com","Yes","Unknown","Yes","Unknown",""
-"Helix ALM","Yes","Yes","Yes","Proprietary","C++"
-"HeySpace","Yes","No","Yes","Proprietary","JavaScript"
-"HP Project & Portfolio Software","Yes","Yes","Unknown","Proprietary",""
-"Huddle","Yes","Unknown","Unknown","Proprietary",""
-"Hyperoffice","Yes","Unknown","Unknown","Proprietary",""
-"iManageProject","Yes","Unknown","Yes","Unknown",""
-"InLoox","Yes","Yes","Yes","Proprietary",""
-"in-Step BLUE","Yes","Yes","No","Proprietary",""
-"IRise","Yes","Yes","Yes","Proprietary","Java"
-"Jira","Yes","Yes","Yes","Proprietary","Java"
-"Launchpad","Yes","No","Yes","AGPL","Python"
-"Leantime","Yes","Yes","Yes","GPL","PHP"
-"LibrePlan","Yes","Yes","Yes","AGPL","Java"
-"LiquidPlanner","Yes","No","Yes","Proprietary","Ruby"
-"LisaProject","No","Unknown","Unknown","Proprietary",""
-"MacProject","No","Unknown","Unknown","Proprietary",""
-"MantisBT","Yes","Yes","No","GPL","PHP"
-"Métier","Yes","Yes","Yes","Proprietary",""
-"Microsoft Dynamics AX","No","Yes","No","Proprietary","X++"
-"Microsoft Office Project Server","Yes","Yes","Yes","Proprietary",""
-"Microsoft Project","Yes","Yes","Yes","Proprietary",""
-"Microsoft SharePoint Server","Yes","Yes","Yes","Proprietary",""
-"Microsoft Team Foundation Server","Yes","Yes","Yes","Proprietary",""
-"Milestones Professional","No","Yes","No","Proprietary","C++"
-"Mingle","Yes","Yes","Yes","Proprietary","Ruby on Rails"
-"MyWorkPLAN","No","Unknown","Unknown","Proprietary",""
-"NetPoint","No","Unknown","Unknown","Proprietary",""
-"NetSuite","Yes","Unknown","Yes","Unknown",""
-"O3Spaces","No","Unknown","Unknown","Proprietary",""
-"OmniPlan","No","Yes","No","Proprietary",""
-"Onepager pro","No","Yes","No","Proprietary","ASP.NET"
-"Open Workbench","No","Unknown","Unknown","Open source",""
-"OpenProj","No","Unknown","Yes","CPAL","Java"
-"OpenProject","Yes","Yes","Yes","GPL","Ruby on Rails and Angular"
-"OnlyOffice","Yes","Yes","Yes","GPL","ASP.NET"
-"Oracle Primavera EPPM (Primavera P6)","Yes","Yes","Yes","Proprietary",""
-"phpGroupWare","Yes","Unknown","Unknown","GPL","PHP"
-"PHProjekt","Yes","Unknown","Unknown","LGPL","PHP"
-"Pivotal Tracker","Yes","No","Yes","Unknown","Ruby"
-"Plandora","Yes","Yes","Unknown","LGPL","Java"
-"Planisware","Yes","Yes","Yes","Proprietary",""
-"PLANTA Project","Yes","Yes","No","Proprietary",""
-"Project KickStart","No","Yes","Unknown","Proprietary",""
-"Project Team Builder","Yes","Yes","Yes","Proprietary",""
-"Projector PSA","Yes","Yes","Yes","Proprietary",""
-"ProjectLibre","No (Cloud based version under development)[8]","Yes","No (Included in future plans)[9]","CPAL","Java"
-"ProjectManager.com","Yes[10]","No","Yes","Proprietary",""
-"Project.net","Yes","Yes","Yes","GPL","Java"
-"Projectplace","Yes","No","Yes","Proprietary",""
-"Projektron BCS","Yes","Yes","Yes","Proprietary","Java"
-"ProjeQtOr","Yes","Yes","Yes","AGPL","PHP"
-"Proliance","Yes","Yes","Yes","Proprietary",""
-"ProjectLink","Yes","Yes","Yes","Proprietary",""
-"Prolog","Yes","Yes","Yes","Proprietary",""
-"Priority Matrix","Yes","No","Yes","Proprietary",""
-"Pyrus","Yes","Yes","Yes","Proprietary",""
-"RationalPlan","Yes","Yes","Yes","Proprietary",""
-"Realisor","No","Yes","No","Proprietary",""
-"Redbooth","Yes[11]","Yes","Yes[11]","AGPL;[12] Proprietary (version 4)","Ruby on Rails"
-"Redmine","Yes","Yes","Yes [13][14][15]","GPL","Ruby"
-"Rillsoft Project & Integration Server","Yes","Yes","Yes","Proprietary","C++ and PHP"
-"RiskyProject","Yes","Yes","Yes","Proprietary",""
-"SAP Business ByDesign","Yes","Unknown","Yes","Proprietary",""
-"Sciforma","Yes","Yes","Yes","Proprietary",""
-"Scoro","Yes","No","Yes","Proprietary","PHP[16]"
-"Seavus Project Viewer (software)","Yes","Yes","Yes","Proprietary","C++"
-"Severa","Yes","Unknown","Yes","Unknown",""
-"Smartsheet","Yes","Unknown","Yes","Proprietary","PHP"
-"Spider Project","No","No","No","Proprietary",""
-"Streamtime Software","Yes","No","Yes","Proprietary","PHP"
-"TACTIC","Yes","Yes","Yes","Eclipse Public License","Python"
-"Taiga","Yes","Yes","Yes","AGPL","Python"
-"Talygen","Yes","No","Yes","Proprietary","ASP.NET"
-"TaskJuggler","No","Yes","No","GPL","Ruby"
-"Teamcenter","Yes","Yes","Yes","Proprietary",""
-"TeamDynamixHE","Yes","Yes","Yes","Proprietary",""
-"Tom's Planner","Yes","Unknown","Unknown","Proprietary",""
-"Trac","Yes","Yes","Yes","(modified) BSD license","Python"
-"TrackerSuite.Net","Yes","Yes","Yes","Proprietary",""
-"Traction TeamPage","Yes","Yes","Yes","Proprietary","Java"
-"Trello","Yes","No","Yes","Proprietary","CoffeeScript, Backbone.js, HTML5, Mustache templating language, MongoDB, Node.js, Socket.io"
-"Triskell","Yes","No","Yes","Proprietary","Java"
-"Tuleap","Yes","Yes","Yes","GPL",""
-"Twproject","Yes","Yes","Yes","Proprietary",""
-"UniPhi","Yes","Yes","Yes","Proprietary","ASP.NET"
-"Vpmi","Yes","Unknown","Unknown","Proprietary",""
-"web2project","Yes","Unknown","Unknown","GPL","PHP"
-"Workamajig","Yes","Yes","Yes","Proprietary",""
-"Workfront","Yes[17]","No","Yes","Proprietary",""
-"WorkPLAN Enterprise","No","Unknown","Unknown","Proprietary",""
-"Workspace.com","Yes","Unknown","Yes","Proprietary",""
-"Wrike","Yes","Unknown","Yes","Proprietary",""
-"Zoho Projects","Yes","No","Yes","Proprietary","PHP"
+"Software","Collaborative software , URL: /wiki/Collaborative_software
+","Issue tracking system , URL: /wiki/Issue_tracking_system
+","Scheduling , URL: /wiki/Scheduling_(production_processes)
+","Project portfolio management , URL: /wiki/Project_portfolio_management
+","Resource management , URL: /wiki/Resource_management
+","Document management , URL: /wiki/Document_management_system
+","Workflow system , URL: /wiki/Workflow_management_system
+","Reporting , URL: /wiki/Report
+"
+"24SevenOffice , URL: /wiki/24SevenOffice
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Actionspace , URL: /wiki/Actionspace
+","Yes","Yes","Yes","No","No","No (Integrates with SharePoint)","Yes","Yes"
+"AnyChart , URL: /wiki/AnyChart
+","Yes","No","Yes","Yes","Yes","No","Yes","Yes"
+"Apache Allura , URL: /wiki/Apache_Allura
+","Yes","Yes","No","Yes","Yes","Yes","No","No"
+"Apache OFBiz , URL: /wiki/Apache_OFBiz
+","Unknown","No","Yes","Yes","Yes","Yes","No","Unknown"
+"Apache Bloodhound , URL: /wiki/Apache_Bloodhound
+","Yes","Yes","No","No","No","No","Yes","No"
+"Asana , URL: /wiki/Asana_(software)
+","Yes","No","Yes","Yes","Yes","No","Yes","Yes"
+"Assembla , URL: /wiki/Assembla
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Axosoft , URL: /wiki/Axosoft
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Basecamp , URL: /wiki/Basecamp_Classic
+","Yes[18]","No","No","No","Yes[17]","Yes","No","No"
+"BigGantt , URL: /wiki/BigGantt
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes"
+"BigPicture , URL: /wiki/BigPicture
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes"
+"Calligra Plan , URL: /wiki/Calligra_Plan
+","No","No","Yes","No","Yes","No","No","No"
+"CEITON , URL: /wiki/CEITON
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Clarizen , URL: /wiki/Clarizen
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"ConceptDraw Project , URL: /wiki/ConceptDraw_Project
+","Yes[19]","Yes[20]","Yes[21]","Yes","Yes","Yes","Yes","Yes"
+"Copper Project , URL: /wiki/Copper_Project
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes"
+"dotProject , URL: /wiki/DotProject
+","Yes","Yes","No","Yes","Yes","Yes","No","Yes"
+"DynaRoad , URL: /wiki/DynaRoad
+","No","No","Yes","No","Yes","No","Yes","Yes"
+"Easy projects , URL: /wiki/Easy_projects
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes"
+"Endeavour Software Project Management , URL: /wiki/Endeavour_Software_Project_Management
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes"
+"eGroupWare , URL: /wiki/EGroupWare
+","Yes","Yes","No","Yes","Yes","Yes","No","No"
+"enQuire , URL: /wiki/EnQuire
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"FastTrack Schedule , URL: /wiki/FastTrack_Schedule
+","Yes","No","Yes","Yes","Yes","No","Yes","Yes"
+"Feng Office Community Edition , URL: /wiki/Feng_Office_Community_Edition
+","Yes","No","Yes","Yes","No","Yes","No","No"
+"FinancialForce.com , URL: /wiki/FinancialForce.com
+","No","No","Yes","No","Yes","No","No","Yes"
+"FogBugz , URL: /wiki/FogBugz
+","Yes","Yes","Yes","No","Yes","No","Yes","Yes"
+"Fossil-scm , URL: /wiki/Fossil_(software)
+","Yes","Yes","No","No","No","No","No","No"
+"Freedcamp , URL: /wiki/Freedcamp
+","Yes","Yes","Yes","No","No","Yes","Yes","Yes"
+"GanttProject , URL: /wiki/GanttProject
+","No","No","Yes","No","Yes","No","No","No"
+"Genius Project , URL: /wiki/Genius_Project
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Goalscape , URL: /wiki/Goalscape_Visual_Information_Management_Software
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes"
+"Group-Office , URL: /wiki/Group-Office
+","Yes","No","Yes","No","No","Yes","No","No"
+"GroveSite , URL: /wiki/GroveSite
+","Yes","Yes","Yes","Yes","No","Yes","No","No"
+"Hall.com , URL: /wiki/Hall.com_(software)
+","Yes","No","No","No","Yes","Yes","No","No"
+"Helix ALM , URL: /wiki/Helix_ALM
+","Yes","Yes","No","No","No","No","Yes","Yes"
+"HeySpace , URL: /wiki/HeySpace
+","Yes","Yes","Yes","Yes","No","No","No","No"
+"HP Project & Portfolio Software , URL: /wiki/HP_Software_%26_Solutions
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Huddle , URL: /wiki/Huddle_(software)
+","Yes","No","No","No","No","Yes","No","No"
+"Hyperoffice , URL: /wiki/Hyperoffice
+","Yes","No","No","No","No","Yes","No","No"
+"iManageProject , URL: /wiki/Imanageproject
+","Yes","No","No","No","Yes","Yes","No","No"
+"InLoox , URL: /wiki/InLoox
+","Yes","Yes","Yes","No","Yes","Yes","No","Yes"
+"in-Step BLUE , URL: /wiki/In-Step_BLUE
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"IRise , URL: /wiki/IRise
+","Yes","Yes","Yes","No","No","No","Yes","Yes"
+"Jira , URL: /wiki/Jira_(software)
+","Yes","Yes","Yes","No","No","No","Yes","Yes"
+"Launchpad , URL: /wiki/Launchpad_(website)
+","Yes","Yes","No","Yes","No","No","No","No"
+"LibrePlan , URL: /wiki/LibrePlan
+","Yes","No","Yes","No","Yes","No","No","Yes"
+"LiquidPlanner , URL: /wiki/LiquidPlanner
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"LisaProject , URL: /wiki/LisaProject
+","No","No","Yes","No","Yes","No","No","No"
+"MacProject , URL: /wiki/MacProject
+","No","No","Yes","No","Yes","No","No","No"
+"MantisBT , URL: /wiki/Mantis_Bug_Tracker
+","No","Yes","No","No","No","No","No","No"
+"Métier , URL: /wiki/M%C3%A9tier
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Microsoft Dynamics AX , URL: /wiki/Microsoft_Dynamics_AX
+","Yes","No","Yes","No","Yes","Yes","Yes","Yes"
+"Microsoft Office Project Server , URL: /wiki/Microsoft_Office_Project_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Microsoft Project , URL: /wiki/Microsoft_Project
+","No","No","Yes","No","Yes","No","No","Yes"
+"Microsoft SharePoint Server , URL: /wiki/Microsoft_SharePoint_Server
+","Yes","Yes","Yes","No","No","Yes","Yes","No"
+"Microsoft Team Foundation Server , URL: /wiki/Team_Foundation_Server
+","Yes","Yes","Yes","No","No","Yes","Yes","Yes"
+"Milestones Professional , URL: /wiki/Milestones_Professional
+","No","Yes","Yes","No","No","Yes","No","No"
+"MyWorkPLAN , URL: /wiki/WorkPLAN
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"NetPoint , URL: /wiki/NetPoint
+","No","No","Yes","No","Yes","No","No","No"
+"NetSuite , URL: /wiki/NetSuite
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes"
+"O3Spaces , URL: /wiki/O3Spaces
+","Yes","No","No","No","No","Yes","No","No"
+"OnePager Pro , URL: /wiki/Onepager_pro
+","Yes","No","Yes","Yes","Yes","Yes","No","Yes"
+"OmniPlan , URL: /wiki/OmniPlan
+","Yes","No","Yes","No","Yes","No","No","Yes"
+"Open Workbench , URL: /wiki/Open_Workbench
+","No","No","Yes","No","Yes","No","No","No"
+"OpenProj , URL: /wiki/OpenProj
+","No","No","Yes","No","Yes","No","No","No"
+"OpenProject , URL: /wiki/OpenProject
+","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes (via OpenProject plug-ins)[22]"
+"Oracle Primavera EPPM , URL: /wiki/Primavera_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"phpGroupWare , URL: /wiki/PhpGroupWare
+","Yes","Yes","No","Unknown","Yes","Yes","No","No"
+"PHProjekt , URL: /wiki/PHProjekt
+","Yes","Yes","Yes","No","No","No","No","No"
+"Pivotal Tracker , URL: /wiki/Pivotal_Tracker
+","Yes","Yes","Yes","No","No","Yes","Yes","Yes"
+"Plandora , URL: /wiki/Plandora
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes"
+"Planisware , URL: /wiki/Planisware
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"PLANTA Project , URL: /wiki/PLANTA_Project
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Project KickStart , URL: /wiki/Project_KickStart
+","No","No","Yes","No","Yes","Yes[23]","Yes[24]","Yes[25]"
+"Project Team Builder , URL: /wiki/Project_Team_Builder
+","Yes","No","Yes[26]","Yes[26]","Yes[26]","No","Yes","Yes[26]"
+"ProjectLibre , URL: /wiki/ProjectLibre
+","No (Enterprise ProjectLibre and PPMLibre under development)[8][27]","No","Yes","No (Enterprise ProjectLibre and PPMLibre under development)[8][27]","Yes","No[28]","No","Yes"
+"ProjectLink , URL: /wiki/Windchill_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"ProjectManager.com , URL: /wiki/ProjectManager.com
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Project.net , URL: /wiki/Project.net
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Projector PSA , URL: /wiki/Projector_PSA
+","No","No","Yes","No","Yes","Yes","Yes","Yes"
+"Projectplace , URL: /wiki/Projectplace_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"Projektron BCS , URL: /wiki/Projektron_BCS
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"ProjeQtOr , URL: /wiki/ProjeQtOr
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Proliance , URL: /wiki/Meridian_Systems
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes[29]","Yes [30]"
+"Prolog , URL: /wiki/Meridian_Systems
+","Yes","Yes","No","Yes","No","Yes","Yes","Yes"
+"Pyrus , URL: /wiki/Pyrus_(software)
+","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes"
+"RationalPlan , URL: /wiki/RationalPlan
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Realisor , URL: /wiki/Realisor
+","Yes","No","Yes","Yes","Yes","No","No","Yes"
+"Redbooth , URL: /wiki/Redbooth
+","Yes[1]","Unknown","Unknown","Yes[31]","Yes[1]","Yes[1]","Unknown","Unknown"
+"Redmine , URL: /wiki/Redmine
+","Yes","Yes","Yes","Yes","No","Yes","Yes","No"
+"Rillsoft Project , URL: /wiki/Rillsoft_Project
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"SAP Business ByDesign , URL: /wiki/SAP_Business_ByDesign
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Sciforma , URL: /wiki/Sciforma
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Scoro , URL: /wiki/Scoro
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Severa , URL: /wiki/Severa
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Smartsheet , URL: /wiki/Smartsheet
+","Yes","Yes","Yes","No","Yes","Yes","No","Yes"
+"Spider Project , URL: /wiki/Spider_Project
+","No","No","Yes","Yes","Yes","No","No","Yes"
+"Streamtime Software , URL: /wiki/Streamtime_Software
+","Yes","No","Yes","Yes","Yes","No","Yes","Yes"
+"TACTIC , URL: /wiki/TACTIC_(web_framework)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Talygen , URL: /wiki/Talygen_Business_Intelligence
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes"
+"TaskJuggler , URL: /wiki/TaskJuggler
+","Yes","No","Yes","No","Yes","No","No","No"
+"Teamcenter , URL: /wiki/Teamcenter
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"TeamDynamixHE , URL: /wiki/TeamDynamixHE
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"TeamLab , URL: /wiki/TeamLab
+","Yes","No","Yes","Yes","No","Yes","No","Yes"
+"Trac , URL: /wiki/Trac
+","Yes","Yes","No","No","No","No","Yes","No"
+"TrackerSuite.Net , URL: /wiki/Tracker_(Business_Software)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Traction TeamPage , URL: /wiki/Traction_TeamPage
+","Yes","Yes","Yes","Yes","No","Yes","No","Yes"
+"Trello , URL: /wiki/Trello
+","Yes","Yes","Yes","Unknown","Unknown","No","No","Unknown"
+"Triskell , URL: /wiki/Triskell
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Tuleap , URL: /wiki/Tuleap
+","Yes","Yes","Yes","No","No","Yes","Yes","Yes"
+"Twproject , URL: /wiki/Twproject
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"UniPhi , URL: /wiki/UniPhi
+","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes"
+"VPMi , URL: /wiki/VPMi
+","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"web2project , URL: /wiki/Web2project
+","Yes","Yes","No","Yes","Yes","Yes","No","Yes"
+"Workamajig , URL: /wiki/Workamajig
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Workfront , URL: /wiki/Workfront
+","Yes","Yes[17]","Yes[17]","Yes[17]","Yes","Yes","Yes","Yes"
+"WorkPLAN Enterprise , URL: /wiki/WorkPLAN
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Workspace.com , URL: /wiki/Workspace.com
+","Yes","Yes","Yes","Yes","Yes","Yes","Unknown","Unknown"
+"Wrike , URL: /wiki/Wrike_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Zoho Projects , URL: /wiki/Zoho_Office_Suite
+","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes"

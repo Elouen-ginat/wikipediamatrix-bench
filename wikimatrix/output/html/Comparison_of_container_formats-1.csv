@@ -1,20 +1,119 @@
-"null","null","null","null","null","null","null","null","null","null","null","null","null"
-".mkv, .mk3d[E]","CoreCodec[F]","2002-12-06","Freely licensed[G]","Yes[H]","Yes[H]","Yes[I]","Yes[J]","Yes[13]","Yes[14]","Yes[15]","Planned[16]","Yes[15]"
-".mp4, m4v[K]","MPEG","2001-10","Patent encumbered[17]","Yes","Yes","Yes","Yes","Yes","Not standard[L]","Yes","Yes","Only at video format level"
-".mov, .qt","Apple Inc.","1991-12-02","Proprietary[20]","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Not standard"
-".asf, .wmv[M]","Microsoft","1996-09-16","Royalties on codecs[N]","Yes","Yes","Yes","Yes[22]","Yes","Yes","No","No","Not standard"
-".avi","Microsoft","1992-11-10","Proprietary[23]","Yes[O]","Yes[P]","Yes","No","Yes","Needs alterations","No","No","No"
-".mxf","SMPTE","2004-09-22","Patent-free[24]","Yes","Yes","No","Yes[24]","Yes","No","No","No","Yes[25]"
-".m2p, .ps[Q]","MPEG","1993-08","Patent-free[26]","Yes","Yes[R]","Yes","No","No","No","No","No","No"
-".ts, .tsv[S][Q]","MPEG","1995-07-10","Patent-free[26]","Yes","Yes","Yes","Yes","No","No","No","No","No"
-".m2ts, .mts","BDA","2004-08","Patent encumbered","Yes","Yes","Yes","With DVB[28]","Needs multiple files[T]","Needs multiple files[U]","Needs multiple files[V]","Yes","Needs multiple files[W]"
-".vob","DVD Forum","1996-11-01","Patent encumbered","Yes","Yes","Yes","No","No","Needs multiple files[X]","No","Needs multiple files[X]","No"
-".evo","DVD Forum","2006-03-31","Patent encumbered[29]","Yes","Yes","Yes","No","No","Needs multiple files[Y]","No","Yes","No"
-".3gp","3GPP","2003-04-04","Patent encumbered","Yes","Yes","Yes","Yes[31]","Yes","No","No","No","No"
-".3g2","3GPP2","2004-01","Patent encumbered","Yes","Yes","Yes","Yes","Yes","No","No","No","No"
-".f4v[Z]","Adobe Inc.","2007-12-03","Patent encumbered","Yes","Yes","Yes","Yes","Yes","Yes[32]","No","No","No"
-".flv","Adobe Inc.","2003-09-10","Proprietary[33]","Yes[AA]","Yes","Yes","With RTMP","Yes","Yes[32]","No","No","No"
-".ogv, .ogx[AB]","Xiph.Org","2003-05","Open source[38]","Yes","Yes","Yes","Yes[39]","Yes[40]","As Vorbis comments[AC]","No","No","No"
-".webm","Google","2010-05-18","Royalty-free[42]","Yes","Yes","Yes","Yes","Yes[43]","Yes[43]","No[43]","No[43]","Yes[AD]"
-".rmvb","RealNetworks","2003","Proprietary","Yes","Yes","Yes","Yes","Yes[44]","No","No","No","No"
-".divx","DivX, Inc.","2005-06-15","Proprietary","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","No"
+"Format","Type","License[a]","MKV , URL: /wiki/Matroska
+","MP4 , URL: /wiki/MPEG-4_Part_14
+","QTFF , URL: /wiki/QuickTime_File_Format
+","ASF , URL: /wiki/Advanced_Systems_Format
+","AVI , URL: /wiki/Audio_Video_Interleave
+","MXF , URL: /wiki/Material_eXchange_Format
+","PS , URL: /wiki/MPEG_program_stream
+TS , URL: /wiki/MPEG_transport_stream
+","M2TS , URL: /wiki/.m2ts
+","VOB , URL: /wiki/VOB
+","EVO , URL: /wiki/Enhanced_VOB
+","3GP, 3G2 , URL: /wiki/3GP_and_3G2
+","F4V , URL: /wiki/Flash_Video
+","FLV , URL: /wiki/Flash_Video
+","Ogg , URL: /wiki/Ogg
+","WebM , URL: /wiki/WebM
+"
+"MPEG-H HEVC , URL: /wiki/High_Efficiency_Video_Coding
+","Lossy , URL: /wiki/Lossy_compression
+lossless , URL: /wiki/Lossless_compression
+","Patent encumbered[53]","Yes[III]","Yes","Yes[56]","Yes","Yes","Yes[57]","Yes","No","No","No","Yes","No","No","No","No"
+"MPEG-4 AVC , URL: /wiki/H.264/MPEG-4_AVC
+","Lossy , URL: /wiki/Lossy_compression
+lossless , URL: /wiki/Lossless_compression
+","Patent encumbered[58]","Yes","Yes","Yes","Yes","Yes[IV]","Yes","Yes[59]","Yes","No","Yes","Yes","Yes","Not standard","No","No"
+"AV1 , URL: /wiki/AV1
+","Lossy , URL: /wiki/Lossy_compression
+lossless , URL: /wiki/Lossless_compression
+","Patent claims","Beta , URL: /wiki/Software_release_life_cycle#Beta
+","Yes","No","No","No","No","Planned","No","No","No","No","No","No","No","Beta , URL: /wiki/Software_release_life_cycle#Beta
+"
+"VP9 , URL: /wiki/VP9
+","Lossy , URL: /wiki/Lossy_compression
+lossless , URL: /wiki/Lossless_compression
+","Patent claims","Yes","Yes","No","Yes","Yes","No","No","No","No","No","No","No","No","Firefox , URL: /wiki/Firefox
+","Yes"
+"VP8 , URL: /wiki/VP8
+","Lossy , URL: /wiki/Lossy_compression
+lossless , URL: /wiki/Lossless_compression
+","Patent claims","Yes","Yes","No","Yes","Yes","No","No","No","No","No","No","No","No","Firefox , URL: /wiki/Firefox
+","Yes"
+"Dirac , URL: /wiki/Dirac_(video_compression_format)
+","Lossy , URL: /wiki/Lossy_compression
+lossless , URL: /wiki/Lossless_compression
+","Patent-free[62]","VCM[d]","No","Not standard","No","Needs Dirac[63]","No","Private","No","No","No","No","No","No","Yes[64][65]","No"
+"MVC , URL: /wiki/Multiview_Video_Coding
+","Stereoscopic , URL: /wiki/Stereoscopic_video_coding
+","Patent encumbered","Yes[15]","No","No","No","No","No[V][VI]","No","No","No","No","Yes","No","No","No","No"
+"MPEG-1 Video , URL: /wiki/MPEG-1_Part_2
+","Lossy , URL: /wiki/Lossy_compression
+","Patent-free[68]","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No"
+"MPEG-2 Video , URL: /wiki/H.262/MPEG-2_Part_2
+","Lossy , URL: /wiki/Lossy_compression
+","Expired patents","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","VLC , URL: /wiki/VLC_media_player
+","No"
+"MPEG-4 Visual , URL: /wiki/MPEG-4_Part_2
+","Lossy , URL: /wiki/Lossy_compression
+","Patent encumbered[70]","Yes","Yes","First edition","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","VLC , URL: /wiki/VLC_media_player
+","No"
+"Microsoft MPEG4 V2 , URL: /wiki/Windows_Media_Video#Versions
+","Lossy , URL: /wiki/Lossy_compression
+","Patent encumbered, proprietary","Yes","Not standard","Not standard","Yes","Yes","No","No","No","No","No","No","No","No","No","No"
+"VC-1 , URL: /wiki/VC-1
+","Lossy , URL: /wiki/Lossy_compression
+","Patent encumbered[71]","VCM[d]","Yes[72]","Yes","Yes","Yes","Yes","No","Yes","No","Yes","No","No","No","VLC , URL: /wiki/VLC_media_player
+","No"
+"H.263 , URL: /wiki/H.263
+","Lossy , URL: /wiki/Lossy_compression
+","Patent encumbered[70]","No","Yes","Yes","Yes","Yes","No","No","No","No","No","Yes","Yes","No","No","No"
+"Theora , URL: /wiki/Theora
+","Lossy , URL: /wiki/Lossy_compression
+","Free license[73]","Yes","No","No","No","ffdshow , URL: /wiki/Ffdshow
+","No","No","No","No","No","No","No","No","Yes","No"
+"Cinepak , URL: /wiki/Cinepak
+","Lossy , URL: /wiki/Lossy_compression
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No"
+"Sorenson , URL: /wiki/Sorenson_Media
+","Lossy , URL: /wiki/Lossy_compression
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","Versions 1 and 3","No","Version 1","No","No","No","No","No","No","No","Spark , URL: /wiki/Sorenson_Media
+","No","No"
+"RealVideo , URL: /wiki/RealVideo
+","Lossy , URL: /wiki/Lossy_compression
+","Proprietary , URL: /wiki/Proprietary_software
+","RV10, RV20, RV30, RV40","RV60","No","No","Not standard","No","No","No","No","No","No","No","No","No","No"
+"VP6 , URL: /wiki/VP6
+","Lossy , URL: /wiki/Lossy_compression
+","Proprietary , URL: /wiki/Proprietary_software
+","No","No","No","No","VP6 , URL: /wiki/VP6
+","No","No","No","No","No","No","No","Yes","No","No"
+"DV , URL: /wiki/DV
+","Intra-frame , URL: /wiki/Intra-frame_coding
+","Proprietary , URL: /wiki/Proprietary_software
+","VCM[d]","DVCPRO HD","DV 25","Yes","Yes","Yes[77][VIII]","No","No","No","No","No","No","No","No","No"
+"M-JPEG , URL: /wiki/Motion_JPEG
+","Intra-frame , URL: /wiki/Intra-frame_coding
+","Expired patents[78]","VCM[d]","Yes","Yes","Yes","Yes","No","No","No","No","No","No","No","No","No","No"
+"MJ2 , URL: /wiki/Motion_JPEG_2000
+","Intra-frame , URL: /wiki/Intra-frame_coding
+","Patent encumbered[79]","No","Yes","No","No","Not standard","Yes","No","No","No","No","No","No","No","No","No"
+"Apple ProRes , URL: /wiki/Apple_ProRes
+","Intra-frame , URL: /wiki/Intra-frame_coding
+","Proprietary , URL: /wiki/Proprietary_software
+","No","No","Yes[80]","No","No","Yes[80]","No","No","No","No","No","No","No","No","No"
+"HuffYUV , URL: /wiki/Huffyuv
+","Lossless , URL: /wiki/Lossless_compression
+","Open source","VCM[d]","No","No","No","HuffYUV , URL: /wiki/Huffyuv
+","No","No","No","No","No","No","No","No","No","No"
+"YCbCr , URL: /wiki/YCbCr
+","Not compressed , URL: /wiki/Uncompressed_video
+","Patent-free","Yes","SheerVideo , URL: /wiki/SheerVideo
+","Yes","Yes","Yes","Yes[82]","No","No","No","No","No","No","No","Planned[83]","No"
+"Other","Other","Varies","—","—","QuickTime Animation , URL: /wiki/QuickTime_Animation
+","—","Indeo , URL: /wiki/Intel_Indeo
+","—","JPEG 2000, TICO","—","—","—","—","—","Screen Video","MNG , URL: /wiki/Multiple-image_Network_Graphics
+JNG , URL: /wiki/JPEG_Network_Graphics
+PNG , URL: /wiki/Portable_Network_Graphics
+","—"

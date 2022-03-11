@@ -1,1 +1,53 @@
-"","This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of application virtualization software" – news · newspapers · books · scholar · JSTOR (October 2011) (Learn how and when to remove this template message)"
+"Virtual machine , URL: /wiki/Virtual_machine
+","Machine model , URL: /wiki/Model_of_computation
+","Memory management , URL: /wiki/Memory_management
+","Code security , URL: /wiki/Secure_coding
+","Interpreter , URL: /wiki/Interpreter_(computing)
+","JIT , URL: /wiki/Just-in-time_compilation
+","AOT , URL: /wiki/Ahead-of-time_compilation
+","Shared libraries , URL: /wiki/Shared_library
+","Object Model , URL: /wiki/Object_Model
+","Dynamic typing , URL: /wiki/Dynamic_typing
+"
+"Android Runtime , URL: /wiki/Android_Runtime
+","register , URL: /wiki/Register_machine
+","automatic","Yes","Yes","Yes","Yes","?","Yes","Yes"
+"Common Language Runtime , URL: /wiki/Common_Language_Runtime
+","stack , URL: /wiki/Stack_machine
+","automatic or manual","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Dis , URL: /wiki/Dis_virtual_machine
+Inferno , URL: /wiki/Inferno_(operating_system)
+","register , URL: /wiki/Register_machine
+","automatic","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"DotGNU , URL: /wiki/DotGNU
+Portable.NET , URL: /wiki/Portable.NET
+","stack , URL: /wiki/Stack_machine
+","automatic or manual","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"Java virtual machine , URL: /wiki/Java_virtual_machine
+","stack , URL: /wiki/Stack_machine
+","automatic","Yes","Yes","Yes","Yes","Yes","Yes","Yes[1]"
+"JikesRVM , URL: /wiki/JikesRVM
+","stack , URL: /wiki/Stack_machine
+","automatic","Yes","Yes","Yes","Yes","?","Yes","Yes"
+"LLVM , URL: /wiki/LLVM
+","register , URL: /wiki/Register_machine
+","manual","No","Yes","Yes","Yes","Yes","Yes","No"
+"Mono , URL: /wiki/Mono_(software)
+","stack , URL: /wiki/Stack_machine
+","automatic or manual","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Parrot , URL: /wiki/Parrot_virtual_machine
+","register , URL: /wiki/Register_machine
+","automatic","No","Yes","No[2]","Yes","Yes","Yes","Yes"
+"Dalvik , URL: /wiki/Dalvik_virtual_machine
+","register , URL: /wiki/Register_machine
+","automatic","Yes","Yes","Yes","No","?","No","No"
+"Squeak , URL: /wiki/Squeak
+","stack , URL: /wiki/Stack_machine
+","automatic","No","Yes","Yes","No","Yes","No","Yes"
+"BEAM , URL: /wiki/BEAM_(Erlang_virtual_machine)
+Erlang , URL: /wiki/Erlang_(programming_language)
+","register , URL: /wiki/Register_machine
+","automatic","?","Yes","Yes","Yes","Yes","Yes","Yes"
+"MoarVM , URL: /wiki/MoarVM
+","register , URL: /wiki/Register_machine
+","automatic","?","Yes","Yes","Yes","Yes","Yes","Yes"

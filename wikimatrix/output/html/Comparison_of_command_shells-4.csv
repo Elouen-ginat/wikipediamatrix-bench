@@ -1,0 +1,57 @@
+"Shell","String processing","Alternation , URL: /wiki/Alternation_(string_expansion)
+Brace expansion , URL: /wiki/Brace_expansion
+","regular expressions , URL: /wiki/Regular_expression
+","globbing , URL: /wiki/Glob_(programming)
+","Globbing qualifiers (filename generation based on file attributes)","Recursive globbing , URL: /wiki/Recursive_globbing
+"
+"Bourne shell , URL: /wiki/Bourne_shell
+","?","No","No","Yes ( *, ?, [...])","No","No"
+"Bourne shell , URL: /wiki/Bourne_shell
+","Partial (prefix and suffix stripping in variable expansion)","No","No","Yes ( *, ?, [...])","No","No"
+"POSIX , URL: /wiki/POSIX
+","Partial (prefix and suffix stripping in variable expansion)","No","No","Yes ( *, ?, [...])","No","No"
+"bash , URL: /wiki/Bash_(Unix_shell)
+","Partial (prefix and suffix stripping in variable expansion)","Yes","Yes","Yes ( *, ?, [...], {...})","No","Yes ( **/...)"
+"csh , URL: /wiki/C_shell
+","Yes (:s and other editing operators)","Yes","No","Yes","No","No"
+"tcsh , URL: /wiki/Tcsh
+","Yes (:s and other editing operators)","Yes","Yes","Yes","No","No"
+"Hamilton C shell , URL: /wiki/Hamilton_C_shell
+","Yes (:s and other editing operators + substr, strlen, strindex, printf, reverse, upper, lower, concat and other builtin functions)","Yes","No","Yes","No","Yes (via indefinite directory "..." wildcard[57])"
+"Scsh , URL: /wiki/Scsh
+","?","?","Yes","Yes","No","No"
+"ksh , URL: /wiki/Korn_Shell
+","Partial (prefix, suffix stripping and string replacement in variable expansion)","Yes[58]","Yes","Yes ( *, ?, [...])","No","Yes (with set -G, no following of symlinks)"
+"pdksh , URL: /wiki/Pdksh
+","?","Yes[58]","No","Yes","No","No"
+"zsh , URL: /wiki/Zsh
+","Yes (through variable processing: e.g. substring extraction, various transformations via parameter expansion)","Yes","Yes","extended globbing , URL: /wiki/Extended_globbing
+","Yes","Yes ( **/... or ***/... to follow symlinks)"
+"ash , URL: /wiki/Almquist_shell
+","?","?","No","Yes","No","No"
+"CCP , URL: /wiki/CCP_(CP/M)
+","No","No","No","No","No","No"
+"COMMAND.COM , URL: /wiki/COMMAND.COM
+","No","No","No","Yes ( *, ?)","No","No"
+"CMD.EXE , URL: /wiki/CMD.EXE
+","No","No","No","Yes ( *, ?)","Partial (only in DIR /A:... command)","No"
+"CMD.EXE , URL: /wiki/CMD.EXE
+","Partial (only through FOR /F and SET /A)","No","No[nb 17]","Yes ( *, ?)","Partial (only in DIR /A:... command)","Yes (via FOR /R command, or, where available, indirectly via /S subdir option)"
+"4DOS , URL: /wiki/4DOS
+","Yes (through variable functions %@...[], extended environment variable processing, various string commands and FOR /F and SET /A)","No","No","extended wildcards , URL: /wiki/Extended_wildcards
+","Yes (via /A:... attribute and /I"..." description options and /[S...] size, /[T...] time, /[D...] date, and /[!...] file exclusion ranges)","Yes (via FOR /R command, or indirectly via GLOBAL command or, where available, /S subdir option)"
+"4OS2 , URL: /wiki/4OS2
+","?","No","No","?","?","?"
+"TCC , URL: /wiki/Take_Command_Console
+","Yes (through variable functions %@...[], extended environment variable processing, various string commands and FOR /F and SET /A)","No","Yes","extended wildcards , URL: /wiki/Extended_wildcards
+","Yes (via /A:... attribute and /I"..." description options and /[S...] size, /[T...] time, /[D...] date, /[O...] owner, and /[!...] file exclusion ranges)","Yes (via FOR /R command, or indirectly via GLOBAL command or, where available, /S subdir option)"
+"PowerShell , URL: /wiki/Windows_PowerShell
+","Yes (Concat/Substring/Insert/Remove/Replace, ToLower/ToUpper, Trim/TrimStart/TrimEnd, Compare, Contains/StartsWith/EndWith, Format, IndexOf/LastIndexOf, Pad/PadLeft/PadRight, Split/Join, regular expression functions and other .NET string functions)","Range operator for numbers[60]","Yes (full regex support)[nb 18]","Yes ( *, ?, [...])","?","?"
+"rc , URL: /wiki/Rc
+","?","?","No","Yes","No","No"
+"BeanShell , URL: /wiki/BeanShell
+","?","?","Yes","?","?","?"
+"VMS DCL , URL: /wiki/DIGITAL_Command_Language
+","Yes","No","No","Yes","No","Yes (via [SUBDIR...])"
+"fish , URL: /wiki/Friendly_interactive_shell
+","Yes (builtin string function)","Yes","yes (via builtin string match and string replace functions)","Yes ( *, ?, {...})","No","Yes ( **/...)"

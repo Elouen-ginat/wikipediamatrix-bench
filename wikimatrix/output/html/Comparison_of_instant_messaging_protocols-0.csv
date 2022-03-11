@@ -1,0 +1,180 @@
+"Protocol , URL: /wiki/Communications_protocol
+","Creator","First public release date","License","Identity (not inc. alias)","Asynchronous message relaying","Transport Layer Security , URL: /wiki/Transport_Layer_Security
+","End-to-end encryption , URL: /wiki/End-to-end_encryption
+","Unlimited number of contacts","Bulletins to all contacts","One-to-many routing[a]","Spam , URL: /wiki/Messaging_spam
+","Group, channel or conference support","Audio/VoIP support","Webcam/Video","Batch file sharing","Media synchronization","Serverless[b]","Protocol , URL: /wiki/Communications_protocol
+"
+"Bitmessage , URL: /wiki/Bitmessage
+","Jonathan Warren","2012 Nov","Open standard , URL: /wiki/Open_standard
+","Alphanumeric address","Yes","Yes","Yes","Yes","No","Yes","proof-of-work , URL: /wiki/Proof-of-work_system
+","Yes","No","No","Yes","No","Yes","Bitmessage , URL: /wiki/Bitmessage
+"
+"Bonjour , URL: /wiki/Bonjour_(software)
+","Apple Inc.","2002 August","Proprietary Freeware; portions under the Apache license","Username","No","No","No","Yes","No","multicast , URL: /wiki/Multicast
+","Medium","No","No","No","Yes","No","Yes","Bonjour , URL: /wiki/Bonjour_(software)
+"
+"Briar , URL: /wiki/Briar_(software)
+","Briarproject.org","2018 May 9","Open standard , URL: /wiki/Open_standard
+","Public & Private key (via QR Codes)","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Briar , URL: /wiki/Briar_(software)
+"
+"Echo , URL: /wiki/Echo_(communications_protocol)
+","spot-on.sf.net / goldbug.sf.net","2013","Open standard , URL: /wiki/Open_standard
+","Key","Yes","Yes, optional","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Echo , URL: /wiki/Echo_(communications_protocol)
+"
+"Gadu-Gadu , URL: /wiki/Gadu-Gadu
+","GG Network","2000 Jul 17","Proprietary , URL: /wiki/Proprietary_protocol
+","Unique number e.g. 12345678","Yes","Yes","No","Yes","No","Centralistic","Yes[c] (simple)","Yes","Yes","Yes","Yes","No","No","Gadu-Gadu , URL: /wiki/Gadu-Gadu
+"
+"IRC , URL: /wiki/Internet_Relay_Chat
+","Jarkko Oikarinen , URL: /wiki/Jarkko_Oikarinen
+","1988 Aug","Open standard , URL: /wiki/Open_standard
+","Nickname , URL: /wiki/Nickname
+Username , URL: /wiki/User_(computing)
+hostname , URL: /wiki/Hostname
+","Yes, but via a memo system that differs from the main system","Yes, depending on individual server support","OTR by DM to client-to-client only","No[e]","No","multicast , URL: /wiki/Multicast
+","Medium","Yes (everyone, multiple simultaneous, any size)","No","No","Yes","No","No","IRC , URL: /wiki/Internet_Relay_Chat
+"
+"Jami , URL: /wiki/Jami_(software)
+DHT , URL: /wiki/Distributed_hash_table
+SIP , URL: /wiki/Session_Initiation_Protocol
+","Savoir-faire Linux Inc.","2002 August","Open Standard , URL: /wiki/Open_Standard
+","40-digit address","Yes","Yes","Yes","Yes","No","Yes","Medium","Yes","Yes","Yes","Yes","No","Yes","Jami , URL: /wiki/Jami_(software)
+DHT , URL: /wiki/Distributed_hash_table
+SIP , URL: /wiki/Session_Initiation_Protocol
+"
+"Matrix , URL: /wiki/Matrix_(communication_protocol)
+","Matrix.org","2014 Sep[3][failed verification]","Open standard , URL: /wiki/Open_standard
+","Username , URL: /wiki/Username
+Hostname , URL: /wiki/Hostname
+","Yes","Yes, mandatory","Yes, default for private conversations[4]","Yes","Yes","Yes","Yes (using pluggable server-side filtering modules and contact ignoring)","Yes","Yes","Yes","Yes","Yes","Under development[5]","Matrix , URL: /wiki/Matrix_(communication_protocol)
+"
+"MSNP , URL: /wiki/Microsoft_Notification_Protocol
+Windows Live Messenger , URL: /wiki/Windows_Live_Messenger
+","Microsoft , URL: /wiki/Microsoft
+","1999 Jul","Proprietary , URL: /wiki/Proprietary_protocol
+","Email address , URL: /wiki/Email_address
+Microsoft account , URL: /wiki/Microsoft_account
+","Yes","No","No","Only for certified robots","No","Centralistic","Yes","Yes","Yes","Yes","Yes","Yes","No","MSNP , URL: /wiki/Microsoft_Notification_Protocol
+Windows Live Messenger , URL: /wiki/Windows_Live_Messenger
+"
+"Telegram , URL: /wiki/Telegram_(software)
+","Telegram Messenger LLP","2013 Aug","Open standard , URL: /wiki/Open_standard
+","Phone number (e.g. +1234567890), nickname (e.g. @example)","Yes","Yes","No end-to-end encryption for group chats","Yes","No","Yes","Yes, contact blocking","Yes","Yes[6]","Yes","Yes","Yes","No","Telegram , URL: /wiki/Telegram_(software)
+"
+"Mumble , URL: /wiki/Mumble_(software)
+","Thorvald Natvig","1999 Jul","Open standard , URL: /wiki/Open_standard
+","Username","Yes","Yes","No","Only for certified robots","No","Centralistic","Yes","Yes","Yes","No","Yes","No","No","Mumble , URL: /wiki/Mumble_(software)
+"
+"OSCAR , URL: /wiki/OSCAR_protocol
+AIM , URL: /wiki/AOL_Instant_Messenger
+ICQ , URL: /wiki/ICQ
+","AOL , URL: /wiki/AOL
+","1997","Proprietary , URL: /wiki/Proprietary_protocol
+","Username , URL: /wiki/User_(computing)
+UIN , URL: /wiki/ICQ#UIN
+","Yes","Yes (Aim Pro, Aim Lite)","No","No","No","Centralistic","client-based","Yes (Multiple, simultaneous)","Yes","Yes","Yes","No","No","OSCAR , URL: /wiki/OSCAR_protocol
+AIM , URL: /wiki/AOL_Instant_Messenger
+ICQ , URL: /wiki/ICQ
+"
+"RVP , URL: /wiki/Rendezvous_protocol
+Windows Messenger , URL: /wiki/Windows_Messenger
+","Microsoft , URL: /wiki/Microsoft
+","1997 Mar","Proprietary , URL: /wiki/Proprietary_protocol
+","Windows Active Directory Login","No","No","No","?","No","Centralistic","None","No","?","?","No","No","No","RVP , URL: /wiki/Rendezvous_protocol
+Windows Messenger , URL: /wiki/Windows_Messenger
+"
+"Ricochet , URL: /wiki/Ricochet_(software)
+","Invisible.im","2014 Mar","Open standard , URL: /wiki/Open_standard
+","Tor onion address","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","No","No","Yes","No","Yes","Ricochet , URL: /wiki/Ricochet_(software)
+"
+"Serval Project , URL: /wiki/Serval_Project
+","Serval Project","2016","Open Standard , URL: /wiki/Open_Standard
+","Digit address","Yes","No","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Serval Project , URL: /wiki/Serval_Project
+"
+"Signal Protocol , URL: /wiki/Signal_Protocol
+","Signal Foundation , URL: /wiki/Signal_Foundation
+","2014 Feb[8]","Open standard , URL: /wiki/Open_standard
+","Phone number (e.g. +1234567890)","Yes","Yes","Yes","Yes","?","Yes","Yes, contact blocking","Yes","Yes","Yes","Yes","Yes","No","Signal Protocol , URL: /wiki/Signal_Protocol
+"
+"SIP , URL: /wiki/Session_Initiation_Protocol
+SIMPLE , URL: /wiki/SIMPLE_(instant_messaging_protocol)
+","IETF , URL: /wiki/Internet_Engineering_Task_Force
+","1996","Open standard , URL: /wiki/Open_standard
+","user@hostname","Yes","Yes","Optional","Yes","Yes","No","Medium","?","Yes","Yes","Yes","No","Depends on implementation","SIP , URL: /wiki/Session_Initiation_Protocol
+SIMPLE , URL: /wiki/SIMPLE_(instant_messaging_protocol)
+"
+"Skype , URL: /wiki/Skype_protocol
+","Skype , URL: /wiki/Skype
+","2003 Aug","Proprietary , URL: /wiki/Proprietary_protocol
+","Username , URL: /wiki/User_(computing)
+","Yes","Proprietary , URL: /wiki/Proprietary_software
+","No","No","No","Centralistic","client-based","Yes","Yes","Yes","Yes","No","No","Skype , URL: /wiki/Skype_protocol
+"
+"Steam Friends , URL: /wiki/Steam_(service)
+","Valve , URL: /wiki/Valve_Corporation
+","2003 Sep 12","Proprietary , URL: /wiki/Proprietary_protocol
+","SteamID/Username or Unique Number","Yes","Proprietary , URL: /wiki/Proprietary_software
+","?","No, although rising","Yes","?","No","Yes","Yes","No","No","No","No","Steam Friends , URL: /wiki/Steam_(service)
+"
+"TOC2 , URL: /wiki/TOC_protocol
+","AOL , URL: /wiki/AOL
+","2005 Sep","Proprietary , URL: /wiki/Proprietary_protocol
+","Username , URL: /wiki/User_(computing)
+UIN , URL: /wiki/ICQ#UIN
+","Yes","No","No","No","No","Centralistic","No","paying members only","?","?","Partial","?","No","TOC2 , URL: /wiki/TOC_protocol
+"
+"TOX , URL: /wiki/Tox_(protocol)
+DHT , URL: /wiki/Distributed_hash_table
+","irungentoo (github user)","2013 June","GNU General Public License , URL: /wiki/GNU_General_Public_License
+","Public & Private key","Yes","Yes","Yes","Yes","Yes","Yes[9][10]","Yes","Yes","Yes","Yes","Yes","Yes[11]","Yes","TOX , URL: /wiki/Tox_(protocol)
+DHT , URL: /wiki/Distributed_hash_table
+"
+"Tuenti , URL: /wiki/Tuenti
+","Tuenti , URL: /wiki/Tuenti
+","2006","Proprietary","Username , URL: /wiki/User_(computing)
+","Yes","Yes","No","Yes","?","Yes","Yes","Yes","Yes","Yes","Yes","?","No","Tuenti , URL: /wiki/Tuenti
+"
+"Windows Messenger service , URL: /wiki/Windows_Messenger_service
+","Microsoft , URL: /wiki/Microsoft
+","1990","Proprietary , URL: /wiki/Proprietary_protocol
+","NetBIOS","Yes","No","No","Yes","Yes","Yes","No","No","No","No","No","No","No","Windows Messenger service , URL: /wiki/Windows_Messenger_service
+"
+"XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+","Jeremie Miller , URL: /wiki/Jeremie_Miller
+IETF , URL: /wiki/Internet_Engineering_Task_Force
+","1999 Jan","Open standard , URL: /wiki/Open_standard
+","Jabber ID , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+","Yes","Yes","Optional[12][13][14]","Yes","Yes","Yes[15][16]","Yes[17][18][19]","Yes[15]","Jingle , URL: /wiki/Jingle_(protocol)
+","Jingle , URL: /wiki/Jingle_(protocol)
+","Yes","Yes[20]","Optional[21]","XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+"
+"YMSG , URL: /wiki/Yahoo!_Messenger_Protocol
+Yahoo! Messenger , URL: /wiki/Yahoo!_Messenger
+","Yahoo! , URL: /wiki/Yahoo!
+","1998, March 9","Proprietary , URL: /wiki/Proprietary_protocol
+","Username , URL: /wiki/User_(computing)
+","Yes","No[needs update?]","No","No","Yes","Centralistic","Yes","Yes","Yes","Yes","Yes","No","No","YMSG , URL: /wiki/Yahoo!_Messenger_Protocol
+Yahoo! Messenger , URL: /wiki/Yahoo!_Messenger
+"
+"Zephyr Notification Service , URL: /wiki/Zephyr_(protocol)
+","MIT , URL: /wiki/Project_Athena
+","1987","Open standard , URL: /wiki/Open_standard
+","Kerberos , URL: /wiki/Kerberos_(protocol)
+","Yes","No","No","Yes","Yes","Yes","No","Yes","No","No","No","No","No","Zephyr Notification Service , URL: /wiki/Zephyr_(protocol)
+"
+"SMS , URL: /wiki/SMS
+MMS , URL: /wiki/Multimedia_Messaging_Service
+EMS , URL: /wiki/Enhanced_Messaging_Service
+","Friedhelm Hillebrand , URL: /wiki/Friedhelm_Hillebrand
+","1985","Proprietary , URL: /wiki/Proprietary_protocol
+","Phone number (e.g. +1234567890)","Yes","No","No","About 250 contacts in SIM, unlimited from phone.","No","serial messages","Medium","No","Yes","3G-324M , URL: /wiki/3G-324M
+ViLTE , URL: /wiki/ViLTE
+","RCS , URL: /wiki/Rich_Communication_Services
+","No","?","SMS , URL: /wiki/SMS
+"
+"Protocol , URL: /wiki/Communications_protocol
+","Creator","First public release date","License","Identity (not inc. alias)","Asynchronous message relaying","Transport Layer Security , URL: /wiki/Transport_Layer_Security
+","End-to-end encryption , URL: /wiki/End-to-end_encryption
+","Unlimited number of contacts","Bulletins to all contacts","One-to-many routing[a]","Spam , URL: /wiki/Messaging_spam
+","Group, channel or conference support","Audio/VoIP support","Webcam/Video","Batch file sharing","Media synchronization","Serverless[b] (decentralized)","Protocol , URL: /wiki/Communications_protocol
+"

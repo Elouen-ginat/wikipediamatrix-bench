@@ -1,0 +1,38 @@
+"Implementation","PKCS #11 device , URL: /wiki/PKCS11
+","Intel AES-NI , URL: /wiki/AES_instruction_set
+","VIA PadLock , URL: /wiki/VIA_PadLock
+","ARMv8-A , URL: /wiki/ARM_architecture#ARMv8-A
+","Intel SGX , URL: /wiki/Intel_SGX
+","Intel QAT , URL: http://www.intel.com/content/www/us/en/embedded/technology/quickassist/overview.html
+","Intel SHA , URL: /wiki/Intel_SHA_extensions
+","NXP CAAM , URL: /w/index.php?title=NXP_CAAM&action=edit&redlink=1
+"
+"Botan , URL: /wiki/Botan_(programming_library)
+","Yes[212]","Yes","No","Yes","No","No","","No"
+"BSAFE , URL: /wiki/BSAFE
+","Yes","Yes","No","Yes","No","No","Yes","No"
+"cryptlib , URL: /wiki/Cryptlib
+","Yes","Yes","Yes","No","","No","",""
+"Crypto++ , URL: /wiki/Crypto%2B%2B
+","","Yes","","","","No","Yes",""
+"GnuTLS , URL: /wiki/GnuTLS
+","Yes","Yes","Yes","Yes[215]","No","No","Yes",""
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","Yes","Yes[216]","No","No","","No","","No"
+"LibreSSL , URL: /wiki/LibreSSL
+","No","Yes","Yes","No","","No","",""
+"MatrixSSL , URL: /wiki/MatrixSSL
+","Yes","Yes","No","Yes","","No","","No"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","Yes","Yes[217]","Yes","No","","No","","No"
+"NSS , URL: /wiki/Network_Security_Services
+","Yes[218]","Yes[219]","No[220]","No","","No","","No"
+"OpenSSL , URL: /wiki/OpenSSL
+","Yes[221]","Yes","Yes","Yes[222]","","No","Yes","Partial"
+"SChannel , URL: /wiki/SChannel
+","No","Yes","No","No","","No","","No"
+"Secure Transport , URL: /wiki/MacOS
+","No","Yes[223][224]","No","Yes","","No","","No"
+"wolfSSL , URL: /wiki/WolfSSL
+","Yes","Yes","No","Yes","Yes","Yes[225]","","Yes[226]"
+"Implementation","PKCS #11 device","Intel AES-NI","VIA PadLock","ARMv8-A","Intel SGX","Intel QAT","Intel SHA","NXP CAAM"

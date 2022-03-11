@@ -1,0 +1,145 @@
+"","sRGB , URL: /wiki/SRGB_color_space
+","Adobe RGB (1998) , URL: /wiki/Adobe_RGB_(1998)
+","Indexed , URL: /wiki/Indexed_color
+","Grayscale , URL: /wiki/Grayscale
+","CMYK , URL: /wiki/CMYK_color_model
+","LAB , URL: /wiki/Lab_color_space
+","HSV , URL: /wiki/HSV_color_space
+"
+"Ability Photopaint , URL: /wiki/Ability_Photopaint
+","Yes","?","Yes","Yes","Import only","",""
+"ACD Canvas , URL: /wiki/ACD_Canvas
+","Yes","?","Yes","Yes","Yes","",""
+"ACDSee , URL: /wiki/ACDSee
+","Yes","Yes","Yes","Yes","No","No","No"
+"Acorn Image Editor , URL: /wiki/Acorn_Image_Editor
+","Yes","Yes","Import only","Import only","Yes","Import only","Import only"
+"Adobe Fireworks , URL: /wiki/Adobe_Fireworks
+","Yes","Yes","Yes","Yes","Yes","No","Yes"
+"Adobe Photoshop , URL: /wiki/Adobe_Photoshop
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Adobe Photoshop Lightroom , URL: /wiki/Adobe_Photoshop_Lightroom
+","Yes","Yes","?","Yes","Import only","?","?"
+"Affinity Photo , URL: /wiki/Affinity_Photo
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Autodesk SketchBook Pro , URL: /wiki/Autodesk_SketchBook_Pro
+","Yes","?","Yes","No","No","",""
+"Artipic , URL: /wiki/Artipic
+","Yes","Yes","Yes","Import only","Import only","Import only","Import only"
+"ArtRage , URL: /wiki/ArtRage
+","Yes","?","No","No","No","",""
+"Artweaver , URL: /wiki/Artweaver
+","Yes","?","?","?","?","",""
+"Black Ink Software|Black Ink*","Yes","No","No","No","No","No","No"
+"Bibble , URL: /wiki/Bibble_(software)
+","Yes","Yes","?","Yes","?","?","?"
+"Brush Strokes Image Editor , URL: /wiki/Brush_Strokes_Image_Editor
+","Yes","?","?","?","?","",""
+"Capture One , URL: /wiki/Capture_One
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Chasys Draw IES , URL: /wiki/Chasys_Draw_IES
+","Yes","No","Yes","Yes","Partial","Partial","Partial"
+"CinePaint , URL: /wiki/CinePaint
+","Yes","Yes","No","Yes","Yes","Yes",""
+"CodedColor PhotoStudio Pro , URL: /wiki/CodedColor_PhotoStudio_Pro
+","Yes","Yes","Yes","Yes","Yes","",""
+"Corel PaintShop Pro , URL: /wiki/Corel_PaintShop_Pro
+","Yes","Yes","Yes","Yes","Yes","Partial[32]","Partial[32]"
+"Corel Painter , URL: /wiki/Corel_Painter
+","Yes","?","No","No","Yes","",""
+"Corel Photo-Paint , URL: /wiki/Corel_Photo-Paint
+","Yes","Yes","Yes","Yes","Yes","Yes",""
+"darktable , URL: /wiki/Darktable
+","Yes","Yes","?","?","?","Yes","?"
+"Deluxe Paint , URL: /wiki/Deluxe_Paint
+","Yes","?","Yes","Yes","No","","Yes"
+"Erdas Imagine , URL: /wiki/Erdas_Imagine
+","Yes","Yes","Yes","Yes","Yes","No","Yes"
+"Fatpaint , URL: /wiki/Fatpaint
+","Yes","No","Partial","Partial","Partial","No","Partial"
+"Fotografix , URL: /wiki/Fotografix
+","Yes","No","Import only","Import only","Import only","No","No"
+"GIMP , URL: /wiki/GIMP
+","Yes","Yes","Yes","Yes","Partial[33]","2.10+","Yes"
+"GIMPshop , URL: /wiki/GIMPshop
+","Yes","Yes","Yes","Yes","Partial[33]","No","Yes"
+"GrafX2 , URL: /wiki/GrafX2
+","No","No","Yes","No","No","No","No"
+"GraphicConverter , URL: /wiki/GraphicConverter
+","Yes","Yes","Yes","Yes","Yes","",""
+"Helicon Filter , URL: /wiki/Helicon_Filter
+","Yes","Yes","?","Yes","Yes","",""
+"iPhoto , URL: /wiki/IPhoto
+","Yes","Yes","No","Yes","Yes","Yes","Yes"
+"IrfanView , URL: /wiki/IrfanView
+","Yes","?","Yes","Yes","No","",""
+"Iridient Developer , URL: /wiki/Iridient_Developer
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Kolourpaint , URL: /wiki/Kolourpaint
+","Yes","?","No","Yes","No","",""
+"Krita , URL: /wiki/Krita
+","Yes","Yes","No","Yes","Yes","Yes","Yes"
+"MacPaint , URL: /wiki/MacPaint
+","No","No","No","Yes","No","",""
+"Microsoft Office Picture Manager , URL: /wiki/Microsoft_Office_Picture_Manager
+","Yes","?","?","?","No","",""
+"Microsoft Paint , URL: /wiki/Microsoft_Paint
+","Yes","?","Import only","No","No","No","No"
+"Microsoft Photo Editor , URL: /wiki/Microsoft_Photo_Editor
+","Yes","?","Yes","Yes","No","",""
+"mtPaint , URL: /wiki/MtPaint
+","Yes","Import only","Yes","Yes","Import only","No","Yes"
+"OpenCanvas , URL: /wiki/OpenCanvas
+","Yes","?","?","Yes","No","",""
+"Paint.NET , URL: /wiki/Paint.NET
+","Yes","No","Partial","Partial","Partial","No","Partial"
+"Paint Tool SAI , URL: /wiki/Paint_Tool_SAI
+","Yes","No","?","Yes","?","?","?"
+"PC Paintbrush , URL: /wiki/PC_Paintbrush
+","No","?","Yes","No","No","",""
+"Photogenics , URL: /wiki/Photogenics
+","Yes","Yes","Yes","Yes","Yes","",""
+"PhotoLine , URL: /wiki/PhotoLine
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"PhotoPerfect , URL: /wiki/PhotoPerfect
+","Yes","Import only","No","Yes","Import only","Curve editing only","No"
+"Photos , URL: /wiki/Photos_(Apple)
+","Yes","Yes","No","Yes","Yes","Yes","Yes"
+"Photo Raster , URL: /wiki/Photo_Raster
+","Yes","No","No","Partial","No","No","No"
+"Picasa , URL: /wiki/Picasa
+","Yes","?","Partial","Partial","No","",""
+"PicMaster , URL: /wiki/PicMaster
+","Yes","No","No","Yes","Yes","Yes","Yes"
+"PixBuilder Photo Editor","Yes","Yes","Yes","Yes","No","",""
+"Pixelmator , URL: /wiki/Pixelmator
+","Yes","Yes","Yes","No","No","No","No"
+"Pixia , URL: /wiki/Pixia
+","Yes","?","No","No","No","",""
+"Project Dogwaffle , URL: /wiki/Project_Dogwaffle
+","Yes","?","No","No","No","",""
+"QFX , URL: /wiki/QFX
+","Yes","Yes","Yes","Yes","Yes","",""
+"RawTherapee , URL: /wiki/RawTherapee
+","Yes","Yes","No","Yes","No","Yes","Yes"
+"Seashore , URL: /wiki/Seashore_(software)
+","Yes","Yes","?","Yes","Yes","?","?"
+"Serif PhotoPlus , URL: /wiki/Serif_PhotoPlus
+","Yes","Yes","?","Yes","Yes","?","?"
+"Turbo Play","Yes","No","No","No","No","No","No"
+"Tux Paint , URL: /wiki/Tux_Paint
+","Yes","No","No","No","No","No","No"
+"TVPaint , URL: /wiki/TVPaint_Animation
+","Yes","?","No","No","No","",""
+"Ulead PhotoImpact , URL: /wiki/Ulead_PhotoImpact
+","Yes","Yes","Yes","Yes","Import only","No","Yes"
+"Ultimate Paint*","Yes","?","Yes","Yes","No","",""
+"WinImages , URL: /wiki/WinImages
+","Yes","?","?","?","Yes","","Yes"
+"Xara Photo & Graphic Designer , URL: /wiki/Xara_Photo_%26_Graphic_Designer
+","Yes","Partial","Partial","Partial","Partial","No","Partial"
+"XnView , URL: /wiki/XnView
+","Yes","?","Yes","Yes","Partial","No","Partial"
+"XPaint","Yes","No","Partial","Yes","No","No","No"
+"Zoner Photo Studio , URL: /wiki/Zoner_Photo_Studio
+","Yes","Yes","Yes","Yes","Partial","Partial","No"

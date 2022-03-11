@@ -1,0 +1,56 @@
+"Audio player","AVI , URL: /wiki/Audio_Video_Interleave
+","ASF , URL: /wiki/Advanced_Systems_Format
+","QuickTime , URL: /wiki/QuickTime
+","Ogg , URL: /wiki/Ogg
+","OGM , URL: /wiki/OGM
+","Matroska , URL: /wiki/Matroska
+","MP4 , URL: /wiki/MPEG-4_Part_14
+","MPEG-21 , URL: /wiki/MPEG-21
+","NUT , URL: /wiki/FFmpeg#NUT
+","FLV , URL: /wiki/Flash_Video
+"
+"AIMP , URL: /wiki/AIMP
+","No","Yes","No","Yes","No","No","Partial","No","No","No"
+"Amarok , URL: /wiki/Amarok_(audio)
+","Yes","Yes","Yes","Yes","Basic","Basic","Yes","?","?","Yes"
+"Audacious , URL: /wiki/Audacious_(software)
+","No","Yes","No","Yes","No","No","Yes","No","No","Audio only"
+"Audion , URL: /wiki/Audion_(software)
+","No","No","No","No","No","No","No","?","?","?"
+"cmus , URL: /wiki/Cmus
+","No","No","No","Vorbis only","No","Basic","Yes","?","?","?"
+"Cog , URL: /wiki/Cog_(software)
+","No","No","No","Yes","No","No","Partial","?","?","?"
+"foobar2000 , URL: /wiki/Foobar2000
+","Partial[a]","Yes","No","Yes","No","Yes[containernotes 1]","Yes","?","?","Audio only"
+"JuK , URL: /wiki/JuK
+","No","No","No","Vorbis only","No","No","No","?","?","?"
+"JRiver Media Center , URL: /wiki/JRiver_Media_Center
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes"
+"MediaMonkey , URL: /wiki/MediaMonkey
+","No","No","No","Vorbis only","No","No","No","?","?","?"
+"MOC , URL: /wiki/Music_on_Console
+","Yes","?","?","Yes","?","Yes","Yes","?","?","Yes"
+"MPXPLAY , URL: /wiki/MPXPLAY
+","Yes","Yes","No","Yes","?","?","Yes","?","?","?"
+"MusicBee , URL: /wiki/MusicBee
+","No","No","No","Vorbis only","No","No","AAC only","No","No","No"
+"Musicmatch Jukebox , URL: /wiki/Musicmatch_Jukebox
+","No","No","No","No","No","No","No","?","?","?"
+"musikCube , URL: /wiki/MusikCube
+","No","No","No","Vorbis only","No","No","No","?","?","?"
+"Rhapsody , URL: /wiki/Rhapsody_(online_music_service)
+","No","No","No","No","No","No","No","?","?","?"
+"Rhythmbox , URL: /wiki/Rhythmbox
+","No","Yes","No","Vorbis only","No","No","Yes[f]","?","?","?"
+"Sayonara Player , URL: /wiki/Sayonara_Player
+","No","?","No","Vorbis only","?","?","?","?","?","?"
+"Sonique , URL: /wiki/Sonique_(media_player)
+","No[g]","No","No","Yes","No","No","No","?","?","?"
+"Winamp , URL: /wiki/Winamp
+","Yes","Yes","Yes[a]","Yes","Yes","Yes","Yes","?","?","Yes"
+"XMMS , URL: /wiki/XMMS
+","No","No","No","Vorbis only","No","No","No","?","?","?"
+"Zinf , URL: /wiki/Zinf
+","No","No","No","Vorbis only","No","No","No","?","?","?"
+"Audio player","AVI","ASF","QuickTime","Ogg","OGM","Matroska","MP4","MPEG-21","NUT","FLV"

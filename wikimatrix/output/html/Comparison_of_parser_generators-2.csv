@@ -1,0 +1,631 @@
+"Name","Parsing , URL: /wiki/Parsing
+","Input grammar notation","Output languages , URL: /wiki/Programming_language
+","Grammar, code","Lexer , URL: /wiki/Lexical_analyzer
+","Development platform","IDE , URL: /wiki/Integrated_development_environment
+","License , URL: /wiki/Software_license
+"
+"AGL","GLR , URL: /wiki/GLR_parser
+","EBNF , URL: /wiki/Extended_Backus%E2%80%93Naur_form
+","Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+","Separate","none","Any Kotlin target platform","No","Apache , URL: /wiki/Apache_License
+"
+"ANTLR , URL: /wiki/ANTLR
+","Adaptive LL(*)[3]","EBNF , URL: /wiki/Extended_Backus%E2%80%93Naur_form
+","C# , URL: /wiki/C_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+Python , URL: /wiki/Python_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+C++ , URL: /wiki/C%2B%2B
+Swift , URL: /wiki/Swift_(programming_language)
+Go , URL: /wiki/Go_(programming_language)
+PHP , URL: /wiki/PHP
+","Separate","generated","Java virtual machine , URL: /wiki/Java_virtual_machine
+","Yes","BSD , URL: /wiki/BSD_licenses
+"
+"ANTLR , URL: /wiki/ANTLR
+","LL , URL: /wiki/LL_parser
+","EBNF , URL: /wiki/Extended_Backus%E2%80%93Naur_form
+","ActionScript , URL: /wiki/ActionScript
+Ada95 , URL: /wiki/Ada_(programming_language)
+C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+Objective-C , URL: /wiki/Objective-C
+Perl , URL: /wiki/Perl
+Python , URL: /wiki/Python_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+","Mixed","generated","Java virtual machine , URL: /wiki/Java_virtual_machine
+","Yes","BSD , URL: /wiki/BSD_licenses
+"
+"APG","Recursive descent , URL: /wiki/Recursive_descent
+backtracking , URL: /wiki/Backtracking
+","ABNF , URL: /wiki/ABNF
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+JavaScript , URL: /wiki/JavaScript
+Java , URL: /wiki/Java_(programming_language)
+","Separate","none","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"Astir","LL , URL: /wiki/LL_parser
+LL , URL: /wiki/LL_parser
+LL , URL: /wiki/LL_parser
+","Astir hierarchical grammar","C++ , URL: /wiki/C%2B%2B
+","Only grammar (actioned)","generated","All","Visual Studio Code , URL: /wiki/Visual_Studio_Code
+","MIT , URL: /wiki/MIT_License
+"
+"AXE","Recursive descent , URL: /wiki/Recursive_descent
+","AXE/C++","C++17 , URL: /wiki/C%2B%2B17
+C++11 , URL: /wiki/C%2B%2B11
+","Mixed","none","C++17 , URL: /wiki/C%2B%2B17
+C++11 , URL: /wiki/C%2B%2B11
+","No","Boost , URL: /wiki/Boost_Software_License
+"
+"Beaver","LALR , URL: /wiki/LALR_parser
+","EBNF , URL: /wiki/Extended_Backus%E2%80%93Naur_form
+","Java , URL: /wiki/Java_(programming_language)
+","Mixed","external","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","BSD , URL: /wiki/BSD_licenses
+"
+"Belr","Recursive descent , URL: /wiki/Recursive_descent
+","ABNF , URL: /wiki/ABNF
+","C++17 , URL: /wiki/C%2B%2B17
+C++11 , URL: /wiki/C%2B%2B11
+","Separate","included","POSIX , URL: /wiki/POSIX
+","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+proprietary , URL: /wiki/Proprietary_software
+"
+"Bison , URL: /wiki/GNU_Bison
+","LALR , URL: /wiki/LALR_parser
+LR , URL: /wiki/Canonical_LR_parser
+IELR , URL: /w/index.php?title=IELR_parser&action=edit&redlink=1
+GLR , URL: /wiki/GLR_parser
+","Yacc , URL: /wiki/Yacc
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Java , URL: /wiki/Java_(programming_language)
+","Mixed","external","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"Bison++[note 1]","LALR , URL: /wiki/LALR_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","external","POSIX , URL: /wiki/POSIX
+","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"Bisonc++","LALR , URL: /wiki/LALR_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","external","POSIX , URL: /wiki/POSIX
+","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"BtYacc , URL: /wiki/BtYacc
+","Backtracking , URL: /wiki/Backtracking
+Bottom-up , URL: /wiki/Bottom-up_parsing
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","external","All","No","public domain , URL: /wiki/Public_domain
+"
+"byacc , URL: /wiki/Berkeley_Yacc
+","LALR , URL: /wiki/LALR_parser
+","Yacc , URL: /wiki/Yacc
+","C , URL: /wiki/C_(programming_language)
+","Mixed","external","All","No","public domain , URL: /wiki/Public_domain
+"
+"BYACC/J","LALR , URL: /wiki/LALR_parser
+","Yacc , URL: /wiki/Yacc
+","C , URL: /wiki/C_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+","Mixed","external","All","No","public domain , URL: /wiki/Public_domain
+"
+"Carburetta","LALR , URL: /wiki/LALR_parser
+","BNF Dialect","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","Mixed","external or generated","All","No","Apache , URL: /wiki/Apache_License
+"
+"CL-Yacc","LALR , URL: /wiki/LALR_parser
+","Lisp , URL: /wiki/Lisp_(programming_language)
+","Common Lisp , URL: /wiki/Common_Lisp
+","Mixed","external","All","No","MIT , URL: /wiki/MIT_License
+"
+"Coco/R , URL: /wiki/Coco/R
+","LL , URL: /wiki/LL_parser
+","EBNF , URL: /wiki/Extended_Backus%E2%80%93Naur_form
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+F# , URL: /wiki/F_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+Ada , URL: /wiki/Ada_(programming_language)
+Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
+Modula-2 , URL: /wiki/Modula-2
+Oberon , URL: /wiki/Oberon_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+Swift , URL: /wiki/Swift_(programming_language)
+Unicon , URL: /wiki/Unicon_(programming_language)
+Visual Basic .NET , URL: /wiki/Visual_Basic_.NET
+","Mixed","generated","Java virtual machine , URL: /wiki/Java_virtual_machine
+.NET Framework , URL: /wiki/.NET_Framework
+Windows , URL: /wiki/Microsoft_Windows
+POSIX , URL: /wiki/POSIX
+","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"CookCC","LALR , URL: /wiki/Canonical_LR_parser
+","Java annotations","Java , URL: /wiki/Java_(programming_language)
+","Mixed","generated","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","Apache , URL: /wiki/Apache_License
+"
+"CppCC","LL , URL: /wiki/LL_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","generated","POSIX , URL: /wiki/POSIX
+","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"CSP","LR , URL: /wiki/Canonical_LR_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Separate","generated","POSIX , URL: /wiki/POSIX
+","No","Apache , URL: /wiki/Apache_License
+"
+"CUP","LALR , URL: /wiki/LALR_parser
+","?","Java , URL: /wiki/Java_(programming_language)
+","Mixed","external","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","BSD , URL: /wiki/BSD_licenses
+"
+"Dragon","LR , URL: /wiki/Canonical_LR_parser
+LALR , URL: /wiki/LALR_parser
+","?","C++ , URL: /wiki/C%2B%2B
+Java , URL: /wiki/Java_(programming_language)
+","Separate","generated","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"eli","LALR , URL: /wiki/LALR_parser
+","?","C , URL: /wiki/C_(programming_language)
+","Mixed","generated","POSIX , URL: /wiki/POSIX
+","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"Essence","LR , URL: /wiki/LR_parser
+","?","Scheme 48 , URL: /wiki/Scheme_48
+","Mixed","external","All","No","BSD , URL: /wiki/BSD_licenses
+"
+"eyapp","LALR , URL: /wiki/Canonical_LR_parser
+","?","Perl , URL: /wiki/Perl
+","Mixed","external or generated","All","No","Artistic , URL: /wiki/Artistic_License
+"
+"Frown","LALR , URL: /wiki/LALR_parser
+","?","Haskell 98 , URL: /wiki/Haskell_(programming_language)
+","Mixed","external","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"geyacc","LALR , URL: /wiki/LALR_parser
+","?","Eiffel , URL: /wiki/Eiffel_(programming_language)
+","Mixed","external","All","No","MIT , URL: /wiki/MIT_License
+"
+"GOLD , URL: /wiki/GOLD_(parser)
+","LALR , URL: /wiki/LALR_parser
+","BNF","x86 assembly language , URL: /wiki/X86_assembly_language
+ANSI C , URL: /wiki/ANSI_C
+C# , URL: /wiki/C_Sharp_(programming_language)
+D , URL: /wiki/D_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+Pascal , URL: /wiki/Pascal_(programming_language)
+Object Pascal , URL: /wiki/Object_Pascal
+Python , URL: /wiki/Python_(programming_language)
+Visual Basic , URL: /wiki/Visual_Basic
+Visual Basic .NET , URL: /wiki/Visual_Basic_.NET
+Visual C++ , URL: /wiki/Visual_C%2B%2B
+","Separate","generated","Windows , URL: /wiki/Microsoft_Windows
+","Yes","zlib , URL: /wiki/Zlib_License
+"
+"GPPG","LALR , URL: /wiki/LALR_parser
+","Yacc , URL: /wiki/Yacc
+","C# , URL: /wiki/C_Sharp_(programming_language)
+","Separate","external","Windows , URL: /wiki/Microsoft_Windows
+","Yes","BSD , URL: /wiki/BSD_licenses
+"
+"Grammatica , URL: /wiki/Grammatica
+","LL , URL: /wiki/LL_parser
+","BNF dialect","C# , URL: /wiki/C_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+","Separate","generated","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","BSD , URL: /wiki/BSD_licenses
+"
+"HiLexed","LL , URL: /wiki/LL_parser
+","EBNF or Java","Java , URL: /wiki/Java_(programming_language)
+","Separate","internal","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"Hime Parser Generator","LALR , URL: /wiki/LALR_parser
+GLR , URL: /wiki/GLR_parser
+","BNF dialect","C# , URL: /wiki/C_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+Rust , URL: /wiki/Rust_(programming_language)
+","Separate","generated",".NET Framework , URL: /wiki/.NET_Framework
+Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"Hyacc","LR(1), LALR(1), LR , URL: /wiki/Canonical_LR_parser
+","Yacc , URL: /wiki/Yacc
+","C , URL: /wiki/C_(programming_language)
+","Mixed","external","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"iyacc","LALR , URL: /wiki/LALR_parser
+","Yacc , URL: /wiki/Yacc
+","Icon , URL: /wiki/Icon_(programming_language)
+","Mixed","external","All","No","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"jacc","LALR , URL: /wiki/LALR_parser
+","?","Java , URL: /wiki/Java_(programming_language)
+","Mixed","external","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","BSD , URL: /wiki/BSD_licenses
+"
+"JavaCC , URL: /wiki/JavaCC
+","LL , URL: /wiki/LL_parser
+","EBNF , URL: /wiki/Extended_Backus%E2%80%93Naur_form
+","Java , URL: /wiki/Java_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+JavaScript , URL: /wiki/JavaScript
+GWT , URL: /wiki/Google_Web_Toolkit
+","Mixed","generated","Java virtual machine , URL: /wiki/Java_virtual_machine
+","Yes","BSD , URL: /wiki/BSD_licenses
+"
+"jay","LALR , URL: /wiki/LALR_parser
+","Yacc , URL: /wiki/Yacc
+","C# , URL: /wiki/C_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+","Mixed","none","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","BSD , URL: /wiki/BSD_licenses
+"
+"JFLAP , URL: /wiki/JFLAP
+","LL , URL: /wiki/LL_parser
+LALR , URL: /wiki/LALR_parser
+","?","Java , URL: /wiki/Java_(programming_language)
+","?","?","Java virtual machine , URL: /wiki/Java_virtual_machine
+","Yes","?"
+"JetPAG , URL: /wiki/JetPAG
+","LL , URL: /wiki/LL_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","generated","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"JS/CC","LALR , URL: /wiki/LALR_parser
+","EBNF , URL: /wiki/Extended_Backus%E2%80%93Naur_form
+","JavaScript , URL: /wiki/JavaScript
+JScript , URL: /wiki/JScript
+ECMAScript , URL: /wiki/ECMAScript
+","Mixed","internal","All","Yes","BSD , URL: /wiki/BSD_licenses
+"
+"KDevelop-PG-Qt","LL , URL: /wiki/Recursive_descent_parser
+backtracking , URL: /wiki/Backtracking
+shunting-yard , URL: /wiki/Shunting-yard_algorithm
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","generated or external","KDE , URL: /wiki/KDE
+","No","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"Kelbt","Backtracking , URL: /wiki/Backtracking
+LALR , URL: /wiki/LALR_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","generated","POSIX , URL: /wiki/POSIX
+","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"kmyacc","LALR , URL: /wiki/LALR_parser
+","?","C , URL: /wiki/C_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+Perl , URL: /wiki/Perl
+JavaScript , URL: /wiki/JavaScript
+","Mixed","external","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"Lapg","LALR , URL: /wiki/LALR_parser
+","?","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+","Mixed","generated","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"Lemon , URL: /wiki/Lemon_(parser_generator)
+","LALR , URL: /wiki/LALR_parser
+","?","C , URL: /wiki/C_(programming_language)
+","Mixed","external","All","No","public domain , URL: /wiki/Public_domain
+"
+"Lime","LALR , URL: /wiki/LALR_parser
+","?","PHP , URL: /wiki/PHP
+","Mixed","external","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"LISA","LR , URL: /wiki/LR_parser
+LL , URL: /wiki/LL_parser
+LALR , URL: /wiki/LALR_parser
+SLR , URL: /wiki/Simple_LR_parser
+","?","Java , URL: /wiki/Java_(programming_language)
+","Mixed","generated","Java virtual machine , URL: /wiki/Java_virtual_machine
+","Yes","public domain , URL: /wiki/Public_domain
+"
+"LLgen","LL , URL: /wiki/LL_parser
+","?","C , URL: /wiki/C_(programming_language)
+","Mixed","external","POSIX , URL: /wiki/POSIX
+","No","BSD , URL: /wiki/BSD_licenses
+"
+"LLnextgen","LL , URL: /wiki/LL_parser
+","?","C , URL: /wiki/C_(programming_language)
+","Mixed","external","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"LLLPG","LL , URL: /wiki/LL_parser
+syntactic , URL: /wiki/Syntactic_predicate
+","ANTLR-like","C# , URL: /wiki/C_Sharp_(programming_language)
+","Mixed","generated (?)",".NET Framework , URL: /wiki/.NET_Framework
+Mono , URL: /wiki/Mono_(software)
+","Visual Studio , URL: /wiki/Microsoft_Visual_Studio
+","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"LPG","Backtracking , URL: /wiki/Backtracking
+LALR , URL: /wiki/LALR_parser
+","?","Java , URL: /wiki/Java_(programming_language)
+","Mixed","generated","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","EPL , URL: /wiki/Eclipse_Public_License
+"
+"LRSTAR","LALR , URL: /wiki/LALR_parser
+LALR , URL: /wiki/LALR_parser
+","YACC, ANTLR, EBNF","C++ , URL: /wiki/C%2B%2B
+","separated","generated","Windows","Visual Studio , URL: /wiki/Microsoft_Visual_Studio
+","BSD , URL: /wiki/BSD_licenses
+"
+"Menhir","LR , URL: /wiki/Canonical_LR_parser
+","?","OCaml , URL: /wiki/OCaml
+","Mixed","generated","All","No","QPL , URL: /wiki/Q_Public_License
+"
+"ML-Yacc","LALR , URL: /wiki/LALR_parser
+","?","ML , URL: /wiki/ML_(programming_language)
+","Mixed","external","All","No","?"
+"Monkey","LR , URL: /wiki/Canonical_LR_parser
+","?","Java , URL: /wiki/Java_(programming_language)
+","Separate","generated","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"Msta","LALR , URL: /wiki/LALR_parser
+LR , URL: /wiki/Canonical_LR_parser
+","YACC , URL: /wiki/YACC
+EBNF , URL: /wiki/Extended_Backus%E2%80%93Naur_form
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","Mixed","external or generated","POSIX , URL: /wiki/POSIX
+Cygwin , URL: /wiki/Cygwin
+","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"MTP (More Than Parsing)","LL , URL: /wiki/LL_parser
+","?","Java , URL: /wiki/Java_(programming_language)
+","Separate","generated","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"MyParser","LL , URL: /wiki/LL_parser
+","Markdown , URL: /wiki/Markdown
+","C++11 , URL: /wiki/C%2B%2B11
+","Separate","internal","Any with standard C++11 compiler","No","MIT , URL: /wiki/MIT_License
+"
+"NLT","GLR , URL: /wiki/GLR_parser
+","C# , URL: /wiki/C_Sharp_(programming_language)
+BNF , URL: /wiki/Backus%E2%80%93Naur_form
+","C# , URL: /wiki/C_Sharp_(programming_language)
+","Mixed","mixed",".NET Framework , URL: /wiki/.NET_Framework
+","No","MIT , URL: /wiki/MIT_License
+"
+"ocamlyacc","LALR , URL: /wiki/LALR_parser
+","?","OCaml , URL: /wiki/OCaml
+","Mixed","external","All","No","QPL , URL: /wiki/Q_Public_License
+"
+"olex","LL , URL: /wiki/LL_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","generated","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"Parsec , URL: /wiki/Parsec_(parser)
+","LL , URL: /wiki/LL_parser
+backtracking , URL: /wiki/Backtracking
+","Haskell , URL: /wiki/Haskell_(programming_language)
+","Haskell , URL: /wiki/Haskell_(programming_language)
+","Mixed","none","All","No","BSD , URL: /wiki/BSD_licenses
+"
+"Parse::Yapp","LALR , URL: /wiki/LALR_parser
+","?","Perl , URL: /wiki/Perl
+","Mixed","external","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"Parser Objects","LL , URL: /wiki/LL_parser
+","?","Java , URL: /wiki/Java_(programming_language)
+","Mixed","?","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","zlib , URL: /wiki/Zlib_License
+"
+"PCCTS","LL , URL: /wiki/LL_parser
+","?","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","?","?","All","No","?"
+"PLY , URL: /wiki/Python_Lex-Yacc
+","LALR , URL: /wiki/LALR_parser
+","BNF","Python , URL: /wiki/Python_(programming_language)
+","Mixed","generated","All","No","MIT , URL: /wiki/MIT_License
+"
+"PlyPlus","LALR , URL: /wiki/LALR_parser
+","EBNF","Python , URL: /wiki/Python_(programming_language)
+","Separate","generated","All","No","MIT , URL: /wiki/MIT_License
+"
+"PRECC","LL , URL: /wiki/LL_parser
+","?","C , URL: /wiki/C_(programming_language)
+","Separate","generated","DOS , URL: /wiki/DOS
+POSIX , URL: /wiki/POSIX
+","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"racc[5]","LALR , URL: /wiki/LALR_parser
+","BNF , URL: /wiki/Backus%E2%80%93Naur_form
+","Ruby , URL: /wiki/Ruby_(programming_language)
+","Mixed","?","Windows, Linux, macOS, FreeBSD, NetBSD","No","LGPL , URL: /wiki/LGPL
+"
+"QLALR","LALR , URL: /wiki/LALR_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","external","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"SableCC , URL: /wiki/SableCC
+","LALR , URL: /wiki/LALR_parser
+","?","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+OCaml , URL: /wiki/OCaml
+Python , URL: /wiki/Python_(programming_language)
+","Separate","generated","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"SLK[7]","LL , URL: /wiki/LL_parser
+LR , URL: /wiki/LR_parser
+LALR , URL: /wiki/LALR
+","EBNF , URL: /wiki/Extended_Backus%E2%80%93Naur_form
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+","Separate","external","All","No","SLK[8]"
+"SLY[9]","LALR , URL: /wiki/LALR_parser
+","BNF","Python , URL: /wiki/Python_(programming_language)
+","Mixed","generated","All","No","MIT , URL: /wiki/MIT_License
+"
+"SP (Simple Parser)","Recursive descent , URL: /wiki/Recursive_descent
+","Python , URL: /wiki/Python_(programming_language)
+","Python , URL: /wiki/Python_(programming_language)
+","Separate","generated","All","No","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"Spirit , URL: /wiki/Spirit_Parser_Framework
+","Recursive descent , URL: /wiki/Recursive_descent_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","internal","All","No","Boost , URL: /wiki/Boost_Software_License
+"
+"Styx","LALR , URL: /wiki/LALR_parser
+","?","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","Separate","generated","All","No","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"Sweet Parser","LALR , URL: /wiki/LALR_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Separate","generated","Windows , URL: /wiki/Microsoft_Windows
+","No","zlib , URL: /wiki/Zlib_License
+"
+"Tap","LL , URL: /wiki/LL_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","generated","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"TextTransformer","LL , URL: /wiki/LL_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","generated","Windows , URL: /wiki/Microsoft_Windows
+","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"TinyPG","LL , URL: /wiki/LL_parser
+","?","C# , URL: /wiki/C_Sharp_(programming_language)
+Visual Basic , URL: /wiki/Visual_Basic
+","?","?","Windows , URL: /wiki/Microsoft_Windows
+","Yes","CPOL , URL: /wiki/Code_Project_Open_License
+"
+"Toy Parser Generator , URL: /w/index.php?title=Toy_Parser_Generator&action=edit&redlink=1
+","Recursive descent , URL: /wiki/Recursive_descent_parser
+","?","Python , URL: /wiki/Python_(programming_language)
+","Mixed","generated","All","No","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"TP Yacc","LALR , URL: /wiki/LALR_parser
+","?","Turbo Pascal , URL: /wiki/Turbo_Pascal
+","Mixed","external","All","Yes","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"Tree-Sitter[10]","LR , URL: /wiki/LR_parser
+GLR , URL: /wiki/GLR_parser
+","JavaScript , URL: /wiki/JavaScript
+DSL , URL: /wiki/Domain-specific_language
+JSON , URL: /wiki/JSON
+","C , URL: /wiki/C_(programming_language)
+Rust , URL: /wiki/Rust_(programming_language)
+WebAssembly , URL: /wiki/WebAssembly
+JavaScript , URL: /wiki/JavaScript
+Python , URL: /wiki/Python_(programming_language)
+","Separate","generated + external","All","Neovim , URL: /wiki/Vim_(text_editor)#Neovim
+Visual Studio Code , URL: /wiki/Visual_Studio_Code
+","MIT , URL: /wiki/MIT_License
+"
+"Tunnel Grammar Studio","Recursive descent , URL: /wiki/Recursive_descent
+backtracking , URL: /wiki/Backtracking
+","ABNF , URL: /wiki/Augmented_Backus%E2%80%93Naur_form
+","C++ , URL: /wiki/C%2B%2B
+","Separate","generated","Windows , URL: /wiki/Microsoft_Windows
+","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"UltraGram","LALR , URL: /wiki/LALR_parser
+LR , URL: /wiki/LR_parser
+GLR , URL: /wiki/GLR_parser
+","BNF , URL: /wiki/Backus%E2%80%93Naur_form
+","C++, Java, C#, Visual Basic .NET","Separate","external","Windows , URL: /wiki/Microsoft_Windows
+","Yes","public domain , URL: /wiki/Public_domain
+"
+"UniCC","LALR , URL: /wiki/LALR_parser
+","EBNF , URL: /wiki/Extended_Backus%E2%80%93Naur_form
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Python , URL: /wiki/Python_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+JSON , URL: /wiki/JSON
+XML , URL: /wiki/XML
+","Mixed","generated","POSIX , URL: /wiki/POSIX
+","No","BSD , URL: /wiki/BSD_licenses
+"
+"UrchinCC , URL: /w/index.php?title=UrchinCC&action=edit&redlink=1
+","LL , URL: /wiki/LL_parser
+","?","Java","?","generated","Java virtual machine , URL: /wiki/Java_virtual_machine
+","No","?"
+"Whale","LR , URL: /wiki/LR_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","external","All","No","Proprietary , URL: /wiki/Proprietary_software
+"
+"wisent","LALR , URL: /wiki/LALR_parser
+","?","C++ , URL: /wiki/C%2B%2B
+Java , URL: /wiki/Java_(programming_language)
+","Mixed","external","All","No","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"Yacc , URL: /wiki/Yacc
+AT&T , URL: /wiki/AT%26T_Corporation
+Sun , URL: /wiki/Sun_Microsystems
+","LALR , URL: /wiki/LALR_parser
+","Yacc , URL: /wiki/Yacc
+","C , URL: /wiki/C_(programming_language)
+","Mixed","external","POSIX , URL: /wiki/POSIX
+","No","CPL , URL: /wiki/Common_Public_License
+CDDL , URL: /wiki/Common_Development_and_Distribution_License
+"
+"Yacc++","LR , URL: /wiki/LR_parser
+LALR , URL: /wiki/LALR_parser
+","Yacc , URL: /wiki/Yacc
+","C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+","Mixed","generated or external","All","No","Proprietary , URL: /wiki/Proprietary_software
+"
+"Yapps","LL , URL: /wiki/LL_parser
+","?","Python , URL: /wiki/Python_(programming_language)
+","Mixed","generated","All","No","MIT , URL: /wiki/MIT_License
+"
+"yecc","LALR , URL: /wiki/LALR_parser
+","?","Erlang , URL: /wiki/Erlang_(programming_language)
+","Separate","generated","All","No","Apache , URL: /wiki/Apache_License
+"
+"Visual BNF , URL: /w/index.php?title=Visual_BNF&action=edit&redlink=1
+","LR , URL: /wiki/Canonical_LR_parser
+LALR , URL: /wiki/LALR_parser
+","?","C# , URL: /wiki/C_Sharp_(programming_language)
+","Separate","generated",".NET Framework , URL: /wiki/.NET_Framework
+","Yes","Proprietary , URL: /wiki/Proprietary_software
+"
+"YooParse","LR , URL: /wiki/Canonical_LR_parser
+LALR , URL: /wiki/LALR_parser
+","?","C++ , URL: /wiki/C%2B%2B
+","Mixed","external","All","No","MIT , URL: /wiki/MIT_License
+"
+"Parse[11]","LR , URL: /wiki/Canonical_LR_parser
+","C++ , URL: /wiki/C%2B%2B
+","?","?","none","C++11 standard compiler","No","MIT , URL: /wiki/MIT_License
+"
+"GGLL","LL , URL: /wiki/LL_parser
+","Graph","Java , URL: /wiki/Java_(software_platform)
+","Mixed","generated","Windows , URL: /wiki/Microsoft_Windows
+","Yes","MIT , URL: /wiki/MIT_License
+"
+"Product","Parsing , URL: /wiki/Parsing
+","Input grammar notation","Output languages , URL: /wiki/Programming_language
+","Grammar, code","Lexer , URL: /wiki/Lexical_analyzer
+","Development platform","IDE , URL: /wiki/Integrated_development_environment
+","License , URL: /wiki/Software_license
+"

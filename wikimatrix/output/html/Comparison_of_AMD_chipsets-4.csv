@@ -1,0 +1,52 @@
+"Model","Codename","Released","Fab , URL: /wiki/Fabrication_process
+","SATA , URL: /wiki/SATA
+","USB , URL: /wiki/USB
+","Parallel ATA , URL: /wiki/Parallel_ATA
+","RAID , URL: /wiki/RAID
+","NIC , URL: /wiki/Network_interface_controller
+","Package , URL: /wiki/Integrated_circuit_packaging
+","TDP , URL: /wiki/Thermal_design_power
+","Features / Notes"
+"AMD 480/570/580/690 CrossFire Chipset","SB600","2006","130","AHCI , URL: /wiki/AHCI
+SATA Revision 2.0 , URL: /wiki/SATA_Revision_2.0
+","10 + 0","1 × ATA/133","0,1,10","No","FC-BGA , URL: /wiki/Ball_grid_array
+","4.0",""
+"AMD 700 chipset series , URL: /wiki/AMD_700_chipset_series
+","SB700","Q1 2008","130","SATA Revision 2.0 , URL: /wiki/SATA_Revision_2.0
+","12 + 2","1 × ATA/133","0,1,10","No","FC-BGA , URL: /wiki/Ball_grid_array
+","4.5","DASH , URL: /wiki/Desktop_and_mobile_Architecture_for_System_Hardware
+"
+"AMD 700 chipset series , URL: /wiki/AMD_700_chipset_series
+","SB700S","Q1 2008","130","SATA Revision 2.0 , URL: /wiki/SATA_Revision_2.0
+","12 + 2","1 × ATA/133","0,1,10","No","FC-BGA , URL: /wiki/Ball_grid_array
+","4.5",""
+"AMD 700 chipset series , URL: /wiki/AMD_700_chipset_series
+","SB710","Q4 2008","130","SATA Revision 2.0 , URL: /wiki/SATA_Revision_2.0
+","12 + 2","1 × ATA/133","0,1,10","No","FC-BGA , URL: /wiki/Ball_grid_array
+","4.5",""
+"AMD 700 chipset series , URL: /wiki/AMD_700_chipset_series
+","SB750","Q4 2008","130","SATA Revision 2.0 , URL: /wiki/SATA_Revision_2.0
+","12 + 2","1 × ATA/133","","No","FC-BGA , URL: /wiki/Ball_grid_array
+","4.5",""
+"AMD 800 chipset series , URL: /wiki/AMD_800_chipset_series
+","SB810","Q1 2010","65","SATA Revision 2.0 , URL: /wiki/SATA_Revision_2.0
+","14 + 2","No","0,1,10","10/100/1000 , URL: /wiki/Gigabit_Ethernet
+","605-pin FC-BGA","6.0",""
+"AMD 800 chipset series , URL: /wiki/AMD_800_chipset_series
+","SB850","Q1 2010","65","SATA Revision 3.0 , URL: /wiki/SATA_Revision_3.0
+","14 + 2","No","0,1,5,10","10/100/1000 , URL: /wiki/Gigabit_Ethernet
+","605-pin FC-BGA","6.0",""
+"AMD 800 chipset series , URL: /wiki/AMD_800_chipset_series
+","SB820M","","65","SATA Revision 3.0 , URL: /wiki/SATA_Revision_3.0
+","14 + 2","No","0,1","10/100/1000 , URL: /wiki/Gigabit_Ethernet
+","605-pin FC-BGA","3.4 - 5.3","mobile/embedded"
+"AMD 900 chipset series , URL: /wiki/AMD_900_chipset_series
+","SB920","May 30, 2011","65","SATA Revision 3.0 , URL: /wiki/SATA_Revision_3.0
+","14 + 2","No","0,1,10","10/100/1000 , URL: /wiki/Gigabit_Ethernet
+","605-pin FC-BGA","6.0",""
+"AMD 900 chipset series , URL: /wiki/AMD_900_chipset_series
+","SB950","May 30, 2011","65","SATA Revision 3.0 , URL: /wiki/SATA_Revision_3.0
+","14 + 2","No","","10/100/1000 , URL: /wiki/Gigabit_Ethernet
+","605-pin FC-BGA","6.0",""
+"Model","Codename","Released","Fab (nm)","SATA","USB 2.0 + 1.1","Parallel ATA1","RAID","NIC , URL: /wiki/Network_interface_controller
+","Package","TDP (W)","Features / Notes"

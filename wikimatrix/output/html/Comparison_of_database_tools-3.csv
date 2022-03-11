@@ -1,0 +1,42 @@
+"","Visual query builder","Visual schema/model/E-R diagram design","Reverse engineering , URL: /wiki/Reverse_engineering
+","Forward engineering","ER diagram groupboxes"
+"Adminer , URL: /wiki/Adminer
+","Yes","Yes","Yes","No","No"
+"Altova DatabaseSpy , URL: /wiki/DatabaseSpy
+","Yes","Yes","Yes","Yes","?"
+"Database Workbench , URL: /wiki/Database_Workbench
+","Yes","Yes","Yes","?","Yes"
+"DBeaver , URL: /wiki/DBeaver
+","No","Yes","Yes","No","?"
+"DBEdit , URL: /wiki/DBEdit
+","No","No","No","No","No"
+"DbVisualizer , URL: /w/index.php?title=DbVisualizer&action=edit&redlink=1
+","Yes","Yes","Yes","?","Yes"
+"ModelRight , URL: /wiki/ModelRight
+","No","Yes","Yes","Yes","Yes"
+"Navicat , URL: /wiki/Navicat
+","Yes","Yes","Yes","Yes","Yes"
+"Navicat Data Modeler , URL: /wiki/Navicat
+","Yes","Yes","Yes","Yes","Yes"
+"MySQL Workbench , URL: /wiki/MySQL_Workbench
+","Yes","Yes","Yes","Yes","Yes"
+"Oracle SQL Developer , URL: /wiki/Oracle_SQL_Developer
+","Yes","Yes","Yes","Yes","?"
+"Orbada , URL: /wiki/Orbada
+","No","No","No","No","No"
+"pgAdmin , URL: /wiki/PgAdmin_III
+","Yes","No","No","No","No"
+"phpMyAdmin , URL: /wiki/PhpMyAdmin
+","Yes","Yes","Yes","No","No"
+"SQL Database Studio , URL: /wiki/SQL_Database_Studio
+","Yes","Yes","Yes","Yes","No"
+"SQL Server Management Studio , URL: /wiki/SQL_Server_Management_Studio
+","?","Yes","Yes","?","?"
+"SQLyog , URL: /wiki/SQLyog
+","Yes[19]","Yes[20]","Yes","Yes","?"
+"SQuirreL SQL , URL: /wiki/SQuirreL_SQL
+","Yes","Yes","Yes[note 3]","?","No"
+"Toad , URL: /wiki/Toad_(software)
+","Yes","Yes","Yes","Yes","?"
+"Toad Data Modeler , URL: /wiki/Toad_Data_Modeler
+","No","Yes","Yes","Yes[note 4]","?"

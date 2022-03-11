@@ -1,0 +1,104 @@
+"Client","Message templates","Message templates","Message templates","Message templates","Message templates","Message templates","Message templates individual for","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages"
+"Client","new","reply","forward","read confirmation","save","print","Message templates individual for","JavaScript , URL: /wiki/JavaScript
+","VBScript , URL: /wiki/VBScript
+","PHP , URL: /wiki/PHP
+","Python , URL: /wiki/Python_(programming_language)
+","Regular expressions , URL: /wiki/Regular_expression
+","Java , URL: /wiki/Java_(programming_language)
+","Other (specify)"
+"Alpine , URL: /wiki/Alpine_(email_client)
+","Yes","Yes","Yes","?","?","?","any","No","No","No","No","?","No","?"
+"Becky! Internet Mail , URL: /wiki/Becky!
+","Yes","Yes","Yes","Yes","Yes","Yes","any account folder","?","?","?","?","?","?",""
+"Citadel , URL: /wiki/Citadel/UX
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Claws Mail , URL: /wiki/Claws_Mail
+","Yes","Yes","Yes","Yes","Yes","Yes","account folder","No","No","No","Yes","?","?","Perl , URL: /wiki/Perl
+"
+"Courier , URL: /wiki/Courier_(email_client)
+","Yes","Yes","Yes","No","Yes","Yes","?","No","No","No","No","No","No","No"
+"Elm , URL: /wiki/Elm_(email_client)
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"eM Client , URL: /wiki/EM_Client
+","Yes","Yes","Yes","Yes","Yes","Yes","account","No","No","No","No","No","No","No"
+"Eudora , URL: /wiki/Eudora_(email_client)
+","Yes","Yes","Yes","Yes","Yes","Yes","any","No","No","No","No","Yes","No","No"
+"Evolution , URL: /wiki/Evolution_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?","?","?","?","?","?"
+"Gnus , URL: /wiki/Gnus
+","Yes","Yes","Yes","Yes","Yes","Yes","?","No","No","No","No","Yes","No","elisp , URL: /wiki/Elisp
+"
+"GroupWise , URL: /wiki/GroupWise
+","Yes","No","No","Yes","Yes","?","?","?","?","?","?","?","?","?"
+"Hiri , URL: /wiki/Hiri_(email_client)
+","Yes","Yes","Yes","No","Yes","Yes","any","No","No","No","No","No","No","No"
+"i.Scribe / InScribe , URL: /wiki/Scribe_Mail
+","Yes","Yes","Yes","No","No","No","any","No","No","No","No","No","No","Internal macros (similar to JavaScript)"
+"IBM Notes , URL: /wiki/IBM_Lotus_Notes
+","Yes","Yes","Yes","Yes","?","?","?","Yes","No","No","No","Yes[40]","Yes","LotusScript , URL: /wiki/LotusScript
+Formula language , URL: /wiki/Formula_language
+"
+"KMail , URL: /wiki/KMail
+","Yes","Yes","Yes","No","No","No","none","?","No","No","No","?","?","?"
+"Mailpile , URL: /wiki/Mailpile
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Microsoft Entourage , URL: /wiki/Microsoft_Entourage
+","Yes","Yes","Yes","Yes","?","?","?","?","?","?","?","?","?","AppleScript , URL: /wiki/AppleScript
+Automator , URL: /wiki/Apple_Automator
+"
+"Microsoft Office Outlook , URL: /wiki/Microsoft_Office_Outlook
+","Yes","Yes","Yes","Yes","?","?","?","No","No","?","No","?","No","?"
+"Mozilla Mail & Newsgroups , URL: /wiki/Mozilla_Mail_%26_Newsgroups
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Mozilla Thunderbird , URL: /wiki/Mozilla_Thunderbird
+","Yes","Yes[Note 1]","Yes[Note 1]","Yes","Yes","Yes","profile","Yes","?","?","?","?","?","?"
+"Mulberry , URL: /wiki/Mulberry_(email_client)
+","Yes","Yes","Yes","Yes","?","?","?","No","No","No","No","?","?","?"
+"Mutt , URL: /wiki/Mutt_(email_client)
+","Yes","Yes","Yes","No","?","?","any","No","No","No","No","Yes","?","Internal macros"
+"Netscape Messenger , URL: /wiki/Netscape_Messenger
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Netscape Messenger 9 , URL: /wiki/Netscape_Messenger_9
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"nmh / MH , URL: /wiki/MH_Message_Handling_System
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Opera Mail , URL: /wiki/Opera_Mail
+","No","No","No","No","No","No","N/A","No","No","No","No","No","No","No"
+"Outlook Express , URL: /wiki/Outlook_Express
+","Yes","Yes","?","Yes","?","?","?","Yes","Yes","?","?","?","?","?"
+"Pegasus Mail , URL: /wiki/Pegasus_Mail
+","Yes","Yes","Yes","Yes","?","?","?","?","?","?","?","?","?","?"
+"Pine , URL: /wiki/Pine_(email_client)
+","Yes","Yes","Yes","?","?","?","any","?","No","No","?","?","No","?"
+"Pocomail , URL: /wiki/Pocomail
+","Yes","Yes","Yes","?","?","Yes","?","No","No","No","No","No","No","PocoScript"
+"RoundCube , URL: /wiki/RoundCube
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No","No","?"
+"SeaMonkey , URL: /wiki/SeaMonkey
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"SquirrelMail , URL: /wiki/SquirrelMail
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No","No","?"
+"Sylpheed , URL: /wiki/Sylpheed
+","Yes","Yes","Yes","?","?","?","?","No","No","No","No","No","?","?"
+"The Bat! , URL: /wiki/The_Bat!
+","Yes","Yes","Yes","Yes","Yes","Yes","account folder address book group contact","Yes [Note 2]","Yes [Note 3]","Yes [Note 4]","Yes [Note 5]","Yes","PCRE , URL: /wiki/PCRE
+","Internal and plugins macros"
+"Turnpike , URL: /wiki/Turnpike_(software)
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Windows Live Mail , URL: /wiki/Windows_Live_Mail
+","Yes[Note 6]","Yes[Note 6]","?","Yes[Note 6]","?","?","?","Yes","No","?","?","?","?","?"
+"Windows Mail , URL: /wiki/Windows_Mail
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"YAM , URL: /wiki/YAM_(Yet_Another_Mailer)
+","Yes","Yes","Yes","?","Yes","Yes","?","No","No","No","No","?","?","ARexx , URL: /wiki/ARexx
+"
+"Zimbra , URL: /wiki/Zimbra
+","Yes","Yes","Yes","Yes","Yes","Yes","any","No","No","No","No","No","?","?"
+"Client","Message templates","Message templates","Message templates","Message templates","Message templates","Message templates","Message templates individual for","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages","Support in message templates scripts, programming languages"
+"Client","new","reply","forward","read confirmation","save","print","Message templates individual for","JavaScript , URL: /wiki/JavaScript
+","VBScript , URL: /wiki/VBScript
+","PHP , URL: /wiki/PHP
+","Python , URL: /wiki/Python_(programming_language)
+","Regular expressions , URL: /wiki/Regular_expression
+","Java , URL: /wiki/Java_(programming_language)
+","Other (specify)"

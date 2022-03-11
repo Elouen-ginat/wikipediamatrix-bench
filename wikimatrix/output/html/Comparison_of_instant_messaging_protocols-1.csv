@@ -1,29 +1,18 @@
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"Jonathan Warren","2012 Nov","Open standard","Alphanumeric address","Yes","Yes","Yes","Yes","No","Yes","Yes (through proof-of-work)","Yes","No","No","Yes","No","Yes","null","null"
-"Apple Inc.","2002 August","Proprietary Freeware; portions under the Apache license","Username","No","No","No","Yes","No","multicast","Medium","No","No","No","Yes","No","Yes","null","null"
-"Briarproject.org","2018 May 9","Open standard","Public & Private key (via QR Codes)","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","null","null"
-"spot-on.sf.net / goldbug.sf.net","2013","Open standard","Key","Yes","Yes, optional","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","null","null"
-"GG Network","2000 Jul 17","Proprietary","Unique number e.g. 12345678","Yes","Yes","No","Yes","No","Centralistic","Yes[c] (simple)","Yes","Yes","Yes","Yes","No","No","null","null"
-"Jarkko Oikarinen","1988 Aug","Open standard","Nickname!Username@hostname (or "hostmask") e.g. user!~usr@a.b.com[d]","Yes, but via a memo system that differs from the main system","Yes, depending on individual server support","OTR by DM to client-to-client only","No[e]","No","Simplistic multicast","Medium","Yes (everyone, multiple simultaneous, any size)","No","No","Yes","No","No","null","null"
-"Savoir-faire Linux Inc.","2002 August","Open Standard","40-digit address","Yes","Yes","Yes","Yes","No","Yes","Medium","Yes","Yes","Yes","Yes","No","Yes","null","null"
-"Matrix.org","2014 Sep[3][failed verification]","Open standard","@Username:Hostname (MXID)","Yes","Yes, mandatory","Yes, default for private conversations[4]","Yes","Yes","Yes","Yes (using pluggable server-side filtering modules and contact ignoring)","Yes","Yes","Yes","Yes","Yes","Under development[5]","null","null"
-"Microsoft","1999 Jul","Proprietary","Email address (Microsoft account)","Yes","No","No","Only for certified robots","No","Centralistic","Yes","Yes","Yes","Yes","Yes","Yes","No","null","null"
-"MTProto (Telegram)","Telegram Messenger LLP","2013 Aug","Open standard","Phone number (e.g. +1234567890), nickname (e.g. @example)","Yes","Yes","No end-to-end encryption for group chats","Yes","No","Yes","Yes, contact blocking","Yes","Yes[6]","Yes","Yes","Yes","No","MTProto (Telegram)"
-"Thorvald Natvig","1999 Jul","Open standard","Username","Yes","Yes","No","Only for certified robots","No","Centralistic","Yes","Yes","Yes","No","Yes","No","No","null","null"
-"AOL","1997","Proprietary (Discontinued 15-Dec-2017)[7]","Username, Email Address or UIN e.g. 12345678","Yes","Yes (Aim Pro, Aim Lite)","No","No","No","Centralistic","client-based","Yes (Multiple, simultaneous)","Yes","Yes","Yes","No","No","null","null"
-"Microsoft","1997 Mar","Proprietary (Discontinued)","Windows Active Directory Login","No","No","No","?","No","Centralistic","None","No","?","?","No","No","No","null","null"
-"Invisible.im","2014 Mar","Open standard","Tor onion address","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","No","No","Yes","No","Yes","null","null"
-"Serval Project","2016","Open Standard","Digit address","Yes","No","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","null","null"
-"Signal Foundation","2014 Feb[8]","Open standard","Phone number (e.g. +1234567890)","Yes","Yes","Yes","Yes","?","Yes","Yes, contact blocking","Yes","Yes","Yes","Yes","Yes","No","null","null"
-"IETF","1996","Open standard","user@hostname","Yes","Yes","Optional","Yes","Yes","No","Medium","?","Yes","Yes","Yes","No","Depends on implementation","null","null"
-"Skype","2003 Aug","Proprietary","Username","Yes","Proprietary","No","No","No","Centralistic","client-based","Yes","Yes","Yes","Yes","No","No","null","null"
-"Valve","2003 Sep 12","Proprietary","SteamID/Username or Unique Number","Yes","Proprietary","?","No, although rising","Yes","?","No","Yes","Yes","No","No","No","No","null","null"
-"AOL","2005 Sep","Proprietary (Discontinued)","Username or UIN e.g. 12345678","Yes","No","No","No","No","Centralistic","No","paying members only","?","?","Partial","?","No","null","null"
-"irungentoo (github user)","2013 June","GNU General Public License (GPL) version 3 or later","Public & Private key","Yes","Yes","Yes","Yes","Yes","Yes[9][10]","Yes","Yes","Yes","Yes","Yes","Yes[11]","Yes","null","null"
-"Tuenti","2006","Proprietary","Username","Yes","Yes","No","Yes","?","Yes","Yes","Yes","Yes","Yes","Yes","?","No","null","null"
-"Microsoft","1990","Proprietary (Discontinued)","NetBIOS","Yes","No","No","Yes","Yes","Yes","No","No","No","No","No","No","No","null","null"
-"Jeremie Miller, standardized via IETF","1999 Jan","Open standard","Jabber ID (JID) e.g. usr@a.b.c/home[f]","Yes","Yes","Optional[12][13][14]","Yes","Yes","Yes[15][16]","Yes[17][18][19]","Yes[15]","Yes, via Jingle","Yes, via Jingle","Yes","Yes[20]","Optional[21]","null","null"
-"Yahoo!","1998, March 9","Proprietary","Username","Yes","No[needs update?]","No","No","Yes","Centralistic","Yes","Yes","Yes","Yes","Yes","No","No","null","null"
-"MIT","1987","Open standard","Kerberos principal e.g. user@ATHENA.MIT.EDU","Yes","No","No","Yes","Yes","Yes","No","Yes","No","No","No","No","No","null","null"
-"Friedhelm Hillebrand","1985","Proprietary","Phone number (e.g. +1234567890)","Yes","No","No","About 250 contacts in SIM, unlimited from phone.","No","serial messages","Medium","No","Yes","3G-324M/ViLTE","RCS","No","?","null","null"
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
+"v t e Instant messaging","v t e Instant messaging","v t e Instant messaging"
+"comparison , URL: 
+","Open","DDP IMPP IRC Matrix MTProto Retroshare Signal Protocol SIP MSRP SIMPLE Tox XMPP Jingle WFP Zephyr"
+"comparison , URL: 
+","Closed","MSNP OSCAR TOC Skype"
+"Services","Band BBM BiP DingTalk Discord Google Chat Google Hangouts Google Meet GroupMe Guilded Hike Messenger HipChat ICQ iGap iMessage IRC Networks Jongla KakaoTalk Kik Lark Libon Line Marco Polo Mattermost Messages (Google) Messenger The Palace Palringo Session Signal Skype Slack Snapchat SNOW Tango Telegram QQ Textfree/Pinger Threema Tox Trillian Viber WeChat WhatsApp Wickr Windows Messenger service Zoom Zulip Imo (software)","Band BBM BiP DingTalk Discord Google Chat Google Hangouts Google Meet GroupMe Guilded Hike Messenger HipChat ICQ iGap iMessage IRC Networks Jongla KakaoTalk Kik Lark Libon Line Marco Polo Mattermost Messages (Google) Messenger The Palace Palringo Session Signal Skype Slack Snapchat SNOW Tango Telegram QQ Textfree/Pinger Threema Tox Trillian Viber WeChat WhatsApp Wickr Windows Messenger service Zoom Zulip Imo (software)"
+"comparison , URL: /wiki/Comparison_of_cross-platform_instant_messaging_clients
+","Single protocol","Baidu Hi BBM Briar CSipSimple Delta Chat Element FaceTime Fetion Gadu-Gadu Google Allo GroupMe HCL Sametime ICQ IMVU Jami Jongla Linphone Messenger Palringo Retroshare Ricochet Session Signal Skype Telegram Tencent QQ Tox WeChat WhatsApp Wickr Wire"
+"comparison , URL: /wiki/Comparison_of_cross-platform_instant_messaging_clients
+","Multi-protocol","Adium Ayttm BitlBee Centericq eBuddy Empathy Fire Instantbird Jitsi Kopete Messages/iChat Miranda IM Nimbuzz Pidgin Finch QIP 2010 Skype for Business Telepathy Thunderbird Trillian Upptalk"
+"comparison , URL: /wiki/Comparison_of_cross-platform_instant_messaging_clients
+","XMPP (Jabber) , URL: /wiki/XMPP
+","Bombus ChatSecure Conversations Gajim Psi Spark Tkabber"
+"comparison , URL: /wiki/Comparison_of_cross-platform_instant_messaging_clients
+","MSNP , URL: /wiki/Microsoft_Notification_Protocol
+","aMSN Microsoft Teams Skype"
+"Defunct","List of defunct instant messaging platforms","List of defunct instant messaging platforms"
+"See also","Backchannel Chat log Chatbot Circuit Comparison of user features of messaging platforms Contact list Emoticon File sharing FirstClass Flock Fuze Box Hall.com LAN messenger Messaging apps Presence information RingCentral Glip Shoutbox SMS language Status message U-Report Videotelephony Voice over IP Web chat Webcam Yammer","Backchannel Chat log Chatbot Circuit Comparison of user features of messaging platforms Contact list Emoticon File sharing FirstClass Flock Fuze Box Hall.com LAN messenger Messaging apps Presence information RingCentral Glip Shoutbox SMS language Status message U-Report Videotelephony Voice over IP Web chat Webcam Yammer"

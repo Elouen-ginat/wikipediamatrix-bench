@@ -2,7 +2,6 @@ package fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Visitor;
 
 import java.util.ArrayList;
 
-import fr.univrennes1.istic.wikipediamatrix.App;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Balise;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Table;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tbody;

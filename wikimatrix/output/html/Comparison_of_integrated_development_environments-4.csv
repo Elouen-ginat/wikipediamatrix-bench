@@ -1,0 +1,185 @@
+"IDE , URL: /wiki/Integrated_development_environment
+","License , URL: /wiki/Software_license
+","Windows , URL: /wiki/Microsoft_Windows
+","Linux , URL: /wiki/Linux
+","macOS , URL: /wiki/MacOS
+","Other platforms , URL: /wiki/Platform_(computing)
+","Written in","Debugger , URL: /wiki/Debugger
+","GUI builder , URL: /wiki/GUI_builder
+","toolchain , URL: /wiki/Toolchain
+","Profiler , URL: /wiki/Profiler_(computer_science)
+","Code coverage , URL: /wiki/Code_coverage
+","Autocomplete , URL: /wiki/Autocomplete
+","Static code analysis , URL: /wiki/Static_code_analysis
+","GUI-based design , URL: /wiki/User_interface_design
+","Class browser , URL: /wiki/Class_browser
+","release , URL: /wiki/Software_release
+","C compiler , URL: /wiki/C_compiler
+","C++ compiler , URL: /wiki/C%2B%2B_compiler
+","Refactoring , URL: /wiki/Refactoring
+"
+"Anjuta , URL: /wiki/Anjuta
+","GPL , URL: /wiki/GPL
+","No","Yes","No","FreeBSD , URL: /wiki/FreeBSD
+","C , URL: /wiki/C_(programming_language)
+","Yes","Yes","Yes","Yes","No","Yes","No","Yes","Yes","2016-03","Yes","Yes","No"
+"AppCode , URL: /wiki/AppCode
+IntelliJ IDEA , URL: /wiki/IntelliJ_IDEA
+","Proprietary , URL: /wiki/Proprietary_software
+","No","No","Yes","","Java , URL: /wiki/Java_(programming_language)
+","Yes","Yes","No","Yes (Xcode profiler)","No","Yes","Yes","Yes","Yes","2012-12","Yes (Xcode toolchain)","Yes (Xcode toolchain)","Yes"
+"C++Builder , URL: /wiki/C%2B%2BBuilder
+","Proprietary , URL: /wiki/Proprietary_software
+Freeware , URL: /wiki/Freeware_software
+","Yes","No (Cross compiler planned)","Yes (Cross compiler)","Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+","C++ , URL: /wiki/C%2B%2B
+Object Pascal , URL: /wiki/Object_Pascal
+","Yes","Yes","Yes","Yes (AQTime Standard in package manager)","Yes","Yes","Yes","Yes","Yes","2017-03 Tokyo 10.2","Yes","Yes","Yes"
+"Code::Blocks , URL: /wiki/Code::Blocks
+","GPL , URL: /wiki/GPL
+","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+OpenBSD , URL: /wiki/OpenBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+","C++ , URL: /wiki/C%2B%2B
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[6]","Yes","2020-03[7]","Yes (MinGW + custom)","Yes (MinGW + custom)","Yes"
+"CodeLite , URL: /wiki/CodeLite
+","GPL , URL: /wiki/GPL
+","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+","C++ , URL: /wiki/C%2B%2B
+","Yes","Yes","Yes","Valgrind , URL: /wiki/Valgrind
+","No","Yes","Yes","Yes[8]","Yes","2020-02-28","Yes (GCC, Clang, VC + custom)","Yes (GCC, Clang, VC + custom)","Yes"
+"Dev-C++ , URL: /wiki/Dev-C%2B%2B
+","GPL , URL: /wiki/GPL
+","Yes","No[9]","No","FreeBSD , URL: /wiki/FreeBSD
+","Object Pascal , URL: /wiki/Object_Pascal
+","Yes","No","Yes","Yes","No","Yes","No","Yes","Yes","2020-10-12","Yes","Yes","No"
+"Eclipse CDT , URL: /wiki/Eclipse_(software)
+","EPL , URL: /wiki/Eclipse_Public_License
+","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+JVM , URL: /wiki/Java_Virtual_Machine
+Solaris , URL: /wiki/Solaris_(operating_system)
+","C++ , URL: /wiki/C%2B%2B
+Java , URL: /wiki/Java_(programming_language)
+","Yes","Yes[2]","Yes[10]","Yes[11]","Yes[12]","Yes","Yes","Yes","Yes","2020-06[13][14][15]","External","External","Yes"
+"Geany , URL: /wiki/Geany
+","GPL , URL: /wiki/GPL
+","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+AIX , URL: /wiki/IBM_AIX
+OpenBSD , URL: /wiki/OpenBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+Unix , URL: /wiki/Unix
+","C , URL: /wiki/C_(programming_language)
+","Yes (via a plug-in)","No","No","No","No","Yes","No","No","Yes","2019-04[16]","External","External","No"
+"GNAT Programming Studio , URL: /wiki/GNAT_Programming_Studio
+","GPL , URL: /wiki/GPL
+","Yes","Yes","Yes","DragonFly BSD , URL: /wiki/DragonFly_BSD
+FreeBSD , URL: /wiki/FreeBSD
+NetBSD , URL: /wiki/NetBSD
+OpenBSD , URL: /wiki/OpenBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+","Ada , URL: /wiki/Ada_(programming_language)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","2016-06","Yes","Yes","Yes"
+"JetBrains CLion , URL: /wiki/CLion
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","","Java , URL: /wiki/Java_(programming_language)
+","Yes","No","Yes","No","No","Yes","Yes","No","Yes","2019-07[17]","Yes (customizable)","Yes (customizable)","Yes"
+"KDevelop , URL: /wiki/KDevelop
+","GPL , URL: /wiki/GPL
+","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","2018-11","External","External","Yes"
+"LabWindows/CVI , URL: /wiki/LabWindows/CVI
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","No","Linux , URL: /wiki/Linux
+Phar Lap ETS , URL: /wiki/Phar_Lap_(company)
+","?","Yes","Yes","Yes","Yes","No","Yes","No","Yes","N/A","2016-12","Yes","No","No"
+"Microsoft Visual Studio , URL: /wiki/Microsoft_Visual_Studio
+","Proprietary , URL: /wiki/Proprietary_software
+Freeware , URL: /wiki/Freeware_software
+","Yes","Yes[18]","No","Mac OS 7 , URL: /wiki/Mac_OS_7
+","C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","2019-04","Yes","Yes","Yes (also plugin)[19]"
+"Microsoft Visual Studio Code , URL: /wiki/Visual_Studio_Code
+","MIT , URL: /wiki/MIT_License
+","Yes","Yes","Yes","","TypeScript , URL: /wiki/TypeScript
+JavaScript , URL: /wiki/JavaScript
+CSS , URL: /wiki/CSS
+","Yes","No","Yes","No","No","Yes","No","Yes","Yes","2020-09","External","External","Requires language server support[20][21]"
+"MonoDevelop , URL: /wiki/MonoDevelop
+","LGPL , URL: /wiki/LGPL
+","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+OpenBSD , URL: /wiki/OpenBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+","C# , URL: /wiki/C_Sharp_(programming_language)
+","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","2016-11","Yes (GCC + custom)","Yes (GCC + custom)","Yes"
+"NetBeans C/C++ pack , URL: /wiki/NetBeans#NetBeans_IDE_Bundle_for_C/C++
+","Apache License , URL: /wiki/Apache_License
+","Yes","Yes","Yes","OpenBSD , URL: /wiki/OpenBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+","Java , URL: /wiki/Java_(programming_language)
+","Yes[22]","Yes[22]","Yes[23]","No[22]","No","Yes","No","Yes","Yes","
+URL: https://www.wikidata.org/wiki/Q264456?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","External","External","Yes"
+"OpenWatcom , URL: /wiki/OpenWatcom
+","OSI Approved , URL: /wiki/Sybase_Open_Watcom_Public_License
+","Yes (32-bit only)","partial","No","FreeBSD , URL: /wiki/FreeBSD
+DOS , URL: /wiki/DOS
+OS/2 , URL: /wiki/OS/2
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","Yes (GUI remote)","Yes","Yes","Yes","No","No","No","Yes","Yes","2010-06","Yes","Yes","No"
+"Oracle Solaris Studio , URL: /wiki/Oracle_Solaris_Studio
+Sun Studio , URL: /wiki/Sun_Studio_(software)
+","Proprietary , URL: /wiki/Proprietary_software
+Freeware , URL: /wiki/Freeware_software
+","No","Yes","No","Solaris , URL: /wiki/Solaris_(operating_system)
+","?","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","2008-11","Yes","Yes","Yes"
+"Qt Creator , URL: /wiki/Qt_Creator
+","GPL , URL: /wiki/GPL
+LGPL , URL: /wiki/LGPL
+Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+Maemo , URL: /wiki/Maemo
+OpenBSD , URL: /wiki/OpenBSD
+Symbian , URL: /wiki/Symbian
+","C++ , URL: /wiki/C%2B%2B
+","Yes","Yes","Yes","Yes","No","Yes","Yes (clang)","Yes","Yes","2019-06","External","External","Yes[25]"
+"Rational Software Architect (Eclipse IBM) , URL: /wiki/Rational_Software_Architect
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","FreeBSD , URL: /wiki/FreeBSD
+JVM , URL: /wiki/Java_Virtual_Machine
+Solaris , URL: /wiki/Solaris_(operating_system)
+","Java , URL: /wiki/Java_(programming_language)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","2015-09","External","External","Yes"
+"SlickEdit , URL: /wiki/SlickEdit
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Solaris , URL: /wiki/Solaris_(operating_system)
+Solaris SPARC , URL: /w/index.php?title=Solaris_SPARC&action=edit&redlink=1
+AIX , URL: /wiki/AIX
+HP-UX , URL: /wiki/HP-UX
+","C++ , URL: /wiki/C%2B%2B
+","Yes","No","Yes","No","No","Yes","No","Yes","Yes","2018-12","External","External","Yes"
+"Ultimate++ TheIDE , URL: /wiki/Ultimate%2B%2B
+","BSD , URL: /wiki/BSD
+","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+","C++ , URL: /wiki/C%2B%2B
+","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","2020-05","External","External","No"
+"Understand , URL: /wiki/Understand_(software)
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Solaris , URL: /wiki/Solaris_(operating_system)
+","?","No","No","No","No","No","Yes","Yes","No","Yes","2015-12","No","No","Yes"
+"Xcode (Apple) , URL: /wiki/Xcode
+","Proprietary , URL: /wiki/Proprietary_software
+","No","No","Yes","iOS , URL: /wiki/IOS_(Apple)
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Objective-C , URL: /wiki/Objective-C
+Objective-C++ , URL: /wiki/Objective-C%2B%2B
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","2016-12","Yes, llvm (llvm-gcc and gcc deprecated)","Yes, llvm (llvm-gcc and gcc deprecated)","Yes"
+"IDE","License","Windows","Linux","macOS","Other platforms","Written in","Debugger","GUI builder","Integrated toolchain","Profiler","Code coverage","Autocomplete","Static code analysis","GUI-based design","Class browser","Latest stable release","C compiler","C++ compiler","Refactoring"

@@ -1,0 +1,64 @@
+"Card Slot","CF , URL: /wiki/CompactFlash
+","CF , URL: /wiki/CompactFlash
+","CFast , URL: /wiki/CFast
+","SM , URL: /wiki/SmartMedia
+","MMC , URL: /wiki/Multimedia_Card
+","MMC , URL: /wiki/Multimedia_Card
+","Memory Stick , URL: /wiki/Memory_Stick
+","Memory Stick , URL: /wiki/Memory_Stick
+","Memory Stick , URL: /wiki/Memory_Stick
+","Memory Stick , URL: /wiki/Memory_Stick
+","SDSC , URL: /wiki/Secure_Digital
+","SDSC , URL: /wiki/Secure_Digital
+","SDSC , URL: /wiki/Secure_Digital
+","SDHC , URL: /wiki/SDHC
+","SDHC , URL: /wiki/SDHC
+","SDHC , URL: /wiki/SDHC
+","SDXC , URL: /wiki/SDXC
+","SDXC , URL: /wiki/SDXC
+","xD , URL: /wiki/XD-Picture_Card
+","xD , URL: /wiki/XD-Picture_Card
+","xD , URL: /wiki/XD-Picture_Card
+","XQD , URL: /wiki/XQD
+"
+"Card Slot","I","II","","","MMC","RS-MMC, MMCmobile","Std","PRO","PRO Duo","Micro","SDSC","miniSD , URL: /wiki/MiniSD
+","microSD , URL: /wiki/MicroSD
+","SDHC","miniSDHC , URL: /wiki/MiniSDHC
+","microSDHC , URL: /wiki/MicroSDHC
+","SDXC","microSDXC , URL: /wiki/MicroSDXC
+","Std","M","H",""
+"ExpressCard , URL: /wiki/ExpressCard
+","E[37]","E[37]","","","E[38]","","E[39]","E[39]","E[38]","","E[38]","E[38]","E[40]","","","","","","E[38]","E[38]","E[38]","EM"
+"PCI Express Mini Card , URL: /wiki/PCI_Express_Mini_Card
+","","","","","","","","","","","","","","","","","","","","","","EM"
+"mSATA , URL: /wiki/MSATA
+","","","XM","","","","","","","","","","","","","","","","","","",""
+"PC Card , URL: /wiki/PC_Card
+","EM[41]","EM[41]","","E[42]","E[43]","","E[43]","E[43]","","","E[43]","","","","","","","","","","",""
+"PCMCIA , URL: /wiki/PCMCIA
+","EM[41]","EM[41]","","E[42]","E[43]","","E[43]","E[43]","","","E[43]","","","","","","","","","","",""
+"CF I","+","+","","E","E[44]","","E[45]","E[45]","E[46]","","E[44]","","","","","","","","E[47]","E[47]","E[47]",""
+"CF II","","+","","E","E[44]","","E[45]","E[45]","","","E[44]","","","","","","","","E[47]","E[47]","E[47]",""
+"CFast","","","+","","","","","","","","","","","","","","","","","","",""
+"SM","","","","+","","","","","","","","","","","","","","","X[48]","X[48]","X[48]",""
+"xD","","","","","","","","","","","","","E[49]","","","","","","+","+","+",""
+"XQD","","","","","","","","","","","","","","","","","","","","","","+"
+"MMC","","","","","+","M","","","","","D[50]","","","","","","","","","","",""
+"MS","","","","","X[51]","","+","+","M","M","X[51]","X[51]","E[52]","","","","","","","","",""
+"SDSC","","","","","D","M","","","","","+","EM","EM","","","","","","","","",""
+"miniSD","","","","","","","","","","","","+","EM","","","","","","","","",""
+"microSD","","","","","","","","","","","","","+","","","","","","","","",""
+"SDHC","","","","","","","","","","","D[53]","EM","EM","+","EM","EM","","","","","",""
+"miniSDHC","","","","","","","","","","","","D[53]","EM","","+","EM","","","","","",""
+"microSDHC","","","","","","","","","","","","","D[53]","","","+","","","","","",""
+"SDXC","","uscb","","","","","","","","","D[54]","EM","EM","D[54]","EM","EM","+","EM","","","",""
+"microSDXC","","","","","","","","","","","","","D[54]","","","D[54]","","+","","","",""
+"IDE PATA","EM[55]","EM[55]","","","","","","","","","E[56][57]","","","","","","","","","","",""
+"Serial ATA","E[58]","E[58]","EM","","","","","","","","","","","","","","","","","","",""
+"PCI Express","","","","","","","","","","","","","","","","","","","","","","EM"
+"USB","X[59]","X[59]","","X[59]","X[59]","","X[59]","X[59]","E[60]","E[60]","E[61]","","E[62]","","","","","","X[59]","X[59]","X[59]","X"
+"Floppy","","","","E[63]","E","E + M","E","E","","","","","","","","","","","","","",""
+"Nintendo DS Slot-1 , URL: /wiki/Nintendo_DS_homebrew#SLOT-1_and_SLOT-2_devices
+","","","","","","","","","","","","","E[64]","","","","","","","","",""
+"Nintendo DS Slot-2 , URL: /wiki/Nintendo_DS_homebrew#SLOT-1_and_SLOT-2_devices
+","","","","","","","","","","","E[65]","E[65]","E[65]","","","","","","","","",""

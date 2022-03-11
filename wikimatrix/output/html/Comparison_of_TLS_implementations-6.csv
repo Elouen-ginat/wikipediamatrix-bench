@@ -1,0 +1,36 @@
+"Implementation","Application-defined","PKIX path validation[106]","CRL , URL: /wiki/Revocation_list
+","OCSP , URL: /wiki/Online_Certificate_Status_Protocol
+","DANE , URL: /wiki/DNS-based_Authentication_of_Named_Entities
+","Trust on First Use (TOFU)","CT , URL: /wiki/Certificate_Transparency
+"
+"Botan , URL: /wiki/Botan_(programming_library)
+","Yes","Yes","Yes","Yes","No","No","Unknown"
+"Bouncy Castle , URL: /wiki/Bouncy_Castle_(cryptography)
+","Yes","Yes","Yes","Yes","Yes","No","Unknown"
+"BSAFE , URL: /wiki/BSAFE
+","Yes","Yes","Yes","Yes","No","No","Unknown"
+"cryptlib , URL: /wiki/Cryptlib
+","Yes","Yes","Yes","Yes","No","No","Unknown"
+"GnuTLS , URL: /wiki/GnuTLS
+","Yes","Yes","Yes","Yes","Yes","Yes","Unknown"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","Yes","Yes","Yes","Yes","No","No","No"
+"LibreSSL , URL: /wiki/LibreSSL
+","Yes","Yes","Yes","Yes","No","No","Unknown"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","Yes","Yes","Yes","Yes[111]","No","No","Unknown"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","Yes","Yes","Yes","No[112]","No","No","Unknown"
+"NSS , URL: /wiki/Network_Security_Services
+","Yes","Yes","Yes","Yes","No[113]","No","Unknown"
+"OpenSSL , URL: /wiki/OpenSSL
+","Yes","Yes","Yes","Yes","Yes","No","Yes"
+"SChannel , URL: /wiki/SChannel
+","Unknown","Yes","Yes[114]","Yes[114]","No","No","Unknown"
+"Secure Transport , URL: /wiki/MacOS
+","Yes","Yes","Yes","Yes","No","No","Unknown"
+"wolfSSL , URL: /wiki/WolfSSL
+","Yes","Yes","Yes","Yes","No","No","Unknown"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","Yes","Yes","Yes","No","No","No","Unknown"
+"Implementation","Application-defined","PKIX path validation","CRL","OCSP","DANE (DNSSEC)","Trust on First Use (TOFU)","CT"

@@ -1,0 +1,24 @@
+"keyword","feature, example usage"
+"checked, unchecked","arithmetic overflow , URL: /wiki/Arithmetic_overflow
+"
+"get, set","properties , URL: /wiki/Property_(programming)
+accessor methods , URL: /wiki/Accessor_method
+"
+"goto","finite state machines , URL: /wiki/Finite_state_machine
+generated code , URL: /wiki/Code_generation_(compiler)
+control flow , URL: /wiki/Control_flow
+criticism of the goto statement , URL: /wiki/Goto#Criticism
+"
+"lock","In C#, the lock keyword is a shorthand for synchronizing access to a block of code across threads (using a Monitor), wrapped in a try ... finally block."
+"out, ref","parameters , URL: /wiki/Parameter_(computer_science)
+"
+"strictfp","Java uses strictfp to guarantee the results of floating point operations remain the same across platforms."
+"switch","switch statement , URL: /wiki/Switch_statement
+Java 7 , URL: /wiki/Java_7
+"
+"synchronized","In Java, the synchronized keyword is a shorthand for synchronizing access to a block of code across threads (using a Monitor), wrapped in a try ... finally block."
+"throws","Java requires every method to declare the checked exceptions or superclasses of the checked exceptions that it can throw. Any method can also optionally declare the unchecked exception that it throws. C# has no such syntax. public int readItem() throws java.io.IOException {
+    // ...
+}"
+"using","interface , URL: /wiki/Interface_(object-oriented_programming)
+"

@@ -1,0 +1,20 @@
+"Application","Alembic , URL: /wiki/Alembic_(computer_graphics)
+","USD , URL: /wiki/Universal_Scene_Description
+","Rendering Engine","Volume Rendering for clouds","Interactive Rendering","Isolating light contribution","Light Lister","IES Light","Physical Sun & Sky","Sun Positioning by location and times","Light Portal","Shadow Catcher","IBL and Environment texture","IBL and Environment texture","IBL and Environment texture","Highlight Placement","Light Mixer"
+"Application","Alembic , URL: /wiki/Alembic_(computer_graphics)
+","USD , URL: /wiki/Universal_Scene_Description
+","Rendering Engine","Volume Rendering for clouds","Interactive Rendering","Isolating light contribution","Light Lister","IES Light","Physical Sun & Sky","Sun Positioning by location and times","Light Portal","Shadow Catcher","Lat Long","sIBL","Light Extraction[31]","Highlight Placement","Light Mixer"
+"Maya","Yes","USD Extension for Maya","Maya Hardware 2.0","?","Yes","No[32]","Light Editor","?","?","?","?","?","Yes","?","?","(Place Highlight Tool for Maya)","No"
+"Maya","Yes","USD Extension for Maya","Maya Software","?","?","Light Linking","Light Editor","No","?","?","?","?","Env Sphere","?","?","(Place Highlight Tool for Maya)","No"
+"Maya","Yes","USD Extension for Maya","Arnold","Yes","Yes","Light Linking","Light Editor","Ai Photometric Light","Yes","?","Yes","Yes","Yes","?","?","(Place Highlight Tool for Maya)","Light Mixer imager"
+"3ds Max","Yes","(USD for Autodesk 3ds Max)","Quicksilver","?","Yes","No[33]","Light Lister","?","?","?","?","?","?","?","?","Place Highlight","No"
+"3ds Max","Yes","(USD for Autodesk 3ds Max)","Scanline","?","?","Light Exclude/Include","Light Lister","?","?","?","?","Yes","?","sIBL-GUI software","?","Place Highlight","No"
+"3ds Max","Yes","(USD for Autodesk 3ds Max)","ART","?","?","?","Light Lister","Yes","?","?","?","?","?","?","?","Place Highlight","No"
+"3ds Max","Yes","(USD for Autodesk 3ds Max)","Arnold","Yes","Yes","Light Group[34]","Light Lister","Ai Photometric Light","Yes","Sun Positioner[35]","Yes","Yes","Yes","?","?","Place Highlight","Light Mixer imager"
+"Blender","2.78 and later","3.0 and later","Workbench","Some","Yes","View Layers[36]","Property Chart Addon / Gaffer addon","No","?","Sun Position addon","No","?","Yes","?","?","Look At Gizmo (with Ctrl key)","No"
+"Blender","2.78 and later","3.0 and later","EEVEE","Some","Yes","View Layers[36]","Property Chart Addon / Gaffer addon","No","Yes","Sun Position addon","No","Shader Node[37]","Yes","?","?","Look At Gizmo (with Ctrl key)","No"
+"Blender","2.78 and later","3.0 and later","Cycles","Yes","Yes","View Layers[36]","Property Chart Addon / Gaffer addon","2.80 and later[38]","Yes","Sun Position addon","from 2.75","from 2.79","Yes","sIBL_GUI for Blender addon/ Add Environment nodes addon","?","Look At Gizmo (with Ctrl key)","No"
+"MODO","Yes","14.1 and later","MODO Renderer / mPath","Yes","Yes","Light Linking[39]","?","Photometric Light","Directional Light[40]","Directional Light[40]","Portal","Shadow Catcher","Yes","mm_sIBLToModoEnvironment script","?","?","No"
+"LightWave","11.6 and later","No","LightWave Renderer","Yes","Yes","?","?","Photometric Light","Yes","Yes","Yes","Yes","Yes","original loader script, where most sIBL features were invented[41]","?","?","No"
+"Houdini","Yes","Solaris","Mantra (PT) / Karma","Yes","Yes","Light categories","Light bank","Yes","?","?","?","Shadow Matte","Yes","?","?","Solaris","?"
+"Cinema 4D","Yes","R23 and later","CineRender","Yes","Yes","Exclude/Include","?","Yes","?","?","?","from R18","Yes","?","?","?","?"

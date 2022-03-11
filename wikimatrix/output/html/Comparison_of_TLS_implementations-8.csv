@@ -1,0 +1,92 @@
+"Implementation","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Stream cipher , URL: /wiki/Stream_cipher
+","Stream cipher , URL: /wiki/Stream_cipher
+"
+"Implementation","IDEA , URL: /wiki/International_Data_Encryption_Algorithm
+CBC , URL: /wiki/Cipher_block_chaining
+","DES , URL: /wiki/Data_Encryption_Standard
+CBC , URL: /wiki/Cipher_block_chaining
+","DES , URL: /wiki/Data_Encryption_Standard
+CBC , URL: /wiki/Cipher_block_chaining
+","RC2 , URL: /wiki/RC2
+CBC , URL: /wiki/Cipher_block_chaining
+","RC4 , URL: /wiki/RC4
+","RC4 , URL: /wiki/RC4
+"
+"Botan , URL: /wiki/Botan_(programming_library)
+","No","No","No","No","No[143]","No"
+"BoringSSL , URL: /wiki/BoringSSL
+","No","No","No","No","Disabled by default at compile time","No"
+"BSAFE , URL: /wiki/BSAFE
+","No","Disabled by default","Disabled by default","No","Disabled by default","Disabled by default"
+"cryptlib , URL: /wiki/Cryptlib
+","No","Disabled by default at compile time","No","No","Disabled by default at compile time","No"
+"GnuTLS , URL: /wiki/GnuTLS
+","No","No","No","No","Disabled by default[38]","No"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","No","Disabled by default","Disabled by default","No","Disabled by default","Disabled by default [144]"
+"LibreSSL , URL: /wiki/LibreSSL
+","Yes","Yes","No[42]","No[42]","Yes","No[42]"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","Yes","No","No","No","Disabled by default","No"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","No","Disabled by default at compile time","No","No","Disabled by default at compile time[47]","No"
+"NSS , URL: /wiki/Network_Security_Services
+","Yes","Disabled by default","Disabled by default","Disabled by default","Lowest priority[145][146]","Disabled by default"
+"OpenSSL , URL: /wiki/OpenSSL
+","Disabled by default[53]","Disabled by default","No[53]","No[53]","Disabled by default","No[53]"
+"SChannel XP/2003 , URL: /wiki/SChannel
+","No","Yes","Yes","Yes","Yes","Yes"
+"SChannel Vista/2008 , URL: /wiki/SChannel
+","No","Disabled by default","Disabled by default","Disabled by default","Yes","Disabled by default"
+"SChannel 7/2008R2 , URL: /wiki/SChannel
+","No","Disabled by default","Disabled by default","Disabled by default","Lowest priority will be disabled soon[147]","Disabled by default"
+"SChannel 8/2012 , URL: /wiki/SChannel
+","No","Disabled by default","Disabled by default","Disabled by default","Only as fallback","Disabled by default"
+"SChannel 8.1/2012R2 , URL: /wiki/SChannel
+","No","Disabled by default","Disabled by default","Disabled by default","Disabled by default[147]","Disabled by default"
+"Schannel 10 , URL: /wiki/SChannel
+","No","Disabled by default","Disabled by default","Disabled by default","Disabled by default[147]","Disabled by default"
+"Secure Transport , URL: /wiki/MacOS
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Secure Transport , URL: /wiki/MacOS
+","Yes","Unknown","Unknown","Unknown","Yes","Unknown"
+"Secure Transport , URL: /wiki/MacOS
+","Yes","Disabled by default","Disabled by default","Disabled by default","Yes","Disabled by default"
+"Secure Transport , URL: /wiki/MacOS
+","Yes","Disabled by default","Disabled by default","Disabled by default","Lowest priority","Disabled by default"
+"Secure Transport , URL: /wiki/MacOS
+","Yes","Disabled by default","Disabled by default","Disabled by default","Disabled by default","Disabled by default"
+"wolfSSL , URL: /wiki/WolfSSL
+","Disabled by default[148]","No","No","No","Disabled by default","No"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","no","Disabled by default","no","no","Disabled by default","no"
+"Implementation","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Block cipher , URL: /wiki/Block_cipher
+mode of operation , URL: /wiki/Block_cipher_mode_of_operation
+","Stream cipher , URL: /wiki/Stream_cipher
+","Stream cipher , URL: /wiki/Stream_cipher
+"
+"Implementation","IDEA , URL: /wiki/International_Data_Encryption_Algorithm
+CBC , URL: /wiki/Cipher_block_chaining
+","DES , URL: /wiki/Data_Encryption_Standard
+CBC , URL: /wiki/Cipher_block_chaining
+","DES , URL: /wiki/Data_Encryption_Standard
+CBC , URL: /wiki/Cipher_block_chaining
+","RC2 , URL: /wiki/RC2
+CBC , URL: /wiki/Cipher_block_chaining
+","RC4 , URL: /wiki/RC4
+","RC4 , URL: /wiki/RC4
+"

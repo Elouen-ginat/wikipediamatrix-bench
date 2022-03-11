@@ -1,0 +1,58 @@
+"","AIX , URL: /wiki/IBM_AIX
+","*BSD , URL: /wiki/Berkeley_Software_Distribution
+","HP-UX , URL: /wiki/HP-UX
+","Linux , URL: /wiki/Linux
+","OS X , URL: /wiki/OS_X
+","Solaris , URL: /wiki/Solaris_(operating_system)
+","Windows , URL: /wiki/Microsoft_Windows
+","Others"
+"Ansible , URL: /wiki/Ansible_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes (Need linux control machine)","Yes[104]"
+"Bcfg2 , URL: /wiki/Bcfg2
+","Partial[105]","Yes[106]","No","Yes[107]","Partial[108]","Yes","No","No"
+"CFEngine , URL: /wiki/CFEngine
+","Yes","Yes[106]","Yes","Yes","Yes","Yes","Yes (Enterprise version only)","Yes[109]"
+"cdist , URL: /wiki/Cdist
+","","Yes","","Yes","Yes","","No",""
+"Chef , URL: /wiki/Chef_(software)
+","Yes[110]","Yes","Yes","Yes","Yes","Yes","Yes[111]","Yes"
+"ISconf , URL: /wiki/ISconf
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"Juju , URL: /wiki/Juju_(software)
+","","","","Yes","","","Yes[112]",""
+"LCFG , URL: /wiki/LCFG
+","No","No","No","Partial[113]","Partial[114]","Partial[115]","No","No"
+"OCS Inventory NG , URL: /wiki/OCS_Inventory_NG
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"Opsi , URL: /wiki/Opsi
+","No","No","No","Yes","No","No","Yes","No"
+"PIKT","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes[116]"
+"Puppet , URL: /wiki/Puppet_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes[117]","Yes"
+"Quattor , URL: /wiki/Quattor
+","No","No","No","Yes","Partial[118]","Yes","No","No"
+"Radmind , URL: /wiki/Radmind
+","Yes","Yes[106][119][120]","No","Yes","Yes","Yes","Yes","No"
+"Rex , URL: /wiki/Rex_(software)
+","","Yes","","Yes","Yes[121]","Yes","Yes[121]","No"
+"Rudder , URL: /wiki/Rudder_(software)
+","Yes","Partial[122]","No","Yes","Partial[122]","Partial[123]","Yes","Yes[124]"
+"SmartFrog , URL: /wiki/SmartFrog
+","No[125]","No[125]","Yes","Yes","Yes","Yes","Yes","No[125]"
+"Salt , URL: /wiki/Salt_(Software)
+","Yes","Yes","Partial[126]","Yes[127]","Yes","Yes[128]","Yes","Partial[126]"
+"Spacewalk , URL: /wiki/Spacewalk_(software)
+","No[129]","No","No","Yes[130]","No","No[131]","No","No"
+"STAF , URL: /wiki/STAF
+","Yes[132]","Yes[133]","Yes[134]","Yes[135]","Yes[136]","Yes[137]","Yes[138]","Yes[139]"
+"Synctool , URL: /wiki/Synctool
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes[140]"
+"Uyuni","No","No","No","Yes","No","No","No","No"
+"","AIX , URL: /wiki/IBM_AIX
+","*BSD , URL: /wiki/Berkeley_Software_Distribution
+","HP-UX , URL: /wiki/HP-UX
+","Linux , URL: /wiki/Linux
+","OS X , URL: /wiki/OS_X
+","Solaris , URL: /wiki/Solaris_(operating_system)
+","Windows , URL: /wiki/Microsoft_Windows
+","Others"

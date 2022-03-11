@@ -1,0 +1,86 @@
+"Format","Languages"
+"string (string'First .. string'First + n - 1)","Ada , URL: /wiki/Ada_(programming_language)
+"
+"substr(string, 0, n)","AWK , URL: /wiki/AWK
+Perl , URL: /wiki/Perl
+PHP , URL: /wiki/PHP
+Raku , URL: /wiki/Raku_(programming_language)
+"
+"LEFT$(string,n)","BASIC , URL: /wiki/BASIC
+VB , URL: /wiki/Visual_Basic_(classic)
+"
+"left(string,n)","VB , URL: /wiki/Visual_Basic_(classic)
+FreeBASIC , URL: /wiki/FreeBASIC
+Ingres , URL: /wiki/Ingres_(database)
+Pick Basic , URL: /wiki/Pick_Basic
+"
+"strncpy(string2, string, n)","C standard library , URL: /wiki/C_(programming_language)
+"
+"string.substr(0,n)","C++ , URL: /wiki/C%2B%2B
+Raku , URL: /wiki/Raku_(programming_language)
+"
+"[string substringToIndex:n]","Objective-C , URL: /wiki/Objective-C
+"
+"(apply str (take n string))","Clojure , URL: /wiki/Clojure
+"
+"string[0 .. n]","D , URL: /wiki/D_(programming_language)
+"
+"string:substr(string, start, length)","Erlang , URL: /wiki/Erlang_(programming_language)
+"
+"(subseq string 0 n)","Common Lisp , URL: /wiki/Common_Lisp
+"
+"string[:n]","Cobra , URL: /wiki/Cobra_(programming_language)
+Go , URL: /wiki/Go_(programming_language)
+Python , URL: /wiki/Python_(programming_language)
+"
+"left(string,n «,padchar»)","Rexx , URL: /wiki/Rexx
+Erlang , URL: /wiki/Erlang_(programming_language)
+"
+"string[0, n] string[0..n - 1]","Ruby , URL: /wiki/Ruby_(programming_language)
+"
+"string[1, n]","Pick Basic , URL: /wiki/Pick_Basic
+"
+"string[ .. n]","Seed7 , URL: /wiki/Seed7
+"
+"string.Substring(0,n)","VB .NET , URL: /wiki/Visual_Basic_.NET
+C# , URL: /wiki/C_Sharp_(programming_language)
+Windows PowerShell , URL: /wiki/Windows_PowerShell
+F# , URL: /wiki/F_Sharp_(programming_language)
+"
+"leftstr(string, n)","Pascal , URL: /wiki/Pascal_(programming_language)
+Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
+"
+"copy (string,1,n)","Turbo Pascal , URL: /wiki/Turbo_Pascal
+"
+"string.substring(0,n)","Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+"
+"(string-take string n)","Scheme , URL: /wiki/Scheme_(programming_language)
+"
+"take n string","Haskell , URL: /wiki/Haskell_(programming_language)
+"
+"String.extract (string, n, NONE)","Standard ML , URL: /wiki/Standard_ML
+"
+"String.sub string 0 n","OCaml , URL: /wiki/OCaml
+"
+"string.[..n]","F# , URL: /wiki/F_Sharp_(programming_language)
+"
+"string.sub(string, 1, n) (string):sub(1, n)","Lua , URL: /wiki/Lua_(programming_language)
+"
+"string first: n","Smalltalk , URL: /wiki/Smalltalk
+Squeak , URL: /wiki/Squeak
+Pharo , URL: /wiki/Pharo
+"
+"string(:n)","Fortran , URL: /wiki/Fortran
+"
+"StringTake[string, n]","Mathematica , URL: /wiki/Mathematica
+"
+"string («FUNCTION» LENGTH(string) - n:n)","COBOL , URL: /wiki/COBOL
+"
+"string.substring(0, n)","Cobra , URL: /wiki/Cobra_(programming_language)
+"
+"n↑string.","APL , URL: /wiki/APL_(programming_language)
+"
+"string[0..n] string[..n] string.get(0..n) string.get(..n)","Rust , URL: /wiki/Rust_(programming_language)
+"

@@ -1,0 +1,140 @@
+"Assembler","Developer","FOSS , URL: /wiki/Free_and_open-source_software
+","License , URL: /wiki/Software_license
+","Instruction set , URL: /wiki/Instruction_set
+","platform , URL: /wiki/Computing_platform
+"
+"Multics , URL: /wiki/Multics
+","","Yes","MIT , URL: /wiki/MIT_License
+","GE-645 , URL: /wiki/GE-645
+Honeywell 6180 , URL: /wiki/Honeywell_6180
+","GE-645 , URL: /wiki/GE-645
+Honeywell 6180 , URL: /wiki/Honeywell_6180
+"
+"Autocoder , URL: /wiki/Autocoder
+","IBM , URL: /wiki/IBM
+","","Free","IBM 705 , URL: /wiki/IBM_705
+",""
+"Autocoder , URL: /wiki/Autocoder
+","IBM , URL: /wiki/IBM
+","","Free","IBM 1410 , URL: /wiki/IBM_1410
+7010 , URL: /wiki/IBM_7010
+","IBM 1410 Processor Operating System (1410-PR-155)"
+"7070/7074 Autocoder","IBM , URL: /wiki/IBM
+","","Free","IBM 7070 , URL: /wiki/IBM_7070
+IBM 7072 , URL: /wiki/IBM_7072
+7074 , URL: /wiki/IBM_7074
+",""
+"7080 Autocoder III","IBM , URL: /wiki/IBM
+","","Free","IBM 7080 , URL: /wiki/IBM_7080
+","IBM 7058 Processor"
+"COMPASS , URL: /wiki/COMPASS
+","Control Data Corporation , URL: /wiki/Control_Data_Corporation
+","","Free","CDC , URL: /wiki/Control_Data_Corporation
+lower 3000 series , URL: /wiki/CDC_3000_series#Lower_3000_series
+","CDC , URL: /wiki/Control_Data_Corporation
+SCOPE , URL: /wiki/CDC_SCOPE
+"
+"COMPASS , URL: /wiki/COMPASS
+","Control Data Corporation , URL: /wiki/Control_Data_Corporation
+","","Free","CDC , URL: /wiki/Control_Data_Corporation
+upper 3000 series , URL: /wiki/CDC_3000_series#Upper_3000_series
+","CDC , URL: /wiki/Control_Data_Corporation
+SCOPE , URL: /wiki/CDC_SCOPE
+"
+"COMPASS , URL: /wiki/COMPASS
+","Control Data Corporation , URL: /wiki/Control_Data_Corporation
+","","Free","CDC , URL: /wiki/Control_Data_Corporation
+6000 series , URL: /wiki/CDC_6000_series
+7600 , URL: /wiki/CDC_7600
+Cyber , URL: /wiki/CDC_Cyber
+","CDC , URL: /wiki/Control_Data_Corporation
+Kronos , URL: /wiki/CDC_Kronos
+NOS , URL: /wiki/NOS_(software)
+SCOPE , URL: /wiki/CDC_SCOPE
+"
+"Fortran Assembly Program , URL: /wiki/FORTRAN_Assembly_Program#FORTRAN_assembly_program
+","","","Free","IBM 709 , URL: /wiki/IBM_709
+704x , URL: /wiki/IBM_7040
+709x , URL: /wiki/IBM_7090
+","Fortran Monitor System , URL: /wiki/History_of_IBM_mainframe_operating_systems#FORTRAN_Monitor_System
+IBSYS , URL: /wiki/IBM_7090/94_IBSYS
+"
+"GCOS Macro Assembly Program (GMAP)","","","Free","GE-600 series , URL: /wiki/GE-600_series
+Honeywell 6000 series , URL: /wiki/Honeywell_6000_series
+","GCOS , URL: /wiki/General_Comprehensive_Operating_System
+"
+"Macro Assembly Program , URL: /wiki/IBM_7090/94_IBSYS
+","","","Free","IBM 709 , URL: /wiki/IBM_709
+704x , URL: /wiki/IBM_7040
+709x , URL: /wiki/IBM_7090
+","IBSYS , URL: /wiki/IBM_7090/94_IBSYS
+"
+"Symbolic Assembly Program , URL: /wiki/Symbolic_Assembly_Program
+","","","Free","IBM 704 , URL: /wiki/IBM_704
+","IBM 704 , URL: /wiki/IBM_704
+"
+"IBM Basic Assembly Language , URL: /wiki/IBM_Basic_assembly_language#Basic_Programming_Support_assembler
+","IBM , URL: /wiki/IBM
+","","Free","IBM System/360 , URL: /wiki/IBM_System/360
+","IBM BPS/360 , URL: /wiki/IBM_Basic_Programming_Support
+"
+"ASSIST , URL: /wiki/ASSIST_(computing)
+","Penn State University , URL: /wiki/Penn_State_University
+","Public Domain , URL: /wiki/Public_Domain
+","Free","IBM System/360 , URL: /wiki/IBM_System/360
+","MVS , URL: /wiki/MVS
+"
+"UNIVAC VS/9 Assembler","Unisys , URL: /wiki/Unisys
+","","Proprietary , URL: /wiki/Proprietary_software
+","Univac 9060 and 9070 (Similar to IBM System/370)","VS/9 , URL: /wiki/VS/9
+"
+"BS2000 Assembler H","Fujitsu , URL: /wiki/Fujitsu
+","","Proprietary , URL: /wiki/Proprietary_software
+","Fujitsu Technology Series SE (Similar to IBM System/370)","BS2000 , URL: /wiki/BS2000
+"
+"z390 Portable Mainframe Assembler , URL: https://sourceforge.net/projects/z390/
+","Don Higgins","GPL , URL: /wiki/GPL
+","Free","Simulated IBM System/370","Simulated MVS"
+"IBM High-Level Assembler , URL: /wiki/IBM_High-Level_Assembler
+","IBM , URL: /wiki/IBM
+","N/A","Proprietary , URL: /wiki/Proprietary_software
+","IBM System/370 , URL: /wiki/IBM_System/370
+z/Architecture , URL: /wiki/Z/Architecture
+","z/OS , URL: /wiki/Z/OS
+z/VSE , URL: /wiki/Z/VSE
+z/VM , URL: /wiki/Z/VM
+"
+"IBM Assembler D","IBM , URL: /wiki/IBM
+","","Free","IBM System/360 , URL: /wiki/IBM_System/360
+","OS/360 , URL: /wiki/DOS/360_and_successors
+"
+"IBM Assembler E","IBM , URL: /wiki/IBM
+","","Free","IBM System/360 , URL: /wiki/IBM_System/360
+","OS/360 , URL: /wiki/OS/360_and_successors
+"
+"IBM Assembler F","IBM , URL: /wiki/IBM
+","","Free","IBM System/360 , URL: /wiki/IBM_System/360
+","OS/360 , URL: /wiki/OS/360_and_successors
+CP-67/CMS , URL: /wiki/CP/CMS
+"
+"Assembler G , URL: /wiki/IBM_Basic_assembly_language_and_successors#Assembler_G
+","University of Waterloo , URL: /wiki/University_of_Waterloo
+","","Free","IBM System/360 , URL: /wiki/IBM_System/360
+","OS/360 , URL: /wiki/OS/360_and_successors
+CP-67/CMS , URL: /wiki/CP/CMS
+"
+"Assembler H , URL: /wiki/IBM_Basic_assembly_language_and_successors#Assembler_H
+","IBM , URL: /wiki/IBM
+","N/A","Proprietary , URL: /wiki/Proprietary_software
+","IBM System/360 , URL: /wiki/IBM_System/360
+System/370 , URL: /wiki/IBM_System/370
+","OS/360 and successors , URL: /wiki/OS/360_and_successors
+"
+"IBM Assembler XF","IBM , URL: /wiki/IBM
+","","Free","IBM System/370 , URL: /wiki/IBM_System/370
+","numerous"
+"PL360 , URL: /wiki/PL360
+","IBM , URL: /wiki/IBM
+","","Free","IBM System/360 , URL: /wiki/IBM_System/360
+","OS/360 , URL: /wiki/OS/360_and_successors
+"

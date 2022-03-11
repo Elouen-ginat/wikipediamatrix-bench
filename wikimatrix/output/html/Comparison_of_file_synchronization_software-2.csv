@@ -1,0 +1,88 @@
+"Name","Operating system","Freeware version","Portable","Encrypts files","Detect conflict","File lock","Open file support","Revision control , URL: /wiki/Revision_control
+","Detect rename","Detect move","Full duplex transfer","Propagate deletes","Case sensitive","Delta copying (block level transfer) , URL: /wiki/Delta_copying
+","LAN Sync"
+"@MAX SyncUp , URL: /wiki/@MAX_SyncUp
+","Windows","Limited","No","","Yes","Yes","Yes","","No","No","","Yes","","Yes","Yes"
+"Allway Sync , URL: /wiki/Allway_Sync
+","Windows","Limited","Yes","Yes","Yes","","Yes","Yes","No","No","Yes","Yes","","","Yes"
+"AIMstor , URL: /wiki/AIMstor
+","Windows","Limited","Yes","","Yes","Yes","Yes","Yes through VSS","Yes","Yes","Yes","Yes","Case preserving only","",""
+"Argentum Backup , URL: /wiki/Argentum_Backup
+","Windows","No","Yes","","","","No","Yes","","","","","Yes","",""
+"BackupAssist , URL: /wiki/BackupAssist
+","Windows","No","","","No","","Yes","","","","","","","",""
+"Backup4all","Windows","Limited","Yes","Yes","No","","Yes","Yes","","","","Yes","","Yes",""
+"Beyond Compare , URL: /wiki/Beyond_Compare
+","Windows, OS X, Linux","Limited","Yes","No","Yes","","Yes","Yes","","","","Yes","","",""
+"Box Sync , URL: /wiki/Box.net
+","Windows,[27] OS X,[27] Android, BlackBerry, iOS[27]","Limited","","","Yes","?","?","Yes","?","?","?","Yes","?","","No"
+"ChronoSync , URL: /w/index.php?title=ChronoSync&action=edit&redlink=1
+","OS X","No","No","Yes","Yes","Yes","APFS , URL: /wiki/APFS
+","Yes","No","No","Yes","Yes","Yes","No","Yes"
+"Cloudike , URL: /wiki/Cloudike
+","Windows, OS X, iPhone, Android","Yes","No","","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","",""
+"CloudMe , URL: /wiki/CloudMe
+","Windows, OS X, Linux, iPhone, Android, Google TV, Samsung TV","Yes","No","","Yes","?","?","No","Yes","No","?","?","Yes","?","No"
+"Distributed Storage , URL: /wiki/Distributed_Storage
+","Windows, Linux","No","","","Yes","Yes","Yes","","","","","","","",""
+"Dmailer Sync , URL: /wiki/Dmailer
+","Windows","Yes","","","","","","","","","","","","",""
+"Dropbox , URL: /wiki/Dropbox_(service)
+","Windows, OS X, Linux, Android, iPhone, BlackBerry","Yes","No","","Yes","?","?","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Easy2Sync for Files , URL: /wiki/Easy2Sync_for_Files
+","Windows","Yes","","","Yes","","","Yes","Yes, for folders","","","","","",""
+"Egnyte , URL: /wiki/Egnyte
+","Windows, OS X, Linux, Android, iPad, iPhone","No","No","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Case preserving only","Yes","Yes"
+"Gladinet , URL: /wiki/Gladinet
+","Windows, OS X, Android, iPad, iPhone, Windows RT, Blackberry","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"GoDrive , URL: /wiki/Linoma_Software#GoDrive_by_GoAnywhere
+","Windows, Mac OS X, Linux, Android, iOS","Limited","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes","?","Yes"
+"GoodSync , URL: /wiki/GoodSync
+","Windows, OS X, Android, iPad, iPhone, USB flash drive","Yes","Yes","Yes, beta","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"IBM Connections , URL: /wiki/IBM_Connections
+","Windows, OS X, Android, iOS","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"MediaFire , URL: /wiki/MediaFire
+","Windows, OS X, Android, iOS","Yes","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"Name","Operating system","Freeware version","Portable","Encrypts files","Detect conflict","File lock","Open file support","Revision control , URL: /wiki/Revision_control
+","Detect rename","Detect move","Full duplex transfer","Propagate deletes","Case sensitive","Delta copying (block level transfer) , URL: /wiki/Delta_copying
+","LAN Sync"
+"Mega , URL: /wiki/Mega_(service)
+","Windows, OS X, Linux, Android, iPhone, BlackBerry","Yes","","Yes","Yes","","","Yes","Yes","Yes","Yes","Yes","Yes","No[28]","No[29]"
+"RepliWeb , URL: /wiki/RepliWeb
+","Windows, Linux","No","","","Partial","","","Yes","Yes","Yes","Yes","Yes","Yes","",""
+"Resilio Sync (ex. BitTorrent Sync) , URL: /wiki/Resilio_Sync
+","Windows, OS X, Linux, Android, iOS, Windows Phone, Amazon Kindle Fire, FreeBSD","Limited","No","Yes, optional","No","No","No","Yes","Yes","Yes","Yes","Yes","","Yes","Yes"
+"Robocopy , URL: /wiki/Robocopy
+","Windows","Yes","No","","No","","","","","","","","","",""
+"SecureSafe , URL: /wiki/SecureSafe
+","Windows, OS X, Android, iOS","Yes","","","Yes","No","","No","No","No","No","Yes","Yes","No","No"
+"SpiderOak , URL: /wiki/SpiderOak
+","Slackware , URL: /wiki/Slackware
+","No","","","No","","","Yes[30]","No","","No","","","Yes[31]","Yes"
+"ShareFile , URL: /wiki/ShareFile
+","Windows, OS X, Android, iPhone","Yes","","Yes","","","","Yes[32]","Yes","","Yes","","Yes","","Yes"
+"SugarSync , URL: /wiki/Sharpcast
+","Windows, OS X, Android, BlackBerry, iPhone, Windows Mobile","No","No","","Yes","","","Yes[33]","Yes","Yes","","Yes","","",""
+"Syncdocs , URL: /wiki/Syncdocs
+","web app , URL: /wiki/Web_app
+","Beta versions only","Yes","","Yes","No","Yes","Yes","Yes","Yes","Microsoft Word , URL: /wiki/Microsoft_Word
+","Yes","","",""
+"Synchronize It , URL: /wiki/Synchronize_It
+","Windows","No","","","No","","","","","","","","","",""
+"Syncplicity , URL: /wiki/Syncplicity
+","Windows, OS X, Android, iPhone, Windows Mobile","Yes","","","Yes","","","Yes","","","Yes","Yes","","No[35]","No"
+"Tonido , URL: /wiki/Tonido
+","Windows, OS X, Linux, Android, BlackBerry, iPhone, Windows Phone","Yes","Yes","","Yes","No","Yes","No","Yes","Yes","Yes","Yes","","",""
+"Tresorit , URL: /wiki/Tresorit
+","Windows, OS X, Linux, Android, BlackBerry, iOS, Windows Phone","Limited","Yes","Yes","Yes","","Yes, for Windows","Yes","","","","Yes","Yes","No",""
+"Ubuntu One , URL: /wiki/Ubuntu_One
+","Windows, OS X, Ubuntu, iOS, Android[36]","Yes","","","","","","","","","","","","",""
+"Wuala , URL: /wiki/Wuala
+","Windows, OS X, Debian, Ubuntu, Android, iOS","Yes","","Yes","","","","","","","","","","",""
+"ZumoDrive , URL: /wiki/ZumoDrive
+","Windows, OS X, Linux, Android, iPhone, Palm webOS","Yes","","","Yes","","","Yes","","","","","","",""
+"Zetta.net , URL: /wiki/Zetta.net
+","Windows, OS X, Linux","No","","","Yes","","Yes","Yes","Yes","Yes","","Yes","Yes, Preserve file name case & file metadata","Yes","Yes"
+"Name","Operating system","Freeware version","Portable","Encrypts files","Detect conflict","File lock","Open file support","Revision control , URL: /wiki/Revision_control
+","Detect rename","Detect move","Full duplex transfer","Propagate deletes","Case sensitive","Delta copying (block level transfer) , URL: /wiki/Delta_copying
+","LAN Sync"

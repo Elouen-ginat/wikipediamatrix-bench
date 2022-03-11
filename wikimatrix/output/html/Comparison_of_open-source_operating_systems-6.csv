@@ -1,0 +1,74 @@
+"Name","RAID , URL: /wiki/RAID
+","quota , URL: /wiki/Disk_quota
+","Resource access control","encryption , URL: /wiki/Encryption
+","file system , URL: /wiki/File_system
+"
+"Linux , URL: /wiki/Linux
+","Yes","Yes","Unix , URL: /wiki/Filesystem_permissions
+ACL , URL: /wiki/Access_control_list
+MAC , URL: /wiki/Mandatory_access_control
+","Yes","LVM , URL: /wiki/Logical_Volume_Manager_(Linux)
+EVMS , URL: /wiki/Enterprise_Volume_Management_System
+"
+"FreeBSD , URL: /wiki/FreeBSD
+","Yes","Yes","Unix, ACL, MAC","Yes","GEOM , URL: /wiki/GEOM
+fsck , URL: /wiki/Fsck
+"
+"OpenBSD , URL: /wiki/OpenBSD
+","Yes","Yes","Unix","Yes",""
+"NetBSD , URL: /wiki/NetBSD
+","Yes","Yes","Veriexec , URL: /wiki/Veriexec
+","Yes","Snapshots, Journaling"
+"DragonFly BSD , URL: /wiki/DragonFly_BSD
+","Yes","Yes","Unix","Yes","HAMMER , URL: /wiki/HAMMER_(file_system)
+"
+"OpenSolaris , URL: /wiki/OpenSolaris
+illumos , URL: /wiki/Illumos
+","Yes","Yes","Unix, ACL, MAC","Yes","Solaris Volume Manager , URL: /wiki/Solaris_Volume_Manager
+ZFS , URL: /wiki/ZFS
+snapshots , URL: /wiki/Snapshot_(computer_storage)
+"
+"Darwin , URL: /wiki/Darwin_(operating_system)
+OpenDarwin , URL: /wiki/OpenDarwin
+","","Yes","Unix, ACL","Yes",""
+"MINIX , URL: /wiki/MINIX
+","","","Unix","",""
+"FreeDOS , URL: /wiki/FreeDOS
+","","","No","",""
+"Genode , URL: /wiki/Genode
+","No","No","No","No","Per-process virtual file-system layer"
+"KolibriOS , URL: /wiki/KolibriOS
+","","","No","",""
+"MenuetOS , URL: /wiki/MenuetOS
+","","","No","",""
+"GNU , URL: /wiki/GNU
+","","","Unix","",""
+"ReactOS , URL: /wiki/ReactOS
+","","","No","",""
+"L4 , URL: /wiki/L4_microkernel_family
+Fiasco , URL: /wiki/L4_microkernel_family#L4/Fiasco
+Pistachio , URL: /wiki/L4_microkernel_family#L4Ka::Pistachio
+","","","","",""
+"Plan 9 , URL: /wiki/Plan_9_from_Bell_Labs
+","No","No","Unix-like , URL: /wiki/Filesystem_permissions
+","No","venti , URL: /wiki/Venti
+"
+"AROS , URL: /wiki/Amiga_Research_Operating_System
+","","","","",""
+"Syllable , URL: /wiki/Syllable_Desktop
+","","","Unix","","64-bit , URL: /wiki/64-bit
+journaling , URL: /wiki/Journaling_file_system
+extended file attributes , URL: /wiki/Metadata_(computing)
+"
+"Inferno , URL: /wiki/Inferno_(operating_system)
+","No","No","Unix-like, no root","No","per-process namespace, user-mountable file systems"
+"FreeRTOS , URL: /wiki/FreeRTOS
+","","","","",""
+"eCos , URL: /wiki/ECos
+","","","","",""
+"RTEMS , URL: /wiki/RTEMS
+","","","","",""
+"HelenOS , URL: /wiki/HelenOS
+","No","No","No","No","No"
+"E/OS","Yes","Yes","Unix","Yes","No"
+"Name","RAID","quota","Resource access control","encryption","other special file system features"

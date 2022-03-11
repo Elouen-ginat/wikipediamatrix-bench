@@ -1,0 +1,152 @@
+"Client","feed URI scheme , URL: /wiki/Feed_URI_scheme
+","RSS 0.91 , URL: /wiki/RSS_(file_format)
+","RSS 1.0 , URL: /wiki/RSS_(file_format)
+","RSS 2.0 , URL: /wiki/RSS_(file_format)
+","RSS enclosure , URL: /wiki/RSS_enclosure
+","MRSS , URL: /wiki/Media_RSS
+","Atom , URL: /wiki/Atom_(standard)
+","other format","Delta updates","IPv6 , URL: /wiki/IPv6
+","Auto updates","HTTP Basic Auth , URL: /wiki/Basic_access_authentication
+"
+"Akregator , URL: /wiki/Akregator
+","?","Yes","Yes","Yes","Yes","Yes","Yes","?","No","Yes","Yes","Yes"
+"Amarok , URL: /wiki/Amarok_(software)
+","?","?","Yes","Yes","Yes","?","Yes","?","No","?","Yes","?"
+"AOL Explorer , URL: /wiki/AOL_Explorer
+","?","?","?","?","?","?","Yes","?","?","Yes","?","?"
+"Avant , URL: /wiki/Avant_Browser
+","?","?","?","?","?","?","Yes","?","?","Yes","?","?"
+"Awasu , URL: /wiki/Awasu
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","any XML format (via XSL)","?","Yes","Yes","?"
+"BlogBridge , URL: /wiki/BlogBridge
+","?","?","?","?","?","?","?","?","?","?","?","?"
+"Canto , URL: /wiki/Canto_(news_aggregator)
+","?","Yes","Yes","Yes","Yes","?","Yes","?","?","?","Yes","?"
+"Claws Mail , URL: /wiki/Claws_Mail
+","?","No","Yes","Yes","?","?","Yes","?","No","Yes","Yes","?"
+"CommaFeed , URL: /wiki/CommaFeed
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","RSS 0.90, RSS 0.92, RSS 0.93, RSS 0.94, Atom 0.3, Atom 1.0[40]","No","Yes","Yes","No"
+"Cooliris , URL: /wiki/Cooliris_(plugin)
+","?","?","?","?","Yes","Yes","?","?","No","?","?","?"
+"Feed Viewer , URL: /wiki/Feed_Viewer
+","?","Yes","Yes","Yes","Yes","Yes","Yes","CDF , URL: /wiki/Channel_Definition_Format
+RDF , URL: /wiki/Resource_Description_Framework
+","No","Yes","Yes","?"
+"FeedDemon , URL: /wiki/FeedDemon
+","Yes","?","?","?","?","?","?","?","Yes","?","?","?"
+"Feedreader , URL: /wiki/Feedreader_(Windows_Application)
+","Yes","Yes","Yes","Yes","Yes","?","?","?","?","?","Yes","?"
+"Flock , URL: /wiki/Flock_(web_browser)
+","Yes","?","?","?","?","Yes","Yes","?","?","Yes","Yes","?"
+"Gnus , URL: /wiki/Gnus
+","?","Yes","Yes","Yes","?","?","No","Newsgroups , URL: /wiki/Newsgroups
+","?","Yes","No","?"
+"IBM Lotus Notes , URL: /wiki/IBM_Lotus_Notes
+","?","Yes","Yes","Yes","?","?","Yes","?","?","Yes","?","?"
+"Internet Explorer , URL: /wiki/Internet_Explorer
+","No","Yes","Yes","Yes","Yes","?","Yes","Web Slice , URL: /wiki/Web_Slice
+","Yes","Yes","Yes","?"
+"iTunes , URL: /wiki/ITunes
+","?","?","?","Yes","Yes","?","Yes","?","No","?","Yes","?"
+"Juice , URL: /wiki/Juice_(aggregator)
+","?","?","?","?","Yes","?","?","?","No","?","?","?"
+"K-Meleon , URL: /wiki/K-Meleon
+","?","?","?","?","?","?","Yes","?","?","Yes","?","?"
+"Kazehakase , URL: /wiki/Kazehakase
+","?","?","?","?","?","?","?","LIRS , URL: /w/index.php?title=LIRS_(standard)&action=edit&redlink=1
+HINA-DI , URL: /wiki/HINA-DI
+","?","Yes","?","?"
+"Liferea , URL: /wiki/Liferea
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes[41]","Yes","?"
+"Mail (OS X) , URL: /wiki/Mail_(OS_X)
+","?","?","?","Yes","?","?","Yes","?","No","Yes","Yes","?"
+"Maxthon , URL: /wiki/Maxthon
+","?","?","?","?","?","?","Yes","?","Yes","Yes","?","?"
+"MediaMonkey , URL: /wiki/MediaMonkey
+","?","?","?","?","Yes","?","?","?","?","?","?","?"
+"Microsoft Office Outlook , URL: /wiki/Microsoft_Office_Outlook
+","?","Yes","Yes","Yes","?","?","Yes","?","Yes","Yes","Yes","?"
+"Miro , URL: /wiki/Miro_(software)
+","?","?","?","?","Yes","Yes","?","?","?","?","?","?"
+"Mozilla Firefox , URL: /wiki/Mozilla_Firefox
+","?","Add-on","Add-on","Add-on","?","Add-on","Add-on","?","No","Add-on","Add-on","?"
+"Mozilla Thunderbird , URL: /wiki/Mozilla_Thunderbird
+","?","Yes","Yes","Yes","?","?","Yes","Newsgroup , URL: /wiki/Newsgroup
+","No","Yes","Yes","Yes"
+"NetNewsWire , URL: /wiki/NetNewsWire
+","Yes","?","?","?","?","?","?","?","No","?","?","No[42]"
+"Netscape Browser , URL: /wiki/Netscape_Browser
+","?","?","?","?","?","?","Yes","?","No","Yes","Yes","?"
+"Netscape Navigator 9 , URL: /wiki/Netscape_Navigator_9
+","?","?","?","?","?","?","Yes","?","No","Yes","Yes","?"
+"NewsBlur , URL: /wiki/NewsBlur
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","RSS 0.90, RSS 0.92, RSS 0.93, RSS 0.94, Atom 0.3, Atom 1.0","Yes","Yes","Yes","?"
+"NewsFire , URL: /wiki/NewsFire
+","?","?","?","?","?","?","?","?","?","?","?","?"
+"OmniWeb , URL: /wiki/OmniWeb
+","?","?","?","?","?","?","Yes","?","?","Yes","?","?"
+"Opera Mail , URL: /wiki/Opera_Mail
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","RDF , URL: /wiki/RDF_feed
+Newsgroup , URL: /wiki/Newsgroup
+","?","Yes","Yes","?"
+"Pegasus Mail , URL: /wiki/Pegasus_Mail
+","?","Yes","Yes","Yes","?","?","?","?","?","?","?","?"
+"Protopage , URL: /wiki/Protopage
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","RSS 0.90, RSS 0.92, RSS 0.93, RSS 0.94, Atom 0.3, Atom 1.0","?","Yes","Yes","?"
+"Pulse , URL: /wiki/Pulse_(software)
+","?","?","?","?","?","?","?","?","?","?","?","?"
+"Quiterss , URL: /wiki/QuiteRSS
+","?","?","Yes","Yes","?","?","Yes","?","?","?","Yes","?"
+"Rhythmbox , URL: /wiki/Rhythmbox
+","?","?","?","?","Yes","?","?","?","No","?","Yes","?"
+"RSS Bandit , URL: /wiki/RSS_Bandit
+","?","?","?","?","?","?","?","?","No","?","?","?"
+"RSS Guard , URL: /wiki/RSS_Guard
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Gmail , URL: /wiki/Gmail
+JSON feeds , URL: /wiki/JSON_Feed
+Inoreader , URL: /wiki/Inoreader
+Tiny Tiny RSS , URL: /wiki/Tiny_Tiny_RSS
+Google Reader , URL: /wiki/Google_Reader
+","Google Reader , URL: /wiki/Google_Reader
+","Yes","Yes","Yes"
+"RSSOwl , URL: /wiki/RSSOwl
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Newsgroup , URL: /wiki/Newsgroup
+","No","Yes","Yes","?"
+"Safari , URL: /wiki/Safari_(web_browser)
+","Yes","?","Yes","Yes","?","?","Yes","?","No","Yes","Yes","?"
+"Sage , URL: /wiki/Sage_(Mozilla_Firefox_extension)
+","?","Yes","Yes","Yes","No","No","Yes","?","?","Yes","Yes","?"
+"SeaMonkey , URL: /wiki/SeaMonkey
+","?","Yes","Yes","Yes","?","?","Yes","Newsgroup , URL: /wiki/Newsgroup
+","?","Yes","Yes","?"
+"Songbird , URL: /wiki/Songbird_(software)
+","?","Yes","Yes","Yes","Yes","Yes","Yes","?","No","Yes","Yes","?"
+"Shiira , URL: /wiki/Shiira
+","?","?","?","?","?","?","Yes","?","?","Yes","?","?"
+"Sleipnir , URL: /wiki/Sleipnir_(web_browser)
+","?","?","?","?","?","?","Yes","?","No","Yes","?","?"
+"The Bat! , URL: /wiki/The_Bat!
+","?","Yes","Yes","Yes","?","?","Yes","?","?","Yes","?","?"
+"The Old Reader , URL: /wiki/The_Old_Reader
+","Yes","?","?","Yes","Yes","?","Yes","PubSubHubbub , URL: /wiki/PubSubHubbub
+","No","Yes","Yes","?"
+"Tiny Tiny RSS , URL: /wiki/Tiny_Tiny_RSS
+","?","?","?","Yes","?","?","Yes","?","No","?","Yes","?"
+"Winamp , URL: /wiki/Winamp
+","?","?","?","?","Yes","?","?","?","?","Yes","Notification only","?"
+"Windows Live Mail , URL: /wiki/Windows_Live_Mail
+","?","Yes","Yes","Yes","?","?","Yes","?","Yes","Yes","Yes","?"
+"Zimbra , URL: /wiki/Zimbra
+","?","Yes","Yes","Yes","?","?","Yes","?","?","?","?","?"
+"Zune , URL: /wiki/Zune#Zune_software
+","?","?","?","?","Yes","?","?","?","?","?","?","?"
+"Client","feed URI scheme , URL: /wiki/Feed_URI_scheme
+","RSS 0.91 , URL: /wiki/RSS_(file_format)
+","RSS 1.0 , URL: /wiki/RSS_(file_format)
+","RSS 2.0 , URL: /wiki/RSS_(file_format)
+","RSS enclosure , URL: /wiki/RSS_enclosure
+","MRSS , URL: /wiki/Media_RSS
+","Atom , URL: /wiki/Atom_(standard)
+","other standard","Delta updates","IPv6 , URL: /wiki/IPv6
+","Auto updates","HTTP Basic Auth , URL: /wiki/Basic_access_authentication
+"

@@ -1,24 +1,125 @@
-"null","null","null","null","null","null","null","null","null"
-"Zilog Z80 @ 6 MHz","25 KB of RAM, 512 KB of Flash ROM","96×64 pixels 16×8 characters","7.3 × 3.5 × 1.0[4]","No","1998/2003","95 (TI-73)","Allowed","Allowed"
-"980 kHz Proprietary","8 KB of RAM (7 KB user accessible)","64×48 pixels 16×8 characters","6.4 × 3.0 × 0.9[5]","No","1995","Unknown","Allowed","Allowed"
-"Zilog Z80 @ 2 MHz","8 KB of RAM (2.4 KB user accessible)","96×64 pixels 16×8 characters","6.75 x 3.125 x 1.0","No","1990","110","Allowed","Allowed"
-"Zilog Z80 @ 6 MHz","28 KB of RAM","96×64 pixels 16×8 characters","6.9 × 3.4 × 1.0[6]","No","1993","125","Allowed","Allowed"
-"Zilog Z80 @ 6 MHz","32 KB of RAM","96×64 pixels 16×8 characters","7.3 × 3.5 × 1.0[7]","No","1996","125","Allowed","Allowed"
-"Zilog Z80 @ 6 MHz","32 KB of RAM (24 KB user accessible), 512 KB of Flash ROM (160 KB user accessible)","96×64 pixels 16×8 characters","7.3 × 3.5 × 1.0[8]","No","1999","104.99","Allowed","Allowed"
-"Zilog Z80 @ 6 MHz/15 MHz (Dual Speed)","128 KB of RAM (24 KB user accessible), 2 MB of Flash ROM (1.5 MB user accessible)","96×64 pixels 16×8 characters","7.3 × 3.5 × 1.0[9]","No","2001","129.95","Allowed","Allowed"
-"Zilog eZ80 @ 48 MHz","256 KB of RAM (150 KB user accessible), 4 MB of Flash ROM (3 MB user accessible)","320×240 pixels 26×10 characters (large font)","7.6 × 3.4 × 0.75","No","2015/2019","€129","Allowed","Allowed"
-"Zilog Z80 @ 15 MHz","128/48 KB of RAM (24 KB user accessible), 1 MB of Flash ROM (480 KB user accessible)","96×64 pixels 16×8 characters","7.5 × 3.3 × 0.9","No","2004","109.99","Allowed","Allowed"
-"Zilog Z80 @ 15 MHz","128/48 KB of RAM (24 KB user accessible), 2 MB of Flash ROM (1.5 MB user accessible)","96×64 pixels 16×8 characters","7.5 × 3.3 × 0.9","No","2004","129.99","Allowed","Allowed"
-"Zilog Z80 @ 15 MHz","128 KB of RAM (21 KB user accessible), 4 MB of Flash ROM (3.5 MB user accessible)","320×240 pixels 26×10 characters (large font)","7.5 × 3.3 × 0.9","No","2013","150","Allowed","Allowed"
-"Zilog eZ80 @ 48 MHz","256 KB of RAM (154 KB user accessible), 4 MB of Flash ROM (3 MB user accessible)","320×240 pixels 26×10 characters (large font)","7.6 × 3.4 × 0.75","No","2015","150","Allowed","Allowed"
-"Zilog Z80 @ 6 MHz","28 KB of RAM","128×64 pixels 21×8 characters","6.875 x 3.31 x 0.938","No","1992","130","Allowed","Allowed"
-"Zilog Z80 @ 6 MHz","128 KiB of RAM","128×64 pixels 21×8 characters","7.3 × 3.5 × 1.0[10]","No","1997","150","Allowed","Allowed"
-"Motorola 68000 @ 10 MHz/12 MHz (nominal)","256 KiB of RAM (188 KB user accessible), 2 MiB of Flash ROM","160×100 pixels","7.3 × 3.5 × 1.0[11]","Yes","1998","159.99","Allowed","Not Allowed"
-"Motorola 68000 @ ≤16 MHz","256 KiB of RAM (188 KB user accessible), 2.7 MB of Flash ROM","160×100 pixels","7.5 × 3.3 × 0.9","Yes","2004","149.99","Allowed","Not Allowed"
-"Motorola 68000 @ 10 MHz","68 KB of RAM/136 KB of RAM","240×128 pixels","4.7 x 8.2 x 1.5","Yes","1995/1996","200 (TI-92)","Not Allowed","Not Allowed"
-"Motorola 68000 @ 12 MHz","256 KB of RAM (188 KB user accessible), 384 KB of Flash ROM","240×128 pixels","4.7 × 8.2 × 1.5[12]","Yes","1998","179.99","Not Allowed","Not Allowed"
-"Motorola 68000 @ 12 MHz","256 KB of RAM (188 KB user accessible), 2.7 MB of Flash ROM","240×128 pixels","4.6 × 7.3 × 1.2[13]","Yes","2002","129.99","Not Allowed","Not Allowed"
-"ARM9 @ 90 MHz/120 MHz","16 MB RAM, 20 MB of Flash ROM","320×240 pixels (16-shade grayscale)","7.90625 × 3.9375 × 0.96875","Only CAS model","2007 (CAS: 2010)","149 (CAS: 159)","Allowed","Only non-CAS model is allowed"
-"ARM9 @ 132 MHz[14]","64 MB of RAM, 100 MB of Flash ROM","320×240 pixels (16-bit color)","7.5625 × 3.59375 × 0.75","Only CAS model","2011","154.99 (CAS: 162.99)","Allowed","Only non-CAS model is allowed"
-"ARM9 @ 396 MHz","64 MB of RAM, 100 MB of Flash ROM","320×240 pixels (16-bit color)","7.5625 × 3.59375 × 0.75","Only CAS model","2019","165 (CAS: 175)","Allowed","Only non-CAS model is allowed"
-"null","null","null","null","null","null","null","null","null"
+"Calculator","TI-BASIC , URL: /wiki/TI-BASIC
+","Native code , URL: /wiki/Machine_code
+","Lua , URL: /wiki/Lua_(programming_language)
+","Python , URL: /wiki/Python_(programming_language)
+"
+"
+URL: /wiki/File:Ti_73_Graphing_Calculator.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ti_73_Graphing_Calculator.jpg/50px-Ti_73_Graphing_Calculator.jpg
+TI-73, TI-73 Explorer , URL: /wiki/TI-73
+","Yes","Yes","No","No"
+"
+URL: /wiki/File:TI-80.png
+//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TI-80.png/50px-TI-80.png
+TI-80 , URL: /wiki/TI-80
+","Yes","Only using exploits","No","No"
+"
+URL: /wiki/File:TI-81.png
+//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TI-81.png/50px-TI-81.png
+TI-81 , URL: /wiki/TI-81
+","Yes","Only using exploits","No","No"
+"
+URL: /wiki/File:TI-82.png
+//upload.wikimedia.org/wikipedia/commons/thumb/3/34/TI-82.png/65px-TI-82.png
+TI-82 , URL: /wiki/TI-82
+","Yes","Only using exploits","No","No"
+"
+URL: /wiki/File:TI-83.png
+//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TI-83.png/50px-TI-83.png
+TI-83 , URL: /wiki/TI-83
+","Yes","Yes","No","No"
+"
+URL: /wiki/File:Ti83plus.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ti83plus.jpg/50px-Ti83plus.jpg
+TI-83 Plus , URL: /wiki/TI-83_Plus
+","Yes","Yes","No","No"
+"
+URL: /wiki/File:Ti83-plus-silver.png
+//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ti83-plus-silver.png/50px-Ti83-plus-silver.png
+TI-83 Plus Silver Edition , URL: /wiki/TI-83_Plus_Silver_Edition
+","Yes","Yes","No","No"
+"
+URL: /wiki/File:TI-83_Premium_CE.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/3/38/TI-83_Premium_CE.jpg/45px-TI-83_Premium_CE.jpg
+TI-83 Premium CE , URL: /wiki/TI-83_Premium_CE
+","Yes","Varies by firmware","No","Only with a TI-Python adapter[15]"
+"
+URL: /wiki/File:TI-83_Premium_CE_Edition_Python.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TI-83_Premium_CE_Edition_Python.jpg/45px-TI-83_Premium_CE_Edition_Python.jpg
+TI-83 Premium CE Edition Python , URL: /wiki/TI-83_Premium_CE
+","Yes","Varies by firmware","No","Yes"
+"
+URL: /wiki/File:TI-84_Plus_plain.jpg
+//upload.wikimedia.org/wikipedia/en/thumb/a/a7/TI-84_Plus_plain.jpg/50px-TI-84_Plus_plain.jpg
+TI-84 Plus , URL: /wiki/TI-84_Plus
+","Yes","Yes","No","No"
+"
+URL: /wiki/File:TI-84_Plus_Silver_Edition.JPG
+//upload.wikimedia.org/wikipedia/commons/thumb/6/62/TI-84_Plus_Silver_Edition.JPG/50px-TI-84_Plus_Silver_Edition.JPG
+TI-84 Plus Silver Edition , URL: /wiki/TI-84_Plus_Silver_Edition
+","Yes","Yes","No","No"
+"
+URL: /wiki/File:The_proposed_Ti-84%2B_C_Edition_SE.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/4/44/The_proposed_Ti-84%2B_C_Edition_SE.jpg/50px-The_proposed_Ti-84%2B_C_Edition_SE.jpg
+TI-84 Plus C Silver Edition , URL: /wiki/TI-84_Plus_C_Silver_Edition
+","Yes","Yes","No","No"
+"
+URL: /wiki/File:TI-84_Plus_CE_(red).jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/TI-84_Plus_CE_%28red%29.jpg/50px-TI-84_Plus_CE_%28red%29.jpg
+TI-84 Plus CE , URL: /wiki/TI-84_Plus_CE
+","Yes","Varies by firmware","No","No"
+"TI-84 Plus CE(-T) Python Edition , URL: /w/index.php?title=TI-84_Plus_CE(-T)_Python_Edition&action=edit&redlink=1
+","Yes","Varies by firmware","No","Yes"
+"
+URL: /wiki/File:TI85_graphing_calculator.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/6/66/TI85_graphing_calculator.jpg/50px-TI85_graphing_calculator.jpg
+TI-85 , URL: /wiki/TI-85
+","Yes","Only using exploits","No","No"
+"
+URL: /wiki/File:TI-86.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/5/54/TI-86.jpg/50px-TI-86.jpg
+TI-86 , URL: /wiki/TI-86
+","Yes","Yes","No","No"
+"
+URL: /wiki/File:TI-89.png
+//upload.wikimedia.org/wikipedia/commons/thumb/2/22/TI-89.png/50px-TI-89.png
+TI-89 , URL: /wiki/TI-89
+","Yes","Yes","No","No"
+"
+URL: /wiki/File:TI-89Titanium.png
+//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TI-89Titanium.png/50px-TI-89Titanium.png
+TI-89 Titanium , URL: /wiki/TI-89_Titanium
+","Yes","Yes","No","No"
+"
+URL: /wiki/File:TI-92.png
+//upload.wikimedia.org/wikipedia/commons/thumb/4/48/TI-92.png/80px-TI-92.png
+
+URL: /wiki/File:TI-92-II_1.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TI-92-II_1.jpg/80px-TI-92-II_1.jpg
+TI-92, TI-92 II , URL: /wiki/TI-92_series
+","Yes","Only using exploits","No","No"
+"
+URL: /wiki/File:Ti-92plus.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ti-92plus.jpg/80px-Ti-92plus.jpg
+TI-92 Plus , URL: /wiki/TI-92_series#TI-92_Plus
+","Yes","Yes","No","No"
+"
+URL: /wiki/File:Voyage200.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Voyage200.jpg/80px-Voyage200.jpg
+Voyage 200 , URL: /wiki/TI-92_series#Voyage_200
+","Yes","Yes","No","No"
+"
+URL: /wiki/File:TI-Nspire_CAS_Touchpad.JPG
+//upload.wikimedia.org/wikipedia/commons/thumb/d/de/TI-Nspire_CAS_Touchpad.JPG/50px-TI-Nspire_CAS_Touchpad.JPG
+TI-Nspire, TI-Nspire CAS , URL: /wiki/TI-Nspire_series
+","Yes","Only using exploits","Yes","No"
+"
+URL: /wiki/File:TI-nspire_CX_CAS.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TI-nspire_CX_CAS.jpg/50px-TI-nspire_CX_CAS.jpg
+TI-Nspire CX, TI-Nspire CX CAS , URL: /wiki/TI-Nspire#TI-Nspire_CX_and_TI-Nspire_CX_CAS
+","Yes","Only using exploits","Yes","No"
+"
+URL: /wiki/File:TiNspireCXiiCAS.jpg
+//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TiNspireCXiiCAS.jpg/50px-TiNspireCXiiCAS.jpg
+TI-Nspire CX II, TI- Nspire CX CAS II , URL: /wiki/TI-Nspire_series#TI-Nspire_CX_II_and_TI-Nspire_CX_II_CAS
+","Yes","Only using exploits","Yes","Yes[16]"

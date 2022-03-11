@@ -1,0 +1,71 @@
+"Assembler","Developer","FOSS , URL: /wiki/Free_and_open-source_software
+","License , URL: /wiki/Software_license
+","Instruction set , URL: /wiki/Instruction_set
+","platform , URL: /wiki/Computing_platform
+"
+"Atari Assembler Editor , URL: /wiki/Atari_Assembler_Editor
+","Shepardson Microsystems , URL: /wiki/Shepardson_Microsystems
+","No","Proprietary , URL: /wiki/Proprietary_software
+","MOS Technology 6502 , URL: /wiki/MOS_Technology_6502
+","Atari 8-bit family , URL: /wiki/Atari_8-bit_family
+"
+"Atari Macro Assembler , URL: /wiki/Atari_Macro_Assembler
+","Shepardson Microsystems , URL: /wiki/Shepardson_Microsystems
+","No","Proprietary , URL: /wiki/Proprietary_software
+","MOS Technology 6502 , URL: /wiki/MOS_Technology_6502
+","Atari 8-bit family , URL: /wiki/Atari_8-bit_family
+"
+"EDASM","Apple Computer , URL: /wiki/Apple_Inc.
+","No","","MOS Technology 6502 , URL: /wiki/MOS_Technology_6502
+","Apple DOS 3.x , URL: /wiki/Apple_DOS
+"
+"k2asm , URL: http://k2devel.sourceforge.net/download.html
+","Andre Kaesmacher, Hauke Brandes, Börje Sieling","Yes","Artistic License , URL: /wiki/Artistic_License
+","MOS Technology 6502 , URL: /wiki/MOS_Technology_6502
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+"
+"Lisa , URL: /wiki/Lazer%27s_Interactive_Symbolic_Assembler
+","Randall Hyde , URL: /wiki/Randall_Hyde
+","No","Proprietary , URL: /wiki/Proprietary_software
+","MOS Technology 6502 , URL: /wiki/MOS_Technology_6502
+","Apple II series , URL: /wiki/Apple_II_series
+"
+"MAC/65 , URL: /wiki/MAC/65
+","Optimized Systems Software , URL: /wiki/Optimized_Systems_Software
+","No","Proprietary , URL: /wiki/Proprietary_software
+","MOS Technology 6502 , URL: /wiki/MOS_Technology_6502
+WDC 65C02 , URL: /wiki/WDC_65C02
+","Atari 8-bit family , URL: /wiki/Atari_8-bit_family
+"
+"Merlin , URL: /wiki/Merlin_(assembler)
+","Glen Bredon , URL: /wiki/Glen_Bredon
+","Yes","Public-domain , URL: /wiki/Public-domain_software
+","MOS Technology 6502 , URL: /wiki/MOS_Technology_6502
+WDC 65C02 , URL: /wiki/WDC_65C02
+","Apple II series , URL: /wiki/Apple_II_series
+"
+"ORCA/M , URL: https://juiced.gs/store/opus-ii-software/
+","The Byte Works , URL: /wiki/The_Byte_Works
+","No","Proprietary , URL: /wiki/Proprietary_software
+","MOS Technology 6502 , URL: /wiki/MOS_Technology_6502
+WDC 65C02 , URL: /wiki/WDC_65C02
+WDC 65C816 , URL: /wiki/WDC_65C816
+","ProDOS 8/16 , URL: /wiki/Apple_ProDOS
+GS/OS , URL: /wiki/Apple_GS/OS
+"
+"rmac , URL: http://rmac.is-slick.com
+","James Hammons, George Nakos, Landon Dyer","Yes","Free","MOS Technology 6502 , URL: /wiki/MOS_Technology_6502
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+"
+"vasm","Volker Barthelmann, Frank Wille","","Free","MOS Technology 6502 , URL: /wiki/MOS_Technology_6502
+","various"
+"xasm , URL: https://github.com/pfusik/xasm
+","Piotr Fusik","Yes","Free","MOS Technology 6502 , URL: /wiki/MOS_Technology_6502
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+"

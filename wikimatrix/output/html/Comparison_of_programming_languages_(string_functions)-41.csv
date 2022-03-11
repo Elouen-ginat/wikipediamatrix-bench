@@ -1,0 +1,47 @@
+"Format","Languages"
+"split(/separator/, string«, limit»)","Perl 5 , URL: /wiki/Perl_5
+"
+"split(separator, string«, limit») string.split(separator, «limit»)","Raku , URL: /wiki/Raku_(programming_language)
+"
+"explode(separator, string«, limit»)","PHP , URL: /wiki/PHP
+"
+"string.split(separator«, limit-1»)","Python , URL: /wiki/Python_(programming_language)
+"
+"string.split(separator«, limit»)","JavaScript , URL: /wiki/JavaScript
+Java , URL: /wiki/Java_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+"
+"string:tokens(string, sepchars)","Erlang , URL: /wiki/Erlang_(programming_language)
+"
+"strings.Split(string, separator) strings.SplitN(string, separator, limit)","Go , URL: /wiki/Go_(programming_language)
+"
+"(string-tokenize string« charset« start« end»»»)","Scheme , URL: /wiki/Scheme_(programming_language)
+"
+"Split(string, sepchars«, limit»)","VB , URL: /wiki/Visual_Basic_(classic)
+"
+"string.Split(sepchars«, limit«, options»»)","VB .NET , URL: /wiki/Visual_Basic_.NET
+C# , URL: /wiki/C_Sharp_(programming_language)
+F# , URL: /wiki/F_Sharp_(programming_language)
+"
+"string -split separator«, limit«, options»»","Windows PowerShell , URL: /wiki/Windows_PowerShell
+"
+"Str.split (Str.regexp_string separator) string","OCaml , URL: /wiki/OCaml
+"
+"std.string.split(string, separator)","D , URL: /wiki/D_(programming_language)
+"
+"[string componentsSeparatedByString:separator]","Objective-C , URL: /wiki/Objective-C
+"
+"string.componentsSeparatedByString(separator)","Swift , URL: /wiki/Swift_(programming_language)
+"
+"TStringList.Delimiter, TStringList.DelimitedText","Object Pascal , URL: /wiki/Object_Pascal
+"
+"StringSplit[string, separator«, limit»]","Mathematica , URL: /wiki/Mathematica
+"
+"string.split«(sepchars«, limit«, options»»)»","Cobra , URL: /wiki/Cobra_(programming_language)
+"
+"split string separator","Tcl , URL: /wiki/Tcl
+"
+"(separator≠string)⊂string or separator(≠⊆⊢)string in APL2 and Dyalog APL 16.0 respectively","APL , URL: /wiki/APL_(programming_language)
+"
+"string.split(separator) string.split(limit, separator)","Rust , URL: /wiki/Rust_(programming_language)
+"

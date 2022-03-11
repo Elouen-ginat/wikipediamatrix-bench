@@ -1,0 +1,56 @@
+"Driver name","Chipset","Integration","Non-free firmware required","License","Original/Primary developer","Development"
+"acx , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=acx
+","Texas Instruments , URL: /wiki/Texas_Instruments
+","Integrated since 1.5","Yes","BSD , URL: /wiki/BSD
+","","Reverse engineering"
+"an , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=an
+","Aironet , URL: /wiki/Cisco_Systems
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","Bill Paul (FreeBSD)",""
+"ath , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=ath
+","Atheros , URL: /wiki/Atheros
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","",""
+"bwi , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=bwi
+","Broadcom , URL: /wiki/Broadcom
+","Integrated","Yes","BSD , URL: /wiki/BSD
+","Sepherosa Ziehau","Reverse engineering"
+"iwi , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=iwi
+","Intel , URL: /wiki/Intel
+","Integrated","Yes","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Reverse engineering"
+"iwl , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=iwl&section=4
+","Intel , URL: /wiki/Intel
+","Integrated","Yes","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Reverse engineering"
+"iwm , URL: https://man.dragonflybsd.org/?command=iwm
+","Intel Dual Band Wireless AC 3160/7260/8260/9260/9270/9560","Integrated","Yes","BSD , URL: /wiki/BSD
+","OpenBSD",""
+"iwn , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=iwn&section=4
+","Intel , URL: /wiki/Intel
+","Integrated","Yes","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Reverse engineering"
+"ral , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=ral&section=ANY
+","Ralink , URL: /wiki/Ralink
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","Damien Bergamini","Ported from FreeBSD"
+"rtw , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=rtw&section=ANY
+","Realtek , URL: /wiki/Realtek
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","","Ported from NetBSD"
+"rum , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=rum&section=ANY
+","Ralink , URL: /wiki/Ralink
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","Damien Bergamini","Ported from FreeBSD"
+"wi , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=wi
+","Lucent , URL: /wiki/Lucent
+ORiNOCO , URL: /wiki/ORiNOCO
+Intersil , URL: /wiki/Intersil
+PRISM , URL: /wiki/PRISM_(chipset)
+Symbol , URL: /wiki/Symbol_Technologies
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","Bill Paul (FreeBSD)","Documentation based"
+"wpi , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=wpi&section=ANY
+","Intel , URL: /wiki/Intel
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","Damien Bergamini","Ported from OpenBSD"

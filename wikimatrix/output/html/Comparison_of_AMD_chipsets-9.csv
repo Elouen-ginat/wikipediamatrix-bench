@@ -1,0 +1,19 @@
+"Model","PCIe , URL: /wiki/PCI_Express
+","PCIe , URL: /wiki/PCI_Express
+","Multi-GPU support","Multi-GPU support","SATA , URL: /wiki/SATA
+","USB , URL: /wiki/USB
+","RAID , URL: /wiki/RAID
+","Overclocking , URL: /wiki/Overclocking
+","TDP , URL: /wiki/Thermal_design_power
+","Chipset lithography","Notes"
+"Model","PCIe , URL: /wiki/PCI_Express
+","PCIe , URL: /wiki/PCI_Express
+","CrossFire , URL: /wiki/AMD_CrossFireX
+","SLI , URL: /wiki/Scalable_Link_Interface
+","SATA , URL: /wiki/SATA
+","USB , URL: /wiki/USB
+","RAID , URL: /wiki/RAID
+","Overclocking , URL: /wiki/Overclocking
+","TDP , URL: /wiki/Thermal_design_power
+","Chipset lithography","Notes"
+"WRX80","×8","PCIe 4.0 ×16","Yes","Yes","4","8 + 4","0,1,10","Yes","15 W","14 nm","HW-wise identical to EPYC/Threadripper IO die[citation needed]"

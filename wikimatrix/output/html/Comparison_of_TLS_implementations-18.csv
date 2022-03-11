@@ -1,0 +1,29 @@
+"Implementation","Dependencies","Optional dependencies"
+"Botan , URL: /wiki/Botan_(programming_library)
+","C++11","sqlite , URL: /wiki/Sqlite
+zlib , URL: /wiki/Zlib
+bzip2 , URL: /wiki/Bzip2
+liblzma , URL: /wiki/XZ_Utils
+boost , URL: /wiki/Boost_(C%2B%2B_libraries)
+openssl , URL: /wiki/Openssl
+"
+"GnuTLS , URL: /wiki/GnuTLS
+","libc nettle gmp","libunbound , URL: /wiki/Unbound_(DNS_server)
+"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","Java",""
+"MatrixSSL , URL: /wiki/MatrixSSL
+","none","zlib (compression)"
+"MatrixSSL-open , URL: /wiki/MatrixSSL
+","libc or newlib",""
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","libc","libpkcs11-helper (PKCS #11) zlib (compression)"
+"NSS , URL: /wiki/Network_Security_Services
+","libc libnspr4 libsoftokn3 libplc4 libplds4","zlib (compression)"
+"OpenSSL , URL: /wiki/OpenSSL
+","libc","zlib (compression)"
+"wolfSSL , URL: /wiki/WolfSSL
+","None","libc zlib (compression)"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","libcrypto (from OpenSSL), Erlang/OTP and its public_key, crypto and asn1 applications","Erlang/OTP -inets (http fetching of CRLs)"
+"Implementation","Dependencies","Optional dependencies"

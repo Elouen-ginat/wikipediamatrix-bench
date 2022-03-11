@@ -1,0 +1,17 @@
+"Driver","Chipset","Free firmware[note 2]","License","Development"
+"IWIDarwin , URL: https://code.google.com/p/iwidarwin
+","Intel , URL: /wiki/Intel
+","No","GPL , URL: /wiki/GPL
+","Port from Linux"
+"WirelessDriver , URL: http://wirelessdriver.sourceforge.net/
+","Lucent , URL: /wiki/Lucent
+Agere Systems , URL: /wiki/Agere_Systems
+ORiNOCO , URL: /wiki/ORiNOCO
+Intersil , URL: /wiki/Intersil
+PRISM , URL: /wiki/PRISM_(chipset)
+","N/A","BSD , URL: /wiki/BSD
+",""
+"GTdriver , URL: http://gtdriver.binaervarianz.de/
+","PRISM , URL: /wiki/PRISM_(chipset)
+","N/A","GPL , URL: /wiki/GPL
+",""

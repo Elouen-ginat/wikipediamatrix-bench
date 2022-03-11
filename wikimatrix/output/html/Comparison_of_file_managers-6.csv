@@ -1,0 +1,65 @@
+"File manager","File name [D 1]","File contents [D 2]","Basic metadata search [D 3]","All metadata search [D 4]","RegExp , URL: /wiki/Regular_expression
+","Boolean (nesting levels)","Fuzzy logic , URL: /wiki/Fuzzy_logic
+","Save searches [D 6]","Refined searches [D 7]"
+"Altap Salamander , URL: /wiki/Altap_Salamander
+","Yes","?","Yes","?","Yes[s 1]","Yes","?","Yes","Yes"
+"Commander One , URL: /wiki/Commander_One
+","Yes","Yes","Yes[s 2]","Yes[s 2]","Yes","Yes","?","No","No"
+"Directory Opus , URL: /wiki/Directory_Opus
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Dired , URL: /wiki/Dired
+","Yes","?","No","No","Yes","Yes","Yes","No","No"
+"Dolphin , URL: /wiki/Dolphin_(file_manager)
+","Yes","?","Yes","Yes","Yes","Yes","?","?","Yes"
+"Double Commander , URL: /wiki/Double_Commander
+","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?"
+"emelFM2 , URL: /wiki/EmelFM2
+","Yes","?","Yes","Yes","?","?","?","Partial","?"
+"FAR Manager , URL: /wiki/FAR_Manager
+","Yes","?","Yes","Yes","Yes[s 3]","Yes[s 3]","Yes[s 3]","Yes","Yes"
+"File Commander , URL: /wiki/File_Commander
+","Yes","No","Yes","No","No","Yes","No","Yes","No"
+"Files (Apple) , URL: /wiki/Files_(Apple)
+","","","","","","","","",""
+"Files by Google , URL: /wiki/Files_by_Google
+","","","","","","","","",""
+"Finder , URL: /wiki/Macintosh_Finder
+","Yes","?","Yes","Yes","No","?","?","Yes","?"
+"ForkLift , URL: /wiki/ForkLift_(File_Manager)
+","Yes","Partial","Yes","Yes","Yes","Yes","?","No","No"
+"Konqueror , URL: /wiki/Konqueror
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes"
+"Krusader , URL: /wiki/Krusader
+","Yes","?","Yes","Yes","Yes[79]","No","No","Yes","Yes"
+"GNOME Files (Nautilus) , URL: /wiki/GNOME_Files
+","Yes","?","Partial [s 4]","Partial [s 4]","?","?","?","Yes","?"
+"Nemo , URL: /wiki/Nemo_(file_manager)
+","Yes","?","?","?","?","?","?","?","?"
+"Nomad.NET , URL: /wiki/Nomad.NET
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes"
+"Path Finder , URL: /wiki/Path_Finder
+","Yes","?","Yes","Yes","No","No","?","No","No"
+"PCManFM , URL: /wiki/PCMan_File_Manager
+","Yes","?","Yes","No","Yes","No","No","No","No"
+"ROX-Filer , URL: /wiki/ROX-Filer
+","Yes","?","Yes","Yes","Yes","Yes","?","No","?"
+"Total Commander , URL: /wiki/Total_Commander
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Partial [s 5]"
+"Windows Explorer , URL: /wiki/Windows_Explorer
+","Yes","No","Yes","No","No","?","?","Yes","Yes"
+"Xandros File Manager , URL: /wiki/Xandros_File_Manager
+","?","?","?","?","?","?","?","?","?"
+"Xfe , URL: /wiki/Xfe
+","Yes","Yes[s 6]","Yes","No","No","No","No","No","No"
+"Xfile , URL: /wiki/Xfile
+","Yes","No","Yes","No","Yes","Yes","No","Yes","Yes"
+"Xfm , URL: /wiki/Xfm_(file_manager)
+","?","?","?","?","?","?","?","?","?"
+"xplorer² , URL: /wiki/Xplorer%C2%B2
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"XYplorer , URL: /wiki/XYplorer
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[s 7]"
+"ZTreeWin , URL: /wiki/ZTreeWin
+","Yes","Yes","Yes","Partial","Partial [s 8]","Yes","Yes","Yes","Yes"
+"File manager","File name [D 1]","File contents [D 2]","Basic metadata search [D 3]","All metadata search [D 4]","RegExp , URL: /wiki/Regular_expression
+","Boolean (nesting levels)","Fuzzy logic [D 5]","Save searches [D 6]","Refined searches [D 7]"

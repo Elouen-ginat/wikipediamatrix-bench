@@ -1,0 +1,7 @@
+"Name","Language","WMS","WFS","GeoRSS","Other"
+"OpenLayers , URL: /wiki/OpenLayers
+","JavaScript","Yes","Yes","Yes","support for navigation, icons, markers, and layer selection."
+"Leaflet , URL: /wiki/Leaflet_(software)
+","JavaScript","Yes[2]","Yes","No","support for navigation, icons, markers, layers, GeoJSON"
+"MapDotNet , URL: /wiki/MapDotNet
+","JavaScript/HTML5","Yes","Yes","Yes","digitizing, wkt rendering, draggable icons and content, geospatial queries (intersection, overlapping)"

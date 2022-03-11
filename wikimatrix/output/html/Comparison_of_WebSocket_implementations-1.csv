@@ -1,4 +1,185 @@
-"","This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages) This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (September 2011) (Learn how and when to remove this template message) This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of WebSocket implementations" – news · newspapers · books · scholar · JSTOR (September 2011) (Learn how and when to remove this template message) This article's factual accuracy may be compromised due to out-of-date information. Please help update this article to reflect recent events or newly available information. (March 2013) (Learn how and when to remove this template message)","","This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (September 2011) (Learn how and when to remove this template message)","","This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of WebSocket implementations" – news · newspapers · books · scholar · JSTOR (September 2011) (Learn how and when to remove this template message)","","This article's factual accuracy may be compromised due to out-of-date information. Please help update this article to reflect recent events or newly available information. (March 2013)"
-"","This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (September 2011) (Learn how and when to remove this template message)","null","null","null","null","null","null"
-"","This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of WebSocket implementations" – news · newspapers · books · scholar · JSTOR (September 2011) (Learn how and when to remove this template message)","null","null","null","null","null","null"
-"","This article's factual accuracy may be compromised due to out-of-date information. Please help update this article to reflect recent events or newly available information. (March 2013)","null","null","null","null","null","null"
+"","Client (library)","Server (library)","Version compared","Protocol (spec) version support","Protocol test report","License","Implementation: language, environment","API: language, environment","Self-hosted server","Text message support","Binary message support","API message-based","API frame-based","API streaming input-output","Flow-control framework","Automatic pongs for pings","Automatic heartbeat pings","Manual pings-pongs","Frame size limit"
+"Google Chrome , URL: /wiki/Google_Chrome
+","Yes","No","15.0.874.8 12 Sep 2011","8 (10)","","Complex","C++ , URL: /wiki/C%2B%2B
+WebKit , URL: /wiki/WebKit
+","JavaScript , URL: /wiki/JavaScript
+HTML5 , URL: /wiki/HTML5
+","No","Yes","Yes","Yes","No","No, No","No","Yes","No","No","≥ 16 MB (memory-limited?)"
+"Google Chrome , URL: /wiki/Google_Chrome
+","Yes","No","16.0.912 13 Dec 2011","13 (17/RFC 6455)","","Complex","C++ , URL: /wiki/C%2B%2B
+WebKit , URL: /wiki/WebKit
+","JavaScript , URL: /wiki/JavaScript
+HTML5 , URL: /wiki/HTML5
+","No","Yes","Yes","Yes","No","No, No","No","Yes","No","No","≥ 16 MB (memory-limited?)"
+"Firefox , URL: /wiki/Firefox
+","Yes","No","7 beta 12 Sep 2011","8 (10)","","MPL , URL: /wiki/Mozilla_Public_License
+GPL , URL: /wiki/GNU_General_Public_License
+LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","C++ , URL: /wiki/C%2B%2B
+Necko , URL: https://wiki.mozilla.org/Modules/Core#Necko
+","JavaScript , URL: /wiki/JavaScript
+HTML5 , URL: /wiki/HTML5
+","No","Yes","No","Yes","No","No, No","No","Yes","No","No","< 16 MB"
+"Firefox , URL: /wiki/Firefox
+","Yes","No","11.0 13 Mar 2012","13 (17/RFC 6455)","","MPL , URL: /wiki/Mozilla_Public_License
+GPL , URL: /wiki/GNU_General_Public_License
+LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","C++ , URL: /wiki/C%2B%2B
+Necko , URL: https://wiki.mozilla.org/Modules/Core#Necko
+","JavaScript , URL: /wiki/JavaScript
+HTML5 , URL: /wiki/HTML5
+","No","Yes","Yes","Yes","No","No, No","No","Yes","No","No","< 2 GB (memory-limited?)"
+"Achex WS[3]","Yes","Yes","2.17 17 June 2014","RFC 6455","","Commercial , URL: /wiki/Commercial_software
+","C++ , URL: /wiki/C%2B%2B
+","C++ , URL: /wiki/C%2B%2B
+JavaScript , URL: /wiki/JavaScript
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","2^16"
+"Kaazing WebSocket Gateway[4]","Yes","Yes","5.0 Dec 2014","RFC 6455","","APL2 , URL: /wiki/Apache_License
+commercial , URL: /wiki/Commercial_software
+","Java , URL: /wiki/Java_(programming_language)
+JMS , URL: /wiki/Java_Message_Service
+","JavaScript , URL: /wiki/JavaScript
+Flash/Flex , URL: /wiki/Adobe_Flash
+Silverlight , URL: /wiki/Silverlight
+Objective-C , URL: /wiki/Objective-C
+iOS , URL: /wiki/IOS
+Java , URL: /wiki/Java_(programming_language)
+Android , URL: /wiki/Android_(operating_system)
+.NET , URL: /wiki/.NET_Framework
+Xamarin , URL: /wiki/Xamarin
+","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","No","memory-limited, configurable"
+"Lightstreamer , URL: /wiki/Lightstreamer
+","Yes","Yes","7.2.2 22 Dec 2021","RFC 6455","","Commercial , URL: /wiki/Commercial_software
+freeware , URL: /wiki/Freeware
+","Java , URL: /wiki/Java_(programming_language)
+","JavaScript , URL: /wiki/JavaScript
+Flash/Flex , URL: /wiki/Adobe_Flash
+Silverlight , URL: /wiki/Silverlight
+iOS , URL: /wiki/IOS
+macOS , URL: /wiki/MacOS
+tvOS , URL: /wiki/TvOS
+watchOS , URL: /wiki/WatchOS
+Java , URL: /wiki/Java_(programming_language)
+J2ME , URL: /wiki/J2ME
+Android , URL: /wiki/Android_(operating_system)
+.NET Standard , URL: /wiki/.NET_Framework
+","Yes","Yes","No","Yes","No","No","Yes","Yes","Yes","No","Data driven, configurable"
+"MigratoryData[6]","Yes","Yes","6.0.5 29 Aug 2021","RFC 6455","","Commercial , URL: /wiki/Commercial_software
+","Java , URL: /wiki/Java_(programming_language)
+","JavaScript , URL: /wiki/JavaScript
+iOS , URL: /wiki/IOS
+Android , URL: /wiki/Android_(operating_system)
+Java , URL: /wiki/Java_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+.NET , URL: /wiki/.NET_Framework
+PHP , URL: /wiki/PHP
+Node.js , URL: /wiki/Node.js
+Python , URL: /wiki/Python_(programming_language)
+","Yes","Yes","No","Yes","No","No, No","Yes","Yes","Yes","No","263, configurable"
+"noPoll , URL: /w/index.php?title=NoPoll&action=edit&redlink=1
+","Yes","Yes","0.3.2 28 aug 2015","RFC 6455","","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","ANSI C , URL: /wiki/ANSI_C
+","ANSI C , URL: /wiki/ANSI_C
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","memory-limited, configurable"
+"POCO C++ Libraries , URL: /wiki/POCO_C%2B%2B_Libraries
+","Yes","Yes","1.4.6 23 Sep 2014","RFC 6455","","Boost , URL: /wiki/Boost_(C%2B%2B_libraries)#License
+","C++ , URL: /wiki/C%2B%2B
+POCO C++ Libraries , URL: /wiki/POCO_C%2B%2B_Libraries
+","C++ , URL: /wiki/C%2B%2B
+","Yes","Yes","Yes","No","Yes","Yes","No","No","No","Yes","memory-limited, configurable"
+"PowerWebSockets[9]","Yes","Yes","15.176.5188 26 Jun 2015","RFC 6455","Test report[10]","Commercial , URL: /wiki/Commercial_software
+",".NET , URL: /wiki/.NET_Framework
+",".NET Framework , URL: /wiki/.NET_Framework
+.NET Compact Framework , URL: /wiki/.NET_Compact_Framework
+Xamarin , URL: /wiki/Xamarin
+iOS , URL: /wiki/IOS
+Xamarin , URL: /wiki/Xamarin
+Android , URL: /wiki/Android_(operating_system)
+Windows Phone , URL: /wiki/Windows_Phone
+Silverlight , URL: /wiki/Silverlight
+Mono , URL: /wiki/Mono_(software)
+","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","memory-limited, configurable"
+"QtWebSockets[11]","Yes","Yes","1.0 12 Nov 2013","RFC 6455","","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","C++ , URL: /wiki/C%2B%2B
+Qt , URL: /wiki/Qt_(software)
+","Qt , URL: /wiki/Qt_(software)
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","memory-limited, configurable"
+"RingSocket[12]","No","Yes","1.0 13 Sep 2019","RFC 6455","","MIT , URL: /wiki/MIT_License
+","C , URL: /wiki/C_(programming_language)
+","C , URL: /wiki/C_(programming_language)
+","Yes","Yes","Yes","Yes","No","No","Yes","Yes","No","No","unlimited/configurable"
+"Resin , URL: /wiki/Resin_Server
+","No","Yes","4.026 29 Feb 2012","RFC 6455","","GPL , URL: /wiki/GNU_General_Public_License
+","Java , URL: /wiki/Java_(programming_language)
+C , URL: /wiki/C_(programming_language)
+","Java , URL: /wiki/Java_(programming_language)
+","","Yes","Yes","Yes","No","Yes","No","Yes","No","No","memory-limited, configurable"
+"WebSocketListener[14]","No","Yes","2.1.3 24 Nov 2014","RFC 6455","","MIT , URL: /wiki/MIT_License
+",".NET , URL: /wiki/.NET_Framework
+Mono , URL: /wiki/Mono_(software)
+",".NET , URL: /wiki/.NET_Framework
+Mono , URL: /wiki/Mono_(software)
+","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Configurable"
+"Wt , URL: /wiki/Wt_(web_toolkit)
+","No","Yes","3.2.0 30 Nov 2011","0,7,8,13 (17)","[? Report]","GPL , URL: /wiki/GNU_General_Public_License
+","C++ , URL: /wiki/C%2B%2B
+Boost Asio , URL: /wiki/Asio_C%2B%2B_library
+","C++ , URL: /wiki/C%2B%2B
+","","Yes","Yes","No","No","No","Yes","Yes","Yes","No","memory-limited, configurable"
+"XSockets.NET[16]","Yes","Yes","5.*","RFC 6455","","Commercial",".NET , URL: /wiki/.NET_Framework
+","Windows , URL: /wiki/Microsoft_Windows
+Unix , URL: /wiki/Unix
+Linux , URL: /wiki/Linux
+","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","memory-limited, configurable"
+"RIWA Gateway[17]","Yes","Yes","2.01","RFC 6455","","Commercial","Java , URL: /wiki/Java_(programming_language)
+","Java , URL: /wiki/Java_(programming_language)
+Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+JavaScript , URL: /wiki/JavaScript
+","Yes","Yes","Yes","Yes","No","Yes","No","Yes","No","No","memory-limited, configurable"
+"µWebSockets , URL: /w/index.php?title=%CE%9CWebSockets&action=edit&redlink=1
+","No","Yes","v0.14.0 28 Mar 2017","RFC 6455","Test report[19]","Apache License 2.0 , URL: /wiki/Apache_License
+","C++ , URL: /wiki/C%2B%2B
+epoll , URL: /wiki/Epoll
+Libuv , URL: /wiki/Libuv
+Boost Asio , URL: /wiki/Asio_C%2B%2B_library
+","C++ , URL: /wiki/C%2B%2B
+JavaScript , URL: /wiki/JavaScript
+Node.js , URL: /wiki/Node.js
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","memory-limited, configurable"
+"Boost.Beast , URL: /w/index.php?title=Boost.Beast&action=edit&redlink=1
+","Yes","Yes","94 30 July 2017","RFC 6455","Test report[21]","Boost , URL: /wiki/Boost_(C%2B%2B_libraries)#License
+","C++ , URL: /wiki/C%2B%2B
+Boost Asio , URL: /wiki/Boost_(C%2B%2B_libraries)
+","C++ , URL: /wiki/C%2B%2B
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","unlimited (packets streamed to user code), permessage-deflate also unlimited (chunked)"
+"libwebsockets , URL: /w/index.php?title=Libwebsockets&action=edit&redlink=1
+","Yes","Yes","2.4 16 Oct 2017","RFC 6455 + RFC 7692","Test report[23]","LGPL2 + SLE , URL: /wiki/License
+","C , URL: /wiki/C_(programming_language)
+libuv , URL: /wiki/Libuv
+libev , URL: /w/index.php?title=Libev&action=edit&redlink=1
+libevent , URL: /wiki/Libevent
+poll , URL: /wiki/Polling_(computer_science)
+external poll loop integration , URL: /w/index.php?title=External_poll_loop_integration&action=edit&redlink=1
+OpenSSL , URL: /wiki/OpenSSL
+mbedTLS , URL: /w/index.php?title=MbedTLS&action=edit&redlink=1
+","C , URL: /wiki/C_(programming_language)
+HTML5 , URL: /wiki/HTML5
+JavaScript , URL: /wiki/JavaScript
+","Yes","Yes","Yes","Yes","Yes","Yes, yes","Yes","Yes","Yes","Yes","unlimited (packets streamed to user code), permessage-deflate also unlimited (chunked)"
+"websocket++ , URL: /w/index.php?title=Websocket%2B%2B&action=edit&redlink=1
+","Yes","Yes","0.7.0 22 Feb, 2016","RFC 6455","","BSD","C++11 , URL: /wiki/C%2B%2B11
+","C++11 , URL: /wiki/C%2B%2B11
+","?","?","?","?","?","?","?","?","?","?","?"
+"facil.io , URL: /w/index.php?title=Facil.io&action=edit&redlink=1
+","Yes","Yes","0.7.1 18 May 2019","RFC 6455","","MIT , URL: /wiki/MIT_License
+","C , URL: /wiki/C_(programming_language)
+","C , URL: /wiki/C_(programming_language)
+","Yes","Yes","Yes","Yes","Yes","Yes, yes","Yes","Yes","Yes","Yes","configurable client to server limits. unlimited (chunked) server to client."
+"oatpp-websocket , URL: /w/index.php?title=Oatpp-websocket&action=edit&redlink=1
+","Yes","Yes","1.2.0 27 Oct 2020","RFC 6455","","Apache License 2.0 , URL: /wiki/Apache_License
+","C++11 , URL: /wiki/C%2B%2B11
+Oat++ , URL: /w/index.php?title=Oat%2B%2B_(oatpp)_Web_Framework&action=edit&redlink=1
+","C++11 , URL: /wiki/C%2B%2B11
+Oat++ , URL: /w/index.php?title=Oat%2B%2B_(oatpp)_Web_Framework&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","unlimited (packets streamed to user code)"

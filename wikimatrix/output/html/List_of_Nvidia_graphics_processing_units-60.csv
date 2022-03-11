@@ -1,0 +1,30 @@
+"Model","Code name , URL: /wiki/Code_name
+","Fab (nm)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","TDP , URL: /wiki/Thermal_design_power
+","Notes"
+"Model","Code name , URL: /wiki/Code_name
+","Fab (nm)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config1","Pixel (GP/s)","Texture (GT/s)","Size (GB)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Double precision , URL: /wiki/Double_precision_floating-point_format
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","Vulkan , URL: /wiki/Vulkan_(API)
+","OpenCL , URL: /wiki/OpenCL
+","CUDA , URL: /wiki/CUDA
+","TDP , URL: /wiki/Thermal_design_power
+","Notes"
+"Quadro M2000","GM206-875-A1[264]","28","PCIe 3.0 x16","796","1163","1653 (6612)","768:48:32:6","37.8","56.6","4","105.8","GDDR5","128","1812.5","56.6","12.1","4.6","1.1","1.2","5.2","75","Four DisplayPort 1.2a"
+"Quadro M4000","GM204-850-A1[265]","28","PCIe 3.0 x16","773","773","1503 (6012)","1664:104:64:13","51.2","83.2","8","192.4","GDDR5","256","2662.4","83.2","12.1","4.6","1.1","1.2","5.2","120","Four DisplayPort 1.2a"
+"Quadro M5000","GM204-875-A1[265]","28","PCIe 3.0 x16","861","1038","1653 (6612)","2048:128:64:16","67.2","134.4","8","211.6","GDDR5","256","4300.8","134.4","12.1","4.6","1.1","1.2","5.2","150","Four DisplayPort 1.2a, One DVI-I"
+"Quadro M6000","GM200GL GM200-880-A1[264]","28","PCIe 3.0 x16","988","1114","1653 (6612)","3072:192:96:24","94.8","189.7","12 24","317","GDDR5","384","6070","190","12.1","4.6","1.1","1.2","5.2","250[266]","Four DisplayPort 1.2a, One DVI-I"

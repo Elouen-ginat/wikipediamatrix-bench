@@ -1,0 +1,157 @@
+"","OMF , URL: /wiki/OMFI
+","AAF , URL: /wiki/Advanced_Authoring_Format
+","MIDI , URL: /wiki/Musical_Instrument_Digital_Interface
+","WAV , URL: /wiki/WAV
+","MP3 , URL: /wiki/MP3
+","AAC , URL: /wiki/Advanced_Audio_Coding
+","Ogg , URL: /wiki/Ogg
+","REX2 , URL: /wiki/REX2
+","AIFF , URL: /wiki/AIFF
+","FLAC , URL: /wiki/FLAC
+","Others"
+"Acoustica , URL: /wiki/Acoustica_(software)
+","No","No","No","Yes","Yes","Yes","Yes","No","Yes","Yes","W64"
+"Ardour , URL: /wiki/Ardour_(audio_processor)
+","No[4]","No[5]","Yes","Yes","Yes","No","Yes","Unknown","Yes","Yes","W64, libsndfile library formats[6]"
+"Audacity , URL: /wiki/Audacity_(audio_editor)
+","No","No","No","Yes","Yes","Yes","Yes","No","Yes","Yes","AMR"
+"AudioDesk , URL: /wiki/AudioDesk
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","No","SDII , URL: /wiki/Digidesign#Sound_Designer_file_formats
+"
+"Audiotool , URL: /wiki/Audiotool
+","No","No","No","Import","Export","No","Export","No","No","No",""
+"Audition , URL: /wiki/Adobe_Audition
+","Yes","Unknown","No (unsupported since CS5)","Yes","Yes","Yes","Yes","No","Yes","Yes","AU, IFF, RAW/PCM, SMP, VOC, VOX, WMA"
+"BIAS Peak , URL: /wiki/BIAS_Peak
+","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"Bitwig Studio , URL: /wiki/Bitwig_Studio
+","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"Cakewalk by BandLab , URL: /wiki/Cakewalk_by_BandLab
+","Yes","No","Yes","Yes","Yes","Import","Yes","Yes","Yes","Yes","W64, CAF, SDII, AU, SND, DSF, DFF, RCY, ASF, WMA, WMV"
+"Cubase , URL: /wiki/Steinberg_Cubase
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","WMA, W64"
+"Diamond Cut ART , URL: /wiki/Diamond_Cut_Audio_Restoration_Tools
+","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"Digital Performer , URL: /wiki/Digital_Performer
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","No","SDII (native)"
+"Ecasound , URL: /wiki/Ecasound
+","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"FL Studio , URL: /wiki/FL_Studio
+","No","No","Yes","Yes","Yes","Yes","Yes","Yes","Import","Yes","XI, REX, REX2"
+"GarageBand , URL: /wiki/GarageBand
+","No","No","Yes[7]","Unknown","Yes","Yes","Unknown","Unknown","No","No",""
+"Goldwave , URL: /wiki/Goldwave
+","Unknown","Unknown","Unknown","Yes","Yes","Unknown","Yes","Unknown","Yes","Yes","Windows Media Audio, AU, Monkey's Audio, VOX, mat, snd, voc"
+"Harrison Mixbus , URL: /wiki/Harrison_Mixbus
+","No","No","Yes","Yes","Unknown","Unknown","Yes","Unknown","No","Yes","AIFC, NeXT AU/SND, Headerless RAW, PAF, IFF/SVX, Sphere Nist WAV, IRCAM SF, VOC, W64, MAT4, MAT5, PVF, Fasttracker 2 XI, HMM Tool Kit HTK, CAF, SD2"
+"","OMF , URL: /wiki/OMFI
+","AAF , URL: /wiki/Advanced_Authoring_Format
+","MIDI , URL: /wiki/Musical_Instrument_Digital_Interface
+","WAV , URL: /wiki/WAV
+","MP3 , URL: /wiki/MP3
+","AAC , URL: /wiki/Advanced_Audio_Coding
+","Ogg , URL: /wiki/Ogg
+","REX2 , URL: /wiki/REX2
+","AIFF , URL: /wiki/AIFF
+","FLAC , URL: /wiki/FLAC
+","Others"
+"Jokosher , URL: /wiki/Jokosher
+","No","No","No","Yes","Yes","Unknown","Yes","Unknown","Unknown","Unknown",""
+"Kristal , URL: /wiki/KRISTAL_Audio_Engine
+","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"Live , URL: /wiki/Ableton_Live
+","No","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","SDII (Mac OS X Only)"
+"LMMS , URL: /wiki/LMMS
+","Unknown","Unknown","Yes","Yes","Yes","Unknown","Yes","Unknown","Yes","Yes","AU, DS, RAW, SPX, VOC. Can also open .flp files"
+"Logic Pro , URL: /wiki/Logic_Pro
+","Partial","Yes","Yes","Yes","Yes","Yes","Unknown","Yes","Yes","Yes",""
+"Mixcraft , URL: /wiki/Mixcraft
+","No","No","Yes","Yes","Yes","No","Yes","No","Yes","Yes",""
+"mp3DirectCut , URL: /wiki/Mp3DirectCut
+","No","No","No","No","Yes","No","No","No","No","No",""
+"MuLab , URL: /wiki/MuLab_(MuTools)
+","No","No","Yes","Yes","Yes","No","Yes","Yes","Yes","No",""
+"MusE , URL: /wiki/MusE
+","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"N-Track , URL: /wiki/N-track
+","Yes","Yes","Yes","Yes","Yes","No","Yes","No","Yes","Yes","WMA, EDL, WAV64"
+"Nuendo , URL: /wiki/Nuendo
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No",""
+"NU-Tech , URL: /wiki/NU-Tech
+","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"Podium , URL: /wiki/Zynewave_Podium
+","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"Pro Tools , URL: /wiki/Pro_Tools
+","Yes[8]","Yes[8]","Yes","Yes","Yes","Import","Import","Yes (7.4)","Yes","No","SDII (Mac OS X Only)"
+"Qtractor , URL: /wiki/Qtractor
+","No","No","Yes","Yes","Yes","No","Yes","No","Yes","Yes","CAF, HTK, IFF/8SVX, MAT4/5, PAF, PVF, RAW, SDII, SDS, SF, VOC, W64, XI"
+"REAPER , URL: /wiki/REAPER
+","Partial","No","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","APE, BWF, MOOG, W64, WavPack"
+"Reason , URL: /wiki/Reason_(software)
+","No","No","Yes","Yes","Import","Import","No","Yes","Yes","No","SF2, ReFill"
+"Record , URL: /wiki/Record_(software)
+","No","No","Yes","Yes","No","No","No","Yes","Yes","No","SF2, ReFill"
+"","OMF , URL: /wiki/OMFI
+","AAF , URL: /wiki/Advanced_Authoring_Format
+","MIDI , URL: /wiki/Musical_Instrument_Digital_Interface
+","WAV , URL: /wiki/WAV
+","MP3 , URL: /wiki/MP3
+","AAC , URL: /wiki/Advanced_Audio_Coding
+","Ogg , URL: /wiki/Ogg
+","REX2 , URL: /wiki/REX2
+","AIFF , URL: /wiki/AIFF
+","FLAC , URL: /wiki/FLAC
+","Others"
+"Renoise , URL: /wiki/Renoise
+","No","No","Yes","Yes","Yes","No","Yes","No","Yes","Yes","MP4, MP4A, CAF, SFZ"
+"RiffWorks , URL: /wiki/RiffWorks
+","No","No","No","Export","No","No","Export","Yes","No","No",""
+"Rosegarden , URL: /wiki/Rosegarden
+","No","No","Yes[9]","Yes[10]","Import[10]","Unknown","Import[10]","Unknown","Unknown","Import[10]","Csound, Mup, MuxicXML, h2song[11]"
+"Samplitude , URL: /wiki/Samplitude
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","WMA , URL: /wiki/Windows_Media_Audio
+"
+"Sound Forge , URL: /wiki/Sound_Forge
+","Unknown","Unknown","Unknown","Yes","Yes","Yes","Yes","Unknown","Yes","Yes","SWF (open only), RealAudio & RealVideo (export only), WMA and WMV, AVI, AIF, SND, MPEG-1 and MPEG-2, AU, DIG, IVC, PCA, W64, FRG, VOX, AA3, OMA, CDA, AC-3 studio (save only), RAW"
+"Soundbooth , URL: /wiki/Soundbooth
+","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"Soundscape 32 , URL: /wiki/Soundscape_32
+","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown"
+"SoX , URL: /wiki/SoX
+","Unknown","Unknown","Unknown","Yes","External LAME","Unknown","Yes","Unknown","Yes","Yes","AU and other audio file formats"
+"SpectraLayers , URL: /wiki/SpectraLayers
+","Unknown","Unknown","Unknown","Yes","Yes","Yes","Yes","Unknown","Yes","Yes",".caf, .alac, RAW/PCM, .rm, .au, .snd, AVI, MXF, MP1, MP2, MP4, MKV, Quicktime, .vob, .wmv, WMA"
+"Studio One , URL: /wiki/Studio_One_(software)
+","No","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","OpenTL , URL: /w/index.php?title=OpenTL&action=edit&redlink=1
+BWF , URL: /wiki/Broadcast_Wave_Format
+RF64 , URL: /wiki/RF64
+Cubase , URL: /wiki/Cubase
+"
+"Sweep , URL: /wiki/Sweep_(software)
+","No","No","No","Yes","Yes","No","Yes","No","Yes","Yes","Various versions of WAV (integer, floating point, GSM, and compressed formats); Microsoft PCM, A-law and u-law formats; AIFC and RIFX; various AU/SND formats (Sun/NeXT, Dec AU, G721 and G723 ADPCM); RAW header-less PCM files; Amiga IFF/8SVX/16SV PCM files; Ensoniq PARIS (.PAF); Apple's Core Audio Format (CAF) and others."
+"Total Recorder , URL: /wiki/Total_Recorder
+","No","No","No","No","Yes","No","Yes","No","No","Yes","PCM , URL: /wiki/Pulse-code_modulation
+WMA , URL: /wiki/Windows_Media_Audio
+Monkey's Audio , URL: /wiki/Monkey%27s_Audio
+"
+"Waveform , URL: /wiki/Tracktion
+","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes",""
+"Traverso , URL: /wiki/Traverso_DAW
+","No","No","Unknown","Yes","Yes","Unknown","Yes","Unknown","No","Yes","WavPack"
+"WaveLab , URL: /wiki/WaveLab
+","No","No","Controllers","Yes","Yes","Yes","Yes","No","Yes","Yes","AU, MP2, RAW"
+"WavePad , URL: /wiki/WavePad_Audio_Editor_Software
+","No","No","Import","Yes","Yes","Yes","Yes","No","Yes","Yes","import midi, Sun AU, MPEG4 audio, GSM, RAW, Dialogic VOX, AMR Narrowband, Musepack, Monkey's Audio Codec, others"
+"WaveSurfer , URL: /wiki/WaveSurfer
+","No","No","No","Yes","Import","No","With plugin","No","Yes","No","Import: AU, CSL, SD Export: AU"
+"","OMF , URL: /wiki/OMFI
+","AAF , URL: /wiki/Advanced_Authoring_Format
+","MIDI , URL: /wiki/Musical_Instrument_Digital_Interface
+","WAV , URL: /wiki/WAV
+","MP3 , URL: /wiki/MP3
+","AAC , URL: /wiki/Advanced_Audio_Coding
+","Ogg , URL: /wiki/Ogg
+","REX2 , URL: /wiki/REX2
+","AIFF , URL: /wiki/AIFF
+","FLAC , URL: /wiki/FLAC
+","Others"

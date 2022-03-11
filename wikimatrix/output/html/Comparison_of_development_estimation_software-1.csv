@@ -1,8 +1,24 @@
-"null","null","null"
-"Analogy-based estimation","Formal estimation model","ANGEL, Weighted Micro Function Points"
-"WBS-based (bottom up) estimation","Expert estimation","Project management software, company specific activity templates"
-"Parametric models","Formal estimation model","COCOMO, SLIM, SEER-SEM, TruePlanning for Software"
-"Size-based estimation models[15]","Formal estimation model","Function Point Analysis,[16] Use Case Analysis, Use Case Points, SSU (Software Size Unit), Story points-based estimation in Agile software development, Object Points"
-"Group estimation","Expert estimation","Planning poker, Wideband delphi"
-"Mechanical combination","Combination-based estimation","Average of an analogy-based and a Work breakdown structure-based effort estimate[17]"
-"Judgmental combination","Combination-based estimation","Expert judgment based on estimates from a parametric model and group estimation"
+"Software","Schedule estimate","Cost estimate","Cost Models","Input","Report Output Format","Supported Programming Languages , URL: /wiki/Programming_language
+","Platforms , URL: /wiki/Computing_platform
+","Cost","License , URL: /wiki/Software_license
+"
+"AFCAA REVIC , URL: /wiki/AFCAA_REVIC
+","Yes","Yes","REVIC","KLOC , URL: /wiki/Source_lines_of_code
+","proprietary, Text","Any","DOS","Free","Proprietary / Free for public distribution"
+"Seer for Software , URL: /wiki/SEER-SEM
+","Yes","Yes","SEER-SEM , URL: /wiki/SEER-SEM
+","SLOC , URL: /wiki/Source_lines_of_code
+Function points , URL: /wiki/Function_points
+","proprietary, Excel, Microsoft Project, IBM Rational, Oracle Crystal Ball","Any","Web-based , URL: /wiki/Web_application
+","Commercial","Proprietary , URL: /wiki/Proprietary_software
+"
+"SLIM , URL: /wiki/Putnam_model
+","Yes","Yes","SLIM , URL: /wiki/Putnam_model
+","SLOC , URL: /wiki/Source_lines_of_code
+Function points , URL: /wiki/Function_points
+","proprietary, Excel, Microsoft Project, Microsoft PowerPoint, IBM Rational, text, HTML","Any","Web-based , URL: /wiki/Web_application
+","Commercial","Proprietary , URL: /wiki/Proprietary_software
+"
+"TruePlanning , URL: /wiki/PRICE_Systems
+","Yes","Yes","PRICE","Components, Structures, Activities, Cost drivers, Processes, Functional Software Size (Source Lines of Code (SLOC), Function Points, Use Case Conversion Points (UCCP), Predictive Object Points (POPs) etc.)","Excel, CAD","Any","Windows","Commercial","Proprietary , URL: /wiki/Proprietary_software
+"

@@ -1,29 +1,123 @@
-"null","null","null","null"
-"Boost C++ Libraries","C++","Boost","Notepad++ >= 6.0.0, EmEditor"
-"Boost C++ Libraries","C++","Boost",""
-"RegExLab","C++","Free personal and commercial use",""
-"Fuzzy Regular Expressions for Java","Java","LGPL",""
-"GLib reference manual","C","LGPL",""
-"Microsoft Research","C++","Microsoft",""
-"Grovf Inc.","RTL, HLS","Proprietary","FPGA accelerated >100Gbit/s regex engine for cybersecurity, financial, e-commerce industries."
-"Titan IC","RTL","Proprietary","hardware-accelerated search acceleration using RegEx available for ASIC, FPGA and cloud. Enables massively parallel content processing at ultra-high speeds."
-"Intel","C, x86-specific assembly (SSSE3+[1])","3-clause BSD","Rspamd"
-"International Components for Unicode","C, C++[Note 4]","ICU","Foundation (Apple and Swift open-source versions)"
-"The Apache Jakarta Project","Java","Apache",""
-"Java's User manual","Java","GNU GPLv2 with Classpath exception","jEdit"
-"JRegex","Java","BSD",""
-"Regular Expressions","MATLAB Language","MATLAB, The Language of Technical Computing",""
-"Kosako","C","BSD","Atom, Take Command Console, Tera Term, TextMate, Sublime Text, SubEthaEdit, EmEditor and jq"
-"Stevesoft","Java (compatible with Java 1.0)","LGPL",""
-"pcre.org","C, C++[Note 5]","BSD","Apache HTTP Server, Nginx, BBEdit, Julia, HHVM, Notepad++ < 6.0.0, PHP, Delphi, R, Exim SWI-Prolog"
-"Digia","C++","Qt GNU GPL v. 3.0, Qt GNU LGPL v. 2.1, Qt Commercial","Kate, Kile"
-"ArgList","C","BSD",""
-"RE2","C++","BSD","Go, Google Sheets, Gmail, G Suite"
-"Tcl","C","BSD",""
-"RGX","C++ based component library","P6R",""
-"Matt Bucknall","C","MIT",""
-"TPerlRegEx VCL Component","Object Pascal","MPLv1.1",""
-"Ville Laurikari","C","BSD","musl"
-"RegExp Studio","Object Pascal","Dual-license: freeware, or LGPL with static linking exception","Total Commander"
-"XRegExp","JavaScript","MIT",""
-"Wolfram Language Documentation Center","Wolfram Language","","Mathematica, the Wolfram Development Platform"
+"Language","Official website","Software license , URL: /wiki/Software_license
+","Remarks"
+"ActionScript , URL: /wiki/ActionScript
+","ActionScript Technology Center , URL: https://www.adobe.com/devnet/actionscript.html
+","Free",""
+"APL , URL: /wiki/APL_(programming_language)
+APLX , URL: /wiki/APLX
+","APL Wiki , URL: https://aplwiki.com
+","Licensed by the respective implementation","⎕SS (PCRE), ⎕R/⎕S (PCRE), ⎕SS (PCRE2), respectively"
+"C++11 , URL: /wiki/C%2B%2B11#regex
+C++ , URL: /wiki/C%2B%2B
+","C++ standards website , URL: http://isocpp.org/
+","Licensed by the respective implementation","(Grammar Description) , URL: https://en.cppreference.com/w/cpp/regex/ecmascript
+"
+"D , URL: /wiki/D_(programming_language)
+","D , URL: http://www.digitalmars.com/d/
+","Boost Software License , URL: /wiki/Boost_Software_License
+",""
+"Go , URL: /wiki/Go_(programming_language)
+","Golang.org , URL: https://golang.org/pkg/regexp/
+","BSD-style , URL: https://golang.org/LICENSE
+",""
+"Haskell , URL: /wiki/Haskell_(programming_language)
+","Haskell.org , URL: http://haskell.org/haskellwiki/Regular_expressions
+","BSD3 , URL: /wiki/BSD_licenses#3-clause_license_("BSD_License_2.0",_"Revised_BSD_License",_"New_BSD_License",_or_"Modified_BSD_License")
+","Omitted in the language report, and in GHC's Hierarchical Libraries"
+"Java , URL: /wiki/Java_(programming_language)
+","Java , URL: http://www.java.com
+","GNU General Public License , URL: /wiki/GNU_General_Public_License
+","REs are written as strings in source code: all backslashes must be doubled, harming readability."
+"JavaScript , URL: /wiki/JavaScript
+ECMAScript , URL: /wiki/ECMAScript
+","ECMA-262 , URL: http://www.ecma-international.org/publications/standards/Ecma-262.htm
+","BSD3 , URL: /wiki/BSD_licenses#3-clause_license_("BSD_License_2.0",_"Revised_BSD_License",_"New_BSD_License",_or_"Modified_BSD_License")
+","Limited but REs are first-class citizens of the language with a specific /.../mod syntax."
+"Julia , URL: /wiki/Julia_(programming_language)
+","JuliaLang.org , URL: http://julialang.org/
+","MIT License , URL: /wiki/MIT_License
+","REs are part of the language core library using PCRE built-in and an optional wrapper for (C code) ICU is available."
+"Lua , URL: /wiki/Lua_(programming_language)
+","Lua.org , URL: http://www.lua.org
+","MIT License , URL: /wiki/MIT_License
+","Uses simplified, limited dialect; can be bound to more powerful library, like PCRE or an alternative parser like LPeg."
+"Mathematica , URL: /wiki/Mathematica
+","Wolfram , URL: http://www.wolfram.com/mathematica/
+","Proprietary , URL: /wiki/Proprietary_software
+",""
+".NET , URL: /wiki/.NET_Framework
+","MSDN , URL: http://msdn2.microsoft.com/en-us/library/system.text.regularexpressions.aspx
+","MIT License , URL: /wiki/MIT_License
+",""
+"Nim , URL: /wiki/Nim_(programming_language)
+","nim-lang.org , URL: https://nim-lang.org
+","MIT License , URL: /wiki/MIT_License
+","re , URL: https://nim-lang.org/docs/re.html
+nre , URL: https://nim-lang.org/docs/nre.html
+strutils , URL: https://nim-lang.org/docs/strutils.html
+pegs , URL: https://nim-lang.org/docs/pegs.html
+Parsing Expression Grammar , URL: /wiki/Parsing_Expression_Grammar
+strscans , URL: https://nim-lang.org/docs/strscans.html
+parseutils , URL: https://nim-lang.org/docs/parseutils.html
+"
+"Free Pascal , URL: /wiki/Free_Pascal
+Object Pascal , URL: /wiki/Object_Pascal
+","www.freepascal.org , URL: http://www.freepascal.org
+","LGPL , URL: /wiki/LGPL
+","wiki.lazarus.freepascal.org/Regexpr , URL: http://wiki.lazarus.freepascal.org/Regexpr
+"
+"OCaml , URL: /wiki/OCaml
+","Caml , URL: http://caml.inria.fr/pub/docs/manual-ocaml/libref/Str.html
+","LGPL , URL: /wiki/LGPL
+","pcre , URL: https://github.com/mmottl/pcre-ocaml
+re , URL: https://github.com/ocaml/ocaml-re
+"
+"Perl , URL: /wiki/Perl
+","Perl.com , URL: http://www.perl.com/doc/manual/html/pod/perlre.html
+","Artistic License , URL: /wiki/Artistic_License
+GNU General Public License , URL: /wiki/GNU_General_Public_License
+","Full, central part of the language"
+"PHP , URL: /wiki/PHP
+","PHP.net , URL: http://www.php.net/manual/en/reference.pcre.pattern.syntax.php
+","PHP License , URL: /wiki/PHP_License
+","Has two implementations, with PCRE being the more efficient in speed, functions"
+"POSIX C , URL: /wiki/C_POSIX_library#regex
+C , URL: /wiki/C_(programming_language)
+","POSIX.1 web publication , URL: https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/regex.h.html
+","Licensed by the respective implementation","POSIX BRE and ERE , URL: https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap09.html
+"
+"Python , URL: /wiki/Python_(programming_language)
+","python.org , URL: https://docs.python.org/2/library/re.html
+","Python Software Foundation License , URL: /wiki/Python_Software_Foundation_License
+","re , URL: https://docs.python.org/3/library/re.html
+regex , URL: https://pypi.python.org/pypi/regex
+"
+"Ruby , URL: /wiki/Ruby_(programming_language)
+","ruby-doc.org , URL: http://www.ruby-doc.org/docs/ProgrammingRuby/html/ref_c_regexp.html
+","GNU Library General Public License , URL: /wiki/GNU_Library_General_Public_License
+","Ruby 1.8, Ruby 1.9, and Ruby 2.0 and later versions use different engines; Ruby 1.9 integrates Oniguruma, Ruby 2.0 and later integrate Onigmo, a fork from Oniguruma."
+"Rust , URL: /wiki/Rust_(programming_language)
+","docs.rs , URL: https://docs.rs/regex/1.2.1/regex/
+","MIT License , URL: /wiki/MIT_License
+","crate , URL: /wiki/Rust_(programming_language)#Cargo
+onig , URL: https://docs.rs/crate/onig/5.0.0
+"
+"SAP ABAP , URL: /wiki/ABAP
+","SAP.com , URL: http://www.sap.com
+","Proprietary , URL: /wiki/Proprietary_software
+",""
+"Tcl , URL: /wiki/Tcl
+","tcl.tk , URL: http://www.tcl.tk/
+","Tcl/Tk License , URL: http://www.tcl.tk/software/tcltk/license.html
+","Tcl library doubles as a regular expression library."
+"Wolfram Language , URL: /wiki/Wolfram_Language
+","Wolfram Research , URL: http://www.wolfram.com/language/
+","Proprietary , URL: /wiki/Proprietary_software
+",""
+"XML Schema , URL: /wiki/XML_Schema_(W3C)
+","W3C , URL: https://www.w3.org/TR/xmlschema/
+","Licensed by the respective implementation",""
+"XPath 3 , URL: /wiki/XPath_3
+XQuery , URL: /wiki/XQuery
+","W3C , URL: https://www.w3.org/TR/xpath/all/
+","Licensed by the respective implementation",""

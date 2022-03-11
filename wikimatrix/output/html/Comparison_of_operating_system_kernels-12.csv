@@ -1,0 +1,9 @@
+"Kernel name","Deflate , URL: /wiki/DEFLATE
+","zlib , URL: /wiki/Zlib
+","LZO , URL: /wiki/Lempel-Ziv-Oberhumer
+","LZJB , URL: /wiki/LZJB
+","gzip , URL: /wiki/Gzip
+","zstd , URL: /wiki/Zstd
+"
+"Linux","Yes","Yes","Yes","No","Yes","Yes"
+"Solaris kernel","?","?","?","Yes","Yes","?"

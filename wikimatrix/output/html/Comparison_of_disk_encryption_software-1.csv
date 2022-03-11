@@ -1,79 +1,130 @@
-"null","null","null","null"
-"Aloaha","2008","Source Auditable for Commercial Customers","Yes"
-"Softwaredevelopment Remus ArchiCrypt","1998","Proprietary","Yes"
-"Jetico","1993[1]","Proprietary","Yes"
-"BitArmor Systems Inc.","2008-05","Proprietary","Yes"
-"Microsoft","2006","Proprietary","Yes"
-"Bloombase","2012","Proprietary","No[2]"
-"Secomba GmbH","2011","Proprietary","Yes"
-"Roland C. Dowdeswell","2002-10-04[3]","BSD","Yes"
-"CenterTools","2008","Proprietary","Yes"
-"Check Point Software Technologies Ltd","1999[4][5][6]","Proprietary","Yes"
-"CipherShed Project","2014[7]","TrueCrypt License Version 3.0[8]","No"
-"Steven Scherrer","2004-02-10[9]","GPL","No"
-"Sebastian Messmer","2015","LGPLv3","Yes"
-"Prim'X Technologies","2010","Proprietary","Yes"
-"Cypherix Software","1999","Proprietary","Yes"
-"Exlade","2003","Proprietary","Yes"
-"WinEncrypt","?","Proprietary","Yes"
-"?","2003-07-02[10]","GPL","No"
-"Skymatic UG (haftungsbeschränkt)","2016-03-09[11]","GPLv3","Yes"
-"cpsd it-services GmbH","2010","Proprietary","Yes"
-"cpsd it-services GmbH","2012","Proprietary","Yes"
-"Stefan Küng","2012","Gpl v2","Yes"
-"Cosect Ltd.","2008","Proprietary","No"
-"ntldr, David Xanatos","2007","GPL","Yes[12]"
-"Becrypt Ltd","2001","Proprietary","Yes"
-"Christophe Saout","2004-03-11[13]","GPL","Yes"
-"Clemens Fruhwirth (LUKS)","2005-02-05[14]","GPL","Yes"
-"SecurStar GmbH","2001","Proprietary","Yes[15]"
-"DriveSentry","2008","Proprietary","No"
-"Paul Le Roux","1998-12-18[16]","Open source","No"
-"EISST Ltd.","2005","Proprietary","Yes"
-"Dustin Kirkland, Tyler Hicks, (formerly Mike Halcrow)","2005[17]","GPL","Yes"
-"EgoSecure GmbH","2006","Proprietary","Yes"
-"Valient Gough","2003[18]","LGPLv3","Yes"
-"ENC Security Systems","2009","Proprietary","Yes"
-"ClevX","2016","Proprietary","Yes"
-"Apple Inc.","2003-10-24","Proprietary","Yes"
-"Apple Inc.","2011-07-20","Proprietary","Yes"
-"CE-Infosys","2002","Proprietary","Yes"
-"Sarah Dean","2004-10-10[19]","Open source","No"
-"Poul-Henning Kamp","2002-10-19[20]","BSD","No"
-"Pawel Jakub Dawidek","2005-04-11[21]","BSD","Yes"
-"Werner Koch","1999-09-07[22]","GPL","Yes"
-"Jakob Unterwurzacher","2015-10-07[23]","MIT / X Consortium License","Yes"
-"AgileBits","2010","Proprietary","Yes"
-"The MorphOS Development Team","2010","Proprietary","Yes"
-"tdk","2014-06-19[24]","Open source","No"
-"Jari Ruusu","2001-04-11","GPL","Yes"
-"McAfee, LLC","2007[25]","Proprietary","Yes"
-"n-Trance Security Ltd","2005","Proprietary","Yes"
-"NetLib Security","1987","Proprietary","Yes"
-"Hidden Solutions","2018","Proprietary","Yes"
-"PGP Corporation (acquired by Symantec in 2010)","1998-09-01[26]","Proprietary","Yes"
-"Dekart","1993[27]","Proprietary","Yes"
-"v77","2013","Open source","Yes"
-"R-Tools Technology Inc","2008","Proprietary","Yes"
-"Sophos (Utimaco)","1993[28]","Proprietary","Yes"
-"Sophos (Utimaco)","2007[29]","Proprietary","Yes"
-"Sophos (Utimaco)[30]","2000","Proprietary","Yes"
-"PC Dynamics, Inc.","1992","Proprietary","Yes"
-"Shaun Hollingworth","1997-07-01","Open source","No"
-"Hans-Ulrich Juettner","2005-08-06[31]","GPL","No"
-"Aiko Solutions","2007-02-19","Proprietary","Yes"
-"SECUDE","2003","Proprietary","Yes"
-"WinMagic Inc.","1997","Proprietary","Yes"
-"Quick Heal Technologies Ltd.","2017","Proprietary","Yes"
-"SoftWinter","1998[32]","Proprietary","No"
-"OpenBSD","2007-11-01[33]","BSD","Yes"
-"Information Security Corp.","2002","Proprietary","Yes"
-"OpenBSD","2000-12-01[34]","BSD","Yes"
-"Symantec Corporation","2008","Proprietary","Yes"
-"Alex Hornung","2012-01-28[35]","BSD","Yes"
-"Trend Micro[36]","2004 or earlier[37]","Proprietary","Yes"
-"TrueCrypt Foundation","2004-02-02[38]","TrueCrypt License 3.1[39]","No"
-"WinAbility Software Corp.","2010","Proprietary","Yes"
-"IDRIX","2013-06-22[40]","Apache License 2.0[41] TrueCrypt License Version 3.0 (legacy code only)","Yes"
-"CyberSoft","2013","Proprietary","Yes"
-"null","null","null","null"
+"Name","Windows NT , URL: /wiki/Windows_NT
+","Windows Mobile , URL: /wiki/Windows_Mobile
+Pocket PC , URL: /wiki/Pocket_PC
+","FreeBSD , URL: /wiki/FreeBSD
+","Linux , URL: /wiki/Linux
+","Mac OS X , URL: /wiki/Mac_OS_X
+","NetBSD , URL: /wiki/NetBSD
+","OpenBSD , URL: /wiki/OpenBSD
+","DragonFly BSD , URL: /wiki/DragonFly_BSD
+","Android , URL: /wiki/Android_(operating_system)
+","iOS , URL: /wiki/IOS
+"
+"Aloaha Crypt Disk","Yes","No","No","No","No","No","No","No","?","?"
+"BestCrypt , URL: /wiki/BestCrypt
+","Yes","No","No","No[42]","Yes","No","No","No","?","?"
+"BitArmor DataControl","Yes","No","No","No","No","No","No","No","?","?"
+"BitLocker , URL: /wiki/BitLocker
+","Yes","No","No","Partial[43]","Partial[43]","No","No","No","No","?"
+"Bloombase StoreSafe","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","?","?"
+"Boxcryptor","Yes","No","No","Yes","Yes","No","No","No","Yes","Yes"
+"CenterTools DriveLock","Yes","No","No","No","No","No","No","No","?","?"
+"CGD","No","No","No","No","No","Yes","No","No","?","?"
+"Check Point Full Disk Encryption","Yes","Yes","No","Yes[44]","Yes","No","No","No","?","?"
+"CipherShed , URL: /wiki/CipherShed
+","Yes","No","No[45]","Yes","Yes","No","No","No","Yes[46]","?"
+"CrossCrypt , URL: /wiki/CrossCrypt
+","Yes[47]","No","No","No","No","No","No","No","No","?"
+"CryFS","Yes","No","Yes","Yes","Yes","Yes","No","Yes","No","?"
+"Cryhod","Yes","No","No","Yes","No","No","No","No","?","?"
+"Cryptainer","Yes","Yes[48]","No","No","No","No","No","No","?","?"
+"CryptArchiver","Yes","No","No","No","No","No","No","No","?","?"
+"Cryptic Disk","Yes","No","No","No","No","No","No","No","No","No"
+"Cryptoloop , URL: /wiki/Cryptoloop
+","Yes[49]","No","No","Yes","No","No","No","No","?","?"
+"Cryptomator , URL: http://www.Cryptomator.org
+","Yes[50]","No","No","Yes","Yes","No","No","No","Yes","Yes"
+"CryptoPro Secure Disk Enterprise","Yes","No","No","No","No","No","No","No","No","?"
+"CryptoPro Secure Disk for BitLocker","Yes","No","No","No","No","No","No","No","No","?"
+"Cryptsetup , URL: /wiki/Cryptsetup
+Dmsetup , URL: /wiki/Dmsetup
+","Yes[49]","No","No","Yes","No","No","No","Yes","?","?"
+"CryptSync","Yes","No","No","Yes","Yes","No","No","No","No","?"
+"Discryptor","No","No","No","No","No","No","No","No","?","?"
+"DiskCryptor , URL: /wiki/DiskCryptor
+","Yes","No","No","No","No","No","No","No","?","?"
+"DISK Protect","Yes","No","No","No","No","No","No","No","?","?"
+"Dm-crypt , URL: /wiki/Dm-crypt
+LUKS , URL: /wiki/LUKS
+","Yes[49]","Yes[51]","No","Yes","No","No","No","Yes","?","?"
+"DriveCrypt , URL: https://www.securstar.com/en/drivecrypt.html
+","Yes","No","No","No","No","No","No","No","?","?"
+"DriveSentry , URL: /wiki/DriveSentry
+","Yes","No","No","No","No","No","No","No","?","?"
+"E4M , URL: /wiki/E4M
+","Yes","No","No","No","No","No","No","No","?","?"
+"e-Capsule Private Safe","Yes","No","No","No","No","No","No","No","?","?"
+"eCryptfs , URL: /wiki/ECryptfs
+","No","No","No","Yes","No","No","No","No","?","?"
+"EgoSecure HDD Encryption","Yes","No","No","No","No","No","No","No","?","?"
+"EncFS , URL: /wiki/EncFS
+","Yes[52]","Yes[53]","FUSE , URL: /wiki/Filesystem_in_Userspace
+","Yes (FUSE)","Yes[52]","Yes (FUSE)","Yes (FUSE)","Yes (FUSE)","Yes[53]","?"
+"EncryptStick","Yes","No","No","Yes","Yes","No","No","No","?","?"
+"EncryptUSB","Yes","No","No","No","Yes","No","No","No","?","?"
+"FileVault , URL: /wiki/FileVault
+","No","No","No","No","Yes","No","No","No","?","?"
+"FileVault 2 , URL: /wiki/FileVault
+","No","No","No","Partial[54]","Yes","No","No","No","?","?"
+"FREE CompuSec","Yes","No","No","No","No","No","No","No","?","?"
+"FreeOTFE , URL: /wiki/FreeOTFE
+","Yes","Yes","No","Partial[55]","No","No","No","No","No","?"
+"GBDE , URL: /wiki/GBDE
+","No","No","Yes","No","No","No","No","No","?","?"
+"GELI , URL: /wiki/Geli_(software)
+","No","No","Yes","No","No","No","No","No","?","?"
+"Knox","No","No","No","No","Yes","No","No","No","?","?"
+"LibreCrypt","Yes","No","No","Partial[56]","No","No","No","No","Yes[57]","?"
+"Loop-AES","No","No","No","Yes","No","No","No","No","?","?"
+"McAfee Drive Encryption (SafeBoot)","Yes","Yes[58]","No","No","Yes","No","No","No","?","?"
+"n-Crypt Pro","Yes","No","No","No","No","No","No","No","?","?"
+"NetLib Encryptionizer (directory encryption) , URL: https://netlibsecurity.com/
+","Yes","No","No","No","No","No","No","No","No","No"
+"PGPDisk , URL: /wiki/PGPDisk
+","Yes","No","No","No","Yes","No","No","No","?","?"
+"PGP Whole Disk Encryption , URL: /wiki/PGP_Whole_Disk_Encryption
+","Yes","Yes","No","Yes","Yes","No","No","No","?","?"
+"Private Disk , URL: /wiki/Private_Disk
+","Yes","No","No","No","No","No","No","No","?","?"
+"ProxyCrypt","Yes","No","No","No","No","No","No","No","No","?"
+"R-Crypto","Yes","No","No","No","No","No","No","No","?","?"
+"SafeGuard Easy","Yes","No","No","No","No","No","No","No","?","?"
+"SafeGuard Enterprise","Yes","No","No","No","Yes","No","No","No","?","?"
+"SafeGuard PrivateDisk","Yes","No","No","No","No","No","No","No","?","?"
+"SafeHouse Professional","Yes","No","No","No","No","No","No","No","?","?"
+"Scramdisk , URL: /wiki/Scramdisk
+","Yes","No","No","Yes","No","No","No","No","?","?"
+"Scramdisk , URL: /wiki/Scramdisk
+","No","No","No","Yes","No","No","No","No","?","?"
+"SecuBox","No","Yes","No","No","No","No","No","No","?","?"
+"SecureDoc","Yes","No","No","Yes","Yes","No","No","No","?","?"
+"Sentry 2020 , URL: /wiki/Sentry_2020
+","Yes","No","No","No","No","No","No","No","?","?"
+"Seqrite , URL: /wiki/Seqrite
+","Yes","No","No","No","No","No","No","No","No","No"
+"Softraid / RAID C","No","No","No","No","No","No","Yes","No","?","?"
+"SpyProof!","Yes","No","No","No","No","No","No","No","?","?"
+"Svnd / Vnconfig","No","No","No","No","No","No","Yes","No","?","?"
+"Symantec , URL: /wiki/NortonLifeLock
+","Yes","No","No","No[59]","Yes","No","No","No","?","?"
+"Tcplay","No","No","No","Yes","No","No","No","Yes","No","?"
+"Trend Micro , URL: /wiki/Trend_Micro
+","Yes","No","No","No","Yes","No","No","No","No","?"
+"TrueCrypt , URL: /wiki/TrueCrypt
+","Yes","No","No[60]","Yes","Yes","No","No","No","Yes[46]","Yes"
+"USBCrypt","Yes","No","No","No","No","No","No","No","No","?"
+"VeraCrypt , URL: /wiki/VeraCrypt
+","Yes","No","Yes","Yes","Yes","No","No","No","Yes[61]","Yes[62]"
+"CyberSafe Top Secret","Yes","No","No","No","No","No","No","No","Yes","?"
+"Name","Windows NT , URL: /wiki/Windows_NT
+","Windows Mobile , URL: /wiki/Windows_Mobile
+Pocket PC , URL: /wiki/Pocket_PC
+","FreeBSD , URL: /wiki/FreeBSD
+","Linux , URL: /wiki/Linux
+","Mac OS X , URL: /wiki/Mac_OS_X
+","NetBSD , URL: /wiki/NetBSD
+","OpenBSD , URL: /wiki/OpenBSD
+","DragonFly BSD , URL: /wiki/DragonFly_BSD
+","Android , URL: /wiki/Android_(operating_system)
+","iOS , URL: /wiki/IOS
+"

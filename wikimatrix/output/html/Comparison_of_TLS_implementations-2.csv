@@ -1,0 +1,34 @@
+"Implementation","TLS 1.2 , URL: /wiki/Transport_Layer_Security
+Suite B , URL: /wiki/NSA_Suite_B_Cryptography
+"
+"Botan , URL: /wiki/Botan_(programming_library)
+","Yes"
+"Bouncy Castle , URL: /wiki/Bouncy_Castle_(cryptography)
+","Yes"
+"BSAFE , URL: /wiki/BSAFE
+","Yes[37]"
+"cryptlib , URL: /wiki/Cryptlib
+","Yes"
+"GnuTLS , URL: /wiki/GnuTLS
+","Yes"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","Yes[66]"
+"LibreSSL , URL: /wiki/LibreSSL
+","Yes"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","Yes"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","Yes"
+"NSS , URL: /wiki/Network_Security_Services
+","No[67]"
+"OpenSSL , URL: /wiki/OpenSSL
+","Yes[55]"
+"S2n , URL: /wiki/S2n
+",""
+"SChannel , URL: /wiki/SChannel
+","Yes[68]"
+"Secure Transport , URL: /wiki/MacOS
+","No"
+"wolfSSL , URL: /wiki/WolfSSL
+","Yes"
+"Implementation","TLS 1.2 Suite B"

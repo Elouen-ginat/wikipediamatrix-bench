@@ -1,0 +1,996 @@
+"Program","Operating systems , URL: /wiki/Operating_system
+","License , URL: /wiki/Software_license
+","Costs","Protocols , URL: /wiki/Communications_protocol
+","Codecs , URL: /wiki/Codec
+","Encryption , URL: /wiki/Encryption
+","Max conference peers","Other abilities","Latest release","Latest release"
+"AudioCodes , URL: /wiki/AudioCodes
+","Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+","Proprietary , URL: /wiki/Proprietary_software
+","?","SIP , URL: /wiki/Session_Initiation_Protocol
+RTP , URL: /wiki/Real-time_Transport_Protocol
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+STUN , URL: /wiki/STUN
+ICE , URL: /wiki/Interactive_Connectivity_Establishment
+","G.722 , URL: /wiki/G.722
+G.711a , URL: /wiki/G.711
+G.711u , URL: /wiki/G.711
+iLBC , URL: /wiki/ILBC
+G.729a , URL: /wiki/G.729a
+SILK , URL: /wiki/SILK
+GSM , URL: /wiki/GSM
+H.264 , URL: /wiki/H.264
+Opus , URL: /wiki/Opus_(audio_codec)
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","Unknown","Voice, video, IM, Group chat, content sharing, SMS and MMS over IP services, native and social network contacts integration, incoming call/IM push notifications.","2014; 8 years ago (2014)","2014; 8 years ago (2014)"
+"Avaya Application Server 5300 , URL: /wiki/Avaya_Application_Server_5300
+","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","?","SIP , URL: /wiki/Session_Initiation_Protocol
+RTP , URL: /wiki/Real-time_Transport_Protocol
+","Unknown","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","Unknown","","2.0; 2010; 12 years ago (2010)","2.0; 2010; 12 years ago (2010)"
+"Blink , URL: /wiki/Blink_(SIP_client)
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","Mixed: free software versions under GNU GPLv3 + shareware versions under gplv3 with exception of including proprietary code","macOS version proprietary on App Store, free version limited to sponsored SIP provider; Windows version proprietary; Linux version open source","ICE , URL: /wiki/Interactive_Connectivity_Establishment
+SIP , URL: /wiki/Session_Initiation_Protocol
+MSRP , URL: /wiki/Message_Session_Relay_Protocol
+RFB (VNC) , URL: /wiki/RFB_protocol
+XCAP , URL: /wiki/XCAP
+","Opus , URL: /wiki/Opus_(audio_codec)
+speex , URL: /wiki/Speex
+G.722 , URL: /wiki/G.722
+GSM , URL: /wiki/GSM
+iLBC , URL: /wiki/ILBC
+PCMU , URL: /wiki/PCMU
+PCMA , URL: /wiki/A-law_algorithm
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+ZRTP , URL: /wiki/ZRTP
+OTR/SMP , URL: /wiki/Off-the-Record_Messaging
+","No limit","IM, file transfer, desktop sharing, multi-party conference, wideband","Blink Qt","Blink Qt"
+"CSipSimple , URL: /wiki/CSipSimple
+","Android , URL: /wiki/Android_(operating_system)
+","GPL , URL: /wiki/GNU_General_Public_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+ICE , URL: /wiki/Interactive_Connectivity_Establishment
+STUN , URL: /wiki/STUN
+TURN , URL: /wiki/Traversal_Using_Relays_around_NAT
+","Opus , URL: /wiki/Opus_(audio_format)
+AMR , URL: /wiki/Adaptive_Multi-Rate_audio_codec
+G.711 , URL: /wiki/G.711
+u-law , URL: /wiki/U-law
+a-law , URL: /wiki/A-law
+speex , URL: /wiki/Speex
+G.722 , URL: /wiki/G.722
+GSM , URL: /wiki/GSM
+iLBC , URL: /wiki/ILBC
+G.729 , URL: /wiki/G.729
+iSAC , URL: /wiki/Internet_Speech_Audio_Codec
+SILK , URL: /wiki/SILK
+","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+TLS , URL: /wiki/Transport_Layer_Security
+ZRTP , URL: /wiki/ZRTP
+","Unknown","SIMPLE , URL: /wiki/SIMPLE_(instant_messaging_protocol)
+IPv6 , URL: /wiki/IPv6
+","1.0.2; November 2014; 7 years ago (2014-11)","1.0.2; November 2014; 7 years ago (2014-11)"
+"Cisco IP Communicator , URL: /wiki/Cisco_IP_Communicator
+","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","Free (for Cisco SMB Partners only)","SCCP , URL: /wiki/Skinny_Client_Control_Protocol
+Skinny , URL: /wiki/Skinny_Client_Control_Protocol
+SIP , URL: /wiki/Session_Initiation_Protocol
+TFTP , URL: /wiki/Trivial_File_Transfer_Protocol
+HTTP , URL: /wiki/Hypertext_Transfer_Protocol
+","G.722 , URL: /wiki/G.722
+G.711a , URL: /wiki/G.711
+G.711u , URL: /wiki/G.711
+iLBC , URL: /wiki/ILBC
+iSAC , URL: /wiki/Internet_Speech_Audio_Codec
+G.729a , URL: /wiki/G.729a
+G.729ab , URL: /wiki/G.729
+","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","No limit (with bridge), 2 otherwise[4]","Call Recording, Silent Monitoring, Multiple lines and directory numbers, Configurable speed dial, Calling name and number display, Call Waiting, Call Forward, Call Transfer, Three-Way Calling (conference), Call Park, Call Pickup, Redial, Hold, Barge, Callback, Extension Mobility, Message waiting indicator, iDivert, Meet Me conferencing, Group Pickup, Do Not Disturb, XML Services","8.6.6; April 27, 2016; 5 years ago (2016-04-27)","8.6.6; April 27, 2016; 5 years ago (2016-04-27)"
+"Discord , URL: /wiki/Discord_(software)
+","macOS , URL: /wiki/MacOS
+Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+Windows , URL: /wiki/Windows
+Linux , URL: /wiki/Linux
+","Proprietary , URL: /wiki/Proprietary_software
+","Free, Premium "Nitro" Subscription for Additional Features.","RTP , URL: /wiki/Real-time_Transport_Protocol
+UDP , URL: /wiki/User_Datagram_Protocol
+WS , URL: /wiki/WebSocket
+HTTPS , URL: /wiki/HTTPS
+","Opus , URL: /wiki/Opus_(audio_codec)
+","TLS , URL: /wiki/Transport_Layer_Security
+","5000 soft limit for voice calls,[5] 25 hard limit for video[6]","IM, file sharing, in-game overlay","59746; April 24, 2020; 22 months ago (2020-04-24)","59746; April 24, 2020; 22 months ago (2020-04-24)"
+"Ekiga , URL: /wiki/Ekiga
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+H.323 , URL: /wiki/H.323
+STUN , URL: /wiki/STUN
+Zeroconf , URL: /wiki/Zeroconf
+","H.263 , URL: /wiki/H.263
+H.264/MPEG-4 AVC , URL: /wiki/H.264/MPEG-4_AVC
+Theora , URL: /wiki/Theora
+iLBC , URL: /wiki/ILBC
+GSM , URL: /wiki/GSM
+","No","Unknown","Video, IM, LDAP, Call Forwarding, Call Transfer, Auto-answering, PC to phone, phone to PC, Multiple accounts, USP support, Message waiting indicator, SIMPLE-based presence etc.","4.0.1 (February 21, 2013; 9 years ago (2013-02-21)) [±][7]","4.0.1 (February 21, 2013; 9 years ago (2013-02-21)) [±][7]"
+"Empathy , URL: /wiki/Empathy_(software)
+","Linux , URL: /wiki/Linux
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+Jingle , URL: /wiki/Jingle_(protocol)
+ICE , URL: /wiki/Interactive_Connectivity_Establishment
+STUN , URL: /wiki/STUN
+TURN , URL: /wiki/Traversal_Using_Relays_around_NAT
+Zeroconf , URL: /wiki/Zeroconf
+","Unknown","No","Unknown","IM, multi-user A/V,[8] collaborative applications","3.12.12[9] (May 13, 2016; 5 years ago (2016-05-13)) [±]","3.12.12[9] (May 13, 2016; 5 years ago (2016-05-13)) [±]"
+"Eyeball Chat , URL: /wiki/Eyeball_Chat
+","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+STUN , URL: /wiki/STUN
+ICE , URL: /wiki/Interactive_Connectivity_Establishment
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+","Unknown","Yes","5[10]","SIMPLE , URL: /wiki/SIMPLE_(instant_messaging_protocol)
+","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+"
+"eyeBeam , URL: /w/index.php?title=EyeBeam_(software)&action=edit&redlink=1
+","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","?","SIP , URL: /wiki/Session_Initiation_Protocol
+SIMPLE , URL: /wiki/SIMPLE_(instant_messaging_protocol)
+","Unknown","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","6 party audio; 3 party video","Voice and Video calling; IM; Import Microsoft Outlook Contacts; USB Support; Call Recording and Conferencing","1.5.20.1; March 2010; 12 years ago (2010-03)","1.5.20.1; March 2010; 12 years ago (2010-03)"
+"FaceTime , URL: /wiki/FaceTime
+","iOS , URL: /wiki/IOS
+macOS , URL: /wiki/MacOS
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+IETF , URL: /wiki/IETF
+STUN , URL: /wiki/STUN
+TURN , URL: /wiki/TURN
+ICE , URL: /wiki/Interactive_Connectivity_Establishment
+IETF , URL: /wiki/IETF
+NAT , URL: /wiki/Network_address_translation
+","H.264 , URL: /wiki/H.264
+AAC-ELD , URL: /wiki/AAC-LD
+H.263 , URL: /wiki/H.263
+VP8 , URL: /wiki/VP8
+","RTP , URL: /wiki/Real-time_Transport_Protocol
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+IETF , URL: /wiki/IETF
+","20","Video, voice, conferencing, with additional tools available as "Services".","",""
+"Google Hangouts , URL: /wiki/Google_Hangouts
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+","Proprietary , URL: /wiki/Proprietary_software
+libjingle , URL: /wiki/Jingle_(protocol)
+","Free","XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+","H.264/AVC , URL: /wiki/H.264/AVC
+H.263 , URL: /wiki/H.263
+VP8 , URL: /wiki/VP8
+","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","10","Video, chat, screen sharing, with additional tools available as "Hangout Apps".","Google Chrome Web Store extension 2020.803.419.1 (August 12, 2020; 18 months ago (2020-08-12)) [±] [11]","Google Chrome Web Store extension 2020.803.419.1 (August 12, 2020; 18 months ago (2020-08-12)) [±] [11]"
+"IBM Sametime , URL: /wiki/IBM_Lotus_Sametime
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","?","SIP , URL: /wiki/Session_Initiation_Protocol
+SIMPLE , URL: /wiki/SIMPLE_(instant_messaging_protocol)
+T.120 , URL: /wiki/T.120
+","H.323 , URL: /wiki/H.323
+","TLS , URL: /wiki/Transport_Layer_Security
+","Unknown","Lotus Notes , URL: /wiki/Lotus_Notes
+","8.5.2; May 8, 2011; 10 years ago (2011-05-08)","8.5.2; May 8, 2011; 10 years ago (2011-05-08)"
+"Jami , URL: /wiki/Jami_(software)
+Savoir-faire Linux , URL: /wiki/Savoir-faire_Linux
+","Android , URL: /wiki/Android_(Operating_System)
+FreeBSD , URL: /wiki/FreeBSD
+iOS , URL: /wiki/IOS
+iPhone , URL: /wiki/IPhone
+Linux , URL: /wiki/Linux
+Microsoft Windows , URL: /wiki/Microsoft_Windows
+OS X , URL: /wiki/OS_X
+","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+RTP , URL: /wiki/Real-time_Transport_Protocol
+STUN , URL: /wiki/STUN
+SRV , URL: /wiki/SRV_record
+DHT , URL: /wiki/Distributed_hash_table
+P2P , URL: /wiki/Peer-to-peer
+","Opus , URL: /wiki/Opus_(audio_codec)
+Speex , URL: /wiki/Speex
+G.722 , URL: /wiki/G.722
+G.711 , URL: /wiki/G.711
+GSM , URL: /wiki/GSM
+VP8 , URL: /wiki/VP8
+G.729 , URL: /wiki/G.729
+iLBC , URL: /wiki/ILBC
+H.264 , URL: /wiki/H.264
+H.263 , URL: /wiki/H.263
+VP8 , URL: /wiki/VP8
+MPEG-4 , URL: /wiki/MPEG-4
+","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+SDES , URL: /wiki/SDES
+ZRTP , URL: /wiki/ZRTP
+TLS , URL: /wiki/Transport_Layer_Security
+","No limit","Blockchain , URL: /wiki/Blockchain
+","iOS","3.28 / December 17, 2021; 2 months ago (2021-12-17)[14]"
+"Jami , URL: /wiki/Jami_(software)
+Savoir-faire Linux , URL: /wiki/Savoir-faire_Linux
+","Android , URL: /wiki/Android_(Operating_System)
+FreeBSD , URL: /wiki/FreeBSD
+iOS , URL: /wiki/IOS
+iPhone , URL: /wiki/IPhone
+Linux , URL: /wiki/Linux
+Microsoft Windows , URL: /wiki/Microsoft_Windows
+OS X , URL: /wiki/OS_X
+","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+RTP , URL: /wiki/Real-time_Transport_Protocol
+STUN , URL: /wiki/STUN
+SRV , URL: /wiki/SRV_record
+DHT , URL: /wiki/Distributed_hash_table
+P2P , URL: /wiki/Peer-to-peer
+","Opus , URL: /wiki/Opus_(audio_codec)
+Speex , URL: /wiki/Speex
+G.722 , URL: /wiki/G.722
+G.711 , URL: /wiki/G.711
+GSM , URL: /wiki/GSM
+VP8 , URL: /wiki/VP8
+G.729 , URL: /wiki/G.729
+iLBC , URL: /wiki/ILBC
+H.264 , URL: /wiki/H.264
+H.263 , URL: /wiki/H.263
+VP8 , URL: /wiki/VP8
+MPEG-4 , URL: /wiki/MPEG-4
+","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+SDES , URL: /wiki/SDES
+ZRTP , URL: /wiki/ZRTP
+TLS , URL: /wiki/Transport_Layer_Security
+","No limit","Blockchain , URL: /wiki/Blockchain
+","Android","20211210-01 / December 21, 2021; 2 months ago (2021-12-21)[15]"
+"Jami , URL: /wiki/Jami_(software)
+Savoir-faire Linux , URL: /wiki/Savoir-faire_Linux
+","Android , URL: /wiki/Android_(Operating_System)
+FreeBSD , URL: /wiki/FreeBSD
+iOS , URL: /wiki/IOS
+iPhone , URL: /wiki/IPhone
+Linux , URL: /wiki/Linux
+Microsoft Windows , URL: /wiki/Microsoft_Windows
+OS X , URL: /wiki/OS_X
+","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+RTP , URL: /wiki/Real-time_Transport_Protocol
+STUN , URL: /wiki/STUN
+SRV , URL: /wiki/SRV_record
+DHT , URL: /wiki/Distributed_hash_table
+P2P , URL: /wiki/Peer-to-peer
+","Opus , URL: /wiki/Opus_(audio_codec)
+Speex , URL: /wiki/Speex
+G.722 , URL: /wiki/G.722
+G.711 , URL: /wiki/G.711
+GSM , URL: /wiki/GSM
+VP8 , URL: /wiki/VP8
+G.729 , URL: /wiki/G.729
+iLBC , URL: /wiki/ILBC
+H.264 , URL: /wiki/H.264
+H.263 , URL: /wiki/H.263
+VP8 , URL: /wiki/VP8
+MPEG-4 , URL: /wiki/MPEG-4
+","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+SDES , URL: /wiki/SDES
+ZRTP , URL: /wiki/ZRTP
+TLS , URL: /wiki/Transport_Layer_Security
+","No limit","Blockchain , URL: /wiki/Blockchain
+","Windows","202112221025 / December 22, 2021; 2 months ago (2021-12-22) [16]"
+"Jami , URL: /wiki/Jami_(software)
+Savoir-faire Linux , URL: /wiki/Savoir-faire_Linux
+","Android , URL: /wiki/Android_(Operating_System)
+FreeBSD , URL: /wiki/FreeBSD
+iOS , URL: /wiki/IOS
+iPhone , URL: /wiki/IPhone
+Linux , URL: /wiki/Linux
+Microsoft Windows , URL: /wiki/Microsoft_Windows
+OS X , URL: /wiki/OS_X
+","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+RTP , URL: /wiki/Real-time_Transport_Protocol
+STUN , URL: /wiki/STUN
+SRV , URL: /wiki/SRV_record
+DHT , URL: /wiki/Distributed_hash_table
+P2P , URL: /wiki/Peer-to-peer
+","Opus , URL: /wiki/Opus_(audio_codec)
+Speex , URL: /wiki/Speex
+G.722 , URL: /wiki/G.722
+G.711 , URL: /wiki/G.711
+GSM , URL: /wiki/GSM
+VP8 , URL: /wiki/VP8
+G.729 , URL: /wiki/G.729
+iLBC , URL: /wiki/ILBC
+H.264 , URL: /wiki/H.264
+H.263 , URL: /wiki/H.263
+VP8 , URL: /wiki/VP8
+MPEG-4 , URL: /wiki/MPEG-4
+","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+SDES , URL: /wiki/SDES
+ZRTP , URL: /wiki/ZRTP
+TLS , URL: /wiki/Transport_Layer_Security
+","No limit","Blockchain , URL: /wiki/Blockchain
+","macOS","2.10 / December 16, 2021; 2 months ago (2021-12-16)[17]"
+"Jitsi , URL: /wiki/Jitsi
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+","Apache-2.0 , URL: /wiki/Apache_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+SIMPLE , URL: /wiki/SIMPLE_(instant_messaging_protocol)
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+Jingle , URL: /wiki/Jingle_(protocol)
+STUN , URL: /wiki/STUN
+ICE , URL: /wiki/Interactive_Connectivity_Establishment
+TURN , URL: /wiki/Traversal_Using_Relays_around_NAT
+","SILK , URL: /wiki/SILK
+G.722 , URL: /wiki/G.722
+Speex , URL: /wiki/Speex
+Opus , URL: /wiki/Opus_(audio_codec)
+G.711 , URL: /wiki/G.711
+iLBC , URL: /wiki/ILBC
+GSM , URL: /wiki/GSM
+G.729 , URL: /wiki/G.729
+H.264 , URL: /wiki/H.264
+H.263 , URL: /wiki/H.263
+VP8 , URL: /wiki/VP8
+","ZRTP , URL: /wiki/ZRTP
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+OTR , URL: /wiki/Off-the-Record_Messaging
+TLS , URL: /wiki/Transport_Layer_Security
+","Unknown","Text messaging, audio-video telephony, IPv6 (often broken,[19] P2P not supported[20]), call recording, 64-bit","2.10 (build.5550) (February 5, 2017; 5 years ago (2017-02-05)) [±]","2.10 (build.5550) (February 5, 2017; 5 years ago (2017-02-05)) [±]"
+"KPhone","Linux , URL: /wiki/Linux
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+STUN , URL: /wiki/STUN
+NAPTR , URL: /wiki/NAPTR_record
+SRV , URL: /wiki/SRV_record
+","Unknown","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","Unknown","Video, voice, IM, external Sessions, IPv6 support for UDP","1.2 (November 2008)","1.2 (November 2008)"
+"Librestream , URL: /wiki/Librestream
+","Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+","Proprietary , URL: /wiki/Proprietary_software
+","?","SIP , URL: /wiki/Session_Initiation_Protocol
+RTP , URL: /wiki/Real-time_Transport_Protocol
+STUN , URL: /wiki/STUN
+","G.711 , URL: /wiki/G.711
+H.264 , URL: /wiki/H.264
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","Unknown","Voice, video, conferencing, image sharing, incoming call/IM push notifications.","February 27, 2018; 4 years ago (2018-02-27)","February 27, 2018; 4 years ago (2018-02-27)"
+"Linphone , URL: /wiki/Linphone
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+Android , URL: /wiki/Android_(operating_system)
+iPhone , URL: /wiki/IPhone
+BlackBerry , URL: /wiki/BlackBerry
+","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+","Speex , URL: /wiki/Speex
+Opus , URL: /wiki/Opus_(audio_format)
+G711 , URL: /wiki/G711
+GSM , URL: /wiki/GSM
+G.722 , URL: /wiki/G.722
+VP8 , URL: /wiki/VP8
+H263 , URL: /wiki/H263
+MPEG4 , URL: /wiki/MPEG4
+Theora , URL: /wiki/Theora
+H264 , URL: /wiki/H264
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+ZRTP , URL: /wiki/ZRTP
+","Unknown","https://gitlab.linphone.org/BC/public/linphone-desktop , URL: https://gitlab.linphone.org/BC/public/linphone-desktop
+","http://www.linphone.org/snapshots , URL: http://www.linphone.org/snapshots
+","http://www.linphone.org/snapshots , URL: http://www.linphone.org/snapshots
+"
+"Messages , URL: /wiki/Messages_(Apple)
+","macOS , URL: /wiki/MacOS
+","Proprietary , URL: /wiki/Proprietary_software
+","macOS , URL: /wiki/MacOS
+iOS , URL: /wiki/IOS
+","SIP , URL: /wiki/Session_Initiation_Protocol
+AIM , URL: /wiki/AOL_Instant_Messenger
+ICQ , URL: /wiki/ICQ
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+","H263 , URL: /wiki/H263
+H264 , URL: /wiki/H264
+","Unknown","Unknown","Integrated, PBX independent","7.0; July 25, 2012; 9 years ago (2012-07-25)","7.0; July 25, 2012; 9 years ago (2012-07-25)"
+"MicroSIP , URL: /wiki/MicroSIP
+","Windows , URL: /wiki/Microsoft_Windows
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+STUN , URL: /wiki/STUN
+ICE , URL: /wiki/Interactive_Connectivity_Establishment
+SIMPLE , URL: /wiki/SIMPLE_(instant_messaging_protocol)
+","Speex , URL: /wiki/Speex
+iLBC , URL: /wiki/ILBC
+GSM , URL: /wiki/GSM
+G.711 , URL: /wiki/G.711
+G.722 , URL: /wiki/G.722
+G.729 , URL: /wiki/G.729
+SILK , URL: /wiki/SILK
+Linear PCM , URL: /wiki/Linear_PCM
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","Unknown","Video, voice, IM and Presence","3.20.7 (25 August 2021; 6 months ago (2021-08-25)) [±][21]","3.20.7 (25 August 2021; 6 months ago (2021-08-25)) [±][21]"
+"Mirial s.u.r.l. , URL: /wiki/Mirial_s.u.r.l.
+","Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+","Proprietary , URL: /wiki/Proprietary_software
+","not free","SIP , URL: /wiki/Session_Initiation_Protocol
+RTSP , URL: /wiki/Real_Time_Streaming_Protocol
+","H.323 , URL: /wiki/H.323
+","DTLS-SRTP , URL: /wiki/Datagram_Transport_Layer_Security
+","Unknown","H.264 Full-HD 1080p video rx/tx, Two independent lines supporting Call Control and 3-Party videoconference in Continuous Presence, G.722.1/C wideband audio, Call recording/export, DV/HDMI/Component capture, Presentation (H.239, RFC-4796), Encryption, Far End Camera Control, GPU accel (D3D and OpenGL)","7.0.24; May 26, 2010; 11 years ago (2010-05-26), discontinued","7.0.24; May 26, 2010; 11 years ago (2010-05-26), discontinued"
+"Movim , URL: /wiki/Movim
+","Progressive web application , URL: /wiki/Progressive_web_application
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Free","XMPP , URL: /wiki/XMPP
+STUN , URL: /wiki/STUN
+TURN , URL: /wiki/TURN
+","Depending the web-browser","TLS , URL: /wiki/Transport_Layer_Security
+","2","IM, microblogging, social-network, OMEMO encryption, screen-sharing, file transfer","2022-02-19","2022-02-19"
+"Mumble , URL: /wiki/Mumble_(software)
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+iOS , URL: /wiki/IOS
+Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+","New BSD license , URL: /wiki/New_BSD_license
+","Free","ICE , URL: /wiki/Interactive_Connectivity_Establishment
+","CELT , URL: /wiki/CELT
+Speex , URL: /wiki/Speex
+Opus , URL: /wiki/Opus_(audio_codec)
+","TLS , URL: /wiki/Transport_Layer_Security
+OCB-AES128 , URL: /wiki/OCB_mode
+","No limit (limited only by server bandwidth and memory)","Automatic Gain Control , URL: /wiki/Automatic_Gain_Control
+latency , URL: /wiki/Latency_(audio)
+Access Control Lists , URL: /wiki/Access_Control_Lists
+","1.4.230; January 16, 2022; 53 days ago (2022-01-16)","1.4.230; January 16, 2022; 53 days ago (2022-01-16)"
+"Nymgo , URL: /wiki/Nymgo
+","Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+RTP , URL: /wiki/Real-time_Transport_Protocol
+RTCP , URL: /wiki/RTP_Control_Protocol
+","Unknown","Yes","No limit","Address Book integration, Call recording/export, Mute, On Hold, Caller ID definition","4.2.9; March 2013; 9 years ago (2013-03)","4.2.9; March 2013; 9 years ago (2013-03)"
+"oovoo , URL: /wiki/Oovoo
+","macOS , URL: /wiki/MacOS
+iOS , URL: /wiki/IOS
+Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+RTP , URL: /wiki/Real-time_Transport_Protocol
+RTCP , URL: /wiki/RTP_Control_Protocol
+","Unknown","Yes","12","Address Book integration, Call recording/export, Mute, On Hold, Caller ID definition","4.2.9; March 2013; 9 years ago (2013-03)","4.2.9; March 2013; 9 years ago (2013-03)"
+"Phoner , URL: /wiki/Phoner
+","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+TAPI , URL: /wiki/Telephony_Application_Programming_Interface
+CAPI , URL: /wiki/Common_ISDN_Application_Programming_Interface
+","G.711a , URL: /wiki/G.711
+G.711u , URL: /wiki/G.711
+G.722 , URL: /wiki/G.722
+G.726 , URL: /wiki/G.726
+G.729 , URL: /wiki/G.729
+GSM , URL: /wiki/GSM
+iLBC , URL: /wiki/ILBC
+speex , URL: /wiki/Speex
+Opus , URL: /wiki/Opus_(audio_codec)
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+ZRTP , URL: /wiki/ZRTP
+","8","Conferencing, call redirection, call recording","3.23 (5 March 2021; 12 months ago (2021-03-05)) [±][22]","3.23 (5 March 2021; 12 months ago (2021-03-05)) [±][22]"
+"PhonerLite , URL: /wiki/PhonerLite
+","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+","G.711a , URL: /wiki/G.711
+G.711u , URL: /wiki/G.711
+G.722 , URL: /wiki/G.722
+G.726 , URL: /wiki/G.726
+G.729 , URL: /wiki/G.729
+GSM , URL: /wiki/GSM
+iLBC , URL: /wiki/ILBC
+speex , URL: /wiki/Speex
+Opus , URL: /wiki/Opus_(audio_codec)
+","TLS , URL: /wiki/Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+ZRTP , URL: /wiki/ZRTP
+","8","Conferencing, call redirection, call recording","3.00 (18 February 2022; 20 days ago (2022-02-18)) [±][23]","3.00 (18 February 2022; 20 days ago (2022-02-18)) [±][23]"
+"QuteCom , URL: /wiki/QuteCom
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","GPL , URL: /wiki/GNU_General_Public_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+","G.711 , URL: /wiki/G.711
+G.729 , URL: /wiki/G.729
+iLBC , URL: /wiki/ILBC
+AMR-NB , URL: /wiki/AMR-NB
+G.722 , URL: /wiki/G.722
+AMR-WB , URL: /wiki/AMR-WB
+G.722.2 , URL: /wiki/G.722.2
+H.263 , URL: /wiki/H.263
+H.263+ , URL: /wiki/H.263%2B
+H.264 , URL: /wiki/H.264
+Dirac , URL: /wiki/Dirac_(video_compression_format)
+","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","Unknown","IM , URL: /wiki/Instant_messaging
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+Google Talk , URL: /wiki/Google_Talk
+","2.2.1 (22 June 2011; 10 years ago (2011-06-22)[25]) [±]","2.2.1 (22 June 2011; 10 years ago (2011-06-22)[25]) [±]"
+"Roger Wilco GameSpy , URL: /wiki/Roger_Wilco_(software)
+","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","?","Proprietary","?","?","Unknown","?","2001; 21 years ago (2001)","2001; 21 years ago (2001)"
+"Signal , URL: /wiki/Signal_(software)
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+iPhone , URL: /wiki/IPhone
+","GPLv3 , URL: /wiki/GPLv3
+AGPLv3 , URL: /wiki/AGPLv3
+","Free","WebRTC , URL: /wiki/WebRTC
+Signal protocol , URL: /wiki/Signal_Protocol
+","Opus , URL: /wiki/Opus_(audio_format)
+","?","Unknown","Signal also allows users to send text messages, files, voice notes, pictures, GIFs, and video messages over a Wi-Fi or data connection to other Signal users on iOS, Android and a desktop app. The app also supports group messaging, read receipts and typing indicators, both of which can be disabled.","Android","
+URL: https://www.wikidata.org/wiki/Q19718090?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+"
+"Signal , URL: /wiki/Signal_(software)
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+iPhone , URL: /wiki/IPhone
+","GPLv3 , URL: /wiki/GPLv3
+AGPLv3 , URL: /wiki/AGPLv3
+","Free","WebRTC , URL: /wiki/WebRTC
+Signal protocol , URL: /wiki/Signal_Protocol
+","Opus , URL: /wiki/Opus_(audio_format)
+","?","Unknown","Signal also allows users to send text messages, files, voice notes, pictures, GIFs, and video messages over a Wi-Fi or data connection to other Signal users on iOS, Android and a desktop app. The app also supports group messaging, read receipts and typing indicators, both of which can be disabled.","iOS","
+URL: https://www.wikidata.org/wiki/Q19718090?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+"
+"Signal , URL: /wiki/Signal_(software)
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+iPhone , URL: /wiki/IPhone
+","GPLv3 , URL: /wiki/GPLv3
+AGPLv3 , URL: /wiki/AGPLv3
+","Free","WebRTC , URL: /wiki/WebRTC
+Signal protocol , URL: /wiki/Signal_Protocol
+","Opus , URL: /wiki/Opus_(audio_format)
+","?","Unknown","Signal also allows users to send text messages, files, voice notes, pictures, GIFs, and video messages over a Wi-Fi or data connection to other Signal users on iOS, Android and a desktop app. The app also supports group messaging, read receipts and typing indicators, both of which can be disabled.","Desktop","
+URL: https://www.wikidata.org/wiki/Q19718090?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+"
+"Skype , URL: /wiki/Skype
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Mobile , URL: /wiki/Windows_Mobile
+BREW , URL: /wiki/Binary_Runtime_Environment_for_Wireless
+Windows Phone , URL: /wiki/Windows_Phone
+Android , URL: /wiki/Android_(operating_system)
+iPhone , URL: /wiki/IPhone
+PSP , URL: /wiki/PlayStation_Portable
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","Proprietary P2P protocol [a]","SILK , URL: /wiki/SILK
+","TLS , URL: /wiki/Transport_Layer_Security
+","25 starting with version 3.6.0.216. 10 with 2.x","Conferencing, video, file transfer, voicemail, Skype to phone, phone to Skype, additional P2P extensions (games, whiteboard, etc...); depending on platform.","Windows , URL: /wiki/Windows
+UWP , URL: /wiki/Universal_Windows_Platform_apps
+","15.80.194.0 / 1 February 2022; 37 days ago (2022-02-01)[31]"
+"Skype , URL: /wiki/Skype
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Mobile , URL: /wiki/Windows_Mobile
+BREW , URL: /wiki/Binary_Runtime_Environment_for_Wireless
+Windows Phone , URL: /wiki/Windows_Phone
+Android , URL: /wiki/Android_(operating_system)
+iPhone , URL: /wiki/IPhone
+PSP , URL: /wiki/PlayStation_Portable
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","Proprietary P2P protocol [a]","SILK , URL: /wiki/SILK
+","TLS , URL: /wiki/Transport_Layer_Security
+","25 starting with version 3.6.0.216. 10 with 2.x","Conferencing, video, file transfer, voicemail, Skype to phone, phone to Skype, additional P2P extensions (games, whiteboard, etc...); depending on platform.","Windows , URL: /wiki/Windows
+","8.81.0.268 / 14 February 2022; 24 days ago (2022-02-14)[31]"
+"Skype , URL: /wiki/Skype
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Mobile , URL: /wiki/Windows_Mobile
+BREW , URL: /wiki/Binary_Runtime_Environment_for_Wireless
+Windows Phone , URL: /wiki/Windows_Phone
+Android , URL: /wiki/Android_(operating_system)
+iPhone , URL: /wiki/IPhone
+PSP , URL: /wiki/PlayStation_Portable
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","Proprietary P2P protocol [a]","SILK , URL: /wiki/SILK
+","TLS , URL: /wiki/Transport_Layer_Security
+","25 starting with version 3.6.0.216. 10 with 2.x","Conferencing, video, file transfer, voicemail, Skype to phone, phone to Skype, additional P2P extensions (games, whiteboard, etc...); depending on platform.","macOS , URL: /wiki/MacOS
+","8.81.0.268 / 14 February 2022; 24 days ago (2022-02-14)[31]"
+"Skype , URL: /wiki/Skype
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Mobile , URL: /wiki/Windows_Mobile
+BREW , URL: /wiki/Binary_Runtime_Environment_for_Wireless
+Windows Phone , URL: /wiki/Windows_Phone
+Android , URL: /wiki/Android_(operating_system)
+iPhone , URL: /wiki/IPhone
+PSP , URL: /wiki/PlayStation_Portable
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","Proprietary P2P protocol [a]","SILK , URL: /wiki/SILK
+","TLS , URL: /wiki/Transport_Layer_Security
+","25 starting with version 3.6.0.216. 10 with 2.x","Conferencing, video, file transfer, voicemail, Skype to phone, phone to Skype, additional P2P extensions (games, whiteboard, etc...); depending on platform.","Linux , URL: /wiki/Linux
+","8.81.0.268 / 14 February 2022; 24 days ago (2022-02-14)[31]"
+"Skype , URL: /wiki/Skype
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Mobile , URL: /wiki/Windows_Mobile
+BREW , URL: /wiki/Binary_Runtime_Environment_for_Wireless
+Windows Phone , URL: /wiki/Windows_Phone
+Android , URL: /wiki/Android_(operating_system)
+iPhone , URL: /wiki/IPhone
+PSP , URL: /wiki/PlayStation_Portable
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","Proprietary P2P protocol [a]","SILK , URL: /wiki/SILK
+","TLS , URL: /wiki/Transport_Layer_Security
+","25 starting with version 3.6.0.216. 10 with 2.x","Conferencing, video, file transfer, voicemail, Skype to phone, phone to Skype, additional P2P extensions (games, whiteboard, etc...); depending on platform.","Android , URL: /wiki/Android_(operating_system)
+","8.81.0.268 / 14 February 2022; 24 days ago (2022-02-14)[32]"
+"Skype , URL: /wiki/Skype
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Mobile , URL: /wiki/Windows_Mobile
+BREW , URL: /wiki/Binary_Runtime_Environment_for_Wireless
+Windows Phone , URL: /wiki/Windows_Phone
+Android , URL: /wiki/Android_(operating_system)
+iPhone , URL: /wiki/IPhone
+PSP , URL: /wiki/PlayStation_Portable
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","Proprietary P2P protocol [a]","SILK , URL: /wiki/SILK
+","TLS , URL: /wiki/Transport_Layer_Security
+","25 starting with version 3.6.0.216. 10 with 2.x","Conferencing, video, file transfer, voicemail, Skype to phone, phone to Skype, additional P2P extensions (games, whiteboard, etc...); depending on platform.","iOS , URL: /wiki/IOS
+","iPhone , URL: /wiki/IPhone
+iPad , URL: /wiki/IPad
+"
+"Steam Chat , URL: /wiki/Steam_Chat
+","Web, Phones, Desktop","","","WebRTC","","","","","",""
+"TeamSpeak , URL: /wiki/TeamSpeak
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+FreeBSD , URL: /wiki/FreeBSD
+Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","Unknown","CELT , URL: /wiki/CELT
+Speex , URL: /wiki/Speex
+Opus , URL: /wiki/Opus_(audio_format)
+","Yes","32 unlicensed, 512 with Non-Profit License (available until September 2018), up to 1024 (Gamer License), 2000","Simultaneous server conferencing with tabs, 3D sound effects, scalable permissions system, firewall friendly file transfers, in-game overlay for DirectX & OpenGL games, global public server list, plugin system","3.5.5; November 4, 2020; 16 months ago (2020-11-04)","3.5.5; November 4, 2020; 16 months ago (2020-11-04)"
+"TeamTalk , URL: /wiki/TeamTalk
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+Raspbian , URL: /wiki/Raspbian
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","Proprietary , URL: /wiki/Proprietary_software
+","Opus , URL: /wiki/Opus_(audio_format)
+Speex , URL: /wiki/Speex
+VP8 , URL: /wiki/VP8
+","No","1000","MP3 , URL: /wiki/MP3
+AVI , URL: /wiki/Audio_Video_Interleave
+","5.3.3; November 2018; 3 years ago (2018-11)","5.3.3; November 2018; 3 years ago (2018-11)"
+"TeamViewer , URL: /wiki/TeamViewer
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+","Proprietary , URL: /wiki/Proprietary_software
+","Free (personal use only)","Unknown","Unknown","AES256 , URL: /wiki/AES256
+","Unknown","Unknown","Windows , URL: /wiki/Windows
+","15.26.4 / 25 January 2022; 44 days ago (2022-01-25)[37]"
+"TeamViewer , URL: /wiki/TeamViewer
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+","Proprietary , URL: /wiki/Proprietary_software
+","Free (personal use only)","Unknown","Unknown","AES256 , URL: /wiki/AES256
+","Unknown","Unknown","macOS , URL: /wiki/MacOS
+","15.26.4 / 25 January 2022; 44 days ago (2022-01-25)[38]"
+"TeamViewer , URL: /wiki/TeamViewer
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+","Proprietary , URL: /wiki/Proprietary_software
+","Free (personal use only)","Unknown","Unknown","AES256 , URL: /wiki/AES256
+","Unknown","Unknown","Linux , URL: /wiki/Linux
+","15.26.4 / 25 January 2022; 44 days ago (2022-01-25)[39]"
+"TeamViewer , URL: /wiki/TeamViewer
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+","Proprietary , URL: /wiki/Proprietary_software
+","Free (personal use only)","Unknown","Unknown","AES256 , URL: /wiki/AES256
+","Unknown","Unknown","Android , URL: /wiki/Android_(software)
+","15.26.54 / 25 January 2022; 44 days ago (2022-01-25)[40]"
+"TeamViewer , URL: /wiki/TeamViewer
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+","Proprietary , URL: /wiki/Proprietary_software
+","Free (personal use only)","Unknown","Unknown","AES256 , URL: /wiki/AES256
+","Unknown","Unknown","iOS , URL: /wiki/IOS
+","15.26.1 / 3 February 2022; 35 days ago (2022-02-03)[41]"
+"TeamViewer , URL: /wiki/TeamViewer
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+","Proprietary , URL: /wiki/Proprietary_software
+","Free (personal use only)","Unknown","Unknown","AES256 , URL: /wiki/AES256
+","Unknown","Unknown","Windows , URL: /wiki/Windows
+UWP app , URL: /wiki/UWP_app
+","15.100.209759[42]"
+"Telephone , URL: /wiki/Telephone_(application)
+","macOS , URL: /wiki/MacOS
+","BSD , URL: /wiki/BSD_licenses
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+STUN , URL: /wiki/STUN
+ICE , URL: /wiki/Interactive_Connectivity_Establishment
+","Unknown","No","Unknown","Address Book integration","1.1.4; March 6, 2012; 10 years ago (2012-03-06)","1.1.4; March 6, 2012; 10 years ago (2012-03-06)"
+"Line2 , URL: /wiki/Line2
+","Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+iOS , URL: /wiki/IOS
+Android , URL: /wiki/Android_(operating_system)
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+","Unknown","Unknown","20","Conferencing, voicemail, caller ID, call-waiting, address book integration; auto-attendant, call-forwarding","Windows; August 2010; 11 years ago (2010-08); macOS; October 2010; 11 years ago (2010-10)","Windows; August 2010; 11 years ago (2010-08); macOS; October 2010; 11 years ago (2010-10)"
+"Tox , URL: /wiki/Tox_(protocol)
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+FreeBSD , URL: /wiki/FreeBSD
+","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Free","Tox , URL: /wiki/Tox_(protocol)
+VP8 , URL: /wiki/VP8
+","Opus , URL: /wiki/Opus_(audio_codec)
+","NaCl , URL: /wiki/NaCl_(software)
+","Unknown","Voice, video, instant messaging, file transfers","Unknown","Unknown"
+"Tru App , URL: /wiki/Tru_(mobile_network)#Tru_App
+","Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+Linux , URL: /wiki/Linux
+iOS , URL: /wiki/IOS
+Android , URL: /wiki/Android_(operating_system)
+Symbian , URL: /wiki/Symbian
+BlackBerry OS , URL: /wiki/BlackBerry_OS
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+","Unknown","Unknown","Unknown","Chat, file transfer, voicemail, inbound numbers, integration with GTalk, Microsoft Live, Skype","",""
+"Tuenti , URL: /wiki/Tuenti
+","Android , URL: /wiki/Android_(operating_system)
+iPhone , URL: /wiki/IPhone
+Windows Phone , URL: /wiki/Windows_Phone
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","WebRTC , URL: /wiki/WebRTC
+SIP , URL: /wiki/Session_Initiation_Protocol
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+","iLBC , URL: /wiki/Internet_Low_Bitrate_Codec
+Opus , URL: /wiki/Opus_(audio_codec)
+","Yes","Unknown","Instant messaging , URL: /wiki/Instant_messaging
+","",""
+"Twinkle , URL: /wiki/Twinkle_(software)
+","Linux , URL: /wiki/Linux
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+","G.711 , URL: /wiki/G.711
+G.726 , URL: /wiki/G.726
+GSM , URL: /wiki/GSM_06.10
+iLBC , URL: /wiki/ILBC
+Speex , URL: /wiki/Speex
+","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+ZRTP , URL: /wiki/ZRTP
+","3","Conferencing, chat, file transfer, Firefox integration, call redirection, voicemail, support of VoIP-to-Phone services","1.10.2 (February 14, 2019; 3 years ago (2019-02-14)) [±]","1.10.2 (February 14, 2019; 3 years ago (2019-02-14)) [±]"
+"Ventrilo , URL: /wiki/Ventrilo
+","macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+iOS , URL: /wiki/IOS
+Android , URL: /wiki/Android_(operating_system)
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","Unknown","Unknown","No","8","text-to-speech , URL: /wiki/Text-to-speech
+","3.0.8","3.0.8"
+"Viber , URL: /wiki/Viber
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+Bada , URL: /wiki/Bada
+BlackBerry OS , URL: /wiki/BlackBerry_OS
+iOS , URL: /wiki/IOS
+Series 40 , URL: /wiki/Series_40
+Symbian , URL: /wiki/Symbian
+Windows Phone , URL: /wiki/Windows_Phone
+","Proprietary , URL: /wiki/Proprietary_software
+","?","Unknown","Unknown","Yes[45]","Unknown","Varies by platform: Text, picture and video messaging on all, voice calling only on iPhone, Android and Microsoft's Windows Phone","Android","
+URL: https://www.wikidata.org/wiki/Q332707?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+"
+"Viber , URL: /wiki/Viber
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+Bada , URL: /wiki/Bada
+BlackBerry OS , URL: /wiki/BlackBerry_OS
+iOS , URL: /wiki/IOS
+Series 40 , URL: /wiki/Series_40
+Symbian , URL: /wiki/Symbian
+Windows Phone , URL: /wiki/Windows_Phone
+","Proprietary , URL: /wiki/Proprietary_software
+","?","Unknown","Unknown","Yes[45]","Unknown","Varies by platform: Text, picture and video messaging on all, voice calling only on iPhone, Android and Microsoft's Windows Phone","iOS","
+URL: https://www.wikidata.org/wiki/Q332707?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+"
+"Viber , URL: /wiki/Viber
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+Bada , URL: /wiki/Bada
+BlackBerry OS , URL: /wiki/BlackBerry_OS
+iOS , URL: /wiki/IOS
+Series 40 , URL: /wiki/Series_40
+Symbian , URL: /wiki/Symbian
+Windows Phone , URL: /wiki/Windows_Phone
+","Proprietary , URL: /wiki/Proprietary_software
+","?","Unknown","Unknown","Yes[45]","Unknown","Varies by platform: Text, picture and video messaging on all, voice calling only on iPhone, Android and Microsoft's Windows Phone","Windows","
+URL: https://www.wikidata.org/wiki/Q332707?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+"
+"Viber , URL: /wiki/Viber
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+Bada , URL: /wiki/Bada
+BlackBerry OS , URL: /wiki/BlackBerry_OS
+iOS , URL: /wiki/IOS
+Series 40 , URL: /wiki/Series_40
+Symbian , URL: /wiki/Symbian
+Windows Phone , URL: /wiki/Windows_Phone
+","Proprietary , URL: /wiki/Proprietary_software
+","?","Unknown","Unknown","Yes[45]","Unknown","Varies by platform: Text, picture and video messaging on all, voice calling only on iPhone, Android and Microsoft's Windows Phone","macOS","
+URL: https://www.wikidata.org/wiki/Q332707?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+"
+"Viber , URL: /wiki/Viber
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Android , URL: /wiki/Android_(operating_system)
+Bada , URL: /wiki/Bada
+BlackBerry OS , URL: /wiki/BlackBerry_OS
+iOS , URL: /wiki/IOS
+Series 40 , URL: /wiki/Series_40
+Symbian , URL: /wiki/Symbian
+Windows Phone , URL: /wiki/Windows_Phone
+","Proprietary , URL: /wiki/Proprietary_software
+","?","Unknown","Unknown","Yes[45]","Unknown","Varies by platform: Text, picture and video messaging on all, voice calling only on iPhone, Android and Microsoft's Windows Phone","Linux","
+URL: https://www.wikidata.org/wiki/Q332707?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+"
+"Vonage , URL: /wiki/Vonage
+","Linux, macOS, Windows, Android, iOS","Proprietary , URL: /wiki/Proprietary_software
+","not free","SIP, STUN, ICE, TURN","Audio: Opus, G.711 Video: VP8","SRTP","50","VoIP, video, instant messaging, presence (SIP SIMPLE), PSTN (inbound and outbound), call waiting, call hold, call forwarding, voicemail, message-waiting indication, 3-way conferencing, contacts integration, receptionist console, video, group chat, content sharing, SMS over IP services, native and social network contacts integration, incoming call/IM push notifications, fax, file sharing, screen sharing (desktop only), number programmability.","",""
+"Wire , URL: /wiki/Wire_(software)
+","Linux, Windows, macOS, iOS, Android, Web","GPLv3","not free","?","Opus , URL: /wiki/Opus_(audio_format)
+","DTLS , URL: /wiki/Datagram_Transport_Layer_Security
+SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+","10[49]","End-to-end encryption by default for everything, instant messaging, video call, video group call, file sharing, GIF sharing, push to talk, edit message, delete message (on both side), timed messages, doodling, identity verification, screen sharing (desktop only)","?","?"
+"X-Lite","macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+STUN , URL: /wiki/STUN
+ICE , URL: /wiki/Interactive_Connectivity_Establishment
+TURN , URL: /wiki/Traversal_Using_Relays_around_NAT
+","H.263 , URL: /wiki/H.263
+H.263+ , URL: /wiki/H.263%2B
+G.711 , URL: /wiki/G.711
+iLBC , URL: /wiki/Internet_Low_Bitrate_Codec
+Speex , URL: /wiki/Speex
+","No","3","VoIP over WiFi, 3G, 4G, video, instant messaging, presence (SIP SIMPLE), call waiting, call hold, call forwarding, voice mail, message waiting indication, 3 way conferencing, contacts integration, background noise reduction (BNR), automatic gain control (AGC)","5.3.3 July 10, 2018; 3 years ago (2018-07-10)","5.3.3 July 10, 2018; 3 years ago (2018-07-10)"
+"Yahoo! Messenger , URL: /wiki/Yahoo!_Messenger
+","Classic Mac OS , URL: /wiki/Classic_Mac_OS
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Linux , URL: /wiki/Linux
+FreeBSD , URL: /wiki/FreeBSD
+","Proprietary , URL: /wiki/Proprietary_software
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+TLS , URL: /wiki/Transport_Layer_Security
+","Unknown","Unknown","Unknown","Video, file transfer, PC to phone, phone to PC","Windows: 11.5.0.228; May 31, 2012; 9 years ago (2012-05-31) Mac: 3.0.1; July 20, 2011; 10 years ago (2011-07-20) Linux: 1.0.6; September 2003; 18 years ago (2003-09) SunOS 5.7: 0.99.17-1; September 2003; 18 years ago (2003-09) Solaris 8: 1.0.4; September 2003; 18 years ago (2003-09) FreeBSD 4-5: 1.0.4; September 2003; 18 years ago (2003-09) iOS: 2.2.6; July 12, 2012; 9 years ago (2012-07-12)","Windows: 11.5.0.228; May 31, 2012; 9 years ago (2012-05-31) Mac: 3.0.1; July 20, 2011; 10 years ago (2011-07-20) Linux: 1.0.6; September 2003; 18 years ago (2003-09) SunOS 5.7: 0.99.17-1; September 2003; 18 years ago (2003-09) Solaris 8: 1.0.4; September 2003; 18 years ago (2003-09) FreeBSD 4-5: 1.0.4; September 2003; 18 years ago (2003-09) iOS: 2.2.6; July 12, 2012; 9 years ago (2012-07-12)"
+"Yate Client , URL: /wiki/Yate_(telephony_engine)
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","GPL , URL: /wiki/GNU_General_Public_License
+","Free","SIP , URL: /wiki/Session_Initiation_Protocol
+IAX , URL: /wiki/Inter-Asterisk_eXchange
+XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+H.323 , URL: /wiki/H.323
+","G.711a , URL: /wiki/G.711
+G.711u , URL: /wiki/G.711
+GSM 06.10 , URL: /wiki/GSM_06.10
+iLBC , URL: /wiki/ILBC
+Speex , URL: /wiki/Speex
+G.723 , URL: /wiki/G.723
+G.726 , URL: /wiki/G.726
+G.728 , URL: /wiki/G.728
+G.729 , URL: /wiki/G.729
+","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+ZRTP , URL: /wiki/ZRTP
+","Unknown","","6.0.0; September 2017; 4 years ago (2017-09)","6.0.0; September 2017; 4 years ago (2017-09)"
+"Zfone , URL: /wiki/Zfone
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","Includes time bomb provision","SIP , URL: /wiki/Session_Initiation_Protocol
+RTP , URL: /wiki/Real-time_Transport_Protocol
+","Unknown","SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
+ZRTP , URL: /wiki/ZRTP
+","Unknown","","Beta , URL: /wiki/Development_stage#Beta
+Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","Beta , URL: /wiki/Development_stage#Beta
+Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+"

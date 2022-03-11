@@ -1,20 +1,36 @@
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"Conduit","Python","Linux, FreeBSD","GPL","2010[1]","No","","","","","Yes","Synchronizes files, website, network apps","null","null","null","null","null"
-"DirSync Pro","Java","Java SE","GPLv3","2018[2]","Yes","Yes","No","","Yes (creates backup files)","Yes (native + via OS)","sym-links, filter, metadata, contents, auto-sync","null","null","null","null","null"
-"FreeFileSync","C++","Windows, macOS, Linux","GPL","2022[3]","Yes (Donation Edition)[4]","Yes[5]","Yes[5]","Yes[5]","Yes (versioning + recycler)[5]","Yes","Older version had OpenCandy Adware/malware, but now funded by donations.[6][7]","null","null","null","null","null"
-"iFolder","C#, Mono","Windows, macOS, Linux, Solaris","GPL","2010","No","Yes (centralized database)","Yes (files, not folders)","","","","","null","null","null","null","null"
-"InterPlanetaryFileSystem","Go","Windows, macOS, Linux","GPL","2020[8]","","Yes","","","No (Planned)[9]","","","null","null","null","null","null"
-"luckyBackup","C++","Windows, macOS, Linux, FreeBSD","GPLv3","2018[10]","Yes","","","","","Yes","Uses rsync backend","null","null","null","null","null"
-"Nextcloud","PHP, C++, JavaScript[11]","Server: Linux, FreeBSD Clients: Windows, macOS, Linux, FreeBSD, Android, iOS, Windows Phone","AGPLv3","2021","Yes","Yes","Yes","Yes[12]","Yes","Yes","Fork of ownCloud","Yes","No","null","null","null"
-"ownCloud community edition","PHP, C++, JavaScript[13]","Server: Linux, FreeBSD Clients: Windows, macOS, Linux, FreeBSD, Android, iOS, Blackberry","AGPLv3 (Server Edition) / proprietary (Enterprise Edition)","2021","Yes","Yes","Yes","Yes[14]","Yes","Yes","external storage support; encryption","Yes","No","null","null","null"
-"Pydio Open source home","Server: PHP, Python, C++ Clients: JS, C#, Swift, Java","Windows, macOS, Linux, Android, iOS","AGPLv3","2017","Yes","Yes","Yes","","Yes (Git[15])","Yes","","null","null","null","null","null"
-"rclone","Go","Linux, Windows, macOS, FreeBSD, NetBSD, OpenBSD, Plan9, Solaris - Intel/AMD-64, Intel/AMD-32, ARM-32, ARM-64, MIPS-Big-Endian, MIPS-Little-Endian","MIT","2021","Yes","Yes","Yes","Yes","Yes","Yes (via OS)","Supports over 50 cloud, protocol and virtual backends including S3 buckets, Google Drive, Microsoft OneDrive, and other high latency file storage. Capabilities include sync, cache, encrypt, compress and mount.","in alpha version since 2021","Yes","","null","null"
-"rsync","C in a Unix-Linux shell","Windows, macOS,[16] Linux,[17][18] BSD","GPL v3","2020","Yes","Yes","No","Yes using --delete","Yes using --backup and a time-stamped --suffix","Yes (via OS)","client & server operation. Multiple comparison criteria (date, check-sum).","No","Yes","TCP","SSH, Rsh","Yes"
-"Seafile community edition","C99, Python[19]","Server: Linux, Raspbian, Windows Clients: Linux, macOS, Windows, Android, iOS.[20]","AGPLv3 (Server) + Apache License 2.0 (Client)","2020","No","Yes","Yes","Yes","Yes","Yes (via Seafile Client)","Android and iOS mobile clients","null","null","null","null","null"
-"SparkleShare","C#","Windows, macOS, Linux, Android, iOS","GPL v3 and LGPL","2017","Yes","Yes","No","","Yes (Git[21])","","","null","null","null","null","null"
-"SymmetricDS","Java","Java SE","GPL","2018","Yes","Yes","Yes","","No","Yes","plug-in APIs for customization","null","null","null","null","null"
-"Synchronizer (krusader)","","Windows, macOS, Linux","GPL v2","2017","No","Yes","No","","No","No","","null","null","null","null","null"
-"Syncthing","Go","Windows, macOS, Linux, Android, BSD, Solaris","MPL v2","2021","Yes","Yes","Yes","Yes","Yes","Yes","Distributed peer-to-peer sync with automatic NAT traversal. Custom topology (star, fullmesh, mixed). Encryption.","Yes","Yes","null","null","null"
-"Synkron","C++","Windows, macOS, Linux","GPL v2","2011[22]","Yes","Yes","No","Yes","Yes","Yes","","null","null","null","null","null"
-"Unison","Mainly OCaml[23]","Windows, macOS, Linux","GPL","2021","Yes","Yes","Yes","Yes","Yes","Yes","Uses rsync backend","Yes","No","TCP","SSH, socket (insecure)[24]","Yes"
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
+"Name","Operating system","Vendor","Online storage , URL: /wiki/Online_file_storage
+","Remote desktop , URL: /wiki/Remote_desktop
+","revision control , URL: /wiki/Revision_control
+","Comments","Portable","Detect rename","Detect move","Scheduling","Full duplex transfer"
+"Microsoft ActiveSync , URL: /wiki/ActiveSync
+","Windows","Microsoft , URL: /wiki/Microsoft
+","No","No","?","Syncs mobile devices","","","","",""
+"Resilio Sync , URL: /wiki/Resilio_Sync
+","Windows, OS X, Linux, FreeBSD, Android, iOS","Resilio, Inc. , URL: /wiki/Resilio,_Inc.
+","No","No","Yes (previous versions moved to archive folder)","Distributed peer-to-peer sync, working also offline in a LAN","No","Yes","Yes","Pro only[25]","Yes"
+"Briefcase , URL: /wiki/Briefcase_(Microsoft_Windows)
+","Windows","Microsoft , URL: /wiki/Microsoft
+","No","No","?","","","","","",""
+"Cobian Backup , URL: /wiki/Cobian_Backup
+","Windows","CobianSoft","No","No","Yes, trash folder","Shadow Copy , URL: /wiki/Shadow_Copy
+","No","No","No","Yes",""
+"Windows Mobile Device Center , URL: /wiki/Windows_Mobile_Device_Center
+","Windows","Microsoft , URL: /wiki/Microsoft
+","No","No","?","ActiveSync , URL: /wiki/ActiveSync
+","","","","",""
+"Microsoft Sync Framework , URL: /wiki/Microsoft_Sync_Framework
+","Windows","Microsoft , URL: /wiki/Microsoft
+","?","No","?","Syncs files, data, services; a framework, not a tool","","Yes","Yes","-",""
+"Microsoft SyncToy , URL: /wiki/SyncToy
+","Windows","Microsoft , URL: /wiki/Microsoft
+","No","No","No, recycle bin only","Sync local folders","No","Yes","Yes","via OS","No"
+"Windows Live Mesh , URL: /wiki/Live_Mesh
+","Windows (Vista and greater), Windows Mobile, OSX","Microsoft , URL: /wiki/Microsoft
+","Yes","Yes","No, recycle bin only","online storage , URL: /wiki/Online_file_storage
+","No","Yes","?","No, syncs whenever it is online","Yes"
+"OmniGroup , URL: /wiki/OmniGroup
+","OSX, OmniGroup software for iOS, open source framework available","OmniGroup , URL: /wiki/OmniGroup
+","No","No","No, via local Time Machine backup only","Sync local folders via OmniSync or WebDAV server but not to the server itself","No","?","?","No, syncs whenever it's online and not paused","Yes"
+"Windows Live Sync , URL: /wiki/Windows_Live_Sync
+","Windows, OSX","Microsoft , URL: /wiki/Microsoft
+","No, browsing only","No","No, recycle bin only","Sync folders, browse devices from website, remote access; was Microsoft FolderShare, 20,000 file limit","No","Yes","Yes","No, syncs whenever it's online","?"

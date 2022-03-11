@@ -1,0 +1,235 @@
+"Client","Author/Developer","Operating system , URL: #Operating_system_support
+","Software license , URL: /wiki/Software_license
+","User Interface"
+"Alpine , URL: /wiki/Alpine_(email_client)
+","University of Washington , URL: /wiki/University_of_Washington
+","Cross-platform , URL: /wiki/Cross-platform
+","Apache-2.0 , URL: /wiki/Apache_License
+","TUI , URL: /wiki/Text_user_interface
+"
+"Apple Mail , URL: /wiki/Apple_Mail
+","Apple , URL: /wiki/Apple_Inc
+","macOS , URL: /wiki/MacOS
+iOS , URL: /wiki/IOS
+watchOS , URL: /wiki/WatchOS
+","Proprietary , URL: /wiki/Proprietary_software
+","GUI , URL: /wiki/Graphical_user_interface
+Cocoa , URL: /wiki/Cocoa_(API)
+"
+"Balsa , URL: /wiki/Balsa_(email_client)
+","Stuart Parmenter","Linux , URL: /wiki/Linux
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","GUI , URL: /wiki/Graphical_user_interface
+GTK , URL: /wiki/GTK
+"
+"Becky! Internet Mail , URL: /wiki/Becky!
+","Rimarts","Windows , URL: /wiki/Microsoft_Windows
+","Proprietary , URL: /wiki/Proprietary_software
+","GUI , URL: /wiki/Graphical_user_interface
+"
+"BlitzMail , URL: /wiki/BlitzMail
+","Dartmouth College , URL: /wiki/Dartmouth_College
+","","BSD licenses , URL: /wiki/BSD_licenses
+","GUI"
+"Citadel , URL: /wiki/Citadel/UX
+","citadel.org","Unix-like , URL: /wiki/Unix-like
+","GPL-3.0-only , URL: /wiki/GNU_General_Public_License
+","Webmail , URL: /wiki/Webmail
+"
+"Claws Mail , URL: /wiki/Claws_Mail
+","the Claws Mail team","Cross-platform","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","GUI , URL: /wiki/Graphical_user_interface
+GTK , URL: /wiki/GTK
+"
+"Courier , URL: /wiki/Courier_(email_client)
+","Micro Computer Systems, Inc., continued by Rose City Software","Windows","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Elm , URL: /wiki/Elm_(email_client)
+","Dave Taylor, Sydney Weinstein, Bill Pemberton, Michael Elkins, Kari Hurtta","Unix-like","BSD-like[1]","TUI"
+"eM Client , URL: /wiki/EM_Client
+","eM Client Inc.","Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"EmailTray , URL: /wiki/EmailTray
+","Internet Promotion Agency S.A.","Windows , URL: /wiki/Windows
+Android , URL: /wiki/Android_(operating_system)
+","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Eudora OSE , URL: /wiki/Eudora_OSE
+","Qualcomm , URL: /wiki/Qualcomm
+","macOS , URL: /wiki/MacOS
+","Open source","GUI"
+"Evolution , URL: /wiki/GNOME_Evolution
+","The GNOME Project , URL: /wiki/The_GNOME_Project
+","Unix-like , URL: /wiki/Unix-like
+","LGPL-2.1-only or LGPL-3.0-only , URL: /wiki/GNU_Lesser_General_Public_License
+","GTK , URL: /wiki/GTK
+"
+"FirstClass , URL: /wiki/FirstClass
+","Open Text","","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Forté Agent , URL: /wiki/Fort%C3%A9_Agent
+","Mark Sidell","Windows","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Geary , URL: /wiki/Geary_(e-mail_client)
+","Yorba Foundation , URL: /wiki/Yorba_Foundation
+","Unix-like","LGPL-2.1-or-later , URL: /wiki/GNU_Lesser_General_Public_License
+","GTK , URL: /wiki/GTK
+"
+"GNUMail , URL: /wiki/GNUMail
+","Ludovic Marcotte and others","Unix-like, macOS","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","GUI"
+"Gnus , URL: /wiki/Gnus
+","Gnus team","Cross-platform","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","TUI and GUI"
+"GroupWise , URL: /wiki/GroupWise
+","Micro Focus , URL: /wiki/Micro_Focus
+Novell , URL: /wiki/Novell
+","Cross-platform","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Hiri , URL: /wiki/Hiri_(email_client)
+","Hiri","Cross-platform","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"i.Scribe, InScribe , URL: /wiki/Scribe_Mail
+","Memecode","Windows, macOS, Linux","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"HCL Notes , URL: /wiki/HCL_Notes
+","IBM , URL: /wiki/IBM
+Lotus Software , URL: /wiki/Lotus_Software
+HCL Technologies , URL: /wiki/HCL_Technologies
+","Windows, macOS, Linux","Proprietary , URL: /wiki/Proprietary_software
+","GUI (Notes), Web (Verse, iNotes) and Mobile (Traveler)"
+"IMP , URL: /wiki/Internet_Messaging_Program
+","Horde LLC","Cross-platform","GPL-2.0-only , URL: /wiki/GNU_General_Public_License
+","Webmail , URL: /wiki/Webmail
+"
+"K-9 Mail , URL: /wiki/K-9_Mail
+","K-9 Dog Walkers: cketti, et al.","Android","Apache-2.0 , URL: /wiki/Apache_License
+","GUI"
+"KMail , URL: /wiki/KMail
+","KDE , URL: /wiki/KDE
+","Cross-platform","GNU General Public License , URL: /wiki/GNU_General_Public_License
+","Qt , URL: /wiki/Qt_(software)
+"
+"Mail (Windows) , URL: /wiki/Mail_(Windows)
+","Microsoft","Windows","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Mailbird , URL: /wiki/Mailbird
+","Mailbird , URL: /wiki/Mailbird
+","Windows","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Mailpile , URL: /wiki/Mailpile
+","Mailpile , URL: /wiki/Mailpile
+","Windows, macOS, Linux","AGPL-3.0-or-later , URL: /wiki/GNU_Affero_General_Public_License
+","Webmail , URL: /wiki/Webmail
+"
+"mailx , URL: /wiki/Mailx
+","?","Unix-like","BSD Licenses , URL: /wiki/BSD_Licenses
+","TUI"
+"Microsoft Entourage , URL: /wiki/Microsoft_Entourage
+","Microsoft , URL: /wiki/Microsoft
+","macOS","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Microsoft Outlook , URL: /wiki/Microsoft_Outlook
+","Microsoft","Windows, macOS","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Mozilla Mail & Newsgroups , URL: /wiki/Mozilla_Mail_%26_Newsgroups
+","Mozilla Foundation , URL: /wiki/Mozilla_Foundation
+","","Mozilla Public License , URL: /wiki/Mozilla_Public_License
+","XUL , URL: /wiki/XUL
+"
+"Mozilla Thunderbird , URL: /wiki/Mozilla_Thunderbird
+","Mozilla Foundation","Cross-platform , URL: /wiki/Cross-platform
+","MPL-2.0 , URL: /wiki/Mozilla_Public_License
+","XUL , URL: /wiki/XUL
+"
+"Mulberry , URL: /wiki/Mulberry_(email_client)
+","Cyrus Daboo (formerly Cyrusoft International, Inc./ISAMET)","Cross-platform","Apache-2.0 , URL: /wiki/Apache_License
+","GUI"
+"Mutt , URL: /wiki/Mutt_(email_client)
+","Michael Elkins","Cross-platform","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","TUI , URL: /wiki/Text-based_user_interface
+ncurses , URL: /wiki/Ncurses
+"
+"Netscape Messenger , URL: /wiki/Netscape_Messenger
+","Netscape Communications , URL: /wiki/Netscape_Communications
+","","?","GUI"
+"Netscape Messenger 9 , URL: /wiki/Netscape_Messenger_9
+","Netscape Communications","","Mozilla Public License , URL: /wiki/Mozilla_Public_License
+","GUI"
+"Nylas Mail , URL: /wiki/Nylas_Mail
+","Nylas","Windows, macOS, Linux","MIT , URL: /wiki/MIT_License
+","GUI"
+"nmh / MH , URL: /wiki/MH_Message_Handling_System
+","RAND Corporation , URL: /wiki/RAND_Corporation
+","Unix-like","BSD Licenses , URL: /wiki/BSD_Licenses
+","CLI , URL: /wiki/Command-line_interface
+"
+"Opera Mail , URL: /wiki/Opera_Mail
+","Opera Software , URL: /wiki/Opera_Software
+","Cross-platform","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Outlook Express , URL: /wiki/Outlook_Express
+","Microsoft","Windows","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Pegasus Mail , URL: /wiki/Pegasus_Mail
+","David Harris , URL: /wiki/David_Harris_(software_developer)
+","Windows","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Pine , URL: /wiki/Pine_(email_client)
+","University of Washington , URL: /wiki/University_of_Washington
+","Cross-platform","Freeware[2]","TUI"
+"Pocomail , URL: /wiki/Pocomail
+","Poco Systems","Windows","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"RoundCube , URL: /wiki/RoundCube
+","The RoundCube Team","Cross-platform","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Webmail , URL: /wiki/Webmail
+"
+"SeaMonkey , URL: /wiki/SeaMonkey
+","SeaMonkey Council","Cross-platform","MPL-2.0 , URL: /wiki/Mozilla_Public_License
+","XUL , URL: /wiki/XUL
+"
+"Spark , URL: /wiki/Spark_(application)
+","Readdle","macOS","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"SquirrelMail , URL: /wiki/SquirrelMail
+","The SquirrelMail Project Team","Cross-platform","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Webmail , URL: /wiki/Webmail
+"
+"Sylpheed , URL: /wiki/Sylpheed
+","Hiroyuki Yamamoto","Cross-platform , URL: /wiki/Cross-platform
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+LGPL-2.1-or-later , URL: /wiki/GNU_Lesser_General_Public_License
+","GTK , URL: /wiki/GTK
+"
+"The Bat! , URL: /wiki/The_Bat!
+","RitLabs","Windows","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Trojitá , URL: /wiki/Trojit%C3%A1
+","KDE , URL: /wiki/KDE
+","Cross-platform","GPL-2.0-only , URL: /wiki/GNU_General_Public_License
+GPL-3.0-only , URL: /wiki/GNU_General_Public_License
+","Qt , URL: /wiki/Qt_(software)
+"
+"Turnpike , URL: /wiki/Turnpike_(software)
+","Thus PLC (Demon Internet) , URL: /wiki/Demon_Internet
+","Windows","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Windows Live Mail , URL: /wiki/Windows_Live_Mail
+","Microsoft","Windows","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"Windows Mail (Vista) , URL: /wiki/Windows_Mail_(Vista)
+","Microsoft","Windows","Proprietary , URL: /wiki/Proprietary_software
+","GUI"
+"YAM , URL: /wiki/YAM_(Yet_Another_Mailer)
+","YAM Open Source Team and contributing authors","AmigaOS , URL: /wiki/AmigaOS
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","GUI"
+"Zimbra Desktop , URL: /wiki/Zimbra
+","Zimbra , URL: /wiki/Zimbra
+","Cross-platform","Mozilla Public License , URL: /wiki/Mozilla_Public_License
+ZPL , URL: /wiki/Zope_Public_License
+","GUI"
+"Client","Author/Developer","Operating system","Software license","User interface"

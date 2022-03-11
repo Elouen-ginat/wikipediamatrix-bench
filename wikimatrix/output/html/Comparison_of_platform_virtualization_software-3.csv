@@ -1,0 +1,76 @@
+"Name","Can boot an OS on another disk partition as guest","USB support","GUI","Live memory allocation","3D acceleration","Snapshots , URL: /wiki/Snapshot_(computer_storage)
+","Snapshot of running system","Live migration","Shared folders","Shared clipboard","PCI passthrough"
+"KVM , URL: /wiki/Kernel-based_Virtual_Machine
+","Yes","Yes","Yes[24]","Yes","AIGLX , URL: /wiki/AIGLX
+","Yes","Yes[25]","Yes[26]","","","Yes"
+"User Mode Linux , URL: /wiki/User_Mode_Linux
+","Yes","No","No","No","No","","","No","Yes","N/A",""
+"Containers, or Zones , URL: /wiki/Solaris_Containers
+","Yes","Yes","Yes","Yes","Not needed","Yes[27]","Yes","No","Yes","Not needed","Not needed"
+"DosBox , URL: /wiki/DosBox
+","No","No","SVN builds only","No","Glide (SVN builds only)","No","Yes","No","No","No","No"
+"VirtualBox , URL: /wiki/VirtualBox
+","Yes","USB 1.1 only","Yes","Yes","No","Yes branched[29]","Yes","Yes","with Guest Additions[30]","with Guest Additions[30]","No"
+"VirtualBox , URL: /wiki/VirtualBox
+","Yes","Yes","Yes","Yes","OpenGL 2.0 and Direct3D 8/9[31]","Yes branched[29]","Yes","Yes","Yes","Yes","Retired (Until 6.0;[32] Linux only[33])"
+"Oracle VM Server for SPARC , URL: /wiki/Oracle_VM_Server_for_SPARC
+","Yes","USB 2.0","Yes","Yes","No","Yes","No","Yes","Yes","No","Yes"
+"OKL4 Microvisor , URL: /wiki/Open_Kernel_Labs
+","Yes","Yes","VMs only","Yes","Yes","","","No","","","Static assignment"
+"Virtual Iron , URL: /wiki/Virtual_Iron
+","","","","","","","","Yes","","",""
+"Virtual PC , URL: /wiki/Virtual_PC
+","No","No","Yes","No","No","","","No","Yes","Yes",""
+"Windows Virtual PC , URL: /wiki/Windows_Virtual_PC
+","No","partially","Yes","No","No","","","No","Yes","Yes",""
+"VirtualPC , URL: /wiki/VirtualPC
+","No","Yes","Yes","Yes","No","","","No","Yes","Yes",""
+"Microsoft Virtual Server , URL: /wiki/Microsoft_Virtual_Server
+","","No","Yes","No","No","?","Yes","No","","",""
+"Microsoft Hyper-V Server , URL: /wiki/Hyper-V
+","Yes","Partial support over remote desktop connections [11]","Yes","Yes","RemoteFX , URL: /wiki/RemoteFX
+","Yes branched","Yes","Yes","","","No"
+"Microsoft Hyper-V Server , URL: /wiki/Hyper-V
+","Yes","Yes","Yes","Yes","RemoteFX , URL: /wiki/RemoteFX
+","Yes branched","Yes","Yes","","","No"
+"Virtuozzo , URL: /wiki/Virtuozzo
+","Yes","Yes","Yes","Yes","No","","","Yes","","",""
+"VMware ESX Server , URL: /wiki/VMware_ESX_Server
+","","","Yes","","No","?","Yes","Yes","","","No"
+"VMware ESX Server , URL: /wiki/VMware_ESX_Server
+","","","Yes","","No","","","","","","No"
+"VMware ESX Server , URL: /wiki/VMware_ESX_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes[34]"
+"VMware Fusion , URL: /wiki/VMware_Fusion
+","Yes","Yes","Yes","No","DirectX , URL: /wiki/DirectX
+","","","No","","","No"
+"VMware Server , URL: /wiki/VMware_Server
+","Yes","Yes","Yes","Yes","No","1 , URL: /wiki/VMware_Server
+","Yes","No","Yes","Yes",""
+"VMware Workstation , URL: /wiki/VMware_Workstation
+","Yes","Yes","Yes","Yes","VMGL , URL: /w/index.php?title=VMGL&action=edit&redlink=1
+","Yes branched","Yes","No","Yes","Yes","No"
+"VMware Workstation , URL: /wiki/VMware_Workstation
+","Yes","Yes","Yes","Yes","VMGL , URL: /w/index.php?title=VMGL&action=edit&redlink=1
+","Yes branched","Yes","No","Yes","Yes","No"
+"VMware Workstation , URL: /wiki/VMware_Workstation
+","Yes","Yes","Yes","Yes","Support for DirectX 9.0c Shader Model 3 and OpenGL 2.13D.[36]","Yes branched","Yes","No","Yes","Yes","No"
+"VMware Player , URL: /wiki/VMware_Player
+","Yes","Yes","Yes","Yes","VMGL , URL: /w/index.php?title=VMGL&action=edit&redlink=1
+","No","No","No","Yes","","No"
+"Wind River , URL: /wiki/Wind_River_Systems
+","Yes","Yes","Yes","Yes","Yes","","","No","","",""
+"Wind River , URL: /wiki/Wind_River_Systems
+","Yes","","","","","","","","","",""
+"Xen , URL: /wiki/Xen
+","Yes","Yes[37]","Yes[24]","Yes","VMGL , URL: /w/index.php?title=VMGL&action=edit&redlink=1
+","?","Yes","Yes","","","Yes"
+"XCP-ng","Yes","Yes","Yes","Yes","","","Yes","Yes","","",""
+"XenServer , URL: /wiki/XenServer
+","Yes","","Yes[24]","Yes","VMGL , URL: /w/index.php?title=VMGL&action=edit&redlink=1
+","Yes","Yes","Yes","","","Yes"
+"z/VM , URL: /wiki/Z/VM
+","Yes","Not applicable","Yes (zURM/HMC)","Yes","Not applicable","","","Yes (2011)","","Not applicable","Not applicable"
+"LPARs , URL: /wiki/LPAR
+","Yes","Not applicable","Yes (HMC)","Yes","Not applicable","","","Yes (2007)","","Not applicable","Not applicable"
+"Name","Can boot an OS on another disk partition as guest","USB","GUI","Live memory allocation","3D acceleration","Snapshots per VM","Snapshot of running system","Live migration","Shared folders","Shared clipboard","PCI passthrough"

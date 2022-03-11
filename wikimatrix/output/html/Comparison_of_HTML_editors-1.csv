@@ -1,44 +1,89 @@
-"null","null","null","null","null"
-"11.4.4 (January 18)","2012","W3C, INRIA","W3C","null"
-"Apache OpenOffice","4.1.5 (October 19)","2017","Apache Foundation","MPL/Apache-2.0/others"
-"3.6.0 (August 1)","2014","Aptana","GPL","null"
-"5.5, build 2935 (March 9)","2018","Paul Lutus [1]","LGPL","null"
-"1.46.0 (May 5)","2020","GitHub","MIT","null"
-"2.2.12 (November 5)","2020","Bluefish","GPL-3.0-or-later","null"
-"3.1 (October 14)","2019","Disruptive Innovations","MPL-2.0","null"
-"1.13 (June 18)","2018","Adobe","MIT","null"
-"3.0","1998","Claris","Proprietary","null"
-"2","2012","Panic, Inc.","Proprietary","null"
-"5.10.1 (August 22)","2016","Codelobster Software","Proprietary","null"
-"15.1 (July 10)","2015","CoffeeCup Software","Proprietary","null"
-"1.145.5 (September 21)","2021","UVViewSoft (alexey_t, kvichans, matthias030)","MPL-2.0","null"
-"CS6.5 (8)(August 23)","2012","Adobe Systems (formerly Macromedia)","Proprietary","null"
-"CC 2020 (20.1) (February)","2020","Adobe Systems (formerly Macromedia)","Proprietary","null"
-"4.1 (December)","2012","Image-Line","Proprietary","null"
-"7.1.3 (May 5)","2016","Softpress","Proprietary","null"
-"9.0 (June 1)","2007","Adobe Systems (formerly GoLive Systems)","Proprietary","null"
-"(July)","2018","Google, Inc.","Proprietary","null"
-"292","","Chami.com","Proprietary","null"
-"0.7.10/0.8b3 (August 30, 2007/ March 1, 2010)","2010","Kaze","MPL-1.1/GPL 2.0/LGPL 2.1","null"
-"LibreOffice","7.3 (February 2)","2022","The Document Foundation","MPL-2.0/Apache-2.0/others"
-"Preview 5 (March 28)","2013","IBM","BSD-3-Clause or AFL-2.1","null"
-"4.0.1460.0 (December 20)","2012","Microsoft","Proprietary","null"
-"11.0.8174 (October 21)","2003","Microsoft","Proprietary","null"
-"2.0","1997","Microsoft","Proprietary","null"
-"6.9.1 (July 25)","2012","mirabyte","Proprietary","null"
-"2007 (December 4)","2006","Microsoft","Proprietary","null"
-"1.56.2 (April)","2018","Microsoft","MIT","null"
-"","2008","Microsoft","Proprietary","null"
-"4.8","2018","Mobirise.com","Proprietary","null"
-"1.7.13 (April 21)","2006","Mozilla Foundation","MPL-1.1/GPL 2.0/LGPL 2.1","null"
-"1.0 (June 28)","2005","Linspire / Daniel Glazman","MPL-1.1/GPL 2.0/LGPL 2.1","null"
-"1.44 (January 21)","2014","openElement","Apache-2.0","null"
-"OpenOffice.org","3.3.0 (January 11)","2011","Sun Microsystems (1999–2009) Oracle Corporation (2010–2011)","Dual-licensed under the SISSL and GNU LGPL (OpenOffice.org 2 Beta 2 and earlier)[2] GNU LGPL version 3 (OpenOffice.org 2 and later)[3]"
-"oXygenXML Editor[4]","17.1 (October)","2015","Syncro Soft","Proprietary (some components Apache-2.0)"
-"3.5.9 (February 20)","2008","The Quanta Team","GPL","null"
-"1.4","2017","Ambiera","Proprietary","null"
-"2.53.1 (February 28)","2020","SeaMonkey Council","MPL-2.0","null"
-"2.0.19 (February 25)","2021","Macromates","GPL-3.0-or-later","null"
-"5.07 (July 28)","2013","Lauyan Software","Proprietary","null"
-"7.0 (September 26)","2013","JetBrains","Proprietary","null"
-"null","null","null","null","null"
+"Editor","Windows , URL: /wiki/Microsoft_Windows
+","OS X , URL: /wiki/OS_X
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/Berkeley_Software_Distribution
+","Unix , URL: /wiki/Unix
+","iOS , URL: /wiki/IOS
+","Android , URL: /wiki/Android_(operating_system)
+"
+"Amaya , URL: /wiki/Amaya_(web_browser)
+","Terminated 2012","Terminated 2012","Terminated 2012","Terminated 2012","Terminated 2012","No","No"
+"Aptana , URL: /wiki/Aptana
+","Yes","Yes","Yes","Yes","No","No","No"
+"Arachnophilia , URL: /wiki/Arachnophilia
+","Yes","Yes","Yes","Yes","No","No","No"
+"Atom , URL: /wiki/Atom_(text_editor)
+","Yes","Yes","Yes","No","No","No","No"
+"Bluefish , URL: /wiki/Bluefish_(text_editor)
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"BlueGriffon , URL: /wiki/BlueGriffon
+","Yes","Yes","Yes","No","No","No","No"
+"Brackets , URL: /wiki/Adobe_Brackets
+","Yes","Yes","Yes","No","No","No","No"
+"Claris Homepage , URL: /wiki/Claris_Homepage
+","Terminated (3.0)","No","No","No","No","No","No"
+"Codelobster , URL: /wiki/Codelobster
+","Yes","No","No","No","No","No","No"
+"CoffeeCup HTML Editor , URL: /wiki/CoffeeCup_HTML_Editor
+","Yes","Yes","No","No","No","No","No"
+"CudaText , URL: /wiki/CudaText
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"Contribute , URL: /wiki/Adobe_Contribute
+","Yes","Yes","No","No","No","No","No"
+"Dreamweaver , URL: /wiki/Dreamweaver
+","Yes","Yes","No","No","No","No","No"
+"EZGenerator , URL: /wiki/EZGenerator
+","Yes","No","No","No","No","No","No"
+"Freeway , URL: /wiki/Freeway_(software)
+","No","Yes","No","No","No","No","No"
+"GoLive , URL: /wiki/Adobe_GoLive
+","Terminated (9.0)","Terminated (9.0)","No","No","No","No","No"
+"HTML-Kit , URL: /wiki/HTML-Kit
+","Yes","No","No","No","No","No","No"
+"KompoZer , URL: /wiki/KompoZer
+","Yes","Yes","Yes","Yes","No","No","No"
+"LibreOffice , URL: /wiki/LibreOffice
+","Yes","Yes","Yes","source only","source only","No","No"
+"Maqetta , URL: /wiki/Maqetta
+","Yes","Yes","Cloud[6]","Cloud[6]","No","No","No"
+"Microsoft Expression Web , URL: /wiki/Microsoft_Expression_Web
+","Yes","No","No","No","No","No","No"
+"Microsoft FrontPage , URL: /wiki/Microsoft_FrontPage
+","Terminated (2003)","No","No","No","No","No","No"
+"Microsoft SharePoint Designer , URL: /wiki/Microsoft_SharePoint_Designer
+","Yes","No","No","No","No","No","No"
+"Microsoft Visual Web Developer , URL: /wiki/Microsoft_Visual_Web_Developer
+","Yes","No","No","No","No","No","No"
+"Web Architect","Yes","No","No","No","No","No","No"
+"Mobirise , URL: /wiki/Mobirise
+","Yes","Yes","No","No","No","No","Yes"
+"Mozilla Composer , URL: /wiki/Mozilla_Composer
+","Terminated (1.7.13)","Terminated (1.7.13)","Terminated (1.7.13)","Terminated (1.7.13)","Terminated (1.7.13)","No","No"
+"Nvu , URL: /wiki/Nvu
+","Terminated (1.0)","Terminated (1.0)","Terminated (1.0)","Terminated (1.0)","No","No","No"
+"openElement , URL: /wiki/OpenElement
+","Yes","No","No","No","No","No","No"
+"OpenOffice.org , URL: /wiki/OpenOffice.org
+","Yes","Yes","Yes","source only","source only","No","No"
+"oXygenXML Editor , URL: /wiki/Oxygen_XML_Editor
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"Quanta Gold (deprecated) , URL: /wiki/Quanta_Plus
+","Yes","Yes","Yes","No","No","No","No"
+"Quanta Plus , URL: /wiki/Quanta_Plus
+","No","Terminated 2009","Terminated 2009","Terminated 2009","Terminated 2009","No","No"
+"RocketCake , URL: /wiki/RocketCake
+","Yes","Yes","No","No","No","No","No"
+"SeaMonkey , URL: /wiki/SeaMonkey
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"TOWeb , URL: /wiki/TOWeb
+","Yes","No","No","No","No","No","No"
+"WebStorm , URL: /wiki/WebStorm
+","Yes","Yes","Yes","Yes","Yes","No","No"
+"Editor","Windows , URL: /wiki/Microsoft_Windows
+","OS X , URL: /wiki/OS_X
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/Berkeley_Software_Distribution
+","Unix , URL: /wiki/Unix
+","iOS , URL: /wiki/IOS
+","Android , URL: /wiki/Android_(operating_system)
+"

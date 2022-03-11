@@ -1,0 +1,91 @@
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Process","Transistors (billion)","Die size (mm2)","Core config[a]","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","L2 , URL: /wiki/GPU_cache
+","Clock speeds","Clock speeds","Clock speeds","Memory","Memory","Memory","Memory","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","Ray-tracing , URL: /wiki/Ray_tracing_(graphics)
+","Ray-tracing , URL: /wiki/Ray_tracing_(graphics)
+","TDP , URL: /wiki/Thermal_design_power
+"
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Process","Transistors (billion)","Die size (mm2)","Core config[a]","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","L2 , URL: /wiki/GPU_cache
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","MT/s , URL: /wiki/Transfer_(computing)
+","GiB , URL: /wiki/Gibibyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Double precision , URL: /wiki/Double_precision_floating-point_format
+","Half precision , URL: /wiki/Half_precision_floating-point_format
+","Tensor , URL: /wiki/Tensor
+","Rays/s (Billions)","RTX OPS/s (Trillions)","TDP , URL: /wiki/Thermal_design_power
+"
+"GeForce MX230[225]","February 20, 2019","GP108 (N17S-G0)","14","1.8","70","256:16:16","PCIe 3.0 x4","0.5","1519","1531","7000","2 4","56","GDDR5","64","25.31","25.31","810.0","25.31","12.66","N/A","N/A","N/A","10"
+"GeForce MX250[226][227]","February 20, 2019","GP108 (N17S-G2)","14","1.8","70","384:24:16","PCIe 3.0 x4","0.5","1518","1582","7000","2 4","56","GDDR5","64","24.3","36.4","1166","37.97","18.98","N/A","N/A","N/A","25"
+"GeForce MX250[226][227]","February 20, 2019","GP108B","14","1.8","70","384:24:16","PCIe 3.0 x4","0.5","937","1038","7000","2 4","48.06","GDDR5","64","16.61","24.91","797.2","24.91","12.46","N/A","N/A","N/A","10"
+"GeForce MX330[228]","February 12, 2020","GP108 (N17S-G3)","14","1.8","70","384:24:16","PCIe 3.0 x4","0.5","1531","1594","7000","2 4","56","GDDR5","64","25.50","38.26","1224","38.26","19.13","N/A","N/A","N/A","25"
+"GeForce MX350[229]","February 12, 2020","GP107 (N17S-G5)","14","3.3","135","640:32:16","PCIe 3.0 x4","0.5","1354","1468","7000","2 4","56","GDDR5","64","23.49","46.98","1879","58.72","29.36","N/A","N/A","N/A","20"
+"GeForce MX450[230][231]","August 1, 2020","TU117 (N18S-G5)","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","4.7","200","896:56:?","PCIe 4.0 x4","1","1395","1575","7000","2","56","GDDR5","64","64","","","","","N/A","N/A","N/A","25"
+"GeForce MX450[230][231]","August 1, 2020","TU117 (N18S-G5)","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","4.7","200","896:56:?","PCIe 4.0 x4","1","1395","1575","10000","2","80","","64","64","","","","","N/A","N/A","N/A","25"
+"MX550[232]","2022","TU117","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","?","?","?","","","","","","","","","64","","","","","","","","",""
+"MX570[233]","2022","GA107","Samsung , URL: /wiki/Samsung
+","?","?","?","","","","","","","","","64","","","","","","","","",""
+"GeForce RTX 2050[234][235]","2022","GA107","Samsung , URL: /wiki/Samsung
+","?","?","2048:128:48:256:32 (32) (3)","PCIe 3.0 x16","2","1155","1477","14000","4","112.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","64","","","","","","","","","30-45"
+"GeForce RTX 2060[236]","January 29, 2019","TU106","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","10.8","445","1920:120:48:240:30 (30) (3)","PCIe 3.0 x16","3","960","1200","14000","6","336.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","192","57.6","144","4608","144.0","9216","","","","80"
+"GeForce RTX 2060 Max-Q[237]","January 29, 2019","TU106","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","10.8","445","1920:120:48:240:30 (30) (3)","PCIe 3.0 x16","3","975","1175","11000","6","264.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","192","56.88","142.2","4550","142.2","9101","","","","65"
+"GeForce RTX 2070[238]","January 29, 2019","TU106","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","10.8","445","2304:144:64:288:36 (36) (3)","PCIe 3.0 x16","4","1215","1440","14000","8","448.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","256","92.16","207.4","6636","207.4","13270","","","","115"
+"GeForce RTX 2070 Max-Q[239]","January 29, 2019","TU106","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","10.8","445","2304:144:64:288:36 (36) (3)","PCIe 3.0 x16","4","885","1185","12000","8","448.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","256","75.84","170.6","5460","170.6","10920","","","","80"
+"GeForce RTX 2070 Super[240]","April 2, 2020","TU104","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","13.6","545","2560:160:64:320:40 (40) (5)","PCIe 3.0 x16","4","1140","1380","14000","8","448.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","256","88.3","220.8","7066","220.8","14130","","","","115"
+"GeForce RTX 2070 Super Max-Q[241]","April 2, 2020","TU104","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","13.6","545","2560:160:64:320:40 (40) (5)","PCIe 3.0 x16","4","930","1155","12000","8","448.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","256","69.1","172.8","5530","172.8","11060","","","","80"
+"GeForce RTX 2080[242]","January 29, 2019","TU104","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","13.6","545","2944:184:64:368:46 (46) (6)","PCIe 3.0 x16","4","1380","1590","14000","8","384.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","256","101.8","292.6","9362","292.6","18720","","","","150"
+"GeForce RTX 2080 Max-Q[243]","January 29, 2019","TU104","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","13.6","545","2944:184:64:368:46 (46) (6)","PCIe 3.0 x16","4","735","1095","12000","8","384.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","256","70.08","201.5","6447","201.5","12890","","","","80"
+"GeForce RTX 2080 Super[244]","April 2, 2020","TU104","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","13.6","545","3072:192:64:384:48 (48) (6)","PCIe 3.0 x16","4","1365","1560","14000","8","448.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","256","99.8","299.5","9585","299.5","19170","","","","150"
+"GeForce RTX 2080 Super Max-Q[245]","April 2, 2020","TU104","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","13.6","545","3072:192:64:384:48 (48) (6)","PCIe 3.0 x16","4","735","1080","11000","8","352.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","256","69.1","207.4","6636","207.4","13270","","","","80"

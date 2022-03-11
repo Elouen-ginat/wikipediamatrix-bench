@@ -1,0 +1,70 @@
+"codename , URL: /wiki/Codename
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/Floating-point_operations_per_second
+","GFLOPS , URL: /wiki/Floating-point_operations_per_second
+","GFLOPS , URL: /wiki/Floating-point_operations_per_second
+","Memory","Memory","Memory","Memory","TBP","Bus interface"
+"codename , URL: /wiki/Codename
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Config[e]","MHz , URL: /wiki/Hertz
+","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","Half , URL: /wiki/Half-precision_floating-point_format
+","Single , URL: /wiki/Single_precision_floating-point_format
+","Double , URL: /wiki/Double_precision_floating-point_format
+","Size","Bandwidth (GB/s)","Bus type & width","MT/s , URL: /wiki/Transfer_(computing)
+","TBP","Bus interface"
+"Radeon RX 5300[117] (Navi 14 XL)","August 28, 2020","RDNA , URL: /wiki/RDNA_(microarchitecture)
+TSMC , URL: /wiki/TSMC
+7FF , URL: /wiki/7_nanometer
+","6.4×109 158 mm2","1408:88:32 22 CU","1327 1645","116.8 144.8","42.46 52.64","7,474 9,265","3,737 4,632","233.5 289.5","3 GB","168","GDDR6 96-bit","14000","100 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 5300 XT[119] (Navi 14 XL)","October 7, 2019[120] OEM","RDNA , URL: /wiki/RDNA_(microarchitecture)
+TSMC , URL: /wiki/TSMC
+7FF , URL: /wiki/7_nanometer
+","6.4×109 158 mm2","1408:88:32 22 CU","1670 1845","146.7 162.4","53.44 59.04","9,405 10,390","4,703 5,196","293.9 324.7","4 GB","112","GDDR5 128-bit","7000","100 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 5500[121] (Navi 14 XT)","October 7, 2019[122] ?","RDNA , URL: /wiki/RDNA_(microarchitecture)
+TSMC , URL: /wiki/TSMC
+7FF , URL: /wiki/7_nanometer
+","6.4×109 158 mm2","1408:88:32 22 CU","1670 1845","146.7 162.4","53.44 59.04","9,405 10,390","4,703 5,196","293.9 324.7","4 GB","","","","","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 5500 XT[124] (Navi 14 XTX)","December 12, 2019 $169 USD (4GB) $199 USD (8GB)","RDNA , URL: /wiki/RDNA_(microarchitecture)
+TSMC , URL: /wiki/TSMC
+7FF , URL: /wiki/7_nanometer
+","6.4×109 158 mm2","1408:88:32 22 CU","1717 1845","151.1 162.4","54.94 59.04","9,670 10,390","4,835 5,196","302.2 324.7","4/8 GB","130 W[125]","","","","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 5600[126] (Navi 10 XE)","January 21, 2020 OEM","RDNA , URL: /wiki/RDNA_(microarchitecture)
+TSMC , URL: /wiki/TSMC
+7FF , URL: /wiki/7_nanometer
+","10.3×109 251 mm2","2048:128:64 32 CU","1375 1560","176 199.7","88 99.84","11,264 12,780","5,632 6,390","352 399.4","6 GB","288","GDDR6 , URL: /wiki/GDDR6
+","12000","150 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 5600 XT[127] (Navi 10 XLE)","January 21, 2020 $279 USD","RDNA , URL: /wiki/RDNA_(microarchitecture)
+TSMC , URL: /wiki/TSMC
+7FF , URL: /wiki/7_nanometer
+","10.3×109 251 mm2","2304:144:64 36 CU","1375 1750[128]","198 252","88 112","12,675 16,131","6,337 8,066","396 504","6 GB","288- 336[129]","GDDR6 , URL: /wiki/GDDR6
+","12000- 14000[129]","160 W[129]","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 5700[130][131][132][133][134] (Navi 10 XL)","July 7, 2019 $349 USD","RDNA , URL: /wiki/RDNA_(microarchitecture)
+TSMC , URL: /wiki/TSMC
+7FF , URL: /wiki/7_nanometer
+","10.3×109 251 mm2","2304:144:64 36 CU","1465 1725","211 248.4","93.8 110.4","13,501 15,900","6,751 7,949","421.9 496.8","8 GB","448","GDDR6 , URL: /wiki/GDDR6
+","14000","180 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 5700 XT[135][130][132][133][136] (Navi 10 XT)","July 7, 2019 $399 USD $449 USD (50th)","RDNA , URL: /wiki/RDNA_(microarchitecture)
+TSMC , URL: /wiki/TSMC
+7FF , URL: /wiki/7_nanometer
+","10.3×109 251 mm2","2560:160:64 40 CU","1605 1905","256.8 304.8","102.7 121.9","16,435 19,510","8,218 9,754","513.6 609.6","8 GB","448","GDDR6 , URL: /wiki/GDDR6
+","14000","225 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 5700 XT 50th Anniversary Edition[137][138][133][139] (Navi 10 XTX)","July 7, 2019 $399 USD $449 USD (50th)","RDNA , URL: /wiki/RDNA_(microarchitecture)
+TSMC , URL: /wiki/TSMC
+7FF , URL: /wiki/7_nanometer
+","10.3×109 251 mm2","2560:160:64 40 CU","1680 1980","268.8 316.8","107.5 126.7","17,203 20,276","8,602 10,138","537.6 633.6","8 GB","448","GDDR6 , URL: /wiki/GDDR6
+","14000","235 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"

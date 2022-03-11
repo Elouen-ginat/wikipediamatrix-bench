@@ -1,0 +1,100 @@
+"","byte , URL: /wiki/Byte
+","byte , URL: /wiki/Byte
+","short integer , URL: /wiki/Short_integer
+","short integer , URL: /wiki/Short_integer
+","32 bit","32 bit","long integer , URL: /wiki/Long_integer
+","long integer , URL: /wiki/Long_integer
+","Word size","Word size","bignum , URL: /wiki/Arbitrary-precision_arithmetic
+"
+"","Signed","Unsigned","Signed","Unsigned","Signed","Unsigned","Signed","Unsigned","Signed","Unsigned","bignum , URL: /wiki/Arbitrary-precision_arithmetic
+"
+"Ada , URL: /wiki/Ada_(programming_language)
+","range -2**7 .. 2**7 - 1[j]","range 0 .. 2**8 - 1[j] or mod 2**8[k]","range -2**15 .. 2**15 - 1[j]","range 0 .. 2**16 - 1[j] or mod 2**16[k]","range -2**31 .. 2**31 - 1[j]","range 0 .. 2**32 - 1[j] or mod 2**32[k]","range -2**63 .. 2**63 - 1[j]","mod 2**64[k]","Integer[j]","range 0 .. 2**Integer'Size - 1[j] or mod Integer'Size[k]","N/A"
+"ALGOL 68 , URL: /wiki/ALGOL_68
+","short short int[c]","N/A","short int[c]","N/A","int[c]","N/A","long int[c]","N/A","int[c]","N/A","long long int [a][g]"
+"ALGOL 68 , URL: /wiki/ALGOL_68
+","short short int[c]","N/A","short int[c]","N/A","int[c]","N/A","long int[c]","N/A","bytes & bits","bytes & bits","long long int [a][g]"
+"C , URL: /wiki/C_(programming_language)
+C99 , URL: /wiki/C99
+","int8_t","uint8_t","int16_t","uint16_t","int32_t","uint32_t","int64_t","uint64_t","intptr_t[c]","size_t[c]","N/A"
+"C++ , URL: /wiki/C%2B%2B
+C++11 , URL: /wiki/C%2B%2B11
+","int8_t","uint8_t","int16_t","uint16_t","int32_t","uint32_t","int64_t","uint64_t","intptr_t[c]","size_t[c]","N/A"
+"C , URL: /wiki/C_(programming_language)
+C99 , URL: /wiki/C99
+","signed char","unsigned char","short[c]","unsigned short[c]","long[c]","unsigned long[c]","long long[c]","unsigned long long[c]","int[c]","unsigned int[c]","N/A"
+"C++ , URL: /wiki/C%2B%2B
+C++11 , URL: /wiki/C%2B%2B11
+","signed char","unsigned char","short[c]","unsigned short[c]","long[c]","unsigned long[c]","long long[c]","unsigned long long[c]","int[c]","unsigned int[c]","N/A"
+"Objective-C , URL: /wiki/Objective-C
+Cocoa , URL: /wiki/Cocoa_(API)
+","signed char or int8_t","unsigned char or uint8_t","short or int16_t","unsigned short or uint16_t","int or int32_t","unsigned int or uint32_t","long long or int64_t","unsigned long long or uint64_t","NSInteger or long","NSUInteger or unsigned long","N/A"
+"C# , URL: /wiki/C_Sharp_(programming_language)
+","sbyte","byte","short","ushort","int","uint","long","ulong","IntPtr","UIntPtr","System.Numerics.BigInteger (.NET 4.0)"
+"Java , URL: /wiki/Java_(programming_language)
+","byte","N/A","short","char[b]","int","N/A","long","N/A","N/A","N/A","java.math.BigInteger"
+"Go , URL: /wiki/Go_(programming_language)
+","int8","uint8 or byte","int16","uint16","int32","uint32","int64","uint64","int","uint","big.Int"
+"Rust , URL: /wiki/Rust_(programming_language)
+","i8","u8","i16","u16","i32","u32","i64","u64","isize","usize","N/A"
+"Swift , URL: /wiki/Swift_(programming_language)
+","Int8","UInt8","Int16","UInt16","Int32","UInt32","Int64","UInt64","Int","UInt",""
+"D , URL: /wiki/D_(programming_language)
+","byte","ubyte","short","ushort","int","uint","long","ulong","N/A","N/A","BigInt"
+"Common Lisp , URL: /wiki/Common_Lisp
+","(signed-byte 8)","(unsigned-byte 8)","(signed-byte 16)","(unsigned-byte 16)","(signed-byte 32)","(unsigned-byte 32)","(signed-byte 64)","(unsigned-byte 64)","","","bignum"
+"Scheme , URL: /wiki/Scheme_(programming_language)
+","","","","","","","","","","",""
+"ISLISP , URL: /wiki/ISLISP
+","","","","","","","","","","","bignum"
+"Pascal , URL: /wiki/Pascal_(programming_language)
+FPC , URL: /wiki/Free_Pascal
+","shortint","byte","smallint","word","longint","longword","int64","qword","integer","cardinal","N/A"
+"Visual Basic , URL: /wiki/Visual_Basic_(classic)
+","N/A","Byte","Integer","N/A","Long","N/A","N/A","N/A","N/A","N/A","N/A"
+"Visual Basic .NET , URL: /wiki/Visual_Basic_.NET
+","SByte","Byte","Short","UShort","Integer","UInteger","Long","ULong","N/A","N/A","System.Numerics.BigInteger (.NET 4.0)"
+"FreeBasic , URL: /wiki/FreeBasic
+","Byte or Integer<8>","UByte or UInteger<8>","Short or Integer<16>","UShort or UInteger<16>","Long or Integer<32>","ULong or UInteger<32>","LongInt or Integer<64>","ULongInt or UInteger<64>","Integer","UInteger","N/A"
+"Python , URL: /wiki/Python_(programming_language)
+","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","int","N/A","long"
+"Python 3.x","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","int"
+"S-Lang , URL: /wiki/S-Lang_(programming_language)
+","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A"
+"Fortran , URL: /wiki/Fortran
+","INTEGER(KIND = n)[f]","N/A","INTEGER(KIND = n)[f]","N/A","INTEGER(KIND = n)[f]","N/A","INTEGER(KIND = n)[f]","N/A","","",""
+"PHP , URL: /wiki/PHP
+","N/A","N/A","N/A","N/A","int [m]","N/A","int [m]","N/A","N/A","N/A","[e]"
+"Perl , URL: /wiki/Perl
+","N/A[d]","N/A[d]","N/A[d]","N/A[d]","N/A[d]","N/A[d]","N/A[d]","N/A[d]","N/A[d]","N/A[d]","Math::BigInt"
+"Raku , URL: /wiki/Raku_(programming_language)
+","int8","uint8","int16","uint16","int32","uint32","int64","uint64","Int","N/A","N/A"
+"Ruby , URL: /wiki/Ruby_(programming_language)
+","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","Fixnum","N/A","Bignum"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","integer()","N/A","integer()[o]"
+"Scala , URL: /wiki/Scala_(programming_language)
+","Byte","N/A","Short","Char[l]","Int","N/A","Long","N/A","N/A","N/A","scala.math.BigInt"
+"Seed7 , URL: /wiki/Seed7
+","N/A","N/A","N/A","N/A","N/A","N/A","integer","N/A","N/A","N/A","bigInteger"
+"Smalltalk , URL: /wiki/Smalltalk
+","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","SmallInteger[i]","N/A","LargeInteger[i]"
+"Windows PowerShell , URL: /wiki/Windows_PowerShell
+","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A"
+"OCaml , URL: /wiki/OCaml
+","N/A","N/A","N/A","N/A","int32","N/A","int64","N/A","int or nativeint","","open Big_int;; big_int"
+"F# , URL: /wiki/F_Sharp_(programming_language)
+","sbyte","byte","int16","uint16","int32 or int","uint32","int64","uint64","nativeint","unativeint","bigint"
+"Standard ML , URL: /wiki/Standard_ML
+","N/A","Word8.word","N/A","N/A","Int32.int","Word32.word","Int64.int","Word64.word","int","word","LargeInt.int or IntInf.int"
+"Haskell , URL: /wiki/Haskell_(programming_language)
+GHC , URL: /wiki/Glasgow_Haskell_Compiler
+","«import Int» Int8","«import Word» Word8","«import Int» Int16","«import Word» Word16","«import Int» Int32","«import Word» Word32","«import Int» Int64","«import Word» Word64","Int","«import Word» Word","Integer"
+"Eiffel , URL: /wiki/Eiffel_(programming_language)
+","INTEGER_8","NATURAL_8","INTEGER_16","NATURAL_16","INTEGER_32","NATURAL_32","INTEGER_64","NATURAL_64","INTEGER","NATURAL","N/A"
+"COBOL , URL: /wiki/COBOL
+","BINARY-CHAR «SIGNED»","BINARY-CHAR UNSIGNED","BINARY-SHORT «SIGNED»","BINARY-SHORT UNSIGNED","BINARY-LONG «SIGNED»","BINARY-LONG UNSIGNED","BINARY-DOUBLE «SIGNED»","BINARY-DOUBLE UNSIGNED","N/A","N/A","N/A"
+"Mathematica , URL: /wiki/Mathematica
+","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","Integer"
+"Wolfram Language , URL: /wiki/Wolfram_Language
+","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","N/A","Integer"

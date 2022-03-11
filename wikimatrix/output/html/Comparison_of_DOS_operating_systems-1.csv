@@ -1,63 +1,154 @@
-"null","null","null","null"
-"1981-02-25","Seattle Computer Products","Support ended","Proprietary"
-"1981-04-28","null","null","null"
-"1981-08-12","Microsoft (for IBM)","null","null"
-"1982-05-??","null","null","null"
-"1983-03-??","null","null","null"
-"1983-10-??","null","null","null"
-"1984-08-??","null","null","null"
-"1985","null","null","null"
-"1986","null","null","null"
-"1987","null","null","null"
-"1988","null","null","null"
-"1991","null","null","null"
-"1993","null","null","null"
-"1995","null","null","null"
-"1998","null","null","null"
-"2003","Support ended by IBM","null","null"
-"1982","Microsoft","Support ended","Open source, MIT License"
-"1982-05-??","OEM Zenith Data Systems","Proprietary","null"
-"1983-03-??","Microsoft","Open source, MIT License","null"
-"1983-12-??","Proprietary","null","null"
-"1984","null","null","null"
-"null","null","null","null"
-"1986","null","null","null"
-"1987","null","null","null"
-"1988","null","null","null"
-"1991","null","null","null"
-"1993","null","null","null"
-"null","null","null","null"
-"March 1994 [2]","null","null","null"
-"April 1994 [2]","null","null","null"
-"1995","null","null","null"
-"1996","null","null","null"
-"2000","Support ended by Microsoft[4]","null","null"
-"1985","Digital Research","Support ended","null"
-"1986","null","null","null"
-"1988","null","null","null"
-"1989","null","null","null"
-"1990","null","null","null"
-"1991","null","null","null"
-"1993","Novell","null","null"
-"1997","Caldera, Inc.; Caldera UK, Ltd.","Support ended officially; a derivative, Enhanced DR-DOS, was maintained by Udo Kuhnt until 2011","Partial, free non-commercial use"
-"Support ended","null","null","null"
-"1998","Proprietary","null","null"
-"1999, 1998 prereleased","Caldera Thin Clients, Inc.; Caldera UK, Ltd; Lineo, Inc.","DRDOS, Inc.","null"
-"2004","DeviceLogics","Support ended","null"
-"2005","DRDOS, Inc.","null","null"
-"2006-09-03","Jim Hall, et al.","The FreeDOS Project","Open source, GPL"
-"2012-01-02","null","null","null"
-"2016-12-25","null","null","null"
-"1993","PhysTechSoft[6]","PhysTechSoft","Proprietary"
-"?","null","null","null"
-"null","null","null","null"
-"null","null","null","null"
-"null","null","null","null"
-"ca. 1995","Paragon Technology Systems","Paragon Technology Systems","null"
-"?","null","null","null"
-"Datalight","Datalight","null","null"
-"null","null","null","null"
-"General Software","General Software","null","null"
-"1989","DIP Research, Atari Corporation","Support ended","null"
-"1994","Michael Podanoffsky","Support ended","Open source, GPL"
-"?","Itautec, Scopus Tecnologia","Support ended","Proprietary"
+"Name","Hard drive , URL: /wiki/Hard_drive
+","File systems , URL: /wiki/File_system
+","Native support: floppy capacities 3.5"","Native support: floppy capacities 5.25"","Native support: floppy capacities 8.0"","Integrated disk compression utility","Native support: long file names"
+"86-DOS 0.42 , URL: /wiki/86-DOS_0.42
+1.00 , URL: /wiki/86-DOS_1.00
+","n/a","FAT12 , URL: /wiki/FAT12
+CP/M 2 , URL: /wiki/CP/M-80
+","n/a","NorthStar , URL: /wiki/North_Star_Computers
+Cromemco , URL: /wiki/Cromemco
+","Tarbell , URL: /wiki/Tarbell_Electronics
+","No","No"
+"MS-DOS 1.25 , URL: /wiki/MS-DOS_1.25
+","n/a","FAT12","n/a","160 KB; 320 KB","250.25 KB[9]","No","No"
+"MS-DOS 2.0 , URL: /wiki/MS-DOS_2.0
+2.11 , URL: /wiki/MS-DOS_2.11
+","16 MB (32 MB with third-party FORMAT)[10]","FAT12","n/a","160 KB; 180 KB; 320 KB; 360 KB","250.25 KB;[9][11][12] 500.5 KB;[9][11][12] 616 KB;[11][12] 1232 KB[9][11]</ref>[12]","No","No"
+"MS-DOS 3.0 , URL: /wiki/MS-DOS_3.0
+","32 MB","FAT16 , URL: /wiki/FAT16
+","n/a","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"MS-DOS 3.1 , URL: /wiki/MS-DOS_3.1
+","32 MB","FAT12, FAT16","n/a","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"MS-DOS 3.2 , URL: /wiki/MS-DOS_3.2
+","32 MB","FAT12, FAT16","720 KB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"MS-DOS 3.3 , URL: /wiki/MS-DOS_3.3
+","32 MB","FAT12, FAT16","720 KB; 1.44 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"MS-DOS 3.31 , URL: /wiki/MS-DOS_3.31
+","512 MB","FAT16B , URL: /wiki/FAT16B
+","720 KB; 1.44 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"MS-DOS 4.0 , URL: /wiki/MS-DOS_4.0
+","2 GB","FAT16B , URL: /wiki/FAT16B
+","720 KB; 1.44 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"MS-DOS 5.0 , URL: /wiki/MS-DOS_5.0
+","2 GB","FAT12, FAT16, FAT16B","720 KB, 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"MS-DOS 6.0 , URL: /wiki/MS-DOS_6.0
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","DoubleSpace , URL: /wiki/DoubleSpace
+","No"
+"MS-DOS 6.20 , URL: /wiki/MS-DOS_6.20
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","DoubleSpace","No"
+"MS-DOS 6.21 , URL: /wiki/MS-DOS_6.21
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"MS-DOS 6.22 , URL: /wiki/MS-DOS_6.22
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","DriveSpace , URL: /wiki/DriveSpace
+","No"
+"MS-DOS 7.0 , URL: /wiki/MS-DOS_7.0
+Windows 95 , URL: /wiki/Windows_95
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","DriveSpace","No"
+"MS-DOS 7.1 , URL: /wiki/MS-DOS_7.1
+Windows 98 , URL: /wiki/Windows_98
+Windows 98SE , URL: /wiki/Windows_98_SE
+","124.55 GB with FAT32[13]","FAT32 , URL: /wiki/FAT32
+","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","DriveSpace for Windows 95, none for Windows 98","No"
+"MS-DOS 8.0 , URL: /wiki/MS-DOS_8.0
+Windows Me , URL: /wiki/Windows_Me
+","124.55 GB with FAT32[13]","FAT12, FAT16, FAT16B, FAT32","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"PC DOS 1.0 , URL: /wiki/PC_DOS_1.0
+","n/a","FAT12","n/a","160 KB","n/a","No","No"
+"PC DOS 1.1 , URL: /wiki/PC_DOS_1.1
+","n/a","FAT12","n/a","160 KB; 320 KB (double-sided)","n/a","No","No"
+"PC DOS 2.0 , URL: /wiki/PC_DOS_2.0
+2.1 , URL: /wiki/PC_DOS_2.1
+","16 MB (32 MB with third-party FORMAT)[10]","FAT12","n/a","160 KB; 180 KB; 320 KB; 360 KB","n/a","No","No"
+"PC DOS 3.0 , URL: /wiki/PC_DOS_3.0
+","32 MB","FAT16 , URL: /wiki/FAT16
+","n/a","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"PC DOS 3.1 , URL: /wiki/PC_DOS_3.1
+","32 MB","FAT12, FAT16","n/a","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"PC DOS 3.2 , URL: /wiki/PC_DOS_3.2
+","32 MB","FAT12, FAT16","720 KB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"PC DOS 3.3 , URL: /wiki/PC_DOS_3.3
+","32 MB","FAT12, FAT16","720 KB; 1.44 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"IBM DOS 4.0 , URL: /wiki/IBM_DOS_4.0
+","2 GB","FAT16B , URL: /wiki/FAT16B
+","720 KB; 1.44 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"IBM DOS 5.0 , URL: /wiki/IBM_DOS_5.0
+","2 GB","FAT12, FAT16, FAT16B","720 KB, 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"PC DOS 6.1 , URL: /wiki/PC_DOS_6.1
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"PC DOS 6.1 , URL: /wiki/PC_DOS_6.1
+PC DOS 6.3 , URL: /wiki/PC_DOS_6.3
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","SuperStor , URL: /wiki/SuperStor
+","No"
+"PC DOS 7.0 , URL: /wiki/PC_DOS_7.0
+PC DOS 2000 , URL: /wiki/PC_DOS_2000
+","2 GB","FAT12, FAT16, FAT16B","XDF , URL: /wiki/IBM_Extended_Density_Format
+","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB, 1.54 MB (XDF)","n/a","Stacker , URL: /wiki/Stac_Electronics
+","No"
+"PC DOS 7.10 , URL: /wiki/PC_DOS_7.10
+","?","FAT12, FAT16, FAT16B, FAT32","720 KB; 1.44 MB, 1.86 MB (XDF), 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB, 1.54 MB (XDF)","n/a","Stacker, not on FAT32","No"
+"DOS Plus 1.1 , URL: /wiki/DOS_Plus_1.1
+","32 MB","CP/M-86 , URL: /wiki/CP/M-86
+","CP/M , URL: /wiki/CP/M-86
+MSX-DOS , URL: /wiki/MSX-DOS
+","CP/M , URL: /wiki/CP/M-86
+","n/a","No","No"
+"DOS Plus 1.2 , URL: /wiki/DOS_Plus_1.2
+2.1 , URL: /wiki/DOS_Plus_2.1
+","32 MB","CP/M-86 , URL: /wiki/CP/M-86
+","Apricot , URL: /wiki/Apricot_PC
+","Acorn , URL: /wiki/BBC_Master_512
+CP/M , URL: /wiki/CP/M-86
+","n/a","No","No"
+"DR DOS 3.31 , URL: /wiki/DR_DOS_3.31
+3.35 , URL: /wiki/DR_DOS_3.35
+","2 GB[citation needed]","FAT12, FAT16, FAT16B","720 KB; 1.44 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","n/a","No","No"
+"DR DOS 3.40 , URL: /wiki/DR_DOS_3.40
+3.41 , URL: /wiki/DR_DOS_3.41
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","(250.25 KB[17])","No","No"
+"DR DOS 5.0 , URL: /wiki/DR_DOS_5.0
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","(250.25 KB[17])","No","No"
+"DR DOS 6.0 , URL: /wiki/DR_DOS_6.0
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","(250.25 KB[17])","SuperStor","No"
+"PalmDOS 1.0 , URL: /wiki/PalmDOS_1.0
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","(250.25 KB[17])","SuperStor","No"
+"Novell DOS 7 , URL: /wiki/Novell_DOS_7
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","(250.25 KB[17])","Stacker","No"
+"OpenDOS 7.01 , URL: /wiki/OpenDOS_7.01
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","(250.25 KB[17])","Stacker","No"
+"DR-OpenDOS 7.02 , URL: /wiki/DR-OpenDOS_7.02
+","2 GB","FAT12, FAT16, FAT16B","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","(250.25 KB[17])","Stacker","No"
+"DR-DOS 7.02 , URL: /wiki/DR-DOS_7.02
+","2 GB","FAT12, FAT16, FAT16B, (FAT32 in FDISK only)","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","(250.25 KB[17])","Stacker","COMMAND.COM , URL: /wiki/COMMAND.COM
+LONGNAME , URL: /wiki/LONGNAME
+"
+"DR-DOS 7.03 , URL: /wiki/DR-DOS_7.03
+","2 GB","FAT12, FAT16, FAT16B, (FAT32 in FDISK only)","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","(250.25 KB[17])","Stacker","COMMAND.COM , URL: /wiki/COMMAND.COM
+LONGNAME , URL: /wiki/LONGNAME
+"
+"DR-DOS 7.04 , URL: /wiki/DR-DOS_7.04
+7.05 , URL: /wiki/DR-DOS_7.05
+","?","FAT12, FAT16, FAT16B, FAT32 (non-bootable)","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","(250.25 KB[17])","Stacker, not on FAT32","COMMAND.COM , URL: /wiki/COMMAND.COM
+LONGNAME , URL: /wiki/LONGNAME
+"
+"DR-DOS 7.06 , URL: /wiki/DR-DOS_7.06
+7.07 , URL: /wiki/DR-DOS_7.07
+","?","FAT12, FAT16, FAT16B, FAT32 (bootable)","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","(250.25 KB[17])","Stacker, not on FAT32","COMMAND.COM , URL: /wiki/COMMAND.COM
+LONGNAME , URL: /wiki/LONGNAME
+"
+"DR-DOS 8.0","?","FAT12, FAT16, FAT16B, FAT32","720 KB; 1.44 MB, 2.88 MB","160 KB; 180 KB; 320 KB; 360 KB; 1.2 MB","(250.25 KB[17])","Supported, not on FAT32","COMMAND.COM , URL: /wiki/COMMAND.COM
+"
+"DR-DOS 8.1","?","FAT12, FAT16, FAT16B, FAT32","720 KB; 1.44 MB, 2.88 MB","360 KB; 1.2 MB","n/a","No","No"
+"FreeDOS 1.0 , URL: /wiki/FreeDOS_1.0
+","2 TB[citation needed]","FAT12, FAT16, FAT16B, FAT32","720 KB; 1.44 MB, 2.88 MB","360 KB; 1.2 MB","n/a","?","No"
+"FreeDOS 1.1 , URL: /wiki/FreeDOS_1.1
+1.2 , URL: /wiki/FreeDOS_1.2
+","2 TB[citation needed]","FAT12, FAT16, FAT16B, FAT32","720 KB; 1.44 MB, 2.88 MB","360 KB; 1.2 MB","n/a","No","Yes"
+"PTS-DOS , URL: /wiki/PTS-DOS
+","?","FAT12, FAT16, FAT16B, FAT32","720 KB; 1.44 MB, 2.88 MB","360 KB; 1.2 MB","n/a","No","No"
+"PTS-DOS 2000 , URL: /wiki/PTS-DOS_2000
+","?","FAT12, FAT16, FAT16B, FAT32","720 KB; 1.44 MB, 2.88 MB","360 KB; 1.2 MB","n/a","No","No"
+"PTS-DOS 2000 PRO","?","FAT12, FAT16, FAT16B, FAT32","720 KB; 1.44 MB, 2.88 MB","360 KB; 1.2 MB","n/a","No","No"
+"Datalight ROM-DOS , URL: /wiki/Datalight_ROM-DOS
+","?","FAT12, FAT16, FAT16B, FAT32","720 KB; 1.44 MB, 2.88 MB","360 KB; 1.2 MB","n/a","No","Yes"
+"DIP DOS , URL: /wiki/DIP_DOS
+","n/a","FAT12","n/a","n/a","n/a","No","No"

@@ -1,22 +1,22 @@
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"AllegroProlog","Unix, Windows, Mac OS X","Commercial, limited free edition available","","Yes","Yes","Yes","Yes, via Lisp","Yes","Yes, via Lisp","Yes, via Lisp","Yes","Yes","Yes, via Lisp","S-expressions. Full Common Lisp integration."
-"BProlog","Unix, Windows, Mac OS X","Free for non-commercial uses","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","ISO-Prolog, plus event-handling, CLP(FD), and tabling"
-"Ciao","Unix, Windows, Mac OS X","GPL, LGPL","","Yes","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","ISO-Prolog, plus extensions"
-"DOS-PROLOG","MS-DOS","Shareware","Yes","Yes","Yes","","Yes","Yes","","","","Yes","","Edinburgh Prolog"
-"ECLiPSe","Linux, Windows, Solaris, macOS","MPL","","Yes","","","Yes","","Yes","Yes","Yes","Yes","Yes","Extended Prolog, Multi-dialect, including ISO"
-"GNU Prolog","Unix, Windows, Mac OS X","GPL, LGPL","","Yes","","","Yes","Yes","Yes","","Yes","Yes","","ISO-Prolog"
-"JIProlog","JVM, Android","Shareware/Commercial and AGPL","Yes","","Yes","","Yes via Java","Yes","Yes via Java","Yes","Yes","Yes","","ISO-Prolog"
-"JLog","JVM","GPL","Yes","Yes","","","","","","Yes","Yes","","","ISO-Prolog"
-"JScriptLog","Web Browser","GPL","","","","","","","","","Yes","","","ISO-Prolog"
-"jTrolog","JVM","LGPL","","","Yes","","","","","Yes","Yes","Yes","","ISO-Prolog tests[permanent dead link]"
-"LPA-PROLOG","Windows","Commercial","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Edinburgh Prolog with extensions"
-"Open Prolog","Mac OS","Freeware","","","","","","","","","","Yes","",""
-"Poplog Prolog","Linux (32- and 64-bit), Unix, Windows","Free Open Source","Only through POP-11, on Linux","Yes","","","Yes","Yes","Yes","","Yes","Yes","","Edinburgh Prolog, with interfaces to Poplog Common Lisp and Pop-11"
-"SICStus Prolog","Unix, Linux, Windows, macOS","Commercial","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","ISO-Prolog"
-"Strawberry Prolog","Windows, Unix","Freeware, Commercial","Yes","Yes","Yes","","","Yes","","","","Yes","","Not ISO-Prolog + extensions"
-"SWI-Prolog","Unix, Linux, Windows, macOS","BSD License","Yes","Yes","Yes","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","ISO-Prolog, Edinburgh Prolog"
-"tuProlog","JVM, Android","LGPL","Yes","","Yes","","","","Yes","Yes","Yes","Yes","","ISO-Prolog"
-"Visual Prolog","Windows","Freeware, Commercial","Yes","Yes","Yes","Yes","Yes","Yes","Yes","","","Yes","Yes",""
-"XSB Prolog","Linux, Windows, Solaris, macOS","LGPL","","Yes","Yes","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","ISO-Prolog, tabled WFS"
-"YAP-Prolog","Linux, Windows, Solaris, Mac OS X, HP-UX","GPL or Artistic (user choice)","","Yes","Yes","","Yes","Yes","Yes","Yes","Yes","Yes","","Edinburgh, ISO-Prolog, Quintus and SICStus Prolog compatible"
+"","","","","","Web-related","Web-related","Web-related","Web-related"
+"Name","Conditional compilation","Sockets","Multi-threading","Tabling","HTTP client","HTTP server","HTML Parser","RDF Triple store"
+"BProlog , URL: /wiki/BProlog
+","","","","Yes","","","",""
+"Ciao , URL: /wiki/Ciao_(programming_language)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes",""
+"ECLiPSe , URL: /wiki/ECLiPSe
+","Yes","Yes","Yes","","Yes","","Yes",""
+"GNU Prolog , URL: /wiki/GNU_Prolog
+","","Yes","","","","","",""
+"LPA-Prolog , URL: /w/index.php?title=LPA-Prolog&action=edit&redlink=1
+","","Yes","","","Yes","Yes","Yes",""
+"SICStus Prolog , URL: /wiki/SICStus_Prolog
+","Yes","Yes","Yes","","","","",""
+"SWI-Prolog , URL: /wiki/SWI-Prolog
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Visual Prolog , URL: /wiki/Visual_Prolog
+","Yes","Yes","Yes","","Yes","Yes","Yes",""
+"XSB , URL: /wiki/XSB
+","Yes","Yes","Yes","Yes","Yes","","",""
+"YAP-Prolog , URL: /wiki/YAP-Prolog
+","Yes","Yes","Yes","Yes","","","",""

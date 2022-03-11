@@ -1,0 +1,41 @@
+"Codename , URL: /wiki/Codename
+","Launch","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Stream processors , URL: /wiki/Stream_processing
+","Clock rate","Clock rate","Memory , URL: /wiki/Random-access_memory
+","Memory , URL: /wiki/Random-access_memory
+","Memory , URL: /wiki/Random-access_memory
+","Memory , URL: /wiki/Random-access_memory
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","TDP , URL: /wiki/Thermal_Design_Power
+Watts , URL: /wiki/Watt
+"
+"Codename , URL: /wiki/Codename
+","Launch","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Stream processors , URL: /wiki/Stream_processing
+","Core (MHz)","Memory (MHz)","MB , URL: /wiki/Megabyte
+","Type","bit , URL: /wiki/Bit
+","GB , URL: /wiki/Gigabyte
+","Single , URL: /wiki/Single_precision_floating-point_format
+","Double , URL: /wiki/Double_precision_floating-point_format
+","TDP , URL: /wiki/Thermal_Design_Power
+Watts , URL: /wiki/Watt
+"
+"Stream Processor (R580)","2006","R500 80 nm","","240","600","","1024","GDDR3 , URL: /wiki/GDDR3
+","256","83.2","375[400]","N/A","165"
+"FireStream 9170 (RV670)[401][402]","November 8, 2007","TeraScale 1 55 nm","PCIe 2.0 x16","320","800","800","2048","GDDR3 , URL: /wiki/GDDR3
+","256","51.2","512","102.4","105"
+"FireStream 9250 (RV770)[403][404]","June 16, 2008","TeraScale 1 55 nm","PCIe 2.0 x16","800","625","993","1024","GDDR3 , URL: /wiki/GDDR3
+","256","63.6","1000","200","150"
+"FireStream 9270 (RV770)[405][406]","November 13, 2008","TeraScale 1 55 nm","PCIe 2.0 x16","800","750","850","2048","GDDR5 , URL: /wiki/GDDR5
+","256","108.8","1200","240","160"
+"FireStream 9350 (Cypress XT)[407]","June 23, 2010","TeraScale 2 40 nm","PCIe 2.1 x16","1440","700","1000","2048","GDDR5 , URL: /wiki/GDDR5
+","256","128","2016","403.2","150"
+"FireStream 9370 (Cypress XT)[408]","June 23, 2010","TeraScale 2 40 nm","PCIe 2.1 x16","1600","825","1150","4096","GDDR5 , URL: /wiki/GDDR5
+","256","147.2","2640","528","225"

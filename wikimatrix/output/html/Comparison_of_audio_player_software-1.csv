@@ -1,48 +1,85 @@
-"null","null","null","null","null","null","null","null","null","null","null","null","null"
-"AIMP DevTeam","August 8, 2006","Windows: 5.00, build 2338 (October 21, 2021; 4 months ago (2021-10-21)[1]) [±] Android: 3.20, build 1158 (October 23, 2021; 4 months ago (2021-10-23)[2]) [±]","No cost","Proprietary","BASS audio library (decoder)","Delphi","null","null","null","null","null","null"
-"Mark Kretschmann","June 1, 2003","2.9.71 (January 31, 2021; 13 months ago (2021-01-31)) [±]","No cost","GPL-2.0-or-later","via Phonon: GStreamer, xine, MPlayer, VLC, DirectShow, QuickTime","C++","null","null","null","null","null","null"
-"Tom Szilagyi et al.","January 1, 2006","1.1[3] (29 August 2020; 18 months ago (29 August 2020)) [±]","No cost","GPL-2.0-or-later","","C","null","null","null","null","null","null"
-"Alex Aranda et al.","January 1, 2006","3.1.2 (June 22, 2014; 7 years ago (2014-06-22)) [±]","No cost","GPL-2.0-or-later","","Java","null","null","null","null","null","null"
-"Audacious Development Team","October 30, 2005","4.1 (February 1, 2021; 13 months ago (2021-02-01)[4]) [±]","No cost","BSD-2-Clause","XMMS based","C, C++ (GTK)","null","null","null","null","null","null"
-"Aaron Bockover","February 17, 2005","2.6.2 (February 18, 2014; 8 years ago (2014-02-18)[5]) [±]","No cost","MIT","GStreamer","C#","null","null","null","null","null","null"
-"Clementine Team","February 22, 2010","1.3.1 (April 19, 2016; 5 years ago (2016-04-19)) [±]","No cost","GPL-3.0-or-later","GStreamer","C++ (Qt)","null","null","null","null","null","null"
-"Timo Hirvonen","January 18, 2005","2.9.1 (January 22, 2021; 13 months ago (2021-01-22)) [±]","No cost","GPL-2.0-or-later","","C","null","null","null","null","null","null"
-"Vincent Spader","May 1, 2006","0.07 (December 24, 2007; 14 years ago (2007-12-24)) [±]","No cost","GPL-2.0-only","","Objective-C","null","null","null","null","null","null"
-"Adam Olsen","May 24, 2006","4.1.0 (February 14, 2021; 12 months ago (2021-02-14)) [±]","No cost","GPL-2.0-or-later","GStreamer","Python (GTK)","null","null","null","null","null","null"
-"Louka Desroziers & Julien Sagot","September 2008","3.0.8","No cost (until version 4)","Proprietary","AV Foundation & QuickTime","Objective-C","null","null","null","null","null","null"
-"Reality Software","March 11, 2008","1.00","No cost","Proprietary","","","null","null","null","null","null","null"
-"Peter Pawlowski","November 29, 2002","1.6.10 (February 14, 2022; 19 days ago (2022-02-14)[6]) [±]","No cost","Proprietary (core), BSD (SDK)","","C++","null","null","null","null","null","null"
-"Juan Rios","March 12, 2009","0.4.6 (June 5, 2019; 20 months ago)","No cost","GPL-3.0-or-later","GStreamer","C++ (wxWidgets, wxSqlite)","null","null","null","null","null","null"
-"Apple Inc.","January 9, 2001","","No cost","Proprietary","QuickTime","?","null","null","null","null","null","null"
-"JRiver, Inc.","February 1, 1999","28.0.105 (January 28, 2022; 36 days ago (2022-01-28)[7]) [±]","$59.98 to $79.98","Proprietary","JRiver code","C++","null","null","null","null","null","null"
-"Scott Wheeler","February 1, 2003","3.11 (February 4, 2014; 8 years ago (2014-02-04)[8]) [±]","No cost","GPL-2.0-or-later","","C++","null","null","null","null","null","null"
-"Ventis Media Inc.","August 25, 2003","5.0.2.2531 (December 22, 2021; 2 months ago (2021-12-22)) [±]","No cost","Proprietary","","Delphi, C","null","null","null","null","null","null"
-"Ventis Media Inc.","August 25, 2003","5.0.2.2531 (December 22, 2021; 2 months ago (2021-12-22)) [±]","$24.95USD","Proprietary","","Delphi, C","null","null","null","null","null","null"
-"Ventis Media Inc.","August 25, 2003","5.0.2.2531 (December 22, 2021; 2 months ago (2021-12-22)) [±]","$49.95USD","Proprietary","","","null","null","null","null","null","null"
-"Microsoft","2012","","No cost","Proprietary","","","null","null","null","null","null","null"
-"Mpxplay","January 1, 1998","3.14 (October 24, 2021; 4 months ago (2021-10-24)) [±]","No cost","Proprietary","","C","null","null","null","null","null","null"
-"Damian Pietras","January 1, 2002","2.5.1 (April 24, 2016; 5 years ago (2016-04-24)) [±]","No cost","GPL-2.0-or-later","","C","null","null","null","null","null","null"
-"Warren Dukes","May 1, 2003","0.21.22 (April 2, 2020; 23 months ago (2020-04-02)[9]) [±]","No cost","GPL-2.0-or-later","","C","null","null","null","null","null","null"
-"Steven Mayall","December 4, 2008","3.4.7805 (May 17, 2021; 9 months ago (2021-05-17)) [±]","No cost","Proprietary","BASS audio library","Visual Basic .NET","null","null","null","null","null","null"
-"Casey Langen","January 1, 2005","0.92.1 (May 26, 2020; 21 months ago (2020-05-26)) [±]","No cost","BSD-3-Clause","","","null","null","null","null","null","null"
-"William Christopher Gorog","October 1, 2003","4.6.3.4 (August 31, 2010; 11 years ago (2010-08-31)) [±]","Subscription","Proprietary","","","null","null","null","null","null","null"
-"Quod Libet Team","November 8, 2004","4.3.0[10] (22 February 2020; 2 years ago (2020-02-22)) [±]","No cost","GPL-2.0-or-later","GStreamer","Python (GTK) PyGTK","null","null","null","null","null","null"
-"Rdio Inc","August 3, 2010","Microsoft Windows: 1.12.0.0 (2013) WP 8+ : 4.0.5.0 (28 October 2013; 8 years ago (2013-10-28)) iOS: 3.0.3 (27 September 2014; 7 years ago (2014-09-27))","Subscription","Proprietary","","","null","null","null","null","null","null"
-"RealNetworks","January 1, 2003","14.0 (16 October 2006) [±]","Subscription","Proprietary","","","null","null","null","null","null","null"
-"Colin Walters","April 1, 2004","3.4.4 (January 4, 2020; 2 years ago (2020-01-04)) [±]","No cost","GPL-2.0-or-later","GStreamer","C","null","null","null","null","null","null"
-"Michael Lugmair (until 2020 under the pseudonym Lucio Carreras)","2011","1.5.1-stable5 / 29 August 2019","No cost","GPL-3.0-or-later","GStreamer","C++","null","null","null","null","null","null"
-"POTI Inc.","February 8, 2006","2.2.0, Build 2453 (February 4, 2013; 9 years ago (2013-02-04)) [±]","No cost","GPL","GStreamer","","null","null","null","null","null","null"
-"Centre for Digital Music at Queen Mary, University of London","May 10, 2007","3.1.1 (August 14, 2018)","No cost","GPL-2.0-or-later","","","null","null","null","null","null","null"
-"Media Science","November 1, 1998","1.96 (March 2002)","No cost","Proprietary","","","null","null","null","null","null","null"
-"Spotify LTD","October 7, 2008","Android 8.6.88.1104 / December 16, 2021; 2 months ago (2021-12-16)[11] Android Wear 8.6.88.1104 / December 16, 2021; 2 months ago (2021-12-16) iOS 8.6.84 / December 1, 2021; 3 months ago (2021-12-01)[12] Windows 1.1.80.699 / March 5, 2022; 0 days ago (2022-03-05)[13] macOS 1.1.74.631 / December 11, 2021; 2 months ago (2021-12-11) Linux 1.1.72.439 / November 12, 2021; 3 months ago (2021-11-12)[14]","8.6.88.1104 / December 16, 2021; 2 months ago (2021-12-16)[11]","8.6.88.1104 / December 16, 2021; 2 months ago (2021-12-16)","8.6.84 / December 1, 2021; 3 months ago (2021-12-01)[12]","1.1.80.699 / March 5, 2022; 0 days ago (2022-03-05)[13]","1.1.74.631 / December 11, 2021; 2 months ago (2021-12-11)","1.1.72.439 / November 12, 2021; 3 months ago (2021-11-12)[14]","Subscription","Proprietary","",""
-"8.6.88.1104 / December 16, 2021; 2 months ago (2021-12-16)[11]","null","null","null","null","null","null","null","null","null","null","null","null"
-"8.6.88.1104 / December 16, 2021; 2 months ago (2021-12-16)","null","null","null","null","null","null","null","null","null","null","null","null"
-"8.6.84 / December 1, 2021; 3 months ago (2021-12-01)[12]","null","null","null","null","null","null","null","null","null","null","null","null"
-"1.1.80.699 / March 5, 2022; 0 days ago (2022-03-05)[13]","null","null","null","null","null","null","null","null","null","null","null","null"
-"1.1.74.631 / December 11, 2021; 2 months ago (2021-12-11)","null","null","null","null","null","null","null","null","null","null","null","null"
-"1.1.72.439 / November 12, 2021; 3 months ago (2021-11-12)[14]","null","null","null","null","null","null","null","null","null","null","null","null"
-"Digital Geek LTD","July 1, 2009","2.2.1 (October 8, 2016; 5 years ago (2016-10-08)) [±]","No cost","Proprietary","","C#","null","null","null","null","null","null"
-"Nullsoft","April 21, 1997","5.666.3516 (December 12, 2013; 8 years ago (2013-12-12)) [±]","No cost","Proprietary","Wasabi","C/C++","null","null","null","null","null","null"
-"XMMS Team","November 1, 1997","1.2.11 (November 16, 2007; 14 years ago (2007-11-16)) [±]","No cost","GPL-2.0-or-later","original","C","null","null","null","null","null","null"
-"Un4seen Developments","1998","3.8 (December 23, 2013)","No cost","Proprietary","BASS audio library","","null","null","null","null","null","null"
-"null","null","null","null","null","null","null","null","null","null","null","null","null"
+"Audio player","Windows , URL: /wiki/Microsoft_Windows
+","macOS , URL: /wiki/MacOS
+","Linux , URL: /wiki/Linux
+","iOS , URL: /wiki/IOS
+","Android , URL: /wiki/Android_(operating_system)
+","BSD Unix , URL: /wiki/BSD_Unix
+","Solaris , URL: /wiki/Solaris_(operating_system)
+","Other Unix , URL: /wiki/Unix-like
+","DOS , URL: /wiki/DOS
+"
+"AIMP , URL: /wiki/AIMP
+","Yes","No","Wine , URL: /wiki/Wine_(software)
+","No","Yes","Wine , URL: /wiki/Wine_(software)
+","No","No","No"
+"Amarok , URL: /wiki/Amarok_(software)
+","Yes","beta","Yes","No","No","Yes","Yes","Yes","No"
+"aTunes , URL: /wiki/ATunes
+","Yes","Yes","Yes","No","No","Yes","Yes","No","No"
+"Audacious , URL: /wiki/Audacious_(software)
+","Yes","No","Yes","No","No","Yes","Yes","Yes","No"
+"Audion , URL: /wiki/Audion_(software)
+","No","Yes","No","No","No","No","No","No","No"
+"Banshee , URL: /wiki/Banshee_(media_player)
+","alpha","beta","Yes","No","No","Yes","No","No","No"
+"cmus , URL: /wiki/Cmus
+","No","Yes","Yes","No","No","Yes","Yes","Yes","No"
+"Cog , URL: /wiki/Cog_(software)
+","No","Yes","No","No","No","No","No","No","No"
+"Clementine , URL: /wiki/Clementine_(software)
+","Yes","Yes","Yes","No","remote controller only","Yes","Yes","Yes","No"
+"Ecoute , URL: /wiki/Ecoute
+","No","Yes","No","Yes","No","No","No","No","No"
+"Exaile , URL: /wiki/Exaile
+","Yes","No","Yes","No","No","Yes","No","No","No"
+"foobar2000 , URL: /wiki/Foobar2000
+","Yes","beta[osnotes 1]","Wine , URL: /wiki/Wine_(software)
+","Yes","Yes","Wine , URL: /wiki/Wine_(software)
+","No","No","No"
+"Guayadeque Music Player , URL: /wiki/Guayadeque_Music_Player
+","No","Yes","Yes","Yes","No","No","No","No","No"
+"Groove Music , URL: /wiki/Groove_Music
+","Yes","No","No","No","No","No","No","No","No"
+"iTunes , URL: /wiki/ITunes
+","Yes","Yes","No","Yes","No","No","No","No","No"
+"JRiver Media Center , URL: /wiki/JRiver_Media_Center
+","Yes","Yes","Yes","remote controller only","Yes","No","No","No","No"
+"MediaMonkey , URL: /wiki/MediaMonkey
+","Yes","No","No","No","Yes","No","No","No","No"
+"MPXPLAY , URL: /wiki/MPXPLAY
+","Yes","No","No","No","No","No","No","No","Yes"
+"Music Player Daemon , URL: /wiki/Music_Player_Daemon
+","cygwin","Yes","Yes","No","No","Yes","Yes","Yes","No"
+"MusicBee , URL: /wiki/MusicBee
+","Yes","No","Partial[15]","No","No","No","No","No","No"
+"Musicmatch Jukebox , URL: /wiki/Musicmatch_Jukebox
+","Yes","Yes","No","No","No","No","No","No","No"
+"musikCube , URL: /wiki/MusikCube
+","Yes","Yes","Yes","No","remote control only[16]","Yes","No","No","No"
+"Quod Libet , URL: /wiki/Quod_Libet_(software)
+","Yes","Yes","Yes","No","No","Yes","Yes","Yes","No"
+"Rdio , URL: /wiki/Rdio
+","Yes","Yes","No","Yes","Yes","No","No","No","No"
+"Rhapsody , URL: /wiki/Rhapsody_(online_music_service)
+","Yes","No","Yes","Yes","Yes","No","No","No","No"
+"Rhythmbox , URL: /wiki/Rhythmbox
+","No","No","Yes","No","No","Yes","Yes","Yes","No"
+"Sayonara Player , URL: /wiki/Sayonara_Player
+","No","No","Yes","No","No","Yes","No","No","No"
+"Songbird , URL: /wiki/Songbird_(software)
+","Yes","Yes","No","No","Yes","No","No","No","No"
+"Sonique , URL: /wiki/Sonique_(media_player)
+","Yes","No","No","No","No","No","No","No","No"
+"Spotify , URL: /wiki/Spotify
+","Yes","Yes","Yes","Yes","Yes","No","No","No","No"
+"Style Jukebox , URL: /wiki/Style_Jukebox
+","Yes","No","No","Yes","Yes","No","No","No","No"
+"Winamp , URL: /wiki/Winamp
+","Yes","Yes","No","No","Yes","No","No","No","No"
+"XMMS , URL: /wiki/XMMS
+","No","Yes","Yes","No","No","Yes","Yes","Yes","No"
+"XMPlay , URL: /wiki/Xmplay
+","Yes","No","No","No","No","No","No","No","No"
+"Zinf , URL: /wiki/Zinf
+","Yes","No","Yes","No","No","Yes","Yes","Yes","No"
+"Audio player","Windows","macOS","Linux","iOS","Android","BSD Unix","Solaris","Other Unix","DOS"

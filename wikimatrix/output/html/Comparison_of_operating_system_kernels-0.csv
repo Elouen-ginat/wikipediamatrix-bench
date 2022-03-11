@@ -1,0 +1,325 @@
+"Kernel name","Programming language","Used in","Creator","section , URL: #Binary_format_support
+","Type","firewall , URL: /wiki/Firewall_(networking)
+","SMP , URL: /wiki/Symmetric_multiprocessing
+","architecture , URL: /wiki/Computer_architecture
+section , URL: #Supported_CPU_architectures
+","Multitasking , URL: /wiki/Computer_multitasking
+","Virtualization , URL: /wiki/Operating_system-level_virtualization
+","Security , URL: /wiki/Security
+","Profiling , URL: /wiki/Software_performance_analysis
+Debugging , URL: /wiki/Debugging
+","real-time , URL: /wiki/Real-time_computing
+","real-time , URL: /wiki/Real-time_computing
+","RTC , URL: /wiki/Real-time_clock
+UT , URL: /wiki/Universal_Time
+"
+"Amiga Exec , URL: /wiki/Exec_(Amiga)
+","","AmigaOS , URL: /wiki/AmigaOS
+","Commodore International , URL: /wiki/Commodore_International
+","HUNK , URL: /wiki/Amiga_Hunk
+","Exokernel , URL: /wiki/Exokernel
+","No","No","No","Yes","No","No","Yes","No","No","No"
+"Amiga Exec SG (2nd Generation) , URL: /wiki/Exec_(Amiga)
+","","AmigaOS 4 , URL: /wiki/AmigaOS_4
+","Hyperion Entertainment , URL: /wiki/Hyperion_Entertainment
+","ELF , URL: /wiki/Executable_and_Linkable_Format
+HUNK , URL: /wiki/Amiga_Hunk
+","Exokernel , URL: /wiki/Exokernel
+","No","No","No","Yes","No","No","Yes","No","No","?"
+"DragonFly BSD kernel , URL: /wiki/DragonFly_BSD#Kernel
+","C , URL: /wiki/C_(programming_language)
+","DragonFly BSD , URL: /wiki/DragonFly_BSD
+","Matt Dillon , URL: /wiki/Matt_Dillon_(computer_scientist)
+","ELF , URL: /wiki/Executable_and_Linkable_Format
+","hybrid , URL: /wiki/Hybrid_kernel
+","Ipfirewall , URL: /wiki/Ipfirewall
+PF , URL: /wiki/PF_(firewall)
+","Yes","No","Yes","chroot , URL: /wiki/Chroot
+jail , URL: /wiki/Operating-system-level_virtualization
+","Unix permissions , URL: /wiki/Unix_security
+","KGDB , URL: /wiki/KGDB
+","?","?","?"
+"FreeBSD kernel , URL: /wiki/FreeBSD
+","C , URL: /wiki/C_(programming_language)
+","FreeBSD , URL: /wiki/FreeBSD
+","The FreeBSD Project , URL: /wiki/FreeBSD
+","ELF , URL: /wiki/Executable_and_Linkable_Format
+","monolithic , URL: /wiki/Monolithic_kernel
+","IPFilter , URL: /wiki/IPFilter
+Ipfirewall , URL: /wiki/Ipfirewall
+PF , URL: /wiki/PF_(firewall)
+","Yes","Yes","Yes","chroot , URL: /wiki/Chroot
+jail , URL: /wiki/FreeBSD_jail
+bhyve , URL: /wiki/Bhyve
+","Unix permissions , URL: /wiki/Unix_security
+POSIX.1e and NFSv4 ACLs , URL: /wiki/Access_control_list
+TrustedBSD MAC , URL: /wiki/Mandatory_Access_Control
+OpenBSM , URL: /wiki/OpenBSM
+","KDB , URL: /wiki/Kernel_debugger
+KGDB , URL: /wiki/KGDB
+DTrace , URL: /wiki/DTrace
+hwpmc , URL: /w/index.php?title=Hwpmc&action=edit&redlink=1
+","Yes","?","Yes"
+"GNU Hurd , URL: /wiki/GNU_Hurd
+","C , URL: /wiki/C_(programming_language)
+","GNU/Hurd , URL: /wiki/GNU
+Arch Hurd , URL: /wiki/GNU_variants#Arch_Hurd
+Debian GNU/Hurd , URL: /wiki/GNU_variants#Debian_GNU/Hurd
+","GNU Project , URL: /wiki/GNU_Project
+Free Software Foundation , URL: /wiki/Free_Software_Foundation
+","ELF , URL: /wiki/Executable_and_Linkable_Format
+","multiserver microkernel","No","partial","No","Yes","chroot , URL: /wiki/Chroot
+Xen , URL: /wiki/Xen
+","Unix permissions , URL: /wiki/Unix_security
+POSIX ACL , URL: /wiki/Access_control_list
+POSIX Capabilities , URL: /wiki/Capability-based_security#POSIX_capabilities
+","?","?","?","?"
+"GNU Mach , URL: /wiki/GNU_Mach
+","C , URL: /wiki/C_(programming_language)
+","GNU Hurd , URL: /wiki/GNU_Hurd
+GNU/Hurd , URL: /wiki/GNU
+","GNU Project , URL: /wiki/GNU_Project
+Free Software Foundation , URL: /wiki/Free_Software_Foundation
+","ELF , URL: /wiki/Executable_and_Linkable_Format
+","microkernel , URL: /wiki/Microkernel
+","No","partial","No","Yes","chroot , URL: /wiki/Chroot
+Xen , URL: /wiki/Xen
+","Unix permissions , URL: /wiki/Unix_security
+POSIX ACL , URL: /wiki/Access_control_list
+POSIX Capabilities , URL: /wiki/Capability-based_security#POSIX_capabilities
+","?","?","?","?"
+"Inferno kernel , URL: /wiki/Inferno_(operating_system)
+","","Inferno , URL: /wiki/Inferno_(operating_system)
+","Bell Labs , URL: /wiki/Bell_Labs
+Vita Nuova Holdings , URL: /w/index.php?title=Vita_Nuova_Holdings&action=edit&redlink=1
+","?","virtual machine , URL: /wiki/Virtual_machine
+","?","Yes","Yes","Yes","chroot , URL: /wiki/Chroot
+Xen , URL: /wiki/Xen
+","?","?","?","?","?"
+"L4 , URL: /wiki/L4_microkernel_family
+","","L4 , URL: /wiki/L4_microkernel_family
+","Jochen Liedtke , URL: /wiki/Jochen_Liedtke
+","No","microkernel , URL: /wiki/Microkernel
+","No","Yes","Yes","Yes","Yes","Afterburner/L4 , URL: /w/index.php?title=Afterburner/L4&action=edit&redlink=1
+[1] , URL: http://www.l4ka.org/79.php
+[2] , URL: http://www.l4ka.org/78.php
+capabilities , URL: /wiki/Capability-based_security
+L4/Fiasco , URL: /wiki/L4/Fiasco
+","L4/Fiasco , URL: /wiki/L4/Fiasco
+","L4/Fiasco , URL: /wiki/L4/Fiasco
+","?","?"
+"Linux kernel , URL: /wiki/Linux_kernel
+","C , URL: /wiki/C_(programming_language)
+","Linux , URL: /wiki/Linux
+Android , URL: /wiki/Android_(operating_system)
+webOS , URL: /wiki/WebOS
+Firefox OS , URL: /wiki/Firefox_OS
+Chrome OS , URL: /wiki/Chrome_OS
+Sailfish OS , URL: /wiki/Sailfish_OS
+Tizen , URL: /wiki/Tizen
+","Linus Torvalds , URL: /wiki/Linus_Torvalds
+","ELF , URL: /wiki/Executable_and_Linkable_Format
+","monolithic , URL: /wiki/Monolithic_kernel
+","ipfwadm , URL: /w/index.php?title=Ipfwadm&action=edit&redlink=1
+","Yes","Yes","Yes","cgroups , URL: /wiki/Cgroups
+chroot , URL: /wiki/Chroot
+Lguest , URL: /wiki/Lguest
+Xen , URL: /wiki/Xen
+KVM , URL: /wiki/Kernel-based_Virtual_Machine
+kvm-lite , URL: /w/index.php?title=Kvm-lite&action=edit&redlink=1
+LXC , URL: /wiki/LXC
+","Unix permissions , URL: /wiki/Unix_security
+POSIX ACL , URL: /wiki/Access_control_list
+POSIX Capabilities , URL: /wiki/Capability-based_security#POSIX_capabilities
+LSM , URL: /wiki/Linux_Security_Modules
+SELinux , URL: /wiki/SELinux
+SMACK , URL: /wiki/Smack_(Linux_security_module)
+TOMOYO Linux , URL: /wiki/TOMOYO_Linux
+AppArmor , URL: /wiki/AppArmor
+","OProfile , URL: /wiki/OProfile
+kprobe , URL: /w/index.php?title=Kprobe&action=edit&redlink=1
+SystemTap , URL: /wiki/SystemTap
+JProbe , URL: /w/index.php?title=JProbe&action=edit&redlink=1
+ftrace , URL: /wiki/Ftrace
+KDB , URL: /wiki/Kernel_debugger
+KGDB , URL: /wiki/KGDB
+kernel marker , URL: /wiki/Kernel_marker
+perf tools , URL: /wiki/Perf_(Linux)
+","CONFIG_PREEMPT","CONFIG_PREEMPT_RT Patch , URL: /wiki/PREEMPT_RT
+","Yes"
+"Compute Node Linux , URL: /wiki/Compute_Node_Linux
+","","Compute Node Linux , URL: /wiki/Compute_Node_Linux
+","Cray Inc. , URL: /wiki/Cray_Inc.
+","?","?","?","?","?","?","?","?","?","?","?","?"
+"Mach , URL: /wiki/Mach_(kernel)
+","C , URL: /wiki/C_(programming_language)
+","NeXTSTEP , URL: /wiki/NeXTSTEP
+OPENSTEP for Mach , URL: /wiki/OpenStep#OPENSTEP_for_Mach
+Tru64 UNIX , URL: /wiki/Tru64_UNIX
+","Carnegie Mellon University , URL: /wiki/Carnegie_Mellon_University
+","Mach-O , URL: /wiki/Mach-O
+","microkernel , URL: /wiki/Microkernel
+hybrid kernel , URL: /wiki/Hybrid_kernel
+","?","Yes","?","Yes","?","?","?","Yes","?","?"
+"MINIX 3 kernel , URL: /wiki/MINIX_3
+","C , URL: /wiki/C_(programming_language)
+","MINIX 3 , URL: /wiki/MINIX_3
+","Andrew S. Tanenbaum , URL: /wiki/Andrew_S._Tanenbaum
+","ELF , URL: /wiki/Executable_and_Linkable_Format
+a.out , URL: /wiki/A.out
+","microkernel , URL: /wiki/Microkernel
+","No","No","Yes","Yes","No","Unix permissions , URL: /wiki/Unix_security
+","Call profiling, statistical profiling, Minix Debugger (mdb)","No","No","?"
+"MkLinux , URL: /wiki/MkLinux
+","","?","OSF Research Institute , URL: /wiki/OSF_Research_Institute
+Apple Computer , URL: /wiki/Apple_Computer
+","?","microkernel , URL: /wiki/Microkernel
+","?","?","?","?","?","?","?","?","?","?"
+"NetBSD kernel , URL: /wiki/NetBSD
+","C , URL: /wiki/C_(programming_language)
+","NetBSD , URL: /wiki/NetBSD
+","The NetBSD Project , URL: /wiki/NetBSD
+","ELF , URL: /wiki/Executable_and_Linkable_Format
+","monolithic , URL: /wiki/Monolithic_kernel
+rump kernel , URL: /wiki/Rump_kernel
+","IPFilter , URL: /wiki/IPFilter
+PF , URL: /wiki/PF_(firewall)
+NPF , URL: /wiki/NPF_(firewall)
+","Yes","Yes","Yes","Xen , URL: /wiki/Xen
+chroot , URL: /wiki/Chroot
+","kauth , URL: /wiki/Kauth
+Unix permissions , URL: /wiki/Unix_security
+","KGDB , URL: /wiki/KGDB
+tprof , URL: /w/index.php?title=Tprof&action=edit&redlink=1
+","POSIX , URL: /wiki/POSIX
+","Kernel preemption , URL: /wiki/Kernel_preemption
+","?"
+"NetWare kernel , URL: /wiki/NetWare
+","","NetWare , URL: /wiki/NetWare
+","Novell , URL: /wiki/Novell
+","NLM , URL: /wiki/NetWare_Loadable_Module
+","hybrid , URL: /wiki/Hybrid_kernel
+","Yes","Yes","No","Yes","?","?","?","?","?","?"
+"OpenBSD kernel , URL: /wiki/OpenBSD
+","C , URL: /wiki/C_(programming_language)
+","OpenBSD , URL: /wiki/OpenBSD
+","OpenBSD developers , URL: /w/index.php?title=OpenBSD_developers&action=edit&redlink=1
+","ELF , URL: /wiki/Executable_and_Linkable_Format
+","monolithic , URL: /wiki/Monolithic_kernel
+","PF , URL: /wiki/PF_(firewall)
+","Yes","Yes","Yes","?","Unix permissions , URL: /wiki/Unix_security
+","?","?","?","?"
+"OS/2 kernel , URL: /wiki/OS/2
+","","OS/2 , URL: /wiki/OS/2
+","IBM , URL: /wiki/IBM
+","LX","hybrid , URL: /wiki/Hybrid_kernel
+","No","Yes","No PowerPC version developed but never officially released.","Yes","No","Yes","Yes","Yes","No","?"
+"Plan 9 kernel , URL: /wiki/Plan_9_kernel
+","C , URL: /wiki/C_(programming_language)
+","Plan 9 from Bell Labs , URL: /wiki/Plan_9_from_Bell_Labs
+","Bell Labs , URL: /wiki/Bell_Labs
+","?","monolithic , URL: /wiki/Monolithic_kernel
+","ipmux","Yes","Yes","Yes","?","?","?","?","?","?"
+"ReactOS kernel , URL: /wiki/ReactOS
+","C , URL: /wiki/C_(programming_language)
+","ReactOS , URL: /wiki/ReactOS
+","ReactOS Foundation , URL: /w/index.php?title=ReactOS_Foundation&action=edit&redlink=1
+","PE , URL: /wiki/Portable_Executable
+","hybrid , URL: /wiki/Hybrid_kernel
+","?","Yes","Yes","Yes","?","Yes","Yes","?","?","?"
+"Rockbox kernel , URL: /wiki/Rockbox
+","","Rockbox , URL: /wiki/Rockbox
+","The Rockbox Project","?","?","?","?","Yes","?","?","?","?","?","?","?"
+"SunOS kernel , URL: /wiki/SunOS
+","C , URL: /wiki/C_(programming_language)
+","SunOS , URL: /wiki/SunOS
+","Sun Microsystems , URL: /wiki/Sun_Microsystems
+","a.out , URL: /wiki/A.out
+","monolithic , URL: /wiki/Monolithic_kernel
+","?","Yes","Yes","Yes","?","Unix permissions , URL: /wiki/Unix_security
+","?","?","?","?"
+"Solaris kernel , URL: /wiki/Solaris_(operating_system)
+","C , URL: /wiki/C_(programming_language)
+","Solaris , URL: /wiki/Solaris_(operating_system)
+","Sun Microsystems , URL: /wiki/Sun_Microsystems
+","ELF , URL: /wiki/Executable_and_Linkable_Format
+","monolithic , URL: /wiki/Monolithic_kernel
+","IPFilter , URL: /wiki/IPFilter
+","Yes","Yes","Yes","Zones , URL: /wiki/Solaris_Zones
+chroot , URL: /wiki/Chroot
+","Unix permissions , URL: /wiki/Unix_security
+ACL , URL: /wiki/Access_control_list
+RBAC , URL: /wiki/RBAC
+Privileges , URL: /wiki/Least_privilege
+Zones , URL: /wiki/Solaris_Zones
+Trusted Extensions , URL: /wiki/Solaris_Trusted_Extensions
+","DTrace , URL: /wiki/DTrace
+","Real-time scheduler","?","?"
+"Trix kernel , URL: /wiki/Trix_(operating_system)
+","","Trix , URL: /wiki/Trix_(operating_system)
+","Massachusetts Institute of Technology , URL: /wiki/Massachusetts_Institute_of_Technology
+","a.out , URL: /wiki/A.out
+","monolithic , URL: /wiki/Monolithic_kernel
+","?","Yes","No","Yes","?","?","?","?","?","?"
+"Windows NT kernel , URL: /wiki/Architecture_of_Windows_NT#Kernel_mode
+","C , URL: /wiki/C_(programming_language)
+","Windows NT , URL: /wiki/Windows_NT
+2000 , URL: /wiki/Windows_2000
+XP , URL: /wiki/Windows_XP
+2003 , URL: /wiki/Windows_2003
+Vista , URL: /wiki/Windows_Vista
+Windows 7 , URL: /wiki/Windows_7
+Windows 8 , URL: /wiki/Windows_8
+Windows Phone 8 , URL: /wiki/Windows_Phone_8
+Windows Phone 8.1 , URL: /wiki/Windows_Phone_8.1
+Windows 10 , URL: /wiki/Windows_10
+","Microsoft , URL: /wiki/Microsoft
+","PE , URL: /wiki/Portable_Executable
+","hybrid , URL: /wiki/Hybrid_kernel
+","Yes","Yes","Yes","Yes","Hyper-V , URL: /wiki/Hyper-V
+","ACL , URL: /wiki/Access_control_list
+","Event Tracing,[10] dgbss, kd","Multimedia Class Scheduler Service , URL: /wiki/Multimedia_Class_Scheduler_Service
+","No","Unofficial[11]"
+"XNU , URL: /wiki/XNU
+Darwin , URL: /wiki/Darwin_(operating_system)
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","macOS , URL: /wiki/MacOS
+iOS , URL: /wiki/IOS
+iPadOS , URL: /wiki/IPadOS
+tvOS , URL: /wiki/TvOS
+watchOS , URL: /wiki/WatchOS
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","Mach-O , URL: /wiki/Mach-O
+","hybrid , URL: /wiki/Hybrid_kernel
+","Ipfirewall , URL: /wiki/Ipfirewall
+PF , URL: /wiki/PF_(firewall)
+","Yes","Yes","Yes","chroot , URL: /wiki/Chroot
+","Unix permissions , URL: /wiki/Unix_security
+NT/NFSv4 ACLs , URL: /wiki/Access_control_list
+TrustedBSD MAC , URL: /wiki/Mandatory_Access_Control
+OpenBSM , URL: /wiki/OpenBSM
+","KDB , URL: /wiki/Kernel_debugger
+DTrace , URL: /wiki/DTrace
+","Yes","No","Yes"
+"SPARTAN kernel , URL: /wiki/HelenOS
+","","HelenOS , URL: /wiki/HelenOS
+","Jakub Jermar , URL: /wiki/Jakub_Jermar
+","ELF , URL: /wiki/Executable_and_Linkable_Format
+","microkernel , URL: /wiki/Microkernel
+","?","Yes","Yes","Yes","?","?","?","?","?","?"
+"Kernel name","","Used in","Creator","section , URL: #Binary_format_support
+","Type","firewall , URL: /wiki/Firewall_(networking)
+","SMP , URL: /wiki/Symmetric_multiprocessing
+","architecture , URL: /wiki/Computer_architecture
+section , URL: #Supported_CPU_architectures
+","Multitasking , URL: /wiki/Computer_multitasking
+","Virtualization , URL: /wiki/Operating_system-level_virtualization
+","Security , URL: /wiki/Security
+","Profiling , URL: /wiki/Software_performance_analysis
+Debugging , URL: /wiki/Debugging
+","real-time , URL: /wiki/Real-time_computing
+","real-time , URL: /wiki/Real-time_computing
+","RTC , URL: /wiki/Real-time_clock
+UT , URL: /wiki/Universal_Time
+"

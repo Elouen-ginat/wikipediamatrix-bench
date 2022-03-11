@@ -1,0 +1,116 @@
+"","R- , URL: /wiki/R-tree
+R+ tree , URL: /wiki/R%2B_tree
+","Hash , URL: /wiki/Hash_function
+","Expression , URL: /wiki/Expression_index
+","Partial , URL: /wiki/Partial_index
+","Reverse , URL: /wiki/Reverse_index
+","Bitmap , URL: /wiki/Bitmap_index
+","GiST , URL: /wiki/GiST
+","GIN , URL: /wiki/Inverted_index
+","Full-text , URL: /wiki/Full_text_search
+","Spatial , URL: /wiki/Spatial_index
+","FOT , URL: /w/index.php?title=Forest_of_Trees&action=edit&redlink=1
+","Duplicate index prevention"
+"4th Dimension , URL: /wiki/4th_Dimension_(Software)
+","?","Cluster","?","?","?","?","?","?","Yes","?","?","No"
+"ADABAS , URL: /wiki/ADABAS
+","?","?","?","?","?","?","?","?","?","?","?","No"
+"Adaptive Server Enterprise , URL: /wiki/Adaptive_Server_Enterprise
+","No","No","Yes","No","Yes","No","No","No","Yes","?","?","No"
+"Advantage Database Server , URL: /wiki/Advantage_Database_Server
+","No","No","Yes","No","Yes","Yes","No","No","Yes","?","?","No"
+"Apache Derby , URL: /wiki/Apache_Derby
+","No","No","No","No","No","No","No","No","No[82]","?","?","No"
+"ClustrixDB , URL: /wiki/Clustrix
+","No","Yes","No","No","No","No","No","No","No","No","?","No"
+"CUBRID , URL: /wiki/CUBRID
+","No","No","Yes[83]","Yes[83]","Yes","No","No","No","No","No","No","No"
+"DB2 , URL: /wiki/IBM_DB2
+","Yes","Yes","Yes","No","Yes","Yes","No","No","Yes[84]","?","?","No"
+"Empress Embedded Database , URL: /wiki/Empress_database
+","Yes","No","No","Yes","No","Yes","No","No","No","?","?","No"
+"EXASolution , URL: /wiki/EXASOL
+","No","Yes","No","No","No","No","No","No","No","?","?","No"
+"Firebird , URL: /wiki/Firebird_(database_server)
+","No","No","Yes","No","Yes","No","No","No","No[85]","?","?","No"
+"HSQLDB , URL: /wiki/HSQLDB
+","No","No","No","No","No","No","No","No","No","?","?","No"
+"H2 , URL: /wiki/H2_(DBMS)
+","No","Yes","No","No","No","No","No","No","Yes[86]","Yes[87]","?","No"
+"Informix Dynamic Server , URL: /wiki/Informix_Dynamic_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[88]","Yes"
+"Ingres , URL: /wiki/Ingres_(database)
+","Yes","Yes","Ingres v10","No","No","Ingres v10","No","No","No","?","?","No"
+"InterBase , URL: /wiki/InterBase
+","No","No","No","No","No","No","No","No","No","?","?","No"
+"Linter SQL RDBMS , URL: /wiki/Linter_SQL_RDBMS
+","No","Yes temporary indexes for equality joins","Yes for some scalar functions like LOWER and UPPER","No","No","No","No","No","Yes[89]","No","No","Yes"
+"LucidDB , URL: /wiki/LucidDB
+","No","No","No","No","No","Yes","No","No","No","?","?","No"
+"MariaDB , URL: /wiki/MariaDB
+","Aria , URL: /wiki/Aria_(storage_engine)
+MyISAM , URL: /wiki/MyISAM
+InnoDB , URL: /wiki/InnoDB
+","MEMORY,[91] InnoDB,5 tables only","PERSISTENT virtual columns only[92]","No","No","No","No","No","Yes[93]","Aria , URL: /wiki/Aria_(storage_engine)
+MyISAM , URL: /wiki/MyISAM
+InnoDB , URL: /wiki/InnoDB
+","?","No"
+"MaxDB , URL: /wiki/MaxDB
+","No","No","No","No","No","No","No","No","No","?","?","No"
+"Microsoft Access , URL: /wiki/Microsoft_Access
+","No","No","No","No","No","No","No","No","No[94]","?","?","No"
+"Microsoft Visual Foxpro , URL: /wiki/Microsoft_Visual_Foxpro
+","No","No","Yes","Yes","Yes2","Yes","No","No","No","?","?","No"
+"Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
+","Spatial Indexes","Yes4","Yes3","Yes","on Computed columns3","Bitmap filter index for Star Join Query","No","No","Yes[95]","Yes[96]","?","No"
+"Microsoft SQL Server Compact (Embedded Database) , URL: /wiki/SQL_Server_Compact
+","No","No","No","No","No","No","No","No","No[97]","?","?","No"
+"Mimer SQL , URL: /wiki/Mimer_SQL
+","No","No","No","No","Yes","No","No","No","Yes","Yes","No","No"
+"MonetDB , URL: /wiki/MonetDB
+","No","Yes","No","No","No","No","No","No","No","No","No","No"
+"MySQL , URL: /wiki/MySQL
+","Spatial Indexes[98]","MEMORY, Cluster (NDB), InnoDB,5 tables only","No[99]","No","No","No","No","No","MyISAM tables[100] and, since v5.6.4, InnoDB tables[101]","MyISAM tables[102] and, since v5.7.5, InnoDB tables[103]","?","No"
+"OpenLink Virtuoso , URL: /wiki/Virtuoso_Universal_Server
+","Yes","Cluster","Yes","Yes","No","Yes","No","No","Yes","Yes (Commercial only)","No","No"
+"Oracle , URL: /wiki/Oracle_Database
+","Yes 11","Cluster Tables","Yes","Yes 6","Yes","Yes","No","No","Yes[104]","Yes[105]","?","Yes[106]"
+"Oracle Rdb , URL: /wiki/Oracle_Rdb
+","No","Yes","?","No","No","?","No","No","?","?","?","No"
+"Pervasive PSQL , URL: /wiki/Pervasive_PSQL
+","No","No","No","No","No","No","No","No","No","No","No","No"
+"Polyhedra DBMS , URL: /wiki/Polyhedra_DBMS
+","No","Yes","No","No","No","No","No","No","No","No","?","No"
+"PostgreSQL , URL: /wiki/PostgreSQL
+","Yes","Yes","Yes","Yes","Yes7","Yes","Yes[107]","Yes","Yes[108]","PostGIS[109]","No","No"
+"Raima Database Manager , URL: /wiki/Raima_Database_Manager
+","Yes","Yes","No","Yes","Yes","No","No","No","No","Yes","No","No"
+"RDM Server , URL: /wiki/RDM_Server
+","No","No","No","Yes","Yes","No","No","No","No","No","No","No"
+"SAP HANA , URL: /wiki/SAP_HANA
+","?","?","?","?","?","?","?","?","?","?","?","No"
+"solidDB , URL: /wiki/SolidDB
+","No","No","No","No","Yes","No","No","No","No","No","No","No"
+"SQL Anywhere , URL: /wiki/SQL_Anywhere
+","No","No","Yes","No","No","No","No","No","Yes","Yes","?","Yes"
+"SQLite , URL: /wiki/SQLite
+","Yes[110]","No","Yes[111]","Yes","No","No","No","No","Yes[112]","SpatiaLite[113]","?","No"
+"SQream DB , URL: /wiki/SQream_DB
+","?","?","?","?","Yes","?","?","?","?","?","?","No"
+"Teradata , URL: /wiki/Teradata
+","No","Yes","Yes","Yes","No","Yes","No","No","?[114]","?","?","No"
+"UniVerse , URL: /wiki/UniVerse
+","Yes","Yes","Yes3","Yes3","Yes3","No","No","No","?","Yes[115]","?","No"
+"","R- , URL: /wiki/R-tree
+R+ tree , URL: /wiki/R%2B_tree
+","Hash , URL: /wiki/Hash_function
+","Expression , URL: /wiki/Expression_index
+","Partial , URL: /wiki/Partial_index
+","Reverse , URL: /wiki/Reverse_index
+","Bitmap , URL: /wiki/Bitmap_Index
+","GiST , URL: /wiki/GiST
+","GIN , URL: /w/index.php?title=Generalized_Inverted_Index&action=edit&redlink=1
+","Full-text , URL: /wiki/Full_text_search
+","Spatial , URL: /wiki/Spatial_index
+","FOT , URL: /w/index.php?title=Forest_of_Trees&action=edit&redlink=1
+","Duplicate index prevention"

@@ -1,0 +1,148 @@
+"Client","Windows , URL: /wiki/Microsoft_Windows
+","macOS , URL: /wiki/MacOS
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/BSD
+","Solaris , URL: /wiki/Solaris_(operating_system)
+","Android , URL: /wiki/Android_(operating_system)
+","iOS , URL: /wiki/IOS
+","Other"
+"Akregator , URL: /wiki/Akregator
+","No","?","Yes","Yes","Yes","No","No","No"
+"Amarok , URL: /wiki/Amarok_(software)
+","Yes","Yes","Yes","Yes","Yes","No","No","No"
+"AOL Explorer , URL: /wiki/AOL_Explorer
+","Yes","No","No","No","No","No","No","No"
+"Avant , URL: /wiki/Avant_Browser
+","Yes","No","No","No","No","No","No","No"
+"Awasu , URL: /wiki/Awasu
+","Yes","No","No","No","No","No","No","No"
+"BlogBridge , URL: /wiki/BlogBridge
+","Yes","Yes","Yes","No","No","No","No","No"
+"Canto , URL: /wiki/Canto_(news_aggregator)
+","No","No","Yes","No","No","No","No","No"
+"Claws Mail , URL: /wiki/Claws_Mail
+","Yes","Yes","Yes","Yes","Yes","No","No","Maemo , URL: /wiki/Maemo
+"
+"CommaFeed , URL: /wiki/CommaFeed
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Java , URL: /wiki/Java_(software_platform)
+"
+"Cooliris , URL: /wiki/Cooliris_(plugin)
+","Yes","Yes","No","No","No","No","No","No"
+"Feed Viewer , URL: /wiki/Feed_Viewer
+","Yes","No","No","No","No","No","Yes","Windows Phone , URL: /wiki/Windows_Phone
+"
+"FeedDemon , URL: /wiki/FeedDemon
+","Yes","No","No","No","No","No","No","No"
+"Feedreader , URL: /wiki/Feedreader_(Windows_Application)
+","Yes","No","No","No","No","No","No","No"
+"Flock , URL: /wiki/Flock_(web_browser)
+","Yes","Yes","Yes","Yes","No","No","No","No"
+"Gnus , URL: /wiki/Gnus
+","Yes","Yes","Yes","Yes","Yes","Yes","No","DOS , URL: /wiki/DOS
+"
+"IBM Lotus Notes , URL: /wiki/IBM_Lotus_Notes
+","Yes","Yes","Yes","No","No","No","No","No"
+"Inoreader , URL: /wiki/Inoreader
+","Yes","Yes","Yes","No","No","Yes","Yes","No"
+"Internet Explorer , URL: /wiki/Internet_Explorer
+","Included","No","No","No","No","No","No","No"
+"iTunes , URL: /wiki/ITunes
+","Yes","as Podcasts app","No","No","No","No","No","No"
+"Juice , URL: /wiki/Juice_(aggregator)
+","Yes","Yes","No","No","No","No","No","No"
+"K-Meleon , URL: /wiki/K-Meleon
+","Yes","No","No","No","No","No","No","No"
+"Kazehakase , URL: /wiki/Kazehakase
+","No","No","Yes","Yes","No","No","No","No"
+"Liferea , URL: /wiki/Liferea
+","No","No","Yes","Yes","No","No","No","No"
+"Apple Mail , URL: /wiki/Apple_Mail
+","No","Included","No","No","No","No","No","No"
+"Maxthon , URL: /wiki/Maxthon
+","Yes","No","No","No","No","No","No","No"
+"MediaMonkey , URL: /wiki/MediaMonkey
+","Yes","No","No","No","No","No","No","No"
+"Microsoft Office Outlook , URL: /wiki/Microsoft_Office_Outlook
+","Yes","Yes","No","No","No","No","No","Windows Mobile , URL: /wiki/Windows_Mobile
+"
+"Mozilla Firefox , URL: /wiki/Mozilla_Firefox
+","Add-on","Add-on","Add-on","Add-on","No","No","No","No"
+"Mozilla Thunderbird , URL: /wiki/Mozilla_Thunderbird
+","Yes","Yes","Yes","Yes","No","No","No","No"
+"NetNewsWire , URL: /wiki/NetNewsWire
+","No","Yes","No","No","No","No","Yes","No"
+"Netscape Browser , URL: /wiki/Netscape_Browser
+","Yes","No","No","No","No","No","No","No"
+"Netscape Navigator 9 , URL: /wiki/Netscape_Navigator_9
+","Yes","Yes","Yes","No","No","No","No","No"
+"NewsBlur , URL: /wiki/NewsBlur
+","Web based","Web based","Web based","Web based","Web based","Yes","Yes","every platform with a web browser"
+"Newsbeuter , URL: /wiki/Newsbeuter
+","No","Yes","Yes","Yes","No","No","No","Source code available"
+"NewsFire , URL: /wiki/NewsFire
+","No","Yes","No","No","No","No","No","No"
+"OmniWeb , URL: /wiki/OmniWeb
+","No","Yes","No","No","No","No","No","No"
+"Opera Mail , URL: /wiki/Opera_Mail
+","Yes","Yes","Yes","Yes[39]","Dropped","No","No","BeOS , URL: /wiki/BeOS
+QNX , URL: /wiki/QNX
+OS/2 , URL: /wiki/OS/2
+"
+"Pegasus Mail , URL: /wiki/Pegasus_Mail
+","Yes","No","No","No","No","No","No","No"
+"Protopage , URL: /wiki/Protopage
+","Web based","Web based","Web based","Web based","Web based","Dedicated Web App","Dedicated Web App","every platform with a Web browser"
+"Pulse , URL: /wiki/Pulse_(software)
+","Web based","Web based","Web based","Web based","Web based","Dedicated App","Dedicated App","every platform with a Web browser"
+"QuiteRSS , URL: /wiki/QuiteRSS
+","Yes","Yes","Yes","No","No","No","No","Source code available"
+"Rhythmbox , URL: /wiki/Rhythmbox
+","No","No","Yes","Yes","Yes","No","No","No"
+"RSS Bandit , URL: /wiki/RSS_Bandit
+","Yes","No","No","No","No","No","No","No"
+"RSS Guard , URL: /wiki/RSS_Guard
+","Yes","Yes","Yes","Yes","No","No","No","OS/2 , URL: /wiki/OS/2
+"
+"RSSOwl , URL: /wiki/RSSOwl
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Java , URL: /wiki/Java_virtual_machine
+SWT , URL: /wiki/Standard_Widget_Toolkit
+"
+"Safari , URL: /wiki/Safari_(web_browser)
+","Yes","Included","No","No","No","No","No","No"
+"Sage , URL: /wiki/Sage_(Mozilla_Firefox_extension)
+","Yes","Yes","Yes","No","No","No","No","No"
+"SeaMonkey , URL: /wiki/SeaMonkey
+","Yes","Yes","Yes","Yes","No","No","No","No"
+"Shiira , URL: /wiki/Shiira
+","No","Yes","No","No","No","No","No","No"
+"Sleipnir , URL: /wiki/Sleipnir_(web_browser)
+","Yes","No","No","No","No","No","No","No"
+"Songbird , URL: /wiki/Songbird_(software)
+","Yes","Yes","Yes","No","Yes","No","No","No"
+"The Bat! , URL: /wiki/The_Bat!
+","Yes","No","No","No","No","No","No","No"
+"The Old Reader , URL: /wiki/The_Old_Reader
+","Web based","Web based","Yes","Web based","Web based","Multiple apps","Multiple apps","Windows Phone , URL: /wiki/Windows_Phone
+Symbian , URL: /wiki/Symbian
+WebOS , URL: /wiki/WebOS
+Firefox OS , URL: /wiki/Firefox_OS
+"
+"Tiny Tiny RSS , URL: /wiki/Tiny_Tiny_RSS
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","every platform with a web browser"
+"Winamp , URL: /wiki/Winamp
+","Yes","No","Obsolete","No","No","No","No","No"
+"Windows Live Mail , URL: /wiki/Windows_Live_Mail
+","Yes","No","No","No","No","No","No","No"
+"Zimbra , URL: /wiki/Zimbra
+","Yes","Yes","Yes","Yes","No","No","No","No"
+"Zune , URL: /wiki/Zune#Zune_software
+","Yes","No","No","No","No","No","No","Windows Mobile , URL: /wiki/Windows_Mobile
+"
+"Client","Windows , URL: /wiki/Microsoft_Windows
+","macOS , URL: /wiki/MacOS
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/BSD
+","Solaris , URL: /wiki/Solaris_(operating_system)
+","Android , URL: /wiki/Android_(operating_system)
+","iOS , URL: /wiki/IOS
+","Other"

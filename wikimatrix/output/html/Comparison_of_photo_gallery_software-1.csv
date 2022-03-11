@@ -1,2 +1,63 @@
-"null","null","null","null","null","null","null","null","null","null"
-"jAlbum","Proprietary","Windows, Mac, Linux","Multilingual","Automatic","FTP","XHTML, HTML5, CSS","Yes","Yes",""
+"Name","License","Platform","Languages","Resizing","Upload","Output","IPTC , URL: /wiki/IPTC_Information_Interchange_Model
+","GeoTagging , URL: /wiki/GeoTagging
+","Tags Categories Keywords","Dynamic Image Processing","Access Control","Face Recognition","LDAP support","Version"
+"Gallery Project , URL: /wiki/Gallery_Project
+","GPL , URL: /wiki/GNU_General_Public_License
+","PHP , URL: /wiki/PHP
+MySQL , URL: /wiki/MySQL
+PostgreSQL , URL: /wiki/PostgreSQL
+Oracle , URL: /wiki/Oracle_Database
+DB2 , URL: /wiki/IBM_DB2
+Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
+","Multilingual , URL: /wiki/Multilingual
+","GD , URL: /wiki/GD_Graphics_Library
+ImageMagick , URL: /wiki/ImageMagick
+","HTTP , URL: /wiki/HTTP
+Java applet , URL: /wiki/Java_applet
+Gallery Remote , URL: /w/index.php?title=Gallery_Remote&action=edit&redlink=1
+Picasa 2 , URL: /wiki/Picasa_2
+Windows XP , URL: /wiki/Windows_XP
+WebDAV , URL: /wiki/WebDAV
+","XHTML , URL: /wiki/XHTML
+CSS , URL: /wiki/Cascading_Style_Sheets
+","Yes, in G2","module","Yes, keywords in G2","No","No, as of G3","","","3.1.3 (June 4, 2020; 21 months ago (2020-06-04)) [±]"
+"MediaGoblin , URL: /wiki/MediaGoblin
+","AGPLv3 , URL: /wiki/Affero_General_Public_License
+","Python , URL: /wiki/Python_(programming_language)
+PostgreSQL , URL: /wiki/PostgreSQL
+","Multilingual , URL: /wiki/Multilingual
+","Automatic","HTTP , URL: /wiki/HTTP
+just under a discontinued client , URL: https://wiki.mediagoblin.org/Android_Client
+","HTML5 , URL: /wiki/HTML5
+","","Yes","Yes, tags and collections","","Yes, by controlling if registrations are allowed or not","","","0.12.0 "Potions"[1] (September 18, 2021; 5 months ago (2021-09-18)) [±]"
+"ownCloud , URL: /wiki/OwnCloud
+","MIT License , URL: /wiki/MIT_License
+","Python , URL: /wiki/Python_(programming_language)
+Django , URL: /wiki/Django_(web_framework)
+React , URL: /wiki/React_(web_framework)
+","","","","","","Yes","Yes","","","Yes","",""
+"Piwigo , URL: /wiki/Piwigo
+","GPL , URL: /wiki/GNU_General_Public_License
+","PHP , URL: /wiki/PHP
+MySQL , URL: /wiki/MySQL
+","Multilingual , URL: /wiki/Multilingual
+","GD , URL: /wiki/GD_Graphics_Library
+ImageMagick , URL: /wiki/ImageMagick
+","HTTP , URL: /wiki/HTTP
+FTP , URL: /wiki/File_Transfer_Protocol
+Flash , URL: /wiki/Adobe_Flash
+Picasa , URL: /wiki/Picasa
+iPhoto , URL: /wiki/IPhoto
+Digikam , URL: /wiki/Digikam
+Shotwell , URL: /wiki/Shotwell_(software)
+Lightroom , URL: /wiki/Adobe_Photoshop_Lightroom
+iPhone , URL: /wiki/IPhone
+iPad , URL: /wiki/IPad
+Android , URL: /wiki/Android_(operating_system)
+","HTML , URL: /wiki/HTML
+CSS , URL: /wiki/Cascading_Style_Sheets
+W3C , URL: /wiki/World_Wide_Web_Consortium
+","Yes","plugin for Google Maps , URL: http://piwigo.org/ext/extension_view.php?eid=122
+plugin for OpenStreetMap , URL: http://piwigo.org/ext/extension_view.php?eid=701
+","Yes","Yes resize, sharpen, crop, rotate","Yes","","plugin , URL: http://piwigo.org/ext/extension_view.php?eid=650
+","2.10.2 (March 27, 2020; 23 months ago (2020-03-27)) [±]"

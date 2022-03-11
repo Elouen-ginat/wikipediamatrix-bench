@@ -1,0 +1,61 @@
+"Example usage","Languages"
+"String.Trim([chars])","C# , URL: /wiki/C_Sharp_(programming_language)
+VB.NET , URL: /wiki/VB.NET
+Windows PowerShell , URL: /wiki/Windows_PowerShell
+"
+"string.strip();","D , URL: /wiki/D_(programming_language)
+"
+"(.trim string)","Clojure , URL: /wiki/Clojure
+"
+"sequence [ predicate? ] trim","Factor , URL: /wiki/Factor_(programming_language)
+"
+"(string-trim '(#\Space #\Tab #\Newline) string)","Common Lisp , URL: /wiki/Common_Lisp
+"
+"(string-trim string)","Scheme , URL: /wiki/Scheme_(programming_language)
+"
+"string.trim()","Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+Rust , URL: /wiki/Rust_(programming_language)
+"
+"Trim(String)","Pascal , URL: /wiki/Pascal_(programming_language)
+QBasic , URL: /wiki/QBasic
+Visual Basic , URL: /wiki/Visual_Basic_(classic)
+Delphi , URL: /wiki/Delphi_(programming_language)
+"
+"string.strip()","Python , URL: /wiki/Python_(programming_language)
+"
+"strings.Trim(string, chars)","Go , URL: /wiki/Go_(programming_language)
+"
+"LTRIM(RTRIM(String))","Oracle , URL: /wiki/Oracle_Corporation
+SQL , URL: /wiki/SQL
+T-SQL , URL: /wiki/T-SQL
+"
+"strip(string [,option, char])","REXX , URL: /wiki/REXX_(programming_language)
+"
+"string:strip(string [,option, char])","Erlang , URL: /wiki/Erlang_(programming_language)
+"
+"string.strip or string.lstrip or string.rstrip","Ruby , URL: /wiki/Ruby_(programming_language)
+"
+"string.trim","Raku , URL: /wiki/Raku_(programming_language)
+"
+"trim(string)","PHP , URL: /wiki/PHP
+Raku , URL: /wiki/Raku_(programming_language)
+"
+"[string stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]]","Objective-C , URL: /wiki/Objective-C
+Cocoa , URL: /wiki/Cocoa_(API)
+"
+"string withBlanksTrimmed string withoutSpaces string withoutSeparators","Smalltalk , URL: /wiki/Smalltalk
+Smalltalk , URL: /wiki/Smalltalk
+"
+"strip(string)","SAS , URL: /wiki/SAS_System
+"
+"string trim $string","Tcl , URL: /wiki/Tcl
+"
+"TRIM(string) or TRIM(ADJUSTL(string))","Fortran , URL: /wiki/Fortran
+"
+"TRIM(string)","SQL , URL: /wiki/SQL
+"
+"TRIM(string) or LTrim(string) or RTrim(String)","ColdFusion , URL: /wiki/ColdFusion
+"
+"String.trim string","OCaml , URL: /wiki/OCaml
+"

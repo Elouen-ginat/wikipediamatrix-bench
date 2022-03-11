@@ -1,0 +1,112 @@
+"","Union , URL: /wiki/Union_(SQL)
+","Intersect , URL: /wiki/Intersect_(sql)
+","Except , URL: /wiki/Except_(SQL)
+","Inner joins , URL: /wiki/Inner_join
+","Outer joins , URL: /wiki/Outer_join
+","Inner selects","Merge joins , URL: /wiki/Join_(SQL)#Merge_join
+","Blobs , URL: /wiki/Binary_large_object
+Clobs , URL: /wiki/Character_large_object
+","Common Table Expressions , URL: /wiki/Common_table_expressions
+","Windowing Functions , URL: /wiki/Window_function_(SQL)
+","Parallel Query","System-versioned Tables , URL: /wiki/Temporal_database
+"
+"4th Dimension , URL: /wiki/4th_Dimension_(Software)
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","?","?","?","?"
+"ADABAS , URL: /wiki/ADABAS
+","Yes","?","?","?","?","?","?","?","?","?","?","?"
+"Adaptive Server Enterprise , URL: /wiki/Adaptive_Server_Enterprise
+","Yes","?","?","Yes","Yes","Yes","Yes","Yes","?","?","Yes","?"
+"Advantage Database Server , URL: /wiki/Advantage_Database_Server
+","Yes","No","No","Yes","Yes","Yes","Yes","Yes","?","No","?","?"
+"Altibase , URL: /wiki/Altibase
+","Yes","Yes","Yes, via MINUS","Yes","Yes","Yes","Yes","Yes","No","No","No","?"
+"Apache Derby , URL: /wiki/Apache_Derby
+","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","No","No","?","?"
+"ClustrixDB , URL: /wiki/Clustrix
+","Yes","No","No","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","?"
+"CUBRID , URL: /wiki/CUBRID
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes[83]","?","?"
+"DB2 , URL: /wiki/IBM_DB2
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[121]","Yes[122]"
+"Empress Embedded Database , URL: /wiki/Empress_database
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?","?"
+"EXASolution , URL: /wiki/EXASOL
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","?"
+"Firebird , URL: /wiki/Firebird_(database_server)
+","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?"
+"HSQLDB , URL: /wiki/HSQLDB
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes[123]","Yes","Yes","No","Yes[123]","?"
+"H2 , URL: /wiki/H2_(DBMS)
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","experimental[124]","Yes[125]","?","?"
+"Informix Dynamic Server , URL: /wiki/Informix_Dynamic_Server
+","Yes","Yes","Yes, via MINUS","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[126]","?"
+"Ingres , URL: /wiki/Ingres_(database)
+","Yes","No","No","Yes","Yes","Yes","Yes","Yes","No","No","?","?"
+"InterBase , URL: /wiki/InterBase
+","Yes","?","?","Yes","Yes","?","?","Yes","?","?","?","?"
+"Linter SQL RDBMS , URL: /wiki/Linter_SQL_RDBMS
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"LucidDB , URL: /wiki/LucidDB
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","?","?","?","?"
+"MariaDB , URL: /wiki/MariaDB
+","Yes","10.3+[127]","10.3+[128]","Yes","Yes","Yes","No","Yes","Yes[129]","Yes[130]","No[131]","Yes[122]"
+"MaxDB , URL: /wiki/MaxDB
+","Yes","?","?","Yes","Yes","Yes","No","Yes","?","?","?","?"
+"Microsoft Access , URL: /wiki/Microsoft_Access
+","Yes","No","No","Yes","Yes","Yes","No","Yes","No","No","?","?"
+"Microsoft Visual Foxpro , URL: /wiki/Microsoft_Visual_Foxpro
+","Yes","?","?","Yes","Yes","Yes","?","Yes","?","?","?","?"
+"Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[132]","Yes[133]","Yes[122]"
+"Microsoft SQL Server Compact (Embedded Database) , URL: /wiki/SQL_Server_Compact
+","Yes","No","No","Yes","Yes","?","No","Yes","No","No","?","?"
+"Mimer SQL , URL: /wiki/Mimer_SQL
+","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes","No","No","?"
+"MonetDB , URL: /wiki/MonetDB
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"MySQL , URL: /wiki/MySQL
+","Yes","No","No","Yes","Yes","Yes","No","Yes","8+[134]","8+[135]","No[131]","No[122]"
+"OpenBase SQL , URL: /w/index.php?title=OpenBase&action=edit&redlink=1
+","No","No","No","Yes","Yes","Yes","Yes","Yes","?","?","?","?"
+"OpenLink Virtuoso , URL: /wiki/Virtuoso_Universal_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","?","?","Yes","?"
+"Oracle , URL: /wiki/Oracle_Database
+","Yes","Yes","Yes, via MINUS","Yes","Yes","Yes","Yes","Yes","Yes 1","Yes","Yes[136]","Yes[137]"
+"Oracle Rdb , URL: /wiki/Oracle_Rdb
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?","?"
+"Pervasive PSQL , URL: /wiki/Pervasive_PSQL
+","Yes","No","No","Yes","Yes","?","?","Yes","No","No","No","?"
+"Polyhedra DBMS , URL: /wiki/Polyhedra_DBMS
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","No","No","?"
+"PostgreSQL , URL: /wiki/PostgreSQL
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[138]","No[122]"
+"Raima Database Manager , URL: /wiki/Raima_Database_Manager
+","No","No","No","Yes","Yes","No","No","Yes","No","No","No","?"
+"RDM Server , URL: /wiki/RDM_Server
+","Yes","No","No","Yes","Yes","Yes","No","Yes","No","No","No","?"
+"SAP HANA , URL: /wiki/SAP_HANA
+","?","?","?","?","?","?","?","?","?","?","?","?"
+"solidDB , URL: /wiki/SolidDB
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","?"
+"SQL Anywhere , URL: /wiki/SQL_Anywhere
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?"
+"SQLite , URL: /wiki/SQLite
+","Yes","Yes","Yes","Yes","LEFT only","Yes","No","Yes","3.8.3+[139]","3.25+[140]","No","No[122]"
+"SQream DB , URL: /wiki/SQream_DB
+","ALL only","No","No","Yes","Yes","Yes","Yes","No","Yes","Yes","No","?"
+"Teradata , URL: /wiki/Teradata
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?"
+"UniVerse , URL: /wiki/UniVerse
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","?","?"
+"","Union , URL: /wiki/Union_(SQL)
+","Intersect , URL: /wiki/Intersect_(sql)
+","Except , URL: /wiki/Except_(SQL)
+","Inner joins , URL: /wiki/Inner_join
+","Outer joins , URL: /wiki/Outer_join
+","Inner selects","Merge joins , URL: /wiki/Join_(SQL)#Merge_join
+","Blobs , URL: /wiki/Binary_large_object
+Clobs , URL: /wiki/Character_large_object
+","Common Table Expressions , URL: /wiki/Common_table_expressions
+","Windowing Functions , URL: /wiki/Window_function_(SQL)
+","Parallel Query","System-versioned Tables , URL: /wiki/Temporal_database
+"

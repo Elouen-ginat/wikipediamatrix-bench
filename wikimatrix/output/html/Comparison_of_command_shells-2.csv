@@ -1,0 +1,96 @@
+"Shell","Command name completion , URL: #Completions
+","Path completion , URL: #Completions
+","Command argument completion , URL: #Completions
+","Wildcard completion , URL: #Completions
+","Command history , URL: #Command_history
+","Mandatory argument prompt , URL: #Mandatory_argument_prompt
+","Automatic suggestions , URL: #Automatic_suggestions
+","Colored directory listings , URL: #Colored_directory_listings
+","Text highlighting , URL: #Text_highlighting
+","Syntax highlighting , URL: #Syntax_highlighting
+","Directory history, stack or similar features , URL: #Directory_history,_stack_or_similar_features
+","Implicit directory change , URL: #Implicit_directory_change
+","Autocorrection , URL: #Autocorrection
+","Integrated environment , URL: #Integrated_environment
+","Snippets , URL: #Snippets
+","Value prompt , URL: #Value_prompt
+","Menu/options prompt , URL: #Menu/options_selector
+","Progress indicator , URL: #Progress_indicator
+","Context sensitive help , URL: #Context_sensitive_help
+","Command builder , URL: #Command_builder
+"
+"Thompson shell , URL: /wiki/Thompson_shell
+","No","No","No","No","No","No","No","?","?","No","No","No","No","No","No","No","No","No","No","No"
+"Bourne shell , URL: /wiki/Bourne_shell
+","No","No","No","No","No","No","No","?","?","No","No","No","No","No","No","Yes","No","External","No","No"
+"Bourne shell , URL: /wiki/Bourne_shell
+","No","Yes[nb 8]","No","No","Yes[nb 8]","No","No","Yes","Yes","No","Yes (CDPATH, pushd, popd, dirs), CDPATH since SVr4","No","No","No","No","Yes","No","External","No","No"
+"POSIX , URL: /wiki/POSIX
+","No","No","No","No","Yes","No","No","Yes","Yes","No","Yes ( CDPATH)","No","No","No","No","Yes","No","External","No","No"
+"bash , URL: /wiki/Bash_(Unix_shell)
+","Yes","Yes","when defined","Yes[nb 9]","Yes","No","No","Yes","Yes","No","Yes ( CDPATH, pushd, popd)","optional","No","No","No","Yes","Yes","External","No","No"
+"csh , URL: /wiki/C_shell
+","Yes","Yes","No","No","Yes","No","No","Yes","Yes","No","Yes ( cdpath, pushd, popd)","optional","No","No","No","Yes","No","External","No","No"
+"tcsh , URL: /wiki/Tcsh
+","Yes","Yes","when defined","No","Yes","No","No","Yes","Yes","No","Yes ( cdpath, pushd, popd)","optional","Yes","No","No","Yes","No","External","No","No"
+"Hamilton C shell , URL: /wiki/Hamilton_C_shell
+","Yes","Yes","No","Yes","Yes","No","No","Yes","Yes","No","Yes ( cdpath, pushd, popd)","No","No","No","No","Yes","No","External","No","No"
+"Scsh , URL: /wiki/Scsh
+","No","No","No","No","No","No","No","?","?","No","No","No","No","No","No","Yes","No","External","No","No"
+"ksh , URL: /wiki/Korn_Shell
+","Yes (extendable)","Yes (extendable)","No","No","Yes","No","No","Yes","Yes","No","Yes ( cdpath builtin, pushd, popd implemented as functions)","No","No","No","No","Yes","Yes","External","No","No"
+"pdksh , URL: /wiki/Pdksh
+","Yes","Yes","No","No","Yes","No","No","Yes","Yes","No","No","No","No","No","No","Yes","Yes","External","No","No"
+"zsh , URL: /wiki/Zsh
+","Yes","Yes","when defined","Yes[25]","Yes","Yes[26]","Yes (via predict-on or user-defined[27])","Yes","Yes","Third-party extension[28]","Yes","optional","Yes","No","when defined (as ZLE widgets)","Yes","Yes","External","Yes","No"
+"ash , URL: /wiki/Almquist_shell
+","No","No","No","No","Yes","No","No","Yes","Yes","No","No","No","No","No","No","Yes","Yes","External","No","No"
+"CCP , URL: /wiki/CCP_(CP/M)
+","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"COMMAND.COM , URL: /wiki/COMMAND.COM
+","No","No","No","No","No[nb 10][nb 11]","No","No","No","%$ON% , URL: /wiki/%25$ON%25
+%$OFF% , URL: /wiki/%25$OFF%25
+%$HEADER% , URL: /wiki/%25$HEADER%25
+%$FOOTER% , URL: /wiki/%25$FOOTER%25
+","No","No","No","No","No (only single-stepping with COMMAND /Y[29])","No","No","No (only via external CHOICE command, in DR-DOS also via SWITCH / DRSWITCH internal commands)","No","No","No"
+"CMD.EXE , URL: /wiki/CMD.EXE
+","Yes","Yes","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"CMD.EXE , URL: /wiki/CMD.EXE
+","partial","partial","No","No","Yes ( F8)","No","No","No","No","No","Yes ( PUSHD, POPD)","No","No","No","No","Yes (via SET /P command)","No","No","No","No"
+"4DOS , URL: /wiki/4DOS
+","Yes","Yes","Yes","Yes","Yes[nb 12][nb 13]","No","No","Yes","No","No","(via popup, extended directory searches, CDPATH, PUSHD, POPD, DIRHISTORY, DIRS, CDD, CD - commands and %@DIRSTACK[] function)","Yes","No","Yes","No","Yes (via INPUT, INKEY and ESET commands)","Yes (via @SELECT[] function, and indirectly via a combination of INKEY, INPUT, SWITCH commands)","No","Yes","No (except for OPTION command for INI file directives)"
+"4OS2 , URL: /wiki/4OS2
+","?","?","?","?","Yes","No","No","Yes","No","No","Yes","Yes","No","?","No","?","?","No","Yes","No"
+"TCC , URL: /wiki/Take_Command_Console
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","(via popup, extended directory searches, CDPATH, PUSHD, POPD, DIRHISTORY, DIRS, CDD, CD - commands and %@DIRSTACK[] function)","Yes","No","Yes","No","Yes (via INPUT, INKEY, ESET and SET /P commands)","Yes (via @SELECT[] function, and indirectly via a combination of INKEY, INPUT, SWITCH commands)[nb 14]","No","Yes","No"
+"PowerShell , URL: /wiki/Windows_PowerShell
+","Yes","Yes","Yes","Yes","Yes ( F8)","Yes","Yes; via PSReadLine[30] module (bundled in v5.0[31]) or in ISE[32]","Third-party extension[33]","Yes[34]","Yes; via PSReadLine[30] module (bundled in v5.0) or in ISE[32]","No","Yes, in PSReadLine[30] module","Yes, in ISE[32]","Yes, in ISE[32]","Yes","Yes[35]","Yes[36]","Yes, in ISE[32]","popup window[37]","Yes, in ISE[32]"
+"rc , URL: /wiki/Rc
+","Yes[nb 15]","Yes[nb 15]","No","No","Yes[nb 15]","No","No","?","?","No","No","No","No","No","No","?","No","No","No","No"
+"BeanShell , URL: /wiki/BeanShell
+","Yes","Yes","No","No","No","No","No","?","?","No","No","No","No","No","No","No","No","No","No","No"
+"VMS DCL , URL: /wiki/DIGITAL_Command_Language
+","Minimum uniqueness scheme","No","No","No","Yes","Yes","No","?","?","No","No","No","No","No","No","Yes","No","No","No","No"
+"fish , URL: /wiki/Friendly_interactive_shell
+","Yes","Yes","when defined or parsable in man pages[38]","Yes[38]","Yes","No","Yes","Yes","Yes (built-in helper available[39])","Yes","Yes","Yes","Yes","Yes[nb 16]","Yes, using abbr command","Yes","(via fish_config command[40])","No","No","No"
+"Shell","Command name completion , URL: #Completions
+","Path completion , URL: #Completions
+","Command argument completion , URL: #Completions
+","Wildcard completion , URL: #Completions
+","Command history , URL: #Command_history
+","Mandatory argument prompt , URL: #Mandatory_argument_prompt
+","Automatic suggestions , URL: #Automatic_suggestions
+","Colored directory listings , URL: #Colored_directory_listings
+","Text highlighting , URL: #Text_highlighting
+","Syntax highlighting , URL: #Syntax_highlighting
+","Directory history, stack or similar features , URL: #Directory_history,_stack_or_similar_features
+","Implicit directory change , URL: #Implicit_directory_change
+","Autocorrection , URL: #Autocorrection
+","Integrated environment , URL: #Integrated_environment
+","Snippets , URL: #Snippets
+","Value prompt , URL: #Value_prompt
+","Menu/options prompt , URL: #Menu/options_selector
+","Progress indicator , URL: #Progress_indicator
+","Context sensitive help , URL: #Context_sensitive_help
+","Command builder , URL: #Command_builder
+"

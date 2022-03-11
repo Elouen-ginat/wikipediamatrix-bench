@@ -1,0 +1,31 @@
+"Feature","Android , URL: /wiki/Android_(operating_system)
+","iOS , URL: /wiki/IOS
+","Tizen , URL: /wiki/Tizen
+","Sailfish OS , URL: /wiki/Sailfish_OS
+","Ubuntu Touch , URL: /wiki/Ubuntu_Touch
+"
+"Multitasking , URL: /wiki/Computer_multitasking
+","Yes","7+;[295] 4–6: Limited[296]","2+[111]","Yes","Yes"
+"Quick app switching","7+[297]","3D Touch , URL: /wiki/Force_Touch#3D_Touch
+iPad , URL: /wiki/IPad
+","No","No","Yes"
+"Document-centric multitasking","5+[300]","13+: can open different views of same app side by side[301]","No","No","No"
+"Split-screen app usage","7+, some manufacturers earlier[302]","iPad , URL: /wiki/IPad
+RAM , URL: /wiki/Random-access_memory
+","Yes[304]","No [305]","Tablet-only"
+"Desktop interactive widgets","Yes","3D Touch , URL: /wiki/Force_Touch#3D_Touch
+","No","Yes","No"
+"Lock screen widgets","Yes (Notifications and settings). Full Widgets on Android 4.2–4.4 only.[307][308]","Notifications , URL: /wiki/Notification_Center
+Control Center , URL: /wiki/Control_Center_(iOS)
+","Media player; Notifications (SMS, call)","Yes","No"
+"Notification view widgets","4.1+: Google Now and possible with 3rd party apps","8+","No","Yes","No"
+"Quick settings toggles","2+[311]","7+[312]","No","Via the Patchmanager app[313]","Yes"
+"Search multiple internal apps at once","Yes","Yes","Yes","No[314]","Yes"
+"Settings search","LineageOS , URL: /wiki/LineageOS
+","9+[316]","No","No","Yes"
+"Search all fields of internal objects","Only search Contacts name field but not any other field[317]","6+[318]","Only searches contacts by name","First name, last name, nickname, also the multiple field called "Details"[319]|?",""
+"Core apps missing search","HTC Sense , URL: /wiki/HTC_Sense
+","Bookmarks[321]","?","?","?"
+"Phone number links to dialer","Available in stock Android, but not all devices enable it.[322]","Yes","Yes, but not in browser","Yes","Yes"
+"Addresses links to maps","Yes","Yes[323]","?","Yes","?"
+"Dates links to calendar","No","Yes[324]","Yes","Yes","?"

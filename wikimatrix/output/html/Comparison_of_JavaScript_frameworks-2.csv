@@ -1,0 +1,83 @@
+"","AngularJS , URL: /wiki/AngularJS
+","Apache Royale , URL: /wiki/Apache_Royale
+","Cash","Dojo , URL: /wiki/Dojo_Toolkit
+","Ember.js , URL: /wiki/Ember.js
+","Enyo , URL: /wiki/Enyo_(software)
+","Ext JS , URL: /wiki/Ext_(JavaScript_library)
+","Google Web Toolkit , URL: /wiki/Google_Web_Toolkit
+","jQuery , URL: /wiki/JQuery
+","jQWidgets , URL: /wiki/JQWidgets
+","MooTools , URL: /wiki/MooTools
+","OpenUI5 , URL: /wiki/OpenUI5
+","Prototype , URL: /wiki/Prototype_JavaScript_Framework
+script. aculo.us , URL: /wiki/Script.aculo.us
+","qooxdoo , URL: /wiki/Qooxdoo
+","SproutCore , URL: /wiki/SproutCore
+","Svelte , URL: /wiki/Svelte
+","Vue , URL: /wiki/Vue.js
+","Wakanda , URL: /wiki/Wakanda_(software)
+","ZK , URL: /wiki/ZK_Framework
+","Webix , URL: /wiki/Webix
+"
+"Feature detection , URL: /wiki/Feature_detection_(web_development)
+","Yes","","","Yes[13]","Yes","","Yes[14]","No[15][16]","Yes[17]","Yes","Yes[18]","","No[19]","Yes","Yes","","","Partial","No","Yes"
+"DOM wrapped[20]","Yes","","Yes","Yes","No","Yes","Yes","Yes","Yes","","No[21]","","No[22][23]","Yes","No","","","Yes","Yes","Yes"
+"XMLHttpRequest , URL: /wiki/Ajax_(programming)
+","Yes","Yes","No","Yes[24]","","Yes","Yes","Yes","Yes","Yes[25]","Yes[26]","Yes","Yes","Yes","Yes","","","Yes","","Yes"
+"WebSocket , URL: /wiki/WebSocket
+","","","","Yes[24]","","Yes","Yes","Yes","Yes","No","Yes[26]","Yes[27]","Yes","Yes","Via Plugin","","","Yes","","Yes[28]"
+"Server push , URL: /wiki/Server_push
+","","","","Yes[29]","","","Yes[30]","Yes[31]","Yes[29]","No","","","","","Via Plugin","","","","Yes[32]","Yes"
+"Other data retrieval","","Yes: XML, HTML, CSV, ATOM, AMF, JSON","","Yes: XML, HTML, CSV, ATOM[33]","","","Yes: XML, SOAP, AMF, Ext.Direct","Yes: RPC, RequestFactory","Yes: XML, HTML","Yes: XML, JSON, CSV, TSV[25]","Yes: XML, HTML","","","","","","","Yes: JSON-RPC, Wakanda REST","","Yes: XML, HTML, CS, JSON, JSArray, CSV"
+"Drag and drop , URL: /wiki/Drag_and_drop
+","","Yes","","Yes[34]","","","Yes","With plugin[35]","With plugins[36]","Yes[37]","Yes[38]","Yes[39]","Yes","Yes","Yes","","","Yes","Yes","Yes[40]"
+"Simple visual effects","Yes","Yes","Yes","Yes[41]","","Yes","Yes","Yes","Yes","Yes","Yes[42]","Yes","Yes","Yes","Yes[43]","","","Yes","Yes","Yes"
+"Animation / advanced visual effects","Yes","","","Yes[44]","","Yes[45]","Yes","Yes","Yes","Yes","Yes[46]","","Yes","Yes","Yes[43]","","","Yes","Yes","Yes[47]"
+"Back button support / history management","","","","Yes[48]","Yes","Yes[49]","Yes[50]","Yes","With plugins[51]","No","With plugin[52]","","Yes","Yes","Yes","","","","Yes","Yes"
+"widgets , URL: /wiki/Web_widget
+","Yes","Yes","","Yes[53]","","Yes","Yes","Yes, Validation requires plugin[54]","With plugins[55]","Yes[56]","Yes","Yes","Yes","Yes","Yes","","","Yes","Yes","Yes [57][58]"
+"","AngularJS , URL: /wiki/AngularJS
+","Apache Royale , URL: /wiki/Apache_Royale
+","Cash","Dojo , URL: /wiki/Dojo_Toolkit
+","Ember.js , URL: /wiki/Ember.js
+","Enyo , URL: /wiki/Enyo_(software)
+","ExtJS , URL: /wiki/Ext_(JavaScript_library)
+","Google Web Toolkit , URL: /wiki/Google_Web_Toolkit
+","jQuery , URL: /wiki/JQuery
+","jQWidgets , URL: /wiki/JQWidgets
+","MooTools , URL: /wiki/MooTools
+","OpenUI5 , URL: /wiki/OpenUI5
+","Prototype , URL: /wiki/Prototype_JavaScript_Framework
+script. aculo.us , URL: /wiki/Script.aculo.us
+","qooxdoo , URL: /wiki/Qooxdoo
+","SproutCore , URL: /wiki/SproutCore
+","Svelte , URL: /wiki/Svelte
+","Vue , URL: /wiki/Vue.js
+","Wakanda , URL: /wiki/Wakanda_(software)
+","ZK , URL: /wiki/ZK_Framework
+","Webix , URL: /wiki/Webix
+"
+"Grid , URL: /wiki/Grid_(graphic_design)
+","","Yes","","Yes[59]","","","Yes","Yes","With plugins[60]","Yes[61]","With plugin[62]","Yes","","Yes","Yes","","","Yes[63]","Yes","Yes[64]"
+"Hierarchical Tree , URL: /wiki/Tree_structure
+","","Yes","","Yes[65]","","Yes[66]","Yes[67]","Yes","With plugins[68]","Yes[69]","With plugins[70]","Yes","","Yes[71]","Yes","","","Yes (Auto Form)[72]","Yes","Yes [73]"
+"Rich text editor , URL: /wiki/Online_rich-text_editor
+","No","Yes","","Yes[74]","","","Yes[75]","Yes","With plugins[76]","Yes[77]","Yes[78]","","","Yes","Via plugin","","","Yes[79]","Yes","Yes[80]"
+"Autocompletion , URL: /wiki/Autocomplete
+","No","","","Yes[81]","","","Yes","Yes","Yes[82]","Yes[83]","With plugin[84]","","Yes","","With plugins","","","Yes[85]","Yes","Yes"
+"HTML , URL: /wiki/HTML
+","No","","","Yes[86]","","","Yes","Yes","Yes","Yes[77]","Yes[87]","","Yes","Yes","Yes","","","No","Yes","Yes"
+"Widgets themeable / skinnable","","Yes","","Yes[88]","","Yes","Yes[89]","Yes[90]","Yes[91]","","Yes","Yes","Yes","","Yes","","","","Yes","Yes"
+"GUI resizable panels and modal dialogs","","Yes","","Yes","","Yes","Yes[92]","Yes","With plugins","Yes[93]","Yes[94]","","","Yes","Yes","","","Yes[95]","Yes[96]","Yes"
+"GUI page layout","","","","Yes","","","Yes","Yes","With plugin[97]","Yes[98][99]","Yes[94]","","","Yes","Yes","","","Yes[100]","Yes[96]","Yes [101]"
+"Canvas support","","Yes","","Yes[102]","","Yes","Yes","Yes","With plugin[103]","Yes[104]","Yes[105]","","","Yes","Yes","","","Yes[106]","Yes[107]","Yes"
+"Mobile/tablet support (touch events)","Yes","Yes","","Yes[108]","Yes","Yes","Yes","With plugin[109]","With plugin[110]","Yes[111]","With plugin[112]","Yes","","Yes","Yes","","","Yes[113][114]","Yes[115]","Yes[116]"
+"Accessibility / graceful degradation[117]","Yes","","","Yes[118]","No","Yes","Yes[14]","Yes[119]","Yes","Yes[120]","Yes","","","No[121]","Degradation: No Accessibility: Yes","","","","Yes","Yes[122]"
+"ARIA , URL: /wiki/WAI-ARIA
+","","","","Yes[118]","","","Yes[14]","","Yes[123]","Yes[120]","","Yes","","No","Yes","","","","Yes","Yes [124]"
+"Developer tools, Visual design","","","","Yes[125][126]","","in progress[127]","Yes[128][129][130]","Yes","Yes[131][132]","Yes[133][134][135]","Yes[136][137]","","","Yes[138]","No","","","Yes[139]","Yes","Yes[140][141]"
+"Offline storage[142]","","Yes","","No[143]","","Yes","Yes[144]","Google Gears , URL: /wiki/Google_Gears
+","With plugin[146]","Yes[147]","","","","Yes","Yes","","","planned","Yes","Yes"
+"Cross-browser 2d Vector Graphics[148]","","","","Yes[149]","","","Yes","","With plugin[150]","Yes[104]","Yes[151]","","","","No]","","","Yes (via Raphael)","Yes[107]","Yes (via Raphael)[152]"
+"Charting & Dashboard[153]","","Yes","","Yes[154]","","","Yes[155]","","With plugin[156][157]","Yes[158][159]","","","","","No","","","Yes[160]","Yes[161]","Yes[162]"
+"RTL Support in UI Components","","Yes","","Yes","","","Yes","","Depends on the plugin used","Yes[120]","","Yes","","","Yes","","","","","No"

@@ -1,0 +1,47 @@
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Process","Transistors (billion)","Die size (mm2)","Core config[a]","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","L2 , URL: /wiki/GPU_cache
+","Clock speeds [b]","Clock speeds [b]","Clock speeds [b]","Memory","Memory","Memory","Memory","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","TFLOPS , URL: /wiki/TFLOPS
+","TFLOPS , URL: /wiki/TFLOPS
+","TFLOPS , URL: /wiki/TFLOPS
+","TFLOPS , URL: /wiki/TFLOPS
+","Ray-tracing , URL: /wiki/Ray_tracing_(graphics)
+","Ray-tracing , URL: /wiki/Ray_tracing_(graphics)
+","TDP , URL: /wiki/Thermal_design_power
+"
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Process","Transistors (billion)","Die size (mm2)","Core config[a]","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","L2 , URL: /wiki/GPU_cache
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","MT/s , URL: /wiki/Transfer_(computing)
+","GiB , URL: /wiki/Gibibyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Double precision , URL: /wiki/Double_precision_floating-point_format
+","Half precision , URL: /wiki/Half_precision_floating-point_format
+","Tensor , URL: /wiki/Tensor
+","Rays/s (Billions)","RTX OPS/s (Trillions)","TDP , URL: /wiki/Thermal_design_power
+"
+"GeForce RTX 3050 [246][247]","May 11, 2021","GA107","Samsung , URL: /wiki/Samsung
+","","","2048:64:40:64:16 (16) (3)","PCIe 4.0 x16 , URL: /wiki/PCIe_4.0
+","2","713-1530","1057-1740","14000","4","224","GDDR6","128","60","96","2.92-6.27 4.33-7.13","0.016-0.098 0.068-0.111","2.92-6.27 4.33-7.13","","","","35-80"
+"GeForce RTX 3050 Ti [248][249]","May 11, 2021","GA107","Samsung , URL: /wiki/Samsung
+","","","2560:80:48:80:20 (20) (3)","PCIe 4.0 x16 , URL: /wiki/PCIe_4.0
+","2","735-1463","1035-1695","14000","4","224","GDDR6","128","71.28","118.8","3.76-7.49 5.30-8.68","0.059-0.117 0.083-0.136","3.76-7.49 5.30-8.68","","","","35-80"
+"GeForce RTX 3060 [250][251]","February 25, 2021","GA106","Samsung , URL: /wiki/Samsung
+","13.25","276","3840:120:48:120:30 (30) (3)","PCIe 4.0 x16 , URL: /wiki/PCIe_4.0
+","3","900-1387","1283-1703","14000","6","336","GDDR6","192","68.4","171.0","6.91-10.65 9.85-13.08","0.108-0.166 0.154-0.204","6.91-10.65 9.85-13.08","","","","60-115"
+"GeForce RTX 3070 [252][253][254]","January 12, 2021","GA104-770-A1","Samsung , URL: /wiki/Samsung
+","17.4","392","5120:160:80:160:40 (40) (6)","PCIe 4.0 x16 , URL: /wiki/PCIe_4.0
+","4","1110-1215","1290-1620","12000 14000","8","336 448","GDDR6","256","124.8","249.6","11.37-12.44 13.21-16.59","0.178-0.194 0.206-0.259","11.37-12.44 13.21-16.59","","","","80-140"
+"GeForce RTX 3080 [255][256]","January 12, 2021","GA104-775-A1","Samsung , URL: /wiki/Samsung
+","17.4","392","6144:192:96:192:48 (48) (6)","PCIe 4.0 x16 , URL: /wiki/PCIe_4.0
+","4","1110-1350","1245-1710","12000 14000","8","336 448","GDDR6","256","148.3","296.6","13.64-16.59 15.30-21.01","0.213-0.259 0.239-0.328","13.64-16.59 15.30-21.01","","","","80-150"

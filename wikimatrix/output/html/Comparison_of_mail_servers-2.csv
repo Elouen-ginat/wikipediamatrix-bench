@@ -1,0 +1,142 @@
+"Mail Server","DNSBL , URL: /wiki/DNSBL
+","SURBL , URL: /wiki/SURBL
+","Spamtraps , URL: /wiki/Spamtrap
+","Greylisting , URL: /wiki/Greylisting_(email)
+","SPF , URL: /wiki/Sender_Policy_Framework
+","DKIM , URL: /wiki/DKIM
+","DMARC , URL: /wiki/DMARC
+","Tarpit , URL: /wiki/Tarpit_(networking)
+","Bayesian filters , URL: /wiki/Bayesian_spam_filtering
+","Regular expressions , URL: /wiki/Regular_expression
+","Embedded Antivirus , URL: /wiki/Antivirus
+","Embedded Antispam , URL: /wiki/Antispam
+"
+"agorum core , URL: /wiki/Agorum_core
+","No","No","No","No","No","No","No","No","No","Yes","No","No"
+"Apache James , URL: /wiki/Apache_James
+","?","?","?","?","?","?","?","?","Yes","?","ClamAV , URL: /wiki/Clam_AntiVirus
+","Apache , URL: /wiki/Apache
+SpamAssassin , URL: /wiki/SpamAssassin
+"
+"Axigen , URL: /wiki/Axigen
+","Yes","No","Yes","Yes","Yes","Yes","?","No","SpamAssassin , URL: /wiki/SpamAssassin
+","Yes","CYREN , URL: /wiki/CYREN
+","CYREN , URL: /wiki/CYREN
+"
+"Citadel , URL: /wiki/Citadel/UX
+","Yes","Yes","No","No","SpamAssassin , URL: /wiki/SpamAssassin
+","?","?","No","SpamAssassin , URL: /wiki/SpamAssassin
+","No","ClamAV , URL: /wiki/Clam_AntiVirus
+","SpamAssassin , URL: /wiki/SpamAssassin
+"
+"Courier Mail Server , URL: /wiki/Courier_Mail_Server
+","Yes","?","Yes","Yes[32]","Yes","Yes[33]","Yes[34]","Yes","Yes[32]","Yes[32]","Clamav , URL: /wiki/Clamav
+","Yes[32]"
+"Dovecot , URL: /wiki/Dovecot_(software)
+","No[35]","No","?","?","?","?","?","?","?","?","?","?"
+"Eudora Internet Mail Server , URL: /wiki/Eudora_Internet_Mail_Server
+","Yes","?","Yes","Yes","?","?","?","?","?","?","?","?"
+"Exim , URL: /wiki/Exim
+","Yes","Yes","Yes","Yes","Optional at build time","Yes","Optional at build time","Yes","Optional with spamassassin etc.","Yes","Optional any","Optional any"
+"FirstClass , URL: /wiki/FirstClass
+","Yes","Yes","No","?","Yes","?","?","Yes","Yes","Yes","Symantec , URL: /wiki/NortonLifeLock
+","?"
+"Gordano Messaging Suite , URL: /wiki/Gordano_Messaging_Suite
+","Yes","Yes","Yes","Yes","Yes","?","?","Yes","Yes","Yes","CYREN , URL: /wiki/CYREN
+Authentium , URL: /wiki/Authentium
+","CYREN , URL: /wiki/CYREN
+"
+"GroupWise , URL: /wiki/GroupWise
+","Yes","?","?","?","?","?","?","?","?","?","?","?"
+"Halon , URL: /wiki/Halon_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","SpamAssassin , URL: /wiki/SpamAssassin
+","Yes","Sophos , URL: /wiki/Sophos
+ClamAV , URL: /wiki/Clam_AntiVirus
+","CYREN , URL: /wiki/CYREN
+SpamAssassin , URL: /wiki/SpamAssassin
+"
+"Haraka , URL: /wiki/Haraka_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","Optional with spamassassin etc.","Yes","ClamAV , URL: /wiki/Clam_AntiVirus
+AVG , URL: /wiki/AVG_(software)
+","SpamAssassin , URL: /wiki/SpamAssassin
+MessageSniffer , URL: /w/index.php?title=MessageSniffer&action=edit&redlink=1
+"
+"hMailServer , URL: /wiki/HMailServer
+","Yes","Yes","No","Yes","Yes","Yes","?","No","No","Yes","ClamAV , URL: /wiki/Clam_AntiVirus
+","SpamAssassin , URL: /wiki/Spam_Assassin
+"
+"IBM Notes , URL: /wiki/IBM_Notes
+","Yes[36]","?","?","?","No[37]","?","?","?","?","?","?","?"
+"IceWarp Mail Server , URL: /wiki/IceWarp_Mail_Server
+","Yes","Yes","Yes","Yes","Yes","?","?","Yes","Yes","Yes","Yes","Yes"
+"Ipswitch IMail Server , URL: /wiki/Ipswitch_IMail_Server
+","Yes","Yes","No","No","Yes","Yes[38]","Yes[39]","No","Yes","Yes","Symantec , URL: /wiki/NortonLifeLock
+BitDefender , URL: /wiki/BitDefender
+","CYREN , URL: /wiki/CYREN
+"
+"Kolab , URL: /wiki/Kolab
+","Yes","?","?","Yes","Yes","?","?","?","Optional with spamassassin etc.","Yes","content filter , URL: http://www.postfix.org/FILTER_README.html
+","content filter , URL: http://www.postfix.org/FILTER_README.html
+"
+"Mailsite , URL: /wiki/Mailsite
+","Yes","Yes","Yes","Yes","Yes","?","?","No","Yes","Yes","Yes","Yes"
+"Mailtraq , URL: /wiki/Mailtraq
+","?","?","?","?","?","?","?","?","?","?","?","?"
+"MDaemon , URL: /wiki/MDaemon
+","Yes","SpamAssassin , URL: /wiki/SpamAssassin
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes (via SpamAssassin)","Yes (via Content Filter)","Optional Cyren, ClamAV","Yes SpamAssassin"
+"Mercury Mail Transport System , URL: /wiki/Mercury_Mail_Transport_System
+","Yes","?","?","Yes (GreyWall extension)","?","?","?","?","Yes (SpamHalter extension)","?","Yes (ClamWall extension)","?"
+"Microsoft Exchange Server , URL: /wiki/Microsoft_Exchange_Server
+","Yes (2003 & later)","?","?","Yes","Yes","Optional (Signing only via 3rd Party Extensions)","?","Yes (2003 & later)","?","?","?","?"
+"NetMail , URL: /wiki/NetMail
+","?","?","?","?","?","?","?","?","?","?","?","?"
+"OpenSMTPD , URL: /wiki/OpenSMTPD
+","?","?","?","?","Yes","Yes[40]","?","?","?","?","?","?"
+"Oracle Communications Messaging Server , URL: /wiki/Oracle_Communications_Messaging_Server
+","Yes","Yes","Yes","Yes","Yes","?","?","Yes","Optional with spamassassin etc.","Yes","Optional any","Optional any"
+"Postfix , URL: /wiki/Postfix_(software)
+","Yes","?","?","Yes","Yes","Optional[41]","Optional[42]","?","Optional with spamassassin etc.","Yes","content filter , URL: http://www.postfix.org/FILTER_README.html
+","content filter , URL: http://www.postfix.org/FILTER_README.html
+"
+"qmail , URL: /wiki/Qmail
+","?","?","?","Yes","?","?","?","?","No","?","No","No"
+"Scalix , URL: /wiki/Scalix
+","Yes","Cyren , URL: /wiki/CYREN
+SpamAssassin , URL: /wiki/Spam_Assassin
+","Cyren , URL: /wiki/CYREN
+SpamAssassin , URL: /wiki/Spam_Assassin
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Cyren , URL: /wiki/CYREN
+ClamAV , URL: /wiki/Clam_AntiVirus
+","Yes"
+"Sendmail , URL: /wiki/Sendmail
+","Yes","Yes (via milter/SA)","?","Yes","Optional","Optional[41]","Optional[42]","?","Optional with spamassassin etc.","Yes","ClamAV , URL: /wiki/Clam_AntiVirus
+","SpamAssassin , URL: /wiki/Spam_Assassin
+"
+"SparkEngine , URL: /wiki/SparkEngine
+","?","?","?","?","?","?","?","?","?","?","?","?"
+"UW IMAP , URL: /wiki/UW_IMAP
+","?","?","?","?","?","?","?","?","?","?","?","?"
+"WinGate , URL: /wiki/WinGate
+","?","?","?","?","?","?","?","?","?","?","?","?"
+"Zarafa , URL: /wiki/Zarafa_(software)
+","External[14]","External[14]","External[14]","External[14]","External[14]","External[14]","External[14]","External[14]","External[14]","External[14]","External[14]","External[14]"
+"Zimbra , URL: /wiki/Zimbra
+","Yes","SpamAssassin , URL: /wiki/Spam_Assassin
+","?","Yes (via Cluebringer Policy Daemon)","Yes","Yes","?","Yes","Yes","Yes (partially)","ClamAV , URL: /wiki/Clam_AntiVirus
+Amavisd , URL: /wiki/Amavisd
+","SpamAssassin , URL: /wiki/Spam_Assassin
+"
+"Mail Server","DNSBL , URL: /wiki/DNSBL
+","SURBL , URL: /wiki/SURBL
+","Spamtraps , URL: /wiki/Spamtrap
+","Greylisting , URL: /wiki/Greylisting_(email)
+","SPF , URL: /wiki/Sender_Policy_Framework
+","DKIM , URL: /wiki/DKIM
+","DMARC , URL: /wiki/DMARC
+","Tarpit , URL: /wiki/Tarpit_(networking)
+","Bayesian filters , URL: /wiki/Bayesian_spam_filtering
+","Regular expressions , URL: /wiki/Regular_expression
+","Embedded Antivirus , URL: /wiki/Antivirus
+","Embedded Antispam , URL: /wiki/Antispam
+"

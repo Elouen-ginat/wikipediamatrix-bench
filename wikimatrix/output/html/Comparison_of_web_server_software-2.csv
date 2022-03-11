@@ -1,0 +1,64 @@
+"Server","Windows","Linux","macOS","BSD","Solaris","eComStation","OpenVMS","AIX","IBM i","z/OS","HP-UX"
+"AOLserver , URL: /wiki/AOLserver
+","No","Yes","Yes","Yes","Yes","No","No","Unknown","No","Unknown","Unknown"
+"Apache HTTP Server , URL: /wiki/Apache_HTTP_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Apache Tomcat , URL: /wiki/Apache_Tomcat
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes"
+"Boa , URL: /wiki/Boa_(web_server)
+","Unknown","Yes","No","Yes","Unknown","No","No","Unknown","No","Unknown","Unknown"
+"BusyBox httpd , URL: /wiki/BusyBox
+","No[21]","Yes","Unknown","Yes","No","No","No","No","No","No","No"
+"Caddy , URL: /wiki/Caddy_(web_server)
+","Yes","Yes","Yes","Yes","Yes","No","No","Unknown","Unknown","Unknown","Unknown"
+"Caucho Resin Server , URL: /wiki/Resin_Server
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Caudium , URL: /wiki/Caudium_(web_server)
+","No","Yes","Yes","Yes","Yes","No","No","Yes","No","Unknown","Unknown"
+"Cherokee HTTP Server , URL: /wiki/Cherokee_HTTP_Server
+","No[23]","Yes","Yes","Yes","Yes","No","No","Unknown","No","Unknown","Unknown"
+"HFS , URL: /wiki/HTTP_File_Server
+","Yes","No","No","No","No","No","No","No","No","No","No"
+"Hiawatha , URL: /wiki/Hiawatha_(web_server)
+","Cygwin , URL: /wiki/Cygwin
+","Yes[24]","Yes[24]","Yes[24]","Yes[24]","No","No","No","No","No","No"
+"IBM HTTP Server , URL: /wiki/IBM_HTTP_Server
+","Yes","Yes","No","No","Yes","No","No","Yes","Yes","Yes","Yes"
+"Internet Information Services , URL: /wiki/Internet_Information_Services
+","Yes","No","No","No","No","No","No","No","No","No","No"
+"Jetty (Java) , URL: /wiki/Jetty_(web_server)
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Unknown","No","Yes","Unknown"
+"Jexus , URL: /wiki/Jexus
+","No","Yes","No","Yes","Unknown","No","No","No","No","No","No"
+"lighttpd , URL: /wiki/Lighttpd
+","Cygwin , URL: /wiki/Cygwin
+","Yes","Yes","Yes","Yes","No","No","Yes","No","No","Yes"
+"LiteSpeed Web Server , URL: /wiki/LiteSpeed_Web_Server
+","No","Yes","Yes","Yes","Yes","No","No","Unknown","No","Unknown","Unknown"
+"Mongoose , URL: /wiki/Mongoose_(web_server)
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","No","Yes"
+"Monkey HTTP Server , URL: /wiki/Monkey_HTTP_Server
+","No","Yes","Yes","No","No","No","No","No","No","No","No"
+"NaviServer , URL: /wiki/NaviServer
+","Yes","Yes","Yes","Yes","Yes","Unknown","Unknown","Yes","No","Unknown","Unknown"
+"NCSA HTTPd , URL: /wiki/NCSA_HTTPd
+","Unknown","Yes","No","Yes","Yes","Yes","No","Unknown","No","Unknown","Yes"
+"nginx , URL: /wiki/Nginx
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","No","Yes"
+"OpenLink Virtuoso , URL: /wiki/Virtuoso_Universal_Server
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","No","Yes"
+"Oracle HTTP Server , URL: /wiki/Oracle_HTTP_Server
+","Yes","Yes","No","Unknown","Yes","No","No","Yes","No","Unknown","Unknown"
+"Oracle iPlanet Web Server , URL: /wiki/Oracle_iPlanet_Web_Server
+","Yes","Yes","No","No","Yes","No","No","Yes","No","No","Yes"
+"thttpd , URL: /wiki/Thttpd
+","Cygwin , URL: /wiki/Cygwin
+","Yes","Yes","Yes","Yes","No","No","Unknown","No","Unknown","Unknown"
+"TUX web server , URL: /wiki/TUX_web_server
+","No","Yes","No","No","No","No","No","No","No","No","No"
+"Wakanda Server , URL: /wiki/Wakanda_(software)
+","Yes","Yes (via libbsd)","Yes","Yes","Unknown","No","No","No","No","No","No"
+"Xitami , URL: /wiki/Xitami
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Unknown","Yes"
+"Yaws , URL: /wiki/Yaws_(web_server)
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","Unknown","Unknown"

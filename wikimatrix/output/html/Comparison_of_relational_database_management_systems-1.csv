@@ -1,65 +1,136 @@
-"null","null","null","null","null","null"
-"4D S.A.S.","1984","v16.0","2017-01-10[1]","Proprietary","No"
-"Software AG","1970","8.1","2013-06","Proprietary","No"
-"SAP AG","1987","16.0 SP03 PL07","2019-06-10","Proprietary","No"
-"SAP AG","1992","12.0","2015","Proprietary","No"
-"Altibase Corp.","2000","7.1.0.1.2","2018-03-02","GNU-AGPLv3; GNU-LGPLv3(for client-libraries)","No"
-"Apache","2004","10.15.1.3[2]","2019-03-11","Apache License","Yes[3]"
-"MariaDB Corporation","2010","v7.0","2015-08-19","Proprietary","No"
-"Cockroach Labs","2015","v20.2.8","2021-04-23","BSL,CCL,MIT,BSD","Yes[4]"
-"CUBRID","2008-11","10.2.1","2020-06-01","GPL v2 or later, BSD license for APIs and GUI tools","Yes[5]"
-"CA, Inc.","Early 70s[6]","14[7]","2012[8]","Proprietary","No"
-"IBM","1983","11.5.7[9]","2021-12-08; 2 months ago","Proprietary","No"
-"Empress Software Inc","1979","10.20","2010-03","Proprietary","No"
-"EXASOL AG","2004","7.1.1","2021-09-15; 5 months ago","Proprietary","No"
-"FileMaker, Inc., an Apple subsidiary","1985-04","19","2020-05-20","Proprietary","No"
-"Firebird project","2000-07-25","4.0[10]","2021-06-01; 9 months ago","IPL[11] and IDPL[12]","Yes[13]"
-"GIS Federal","2014","3.2.5","2015-01-14","Proprietary","No"
-"HSQL Development Group","2001","2.6.1","2021-10-21","BSD","Yes[14]"
-"H2 Software","2005","1.4.200","2019-10-14","EPL and modified MPL","Yes[15]"
-"IBM","1981????1980","14.10.xC7W1","2022-01-15","Proprietary","No"
-"Ingres Corp.","1974","11.0","2017-03-21","GPL and Proprietary","No"
-"Embarcadero","1984","XE7 v12.0.4.357","2015-08-12","Proprietary","No"
-"RELEX Group","1990","6.0.17.53","2018-02-15","Proprietary","Yes[16]"
-"The Eigenbase Project","2007-01","0.9.4","2012-01-05","GPL v2","No"
-"MariaDB Community","2010-02-01","10.7.3[17]","2022-02-12; 18 days ago","GPL v2, LGPL (for client-libraries)[18]","Yes[19]"
-"SAP AG","2003-05","7.9.0.8","2014","Proprietary","Yes[20]"
-"SingleStore","2012-06","7.1.11","2020-10-12","Proprietary","No"
-"Microsoft","1992","16 (2016)","2015-09-22","Proprietary","No"
-"Microsoft","1984","9 (2005)","2007-10-11","Proprietary","No"
-"Microsoft","1989","2019[21]","2019-11-04; 2 years ago","Proprietary","No"
-"Microsoft","2000","2011 (v4.0)","","Proprietary","No"
-"Mimer Information Technology","1978","11.0.5A","2021-03-01","Proprietary","No"
-"The MonetDB Team / CWI","2004","Jan2022","2022-01-24","Mozilla Public License, version 2.0[22]","Yes[23]"
-"Hughes Technologies","1994","4.1[24]","2017-06-30","Proprietary","No"
-"Oracle Corporation","1995-11","8.0.28[25]","2022-01-18; 43 days ago","GPL v2 or Proprietary","Yes[26]"
-"NexusDB Pty Ltd","2003","4.00.14","2015-06-25","Proprietary","No"
-"Hewlett-Packard Enterprise","1987","SQL/MX 3.4","","Proprietary","No"
-"NuoDB","2013","4.1","August 2020","Proprietary","No"
-"TigerLogic Inc","1982-07","6.1.3 Release 1no","2015-12","Proprietary","No"
-"Progress Software Corporation","1984","11.6.3","2016-08-19","Proprietary","No"
-"OpenLink Software","1998","7.2.5.1","2018-08-15","GPL v2 or Proprietary","Yes[27]"
-"Oracle Corporation","1979-11","19c[28]","2019-02-13; 3 years ago","Proprietary","No"
-"Oracle Corporation","1984","7.4.1.1[29]","2021-04-21[±]","Proprietary","No"
-"Corel Corporation","1985","11","2009-09-07","Proprietary","No"
-"Percona","2006","8.0.25-15","2021-07-13[±]","GPL v2","Yes"
-"Pervasive Software","1982","v12","2015","Proprietary","No"
-"ENEA AB","1993","9.0","2015-06-24","Proprietary, with Polyhedra Lite available as Freeware[30]","No"
-"PostgreSQL Global Development Group","1989-06","14.2[31]","2022-02-10; 20 days ago","Postgres License[32]","No[33]"
-"R:BASE Technologies","1982","10.0","2016-05-26","Proprietary","No"
-"Raima Inc.","1984","15.2","2022-02-28","Proprietary","No"
-"Raima Inc.","1993","8.4","2012-10-31","Proprietary","No"
-"SAP AG","2010","2.0 SPS04","2019-08-08","Proprietary","No"
-"UNICOM Global","1992","7.0.0.10","2014-04-29","Proprietary","No"
-"SAP AG","1992","17.0.0.48","2019-07-26","Proprietary","No"
-"Unify Corp.","1982","11.5","2008-11","Proprietary","No"
-"D. Richard Hipp","2000-09-12","3.38.0[34]","2022-02-22; 8 days ago","Public domain","Yes[35]"
-"SQream Technologies","2014","2.1[36]","2018-01-15","Proprietary","No"
-"Superbase","1984","Classic","2003","Proprietary","No"
-"Superbase NG","2002","Superbase NG 2.10","2017","Proprietary","Yes[37]"
-"Teradata","1984","15","2014-04","Proprietary","No"
-"TmaxSoft","1992","6.0 FS07_CS_2005","2021-03","Proprietary","No"
-"Apache","2016","5.0.1[38]","2021-04-23; 10 months ago","Apache License","Yes[39]"
-"Rocket Software","1988","8.2.1","2017-07","Proprietary","No"
-"Apache","2018","2.7.2.0[40]","2021-07-29[±]","Apache License","Yes[41]"
-"null","null","null","null","null","null"
+"","Windows , URL: /wiki/Microsoft_Windows
+","macOS , URL: /wiki/MacOS
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/BSD
+","UNIX , URL: /wiki/UNIX
+","AmigaOS , URL: /wiki/AmigaOS
+","z/OS , URL: /wiki/Z/OS
+","iOS , URL: /wiki/IOS
+","Android , URL: /wiki/Android_(operating_system)
+","OpenVMS , URL: /wiki/OpenVMS
+"
+"4th Dimension , URL: /wiki/4th_Dimension_(Software)
+","Yes","Yes","No","No","No","No","No","No","No","No"
+"ADABAS , URL: /wiki/ADABAS
+","Yes","No","Yes","No","Yes","No","Yes","No","No","No"
+"Adaptive Server Enterprise , URL: /wiki/Adaptive_Server_Enterprise
+","Yes","No","Yes","Yes","Yes","No","No","No","No","No"
+"Advantage Database Server , URL: /wiki/Advantage_Database_Server
+","Yes","No","Yes","No","No","No","No","No","No","No"
+"Altibase , URL: /wiki/Altibase
+","Yes","No","Yes","No","Yes","No","No","No","No","No"
+"Apache Derby , URL: /wiki/Apache_Derby
+","Yes","Yes","Yes","Yes","Yes","No","Yes","?","No","No"
+"ClustrixDB , URL: /wiki/Clustrix
+","No","No","Yes","No","Yes","No","No","No","No","No"
+"CockroachDB , URL: /wiki/CockroachDB
+","Yes","Yes","Yes","No","No","No","No","No","No","No"
+"CUBRID , URL: /wiki/CUBRID
+","Yes","Partial","Yes","No","No","No","No","No","No","No"
+"DB2 , URL: /wiki/IBM_DB2
+","Yes","Express C , URL: /wiki/IBM_DB2_Express-C
+","Yes","No","Yes","No","Yes","Yes","No","No"
+"Empress Embedded Database , URL: /wiki/Empress_database
+","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","No"
+"EXASolution , URL: /wiki/EXASOL
+","No","No","Yes","No","No","No","No","No","No","No"
+"FileMaker , URL: /wiki/FileMaker
+","Yes","Yes","Yes","No","No","No","No","Yes","No","No"
+"Firebird , URL: /wiki/Firebird_(database_server)
+","Yes","Yes","Yes","Yes","Yes","No","Maybe","No","Yes[42]","No"
+"HSQLDB , URL: /wiki/HSQLDB
+","Yes","Yes","Yes","Yes","Yes","No","Yes","?","?","No"
+"H2 , URL: /wiki/H2_(DBMS)
+","Yes","Yes","Yes","Yes","Yes","No","Yes","?","Yes","No"
+"Informix Dynamic Server , URL: /wiki/Informix_Dynamic_Server
+","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No"
+"Ingres , URL: /wiki/Ingres_(database)
+","Yes","Yes","Yes","Yes","Yes","No","Partial","No","No","Yes[43]"
+"InterBase , URL: /wiki/InterBase
+","Yes","Yes","Yes","No","Solaris , URL: /wiki/Solaris_(operating_system)
+","No","No","Yes","Yes","No"
+"Linter SQL RDBMS , URL: /wiki/Linter_SQL_RDBMS
+","Yes","Yes","Yes","Yes","Yes","No","Linux on IBM Z , URL: /wiki/Linux_on_IBM_Z
+","Yes","Yes","Yes"
+"LucidDB , URL: /wiki/LucidDB
+","Yes","Yes","Yes","No","No","No","No","No","No","No"
+"MariaDB , URL: /wiki/MariaDB
+","Yes","Yes[44]","Yes","Yes","Yes","No","No","?","Yes[45]","No"
+"MaxDB , URL: /wiki/MaxDB
+","Yes","No","Yes","No","Yes","No","Maybe","No","No","No"
+"Microsoft Access , URL: /wiki/Microsoft_Access
+","Yes","No","No","No","No","No","No","No","No","No"
+"Microsoft Visual Foxpro , URL: /wiki/Microsoft_Visual_Foxpro
+","Yes","No","No","No","No","No","No","No","No","No"
+"Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
+","Yes","No","Yes[46]","No","No","No","No","No","No","No"
+"Microsoft SQL Server Compact (Embedded Database) , URL: /wiki/SQL_Server_Compact
+","Yes","No","No","No","No","No","No","No","No","No"
+"Mimer SQL , URL: /wiki/Mimer_SQL
+","Yes","Yes","Yes","No","Yes","No","No","No","Yes","Yes"
+"MonetDB , URL: /wiki/MonetDB
+","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No"
+"MySQL , URL: /wiki/MySQL
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes[47]","No"
+"Omnis Studio , URL: /wiki/Omnis_Studio
+","Yes","Yes","Yes","No","No","No","No","No","No","No"
+"OpenEdge , URL: /wiki/OpenEdge_Database
+","Yes","No","Yes","No","Yes","No","No","No","No","No"
+"OpenLink Virtuoso , URL: /wiki/Virtuoso_Universal_Server
+","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No"
+"Oracle , URL: /wiki/Oracle_Database
+","Yes","Yes","Yes","No","Yes","No","Yes","No","No","Yes"
+"Oracle Rdb , URL: /wiki/Oracle_Rdb
+","No","No","No","No","No","No","No","No","No","Yes"
+"Pervasive PSQL , URL: /wiki/Pervasive_PSQL
+","Yes","Yes (OEM only)","Yes","No","No","No","No","No","No","No"
+"Polyhedra , URL: /wiki/Polyhedra_DBMS
+","Yes","No","Yes","No","Yes","No","No","No","No","No"
+"PostgreSQL , URL: /wiki/PostgreSQL
+","Yes","Yes","Yes","Yes","Yes","MorphOS , URL: /wiki/MorphOS
+","Linux on IBM Z , URL: /wiki/Linux_on_IBM_Z
+","No","Yes","No"
+"R:Base , URL: /wiki/R:Base
+","Yes","No","No","No","No","No","No","No","No","No"
+"Raima Database Manager , URL: /wiki/Raima_Database_Manager
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","No"
+"RDM Server , URL: /wiki/RDM_Server
+","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No"
+"SAP HANA , URL: /wiki/SAP_HANA
+","Yes","No","Yes","No","No","No","No","No","No","No"
+"solidDB , URL: /wiki/SolidDB
+","Yes","No","Yes","No","Yes","No","Linux on IBM Z , URL: /wiki/Linux_on_IBM_Z
+","No","No","No"
+"SQL Anywhere , URL: /wiki/SQL_Anywhere
+","Yes","Yes","Yes","No","Yes","No","No","No","Yes","No"
+"SQLBase , URL: /wiki/SQLBase
+","Yes","No","Yes","No","No","No","No","No","No","No"
+"SQLite , URL: /wiki/SQLite
+","Yes","Yes","Yes","Yes","Yes","Yes","Maybe","Yes","Yes","No"
+"SQream DB , URL: /wiki/SQream_DB
+","No","No","Yes","No","No","No","No","No","No","No"
+"Superbase , URL: /wiki/Superbase_database
+","Yes","No","No","No","No","Yes","No","No","No","No"
+"Superbase NG , URL: /wiki/Superbase_database
+","Yes","No","Yes","No","No","No","No","No","No","No"
+"Teradata , URL: /wiki/Teradata
+","Yes","No","Yes","No","Yes","No","No","No","No","No"
+"Tibero , URL: /wiki/Tibero
+","Yes","No","Yes","No","Yes","No","No","No","No","No"
+"UniData , URL: /wiki/UniData
+","Yes","No","Yes","No","Yes","No","No","No","No","No"
+"UniVerse , URL: /wiki/UniVerse
+","Yes","No","Yes","No","Yes","No","No","No","No","No"
+"YugabyteDB , URL: /wiki/YugabyteDB
+","Yes","Yes","Yes","No","No","No","No","No","No","No"
+"","Windows , URL: /wiki/Microsoft_Windows
+","macOS , URL: /wiki/MacOS
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/BSD
+","UNIX , URL: /wiki/UNIX
+","AmigaOS , URL: /wiki/AmigaOS
+","z/OS , URL: /wiki/Z/OS
+","iOS , URL: /wiki/IOS
+","Android , URL: /wiki/Android_(operating_system)
+","OpenVMS , URL: /wiki/OpenVMS
+"

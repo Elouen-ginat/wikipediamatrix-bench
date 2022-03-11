@@ -1,0 +1,18 @@
+"","MSHTML , URL: /wiki/MSHTML
+","Tasman , URL: /wiki/Tasman_(browser_engine)
+","Gecko , URL: /wiki/Gecko_(software)
+","WebKit , URL: /wiki/WebKit
+","KHTML , URL: /wiki/KHTML
+","Presto , URL: /wiki/Presto_(browser_engine)
+","iCab , URL: /wiki/ICab
+"
+"caption","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"table","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"td","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"th","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"tr","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"col","Yes","?","Yes","Yes","Yes","Yes","Yes"
+"colgroup","Yes","?","Yes","Yes","Yes","Yes","Yes"
+"tbody","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"thead","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"tfoot","Yes","Yes","Yes","Yes","Yes","Yes",""

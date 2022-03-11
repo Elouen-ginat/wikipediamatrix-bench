@@ -1,0 +1,84 @@
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Fab , URL: /wiki/Semiconductor_device_fabrication
+nm , URL: /wiki/Nanometer
+","Transistors (million)","Die size (mm²)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory"
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Fab , URL: /wiki/Semiconductor_device_fabrication
+nm , URL: /wiki/Nanometer
+","Transistors (million)","Die size (mm²)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","MOperations/s","MPixels/s","MTexels/s","MVertices/s","MB , URL: /wiki/Megabyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+"
+"GeForce FX 5100","March 2003","NV34","TSMC , URL: /wiki/TSMC
+","45[16]","124","AGP 8x","200","166","4:2:4:4","800","800","800","50","64 128","2.7","DDR","64"
+"GeForce FX 5200 LE","March 2003","NV34","TSMC , URL: /wiki/TSMC
+","45[16]","124","AGP 8x","250","166","4:2:4:4","1000","1000","1000","62.5","64 128 256","2.7 5.3","DDR","64 128"
+"GeForce FX 5200","March 2003","NV34","TSMC , URL: /wiki/TSMC
+","45[16]","124","","250","","4:2:4:4","1000","1000","1000","62.5","64 128 256","","DDR",""
+"GeForce FX 5200 Ultra","March 6, 2003","NV34","TSMC , URL: /wiki/TSMC
+","45[16]","124","AGP 8x","325","325","4:2:4:4","1300","1300","1300","81.25","64 128 256","10.4","DDR","128"
+"GeForce PCX 5300","March 17, 2004","NV34","TSMC , URL: /wiki/TSMC
+","45[16]","124","PCIe x16","250","166","4:2:4:4","1000","1000","1000","62.5","128 256","2.7","DDR","64"
+"GeForce FX 5500","March 2004","NV34B","TSMC 140 nm","45[17]","91","AGP 8x AGP 4x PCI","270","200","4:2:4:4","1080","1080","1080","67.5","64 128 256","3.2 6.4","DDR","64 128"
+"GeForce FX 5600 XT","October 2003","NV31","130 nm , URL: /wiki/130_nm
+","80[18]","121","AGP 8x","235","200","4:2:4:4","940","940","940","58.75","64 128","3.2 6.4","DDR","64 128"
+"GeForce FX 5600","March 2003","NV31","130 nm , URL: /wiki/130_nm
+","80[18]","121","AGP 8x PCI","325","275","4:2:4:4","1300","1300","1300","81.25","64 128 256[19]","8.8","DDR","128"
+"GeForce FX 5600 Ultra","March 6, 2003","NV31","130 nm , URL: /wiki/130_nm
+","80[18]","121","AGP 8x","350","350","4:2:4:4","1400","1400","1400","87.5","64 128","11.2","DDR","128"
+"GeForce FX 5600 Ultra Rev.2","March 6, 2003","NV31","130 nm , URL: /wiki/130_nm
+","80[18]","121","AGP 8x","400","400","4:2:4:4","1600","1600","1600","100","64 128","12.8","DDR","128"
+"GeForce FX 5700 VE","September 2004","NV36","IBM , URL: /wiki/IBM
+","82[20]","133","AGP 8x","235","200","4:3:4:4","940","940","940","106.5","128 256","3.2 6.4","DDR","64 128"
+"GeForce FX 5700 LE","March 2004","NV36","IBM , URL: /wiki/IBM
+","82[20]","133","AGP 8x PCI","250","200","4:3:4:4","1000","1000","1000","187.5","128 256","3.2 6.4","DDR","64 128"
+"GeForce FX 5700","2003","NV36","IBM , URL: /wiki/IBM
+","82[20]","133","AGP 8x","425","250","4:3:4:4","1700","1700","1700","318.75","128 256","8","DDR","128"
+"GeForce PCX 5750","March 17, 2004","NV36","IBM , URL: /wiki/IBM
+","82[20]","133","","425","250","4:3:4:4","1700","1700","1700","318.75","","8","DDR","128"
+"GeForce FX 5700 Ultra","October 23, 2003","NV36","IBM , URL: /wiki/IBM
+","82[20]","133","AGP 8x","475","450","4:3:4:4","1900","1900","1900","356.25","128 256","14.4","GDDR2","128"
+"GeForce FX 5700 Ultra GDDR3","March 15, 2004","NV36","IBM , URL: /wiki/IBM
+","82[20]","133","AGP 8x","475","","4:3:4:4","1900","1900","1900","356.25","128 256","","","128"
+"GeForce FX 5800","January 27, 2003","NV30","TSMC 130 nm","125[21]","199","AGP 8x","400","400","4:2:8:4","1600","1600","3200","200","128","12.8","GDDR2","128"
+"GeForce FX 5800 Ultra","January 27, 2003","NV30","TSMC 130 nm","125[21]","199","AGP 8x","500","500","4:2:8:4","2000","2000","4000","200","128","16","GDDR2","128"
+"GeForce FX 5900 ZT","December 15, 2003","NV35","TSMC 130 nm","135[22]","207","AGP 8x","325","350","4:3:8:4","1300","1300","2600","343.75","128","22.4","DDR","256"
+"GeForce FX 5900 XT","December 15, 2003[23]","NV35","TSMC 130 nm","135[22]","207","AGP 8x","390","350","4:3:8:4","1600","1600","3200","300","128","22.4","DDR","256"
+"GeForce FX 5900","May 2003","NV35","TSMC 130 nm","135[22]","207","AGP 8x","","","4:3:8:4","1600","1600","3200","300","128","","DDR","256"
+"GeForce FX 5900 Ultra","May 12, 2003","NV35","TSMC 130 nm","135[22]","207","AGP 8x","450","1800","4:3:8:4","1800","3600","337.5","128 256","","","DDR","256"
+"GeForce PCX 5900","March 17, 2004","NV35","TSMC 130 nm","135[22]","207","","450","1800","4:3:8:4","1800","3600","337.5","128 256","","","DDR","256"
+"GeForce FX 5950 Ultra","October 23, 2003","NV38","TSMC 130 nm","135[24]","207","AGP 8x","475","475","4:3:8:4","1900","1900","3800","356.25","256","30.4","DDR","256"
+"GeForce PCX 5950","February 17, 2004","NV38","TSMC 130 nm","135[24]","207","","475","475","4:3:8:4","1900","1900","3800","356.25","256","30.4","","256"
+"Model","Launch","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Transistors (million)","Die size (mm²)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory"
+"Model","Launch","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Transistors (million)","Die size (mm²)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","MOperations/s","MPixels/s","MTexels/s","MVertices/s","MB , URL: /wiki/Megabyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+"

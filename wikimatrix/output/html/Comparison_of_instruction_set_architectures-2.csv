@@ -1,0 +1,56 @@
+"v t e Processor technologies","v t e Processor technologies","v t e Processor technologies"
+"Models , URL: /wiki/Model_of_computation
+","Abstract machine Stored-program computer Finite-state machine with datapath Hierarchical Deterministic finite automaton Queue automaton Cellular automaton Quantum cellular automaton Turing machine Alternating Turing machine Universal Post–Turing Quantum Nondeterministic Turing machine Probabilistic Turing machine Hypercomputation Zeno machine Belt machine Stack machine Register machines Counter Pointer Random-access Random-access stored program","Abstract machine Stored-program computer Finite-state machine with datapath Hierarchical Deterministic finite automaton Queue automaton Cellular automaton Quantum cellular automaton Turing machine Alternating Turing machine Universal Post–Turing Quantum Nondeterministic Turing machine Probabilistic Turing machine Hypercomputation Zeno machine Belt machine Stack machine Register machines Counter Pointer Random-access Random-access stored program"
+"Architecture , URL: /wiki/Computer_architecture
+","Microarchitecture Von Neumann Harvard modified Dataflow Transport-triggered Cellular Endianness Memory access NUMA HUMA Load–store Register/memory Cache hierarchy Memory hierarchy Virtual memory Secondary storage Heterogeneous Fabric Multiprocessing Cognitive Neuromorphic","Microarchitecture Von Neumann Harvard modified Dataflow Transport-triggered Cellular Endianness Memory access NUMA HUMA Load–store Register/memory Cache hierarchy Memory hierarchy Virtual memory Secondary storage Heterogeneous Fabric Multiprocessing Cognitive Neuromorphic"
+"Instruction set architectures , URL: /wiki/Instruction_set_architecture
+","Types","Orthogonal instruction set CISC RISC Application-specific EDGE TRIPS VLIW EPIC MISC OISC NISC ZISC VISC architecture Quantum computing Comparison Addressing modes"
+"Instruction set architectures , URL: /wiki/Instruction_set_architecture
+","Instruction sets","Motorola 68000 series VAX PDP-11 x86 ARM Stanford MIPS MIPS MIPS-X Power POWER PowerPC Power ISA Clipper architecture SPARC SuperH DEC Alpha ETRAX CRIS M32R Unicore Itanium OpenRISC RISC-V MicroBlaze LMC System/3x0 S/360 S/370 S/390 z/Architecture Tilera ISA VISC architecture Epiphany architecture Others"
+"Execution , URL: /wiki/Instruction_cycle
+","Instruction pipelining , URL: /wiki/Instruction_pipelining
+","Pipeline stall Operand forwarding Classic RISC pipeline"
+"Execution , URL: /wiki/Instruction_cycle
+","Hazards , URL: /wiki/Hazard_(computer_architecture)
+","Data dependency Structural Control False sharing"
+"Execution , URL: /wiki/Instruction_cycle
+","Out-of-order , URL: /wiki/Out-of-order_execution
+","Scoreboarding Tomasulo algorithm Reservation station Re-order buffer Register renaming Wide-issue"
+"Execution , URL: /wiki/Instruction_cycle
+","Speculative , URL: /wiki/Speculative_execution
+","Branch prediction Memory dependence prediction"
+"Parallelism , URL: /wiki/Parallel_computing
+","Level","Bit Bit-serial Word Instruction Pipelining Scalar Superscalar Task Thread Process Data Vector Memory Distributed"
+"Parallelism , URL: /wiki/Parallel_computing
+","Multithreading , URL: /wiki/Multithreading_(computer_architecture)
+","Temporal Simultaneous Hyperthreading Speculative Preemptive Cooperative"
+"Parallelism , URL: /wiki/Parallel_computing
+","Flynn's taxonomy , URL: /wiki/Flynn%27s_taxonomy
+","SISD SIMD Array processing (SIMT) Pipelined processing Associative processing SWAR MISD MIMD SPMD"
+"Processor performance , URL: /wiki/Computer_performance
+","Transistor count Instructions per cycle (IPC) Cycles per instruction (CPI) Instructions per second (IPS) Floating-point operations per second (FLOPS) Transactions per second (TPS) Synaptic updates per second (SUPS) Performance per watt (PPW) Cache performance metrics Computer performance by orders of magnitude","Transistor count Instructions per cycle (IPC) Cycles per instruction (CPI) Instructions per second (IPS) Floating-point operations per second (FLOPS) Transactions per second (TPS) Synaptic updates per second (SUPS) Performance per watt (PPW) Cache performance metrics Computer performance by orders of magnitude"
+"Types , URL: /wiki/Processor_(computing)
+","By application","Embedded system Microprocessor Microcontroller Mobile Notebook Ultra-low-voltage ASIP Soft microprocessor"
+"Types , URL: /wiki/Processor_(computing)
+","Systems on chip","System on a chip (SoC) Multiprocessor (MPSoC) Programmable (PSoC) Network on a chip (NoC)"
+"Types , URL: /wiki/Processor_(computing)
+","Hardware accelerators , URL: /wiki/Hardware_acceleration
+","Coprocessor AI accelerator Graphics processing unit (GPU) Image processor Vision processing unit (VPU) Physics processing unit (PPU) Digital signal processor (DSP) Tensor Processing Unit (TPU) Secure cryptoprocessor Network processor Baseband processor"
+"Word size , URL: /wiki/Word_(computer_architecture)
+","1-bit 4-bit 8-bit 12-bit 15-bit 16-bit 24-bit 32-bit 48-bit 64-bit 128-bit 256-bit 512-bit bit slicing others variable","1-bit 4-bit 8-bit 12-bit 15-bit 16-bit 24-bit 32-bit 48-bit 64-bit 128-bit 256-bit 512-bit bit slicing others variable"
+"Core count","Single-core Multi-core Manycore Heterogeneous architecture","Single-core Multi-core Manycore Heterogeneous architecture"
+"Components","Functional units , URL: /wiki/Execution_unit
+","Arithmetic logic unit (ALU) Address generation unit (AGU) Floating-point unit (FPU) Memory management unit (MMU) Load–store unit Translation lookaside buffer (TLB) Branch predictor Branch target predictor Integrated memory controller (IMC) Memory management unit Instruction decoder"
+"Components","Logic , URL: /wiki/Logic_gate
+","Combinational Sequential Glue Logic gate Quantum Array"
+"Components","Registers , URL: /wiki/Hardware_register
+","Processor register Status register Stack register Register file Memory buffer Memory address register Program counter"
+"Components","Control unit , URL: /wiki/Control_unit
+","Hardwired control unit Instruction unit Data buffer Write buffer Microcode ROM Horizontal microcode Counter"
+"Components","Datapath , URL: /wiki/Datapath
+","Multiplexer Demultiplexer Adder Multiplier CPU Binary decoder Address decoder Sum-addressed decoder Barrel shifter"
+"Components","Circuitry , URL: /wiki/Electronic_circuit
+","Integrated circuit 3D Mixed-signal Power management Boolean Digital Analog Quantum Switch"
+"Power management , URL: /wiki/Power_management
+","PMU APM ACPI Dynamic frequency scaling Dynamic voltage scaling Clock gating Performance per watt (PPW)","PMU APM ACPI Dynamic frequency scaling Dynamic voltage scaling Clock gating Performance per watt (PPW)"
+"Related","History of general-purpose CPUs Microprocessor chronology Processor design Digital electronics Hardware security module Semiconductor device fabrication Tick–tock model Pin grid array Chip carrier","History of general-purpose CPUs Microprocessor chronology Processor design Digital electronics Hardware security module Semiconductor device fabrication Tick–tock model Pin grid array Chip carrier"

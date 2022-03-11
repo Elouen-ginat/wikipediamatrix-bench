@@ -1,0 +1,27 @@
+"Model","Code name , URL: /wiki/Code_name
+","Fab (nm)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Boost clock (MHz)","Memory clock (MHz)","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","TDP , URL: /wiki/Thermal_design_power
+","Notes"
+"Model","Code name , URL: /wiki/Code_name
+","Fab (nm)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Boost clock (MHz)","Memory clock (MHz)","Core config1","Pixel (GP/s)","Texture (GT/s)","Size (GB)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Double precision , URL: /wiki/Double_precision_floating-point_format
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","Vulkan , URL: /wiki/Vulkan_(API)
+","OpenCL , URL: /wiki/OpenCL
+","CUDA , URL: /wiki/CUDA
+","TDP , URL: /wiki/Thermal_design_power
+","Notes"
+"Quadro GV100[269]","GV100-875-A1","12","PCIe 3.0 x16","1132","1627","848 (1696)","5120:320:128:80:640","208.4","521","32","870","HBM2","4096","14800","7400","12.1","4.6","1.2","3.0","7","250","4x DisplayPort, NVLINK support"

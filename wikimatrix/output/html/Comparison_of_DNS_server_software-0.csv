@@ -1,0 +1,57 @@
+"Server","Authoritative , URL: /wiki/Name_server#Authoritative_name_server
+","Recursive , URL: /wiki/Name_server#Recursive_query
+","ACL , URL: /wiki/Access_control_list
+","Secondary mode","Caching , URL: /wiki/Name_server#Caching_name_server
+","DNSSEC , URL: /wiki/Domain_Name_System_Security_Extensions
+","TSIG , URL: /wiki/TSIG
+","IPv6 , URL: /wiki/IPv6
+","Wildcard , URL: /wiki/Wildcard_DNS_record
+","Free Software","Interface","split horizon , URL: /wiki/Split-horizon_DNS
+","DNS over HTTPS , URL: /wiki/DNS_over_HTTPS
+"
+"BIG-IP DNS , URL: /wiki/F5_Networks
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","API, command line","Yes",""
+"BIND , URL: /wiki/BIND
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes (since 9.x)","Yes (since 4.x)","Yes","Web[Note 1], command line","Yes","Yes"
+"PowerDNS , URL: /wiki/PowerDNS
+","Yes","Yes","Yes","Yes[Note 2]","Yes","Yes (since 3.0) [Note 3]","Yes (since 3.0)","Yes[Note 2]","Yes","Yes","REST, Web[Note 4], command line","Partial[Note 5]","Yes"
+"djbdns , URL: /wiki/Djbdns
+","Yes","Yes","Yes","Yes[Note 6]","Yes","Partial[Note 7]","No","[5] , URL: http://www.fefe.de/dns/
+","Partial[Note 8]","Yes","VegaDNS , URL: http://vegadns.org/
+NicTool , URL: http://www.nictool.com/
+","Yes[Note 9]",""
+"dbndns , URL: /wiki/Dbndns
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Partial","Yes","command line and web","Yes",""
+"pdnsd , URL: /wiki/Pdnsd
+","Partial","Yes","Partial","Partial","Yes","No [16]","Partial","Yes","Yes","Yes","command line, pdnsd-ctl program","Partial",""
+"MaraDNS , URL: /wiki/MaraDNS
+","Yes","Yes","Yes","Partial[Note 10]","Yes","No","No","Partial","Yes","Yes","command line","No",""
+"Posadis , URL: /wiki/Posadis
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","command line, API","No",""
+"Unbound , URL: /wiki/Unbound_(DNS_Server)
+","Partial","Yes","Yes","N/A","Yes","Yes","No","Yes","Yes","Yes","command line, API","Yes","Yes"
+"Dnsmasq , URL: /wiki/Dnsmasq
+","Partial[Note 11]","No","No","No","Yes","Yes (since 2.69) [Note 12]","No","Yes","Yes","Yes","command line","Partial[Note 13]",""
+"NSD , URL: /wiki/NSD
+","Yes","No","N/A","Yes","N/A","Yes","Yes","Yes","Yes","Yes","command line","No",""
+"Knot DNS , URL: /wiki/Knot_DNS
+","Yes","No","N/A","Yes","N/A","Yes","Yes","Yes","Yes","Yes","command line","Yes[Note 14]",""
+"YADIFA , URL: /wiki/YADIFA
+","Yes","No","N/A","Yes","N/A","Yes","Yes","Yes","Yes","Yes","command line","No",""
+"Microsoft DNS , URL: /wiki/Microsoft_DNS
+","Yes","Yes","Yes[Note 15]","Yes","Yes","Yes[Note 16]","Yes[Note 17]","Yes[Note 18]","Yes","No","WMI , URL: /wiki/Windows_Management_Instrumentation
+RPC , URL: /wiki/MSRPC
+","Yes[Note 15]",""
+"Simple DNS Plus , URL: /wiki/Simple_DNS_Plus
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","GUI, Web, command line","Yes[Note 22]","Yes"
+"Secure64 DNS Authority , URL: /wiki/Secure64_DNS
+","Yes","No","No","Yes","No","Yes","Yes","Yes","Yes","No","Command Line or Web GUI","Yes",""
+"Secure64 DNS Cache , URL: /wiki/Secure64_DNS
+","No","Yes","Yes","No","Yes","Yes","No","Yes","Yes","No","Command Line or Web GUI","Yes",""
+"Server","Authoritative","Recursive","ACL , URL: /wiki/Access_control_list
+","Secondary mode","Caching","DNSSEC , URL: /wiki/Domain_Name_System_Security_Extensions
+","TSIG , URL: /wiki/TSIG
+","IPv6 , URL: /wiki/IPv6
+","Wildcard","Free Software","Interface","split horizon , URL: /wiki/Split-horizon_DNS
+","DNS over HTTPS , URL: /wiki/DNS_over_HTTPS
+"

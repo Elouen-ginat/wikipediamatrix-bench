@@ -1,0 +1,45 @@
+"","included chess engine(s)","Can open/save PGN","Can import UCI[4] engines","Levels","3D or Animated pieces","Variants","Multiplayer"
+"Aquarium","Crafty , URL: /wiki/Crafty
+Rybka , URL: /wiki/Rybka
+","Yes","Yes","multivariation,[5] uci_elo[6]","No","Chess960","No"
+"Battle Chess","n/a","No","No","","Yes","No",""
+"Battle Chess: Game of Kings","n/a","No","No","","Yes","No",""
+"Battle vs. Chess","Fritz , URL: /wiki/Fritz_(chess)
+","No","No","levels 1-9","Yes","",""
+"Chessaria: The Tactical Adventure","Chessaria AICE","No","No","","Yes","Yes","Yes"
+"Chess Assistant","Rybka , URL: /wiki/Rybka
+","Yes","Yes","multivariation, uci_elo[7]","No","Chess960","No"
+"Chessbase","Fritz , URL: /wiki/Fritz_(chess)
+","Yes","Yes","uci_elo[8] for analysis but no timed games","Yes","Chess960","No"
+"Chessmaster","The King","Yes","No","Elo , URL: /wiki/Elo_rating_system
+","Yes","No","no longer supported"
+"Chess Titans","n/a","No","No","Yes","No","No",""
+"ChessV","","","","","","",""
+"Fritz","Rybka , URL: /wiki/Rybka
+Fritz , URL: /wiki/Fritz_(chess)
+","Yes","Yes","Friend Mode,[9] Handicap and Fun,[10] uci_elo[11]","Yes","Chess960",""
+"Fritz and Chesster","Koenig Schwarz","","","","","",""
+"GNOME Chess","","","","","","",""
+"GNU Chess","GNU chess , URL: /wiki/GNU_chess
+","Yes","No","","No","Knightmate, Capablanca, Gothic, Shatranj, Courier, Cylinder, Berolina","No"
+"Hiarcs Chess Explorer","Hiarcs , URL: /wiki/Hiarcs
+","Yes","Yes","uci_elo[12]","No","No","No"
+"Chessbase Houdini","Houdini , URL: /wiki/Houdini_(chess)
+","Yes","Yes","Friend Mode,[13] Handicap and Fun,[14] uci_elo[15]","Yes","Chess960","Yes"
+"Chessbase Junior","Junior , URL: /wiki/Junior_(chess)
+","Yes","Yes","Friend Mode, Handicap and Fun, uci_elo[16]","Yes","Chess960","Yes"
+"Chessbase Komodo","Komodo , URL: /wiki/Komodo_(chess)
+","Yes","Yes","Friend Mode,[17] Handicap and Fun,[18] uci_elo[19]","Yes","Chess960","Yes"
+"Playchess","none","Yes","No","Elo , URL: /wiki/Elo_rating_system
+","No","Chess960","Yes"
+"Play Magnus","Glaurung","Yes","No","can choose Magnus' age","No","No","No"
+"Pure Chess","n/a","No","No","","Yes","",""
+"pyChess","Stockfish , URL: /wiki/Stockfish
+","Yes","Yes","","","","Yes"
+"Chessbase Rybka","Rybka , URL: /wiki/Rybka
+","Yes","Yes","Friend Mode, Handicap and Fun, uci_elo[20]","Yes","Chess960","Yes"
+"Shredder UCI GUI","Shredder , URL: /wiki/Shredder_(chess)
+","Yes","Yes","uci_elo[21]","No","Chess960","No"
+"Wii Chess","Loop Express","No","No","","","",""
+"Winboard/xBoard","Crafty , URL: /wiki/Crafty
+","Yes","via UCI2WB","No","No","Knightmate, Capablanca, Gothic, Shatranj, Courier, Cylinder, Berolina","Yes"

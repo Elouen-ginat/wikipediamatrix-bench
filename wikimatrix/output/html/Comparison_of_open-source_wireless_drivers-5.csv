@@ -1,0 +1,132 @@
+"Driver","802.11 , URL: /wiki/802.11
+","Bus interface","WEP , URL: /wiki/Wired_Equivalent_Privacy
+","WPA , URL: /wiki/Wi-Fi_Protected_Access
+","WPA2 , URL: /wiki/Wi-Fi_Protected_Access
+","Monitor mode , URL: /wiki/Monitor_mode
+","Master mode","Ad-Hoc mode"
+"acx , URL: http://dev.kewl.org/acx100+111/
+","802.11a , URL: /wiki/802.11a
+802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+","Cardbus , URL: /wiki/Cardbus
+PCI , URL: /wiki/Peripheral_Component_Interconnect
+","Yes","?","?","?","?","Yes"
+"an , URL: http://www.freebsd.org/cgi/man.cgi?query=an
+","802.11b , URL: /wiki/802.11b
+","Cardbus , URL: /wiki/Cardbus
+PCI , URL: /wiki/Peripheral_Component_Interconnect
+ISA , URL: /wiki/Industry_Standard_Architecture
+","Yes","?","?","?","?","Yes"
+"arl , URL: http://www.freebsd.org/cgi/man.cgi?query=arl&manpath=FreeBSD+7.2-RELEASE
+","N/A","ISA , URL: /wiki/Industry_Standard_Architecture
+","?","?","?","?","?","?"
+"ath , URL: http://www.freebsd.org/cgi/man.cgi?query=ath
+","802.11a , URL: /wiki/802.11a
+802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+802.11n , URL: /wiki/802.11n
+","Cardbus , URL: /wiki/Cardbus
+PCI , URL: /wiki/Peripheral_Component_Interconnect
+Mini PCI , URL: /wiki/Mini_PCI
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"awi , URL: http://www.freebsd.org/cgi/man.cgi?query=awi&manpath=FreeBSD+7.2-RELEASE
+","N/A","PC Card , URL: /wiki/PC_Card
+","?","?","?","?","Yes","Yes"
+"bwi , URL: http://www.freebsd.org/cgi/man.cgi?query=bwi
+","802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+","Cardbus , URL: /wiki/Cardbus
+PCI , URL: /wiki/Peripheral_Component_Interconnect
+","Yes","Yes","Yes","Yes","No","No"
+"cnw , URL: http://www.freebsd.org/cgi/man.cgi?query=cnw&manpath=FreeBSD+7.2-RELEASE
+","N/A","Cardbus , URL: /wiki/Cardbus
+","?","?","?","?","?","?"
+"ipw , URL: http://www.freebsd.org/cgi/man.cgi?query=ipw
+","802.11b , URL: /wiki/802.11b
+","Mini PCI , URL: /wiki/Mini_PCI
+","Yes","Yes","Yes","Yes","No","Yes"
+"iwi , URL: http://www.freebsd.org/cgi/man.cgi?query=iwi
+","802.11a , URL: /wiki/802.11a
+802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+","Mini PCI , URL: /wiki/Mini_PCI
+","Yes","Yes","Yes","Yes","No","Yes"
+"iwn , URL: http://www.freebsd.org/cgi/man.cgi?query=iwn
+","802.11a , URL: /wiki/802.11a
+802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+802.11n , URL: /wiki/802.11n
+","Mini PCI , URL: /wiki/Mini_PCI
+","Yes","Yes","Yes","Yes","No","No"
+"malo , URL: http://www.freebsd.org/cgi/man.cgi?query=malo
+","802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+","PCI , URL: /wiki/Peripheral_Component_Interconnect
+","Yes","Yes","Yes","Yes","No","No"
+"mwl , URL: http://www.freebsd.org/cgi/man.cgi?query=mwl
+","802.11a , URL: /wiki/802.11a
+802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+802.11n , URL: /wiki/802.11n
+","PCI , URL: /wiki/Peripheral_Component_Interconnect
+","Yes","Yes","Yes","Yes","Yes","No"
+"ral , URL: http://www.freebsd.org/cgi/man.cgi?query=ral
+","802.11a , URL: /wiki/802.11a
+802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+","Cardbus , URL: /wiki/Cardbus
+PCI , URL: /wiki/Peripheral_Component_Interconnect
+Mini PCI , URL: /wiki/Mini_PCI
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"ray , URL: http://www.freebsd.org/cgi/man.cgi?query=ray&manpath=FreeBSD+7.2-RELEASE
+","N/A","PC Card , URL: /wiki/PC_Card
+","?","?","?","No","No","Yes"
+"rum , URL: http://www.freebsd.org/cgi/man.cgi?query=rum
+","802.11a , URL: /wiki/802.11a
+802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+","USB , URL: /wiki/USB
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"run , URL: http://svn.freebsd.org/viewvc/base/stable/8/sys/dev/usb/wlan/if_run.c?view=log
+","802.11a , URL: /wiki/802.11a
+802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+","USB , URL: /wiki/USB
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"uath , URL: http://www.freebsd.org/cgi/man.cgi?query=uath
+","802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+","USB , URL: /wiki/USB
+","Yes","Yes","Yes","Yes","No","No"
+"upgt , URL: http://www.freebsd.org/cgi/man.cgi?query=upgt
+","802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+","USB , URL: /wiki/USB
+","Yes","Yes","Yes","Yes","No","No"
+"ural , URL: http://www.freebsd.org/cgi/man.cgi?query=ural
+","802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+","USB , URL: /wiki/USB
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"urtw , URL: http://www.freebsd.org/cgi/man.cgi?query=urtw
+","802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+","USB , URL: /wiki/USB
+","Yes","Yes","Yes","Yes","No","No"
+"wi , URL: http://www.freebsd.org/cgi/man.cgi?query=wi
+","802.11b , URL: /wiki/802.11b
+","PC Card , URL: /wiki/PC_Card
+Cardbus , URL: /wiki/Cardbus
+PCI , URL: /wiki/Peripheral_Component_Interconnect
+","Yes","Yes (since 8.0)","Yes (since 8.0)","Yes (since 8.0?)","Yes","Yes"
+"wpi , URL: http://www.freebsd.org/cgi/man.cgi?query=wpi
+","802.11a , URL: /wiki/802.11a
+802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+","Mini PCI , URL: /wiki/Mini_PCI
+","Yes","Yes","Yes","Yes","No","Yes"
+"zyd , URL: http://www.freebsd.org/cgi/man.cgi?query=zyd
+","802.11b , URL: /wiki/802.11b
+802.11g , URL: /wiki/802.11g
+","USB , URL: /wiki/USB
+","Yes","Yes","Yes","Yes","No","No"

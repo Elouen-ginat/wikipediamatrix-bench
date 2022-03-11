@@ -1,0 +1,112 @@
+"Distribution","Working State","Aim","Creator","Producer","Base Distribution","Installed Size (MB)","Initial Release Date","Interface","Linux Kernel","Default File System","Architecture Support","Approximate Number of Pre-compiled Packages","Default Package Management Tools","Default Installer"
+"Aurora","2009 Last Release, development stopped","Asus Eee PC , URL: /wiki/Asus_Eee_PC
+","Eeebuntu community","","Ubuntu , URL: /wiki/Ubuntu_(operating_system)
+","","2009-05-15","Gnome , URL: /wiki/GNOME
+Gnome , URL: /wiki/GNOME
+","Array kernel (modified kernel)[2]","","","","APT , URL: /wiki/Advanced_Packaging_Tool
+",""
+"CrunchBang Linux 11-20130119","2015-02-06 Development Stopped","Limited hardware machines","Philip Newborough","","Debian , URL: /wiki/Debian
+","","2013-01-19","Openbox , URL: /wiki/Openbox
+","3.2.35","","x86 + x86_64","","APT , URL: /wiki/Advanced_Packaging_Tool
+",""
+"Debian Eee PC","","Asus Eee PC","","","Debian","","","","","","","","",""
+"Debian Wheezy","","","","","Written from scratch","","","","","","i386, AMD64, PowerPC, SPARC, ARM, MIPS, S390, armhf, s390x. Loongson[3]","","",""
+"EasyPeasy 1.6","2012 Last Release, development stopped","All netbooks","EasyPeasy Community","Jon Ramvi , URL: /wiki/Jon_Ramvi
+","Ubuntu , URL: /wiki/Ubuntu_(operating_system)
+","","2010-04-24","Gnome , URL: /wiki/GNOME
+","2.6.32","ext4","x86","","APT , URL: /wiki/Advanced_Packaging_Tool
+","Ubiquity , URL: /wiki/Ubiquity_(software)
+"
+"Eeedora[4]","","Asus Eee PC , URL: /wiki/Asus_Eee_PC
+","Martin Andrews","","Fedora , URL: /wiki/Fedora_(operating_system)
+","","","Xfce , URL: /wiki/Xfce
+","","","","","RPM , URL: /wiki/RPM_Package_Manager
+",""
+"Firefly Linux 1.0 Beta 1","2009 Last Release, development stopped","","Firefly Linux community","","Arch Linux , URL: /wiki/Arch_Linux
+","","","LXDE , URL: /wiki/LXDE
+","2.6.29.4","","x86","","Pacman , URL: /wiki/Pacman_(package_manager)
+",""
+"Fuduntu , URL: /wiki/Fuduntu
+","2013-04-14 Last Release, development stopped","All netbooks[5]","Andrew Wyatt "Fewt"","Fuduntu.org[5]","Fedora , URL: /wiki/Fedora_(operating_system)
+","","2012-10-01","Gnome , URL: /wiki/GNOME
+","3.6.9","ext4","x86[6] + x86_64[7]","","RPM , URL: /wiki/RPM_Package_Manager
+YUM , URL: /wiki/Yellowdog_Updater,_Modified
+",""
+"gNewSense , URL: /wiki/GNewSense
+","","Free software , URL: /wiki/Free_software
+","Brian Brazil and Paul O'Malley","FSF , URL: /wiki/Free_Software_Foundation
+","Debian","","","","Linux-libre , URL: /wiki/Linux-libre
+","","Loongson , URL: /wiki/Loongson
+x86 , URL: /wiki/X86
+x86-64 , URL: /wiki/X86-64
+","","APT , URL: /wiki/Advanced_Packaging_Tool
+","Ubiquity (software) , URL: /wiki/Ubiquity_(software)
+"
+"Joli OS 1.2 (formerly named Jolicloud)","2013-11-22 Last Release, development stopped","All netbooks[8]","Joli OS , URL: /wiki/Joli_OS
+","Joli OS , URL: /wiki/Joli_OS
+","Ubuntu , URL: /wiki/Ubuntu_(operating_system)
+","","2011-03-09","HTML5 , URL: /wiki/HTML5
+Gnome , URL: /wiki/GNOME
+","2.6.35.10","ext4","x86","","APT , URL: /wiki/Advanced_Packaging_Tool
+",""
+"Kuki Linux 2.0","2009 Last Release, development stopped","Aspire One , URL: /wiki/Aspire_One
+","Kuki Linux community","","Ubuntu , URL: /wiki/Ubuntu_(operating_system)
+","","","Xfce , URL: /wiki/Xfce
+","","","","","",""
+"Linux4One 1.5","","Aspire One , URL: /wiki/Aspire_One
+","Linux4One community","","Ubuntu , URL: /wiki/Ubuntu_(operating_system)
+","","","Gnome , URL: /wiki/GNOME
+LXDE , URL: /wiki/LXDE
+","","","","","",""
+"Leeenux Linux v10","2016 Last Release","All netbooks","Aleksandar Ciric","","Ubuntu 16.04 LTS","","","LXDE, XFCE","","ext4","x86, AMD64","","APT, Synaptic, Software center","Ubiquity"
+"Lubuntu 15.10","2015-10-22 Active Development","Limited hardware machines","Lubuntu Community and LXDE Foundation","","Ubuntu , URL: /wiki/Ubuntu_(operating_system)
+","","2011-10-13","LXDE , URL: /wiki/LXDE
+","","","","","Synaptic , URL: /wiki/Synaptic_package_manager
+",""
+"Manjaro Netbook Edition[9]","2015-07-25 Active Development","All netbooks","Rob McCathie","Manjaro Linux , URL: /wiki/Manjaro_Linux
+","Arch Linux , URL: /wiki/Arch_Linux
+","","","Xfce , URL: /wiki/Xfce
+","Intel Atom , URL: /wiki/Intel_Atom
+","ext4","x86, x86_64","","pacman , URL: /wiki/Pacman_package_manager
+",""
+"Midinux","","All netbooks","Red Flag Linux , URL: /wiki/Red_Flag_Linux
+","","","","2007","","","ext3","x86","","",""
+"MeeGo 1.2","2012 Last Release, development stopped","Intel Atom , URL: /wiki/Intel_Atom
+","Intel , URL: /wiki/Intel
+Nokia , URL: /wiki/Nokia
+Maemo , URL: /wiki/Maemo
+","Intel , URL: /wiki/Intel
+Nokia , URL: /wiki/Nokia
+Linux Foundation , URL: /wiki/Linux_Foundation
+","None (it is a distribution developed out of Maemo and Moblin)","","2010-10-28","Clutter , URL: /wiki/Clutter_(toolkit)
+","2.6.35","btrfs , URL: /wiki/Btrfs
+","SSSE3 , URL: /wiki/SSSE3
+","","RPM , URL: /wiki/RPM_Package_Manager
+",""
+"Moblin 2.1","2009-04 Last Release, development stopped","Intel Atom , URL: /wiki/Intel_Atom
+MID , URL: /wiki/Mobile_internet_device
+","Intel , URL: /wiki/Intel
+","Intel , URL: /wiki/Intel
+Linux Foundation , URL: /wiki/Linux_Foundation
+","None (borrows components for various distributions[10])","","2009-11-04","Clutter , URL: /wiki/Clutter_(software)
+","","","","","RPM , URL: /wiki/RPM_Package_Manager
+",""
+"OpenGeeeU 8.10","2012-08 Last Release, development stopped","","Luca De Marini","","Easy Peasy , URL: /wiki/Easy_Peasy
+","","2009-03-23","Enlightenment , URL: /wiki/Enlightenment_(window_manager)
+Gnome , URL: /wiki/GNOME
+","2.6.27","ext3","x86","26000","APT , URL: /wiki/Advanced_Packaging_Tool
+","Ubiquity , URL: /wiki/Ubiquity_(software)
+"
+"Puppeee Linux 4.3X","Linpus is 64-bit only","Asus Eee PCs , URL: /wiki/Asus_Eee_PC
+","Jemimah Ruhala","","Puppy Linux 4.3.1 , URL: /wiki/Puppy_Linux
+","200MB","","Choice of IceWM / OpenBox / Flwm with ROX-Filer / PcManFM / LxLauncher","2.6.33","AUFS + SquashFS + EXT2","Atom / CeleronM","","Pet","PetGet"
+"Trisquel Mini","2014-11 Last Release, development stopped","Limited hardware machines","","","Trisquel , URL: /wiki/Trisquel
+","","2010-09","","","","","","",""
+"Ubuntu Netbook Edition 10.10","2010-10 Last Release, development stopped","Intel Atom , URL: /wiki/Intel_Atom
+","Canonical Ltd. , URL: /wiki/Canonical_Ltd.
+","Canonical Ltd. , URL: /wiki/Canonical_Ltd.
+","Ubuntu , URL: /wiki/Ubuntu_(operating_system)
+","","2010-10-10","Unity , URL: /wiki/Unity_(desktop_environment)
+","2.6.32","","x86","32000","APT , URL: /wiki/Advanced_Packaging_Tool
+",""
+"Distribution","Working State","Aim","Creator","Producer","Base Distribution","Installed Size (MB)","Initial Release Date","Interface","Linux Kernel","Default File System","Architecture Support","Approximate Number of Pre-compiled Packages","Default Package Management Tools","Default Installer"

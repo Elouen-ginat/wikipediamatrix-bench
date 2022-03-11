@@ -1,0 +1,71 @@
+"Software","BibTeX , URL: /wiki/BibTeX
+","Endnote , URL: /wiki/EndNote
+Refer , URL: /wiki/Refer_(software)
+BibIX , URL: /w/index.php?title=BibIX&action=edit&redlink=1
+","Medline , URL: /wiki/Medline
+","MODS XML , URL: /wiki/Metadata_Object_Description_Schema
+","RIS , URL: /wiki/RIS_(file_format)
+","Other"
+"Bebop","Yes","No","No","No","No","unAPI , URL: /wiki/UnAPI
+"
+"BibBase","Yes","No","No","No","No","none"
+"BibDesk","Yes","No","Yes","Yes","Yes","Endnote XML, user customizable"
+"Biblioscape","?","?","?","?","?","?"
+"BibSonomy","Yes","Yes","No","No","Yes","[2] , URL: http://www.bibsonomy.org/export/
+"
+"Bibus","Yes","Yes","Yes","No","Yes","SQLite , URL: /wiki/SQLite
+"
+"Bookends","Yes","Yes","Yes","No","Yes","various user-customizable"
+"Citavi","Yes","Yes","Yes","Yes","Yes","NVivo and various others"
+"CiteULike","Yes","No","No","No","Yes","COinS , URL: /wiki/COinS
+Delicious , URL: /wiki/Delicious_(website)
+"
+"colwiz","Yes","Yes","No","Yes","Yes","EndNote XML, CSL formatted HTML"
+"EndNote","Yes","Yes","Yes","No","Yes","various[19]"
+"JabRef","Yes","Yes","No","Yes","Yes","DocBook , URL: /wiki/DocBook
+HTML , URL: /wiki/HTML
+OpenDocument , URL: /wiki/OpenDocument
+OO.o , URL: /wiki/OpenOffice.org
+RTF , URL: /wiki/Rich_Text_Format
+"
+"KBibTeX","Yes","Yes","No","Depends[20]","Yes","PDF, PostScript, HTML, XML, RTF"
+"Mendeley","Yes","Yes","No","No","Yes","Endnote , URL: /wiki/Endnote
+"
+"Paperpile","Yes","No","No","No","Yes","none"
+"Pybliographer","Yes","Yes","Yes","No","No","Ovid , URL: /wiki/Ovid_Technologies
+"
+"Qiqqa","Yes","No","No","No","No","none"
+"ReadCube (now Papers)","Yes","Yes","No","No","Yes","none"
+"refbase","Yes","Yes","No","Yes","Yes","COinS , URL: /wiki/COinS
+OpenDocument , URL: /wiki/OpenDocument
+OO.o , URL: /wiki/OpenOffice.org
+SRW , URL: /wiki/Search/Retrieve_Web_Service
+SRU , URL: /wiki/Search/Retrieve_via_URL
+unAPI , URL: /wiki/UnAPI
+Word XML , URL: /wiki/Office_Open_XML
+"
+"RefDB","Yes","Yes","No","Yes","Yes","SRW , URL: /wiki/Search/Retrieve_Web_Service
+SRU , URL: /wiki/Search/Retrieve_via_URL
+DocBook , URL: /wiki/DocBook
+TEI , URL: /wiki/Text_Encoding_Initiative
+"
+"Reference Manager","No","No","No","No","Yes","MEDLARS , URL: /wiki/MEDLARS
+TSV , URL: /wiki/Delimiter-separated_values
+CSV , URL: /wiki/Comma-separated_values
+"
+"Referencer","Yes","No","No","No","No","none"
+"RefME","?","?","?","?","?","?"
+"RefWorks","Yes","Yes","No","Yes","Yes","RIS, BibTeX, Tab delimited or XML metadata"
+"SciRef","No","No","No","No","Yes","Plain text, RTF"
+"Sente","Yes","Yes","No","No","Yes","user-customizable"
+"Wikindx","Yes","Yes","No","No","Yes","COinS , URL: /wiki/COinS
+HTML , URL: /wiki/HTML
+PubMed , URL: /wiki/PubMed
+RTF , URL: /wiki/Rich_Text_Format
+"
+"WizFolio","No","No","No","No","Yes","No"
+"Zotero","Yes","Yes","as of version 4.0[21]","Yes","Yes","COinS , URL: /wiki/COinS
+CSV , URL: /wiki/Comma-separated_values
+RDF , URL: /wiki/Resource_Description_Framework
+TEI , URL: /wiki/Text_Encoding_Initiative
+"

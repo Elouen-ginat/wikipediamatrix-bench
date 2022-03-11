@@ -1,0 +1,37 @@
+"Model","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","TDP , URL: /wiki/Thermal_design_power
+"
+"Model","Code name , URL: /wiki/Code_name
+","nm , URL: /wiki/Nanometer
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","MB , URL: /wiki/Megabyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","TDP , URL: /wiki/Thermal_design_power
+"
+"Quadro FX 370M","G98M","65","PCIe 1.0 x16","550","1400","1200","8:4:4","2.2","2.2","256","9.6","GDDR3","64","33.6","10.0","3.3","20"
+"Quadro FX 570M","G84M","80","PCIe 1.0 x16","475","950","1400","32:16:8","3.8","7.6","512","22.4","GDDR3","128","91.2","10.0","3.3","45"
+"Quadro FX 770M","G96M","65","PCIe 1.0 x16","500","1250","1600","32:16:8","4","8","512","25.6","GDDR3","128","119.0","10.0","3.3","35"
+"Quadro FX 1700M","G96M","65","PCIe 1.0 x16","625","1550","1600","32:16:8","5","10","512","25.6","GDDR3","128","148.8","10.0","3.3","50"
+"Quadro FX 2700M","G94M","65","PCIe 1.0 x16","530","1325","1600","48:24:16","8.48","12.72","512","51.2","GDDR3","256","190.8","10.0","3.3","65"
+"Quadro FX 3700M","G92M","65","PCIe 1.0 x16","530","1375","1600","128:64:16","8.8","35.2","1024","51.2","GDDR3","256","528","10.0","3.3","75"

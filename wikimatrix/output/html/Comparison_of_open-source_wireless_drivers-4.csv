@@ -1,0 +1,106 @@
+"Driver","Chipset","Integration","Non-free firmware required[note 1]","License","Original/Primary developer","Development"
+"acx , URL: http://dev.kewl.org/acx100+111/
+","Texas Instruments , URL: /wiki/Texas_Instruments
+","Separate project","Yes","BSD , URL: /wiki/BSD
+","","Reverse engineering"
+"an , URL: http://www.freebsd.org/cgi/man.cgi?query=an
+","Aironet , URL: /wiki/Cisco_Systems
+Cisco , URL: /wiki/Cisco_Systems
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","Bill Paul (FreeBSD)",""
+"arl , URL: http://www.freebsd.org/cgi/man.cgi?query=arl&manpath=FreeBSD+7.2-RELEASE
+","Aironet Arlan 655","Integrated / Removed in 8.0","On Device","BSD , URL: /wiki/BSD
+","",""
+"ath , URL: http://www.freebsd.org/cgi/man.cgi?query=ath
+","Atheros , URL: /wiki/Atheros
+","Integrated","No","BSD , URL: /wiki/BSD
+","Originally by Atheros via Sam Leffler (FreeBSD); supported by the community","Documentation based"
+"awi , URL: http://www.freebsd.org/cgi/man.cgi?query=awi&manpath=FreeBSD+7.2-RELEASE
+","AMD , URL: /wiki/AMD
+","Integrated / Removed in 8.0","On Device","BSD , URL: /wiki/BSD
+","Bill Sommerfeld (NetBSD) and Atsushi Onoe (NetBSD)",""
+"bwi , URL: http://www.freebsd.org/cgi/man.cgi?query=bwi
+","Broadcom , URL: /wiki/Broadcom
+","Integrated since 8.0","Yes","BSD , URL: /wiki/BSD
+","Sepherosa Ziehau (DragonFly BSD), Andrew Thompson (FreeBSD), Sam Leffler (FreeBSD)","Ported from DragonFly BSD"
+"bwn , URL: http://www.freebsd.org/cgi/man.cgi?query=bwn
+","Broadcom , URL: /wiki/Broadcom
+","Integrated since 8.1","Yes","BSD , URL: /wiki/BSD
+","Weongyo Jeong","?"
+"cnw , URL: http://www.freebsd.org/cgi/man.cgi?query=cnw&manpath=FreeBSD+7.2-RELEASE
+","Netwave AirSurfer","Integrated / Removed in 8.0","On Device","BSD , URL: /wiki/BSD
+","Imported from NetBSD",""
+"ipw , URL: http://www.freebsd.org/cgi/man.cgi?query=ipw
+","Intel , URL: /wiki/Intel
+","Integrated","Yes","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD/ FreeBSD)","Reverse engineering"
+"iwi , URL: http://www.freebsd.org/cgi/man.cgi?query=iwi
+","Intel , URL: /wiki/Intel
+","Integrated","Yes","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD/ FreeBSD)","Reverse engineering"
+"iwm , URL: http://www.freebsd.org/cgi/man.cgi?query=iwm
+","Intel Dual Band Wireless-AC 3160 / 3165 / 7260 / 7265 / 8260","?","?","","?","?"
+"iwn , URL: http://www.freebsd.org/cgi/man.cgi?query=iwn
+","Intel , URL: /wiki/Intel
+","Integrated since 8.0 / Available for 7.1 and above as separate patch","Yes","BSD , URL: /wiki/BSD
+","Damien Bergamini, Benjamin Close, Sam Leffler (OpenBSD/ FreeBSD)","Reverse engineering"
+"malo , URL: http://www.freebsd.org/cgi/man.cgi?query=malo
+","Marvell , URL: /wiki/Marvell_Technology_Group
+","Integrated","Yes","BSD , URL: /wiki/BSD
+","Weongyo Jeong (FreeBSD), Sam Leffler (FreeBSD)",""
+"mwl , URL: http://www.freebsd.org/cgi/man.cgi?query=mwl
+","Marvell , URL: /wiki/Marvell_Technology_Group
+","Integrated since 8.0","Yes[42]","BSD , URL: /wiki/BSD
+","Sam Leffler (FreeBSD)","?"
+"ral , URL: http://www.freebsd.org/cgi/man.cgi?query=ral
+","Ralink Technology RT2500/ RT2501/ RT2600/RT3090/RT3592","Integrated","On Device","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD/ FreeBSD)","Based on partial documentation"
+"ray , URL: http://www.freebsd.org/cgi/man.cgi?query=ray&manpath=FreeBSD+7.2-RELEASE
+","Raytheon Raylink/Webgear Aviator","Integrated / Removed in 8.0","On Device","BSD , URL: /wiki/BSD
+","Imported from NetBSD",""
+"rsu , URL: http://www.freebsd.org/cgi/man.cgi?query=rsu
+","Realtek , URL: /wiki/Realtek
+","Integrated since 10.0","Yes","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD), Imported from OpenBSD by Rui Paulo","?"
+"rum , URL: http://www.freebsd.org/cgi/man.cgi?query=rum
+","Ralink , URL: /wiki/Ralink
+","Integrated","No[43]","BSD , URL: /wiki/BSD
+","Niall O'Higgins and Damien Bergamini","Based on partial documentation"
+"run , URL: http://svn.freebsd.org/viewvc/base/stable/8/sys/dev/usb/wlan/if_run.c?view=log
+","Ralink , URL: /wiki/Ralink
+","Integrated since 8.1","No[43]","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD), Imported from OpenBSD by Akinori Furukoshi","Based on partial documentation"
+"uath , URL: http://www.freebsd.org/cgi/man.cgi?query=uath
+","Atheros , URL: /wiki/Atheros
+","Integrated since 8.0","Yes[44]","BSD , URL: /wiki/BSD
+","Weongyo Jeong (FreeBSD), Sam Leffler (FreeBSD)","?"
+"upgt , URL: http://www.freebsd.org/cgi/man.cgi?query=upgt
+","Conexant , URL: /wiki/Conexant
+","Integrated since 8.0","Yes","BSD , URL: /wiki/BSD
+","Imported from OpenBSD","Reverse engineering"
+"ural , URL: http://www.freebsd.org/cgi/man.cgi?query=ural
+","Ralink Technology RT2500USB","Integrated","On Device","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD/ FreeBSD)","Based on partial documentation"
+"urtw , URL: http://www.freebsd.org/cgi/man.cgi?query=urtw
+","Realtek , URL: /wiki/Realtek
+","Integrated since 8.0","N/A[45]","BSD , URL: /wiki/BSD
+","Weongyo Jeong (FreeBSD)","?"
+"urtwn , URL: http://www.freebsd.org/cgi/man.cgi?query=urtwn
+","Realtek , URL: /wiki/Realtek
+","Integrated since 10.0","Yes","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD/FreeBSD)","Reverse engineering"
+"wi , URL: http://www.freebsd.org/cgi/man.cgi?query=wi
+","Lucent , URL: /wiki/Lucent
+ORiNOCO , URL: /wiki/ORiNOCO
+Intersil , URL: /wiki/Intersil
+PRISM , URL: /wiki/PRISM_(chipset)
+Symbol , URL: /wiki/Symbol_Technologies
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","Bill Paul (FreeBSD)","Documentation based"
+"wpi , URL: http://www.freebsd.org/cgi/man.cgi?query=wpi
+","Intel , URL: /wiki/Intel
+","Integrated","Yes","BSD , URL: /wiki/BSD
+","Damien Bergamini, Benjamin Close","Reverse engineering"
+"zyd , URL: http://www.freebsd.org/cgi/man.cgi?query=zyd
+","ZyDAS ZD1211/ZD1211B","Integrated","No","BSD , URL: /wiki/BSD
+","Florian Stoehr, Damien Bergamini and Jonathan Gray (OpenBSD)","Documentation based"

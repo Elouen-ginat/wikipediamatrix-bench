@@ -1,0 +1,33 @@
+"Object orientation","Java","C#"
+"Classes , URL: /wiki/Class_(computer_science)
+","mandatory","mandatory"
+"Interfaces , URL: /wiki/Interface_(object-oriented_programming)
+","Yes","Yes"
+"Abstract classes , URL: /wiki/Class_(computer_science)#Abstract_and_concrete
+","Yes","Yes"
+"Member accessibility levels","public, package, protected, private","public, internal, protected, private, protected internal"
+"inner classes , URL: /wiki/Class_(computer_science)#Local_and_inner
+","Yes","Yes"
+"Instance-level inner classes","Yes","No"
+"anonymous classes , URL: /wiki/Class_(computer_science)#Unnamed
+","Yes","Yes; but without methods"
+"Partial classes , URL: /wiki/Partial_class
+","No; Third-party library[47]","Yes"
+"Implicit (inferred) anonymous classes","No; Not needed","Yes[48]"
+"Deprecation , URL: /wiki/Deprecation
+","Yes","Yes"
+"Overload versioning","Some","Yes"
+"Enums , URL: /wiki/Enumerated_type
+interfaces , URL: /wiki/Interface_(object-oriented_programming)
+","Yes","No"
+"Properties , URL: /wiki/Property_(programming)
+","JavaBeans , URL: /wiki/JavaBeans
+","Yes"
+"Events , URL: /wiki/Event_(computing)
+","Provided by standard libraries","Built-in language feature"
+"Operator overloading , URL: /wiki/Operator_overloading
+","No","Yes"
+"Indexers","No","Yes"
+"Implicit conversions","autoboxing , URL: https://docs.oracle.com/javase/tutorial/java/data/autoboxing.html
+","Yes"
+"Explicit conversions","Yes","Yes"

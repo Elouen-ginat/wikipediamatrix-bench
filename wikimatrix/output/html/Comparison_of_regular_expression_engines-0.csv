@@ -1,0 +1,121 @@
+"Name","Official website","Programming language , URL: /wiki/Programming_language
+","Software license , URL: /wiki/Software_license
+","Used by"
+"Boost , URL: /wiki/Boost_(C%2B%2B_libraries)
+","Boost C++ Libraries , URL: http://www.boost.org/libs/regex/doc/html/
+","C++ , URL: /wiki/C%2B%2B
+","Boost , URL: /wiki/Boost_Software_License
+","EmEditor , URL: /wiki/EmEditor
+"
+"Boost.Xpressive","Boost C++ Libraries , URL: http://www.boost.org/doc/libs/1_55_0/doc/html/xpressive.html
+","C++","Boost",""
+"DEELX","RegExLab , URL: https://web.archive.org/web/20081201072631/http://www.regexlab.com/en/deelx/
+","C++","Free personal and commercial use",""
+"FREJ[Note 2]","Fuzzy Regular Expressions for Java , URL: http://frej.sf.net
+","Java , URL: /wiki/Java_(programming_language)
+","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+",""
+"GLib , URL: /wiki/GLib
+","GLib reference manual , URL: https://developer.gnome.org/glib/unstable/glib-Perl-compatible-regular-expressions.html
+","C , URL: /wiki/C_(programming_language)
+","LGPL",""
+"GRETA","Microsoft Research , URL: http://research.microsoft.com/en-us/downloads/bd99f343-4ff4-4041-8293-34c054efe749/
+","C++","Microsoft",""
+"Gregex , URL: https://grovf.com/products/gregex
+","Grovf Inc. , URL: https://grovf.com
+","RTL, HLS","Proprietary , URL: /wiki/Proprietary_software
+","FPGA accelerated >100Gbit/s regex engine for cybersecurity, financial, e-commerce industries."
+"RXP , URL: https://titan-ic.com/technology/rxp-explained
+","Titan IC , URL: http://www.titan-ic.com/
+","RTL","Proprietary , URL: /wiki/Proprietary_software
+","hardware-accelerated search acceleration using RegEx available for ASIC, FPGA and cloud. Enables massively parallel content processing at ultra-high speeds."
+"Hyperscan","Intel , URL: https://www.hyperscan.io/
+","x86 , URL: /wiki/X86
+SSSE3 , URL: /wiki/SSSE3
+","3-clause BSD","Rspamd , URL: https://rspamd.com
+"
+"ICU , URL: /wiki/International_Components_for_Unicode
+","International Components for Unicode , URL: http://www.icu-project.org/userguide/regexp.html
+","C, C++[Note 4]","ICU , URL: https://github.com/unicode-org/icu/blob/master/icu4c/LICENSE
+","Foundation , URL: /wiki/Foundation_Kit
+"
+"Jakarta , URL: /wiki/Jakarta_turbine
+","The Apache Jakarta Project , URL: http://attic.apache.org/projects/jakarta-regexp.html
+","Java","Apache , URL: /wiki/Apache_License
+",""
+"java.util.regex","Java's User manual , URL: http://docs.oracle.com/javase/7/docs/api/java/util/regex/package-summary.html
+","Java","GNU GPLv2 with Classpath exception","jEdit , URL: /wiki/JEdit
+"
+"JRegex","JRegex , URL: http://jregex.sourceforge.net/
+","Java","BSD",""
+"MATLAB , URL: /wiki/MATLAB
+","Regular Expressions , URL: https://www.mathworks.com/help/matlab/ref/regexp.html
+","MATLAB Language , URL: https://www.mathworks.com/help/matlab/language-fundamentals.html
+","MATLAB, The Language of Technical Computing",""
+"Oniguruma , URL: /wiki/Oniguruma
+","Kosako , URL: https://github.com/kkos/oniguruma
+","C","BSD","Atom , URL: /wiki/Atom_(text_editor)
+Take Command Console , URL: /wiki/Take_Command_Console
+Tera Term , URL: /wiki/Tera_Term
+TextMate , URL: /wiki/TextMate
+Sublime Text , URL: /wiki/Sublime_Text
+SubEthaEdit , URL: /wiki/SubEthaEdit
+EmEditor , URL: /wiki/EmEditor
+"
+"Pattwo","Stevesoft","Java (compatible with Java 1.0)","LGPL",""
+"PCRE , URL: /wiki/Perl_Compatible_Regular_Expressions
+","pcre.org , URL: http://www.pcre.org/
+","C, C++[Note 5]","BSD","Apache HTTP Server , URL: /wiki/Apache_HTTP_Server
+Nginx , URL: /wiki/Nginx
+BBEdit , URL: /wiki/BBEdit
+Julia , URL: /wiki/Julia_(programming_language)
+HHVM , URL: /wiki/HHVM
+PHP , URL: /wiki/PHP
+Delphi , URL: /wiki/Delphi_(IDE)
+R , URL: /wiki/R_(programming_language)
+Exim , URL: /wiki/Exim
+SWI-Prolog , URL: /wiki/SWI-Prolog
+"
+"Qt , URL: /wiki/Qt_(software)
+","Digia , URL: http://qt-project.org/doc/qt-5.1/qtcore/qregexp.html
+","C++","Qt GNU GPL v. 3.0 , URL: http://qt-project.org/doc/qt-5.1/qtdoc/gpl.html
+","Kate , URL: /wiki/Kate_(text_editor)
+Kile , URL: /wiki/Kile
+"
+"Henry Spencer , URL: /wiki/Henry_Spencer
+","ArgList , URL: https://web.archive.org/web/20110709223056/http://www.arglist.com/regex
+","C","BSD",""
+"RE2 , URL: /wiki/RE2_(software)
+","RE2 , URL: https://github.com/google/re2
+","C++","BSD","Go , URL: /wiki/Go_(programming_language)
+"
+"Henry Spencer , URL: /wiki/Henry_Spencer
+","Tcl , URL: https://web.archive.org/web/20131122023923/http://www2.tcl.tk/461
+","C","BSD",""
+"RGX","RGX , URL: https://web.archive.org/web/20110715032327/https://www.p6r.com/software/rgx.html
+","C++ based component library","P6R , URL: https://www.p6r.com/p6r-software-library-license-1-1.html
+",""
+"SubReg","Matt Bucknall , URL: https://github.com/mattbucknall/subreg
+","C","MIT",""
+"TPerlRegEx","TPerlRegEx VCL Component , URL: http://www.regexbuddy.com/delphi.html
+","Object Pascal , URL: /wiki/Object_Pascal
+","MPLv1.1 , URL: /wiki/Mozilla_Public_License
+",""
+"TRE , URL: /wiki/TRE_(computing)
+","Ville Laurikari , URL: http://laurikari.net/tre/
+","C","BSD","musl , URL: /wiki/Musl
+"
+"TRegExpr","RegExp Studio , URL: https://web.archive.org/web/20090502051956/http://www.regexpstudio.com/TRegExpr/TRegExpr.html
+","Object Pascal","freeware , URL: /wiki/Freeware
+","Total Commander , URL: /wiki/Total_Commander
+"
+"XRegExp","XRegExp , URL: http://xregexp.com/
+","JavaScript","MIT , URL: /wiki/MIT_License
+",""
+"Wolfram Language , URL: /wiki/Wolfram_Language
+Mathematica , URL: /wiki/Mathematica
+","Wolfram Language Documentation Center , URL: http://reference.wolfram.com/language/
+","Wolfram Language , URL: /wiki/Wolfram_Language
+","","Mathematica , URL: /wiki/Mathematica
+Wolfram Development Platform , URL: /w/index.php?title=Wolfram_Development_Platform&action=edit&redlink=1
+"

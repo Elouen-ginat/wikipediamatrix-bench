@@ -1,0 +1,60 @@
+"Audio player","Video playback","Outbound streaming","Skinnable","Media database","Gapless , URL: /wiki/Gapless_playback
+","Visualizer , URL: /wiki/Music_visualization
+","Remote controllable","Intelligent playlists from database (based on criteria)"
+"AIMP , URL: /wiki/AIMP
+","No","via Plugins","Yes","Yes","Yes","Yes","via Plugins","No"
+"Amarok , URL: /wiki/Amarok_(audio)
+","Partial[featurenotes 1]","Yes","Partial[featurenotes 2]","Yes","Yes","Yes","Yes","Yes"
+"Audacious , URL: /wiki/Audacious_(software)
+","No","No","Yes","No","Yes","Yes","Yes","No"
+"Audion , URL: /wiki/Audion_(software)
+","No","No","Yes","No","?","Yes","?","No"
+"cmus , URL: /wiki/Cmus
+","No","No","Yes","Yes","Yes","No","Yes","No"
+"Cog , URL: /wiki/Cog_(software)
+","No","No","No","No","Yes","No","Yes","No"
+"Clementine , URL: /wiki/Clementine_(software)
+","No","No","No","Yes","Yes","Yes","Yes","Yes"
+"Exaile , URL: /wiki/Exaile
+","No","?","No","Yes","Yes","No","Yes[17]","Yes"
+"foobar2000 , URL: /wiki/Foobar2000
+","No","Partial[a]","Yes[featurenotes 3]","Yes","Yes","Yes","Partial[a]","Yes"
+"iTunes , URL: /wiki/ITunes
+","Yes","Yes","Partial[a]","Yes","Yes","Yes","Yes","Yes"
+"JRiver Media Center , URL: /wiki/JRiver_Media_Center
+","Yes","via Plugins","Yes","Yes","Yes","Yes","via Plugins","Yes"
+"JuK , URL: /wiki/JuK
+","No","No","No","Yes","No","No","Yes[featurenotes 4]","?"
+"MediaMonkey , URL: /wiki/MediaMonkey
+","Yes","Partial[a]","Yes","Yes","Yes","Yes","Partial[a]","Yes"
+"MPXPLAY , URL: /wiki/MPXPLAY
+","Yes (with MMC v2.00a)","?","text-interface","Yes","Yes","Yes","Yes (also LCD ability)","?"
+"Music Player Daemon , URL: /wiki/Music_Player_Daemon
+","No","Yes","Client dependent","Yes","Yes","Client dependent","Yes","Client dependent"
+"MusicBee , URL: /wiki/MusicBee
+","No","No","Yes","Yes","Yes","Yes","Yes","Yes"
+"Musicmatch Jukebox , URL: /wiki/Musicmatch_Jukebox
+","No","No","Yes","Yes","?","Yes","Yes","?"
+"musikCube , URL: /wiki/MusikCube
+","No","No","No","Yes","No","Partial[a]","?","Yes"
+"Quod Libet , URL: /wiki/Quod_Libet_(software)
+","No","No","No","Yes","Yes","No","Yes","Yes"
+"Rhapsody , URL: /wiki/Rhapsody_(online_music_service)
+","No","No","No","Yes","?","No","?","?"
+"Rhythmbox , URL: /wiki/Rhythmbox
+","No","No","No","Yes","Yes","Yes","Yes","Yes"
+"Sayonara Player , URL: /wiki/Sayonara_Player
+","No","?","No (Dark Mode available)","Yes","Yes","Yes","No","Yes"
+"Sonique , URL: /wiki/Sonique_(media_player)
+","Partial[a]","No","Yes","No","No","Yes","?","No"
+"Spotify , URL: /wiki/Spotify
+","Yes","?","No","No","Yes","No","Yes (via app)","No"
+"Winamp , URL: /wiki/Winamp
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"XMMS , URL: /wiki/XMMS
+","Partial[a]","Partial[a]","Yes","No","Partial[a]","Yes","Yes","No"
+"XMPlay , URL: /wiki/Xmplay
+","Partial[a]","Partial[a]","Yes","No","Yes","Yes","No","No"
+"Zinf , URL: /wiki/Zinf
+","No","No","Yes","Yes","?","No","?","?"
+"Audio player","Video playback","Outbound streaming","Skinnable","Media database","Gapless audio decoding","Visualizer","Remote controllable","Intelligent playlists from database (based on criteria)"

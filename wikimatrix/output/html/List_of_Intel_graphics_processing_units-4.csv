@@ -1,0 +1,96 @@
+"Name","Launch","Market","Processor , URL: /wiki/List_of_Intel_microprocessors
+","Processor , URL: /wiki/List_of_Intel_microprocessors
+","Device ID , URL: /wiki/Device_ID
+","Execution units","clock , URL: /wiki/Clock_rate
+MHz , URL: /wiki/Hertz
+","Memory , URL: /wiki/Random-access_memory
+","Memory , URL: /wiki/Random-access_memory
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","Intel Clear Video HD , URL: /wiki/Intel_Clear_Video
+"
+"Name","Launch","Market","Code name","Model","Device ID , URL: /wiki/Device_ID
+","Execution units","clock , URL: /wiki/Clock_rate
+MHz , URL: /wiki/Hertz
+","DVMT , URL: /wiki/Dynamic_video_memory_technology
+MB , URL: /wiki/Megabyte
+","Bandwidth , URL: /wiki/Memory_bandwidth
+GB/s , URL: /wiki/Gigabyte_per_second
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","OpenCL , URL: /wiki/OpenCL
+","Intel Clear Video HD , URL: /wiki/Intel_Clear_Video
+"
+"HD Graphics","2010","Desktop","Clarkdale , URL: /wiki/Clarkdale_(microprocessor)
+","Celeron G1101","0042","12","533","1720","17","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No","No"
+"HD Graphics","2010","Desktop","Clarkdale , URL: /wiki/Clarkdale_(microprocessor)
+","","0042","12","533","1720","17","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No","No"
+"HD Graphics","2010","Desktop","Clarkdale , URL: /wiki/Clarkdale_(microprocessor)
+","Core i3-5x0","0042","12","733","1720","21.3","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No","Yes"
+"HD Graphics","2010","Desktop","Clarkdale , URL: /wiki/Clarkdale_(microprocessor)
+","Core i5-6x0","0042","12","733","1720","21.3","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No","Yes"
+"HD Graphics","2010","Desktop","Clarkdale , URL: /wiki/Clarkdale_(microprocessor)
+","Core i5-655K","0042","12","733","1720","21.3","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No","Yes"
+"HD Graphics","2010","Desktop","Clarkdale , URL: /wiki/Clarkdale_(microprocessor)
+","Core i5-661","0042","12","","1720","21.3","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No","Yes"
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Celeron U3xxx","0046","12","166–500","1720","12.8","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No","No"
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Pentium U5xxx","0046","12","166–500","1720","12.8","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No","No"
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i3-3x0UM","0046","12","166–500","1720","12.8","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i5-5x0UM","0046","12","166–500","1720","12.8","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i5-2520M","0046","12","166–500","1720","12.8","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i7-6x0UE","0046","12","166–500","1720","12.8","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i7-6x0UM","0046","12","166–500","1720","12.8","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i7-620LE","0046","12","266–566","1720","17.1","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i7-6x0LM","0046","12","266–566","1720","17.1","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Celeron P4xxx","0046","12","500–667","1720","17.1","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Pentium P6xxx","0046","12","500–667","1720","17.1","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i3-330E","0046","12","500–667","1720","17.1","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i3-3x0M","0046","12","500–667","1720","17.1","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i5-4x0M","0046","12","","1720","17.1","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i5-520E","0046","12","","1720","17.1","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i5-5x0M","0046","12","","1720","17.1","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i7-610E","0046","12","","1720","17.1","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""
+"HD Graphics","2010","Laptop","Arrandale , URL: /wiki/Arrandale
+","Core i7-6x0M","0046","12","","1720","17.1","FL , URL: /wiki/Feature_levels_in_Direct3D
+","2.1 ES 2.0Linux","No",""

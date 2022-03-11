@@ -1,29 +1,66 @@
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
-"Eugenio Tacchini","2021-08-27[±]","11.0 Elba[1]","Proprietary","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","","PHP"
-"Altova","2019-04-02[±]","2019r3[2]","Proprietary","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","","IBM DB2, Sybase, MS Access","C++"
-"Upscene Productions","2021-12-08","6.0.3","Proprietary","Yes","requires Wine","requires Wine","Yes","Yes","Yes","Yes","Yes","","","InterBase, Firebird, SQL Anywhere, NexusDB and MariaDB","Delphi"
-"JetBrains","2017-09-06","2017.2.2","Proprietary","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Sybase, DB2, H2, Hypersonic SQL, Amazon Redshift, Apache Derby","Java"
-"Serge Rider","2021-10-03","21.2.2","Apache License","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","MySQL, PostgreSQL, Oracle, EXASOL, IBM DB2, SQL Server, Apache Derby, Firebird all with JDBC driver","Java"
-"Jef Van Den Ouweland","2012-05-10","2.4.6","GPL","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","IBM DB2, HSQLDB, Apache Derby, H2","Java"
-"DbVis Software AB","2021-11-11","12.1.5","Free Reducted Function Version / Prorietary Pro Version","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Amazon Redshift, Azure SQL Database, Db2, Derby, Exasol, Greenplum, H2, IBM Db2 on Cloud, Informix, Microsoft SQL Server, MariaDB, Mimer SQL, MySQL, MySQL Cloud, Netteza, nuoDB, Oracle, Oracle Cloud, PostgreSQL, SAP ASE, Snowflake, SQLite, Vertica, Yellowbrick, Actian X (Ingress), CData, CreaDB, DataDirect Autonomous REST Connector, IBM Db2 iSeries, IBM Db2 z/OS, Elasticsearch, Firebird, FrontBase, Hive, HPE NonStop SQL, HSQLDB, IBM IMS, Intersystems IRIS, JDBC Drivers for CSV, XML, dBase, MSAccess, MaxDB, ODBC access, Pervasive, Presto, Progress, Salesforce, Solr, SAP IQ (Sybase IQ), SAP SQL Anywhere, Teradata [1]","Java"
-"Antilogic Software","?","?","Proprietary","Yes","Yes","Yes","Yes","","Yes","Yes","","","","Sybase, InterBase/Firebird, H2, HSQLDB","Java"
-"Ansgar Becker","2021-05-30[±]","11.3[4]","GPL","Yes","requires Wine","requires Wine","","Yes","Yes","Yes","","","Yes","","Embarcadero Delphi"
-"Baron Schwartz","2010-06-01","5247","GPL","Yes","Yes","Yes","","Yes","","","","","","","Perl"
-"Microsoft","2020-12-17[5]","18.9","Proprietary","Yes","No","No","","","","Yes","","","","including SSAS management, and MDX, DMX, and XMLA languages",".Net"
-"ModelRight","2016-12-??","4.1[6][7]","Proprietary","Yes","No","No","Yes","Yes","","Yes","Yes","","","SQL Server, Oracle, MySQL, PostgreSQL, DB2, DB2/zOS, MS Access","C++"
-"Oracle Corporation","2020-09-12[±]","8.0.22[8]","Community Ed: GPL Standard Ed: Commercial Proprietary","Yes","Yes","Yes","","Yes","","","","","","","C++/C# Objective-C Python (programming language)"
-"PremiumSoft CyberTech Ltd.","2020-04-15","15.0.13","Proprietary","Yes","Yes","requires Wine","Yes","Yes","Yes","Yes","Yes","","Yes","","Borland Delphi Objective-C"
-"PremiumSoft CyberTech Ltd.","2015-12-10","2.1","Proprietary","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","","Yes","","Borland Delphi Objective-C"
-"Oracle Corp.","2015-06-16","12.1.0.5","Proprietary","Yes","No","Yes","Yes","Yes","","Yes","","","","DB2, Sybase, TimesTen","Java"
-"Oracle Corp.","2018-04-05","18.1.0.095.1630","Proprietary","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","","Microsoft Access, Sybase, DB2, Teradata","Java"
-"Andrzej Kaluza","2016-12-06[±]","1.2.5.395[9]","GPL","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Firebird, HSQL, InterBase, Derby all with JDBC driver","Java"
-"pgAdmin Development Team","2020-03-05","4.19[10]","PostgreSQL License","Yes","Yes","Yes","","","Yes","","","","","","C++"
-"Dane Iracleous, Christopher Kramer and others","2019-09-05","1.9.8.2[11]","GPL","Yes","Yes","Yes","No","No","No","No","No","No","Yes","","PHP"
-"phpMyAdmin Development Team","2022-02-11[±]","5.1.3[12]","GPL","Yes","Yes","Yes","","Yes","","","","","","Drizzle, MariaDB","php"
-"Jan Prochazka","2016-05-27","3.4.1","Proprietary","Yes","No","No","No","No","No","Yes","","","","",".NET, WPF, C#"
-"Webyog Softworks Pvt. Ltd.","2021-04-29[±]","13.1.8[13]","GPLv2","Yes","requires Wine","requires Wine","","Yes","","","","","","","C++"
-"Colin Bell, Gerd Wagner, Rob Manning and others","2021-10-02[±]","4.3.0[14]","GPLv2 & LGPLv2","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Access, Axion Java RDBMS, Apache Derby, Daffodil DB, FileMaker (JDBC), Fujitsu Siemens SESAM/SQL, Firebird, FrontBase, HSQLDB, Hypersonic SQL, H2 (DBMS), IBM DB2, Informix, Ingres, OpenIngres, InstantDB, InterBase, Mckoi SQL Database, Microsoft SQL Server, Mimer SQL, Netezza, Pointbase, SAPDB, Sybase, Sunopsis XML Driver, Teradata Warehouse, ThinkSQL RDBMS, Vertica Analytic Database, and others with JDBC drivers.","Java"
-"Quest Software","Various","Various","Proprietary","Yes","No","No","Yes","Yes","","Yes","Yes","","","DB2, Sybase","Embarcadero Delphi, C#.NET"
-"Quest Software","2009-03-05","3.3.8","Proprietary","Yes","No","No","Yes","Yes","Yes","Yes","","","","DB2, MS Access, Sybase","Embarcadero Delphi"
-"Community","2017-07-04","3.2","GPL","Yes","Yes","Yes","Yes","Yes","Yes","","","","","Teradata","C++/Qt"
-"null","null","null","null","null","null","null","null","null","null","null","null","null","null","null","null"
+"Tools","User Interface , URL: /wiki/User_Interface
+","Create & Alter wizard","Create & Alter wizard","Create & Alter wizard","Create & Alter wizard","Browse , URL: /wiki/User_interface
+","Browse , URL: /wiki/User_interface
+","Browse , URL: /wiki/User_interface
+","Browse , URL: /wiki/User_interface
+","Auto Completion","Syntax colored","Multi server support","Monitoring server"
+"Tools","User Interface , URL: /wiki/User_Interface
+","Database , URL: /wiki/Database
+","Table , URL: /wiki/Table_(database)
+","Procedure","Trigger , URL: /wiki/Database_trigger
+","Database , URL: /wiki/Database
+","Table , URL: /wiki/Table_(database)
+","Procedure","Trigger , URL: /wiki/Database_trigger
+","Auto Completion","Syntax colored","Multi server support","Monitoring server"
+"Adminer , URL: /wiki/Adminer
+","Browser-based","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","?","?"
+"Altova DatabaseSpy , URL: /wiki/DatabaseSpy
+","desktop","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?"
+"DaDaBIK","Browser-based","No","Some[note 1]","No","No","No","Some[note 2]","No","No","No","No","No","?"
+"Database Workbench , URL: /wiki/Database_Workbench
+","desktop","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?"
+"DataGrip , URL: /wiki/DataGrip
+","desktop","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"DBeaver , URL: /wiki/DBeaver
+","desktop","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"DBEdit , URL: /wiki/DBEdit
+","desktop","No","No","No","No","Yes","Yes","Yes","No","No","Yes","No","?"
+"DbVisualizer , URL: /w/index.php?title=DbVisualizer&action=edit&redlink=1
+","desktop / CLI","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Epictetus , URL: /wiki/Epictetus_Database_Client
+","desktop","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","?","?"
+"Microsoft SQL Server Management Studio , URL: /wiki/SQL_Server_Management_Studio
+","desktop","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"ModelRight , URL: /wiki/ModelRight
+","desktop","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","?","?"
+"MySQL Workbench , URL: /wiki/MySQL_Workbench
+","desktop","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Some"
+"Navicat , URL: /wiki/Navicat
+","desktop","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?"
+"Navicat Data Modeler , URL: /wiki/Navicat
+","desktop","No","Yes","No","Yes","No","No","No","No","Yes","Yes","Yes","?"
+"Oracle Enterprise Manager , URL: /wiki/Oracle_Enterprise_Manager
+","Browser-based","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes"
+"Oracle SQL Developer , URL: /wiki/Oracle_SQL_Developer
+","desktop","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"Orbada , URL: /wiki/Orbada
+","desktop","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"pgAdmin , URL: /wiki/PgAdmin_III
+","TDI , URL: /wiki/Tabbed_document_interface
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Some"
+"phpLiteAdmin , URL: /wiki/PhpLiteAdmin
+","Browser-based","Yes","Yes","No","Yes","Yes","Yes","No","Yes","Yes","Yes","?","?"
+"phpMyAdmin , URL: /wiki/PhpMyAdmin
+","Browser-based","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"SQL Database Studio , URL: /wiki/SQL_Database_Studio
+","desktop","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"SQLyog , URL: /wiki/SQLyog
+","desktop","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?"
+"SQuirreL SQL , URL: /wiki/SQuirreL_SQL
+","desktop","?","?","?","?","Yes","Yes","?","?","Yes","Yes","Some","?"
+"Toad , URL: /wiki/Toad_(software)
+","desktop","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Toad Data Modeler , URL: /wiki/Toad_Data_Modeler
+","desktop","Yes","Yes","Yes","Yes","Some","Some","Some","Some","No","Yes","?","?"
+"TOra , URL: /wiki/TOra
+","desktop","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?"

@@ -1,0 +1,94 @@
+"Name","Programming language , URL: /wiki/Programming_language
+","Platform","License","Stable version","Portable , URL: /wiki/Portable_application
+","Detect conflict","Renames or moves","Propagate deletes","Revision control , URL: /wiki/Revision_control
+","Scheduling or service","Other info","Bidirectional","Only client needed","Protocol layer , URL: /wiki/Protocol_layer
+","Application layer , URL: /wiki/Application_layer
+","Delta copying , URL: /wiki/Delta_copying
+"
+"Conduit , URL: /wiki/Conduit_(software)
+","Python , URL: /wiki/Python_(programming_language)
+","Linux, FreeBSD","GPL , URL: /wiki/GNU_General_Public_License
+","2010[1]","No","","","","","Yes","Synchronizes files, website, network apps","","","","",""
+"DirSync Pro , URL: /wiki/DirSync_Pro
+","Java , URL: /wiki/Java_(programming_language)
+","Java SE , URL: /wiki/Java_SE
+","GPLv3","2018[2]","Yes","Yes","No","","Yes (creates backup files)","Yes (native + via OS)","sym-links, filter, metadata, contents, auto-sync , URL: /wiki/DirSync_Pro#See_also
+","","","","",""
+"FreeFileSync , URL: /wiki/FreeFileSync
+","C++ , URL: /wiki/C%2B%2B
+","Windows, macOS, Linux","GPL","2022[3]","Yes (Donation Edition)[4]","Yes[5]","Yes[5]","Yes[5]","Yes (versioning + recycler)[5]","Yes","OpenCandy , URL: /wiki/OpenCandy
+","","","","",""
+"iFolder , URL: /wiki/IFolder
+","Mono , URL: /wiki/Mono_(software)
+","Windows, macOS, Linux, Solaris","GPL","2010","No","Yes (centralized database)","Yes (files, not folders)","","","","","","","","",""
+"InterPlanetaryFileSystem , URL: /wiki/InterPlanetary_File_System
+","Go","Windows, macOS, Linux","GPL","2020[8]","","Yes","","","No (Planned)[9]","","","","","","",""
+"luckyBackup , URL: /wiki/LuckyBackup
+","C++","Windows, macOS, Linux, FreeBSD","GPLv3","2018[10]","Yes","","","","","Yes","Uses rsync backend","","","","",""
+"Nextcloud , URL: /wiki/Nextcloud
+","PHP, C++, JavaScript[11]","Server: Linux, FreeBSD Clients: Windows, macOS, Linux, FreeBSD, Android, iOS, Windows Phone","AGPLv3","2021","Yes","Yes","Yes","Yes[12]","Yes","Yes","Fork of ownCloud","Yes","No","","",""
+"ownCloud , URL: /wiki/OwnCloud
+","PHP, C++, JavaScript[13]","Server: Linux, FreeBSD Clients: Windows, macOS, Linux, FreeBSD, Android, iOS, Blackberry","AGPLv3 (Server Edition) / proprietary (Enterprise Edition)","2021","Yes","Yes","Yes","Yes[14]","Yes","Yes","external storage support; encryption","Yes","No","","",""
+"Pydio , URL: /wiki/Pydio
+","Server: PHP, Python, C++ Clients: JS, C#, Swift, Java","Windows, macOS, Linux, Android, iOS","AGPLv3","2017","Yes","Yes","Yes","","Git , URL: /wiki/Git_(software)
+","Yes","","","","","",""
+"rclone , URL: /wiki/Rclone
+","Go , URL: /wiki/Go_(programming_language)
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+macOS , URL: /wiki/MacOS
+FreeBSD , URL: /wiki/FreeBSD
+NetBSD , URL: /wiki/NetBSD
+OpenBSD , URL: /wiki/OpenBSD
+Plan9 , URL: /wiki/Plan_9_from_Bell_Labs
+Solaris , URL: /wiki/Solaris_(operating_system)
+","MIT , URL: /wiki/MIT_License
+","2021","Yes","Yes","Yes","Yes","Yes","Yes (via OS)","Supports over 50 cloud, protocol and virtual backends including S3 buckets, Google Drive, Microsoft OneDrive, and other high latency file storage. Capabilities include sync, cache, encrypt, compress and mount.","in alpha version since 2021","Yes","","",""
+"rsync , URL: /wiki/Rsync
+","C , URL: /wiki/C_(programming_language)
+","Windows, macOS,[16] Linux,[17][18] BSD","GPL v3 , URL: /wiki/GPL_v3
+","2020","Yes","Yes","No","Yes using --delete","Yes using --backup and a time-stamped --suffix","Yes (via OS)","client & server operation. Multiple comparison criteria (date, check-sum).","No","Yes","TCP , URL: /wiki/Transmission_Control_Protocol
+","SSH , URL: /wiki/SSH
+Rsh , URL: /wiki/Remote_shell
+","Yes"
+"Seafile , URL: /wiki/Seafile
+","C99 , URL: /wiki/C99
+","Server: Linux, Raspbian, Windows Clients: Linux, macOS, Windows, Android, iOS.[20]","AGPLv3 , URL: /wiki/GNU_Affero_General_Public_License
+Apache License 2.0 , URL: /wiki/Apache_License#Version_2.0
+","2020","No","Yes","Yes","Yes","Yes","Yes (via Seafile Client)","Android and iOS mobile clients","","","","",""
+"SparkleShare , URL: /wiki/SparkleShare
+","C#","Android , URL: /wiki/Android_(operating_system)
+iOS , URL: /wiki/IOS
+","GPL v3 , URL: /wiki/GPL_v3
+LGPL , URL: /wiki/LGPL
+","2017","Yes","Yes","No","","Git , URL: /wiki/Git_(software)
+","","","","","","",""
+"SymmetricDS , URL: /wiki/SymmetricDS
+","Java","Java SE , URL: /wiki/Java_SE
+","GPL , URL: /wiki/GPL
+","2018","Yes","Yes","Yes","","No","Yes","plug-in APIs for customization","","","","",""
+"krusader , URL: /wiki/Krusader
+","","Windows, macOS, Linux","GPL v2 , URL: /wiki/GPL_v2
+","2017","No","Yes","No","","No","No","","","","","",""
+"Syncthing , URL: /wiki/Syncthing
+","Go , URL: /wiki/Go_(programming_language)
+","Android , URL: /wiki/Android_(operating_system)
+BSD , URL: /wiki/BSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+","MPL v2 , URL: /wiki/Mozilla_Public_License
+","2021","Yes","Yes","Yes","Yes","Yes","Yes","Distributed peer-to-peer sync with automatic NAT traversal. Custom topology (star, fullmesh, mixed). Encryption.","Yes","Yes","","",""
+"Synkron , URL: /wiki/Synkron
+","C++","Windows, macOS, Linux","GPL v2 , URL: /wiki/GPL_v2
+","2011[22]","Yes","Yes","No","Yes","Yes","Yes","","","","","",""
+"Unison , URL: /wiki/Unison_(software)
+","OCaml , URL: /wiki/OCaml
+","Windows, macOS, Linux","GPL , URL: /wiki/GPL
+","2021","Yes","Yes","Yes","Yes","Yes","Yes","Uses rsync backend","Yes","No","TCP , URL: /wiki/Transmission_Control_Protocol
+","SSH , URL: /wiki/SSH
+socket , URL: /wiki/Network_socket
+","Yes"
+"Name","Programming language","Platform","License","Last version","Portable","Detect conflict","Renames or moves","Propagate deletes","Revision control , URL: /wiki/Revision_control
+","Scheduling or service","Other info","Bidirectional","Only client needed","Protocol layer , URL: /wiki/Protocol_layer
+","Application layer , URL: /wiki/Application_layer
+","Delta copying , URL: /wiki/Delta_copying
+"

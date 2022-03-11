@@ -1,0 +1,26 @@
+"Codename , URL: /wiki/Codename
+","Launch","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","Memory","Memory","Memory","Memory","TBP","Bus interface","Release Price (USD)"
+"Codename , URL: /wiki/Codename
+","Launch","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors Die Size","Config[e]","MHz , URL: /wiki/Hertz
+","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","Half , URL: /wiki/Half-precision_floating-point_format
+","Single , URL: /wiki/Single_precision_floating-point_format
+","Double , URL: /wiki/Double_precision_floating-point_format
+","Bus type & width","GiB , URL: /wiki/Gibibyte
+","MT/s , URL: /wiki/Transfer_(computing)
+","GB , URL: /wiki/Gigabyte
+","TBP","Bus interface","Release Price (USD)"
+"Radeon Vega Frontier Edition (Air Cooled)[327][328]","27 June 2017","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
+","12.5×109 484 mm2","4096:256:64","1382","409.6","102.4","22643","11321","707.6","HBM2 2048-bit","16","1890","483.8","300 W","PCIe 3.0 ×16","$999"
+"Radeon Vega Frontier Edition (Liquid Cooled)[327][328]","27 June 2017","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
+","12.5×109 484 mm2","4096:256:64","1600","409.6","102.4","26214","13107","819.2","HBM2 2048-bit","16","1890","483.8","350 W","PCIe 3.0 ×16","$1499"

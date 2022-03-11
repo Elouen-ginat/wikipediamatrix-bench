@@ -1,0 +1,55 @@
+"","Tested software version","ODF version attribute in exported file office:version="1.X"","File type","Validation of simple new document[5][6]","Notes"
+"AbiWord , URL: /wiki/AbiWord
+","2.6.4","1.0","ODT","valid",""
+"Adobe Buzzword , URL: /wiki/Adobe_Buzzword
+","beta 3, build 600113","1.0","ODT","not valid","(errors in styles.xml and content.xml)"
+"EditGrid , URL: /wiki/EditGrid
+","11/2008","1.0","ODS","valid",""
+"Gnumeric , URL: /wiki/Gnumeric
+","1.9.3","1.0","ODS","not valid",""
+"Google Docs & Spreadsheets , URL: /wiki/Google_Docs_%26_Spreadsheets
+","11/2008","1.0","ODT, ODS","valid - ODT, different results - ODS",""
+"IBM Lotus Symphony , URL: /wiki/IBM_Lotus_Symphony
+","1.1.0","1.1","ODT, ODS, ODP","valid",""
+"IBM Lotus Symphony , URL: /wiki/IBM_Lotus_Symphony
+","3.0.0 FP2","1.2","ODT, ODS, ODP","",""
+"Inkscape , URL: /wiki/Inkscape
+","0.4.6","1.0","ODG","not valid",""
+"KOffice , URL: /wiki/KOffice
+","1.6.3","attribute is missing","ODT, ODS, ODP","valid - ODT, ODS, not valid - ODP","ODT, ODS - valid ODF 1.0 and 1.1"
+"KOffice , URL: /wiki/KOffice
+","2.1.2","1.2","ODT, ODS, ODP","",""
+"Microsoft Office , URL: /wiki/Microsoft_Office
+","2007 SP2","1.1","ODT, ODS, ODP","different results - ODS, valid - ODT, ODP",""
+"Microsoft Office , URL: /wiki/Microsoft_Office
+SUN ODF Plugin , URL: http://www.sun.com/software/star/odf_plugin/
+","1.2","1.1","ODT, ODS, ODP","valid",""
+"Microsoft Office , URL: /wiki/Microsoft_Office
+SUN ODF Plugin , URL: http://www.sun.com/software/star/odf_plugin/
+","3.1","1.2","ODT, ODS, ODP","",""
+"Microsoft Office , URL: /wiki/Microsoft_Office
+OpenXML/ODF Translator Add-in , URL: http://odf-converter.sourceforge.net/
+","2.0","attribute is missing","ODT, ODS, ODP","different results - ODT, valid - ODS, not valid - ODP","ODF 1.1 implemented[7]"
+"NeoOffice , URL: /wiki/NeoOffice
+","2.2.5","1.0","ODT","not valid - ODT","(error in styles.xml)"
+"OpenOffice.org , URL: /wiki/OpenOffice.org
+","2.0 - 2.3.0","1.0","ODT, ODS, ODP","valid (tested 2.3.0)",""
+"OpenOffice.org , URL: /wiki/OpenOffice.org
+","2.3.1 - 2.4.2","1.1","ODT, ODS, ODP","valid",""
+"OpenOffice.org , URL: /wiki/OpenOffice.org
+","3.0","1.1 and 1.2","ODT, ODS, ODP","valid","adjustable ODF version"
+"StarOffice , URL: /wiki/StarOffice
+","8.0 product update 10","1.1","ODT, ODS, ODP","valid",""
+"RedOffice , URL: /w/index.php?title=RedOffice&action=edit&redlink=1
+","4.0","1.0","ODT, ODS, ODP","valid",""
+"TextEdit , URL: /wiki/TextEdit
+","1.5 (244)","1.0","ODT","different results in validators","(settings.xml is missing[5])"
+"TextMaker , URL: /wiki/TextMaker
+","2008 rev.494","1.0","ODT","not valid","(error in styles.xml)"
+"TextMaker , URL: /wiki/TextMaker
+","2010","1.0","ODT","Yes",""
+"WordPad , URL: /wiki/WordPad
+","6.1 (2009)","attribute is missing","ODT","different results in validators","(settings.xml is missing[5] - ODF 1.0/1.1 validation)"
+"Zoho Office Suite , URL: /wiki/Zoho_Office_Suite
+","11/2008","1.0","ODT, ODS, ODP","valid - ODT, ODS, not valid - ODP",""
+"","Tested software version","ODF version attribute in exported file office:version="1.X"","File type","Validation of simple new document[5][6]","Notes"

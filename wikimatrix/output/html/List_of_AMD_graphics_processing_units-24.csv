@@ -1,0 +1,38 @@
+"Model","Launch","Codename , URL: /wiki/Codename
+","Architecture , URL: /wiki/Microarchitecture
+","nm , URL: /wiki/Nanometer
+","MHz , URL: /wiki/Hertz
+","Config core[a]","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Shared Memory","Shared Memory","Shared Memory","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","Combined TDP[b]","Combined TDP[b]","APU Series , URL: /wiki/AMD_Accelerated_Processing_Unit
+"
+"Model","Launch","Codename , URL: /wiki/Codename
+","Architecture , URL: /wiki/Microarchitecture
+","nm , URL: /wiki/Nanometer
+","MHz , URL: /wiki/Hertz
+","Config core[a]","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","bit , URL: /wiki/Bit
+","Bus type","GB , URL: /wiki/Gigabyte
+","GFLOPS , URL: /wiki/GFLOPS
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","OpenCL , URL: /wiki/OpenCL
+","Vulkan , URL: /wiki/Vulkan_(API)
+","W , URL: /wiki/Watt
+","W , URL: /wiki/Watt
+","APU Series , URL: /wiki/AMD_Accelerated_Processing_Unit
+"
+"Radeon HD 6370D","November 1, 2011","WinterPark","TeraScale 2 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_2
+","32","443","160:8:4","1.77","3.54","128","DDR3-1600","25.6","142","11.3 (11_0)","4.5","1.2","N/A","Unknown","65","E2"
+"Radeon HD 6410D","June 20, 2011","WinterPark","TeraScale 2 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_2
+","32","443[c]–600","160:8:4","1.77–2.4","3.54–4.8","128","DDR3-1600","25.6","142–192","11.3 (11_0)","4.5","1.2","N/A","Unknown","65","A4"
+"Radeon HD 6530D","June 20, 2011","BeaverCreek","TeraScale 2 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_2
+","32","443","320:16:8","3.54","7.08","128","DDR3-1866","29.9","284","11.3 (11_0)","4.5","1.2","N/A","Unknown","65–100","A6"
+"Radeon HD 6550D","June 20, 2011","BeaverCreek","TeraScale 2 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_2
+","32","600","400:20:8","4.8","12","128","DDR3-1866","29.9","480","11.3 (11_0)","4.5","1.2","N/A","Unknown","65–100","A8"

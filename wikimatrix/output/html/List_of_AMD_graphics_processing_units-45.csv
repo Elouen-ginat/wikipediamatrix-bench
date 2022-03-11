@@ -1,0 +1,38 @@
+"Model","Released","Codename , URL: /wiki/Codename
+","Architecture , URL: /wiki/Microarchitecture
+","nm , URL: /wiki/Nanometer
+","MHz , URL: /wiki/Hertz
+","Config core[a]","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Shared memory","Shared memory","Shared memory","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","Combined TDP[b]","Combined TDP[b]","APU , URL: /wiki/Accelerated_processing_unit
+"
+"Model","Released","Codename , URL: /wiki/Codename
+","Architecture , URL: /wiki/Microarchitecture
+","nm , URL: /wiki/Nanometer
+","MHz , URL: /wiki/Hertz
+","Config core[a]","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","GFLOPS , URL: /wiki/GFLOPS
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","OpenCL , URL: /wiki/OpenCL
+","Vulkan , URL: /wiki/Vulkan_(API)
+","W , URL: /wiki/Watt
+","W , URL: /wiki/Watt
+","APU , URL: /wiki/Accelerated_processing_unit
+"
+"Radeon HD 6250[174]","November 9, 2010[175]","Wrestler[176]","TeraScale 2 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_2
+","40","280–400","80:8:4:2","1.12–1.6","2.24–3.2","8.525","DDR3-1066","64","44.8–64","11.3 (11_0)","4.5","1.2","N/A","Unknown","9","C-30, C-50, Z-60"
+"Radeon HD 6290","January 7, 2011","Ontario","TeraScale 2 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_2
+","40","276–400","80:8:4:2","1.12–1.6","2.24–3.2","8.525","DDR3-1066","64","44.8–64","11.3 (11_0)","4.5","1.2","N/A","Unknown","9",""
+"Radeon HD 6310[174]","November 9, 2010[175]","Wrestler[176]","TeraScale 2 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_2
+","40","492","80:8:4:2","2.0","4.0","8.525","DDR3-1066","64","80","11.3 (11_0)","4.5","1.2","N/A","Unknown","18","E-240, E-300, E-350"
+"Radeon HD 6320","August 15, 2011","Wrestler[176]","TeraScale 2 , URL: /wiki/TeraScale_(microarchitecture)#TeraScale_2
+","40","508–600","80:8:4:2","2.032–2.4","4.064–4.8","10.6","DDR3-1333","64","82–97","11.3 (11_0)","4.5","1.2","N/A","Unknown","18","E-450"

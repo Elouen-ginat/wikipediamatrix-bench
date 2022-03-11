@@ -1,0 +1,104 @@
+"Driver","Chipset","Integration","Free firmware[note 2]","License","Original/Primary developer","Development methodologies","Free software , URL: /wiki/Free_software
+"
+"an , URL: https://man.netbsd.org/an.4
+","Aironet , URL: /wiki/Cisco_Systems
+Cisco , URL: /wiki/Cisco_Systems
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","Bill Paul (FreeBSD)","Ported from FreeBSD","Yes"
+"ath , URL: https://man.netbsd.org/ath.4
+","Atheros , URL: /wiki/Atheros
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","Sam Leffler (FreeBSD)","Binary blobs , URL: /wiki/Binary_blob
+","Yes"
+"athn , URL: https://man.netbsd.org/athn.4
+","Atheros , URL: /wiki/Atheros
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Ported from OpenBSD","Yes"
+"atu , URL: https://man.netbsd.org/atu.4
+","Atmel , URL: /wiki/Atmel
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","Dan Vreeken (FreeBSD)","Ported from OpenBSD","Yes"
+"atw , URL: https://man.netbsd.org/atw.4
+","ADMtek , URL: /wiki/ADMtek
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","David Young (NetBSD)","","Yes"
+"awi , URL: https://man.netbsd.org/awi.4
+","AMD , URL: /wiki/AMD
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","","","Yes"
+"bwi , URL: https://man.netbsd.org/bwi.4
+","Broadcom , URL: /wiki/Broadcom
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","Sepherosa Ziehau (DragonflyBSD)","Ported from Dragonfly BSD","Yes"
+"cnw , URL: https://man.netbsd.org/cnw.4
+","Netwave , URL: /w/index.php?title=Netwave&action=edit&redlink=1
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","","","Yes"
+"ipw , URL: https://man.netbsd.org/ipw.4
+","Intel , URL: /wiki/Intel
+","Integrated","No","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Ported from OpenBSD","Yes"
+"iwi , URL: https://man.netbsd.org/iwi.4
+","Intel , URL: /wiki/Intel
+","Integrated","No","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Ported from OpenBSD","Yes"
+"iwm , URL: https://man.netbsd.org/iwm.4
+","Intel , URL: /wiki/Intel
+","Integrated","No","BSD , URL: /wiki/BSD
+","Antti Kantee (NetBSD)","","Yes"
+"iwn , URL: https://man.netbsd.org/iwn.4
+","Intel , URL: /wiki/Intel
+","Integrated","No","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Ported from OpenBSD","Yes"
+"malo , URL: https://man.netbsd.org/malo.4
+","Marvell , URL: /wiki/Marvell_Technology_Group
+","Integrated","No","BSD , URL: /wiki/BSD
+","Claudio Jeker (OpenBSD)","Ported from OpenBSD","Yes"
+"otus , URL: https://man.netbsd.org/otus.4
+","Atheros , URL: /wiki/Atheros
+","Integrated","No","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Ported from OpenBSD","Yes"
+"ral , URL: https://man.netbsd.org/ral.4
+","Ralink , URL: /wiki/Ralink
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Ported from OpenBSD","Yes"
+"ray , URL: https://man.netbsd.org/ray.4
+","Raytheon , URL: /wiki/Raytheon
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","Christian E. Hopps (NetBSD)","","Yes"
+"rtw , URL: https://man.netbsd.org/rtw.4
+","Realtek , URL: /wiki/Realtek
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","David Young (NetBSD)","","Yes"
+"rtwn , URL: https://man.netbsd.org/rtwn.4
+","Realtek , URL: /wiki/Realtek
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","Stefan Sperling (OpenBSD)","Ported from OpenBSD","Yes"
+"run , URL: https://man.netbsd.org/run.4
+","Ralink , URL: /wiki/Ralink
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Ported from OpenBSD","Yes"
+"upgt , URL: https://man.netbsd.org/upgt.4
+","Conexant/Intersil , URL: /w/index.php?title=Conexant/Intersil&action=edit&redlink=1
+","Integrated","N/A","BSD , URL: /wiki/BSD
+","Marcus Glocker (OpenBSD)","Ported from OpenBSD","Yes"
+"urtw , URL: https://man.netbsd.org/urtw.4
+","Realtek , URL: /wiki/Realtek
+","Integrated","No","BSD , URL: /wiki/BSD
+","Weongyo Jeong (FreeBSD)","Ported from FreeBSD","Yes"
+"urtwn , URL: https://man.netbsd.org/urtwn.4
+","Realtek , URL: /wiki/Realtek
+","Integrated","No","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Ported from OpenBSD","Yes"
+"wi , URL: https://man.netbsd.org/wi.4
+","Lucent Technologies , URL: /wiki/Lucent_Technologies
+","Integrated","No","BSD , URL: /wiki/BSD
+","Bill Paul","","Yes"
+"wpi , URL: https://man.netbsd.org/wpi.4
+","Intel , URL: /wiki/Intel
+","Integrated","No","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Ported from OpenBSD","Yes"
+"zyd , URL: https://man.netbsd.org/zyd.4
+","ZyDAS , URL: /w/index.php?title=ZyDAS&action=edit&redlink=1
+","Integrated","No","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Ported from OpenBSD","Yes"

@@ -1,0 +1,50 @@
+"Format","Filename extension","Created by","Introduced in","Based on","Integrity check","Recovery record","Encryption supported","Unicode , URL: /wiki/Unicode
+","Modification date resolution"
+"Debian package , URL: /wiki/Deb_(file_format)
+",".deb","Debian , URL: /wiki/Debian
+","Debian , URL: /wiki/Debian
+","ar , URL: /wiki/Ar_(Unix)
+tar , URL: /wiki/Tar_(file_format)
+gzip , URL: /wiki/Gzip
+","Yes","No","No","Yes","1 s"
+"Macintosh Installer , URL: /wiki/Installer_(macOS)
+",".pkg, .mpkg (metapackage)","NeXT , URL: /wiki/NeXT
+","NeXTSTEP , URL: /wiki/NeXTSTEP
+","pax , URL: /wiki/Pax_(command)
+gzip , URL: /wiki/Gzip
+","Yes","?","?","Yes","?"
+"RPM Package Manager , URL: /wiki/RPM_Package_Manager
+",".rpm","Red Hat , URL: /wiki/Red_Hat
+","Red Hat Linux , URL: /wiki/Red_Hat_Linux
+","cpio , URL: /wiki/Cpio
+gzip , URL: /wiki/Gzip
+","Yes","?","?","?","1 s"
+"Slackware , URL: /wiki/Slackware
+",".tgz","Patrick Volkerding , URL: /wiki/Patrick_Volkerding
+","Slackware , URL: /wiki/Slackware
+","tar , URL: /wiki/Tar_(file_format)
+gzip , URL: /wiki/Gzip
+","Yes","No","No","?","?"
+"Windows Installer , URL: /wiki/Windows_Installer
+",".msi","Microsoft , URL: /wiki/Microsoft
+","Windows 2000 , URL: /wiki/Windows_2000
+","Cabinet , URL: /wiki/Cabinet_(file_format)
+SQL , URL: /wiki/SQL
+","Authenticode , URL: /wiki/Authenticode
+","No","No","No","2 s"
+"Java Archive , URL: /wiki/JAR_(file_format)
+",".jar","Sun Microsystems , URL: /wiki/Sun_Microsystems
+","JDK , URL: /wiki/JDK
+","PKZIP , URL: /wiki/PKZIP
+","Yes","No","?","Yes","?"
+"Google Chrome , URL: /wiki/Google_Chrome
+extension , URL: /wiki/Chrome_Web_Store
+",".crx","Google , URL: /wiki/Google
+","2009 (Chrome 4.0)","Zip , URL: /wiki/.zip
+","?","?","Yes[13][failed verification]","?","?"
+"Pacman , URL: /wiki/Arch_Linux#Pacman
+",".pkg.tar.zst, .pkg.tar (no compression)","Judd Vinet , URL: /wiki/Judd_Vinet
+","2001 (before ArchLinux 0.1)","tar , URL: /wiki/Tar_(file_format)
+zstd , URL: /wiki/Zstandard
+xz , URL: /wiki/XZ_Utils
+","Yes","No","No","Yes","1 s"

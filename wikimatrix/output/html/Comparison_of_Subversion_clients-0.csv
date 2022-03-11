@@ -1,0 +1,59 @@
+"Name","Programming language , URL: /wiki/Programming_language
+toolkit , URL: /wiki/Toolkit
+","Operating system , URL: /wiki/Operating_system
+","License , URL: /wiki/List_of_software_licenses
+","Integration","Languages","Network protocols","Current version","Last release date","Server functionality","Visualization"
+"AnkhSVN , URL: /wiki/AnkhSVN
+","C# , URL: /wiki/C_Sharp_(programming_language)
+SharpSvn , URL: /w/index.php?title=SharpSvn&action=edit&redlink=1
+","Microsoft Windows , URL: /wiki/Microsoft_Windows
+","Apache License , URL: /wiki/Apache_License
+","Microsoft Visual Studio (all editions except Express)","English","http, https, svn, svn+ssh, file","2.9.87","November 9, 2021; 3 months ago (2021-11-09)[3]","No","Diff, blame, history, properties"
+"eSvn , URL: /wiki/ESvn
+","Qt , URL: /wiki/Qt_(framework)
+","Unix-like operating systems (Linux distributions, FreeBSD, Sun Solaris and others), Mac OS X and Windows","GPL , URL: /wiki/GNU_General_Public_License
+","WinCVS , URL: /wiki/WinCVS
+Cervisia , URL: /wiki/Cervisia
+","English","http, svn","0.6.12","For *nix OSs: July 16, 2007; 14 years ago (2007-07-16).[4] For Windows: July 12, 2007; 14 years ago (2007-07-12)[5]","No","?"
+"PixelNovel Timeline , URL: /wiki/PixelNovel_Timeline
+","C++","Microsoft Windows , URL: /wiki/Microsoft_Windows
+","Free if used with PixelNovel web storage, 30-day trial with commercial upgrade otherwise","Adobe Photoshop , URL: /wiki/Adobe_Photoshop
+","English","svn","1.0","July 7, 2009; 12 years ago (2009-07-07)[6][7]","?","?"
+"QSvn , URL: /wiki/QSvn
+","C++, Qt","Microsoft Windows , URL: /wiki/Microsoft_Windows
+","GPL","GUI, standalone (like WinCVS)","English","","0.8.3","July 26, 2009; 12 years ago (2009-07-26)","No","?"
+"RabbitVCS , URL: /wiki/RabbitVCS
+","Python, GTK+","Linux","GPL","Thunar , URL: /wiki/Thunar
+Gedit , URL: /wiki/Gedit
+CLI , URL: /wiki/Command-line_interface
+","ca, cs, de, en, es, fa, fr, he, hr, it, ja, nb, nl, pl, pt, ro, ru, sk, sl, sv, zh_CN","http, https, svn, svn+ssh, file","0.18 [8]","February 12, 2020; 2 years ago (2020-02-12)[9]","?","?"
+"RapidSVN , URL: /wiki/RapidSVN
+","wxWidgets , URL: /wiki/WxWidgets
+","Microsoft Windows , URL: /wiki/Microsoft_Windows
+","GPL","GUI, standalone","Unicode, many","","0.12.1","June 28, 2012; 9 years ago (2012-06-28)","No","External"
+"SubTile , URL: /wiki/SubTile
+","XUL, JavaScript","Microsoft Windows , URL: /wiki/Microsoft_Windows
+","GPL , URL: /wiki/GPL
+Mozilla Public License , URL: /wiki/Mozilla_Public_License
+Apache License , URL: /wiki/Apache_License
+","GUI, standalone","English","http, https, svn, svn+ssh","0.2.201505204","May 1, 2017; 4 years ago (2017-05-01)[10]","No","Diff, merge, revision graph"
+"SVN Notifier , URL: /wiki/SVN_Notifier
+","C#","Microsoft Windows , URL: /wiki/Microsoft_Windows
+","GPL","GUI, standalone. It needs TortoiseSVN installed.","English","http, https, svn, svn+ssh, file","1.9.3","June 25, 2012; 9 years ago (2012-06-25)[11]","?","?"
+"TortoiseSVN , URL: /wiki/TortoiseSVN
+","C++, MFC","Microsoft Windows , URL: /wiki/Microsoft_Windows
+","GPL","Windows Shell (Explorer)","54 languages (including english)[12]","http, https, svn, svn+ssh, file, svn+XXX","1.14.1","February 10, 2021; 12 months ago (2021-02-10)[13]","Yes","Diff, merge, Revision Tree, blame"
+"Trac , URL: /wiki/Trac
+","Python","Microsoft Windows , URL: /wiki/Microsoft_Windows
+","Modified BSD , URL: /wiki/Modified_BSD_License
+","web-based","33 languages (including english)[14]","file","1.2.4[15]","July 17, 2019; 2 years ago (2019-07-17)[16]","Yes","Log"
+"ViewVC , URL: /wiki/ViewVC
+","Python","http, https",""two-clause Berkeley-style"","web-based","English","http, https, svn, svn+ssh, file","1.2.1","March 26, 2020; 23 months ago (2020-03-26)[17]","?","Diff, annotation, blame, revision graph"
+"VisualSVN , URL: /wiki/VisualSVN
+","","Microsoft Windows , URL: /wiki/Microsoft_Windows
+","proprietary","Microsoft Visual Studio (all editions except Express)","English","http, https, svn, svn+ssh, file","7.3.0","October 6, 2020; 16 months ago (2020-10-06)[18]","Yes","?"
+"Xcode , URL: /wiki/Xcode
+","Objective-C , URL: /wiki/Objective-C
+Cocoa , URL: /wiki/Cocoa_(API)
+","macOS , URL: /wiki/MacOS
+","Proprietary, free[19]","Xcode IDE","English","","9.4.1 Support for SVN was dropped in Xcode 10","June 19, 2018; 3 years ago (2018-06-19)","?","?"

@@ -1,6 +1,358 @@
-"null"
-"General comparison Assignment Basic syntax Basic instructions Comments Control flow Foreach loops While loops For loops Do-while Exception handling Enumerated types Algebraic data types Generators Anonymous functions Conditional expressions Functional instructions Arrays Associative arrays Scope String operations String functions Higher-order functions Filter Fold Map Type systems List comprehension Object-oriented programming Object-oriented constructors Operators ?: Null coalescing operators Safe navigation operators Modulo operators"
-"Evaluation strategy List of "Hello World" programs"
-"Languages with dependent types Comparison of type systems"
-"Comparison of individual languages Comparison of Java and .NET platforms ALGOL 58's influence on ALGOL 60 ALGOL 60: Comparisons with other languages Comparison of ALGOL 68 and C++ ALGOL 68: Comparisons with other languages Compatibility of C and C++ Comparison of Pascal and Borland Delphi Comparison of Object Pascal and C Comparison of Pascal and C Comparison of Java and C++ Comparison of C# and Java Comparison of C# and Visual Basic .NET Comparison of Visual Basic and Visual Basic .NET"
-"v t e"
+"Language","Original purpose","Imperative , URL: /wiki/Imperative_programming
+","Object-oriented , URL: /wiki/Object-oriented_programming
+","Functional , URL: /wiki/Functional_programming
+","Procedural , URL: /wiki/Procedural_programming
+","Generic , URL: /wiki/Generic_programming
+","Reflective , URL: /wiki/Reflective_programming
+","Event-driven , URL: /wiki/Event-driven_programming
+","paradigms , URL: /wiki/Programming_paradigm
+","Standardized , URL: /wiki/Standardization
+"
+"1C:Enterprise programming language , URL: /wiki/1C:Enterprise_programming_language
+","Application , URL: /wiki/Application_software_development
+RAD , URL: /wiki/Rapid_application_development
+general , URL: /wiki/General-purpose_programming_language
+web , URL: /wiki/Web_development
+mobile , URL: /wiki/Mobile_app_development
+","Yes","No","Yes","Yes","Yes","Yes","Yes","Object-based , URL: /wiki/Object-based
+","No"
+"ActionScript , URL: /wiki/ActionScript
+","client-side , URL: /wiki/Client-side
+","Yes","Yes","Yes","No","No","No","Yes","","Yes 1996, ECMA"
+"Ada , URL: /wiki/Ada_(programming_language)
+","embedded , URL: /wiki/Embedded_system
+realtime , URL: /wiki/Real-time_computing
+system , URL: /wiki/System_programming_language
+","Yes","Yes[2]","No","Yes[3]","Yes[4]","No","No","Concurrent , URL: /wiki/Concurrent_programming_language
+distributed , URL: /wiki/Distributed_programming
+","GOST , URL: /wiki/GOST
+"
+"Aldor , URL: /wiki/Aldor
+","domain-specific , URL: /wiki/Domain-specific_language
+symbolic computing , URL: /wiki/Computer_algebra
+","Yes","Yes","Yes","No","No","No","No","","No"
+"ALGOL 58 , URL: /wiki/ALGOL_58
+","Application","Yes","No","No","No","No","No","No","","No"
+"ALGOL 60 , URL: /wiki/ALGOL_60
+","Application","Yes","No","No","Yes","Yes","No","No","","IFIP WG 2.1 , URL: /wiki/IFIP_WG_2.1
+"
+"ALGOL 68 , URL: /wiki/ALGOL_68
+","Application","Yes","No","Yes","Yes","Yes","No","No","Concurrent","IFIP WG 2.1 , URL: /wiki/IFIP_WG_2.1
+GOST 27974-88 , URL: /wiki/GOST_27974-88
+"
+"Ateji PX , URL: /wiki/Ateji_PX
+","Parallel application","No","Yes","No","No","No","No","No","pi calculus , URL: /wiki/Pi_calculus
+","No"
+"APL , URL: /wiki/APL_(programming_language)
+","data processing , URL: /wiki/Data_processing
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Array-oriented , URL: /wiki/Array_programming
+tacit , URL: /wiki/Tacit_programming
+","Yes 1989, ISO"
+"Assembly language , URL: /wiki/Assembly_language
+","General","Yes","No","No","No","No","No","No","Any, syntax is usually highly specific, related to the target processor","Yes 1985 IEEE 694-1985[10]"
+"AutoHotkey , URL: /wiki/AutoHotkey
+","macros , URL: /wiki/Macro_(computer_science)#Application_macros_and_scripting
+","Yes","Yes [11]","No","Yes","No","No","Yes","","No"
+"AutoIt , URL: /wiki/AutoIt
+","GUI automation (macros), highly domain-specific","Yes","No","No","Yes","No","No","Yes","","No"
+"Ballerina , URL: /wiki/Ballerina_(programming_language)
+","server-side , URL: /wiki/Server-side
+","Yes","Yes","Yes","Yes","No","No","Yes","Concurrent, transactional, statically and strongly typed programming, diagrammatic / visual programming","De facto standard via Ballerina Language Specification[12]"
+"Bash , URL: /wiki/Bash_(Unix_shell)
+","Shell , URL: /wiki/Shell_(computing)
+scripting , URL: /wiki/Scripting_language
+","Yes","No","No","Yes","No","No","No","","POSIX.2 , URL: /wiki/POSIX.2
+"
+"BASIC , URL: /wiki/BASIC
+","Application, education","Yes","No","No","Yes","No","No","No","","Yes 1983, ANSI, ISO, ECMA"
+"BeanShell , URL: /wiki/BeanShell
+","Application, scripting","Yes","Yes","Yes","No","No","Yes","No","","JCP , URL: /wiki/Java_Community_Process
+"
+"BLISS , URL: /wiki/BLISS
+","System","No","No","No","Yes","No","No","No","","No"
+"BlitzMax , URL: /wiki/BlitzMax
+","Application, game","Yes","Yes","No","Yes","No","Yes","No","","No"
+"Boo , URL: /wiki/Boo_(programming_language)
+","Application, game scripting","No","Yes","No","No","No","No","No","","No"
+"Bro , URL: /wiki/Bro_(software)
+","Domain-specific, application","Yes","No","No","No","No","No","Yes","","No"
+"C , URL: /wiki/C_(programming_language)
+","Application, system,[15] general purpose, low-level operations","Yes","No","No","Yes","No","No","No","","ANSI C89, ISO C90, ISO C99, ISO C11, ISO C18 , URL: /wiki/ANSI_C
+"
+"C++ , URL: /wiki/C%2B%2B
+","Application, system","Yes","Yes","Yes","Yes","Yes","No","No","","Yes 1998, ISO/IEC 2003, ISO/IEC 2011,ISO/IEC 2014,ISO/IEC 2017[17]"
+"C# , URL: /wiki/C_Sharp_(programming_language)
+","game programming , URL: /wiki/Game_programming
+","Yes","Yes","Yes[18]","Yes","Yes","Yes","Yes","Structured, concurrent","Yes 2000, ECMA, ISO[19]"
+"Clarion , URL: /wiki/Clarion_(programming_language)
+","General, business, web","Yes","Yes","Yes[20]","No","No","No","No","","Unknown"
+"Clean , URL: /wiki/Clean_(programming_language)
+","General","No","No","Yes","No","Yes","No","No","","No"
+"Clojure , URL: /wiki/Clojure
+","General","No","No","Yes","No","No","No","No","Concurrent","No"
+"CLU , URL: /wiki/CLU_(programming_language)
+","General","Yes","Yes","No","Yes","Yes","No","No","","No"
+"COBOL , URL: /wiki/COBOL
+","Application, business","Yes","Yes","No","Yes","No","No","No","","Yes 1968 ANSI X3.23, 1974, 1985; ISO/IEC 1989:1985, 2002, 2014"
+"Cobra , URL: /wiki/Cobra_(programming_language)
+","Application, business, general, web","Yes","Yes","Yes","No","Yes","Yes","No","","No"
+"ColdFusion , URL: /wiki/ColdFusion_Markup_Language
+","Web","No","Yes","No","Yes","No","No","No","","No"
+"Common Lisp , URL: /wiki/Common_Lisp
+","General","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Array-oriented , URL: https://github.com/equwal/CLAPL
+syntactic macros , URL: /wiki/Macro_(computer_science)#Syntactic_macros
+multiple dispatch , URL: /wiki/Multiple_dispatch
+","Yes 1994, ANSI"
+"COMAL , URL: /wiki/COMAL
+","Education","Yes","No","No","Yes","No","No","No","","No"
+"Crystal , URL: /wiki/Crystal_(programming_language)
+","General purpose","Yes","Yes[21]","Yes","Yes","No","No","No","Alpha stage[22]","No"
+"Curry , URL: /wiki/Curry_(programming_language)
+","Application","No","No","Yes","No","Yes","No","No","lazy evaluation , URL: /wiki/Lazy_evaluation
+","De facto standard via Curry Language Report"
+"Cython , URL: /wiki/Cython
+","numerical computing , URL: /wiki/Numerical_computing
+","Yes","Yes","Yes","No","No","Yes","No","Aspect-oriented , URL: /wiki/Aspect-oriented_programming
+","No"
+"D , URL: /wiki/D_(programming_language)
+","Application, system","Yes","Yes","Yes","Yes","Yes","Yes","No","Generative, concurrent","No"
+"Dart , URL: /wiki/Dart_(programming_language)
+","IoT , URL: /wiki/Internet_of_things
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Structured","Yes ECMA-408 standard"
+"Dylan , URL: /wiki/Dylan_(programming_language)
+","Application","No","Yes","Yes","No","No","No","No","","No"
+"Eiffel , URL: /wiki/Eiffel_(programming_language)
+","General, application, business, client-side, server-side, web (EWF)","Yes","Yes","Yes[23][24]","No","Yes","Erl-G , URL: http://se.inf.ethz.ch/old/people/leitner/erl_g
+","Agents , URL: /wiki/Eiffel_(programming_language)#Agents:
+","SCOOP , URL: https://docs.eiffel.com/book/solutions/concurrent-eiffel-scoop:
+Void-safe , URL: https://docs.eiffel.com/book/method/void-safe-programming-eiffel:
+","Yes 2005, ECMA, ISO[25]"
+"ELAN , URL: /wiki/ELAN_(programming_language)
+","Education","Yes","No","No","Yes","No","No","No","Structured , URL: /wiki/Structured_programming
+stepwise refinement , URL: /wiki/Top-down_and_bottom-up_design
+","No"
+"Elixir , URL: /wiki/Elixir_(programming_language)
+","distributed , URL: /wiki/Distributed_computing
+","No","No","Yes","No","No","Yes","Yes","Concurrent, distributed","No"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","Application, distributed","No","No","Yes","No","No","Yes","Yes","Concurrent, distributed","No"
+"Euphoria , URL: /wiki/Euphoria_(programming_language)
+","Application","No","No","No","Yes","No","Yes","No","","No"
+"Factor , URL: /wiki/Factor_(programming_language)
+","General","Yes","No","Can be viewed as","No","Yes","Yes","No","Stack-oriented , URL: /wiki/Stack-oriented_programming_language
+","No"
+"FP , URL: /wiki/FP_(programming_language)
+","","No","No","Yes","No","No","No","No","","No"
+"F# , URL: /wiki/F_Sharp_(programming_language)
+","Application","Yes","Yes","Yes","Yes","Yes","Yes","Yes","","No"
+"Forth , URL: /wiki/Forth_(programming_language)
+","General","Yes","No","Can be viewed as","No","No","No","No","Stack-oriented","Yes 1994, ANSI"
+"Fortran , URL: /wiki/Fortran
+","Application, numerical computing","Yes","Yes","Yes","Yes","Yes","No","No","Array-based, vectorized, concurrent, native distributed/shared-memory parallelism","Yes 1966, ANSI 66, ANSI 77, MIL-STD-1753, ISO 90, ISO 95, ISO 2003, ISO/IEC 1539-1:2010 (2008), ISO/IEC JTC1/SC22/WG5 N2145 (2018)"
+"FreeBASIC , URL: /wiki/FreeBASIC
+","Application, numerical computing","Yes","Yes","No","Yes","Yes","No","No","","No"
+"Gambas , URL: /wiki/Gambas
+","Application","Yes","Yes","No","No","No","No","Yes","","No"
+"Game Maker Language , URL: /wiki/Game_Maker_Language
+","Application, game programming","Yes","Yes","No","No","No","No","Yes","","No"
+"GLBasic , URL: /wiki/GLBasic
+","Application, games","Yes","Yes","No","Yes","No","No","No","Simple object-oriented","No"
+"Go , URL: /wiki/Go_(programming_language)
+","Application, web, server-side","Yes","No[26]","No","Yes","No","Yes","Yes","Concurrent","De facto standard via Go Language Specification"
+"Gosu , URL: /wiki/Gosu_(programming_language)
+","Application, general, scripting, web","Yes","Yes","No","No","Yes","Yes","No","","No"
+"GraphTalk , URL: /wiki/GraphTalk
+","Application","No","Yes","No","No","No","No","No","Logic","No"
+"Groovy , URL: /wiki/Groovy_(programming_language)
+","Application, general, scripting, web","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Meta-programming","JCP , URL: /wiki/Java_Community_Process
+"
+"Harbour , URL: /wiki/Harbour_(programming_language)
+","Application, business, data processing, general, web","Yes","Yes","Yes","Yes","Yes","Yes","No","Declarative , URL: /wiki/Declarative_programming
+","No"
+"Haskell , URL: /wiki/Haskell_(programming_language)
+","Application","No","No","Yes","No","Yes","No","No","Lazy evaluation","Yes 2010, Haskell 2010[28]"
+"Haxe , URL: /wiki/Haxe
+","Application, general, web","Yes","Yes","Yes","No","Yes","Yes","No","","No"
+"HyperNext , URL: /wiki/HyperNext
+","Application, education","No","No","No","Yes","No","No","Yes","Weakly typed , URL: /wiki/Weak_typing
+","No"
+"HyperTalk , URL: /wiki/HyperTalk
+","Application, RAD, general","No","Yes","No","No","No","No","Yes","Weakly typed","Unknown"
+"Io , URL: /wiki/Io_(programming_language)
+","Application, host-driven scripting","Yes","Yes","No","No","No","No","No","","No"
+"IPL , URL: /wiki/Information_Processing_Language
+","General","No","No","Yes","No","No","No","No","","Unknown"
+"ISLISP , URL: /wiki/ISLISP
+","General","Yes","Yes","Yes","No","Yes","No","No","","ISO , URL: /wiki/International_Organization_for_Standardization
+"
+"J , URL: /wiki/J_(programming_language)
+","Data processing","No","No","No","No","No","No","No","function-level , URL: /wiki/Function-level_programming
+","No"
+"JADE , URL: /wiki/JADE_(programming_language)
+","Application, distributed","Yes","Yes","No","No","No","No","No","","No"
+"Java , URL: /wiki/Java_(programming_language)
+","Application, business, client-side, general, mobile development, server-side, web","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Concurrent","De facto standard via Java Language Specification"
+"JavaScript , URL: /wiki/JavaScript
+","Client-side, server-side, web","Yes","Yes","Yes","Yes","No","Yes","Yes","prototype-based , URL: /wiki/Prototype-based
+","ECMA-262 , URL: /wiki/ECMA-262
+"
+"Joy , URL: /wiki/Joy_(programming_language)
+","Research","No","No","Yes","No","No","No","No","Stack-oriented","No"
+"Julia , URL: /wiki/Julia_(programming_language)
+","General, technical computing","Yes","Yes","Yes","Yes","Yes","Yes","No","Multiple dispatch, meta, scalar and array-oriented, parallel, concurrent, distributed ("cloud")","No"
+"K , URL: /wiki/K_(programming_language)
+","Data processing, business","No","No","No","No","No","No","No","Array-oriented, tacit","Unknown"
+"Kotlin , URL: /wiki/Kotlin_(programming_language)
+","Application, mobile development, server-side, client-side, web","Yes","Yes","Yes","Yes","Yes","Yes[29]","Yes","","No"
+"Ksh , URL: /wiki/KornShell
+","Shell, scripting","Yes","Yes","No","Yes","No","No","No","Several variants, custom programmable, dynamic loadable modules","POSIX.2 , URL: /wiki/POSIX.2
+"
+"LabVIEW , URL: /wiki/LabVIEW
+","Application, industrial instrumentation-automation","Yes","Yes","Yes","No","No","No","Yes","Dataflow , URL: /wiki/Dataflow_programming
+visual , URL: /wiki/Visual_programming_language
+","No"
+"Lisp , URL: /wiki/Lisp_(programming_language)
+","General","No","No","Yes","No","No","No","No","","Unknown"
+"LiveCode , URL: /wiki/LiveCode
+","Application, RAD, general","No","Yes","No","No","No","No","Yes","Weakly typed","No"
+"Logtalk , URL: /wiki/Logtalk
+","Artificial intelligence, application","No","Yes","No","No","No","Yes","Yes","Logic","No"
+"Linden Scripting Language , URL: /wiki/Linden_Scripting_Language
+","Virtual worlds content scripting and animation","Yes","No","No","Yes","No","No","Yes","Scripts exist in in-world objects","Second Life , URL: /wiki/Second_Life
+LSL , URL: /wiki/Linden_Scripting_Language
+"
+"Lua , URL: /wiki/Lua_(programming_language)
+","Application, embedded scripting","Yes","Yes[32]","Yes","Yes","No","Yes","No","Aspect-oriented, prototype-based","No[33]"
+"Maple , URL: /wiki/Maple_(software)
+","Symbolic computation, numerical computing","Yes","Yes","Yes","Yes","No","No","No","Distributed","No"
+"Mathematica , URL: /wiki/Mathematica
+","Symbolic language , URL: /wiki/Symbolic_language_(programming)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Logic, distributed","No"
+"MATLAB , URL: /wiki/MATLAB
+","Highly domain-specific, numerical computing","Yes","Yes","No","Yes","No","No","No","","No"
+"Modula-2 , URL: /wiki/Modula-2
+","Application, system","Yes","No","No","No","Yes","No","No","","Yes 1996, ISO[34]"
+"Modula-3 , URL: /wiki/Modula-3
+","Application","Yes","Yes","No","No","Yes","No","No","","No"
+"MUMPS , URL: /wiki/MUMPS
+","General, application, databases","Yes","Approved for next Standard","No","Yes","Partially Thru Indirection and Xecute","Yes","Approved for next Standard","Concurrent , URL: /wiki/Concurrent_computing
+multi-user , URL: /wiki/Multi-user
+NoSQL , URL: /wiki/NoSQL
+transaction processing , URL: /wiki/Transaction_processing
+","Yes 1977 ANSI, 1995, ISO 2020"
+"Nim , URL: /wiki/Nim_(programming_language)
+","Application, general, web, scripting, system","Yes","Yes","Yes","Yes","Yes","Yes","No","meta , URL: /wiki/Metaprogramming
+","No"
+"Oberon , URL: /wiki/Oberon_(programming_language)
+","Application, system","Yes","Yes","No","No","No","No","No","","No"
+"Object Pascal , URL: /wiki/Object_Pascal
+","Application, general, mobile app, web","Yes","Yes","No","Yes","Yes","Yes","Yes","Structured","No"
+"Objective-C , URL: /wiki/Objective-C
+","Application, general","Yes","Yes","No","Yes","No","Yes","No","Concurrent","No"
+"OCaml , URL: /wiki/OCaml
+","Application, general","Yes","Yes","Yes","Yes","Yes","No","No","","No"
+"Occam , URL: /wiki/Occam_(programming_language)
+","General","Yes","No","No","Yes","No","No","No","process-oriented , URL: /wiki/Process-oriented_programming
+","No"
+"Opa , URL: /wiki/Opa_(programming_language)
+","Web applications","Yes","No","Yes","No","Yes","No","No","Distributed","No"
+"OpenLisp , URL: /wiki/OpenLisp
+","General, Embedded Lisp Engine","Yes","Yes","Yes","No","Yes","No","No","","ISLISP , URL: /wiki/ISLISP
+ISO , URL: /wiki/International_Organization_for_Standardization
+"
+"Oxygene , URL: /wiki/Oxygene_(programming_language)
+","Application","Yes","Yes","No","No","Yes","No","No","","No"
+"Oz-Mozart , URL: /wiki/Oz_(programming_language)
+","Application, distribution, education","Yes","Yes","Yes","No","No","No","No","Concurrent, logic","No"
+"Pascal , URL: /wiki/Pascal_(programming_language)
+","Application, education","Yes","No","No","Yes","No","No","No","","Yes 1983, ISO[35]"
+"Perl , URL: /wiki/Perl
+","Application, scripting, text processing, Web","Yes","Yes","Yes","Yes","Yes","Yes","No","","No"
+"PHP , URL: /wiki/PHP
+","Server-side, web application, web","Yes","Yes[36]","Yes[37]","Yes","No","Yes","No","","De facto standard via language specification and Requests for Comments (RFCs)"
+"PL/I , URL: /wiki/PL/I
+","Application","Yes","Yes","No","Yes","No","No","No","","Yes 1969, ECMA-50 (1976)"
+"Plus , URL: /wiki/Plus_(programming_language)
+","Application, system development","Yes","No","No","Yes","No","No","No","","No"
+"PostScript , URL: /wiki/PostScript
+","Graphics, page description","Yes","No","No","Yes","No","No","No","Concatenative , URL: /wiki/Concatenative_programming_language
+stack-oriented , URL: /wiki/Stack-oriented_programming
+","Yes As the PostScript Reference Manual[38]"
+"PowerShell , URL: /wiki/Windows_PowerShell
+","Administration, application, general, scripting","Yes","Yes","Yes","Yes","No","Yes","No","Pipeline , URL: /wiki/Pipeline_programming
+","No"
+"Prolog , URL: /wiki/Prolog
+","Application, artificial intelligence","No","No","Yes","Yes","No","Yes","No","Logic, declarative","Yes 1995, ISO/IEC 13211-1:1995, TC1 2007, TC2 2012, TC3 2017"
+"PureBasic , URL: /wiki/PureBasic
+","Application","No","No","No","Yes","No","No","No","","No"
+"Python , URL: /wiki/Python_(programming_language)
+","Application, general, web, scripting, artificial intelligence, scientific computing","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Aspect-oriented","De facto standard via Python Enhancement Proposals (PEPs)"
+"R , URL: /wiki/R_(programming_language)
+","Application, statistics","Yes","Yes","Yes","Yes","No","Yes","No","","No"
+"Racket , URL: /wiki/Racket_(programming_language)
+","Education, general, scripting","No","Yes","Yes","Yes","No","Yes","No","Modular, logic, meta","No"
+"Raku , URL: /wiki/Raku_(programming_language)
+","Scripting, text processing, glue","Yes","Yes","Yes","Yes","Yes","Yes","No","Aspect-oriented, array, lazy evaluation, multiple dispatch, metaprogramming","Yes"
+"REALbasic , URL: /wiki/REALbasic
+","Application","No","No","No","Yes","No","No","No","","Unknown"
+"Rebol , URL: /wiki/Rebol
+","Distributed","Yes","Yes","Yes","Yes","No","Yes","Yes","Dialected , URL: /wiki/Dialecting
+","No"
+"REXX , URL: /wiki/REXX
+","Scripting","Yes","NetRexx , URL: /wiki/NetRexx
+Object REXX , URL: /wiki/Object_REXX
+","No","Yes","No","No","No","","Yes 1996 (ANSI X3.274-1996)"
+"RPG , URL: /wiki/IBM_RPG
+","Application, system","Yes","No","No","Yes","No","No","No","","No"
+"Ruby , URL: /wiki/Ruby_(programming_language)
+","Application, scripting, web","Yes","Yes","Yes","No","No","Yes","No","Aspect-oriented","Yes 2011(JIS X 3017), 2012(ISO/IEC 30170)"
+"Rust , URL: /wiki/Rust_(programming_language)
+","Application, server-side, system, web","Yes","Yes[39]","Yes","Yes","Yes","No[40]","Yes","Concurrent","No"
+"S , URL: /wiki/S_(programming_language)
+","Application, statistics","Yes","Yes","Yes","Yes","No","No","No","","No"
+"S-Lang , URL: /wiki/S-Lang_(programming_library)
+","Application, numerical, scripting","Yes","No","No","Yes","No","No","No","","No"
+"Scala , URL: /wiki/Scala_(programming_language)
+","Application, distributed, web","Yes","Yes","Yes","No","Yes","Yes","Yes","","De facto standard via Scala Language Specification (SLS)"
+"Scheme , URL: /wiki/Scheme_(programming_language)
+","Education, general","No","No","Yes","No","No","No","No","Extensible syntax","Yes 1998, R6RS"
+"Seed7 , URL: /wiki/Seed7
+","Application, general, scripting, web","Yes","Yes","No","No","Yes","Yes","No","Multi-paradigm, extensible, structured","No"
+"Simula , URL: /wiki/Simula
+","Education, general","Yes","Yes","No","No","No","No","Yes","discrete event simulation , URL: /wiki/Discrete_event_simulation
+multi-threaded , URL: /wiki/Multi-threaded
+","Yes 1968"
+"Small Basic , URL: /wiki/Microsoft_Small_Basic
+","Application, education, games","Yes","No","No","No","No","No","Yes","Component-oriented , URL: /wiki/Component-oriented_programming
+","No"
+"Smalltalk , URL: /wiki/Smalltalk
+","Application, general, business, artificial intelligence, education, web","Yes","Yes","Yes","Yes","No","Yes","Yes","Concurrent, declarative","Yes 1998, ANSI"
+"SNOBOL , URL: /wiki/SNOBOL
+","Text processing","No","No","No","No","No","No","No","","Unknown"
+"Standard ML , URL: /wiki/Standard_ML
+","Application","Yes","No","Yes","No","Yes","No","No","","Yes 1997, SML '97[41]"
+"Swift , URL: /wiki/Swift_(programming_language)
+","Application, general","Yes","Yes","Yes","Yes","Yes","Yes","Yes","protocol-oriented , URL: /wiki/Protocol_(object-oriented_programming)
+","No"
+"Tcl , URL: /wiki/Tcl
+","Application, scripting, web","Yes","Yes","Yes","Yes","No","Yes","Yes","","No"
+"Visual Basic , URL: /wiki/Visual_Basic_(classic)
+","Application, RAD, education, business, general, (Includes VBA), office automation","Yes","Yes","No","No","Yes","No","Yes","Component-oriented","No"
+"Visual Basic .NET","Application, RAD, education, web, business, general","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Structured, concurrent","No"
+"Visual FoxPro , URL: /wiki/Visual_FoxPro
+","Application","No","Yes","No","No","No","No","No","Data-centric, logic","No"
+"Visual Prolog , URL: /wiki/Visual_Prolog
+","Application","Yes","Yes","Yes","No","No","No","Yes","Declarative, logic","No"
+"Wolfram Language , URL: /wiki/Wolfram_Language
+","Symbolic language","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Logic, distributed","No"
+"XL , URL: /wiki/XL_(programming_language)
+","","Yes","Yes","No","No","No","No","No","concept programming , URL: /wiki/Concept_programming
+","No"
+"Xojo , URL: /wiki/Xojo
+","Application, RAD, general, web","Yes","Yes","No","Yes","No","Yes","Yes","","No"
+"XPath , URL: /wiki/XPath
+XQuery , URL: /wiki/XQuery
+","Databases, data processing, scripting","No","No","Yes","No","No","No","No","Tree-oriented , URL: /wiki/Tree_(data_structure)
+","Yes 1999 W3C XPath 1, 2010 W3C XQuery 1, 2014 W3C XPath/XQuery 3.0"
+"Zsh , URL: /wiki/Z_shell
+","Shell, scripting","Yes","No","No","Yes","No","No","No","Loadable modules","No"

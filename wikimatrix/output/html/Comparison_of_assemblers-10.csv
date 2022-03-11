@@ -1,0 +1,5 @@
+"v t e x86 assembly topics","v t e x86 assembly topics"
+"Topics","Assembly language Comparison of assemblers Disassembler Instruction set Low-level programming language Machine code Microassembler x86 assembly language"
+"Assemblers , URL: /wiki/Comparison_of_assemblers#x86_assemblers
+","A86/A386 Flat Assembler (FASM) GNU Assembler (GAS) High Level Assembly (HLA) Microsoft Macro Assembler (MASM) Netwide Assembler (NASM) Turbo Assembler (TASM) Open Watcom Assembler (WASM)"
+"Programming issues","Call stack Flags Carry flag Direction flag Interrupt flag Overflow flag Zero flag Opcode Program counter Processor register Calling conventions Instruction listings Registers"

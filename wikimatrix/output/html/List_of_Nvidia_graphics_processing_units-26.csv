@@ -1,0 +1,56 @@
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Process","Transistors (billion)","Die size (mm2)","Core config[a]","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","L2 , URL: /wiki/GPU_cache
+","Clock speeds","Clock speeds","Clock speeds","Memory","Memory","Memory","Memory","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","TDP , URL: /wiki/Thermal_design_power
+","NVLink , URL: /wiki/NVLink
+","Release price (USD)"
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Process","Transistors (billion)","Die size (mm2)","Core config[a]","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","L2 , URL: /wiki/GPU_cache
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","MT/s , URL: /wiki/Transfer_(computing)
+","GiB , URL: /wiki/Gibibyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Double precision , URL: /wiki/Double_precision_floating-point_format
+","Half precision , URL: /wiki/Half_precision_floating-point_format
+","TDP , URL: /wiki/Thermal_design_power
+","NVLink , URL: /wiki/NVLink
+","Release price (USD)"
+"GeForce GTX 1650[132]","April 23, 2019","TU117-300-A1","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","4.7","200","896:56:32:1792:0 (14) (2)","PCIe 3.0 x16","1","1485","1665","8000","4","128.0","GDDR5 , URL: /wiki/GDDR5_SDRAM
+","128","47.52","83.16","2 661.00 2 984.00","83.16 93.24","5 322.00 5 967.00","75","No","$149"
+"GeForce GTX 1650[132]","April 3, 2020[133]","TU117","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","4.7","200","896:56:32:1792:0 (14) (2)","PCIe 3.0 x16","1","1410","1590","12000","4","192.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","128","45.12","78.96","2 526.72 2 849.28","78.96 89.04","5 053.44 5 698.56","75","No","$149"
+"GeForce GTX 1650[132]","June 18, 2020[134]","TU106-125-A1","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","10.8","445","896:56:32:1792:0 (14) (2)","PCIe 3.0 x16","1","1410","1590","12000","4","192.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","128","","","2 526.72 2 849.28","78.96 89.04","5 053.44 5 698.56","","No","$149"
+"GeForce GTX 1650 Super[135]","November 22, 2019[136]","TU116-250-KA-A1[137]","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","6.6","284","1280:80:32:2560:0 (20) (3)","PCIe 3.0 x16","1.5","1530","1725","12000","4","192.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","128","48.96","122.40","3 916.80 4 416.00","122.40 138.00","7 833.60 8 832.00","100","No","$159"
+"GeForce GTX 1660[138]","March 14, 2019","TU116-300-A1","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","6.6","284","1408:88:48:2816:0 (22) (3)","PCIe 3.0 x16","1.5","1530","1785","8000","6","192.0","GDDR5 , URL: /wiki/GDDR5_SDRAM
+","192","73.44","134.64","4 308.00 5 027.00","134.64 157.08","8 616.00 10 053.00","120","No","$219"
+"GeForce GTX 1660 Super[139]","October 29, 2019","TU116-300-A1","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","6.6","284","1408:88:48:2816:0 (22) (3)","PCIe 3.0 x16","1.5","1530","1785","","6","","","192","73.44","134.64","4 308.00 5 027.00","134.64 157.08","8 616.00 10 053.00","","No",""
+"GeForce GTX 1660 Ti[140]","February 21, 2019","TU116-400-A1","TSMC , URL: /wiki/TSMC
+12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
+","6.6","284","1536:96:48:3072:0 (24) (3)","PCIe 3.0 x16","1.5","1500","1770","12000","6","288.0","72.00","192","144.00","4 608.00 5 437.44","144.00 169.92","9 216.00 10 874.88","120","$279","No",""

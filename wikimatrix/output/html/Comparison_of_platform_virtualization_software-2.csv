@@ -1,0 +1,161 @@
+"Name","floppy , URL: /wiki/Disk_image
+","ISO , URL: /wiki/ISO_image
+","folders , URL: /wiki/Directory_(computing)
+","physical disk / device","raw / flat (whole disk)","partition , URL: /wiki/Disk_partitioning
+","Parallels , URL: /wiki/Parallels_Workstation
+","QCOW , URL: /wiki/Qcow
+QEMU , URL: /wiki/QEMU
+","QCOW2 , URL: /wiki/Qcow#qcow2
+QEMU , URL: /wiki/QEMU
+","QEMU , URL: /wiki/QEMU
+","VDI , URL: /wiki/VDI_(file_format)
+VirtualBox , URL: /wiki/VirtualBox
+","VHD , URL: /wiki/VHD_(file_format)
+Connectix Virtual PC , URL: /wiki/Connectix_Virtual_PC
+","Hyper-V , URL: /wiki/Hyper-V
+","VMDK , URL: /wiki/VMDK
+VMware , URL: /wiki/VMware_Workstation
+"
+"Bochs , URL: /wiki/Bochs
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","No","v3, v4"
+"Containers, or Zones , URL: /wiki/Solaris_Containers
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Cooperative Linux , URL: /wiki/Cooperative_Linux
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"CHARON , URL: /wiki/Charon_(software)
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Denali , URL: /wiki/Denali_(operating_system)
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"DOSBox , URL: /wiki/DOSBox
+","Yes","Yes","Yes","Yes","Yes","?","No","No","DOSBox-X fork","No","No","No","No","No"
+"DOSEMU , URL: /wiki/Dosemu
+","?","?","Yes","?","?","?","?","?","?","?","?","?","?","?"
+"FreeBSD Jail , URL: /wiki/FreeBSD_Jail
+","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No"
+"GXemul , URL: /wiki/GXemul
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Hercules , URL: /wiki/Hercules_emulator
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Hyper-V , URL: /wiki/Hyper-V
+","Yes","Yes","No","Yes","No","No","No","No","No","No","No","Yes","No","No"
+"Hyper-V , URL: /wiki/Hyper-V
+","Yes","Yes","No","Yes","No","No","No","No","No","No","No","Yes","Yes","No"
+"Hyper-V , URL: /wiki/Hyper-V
+","Yes","Yes","No","Yes","No","No","No","No","No","No","No","Yes","Yes","No"
+"iCore Virtual Accounts , URL: /wiki/ICore_Virtual_Accounts
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Integrity Virtual Machines , URL: /wiki/HP_Integrity_Virtual_Machines
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"JPC (Virtual Machine) , URL: /wiki/Java_PC
+","Yes","Yes","Yes","?","Yes","?","?","?","?","?","?","?","?","?"
+"Linux-VServer , URL: /wiki/Linux-VServer
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"LynxSecure , URL: /wiki/LynxSecure
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"LXC , URL: /wiki/LXC
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"OpenVZ , URL: /wiki/OpenVZ
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Oracle VM Server for x86 , URL: /wiki/Oracle_VM_Server_for_x86
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Oracle VM Server for SPARC , URL: /wiki/Oracle_VM_Server_for_SPARC
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"OVPsim , URL: /wiki/OVPsim
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Parallels Desktop for Mac , URL: /wiki/Parallels_Desktop_for_Mac
+","?","?","?","?","?","?","Yes","?","?","?","?","?","?","?"
+"Parallels Workstation , URL: /wiki/Parallels_Workstation
+","?","?","?","?","?","?","Yes","?","?","?","?","?","?","?"
+"PearPC , URL: /wiki/PearPC
+","No","Yes","No","Yes","Yes","No","No","No","No","No","No","No","No","No"
+"PikeOS , URL: /wiki/PikeOS
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"PowerVM , URL: /wiki/PowerVM
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"QEMU , URL: /wiki/QEMU
+","Yes","Yes","Yes","Yes","Yes","Yes","read-only","Yes","Yes","Yes","Yes","Yes","except difference type","Yes"
+"QEMU , URL: /wiki/QEMU
+kqemu , URL: /wiki/Kqemu
+","?","?","?","?","?","?","?","Yes","No","No","?","?","?","?"
+"QEMU , URL: /wiki/QEMU
+qvm86 , URL: /wiki/Qvm86
+","?","?","?","Yes","Yes","?","?","Yes","Yes","?","?","?","?","Yes"
+"QuickTransit , URL: /wiki/QuickTransit
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"ScaleMP vSMP Foundation","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"SIMH , URL: /wiki/SIMH
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Simics , URL: /wiki/Simics
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Sun xVM , URL: /wiki/Sun_xVM
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"SVISTA , URL: /wiki/SVISTA
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"TRANGO , URL: /wiki/Trango_Virtual_Processors
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"User Mode Linux , URL: /wiki/User_Mode_Linux
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"VirtualBox , URL: /wiki/VirtualBox
+","Yes","Yes","With guest integration installed on guest os.","Yes[22]","Yes[22]","Yes[22]","up to v2","Yes","read-only","Yes","Yes","Yes","Can read existing disks, but not create new disks.","Yes"
+"Virtual Iron , URL: /wiki/Virtual_Iron
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Virtual PC , URL: /wiki/Microsoft_Virtual_PC
+","Yes","Yes","?","?","?","?","No","No","No","No","No","Yes","No","No"
+"Windows Virtual PC , URL: /wiki/Windows_Virtual_PC
+","Yes","Yes","?","?","?","?","No","No","No","No","No","Yes","Yes","No"
+"Virtual PC , URL: /wiki/Microsoft_Virtual_PC
+","Yes","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No"
+"VirtualLogix , URL: /wiki/VirtualLogix
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Virtual Server , URL: /wiki/Microsoft_Virtual_Server
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Synopsys (CoWare) , URL: /wiki/CoWare
+Virtual Platform , URL: /wiki/Virtual_Platform
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Virtuozzo , URL: /wiki/Virtuozzo
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"VMware ESX Server , URL: /wiki/VMware_ESX_Server
+","?","?","?","?","?","?","?","?","?","?","?","Yes","?","?"
+"VMware ESXi , URL: /wiki/VMware_ESXi
+","Yes","Yes","No","Yes","No","No","No","No","No","No","No","No","No","Yes"
+"VMware Fusion , URL: /wiki/VMware_Fusion
+","?","Yes","?","?","?","?","?","?","?","?","?","?","?","Yes"
+"VMware Server , URL: /wiki/VMware_Server
+","?","?","?","?","?","?","?","?","?","?","?","?","?","Yes"
+"VMware Workstation , URL: /wiki/VMware_Workstation
+","Yes","Yes","?","Yes","?","?","?","?","?","?","?","?","?","Yes"
+"VMware Player , URL: /wiki/VMware_Player
+","Yes","Yes","?","Partial","?","?","?","?","?","?","?","?","?","Yes"
+"Wind River , URL: /wiki/Wind_River_Systems
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Wind River , URL: /wiki/Wind_River_Systems
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Xen , URL: /wiki/Xen
+","Yes","Yes","?","Yes","Yes [23]","?","?","Yes [23]","Yes [23]","?","?","Yes [23]","?","?"
+"XCP-ng","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"XenServer , URL: /wiki/XenServer
+","Yes","Yes","?","Yes","Yes [23]","?","?","Yes [23]","Yes [23]","?","?","Yes [23]","?","?"
+"XtratuM , URL: /wiki/XtratuM
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"z/VM , URL: /wiki/Z/VM
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"LPARs , URL: /wiki/LPAR
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
+"Name","floppy , URL: /wiki/Disk_image
+","ISO , URL: /wiki/ISO_image
+","folders , URL: /wiki/Directory_(computing)
+","physical disk / device","raw / flat (whole disk)","partition , URL: /wiki/Disk_partitioning
+","Parallels , URL: /wiki/Parallels_Workstation
+","QCOW , URL: /wiki/Qcow
+QEMU , URL: /wiki/QEMU
+","QCOW2 , URL: /wiki/Qcow#qcow2
+QEMU , URL: /wiki/QEMU
+","QEMU , URL: /wiki/QEMU
+","VDI , URL: /wiki/VDI_(file_format)
+VirtualBox , URL: /wiki/VirtualBox
+","VHD , URL: /wiki/VHD_(file_format)
+Connectix Virtual PC , URL: /wiki/Connectix_Virtual_PC
+","Hyper-V , URL: /wiki/Hyper-V
+","VMDK , URL: /wiki/VMDK
+VMware , URL: /wiki/VMware_Workstation
+"

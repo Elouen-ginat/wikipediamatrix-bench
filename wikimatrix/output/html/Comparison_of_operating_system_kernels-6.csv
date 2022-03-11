@@ -1,0 +1,56 @@
+"Kernel","Acorn ADFS , URL: /wiki/Advanced_Disc_Filing_System
+","Amiga FFS , URL: /wiki/Amiga_FFS
+","APFS , URL: /wiki/APFS
+","BeFS , URL: /wiki/BeFS
+","BFS , URL: /wiki/Boot_File_System
+","cramfs , URL: /wiki/Cramfs
+","EFS , URL: /wiki/Extent_File_System
+","ext2 , URL: /wiki/Ext2
+","ext3 , URL: /wiki/Ext3
+","ext4 , URL: /wiki/Ext4
+","F2FS , URL: /wiki/F2FS
+","FAT , URL: /wiki/File_Allocation_Table
+","FreeVxFS , URL: /w/index.php?title=FreeVxFS&action=edit&redlink=1
+","HFS , URL: /wiki/Hierarchical_File_System
+","HFS+ , URL: /wiki/HFS%2B
+","HPFS , URL: /wiki/High_Performance_File_System
+","ISO 9660 , URL: /wiki/ISO_9660
+","JFFS , URL: /wiki/JFFS
+","JFFS2 , URL: /wiki/JFFS2
+","JFS , URL: /wiki/IBM_Journaled_File_System_2_(JFS2)
+","MINIX fs , URL: /wiki/MINIX_file_system
+","NSS , URL: /wiki/Novell_Storage_Services
+","NTFS , URL: /wiki/NTFS
+","OCFS , URL: /wiki/OCFS
+","QNX4 FS , URL: /wiki/QNX4_FS
+","System V FS , URL: /w/index.php?title=System_V_FS&action=edit&redlink=1
+","UDF , URL: /wiki/Universal_Disk_Format
+","UFS , URL: /wiki/Unix_File_System
+","XFS , URL: /wiki/XFS
+","ZFS , URL: /wiki/ZFS
+","ReiserFS , URL: /wiki/ReiserFS
+","Reiser4 , URL: /wiki/Reiser4
+","Btrfs , URL: /wiki/Btrfs
+","HAMMER , URL: /wiki/HAMMER_(file_system)
+","Tux3 , URL: /wiki/Tux3
+","exFAT , URL: /wiki/ExFAT
+","ReFS , URL: /wiki/ReFS
+"
+"DragonFly BSD kernel , URL: /wiki/DragonFly_BSD
+","No","No","No","No","No","No","No","Yes","No","No","No","Yes","No","No","No","No","Yes","No","No","No","No","No","limited write","No","No","No","read only","Yes","No","No","No","No","No","Yes","No","No","No"
+"FreeBSD kernel , URL: /wiki/FreeBSD
+","No","No","No","No","No","No","No","Yes","Yes","No","No","Yes","No","No","No","No","Yes","No","No","No","No","No","limited write","No","No","No","Yes","Yes","read only","Yes","read only","No","No","No","No","?","No"
+"Linux kernel , URL: /wiki/Linux_kernel
+","Yes [24]","Yes","No","read only","Yes","Yes","read only","Yes","Yes","Yes","Yes","Yes","read only","Yes","limited write (only with empty journal)","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes (Full R/W with additional userspace driver)[25]","Yes","Yes [24] [26]","write support?","Yes","Yes [24]","Yes","both FUSE and native","Yes","Yes","Yes","No","Yes","Yes","No"
+"MINIX 3 kernel , URL: /wiki/MINIX_3
+","No","No","No","No","No","No","No","Yes","No","No","No","Tools available, cannot mount","No","No","No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"NetWare kernel , URL: /wiki/Novell_NetWare
+","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","No","No","No","No","Yes","No","No","No","No","Yes","No","No","No","No","No","No","No","No","?","No"
+"ReactOS kernel , URL: /wiki/ReactOS
+","No","No","No","No","No","No","No","Yes [27]","Yes [27]","Yes [27]","No","Yes [27]","No","No","No","No","Yes [27]","No","No","No","No","No","Read only","No","No","No","Yes [27]","No","No","No","No","No","Yes [28]","No","No","No","No"
+"Solaris kernel , URL: /wiki/Solaris_(operating_system)
+","?","?","No","?","?","?","?","Yes","?","?","?","Yes","?","?","?","?","Yes","?","?","?","?","No","No","?","?","?","Yes","Yes","?","Yes","No","No","No","No","No","?","No"
+"Windows NT kernel , URL: /wiki/Architecture_of_Windows_NT#Kernel_mode
+","?","?","No","?","?","?","?","Yes [29]","Yes [30]","Yes [30]","No","Yes","?","Yes [31]","Yes [31]","No","Yes","?","?","?","?","No","Yes","?","?","?","Yes","?","?","No","No","No","Yes [28]","No","No","Yes","Yes"
+"XNU , URL: /wiki/XNU
+","No","No","Yes","No","No","No","No","Yes [32]","Yes [32]","No","No","Yes","No","Yes","Yes","No","Yes","No","No","No","No","No","Read-Only","No","No","No","Yes","Yes","No","read only","No","No","No","No","No","Yes","No"

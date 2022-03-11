@@ -1,0 +1,211 @@
+"Database Name","ACID , URL: /wiki/ACID
+","Referential integrity , URL: /wiki/Referential_integrity
+","Transactions , URL: /wiki/Database_transaction
+","locking , URL: /wiki/Lock_(computer_science)
+","Multiversion concurrency control , URL: /wiki/Multiversion_concurrency_control
+","Unicode , URL: /wiki/Unicode
+","Interface","Type inference , URL: /wiki/Type_inference
+"
+"4th Dimension , URL: /wiki/4th_Dimension_(Software)
+","Yes","Yes","Yes","?","?","Yes","GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"ADABAS , URL: /wiki/ADABAS
+","Yes","No","Yes","?","?","Yes","proprietary direct call & SQL (via 3rd party)","Yes"
+"Adaptive Server Enterprise , URL: /wiki/Adaptive_Server_Enterprise
+","Yes","Yes","Yes","Yes (Row-level locking)","Yes","Yes","API , URL: /wiki/API
+GUI , URL: /wiki/GUI
+SQL , URL: /wiki/SQL
+","Yes"
+"Advantage Database Server , URL: /wiki/Advantage_Database_Server
+","Yes","Yes","Yes","Yes (Row-level locking)","?","Yes4","API , URL: /wiki/API
+SQL , URL: /wiki/SQL
+","Yes"
+"Altibase , URL: /wiki/Altibase
+","Yes","Yes","Yes","Yes (Row-level locking)","?","Yes","API , URL: /wiki/API
+GUI , URL: /wiki/GUI
+SQL , URL: /wiki/SQL
+","Yes"
+"Apache Derby , URL: /wiki/Apache_Derby
+","Yes","Yes","Yes","Yes (Row-level locking) [50]","?","Yes","SQL , URL: /wiki/SQL
+","Yes"
+"ClustrixDB , URL: /wiki/Clustrix
+","Yes","Yes","Yes","Yes","Yes","Yes","SQL , URL: /wiki/SQL
+","Yes"
+"CockroachDB , URL: /wiki/CockroachDB
+","Yes","Yes","Yes","Yes (Row-level locking)","Yes","Yes","SQL , URL: /wiki/SQL
+","No"
+"CUBRID , URL: /wiki/CUBRID
+","Yes","Yes","Yes","Yes (Row-level locking)","?","Yes","GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"DB2 , URL: /wiki/IBM_DB2
+","Yes","Yes","Yes","Yes (Row-level locking)[51]","?","Yes","GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"Empress Embedded Database , URL: /wiki/Empress_database
+","Yes","Yes","Yes","?","?","Yes","API , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"EXASolution , URL: /wiki/EXASOL
+","Yes","Yes","Yes","?","?","Yes","API , URL: /wiki/Graphical_user_interface
+GUI , URL: /wiki/GUI
+SQL , URL: /wiki/SQL
+","Yes"
+"Firebird , URL: /wiki/Firebird_(database_server)
+","Yes","Yes","Yes","?","Yes","Yes","API , URL: /wiki/API
+SQL , URL: /wiki/SQL
+","Yes"
+"HSQLDB , URL: /wiki/HSQLDB
+","Yes","Yes","Yes","?","Yes","Yes","SQL , URL: /wiki/SQL
+","Yes"
+"H2 , URL: /wiki/H2_(DBMS)
+","Yes","Yes","Yes","?","Yes[52]","Yes","SQL , URL: /wiki/SQL
+","Yes"
+"Informix Dynamic Server , URL: /wiki/Informix_Dynamic_Server
+","Yes","Yes","Yes","Yes (Row-level locking)","Yes","Yes","SQL , URL: /wiki/SQL
+JSON , URL: /wiki/JSON
+","Yes"
+"Ingres , URL: /wiki/Ingres_(database)
+","Yes","Yes","Yes","Yes (Row-level locking)","Yes","Yes","SQL , URL: /wiki/SQL
+QUEL , URL: /wiki/QUEL_query_languages
+","Yes"
+"InterBase , URL: /wiki/InterBase
+","Yes","Yes","Yes","?","?","Yes","SQL , URL: /wiki/SQL
+","Yes"
+"Linter SQL RDBMS , URL: /wiki/Linter_SQL_RDBMS
+","Yes","Yes","DDL , URL: /wiki/Data_Definition_Language
+","Yes (Row-level locking)","?","Yes","API , URL: /wiki/API
+GUI , URL: /wiki/GUI
+SQL , URL: /wiki/SQL
+","Yes"
+"LucidDB , URL: /wiki/LucidDB
+","Yes","No","No","?","?","Yes","SQL , URL: /wiki/SQL
+","Yes"
+"MariaDB , URL: /wiki/MariaDB
+","Yes2","Yes","DDL , URL: /wiki/Data_Definition_Language
+","Yes (Row-level locking)","Yes","Yes","SQL , URL: /wiki/SQL
+","Yes"
+"MaxDB , URL: /wiki/MaxDB
+","Yes","Yes","Yes","?","?","Yes","SQL , URL: /wiki/SQL
+","Yes"
+"Microsoft Access , URL: /wiki/Microsoft_Access
+","Yes","Yes","Yes","?","?","Yes","GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"Microsoft Visual FoxPro , URL: /wiki/Microsoft_Visual_FoxPro
+","Yes","Yes","Yes","Yes (Row-level locking SMB2)","Yes","No","GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
+","Yes","Yes","Yes","Yes (Row-level locking)[55]","Yes","Yes","GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"Microsoft SQL Server Compact (Embedded Database) , URL: /wiki/SQL_Server_Compact
+","Yes","Yes","Yes","?","?","Yes","GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"Mimer SQL , URL: /wiki/Mimer_SQL
+","Yes","Yes","Yes","Optimistic locking , URL: /wiki/Optimistic_locking
+","Yes","Yes","API , URL: /wiki/API
+GUI , URL: /wiki/GUI
+SQL , URL: /wiki/SQL
+","Yes"
+"MonetDB , URL: /wiki/MonetDB
+","Yes","Yes","Yes","?","?","Yes","API , URL: /wiki/API
+SQL , URL: /wiki/SQL
+","Yes"
+"MySQL , URL: /wiki/MySQL
+","Yes2","Yes3","DDL , URL: /wiki/Data_Definition_Language
+","Yes (Row-level locking)[56]","Yes","Yes","GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"OpenEdge , URL: /wiki/OpenEdge_Database
+","Yes","Yes6","Yes","Yes (Row-level locking)","?","Yes","GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"OpenLink Virtuoso , URL: /wiki/Virtuoso_Universal_Server
+","Yes","Yes","Yes","?","?","Yes","API , URL: /wiki/API
+GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"Oracle , URL: /wiki/Oracle_Database
+","Yes","Yes","DDL , URL: /wiki/Data_Definition_Language
+","Yes (Row-level locking)[57]","Yes","Yes","API , URL: /wiki/API
+GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"Oracle Rdb , URL: /wiki/Oracle_Rdb
+","Yes","Yes","Yes","?","?","Yes","SQL , URL: /wiki/SQL
+","Yes"
+"Pervasive PSQL , URL: /wiki/Pervasive_PSQL
+","Yes","Yes","Yes","?","?","Yes","API , URL: /wiki/API
+GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"Polyhedra DBMS , URL: /wiki/Polyhedra_DBMS
+","Yes","Yes","Yes","Yes (optimistic and pessimistic cell-level locking)[58]","?","Yes","API , URL: /wiki/API
+SQL , URL: /wiki/SQL
+","Yes"
+"PostgreSQL , URL: /wiki/PostgreSQL
+","Yes","Yes","Yes","Yes (Row-level locking)[59]","Yes","Yes","API , URL: /wiki/API
+GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","No[60]"
+"Raima Database Manager , URL: /wiki/Raima_Database_Manager
+","Yes","Yes","Yes","?","Yes","Yes","SQL , URL: /wiki/SQL
+API , URL: /wiki/API
+","Yes"
+"RDM Server , URL: /wiki/RDM_Server
+","Yes","Yes","Yes","?","?","Yes","SQL , URL: /wiki/SQL
+API , URL: /wiki/API
+","Yes"
+"SAP HANA , URL: /wiki/SAP_HANA
+","Yes","Yes","Yes","Yes (Row-level locking)","Yes","Yes","API , URL: /wiki/API
+GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"solidDB , URL: /wiki/SolidDB
+","Yes","Yes","Yes","Yes (Row-level locking)","?","Yes","API , URL: /wiki/API
+SQL , URL: /wiki/SQL
+","Yes"
+"SQL Anywhere , URL: /wiki/SQL_Anywhere
+","Yes","Yes","Yes","Yes (Row-level locking)[61]","Yes[62]","Yes","API , URL: /wiki/API
+GUI , URL: /wiki/Graphical_user_interface
+HTTP(S) , URL: /wiki/HTTP
+SQL , URL: /wiki/SQL
+","Yes"
+"SQLBase , URL: /wiki/SQLBase
+","Yes","Yes","Yes","?","?","Yes","API , URL: /wiki/API
+GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"SQLite , URL: /wiki/SQLite
+","Yes","Yes","Yes","No (Database-level locking)[64]","No","Optional[65]","API , URL: /wiki/API
+SQL , URL: /wiki/SQL
+","Yes"
+"Superbase NG , URL: /wiki/Superbase_database
+","?","?","?","Yes (Record-level locking)","?","Yes","GUI , URL: /wiki/GUI
+Propietary , URL: /w/index.php?title=Propietary&action=edit&redlink=1
+ODBC , URL: /wiki/ODBC
+","Yes"
+"Teradata , URL: /wiki/Teradata
+","Yes","Yes","Yes","Yes (Hash and Partition)","?","Yes","SQL , URL: /wiki/SQL
+","Yes"
+"Tibero , URL: /wiki/Tibero
+","Yes","Yes","Yes","Yes (Row-level locking)","Yes","Yes","API , URL: /wiki/API
+GUI , URL: /wiki/Graphical_user_interface
+SQL , URL: /wiki/SQL
+","Yes"
+"UniData , URL: /wiki/UniData
+","Yes","No","Yes","?","?","Yes","Multiple","Yes"
+"UniVerse , URL: /wiki/UniVerse
+","Yes","No","Yes","?","?","Yes","Multiple","Yes"
+"Database Name","ACID , URL: /wiki/ACID
+","Referential integrity , URL: /wiki/Referential_integrity
+","Transactions , URL: /wiki/Database_transaction
+","locking , URL: /wiki/Lock_(computer_science)
+","Multiversion concurrency control , URL: /wiki/Multiversion_concurrency_control
+","Unicode , URL: /wiki/Unicode
+","Interface","Type inference , URL: /wiki/Type_inference
+"

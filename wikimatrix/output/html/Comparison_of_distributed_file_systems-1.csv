@@ -1,21 +1,71 @@
-"null","null","null","null","null","null","null","null","null"
-"Java","Apache License 2.0","HDFS, FUSE, HTTP/REST, S3","hot standby","No","Replication[1]","File[2]","2013",""
-"C++","LGPL","librados (C, C++, Python, Ruby), S3, Swift, FUSE","Yes","Yes","Pluggable erasure codes[3]","Pool[4]","2010","1 per TB of storage"
-"C","GPL","C","Yes","Yes","Replication","Volume[5]","1987",""
-"C","GPLv3","libglusterfs, FUSE, NFS, SMB, Swift, libgfapi","mirror","Yes","Reed-Solomon[6]","Volume[7]","2005",""
-"Java","Apache License 2.0","Java and C client, HTTP, FUSE[8]","transparent master failover","No","Reed-Solomon[9]","File[10]","2005",""
-"Go","Apache 2.0 or MIT","HTTP gateway, FUSE, Go client, Javascript client, command line tool","Yes","with IPFS Cluster","Replication[11]","Block[12]","2015[13]",""
-"Go","AGPLv3","POSIX, FUSE, HDFS, S3","Yes","No","Reed-Solomon","Object","2021",""
-"Go","GPLv3","HTTP(REST), CLI, C# Client, Go Client","Yes","","Replication","","2020",""
-"C++","GPLv3","POSIX, FUSE, NFS-Ganesha, Ceph FSAL (via libcephfs)","master","No","Reed-Solomon[14]","File[15]","2013",""
-"C","GPLv2","POSIX, NFS-Ganesha, NFS, SMB","Yes","Yes","No redundancy[16]","No redundancy[17]","2003",""
-"Go","AGPL3.0","AWS S3 API","Yes","Yes","Reed-Solomon[18]","Object[19]","2014",""
-"C","GPLv2","POSIX, FUSE","master","No","Replication[20]","File[21]","2008",""
-"C","IBM Public License","Virtual file system, Installable File System","","","Replication","Volume[22]","2000 [23]",""
-"C","AGPLv3 / LGPLv3","Native (Python, C, Java), HTTP/REST, S3, Swift, FUSE (POSIX, NFS, SMB, FTP)","Yes","","Pluggable erasure codes[25]","Object[26]","2015","0.5"
-"C, C++","MIT","libori, FUSE","","","Replication","Filesystem[28]","2012",""
-"C","Apache License 2.0","C++ client, FUSE (C++ server: MetaServer and ChunkServer are both in C++)","master","No","Reed-Solomon[29]","File[30]","2012",""
-"C, Python","GPLv2","FUSE, SMB, NFS, key/value","Yes","","Mojette[31]","Volume[32]","2011[33]",""
-"Go, Java","Apache License 2.0","HTTP (REST), POSIX, FUSE, S3, HDFS","requires CockroachDB, undocumented config","","Reed-Solomon[34]","Volume[35]","2015",""
-"Python","GNU GPL[36]","HTTP (browser or CLI), SFTP, FTP, FUSE via SSHFS, pyfilesystem","","","Reed-Solomon[37]","File[38]","2007",""
-"Java, C++","BSD License","libxtreemfs (Java, C++), FUSE","","","Replication[39]","File[40]","2009",""
+"Client","Written in","License","Access API"
+"BeeGFS , URL: /wiki/BeeGFS
+","C / C++","FRAUNHOFER FS (FhGFS) EULA,[41] GPLv2 client","POSIX , URL: /wiki/Posix#POSIX.1
+"
+"ObjectiveFS , URL: /wiki/ObjectiveFS
+","C","Proprietary , URL: /wiki/Proprietary_software
+","POSIX , URL: /wiki/Posix#POSIX.1
+FUSE , URL: /wiki/Filesystem_in_Userspace
+"
+"Spectrum Scale (GPFS) , URL: /wiki/GPFS
+","C, C++","Proprietary , URL: /wiki/Proprietary_software
+","POSIX , URL: /wiki/POSIX
+SMB , URL: /wiki/Server_Message_Block
+S3 , URL: /wiki/Amazon_S3
+HDFS , URL: /wiki/HDFS
+"
+"MapR-FS , URL: /wiki/MapR_FS
+","C, C++","Proprietary , URL: /wiki/Proprietary_software
+","POSIX , URL: /wiki/Posix#POSIX.1
+NFS , URL: /wiki/Network_File_System
+FUSE , URL: /wiki/Filesystem_in_Userspace
+S3 , URL: /wiki/Amazon_S3
+HDFS , URL: /wiki/Apache_Hadoop#HDFS
+"
+"PanFS , URL: https://www.panasas.com/panfs-architecture/panfs/
+","C, C++","Proprietary , URL: /wiki/Proprietary_software
+","DirectFlow , URL: /wiki/Panasas#DirectFlow
+POSIX , URL: /wiki/POSIX
+NFS , URL: /wiki/Network_File_System
+SMB/CIFS , URL: /wiki/Server_Message_Block
+HTTP , URL: /wiki/Hypertext_Transfer_Protocol
+CLI , URL: /wiki/Command-line_interface
+"
+"Infinit , URL: /w/index.php?title=Infinit_(file_system)&action=edit&redlink=1
+","C++","Proprietary , URL: /wiki/Proprietary_software
+","FUSE , URL: /wiki/Filesystem_in_Userspace
+Installable File System , URL: /wiki/Installable_File_System
+NFS , URL: /wiki/Network_File_System
+SMB , URL: /wiki/Server_Message_Block
+POSIX , URL: /wiki/Posix#POSIX.1
+CLI , URL: /wiki/Command-line_interface
+SDK , URL: /wiki/Software_Development_Kit
+"
+"Isilon OneFS , URL: /wiki/OneFS_distributed_file_system
+","C/C++","Proprietary , URL: /wiki/Proprietary_software
+","POSIX , URL: /wiki/Posix#POSIX.1
+NFS , URL: /wiki/Network_File_System
+SMB/CIFS , URL: /wiki/SMB/CIFS
+HDFS , URL: /wiki/HDFS
+HTTP , URL: /wiki/HTTP
+FTP , URL: /wiki/FTP
+CLI , URL: /wiki/Command-line_interface
+"
+"Scality , URL: /wiki/Scality
+","C","Proprietary , URL: /wiki/Proprietary_software
+","FUSE , URL: /wiki/Filesystem_in_Userspace
+NFS , URL: /wiki/Network_File_System
+REST , URL: /wiki/Representational_state_transfer
+AWS S3 , URL: /wiki/AWS_S3
+"
+"Quobyte , URL: https://www.quobyte.com/product
+","Java, C++","Proprietary , URL: /wiki/Proprietary_software
+","POSIX , URL: /wiki/Posix#POSIX.1
+FUSE , URL: /wiki/Filesystem_in_Userspace
+NFS , URL: /wiki/Network_File_System
+SMB/CIFS , URL: /wiki/SMB/CIFS
+HDFS , URL: /wiki/HDFS
+AWS S3 , URL: /wiki/AWS_S3
+TensorFlow Plugin , URL: /wiki/TensorFlow
+CLI , URL: /wiki/Command-line_interface
+"

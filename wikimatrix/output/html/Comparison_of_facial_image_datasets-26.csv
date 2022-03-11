@@ -1,0 +1,3 @@
+"Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
+"UCI Mushroom Dataset","Mushroom attributes and classification.","Many properties of each mushroom are given.","8124","Text","Classification","1987","[420]","J. Schlimmer"
+"Secondary Mushroom Dataset","Mushroom attributes and classification","Simulated data from larger and more realistic primary mushroom entries. Fully reproducible.","61069","Text","Classification","2020","[421][422]","D. Wagner et al."

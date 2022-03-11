@@ -1,0 +1,19 @@
+"ADC client","Windows , URL: /wiki/Microsoft_Windows
+","Linux , URL: /wiki/Linux
+","OS X , URL: /wiki/OS_X
+","BSD , URL: /wiki/Berkeley_Software_Distribution
+","Haiku , URL: /wiki/Haiku_(operating_system)
+"
+"AirDC++","Yes","No","No","No","No"
+"AirDC++ Web Client","No","Yes","No installable package[8]","Yes","?"
+"ApexDC++","Yes","No","No","No","No"
+"DC++","Yes","No","No","No","No"
+"jucy","Yes","Yes","Yes","No","No"
+"LinuxDC++","No","Yes","No","Yes","No"
+"EiskaltDC++","Yes","Yes","Yes","Yes","Yes"
+"FlylinkDC++","Yes","No","No","No","No"
+"RSX++","Yes","No","No","No","No"
+"TKDC++","Yes","No","No","No","No"
+"StrongDC++","Yes","No","No","No","No"
+"ncdc","No","Yes","Yes","Yes","?"
+"ADC client","Windows","Linux","OS X","BSD","Haiku"

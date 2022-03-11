@@ -1,0 +1,109 @@
+"System","reporting , URL: /wiki/Business_reporting
+","Test planning integration","Customizable workflow","Unicode support","Custom fields","SLA[6]","Plugin API[7]","Multiple projects","Full-text search , URL: /wiki/Full-text_search
+","Indexed , URL: /wiki/Index_(search_engine)
+","Indexed , URL: /wiki/Index_(search_engine)
+","Edit conflict , URL: /wiki/Edit_conflict
+"
+"Apache Bloodhound , URL: /wiki/Apache_Bloodhound
+","Yes, integrated wiki","Yes","Yes","Yes","Yes","No","Yes","Yes (as of 0.6)","Yes","Yes[8] uses Whoosh","No","No"
+"Assembla , URL: /wiki/Assembla
+","Yes, Wiki syntax, email notification, linking to Subversion commits, document manager, charts, reports, notifications","Yes","Yes","Yes","Yes","No","Yes","Yes","No","Unknown","No","No"
+"Axosoft , URL: /wiki/Axosoft
+","Yes, Team Wiki, Burndown, GitHub and TortoiseSVN integration, dashboards, custom reports for OnPremises, e-mail notifications and alerts, customer portal, RSS","No","Yes","Yes","Yes","Yes","Yes","Yes","","","","No"
+"Azure DevOps Server (Team Foundation Server) , URL: /wiki/Azure_DevOps_Server
+","Yes - workflow definitions, process documentation","Yes","Yes","Yes","Yes","No","Yes","Yes","","","","No"
+"Bugzilla , URL: /wiki/Bugzilla
+","Yes, reporting: integrated reports and charts, scheduled reports by mail","Yes[9]","Yes","Yes","Yes","No","Yes","Yes","Yes[10]","MySQL , URL: /wiki/MySQL
+Oracle Database , URL: /wiki/Oracle_Database
+","","Yes[14]"
+"Debbugs , URL: /wiki/Debbugs
+","No","No","No","Yes","No","No","No","Unknown","","","No","No"
+"Faveo Helpdesk , URL: /wiki/Faveo
+","Yes, Integrated Social Media, In-built Knowledge Base and Reporting","No","Yes","Yes","Yes","Yes","Yes","N/A","Yes","No","No","No"
+"FogBugz , URL: /wiki/FogBugz
+","Yes, Integrated wiki","No","Yes","Yes","Yes","No","Yes[15]","Yes","Yes[16]","Yes[17]","No[18]","Yes"
+"Fossil , URL: /wiki/Fossil_(software)
+","Yes, Integrated Wiki in addition to integrated versioned project documentation via web ui.","No","No","No","Yes","No","No","Yes[19]","No[20]","No","","No"
+"FusionForge , URL: /wiki/FusionForge
+","Yes, integrated Mediawiki, discussion forums, news blogs, email integration, export to CSV, reporting graphs","No","Yes","Yes","Yes","No","Yes","Yes","Yes","","","No"
+"GLPI , URL: /wiki/GLPI
+","Yes, Contains a proprietary knowledge base of sorts","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"GNATS , URL: /wiki/GNATS
+","No","No","No","No","No","No","No","Unknown","","","","No"
+"Helix ALM , URL: /wiki/Helix_ALM
+","Yes - Advanced reporting, integrated charts, export to Excel, workflow with triggers","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","","No"
+"HP Quality Center , URL: /wiki/HP_Quality_Center
+","Yes","Yes","Yes","No","Yes","No","Yes","Yes","No","No","No","No"
+"Jira , URL: /wiki/Jira_(software)
+","Confluence (Enterprise wiki) , URL: /wiki/Confluence_(software)
+","Yes[21]","Yes","Yes","Yes","Yes","Yes[22]","Yes","Yes[23]","Lucene , URL: /wiki/Lucene
+","Optional[24]","No[25]"
+"Launchpad , URL: /wiki/Launchpad_(website)
+","Yes","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","No"
+"MantisBT , URL: /wiki/Mantis_Bug_Tracker
+","MediaWiki , URL: /wiki/MediaWiki
+DokuWiki , URL: /wiki/DokuWiki
+XWiki , URL: /wiki/XWiki
+","No","Yes","Yes","Yes","No","Yes","Yes","Yes[26]","Yes","No[27]","Yes"
+"Microsoft Dynamics CRM , URL: /wiki/Microsoft_Dynamics_CRM
+","Yes, reporting: integrated charts and reports, export to Excel, Mail Merge","No","Yes","Yes","Yes","No","Yes","Unknown","","","","No"
+"org-mode , URL: /wiki/Org-mode
+","Yes, org-mode has built-in export to HTML, Latex, .md and literate programming capabilities for multiple languages in a single document","No","Yes","Yes","Yes","No","No","Yes","Yes","","","No"
+"OTRS , URL: /wiki/OTRS
+","Yes, Advanced reporting, configurable dashboards","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"Phabricator , URL: /wiki/Phabricator
+","burn down charts , URL: /wiki/Burn_down_chart
+","Yes","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","No"
+"Pivotal Tracker , URL: /wiki/Pivotal_Tracker
+","Yes, real time collaborative story backlog, integrated reports, email notification","Yes","No","Yes","No","No","Yes","Yes","","","","No"
+"Redmine , URL: /wiki/Redmine
+","Yes, integrated wiki, discussion forums, news blogs, email integration, calendars, Gantt Charts, RSS, export to PDF, export to Excel/CSV","Yes[28]","Yes","Yes","Yes","Optional[29]","Yes","Yes","Yes[30]","Optional, when using PostgreSQL[31]","Optional[32]","Yes[33]"
+"Request Tracker , URL: /wiki/Request_Tracker
+","MediaWiki , URL: /wiki/MediaWiki
+","No","Yes","Yes","Yes","Yes[35]","Yes[36]","Yes","Yes[37]","Yes[37]","","No"
+"Roundup , URL: /wiki/Roundup_(issue_tracker)
+","Yes, wiki can be integrated or linked","No, can be implemented at tracker level","Yes","Yes","Yes","No, can be implemented at tracker level","Yes[38]","Yes","Yes[39]","Yes with issues[40]","Yes","Yes"
+"StarTeam , URL: /wiki/StarTeam
+","No","Yes[41]","Yes","No","Yes","No","No","Unknown","","","","No"
+"Supportworks , URL: /wiki/Supportworks
+","wizard , URL: /wiki/Wizard_(software)
+PHP , URL: /wiki/PHP
+Crystal Reports , URL: /wiki/Crystal_Reports
+Microsoft Excel , URL: /wiki/Microsoft_Excel
+CSV , URL: /wiki/Comma-separated_values
+knowledge base , URL: /wiki/Knowledge_base
+asset management , URL: /wiki/IT_asset_management
+","No","Yes","No","Yes","Yes","Yes[42]","Unknown","","","","No"
+"SysAid , URL: /wiki/SysAid_Technologies
+","LDAP , URL: /wiki/Lightweight_Directory_Access_Protocol
+Email , URL: /wiki/Email
+integrated Asset Management , URL: /wiki/Asset_management
+SSO , URL: /wiki/Single_sign-on
+CSV , URL: /wiki/Comma-separated_values
+PDF , URL: /wiki/Portable_Document_Format
+KB , URL: /wiki/Knowledge_base
+","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Unknown","No","No"
+"Teamwork , URL: /wiki/Teamwork_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes[43]","Lucene , URL: /wiki/Lucene
+","","No"
+"Trac , URL: /wiki/Trac
+","Yes, integrated wiki","Yes[44]","Yes","Yes","Yes","No","Yes[45]","Yes[46]","Yes","No[47]","","Yes[48]"
+"TrackerSuite.Net , URL: /wiki/Tracker_(Business_Software)
+","Crystal Reports , URL: /wiki/Crystal_Reports
+Microsoft Excel , URL: /wiki/Microsoft_Excel
+","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","No","No","No"
+"Tuleap , URL: /wiki/Tuleap_(project_management)
+","Yes, Kanban boards, Scrum planning and burndown charts, pies, Gantt, barrs, cardwall, Document Manager with approval workflow and fine grained permissions, wikis","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes with plugin fulltext","Yes with plugin fulltext","No","No"
+"Wrike , URL: /wiki/Wrike_(software)
+","Gantt charts , URL: /wiki/Gantt_charts
+","No","Yes","Yes","Yes","No","Yes","Yes","Unknown","","","Yes"
+"YouTrack , URL: /wiki/YouTrack
+","Yes: Wiki syntax, custom workflow, custom issue attributes, notifications (email, jabber, RSS, etc.), email integration, reports, export to HTML and CSV, integration with VCSs.","Yes[49]","Yes","Yes","Yes","Yes[50]","Yes[51]","Yes","Yes[52]","Lucene , URL: /wiki/Lucene
+","","No"
+"Zammad , URL: /wiki/Zammad
+","Yes: Documentation integration/generation, reporting: integrated knowledge base, dashboard","No","No","Yes","Yes","Yes[53]","Yes","Yes","Yes[54]","Yes","Yes","Yes[55]"
+"System","Dynamic documentation integration/generation","Test planning integration","Customizable workflow","Unicode support","Custom fields","SLA[6]","Plugin API[7]","Multiple projects","Full-text search , URL: /wiki/Full-text_search
+","Indexed , URL: /wiki/Index_(search_engine)
+","Indexed , URL: /wiki/Index_(search_engine)
+","Edit conflict , URL: /wiki/Edit_conflict
+"

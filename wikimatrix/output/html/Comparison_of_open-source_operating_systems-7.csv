@@ -1,0 +1,43 @@
+"Operating system","Mandatory access control , URL: /wiki/Mandatory_access_control
+","executable space protection , URL: /wiki/Executable_space_protection
+","Operating system-level virtualization , URL: /wiki/Operating_system-level_virtualization
+","Virtualisation","Userspace protection","Others"
+"Linux , URL: /wiki/Linux
+","SELinux , URL: /wiki/Security-Enhanced_Linux
+AppArmor , URL: /wiki/AppArmor
+","Exec Shield , URL: /wiki/Exec_Shield
+PaX , URL: /wiki/PaX
+","Chroot , URL: /wiki/Chroot
+namespace , URL: /wiki/Namespace
+Linux-VServer , URL: /wiki/Linux-VServer
+OpenVZ , URL: /wiki/OpenVZ
+","KVM , URL: /wiki/Kernel-based_Virtual_Machine
+","IPFilter , URL: /wiki/IPFilter
+Iptables , URL: /wiki/Iptables
+","RSBAC , URL: /wiki/RSBAC
+"
+"FreeBSD , URL: /wiki/FreeBSD
+","SeBSD , URL: /w/index.php?title=SeBSD&action=edit&redlink=1
+TrustedBSD , URL: /wiki/TrustedBSD
+","ProPolice/SSP , URL: /wiki/ProPolice
+","jail , URL: /wiki/FreeBSD_jail
+","bhyve , URL: /wiki/Bhyve
+","IPFW , URL: /wiki/Ipfirewall
+PF , URL: /wiki/PF_(firewall)
+",""
+"Darwin , URL: /wiki/Darwin_(operating_system)
+","SEDarwin , URL: /w/index.php?title=SEDarwin&action=edit&redlink=1
+","","jail","","IPFW",""
+"OpenBSD , URL: /wiki/OpenBSD
+","","W^X , URL: /wiki/W%5EX
+ProPolice/SSP , URL: /wiki/ProPolice
+","","vmm[21]","PF",""
+"OpenSolaris , URL: /wiki/OpenSolaris
+illumos , URL: /wiki/Illumos
+","TrustedBSD","","Solaris Containers , URL: /wiki/Solaris_Containers
+","KVM , URL: /wiki/Kernel-based_Virtual_Machine
+","IPFilter","RBAC[23]"
+"Plan 9 , URL: /wiki/Plan_9_from_Bell_Labs
+","No","No","per-process namespaces","","",""
+"Inferno , URL: /wiki/Inferno_(operating_system)
+","No","No","per-process namespaces","","",""

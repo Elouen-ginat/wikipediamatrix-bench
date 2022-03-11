@@ -1,0 +1,58 @@
+"Software","Word for Windows","Word for Mac","Word Online","Pages","Apache OpenOffice / LibreOffice","Kile/LyX","Google Docs","RTF scan[34]","Other"
+"Bebop","No","No","No","No","No","No","No","No","none"
+"BibBase","No","No","No","No","No","No","No","No","none"
+"BibDesk","No","No","No","No","No","Yes","?","?","?"
+"Biblioscape","Yes","No","?","No","No","No","No","?","WordPerfect"
+"BibSonomy","No","No","No","No","No","No","No","No","none"
+"Bibus","Yes","?","?","?","Yes","No","No","?","none"
+"Bookends","Yes","Yes","No","Yes","Yes","No","No","Yes","Mellel , URL: /wiki/Mellel
+Nisus , URL: /wiki/Nisus_Writer
+"
+"Citavi","Yes","Yes","No","No","Only versions prior to 6.0","Yes[35]","No","Only versions prior to 6.0","LEd , URL: /wiki/LEd
+Texmaker , URL: /wiki/Texmaker
+TeXnicCenter , URL: /wiki/TeXnicCenter
+TeXstudio , URL: /wiki/TeXstudio
+TeXworks , URL: /wiki/TeXworks
+WinEdt , URL: /wiki/WinEdt
+WinShell , URL: /wiki/WinShell
+"
+"CiteULike","No","No","No","No","No","No","No","No","none"
+"colwiz","Yes","?","?","?","Yes","No","No","?","NeoOffice , URL: /wiki/NeoOffice
+"
+"EndNote","Yes","Yes","No","Yes","No[36]","No","No","Yes","No"
+"JabRef","Yes[37]","?","?","?","Yes[38]","Yes","No","?","Emacs , URL: /wiki/Emacs
+Texmaker , URL: /wiki/Texmaker
+TeXstudio , URL: /wiki/TeXstudio
+Vim , URL: /wiki/Vim_(text_editor)
+WinEdt , URL: /wiki/WinEdt
+"
+"KBibTeX","No","?","?","?","No","Yes","No","?","none"
+"Mendeley","Yes","Partial[39]","Yes[40]","No","Yes","No","No","?","NeoOffice , URL: /wiki/NeoOffice
+"
+"Paperpile","in beta","No","No","No","No","No","Yes","No","No"
+"Pybliographer","No","?","?","?","Yes","Yes","No","?","none"
+"Qiqqa","Yes","No","?","?","No","Yes","No","No","none"
+"ReadCube (now Papers)","Yes","Yes","Yes[41]","Yes[42]","Yes","No","Yes","No","Manuscripts App , URL: http://www.manuscriptsapp.com/
+"
+"refbase","No","?","?","?","Yes[43]","No","No","Yes","PIRA , URL: http://pira.isrl.uiuc.edu/
+MediaWiki , URL: /wiki/MediaWiki
+SPIP , URL: /wiki/SPIP
+"
+"RefDB","No","?","?","?","No","No","No","No","none"
+"Reference Manager","Yes","No","?","No","No","No","No","Yes","none"
+"Referencer","?","?","?","?","?","?","?","?","?"
+"RefME","?","?","?","?","?","?","?","?","?"
+"RefWorks","Yes","Yes","No","No","No","No","Yes","Yes","none"
+"SciRef","Yes","?","?","?","No","No","No","No","none"
+"Sente","Yes","?","?","Only versions prior to 5.0","No","No","No","Yes","Mellel , URL: /wiki/Mellel
+Nisus , URL: /wiki/Nisus_Writer
+"
+"Wikindx","WIP","WIP","WIP","No","WIP","No","Yes","Yes","Integrated WYSIWYG word processor (RTF output)"
+"WizFolio","Yes","?","?","?","Yes","No","Yes","?","Zoho Writer , URL: /w/index.php?title=Zoho_Writer&action=edit&redlink=1
+"
+"Zotero","Yes","Yes","No","No","Yes","(with LyZ)[44]","Yes","Yes","Logseq , URL: https://logseq.com
+NeoOffice , URL: /wiki/NeoOffice
+Obsidian , URL: https://obsidian.md
+RStudio , URL: /wiki/RStudio
+Zettlr , URL: https://zettlr.com
+"

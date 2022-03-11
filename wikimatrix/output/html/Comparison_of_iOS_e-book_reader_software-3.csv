@@ -1,0 +1,48 @@
+"Product","Book store(s)","Book search","In-app Epub import","Import via in-app Browser","OPDS catalog","Other import via","Tag books","Sort books"
+"Apabi Reader , URL: /w/index.php?title=Apabi_Reader&action=edit&redlink=1
+","Yes","Yes","Yes","No","Yes","eMail (MIME type) Built-in web server","No","Yes"
+"Blio , URL: /wiki/Blio
+","No","No","Yes","No","No","eMail (MIME type)","No","No"
+"Bluefire Reader , URL: /wiki/Bluefire_Reader
+","Free ebook libraries only","Yes","No","No","No","eMail (MIME type) iTunes File Sharing Built-in Web Server","No","Yes"
+"BookFusion , URL: /w/index.php?title=BookFusion&action=edit&redlink=1
+","Yes","Yes","Yes","No","Yes","No","Yes","Yes"
+"DL Reader , URL: /w/index.php?title=DL_Reader&action=edit&redlink=1
+","Yes","No","Yes","Yes","No","eMail (MIME type)","Yes","No"
+"eBookMobi , URL: /w/index.php?title=EBookMobi&action=edit&redlink=1
+","Free ebook libraries only","Yes","Yes","Yes","No","eMail (MIME type)","No","Yes"
+"eBookReader , URL: /w/index.php?title=EBookReader&action=edit&redlink=1
+","No","No","Yes","No","No","Built-in web server","Yes","Yes"
+"i2Reader , URL: /w/index.php?title=I2Reader&action=edit&redlink=1
+","No","Yes","Yes","Yes","Yes","Bonjour , URL: /wiki/Bonjour_(software)
+","No","Yes"
+"Apple Books , URL: /wiki/Apple_Books
+","Apple Books Store , URL: /wiki/Apple_Books_Store
+","Yes","No","No","No","eMail (MIME type)","No","Yes"
+"Kindle , URL: /wiki/Amazon_Kindle#Kindle_applications
+","No","No","No","No","No","iTunes File Sharing","No","No"
+"Kobo Reading App , URL: /wiki/Kobo_eReader
+","No","No","No","No","No","eMail (MIME type)","No","No"
+"KyBook","Free ebook libraries only","Yes","Yes","Yes","Yes","eMail (MIME type) Google Books Dropbox Google Drive Yandex Disk VK Docs Network folders iTunes File Sharing","Yes","Yes"
+"KyBook 2","Yes","Yes","Yes","Yes","Yes","eMail (MIME type) Google Books Dropbox Google Drive Yandex Disk OneDrive iCloud Could Mail.ru OwnCloud (WebDav) VK Docs Network folders (SMB/CIFS) Apple Folders App iTunes File Sharing","Yes","Yes"
+"MapleRead","Free ebook libraries only","Yes","Yes","Yes","Yes","Built-in web server Calibre (Bonjour) eMail (MIME type) Dropbox iTunes File Sharing","Yes","Yes"
+"Marvin","Free ebook libraries only","Yes","Yes","Yes","Yes","Bonjour , URL: /wiki/Bonjour_(software)
+","Yes","Yes"
+"MegaReader , URL: /w/index.php?title=MegaReader&action=edit&redlink=1
+","No","Yes","Yes","No","Yes","Bonjour , URL: /wiki/Bonjour_(software)
+","No","No"
+"PocketBook reader , URL: /w/index.php?title=PocketBook_reader&action=edit&redlink=1
+","Yes","Yes","No","Yes","Yes","iTunes File Sharing eMail (MIME type)","No","Yes"
+"ShuBook 2 , URL: /w/index.php?title=ShuBook_2&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","Yes","Bonjour , URL: /wiki/Bonjour_(software)
+","Yes","Yes"
+"SideBooks , URL: /w/index.php?title=SideBooks&action=edit&redlink=1
+","No","Yes","No","No","No","iTunes File Sharing Dropbox","No","No"
+"Stanza , URL: /wiki/Lexcycle_Stanza
+","No","Yes","Yes","No","Yes","Bonjour , URL: /wiki/Bonjour_(software)
+","Yes","Yes"
+"uBooks XL , URL: /w/index.php?title=UBooks_XL&action=edit&redlink=1
+","No","Yes","Yes","No","Yes","eMail (MIME type) iTunes File Sharing","No","Yes"
+"iBouquiniste , URL: /w/index.php?title=IBouquiniste&action=edit&redlink=1
+","Free ebook libraries only","Yes","Yes","No","Yes","eMail (MIME type)","No","Yes"
+"Product","Book store(s)","Book search","In-app Epub import","Import via in-app Browser","OPDS catalog","Other import via","Tag books","Sort books"

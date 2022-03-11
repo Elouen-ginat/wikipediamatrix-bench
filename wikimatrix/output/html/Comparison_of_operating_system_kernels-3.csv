@@ -1,0 +1,37 @@
+"Kernel Name","Container , URL: /wiki/Operating_system-level_virtualization
+","Container , URL: /wiki/Operating_system-level_virtualization
+","Container , URL: /wiki/Operating_system-level_virtualization
+","Paravirtualization , URL: /wiki/Paravirtualization
+","Full virtualization , URL: /wiki/Full_virtualization
+","User-space execution","Kernel as Library , URL: /wiki/Operating_system#Library
+","Kernel as Kernel Driver","Hypervisor-Enforced Kernel Partitioning"
+"Linux","chroot , URL: /wiki/Chroot
+","LXC , URL: /wiki/LXC
+","LXC , URL: /wiki/LXC
+","Hyper-V , URL: /wiki/Hyper-V
+Xen , URL: /wiki/Xen
+VMI , URL: /w/index.php?title=Virtual_Machine_Interface&action=edit&redlink=1
+kvm-lite , URL: /w/index.php?title=Kvm-lite&action=edit&redlink=1
+lguest , URL: /wiki/Lguest
+","KVM , URL: /wiki/Kernel-based_Virtual_Machine
+","UML , URL: /wiki/User-mode_Linux
+","(LKL)","coLinux , URL: /wiki/Cooperative_Linux
+","No"
+"DragonFly BSD kernel","chroot","jail , URL: /wiki/Operating-system-level_virtualization
+","jail , URL: /wiki/Operating-system-level_virtualization
+","No","No","vkernel","?","?","No"
+"FreeBSD kernel","chroot","jail , URL: /wiki/FreeBSD_jail
+","jail , URL: /wiki/FreeBSD_jail
+","Xen , URL: /wiki/Xen
+","BHyVe , URL: /wiki/BHyVe
+","?","?","?","No"
+"NetBSD kernel","chroot","sysjail , URL: /wiki/Sysjail
+","No","Virtio and Xen","No","?","Rump kernel , URL: /wiki/Rump_kernel
+","?","No"
+"Solaris kernel","chroot","Solaris Containers / Zones , URL: /wiki/Solaris_Zones
+","Solaris Containers / Zones , URL: /wiki/Solaris_Zones
+","No","No","No","?","?","No"
+"Windows NT kernel","AppContainers, Job Objects, Windows Server Containers","AppContainers, Job Objects, Windows Server Containers","AppContainers, Job Objects, Windows Server Containers","Hyper-V","Hyper-V","Project Drawbridge , URL: https://www.microsoft.com/en-us/research/project/drawbridge/
+","Project Drawbridge , URL: https://www.microsoft.com/en-us/research/project/drawbridge/
+","No","Virtual Secure Mode, Device Guard, Credential Guard[14]"
+"XNU","chroot","?","?","?","?","?","?","?","No"

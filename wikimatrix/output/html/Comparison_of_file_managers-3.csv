@@ -1,0 +1,86 @@
+"File manager","SMB , URL: /wiki/Server_Message_Block
+CIFS , URL: /wiki/Server_Message_Block
+","WebDAV , URL: /wiki/WebDAV
+","NFS , URL: /wiki/Network_File_System_(protocol)
+","AFP , URL: /wiki/Apple_Filing_Protocol
+","FTP , URL: /wiki/File_Transfer_Protocol
+","FISH , URL: /wiki/Files_transferred_over_shell_protocol
+SSH , URL: /wiki/Secure_Shell
+"
+"Altap Salamander , URL: /wiki/Altap_Salamander
+","Yes","No","Yes","No","Yes","Yes"
+"Commander One , URL: /wiki/Commander_One
+","Yes[n 1]","Yes","Yes[n 1]","Yes[n 1]","Yes","Yes"
+"Directory Opus , URL: /wiki/Directory_Opus
+","Yes","Yes","Yes","No","Yes","Yes (SFTP & SSL[45])"
+"Dired , URL: /wiki/Dired
+","Yes[n 1]","Yes[n 1]","Yes[n 1]","No","Yes","Yes[n 1]"
+"Dolphin , URL: /wiki/Dolphin_(file_manager)
+","Yes","Yes","Yes","?","Yes","Yes"
+"Double Commander , URL: /wiki/Double_Commander
+","Yes","?","?","?","Yes","?"
+"emelFM2 , URL: /wiki/EmelFM2
+","?","?","?","?","No","?"
+"Far Manager , URL: /wiki/Far_Manager
+","Yes","Partial[n 2]","Partial[n 3]","No","Yes","Yes[n 4]"
+"File Commander , URL: /wiki/File_Commander
+","Yes","Partial[n 2]","Partial[n 3]","No","Partial[n 5]","Partial[n 6]"
+"File Manager , URL: /wiki/File_Manager_(Windows)
+","?","?","?","?","?","?"
+"Files (Apple) , URL: /wiki/Files_(Apple)
+","","","","","",""
+"Files by Google , URL: /wiki/Files_by_Google
+","","","","","",""
+"Finder , URL: /wiki/Macintosh_Finder
+","Yes[n 1]","Yes[n 1]","Yes[n 1]","Yes[n 1]","Partial[n 1]","No"
+"ForkLift , URL: /wiki/ForkLift_(File_Manager)
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"GNOME Commander , URL: /wiki/GNOME_Commander
+","Yes","Yes","Yes","No","Yes","Yes"
+"Konqueror , URL: /wiki/Konqueror
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Krusader , URL: /wiki/Krusader
+","Yes","Yes","Yes","No","Yes","Yes"
+"muCommander , URL: /wiki/MuCommander
+","Yes","?","Yes","?","Yes","Yes"
+"Midnight Commander , URL: /wiki/Midnight_Commander
+","Yes","No","Yes","No","Yes","Yes"
+"GNOME Files (Nautilus) , URL: /wiki/GNOME_Files
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Nemo , URL: /wiki/Nemo_(file_manager)
+","Yes","?","?","?","Yes","Yes"
+"Nomad.NET , URL: /wiki/Nomad.NET
+","Yes","No","No","No","Yes","No"
+"Path Finder , URL: /wiki/Path_Finder
+","Yes","Yes","Yes","Yes","Yes (Read Access)","No"
+"PCManFM , URL: /wiki/PCMan_File_Manager
+","Yes[n 7]","?","?","?","?","?"
+"ROX-Filer , URL: /wiki/ROX-Filer
+","Yes[n 1]","Yes[n 1]","Yes[n 1]","Yes[n 1]","Yes[n 1]","Yes[n 1]"
+"Total Commander , URL: /wiki/Total_Commander
+","Yes","Yes[n 4]","Partial[n 3]","No","Yes","Yes"
+"Thunar , URL: /wiki/Thunar
+","Yes[n 7]","Yes[n 7]","Yes[n 7]","No","Yes[n 7]","Yes[n 7]"
+"Windows Explorer , URL: /wiki/Windows_Explorer
+","Yes","Yes","Yes[n 8]","No","Yes","No"
+"Xandros File Manager , URL: /wiki/Xandros_File_Manager
+","?","?","?","?","?","?"
+"Xfe , URL: /wiki/Xfe
+","?","?","?","?","?","?"
+"Xfm , URL: /wiki/Xfm_(file_manager)
+","?","?","?","?","?","?"
+"xplorer² , URL: /wiki/Xplorer%C2%B2
+","Yes","Yes[n 9]","Partial[n 3]","No","Yes","No"
+"XYplorer , URL: /wiki/XYplorer
+","Yes","Yes","Yes[n 8]","No","Yes","No"
+"ZTreeWin , URL: /wiki/ZTreeWin
+","Yes","Partial[n 5]","Partial[n 3]","No","Partial[n 5]","Partial[n 6]"
+"File manager","SMB , URL: /wiki/Server_Message_Block
+CIFS , URL: /wiki/Server_Message_Block
+","WebDAV , URL: /wiki/WebDAV
+","NFS , URL: /wiki/Network_File_System_(protocol)
+","AFP , URL: /wiki/Apple_Filing_Protocol
+","FTP , URL: /wiki/File_Transfer_Protocol
+","FISH , URL: /wiki/Files_transferred_over_shell_protocol
+SSH , URL: /wiki/Secure_Shell
+"

@@ -1,0 +1,11 @@
+"Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
+"Enron Email Dataset","Enron , URL: /wiki/Enron
+","Attachments removed, invalid email addresses converted to user@enron.com or no_address@enron.com.","~ 500,000","Text","Network analysis , URL: /wiki/Social_network_analysis
+","2004 (2015)","[196][197]","Klimt, B. and Y. Yang"
+"Ling-Spam Dataset","spam , URL: /wiki/Email_spam
+","lemmatiser , URL: /wiki/Lemmatisation
+","2,412 Ham 481 Spam","Text","Classification","2000","[198][199]","Androutsopoulos, J. et al."
+"SMS Spam Collection Dataset","Collected SMS spam messages.","None.","5,574","Text","Classification","2011","[200][201]","T. Almeida et al."
+"Twenty Newsgroups Dataset","Messages from 20 different newsgroups.","None.","20,000","Text","Natural language processing","1999","[202]","T. Mitchell et al."
+"Spambase Dataset","Spam emails.","Many text features extracted.","4,601","Text","Spam detection, classification","1999","[203]","M. Hopkins et al."
+"ColBERT Dataset","Short jokes.","Outliers removed.","200,000","Text","Humor detection, classification","2020","[204]","I. Annamoradnejad."

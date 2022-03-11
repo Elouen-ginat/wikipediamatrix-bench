@@ -1,0 +1,86 @@
+"","Range","Hash","Composite (Range+Hash)","List","Expression","Round Robin"
+"4th Dimension , URL: /wiki/4th_Dimension_(Software)
+","?","?","?","?","?","?"
+"ADABAS , URL: /wiki/ADABAS
+","?","?","?","?","?","?"
+"Adaptive Server Enterprise , URL: /wiki/Adaptive_Server_Enterprise
+","Yes","Yes","No","Yes","?","?"
+"Advantage Database Server , URL: /wiki/Advantage_Database_Server
+","No","No","No","No","?","?"
+"Altibase , URL: /wiki/Altibase
+","Yes","Yes","No","Yes","?","?"
+"Apache Derby , URL: /wiki/Apache_Derby
+","No","No","No","No","?","?"
+"ClustrixDB , URL: /wiki/Clustrix
+","Yes","No","No","No","No","?"
+"CUBRID , URL: /wiki/CUBRID
+","Yes","Yes","No","Yes","?","?"
+"IBM DB2 , URL: /wiki/IBM_DB2
+","Yes","Yes","Yes","Yes","Yes","?"
+"Empress Embedded Database , URL: /wiki/Empress_database
+","No","No","No","No","?","?"
+"EXASolution , URL: /wiki/EXASOL
+","No","Yes","No","No","No","?"
+"Firebird , URL: /wiki/Firebird_(database_server)
+","No","No","No","No","?","?"
+"HSQLDB , URL: /wiki/HSQLDB
+","No","No","No","No","?","?"
+"H2 , URL: /wiki/H2_(DBMS)
+","No","No","No","No","?","?"
+"Informix Dynamic Server , URL: /wiki/Informix_Dynamic_Server
+","Yes","Yes","Yes","Yes","Yes","Yes"
+"Ingres , URL: /wiki/Ingres_(database)
+","Yes","Yes","Yes","Yes","?","?"
+"InterBase , URL: /wiki/InterBase
+","No","No","No","No","?","?"
+"Linter SQL RDBMS , URL: /wiki/Linter_SQL_RDBMS
+","No","No","No","No","No","?"
+"MariaDB , URL: /wiki/MariaDB
+","Yes","Yes","Yes","Yes","?","?"
+"MaxDB , URL: /wiki/MaxDB
+","No","No","No","No","?","?"
+"Microsoft Access , URL: /wiki/Microsoft_Access
+","No","No","No","No","?","?"
+"Microsoft Visual Foxpro , URL: /wiki/Microsoft_Visual_Foxpro
+","No","No","No","No","?","?"
+"Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
+","Yes","via computed column","via computed column","Yes","via computed column","?"
+"Microsoft SQL Server Compact (Embedded Database) , URL: /wiki/SQL_Server_Compact
+","No","No","No","No","?","?"
+"Mimer SQL , URL: /wiki/Mimer_SQL
+","No","No","No","No","No","?"
+"MonetDB , URL: /wiki/MonetDB
+","Yes","No","No","No","Yes","?"
+"MySQL , URL: /wiki/MySQL
+","Yes","Yes","Yes","Yes","?","?"
+"OpenBase SQL , URL: /w/index.php?title=OpenBase&action=edit&redlink=1
+","?","?","?","?","?","?"
+"Oracle , URL: /wiki/Oracle_Database
+","Yes","Yes","Yes","Yes","via Virtual Columns","?"
+"Oracle Rdb , URL: /wiki/Oracle_Rdb
+","Yes","Yes","?","?","?","?"
+"OpenLink Virtuoso , URL: /wiki/Virtuoso_Universal_Server
+","Yes","Yes","Yes","Yes","Yes","?"
+"Pervasive PSQL , URL: /wiki/Pervasive_PSQL
+","No","No","No","No","No","?"
+"Polyhedra DBMS , URL: /wiki/Polyhedra_DBMS
+","No","No","No","No","No","?"
+"PostgreSQL , URL: /wiki/PostgreSQL
+","Yes","Yes","Yes","Yes","Yes","?"
+"Raima Database Manager , URL: /wiki/Raima_Database_Manager
+","Yes1","Yes1","Yes1","No","?","?"
+"RDM Server , URL: /wiki/RDM_Server
+","No","No","No","No","?","?"
+"SAP HANA , URL: /wiki/SAP_HANA
+","Yes","Yes","Yes","Yes","Yes","?"
+"solidDB , URL: /wiki/SolidDB
+","Yes","No","No","No","?","?"
+"SQL Anywhere , URL: /wiki/SQL_Anywhere
+","No","No","No","No","?","?"
+"SQLite , URL: /wiki/SQLite
+","No","No","No","No","?","?"
+"Teradata , URL: /wiki/Teradata
+","Yes","Yes","Yes","Yes","?","?"
+"UniVerse , URL: /wiki/UniVerse
+","Yes","Yes","Yes","Yes","?","?"
+"","Range","Hash","Composite (Range+Hash)","List","Expression","Round Robin"

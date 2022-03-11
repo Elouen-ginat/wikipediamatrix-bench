@@ -1,0 +1,22 @@
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory"
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","Core config1","MOperations/s","MPixels/s","MTexels/s","MVertices/s","MB , URL: /wiki/Megabyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+"
+"GeForce2 Go 100","February 6, 2001","NV11M","AGP 4x","125","332","2:0:4:2","250","250","500","0","8, 16","1.328","DDR","32"
+"GeForce2 Go","November 11, 2000","NV11M","AGP 4x","143","166 332","2:0:4:2","286","286","572","0","16, 32","2.656","SDR DDR","128 64"
+"GeForce2 Go 200","February 6, 2001","NV11M","AGP 4x","143","332","2:0:4:2","286","286","572","0","16, 32","2.656","",""

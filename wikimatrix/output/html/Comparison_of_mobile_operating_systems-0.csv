@@ -1,0 +1,119 @@
+"Feature","Android , URL: /wiki/Android_(operating_system)
+","iOS , URL: /wiki/IOS
+","Tizen , URL: /wiki/Tizen
+","Sailfish OS , URL: /wiki/Sailfish_OS
+","Ubuntu Touch , URL: /wiki/Ubuntu_Touch
+","Plasma Mobile , URL: /wiki/Plasma_Mobile
+","PureOS , URL: /wiki/PureOS
+","PostmarketOS , URL: /wiki/PostmarketOS
+","KaiOS , URL: /wiki/KaiOS
+"
+"Developed by","Google , URL: /wiki/Google
+Open Handset Alliance , URL: /wiki/Open_Handset_Alliance
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","Linux Foundation , URL: /wiki/Linux_Foundation
+Tizen Association , URL: /wiki/Tizen_Association
+Samsung , URL: /wiki/Samsung
+Intel , URL: /wiki/Intel
+","Sailfish Alliance , URL: /wiki/Sailfish_Alliance
+Mer , URL: /wiki/Mer_(software_distribution)
+Jolla , URL: /wiki/Jolla
+","Canonical Ltd. , URL: /wiki/Canonical_Ltd.
+","KDE , URL: /wiki/KDE
+Blue Systems , URL: /wiki/Blue_Systems
+","Purism , URL: /wiki/Purism_(company)
+","PostmarketOS community","TCL , URL: /wiki/TCL_Technology
+"
+"Market share[1][2]","71.90%","27.33%","0.22%","N/A","N/A","N/A","N/A","N/A","0.14%"
+"License","Free and open-source , URL: /wiki/Free_and_open-source
+","Proprietary , URL: /wiki/Proprietary_software
+kernel and core , URL: /wiki/Darwin_(operating_system)
+","Partial; both proprietary and open-source components, assorted licenses","Free and open-source , URL: /wiki/Free_and_open-source
+","Free and open-source , URL: /wiki/Free_and_open-source
+GPL , URL: /wiki/GPL
+","Free and open-source , URL: /wiki/Free_and_open-source
+GPL , URL: /wiki/GPL
+","Free and open-source , URL: /wiki/Free_and_open-source
+GPL , URL: /wiki/GPL
+","Free and open-source , URL: /wiki/Free_and_open-source
+GPL , URL: /wiki/GPL
+","Proprietary , URL: /wiki/Proprietary_software
+MPL 2.0 , URL: /wiki/Mozilla_Public_License
+B2G OS , URL: /wiki/B2G_OS
+"
+"Current version","12","15.3","4.0.0.7","4.3.0.12","16.04 OTA-18","5.16.4","9.0","alpha , URL: /wiki/Software_release_life_cycle#Alpha
+","2.6.0"
+"Development version","12L, 13","15.4","5.5 M1","Unknown","Unknown","Unknown","Unknown","N/A",""
+"Current version release dates","October 4, 2021; 4 months ago (2021-10-04)","December 13, 2021; 2 months ago (2021-12-13)","May 30, 2020; 20 months ago (2020-05-30)[4]","November 3, 2021; 3 months ago (2021-11-03)[5]","July 14, 2021; 7 months ago (2021-07-14)[6]","July 30, 2019; 2 years ago (2019-07-30)[7]","26 September 2019; 2 years ago (2019-09-26)[8]","",""
+"OS family","Linux kernel , URL: /wiki/Linux_kernel
+","Darwin , URL: /wiki/Darwin_(operating_system)
+","Linux , URL: /wiki/Linux
+Linux MeeGo , URL: /wiki/MeeGo
+Samsung Bada , URL: /wiki/Bada
+","Linux , URL: /wiki/Linux
+","Linux , URL: /wiki/Linux
+Ubuntu , URL: /wiki/Ubuntu
+","Linux , URL: /wiki/Linux
+KDE neon , URL: /wiki/KDE_neon
+","Linux , URL: /wiki/Linux
+Debian , URL: /wiki/Debian
+","Linux , URL: /wiki/Linux
+Alpine Linux , URL: /wiki/Alpine_Linux
+","Firefox OS , URL: /wiki/Firefox_OS
+Linux kernel , URL: /wiki/Linux_kernel
+"
+"Supported CPU architecture","ARM , URL: /wiki/ARM_architecture
+x86 , URL: /wiki/X86
+x86-64 , URL: /wiki/X86-64
+","64-bit ARMv8-A only","ARM , URL: /wiki/ARM_architecture
+x86 , URL: /wiki/X86
+x86-64 , URL: /wiki/X86-64
+","ARM , URL: /wiki/ARM_architecture
+x86-64 , URL: /wiki/X86-64
+","ARM , URL: /wiki/ARM_architecture
+x86-64 , URL: /wiki/X86-64
+","ARM , URL: /wiki/ARM_architecture
+","Convergence operating system","ARM, ARM64, x86, x86-64","ARM , URL: /wiki/ARM_architecture
+"
+"Programmed in","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Java , URL: /wiki/Java_(programming_language)
+Kotlin , URL: /wiki/Kotlin_(programming_language)
+","Objective-C , URL: /wiki/Objective-C
+Swift , URL: /wiki/Swift_(programming_language)
+","C++, Xamarin.Forms (.NET C#, F#, VB[10])","C++, QML, Python","HTML5 , URL: /wiki/HTML5
+QML , URL: /wiki/QML
+Go , URL: /wiki/Go_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+C++ , URL: /wiki/C%2B%2B
+C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+QML , URL: /wiki/QML
+","C++ , URL: /wiki/C%2B%2B
+QML , URL: /wiki/QML
+","","Python , URL: /wiki/Python_(scripting_language)
+shell script , URL: /wiki/Shell_script
+","HTML5, JavaScript"
+"Public issues list","Yes[11]","3rd party[12]","Yes[13]","Yes[14]","Yes[15]","Yes[16]","Yes[17]","Yes[18]","No[citation needed]"
+"DRM , URL: /wiki/Digital_restrictions_management
+","No[20] since Android 4.1[21] and Android 4.3[22] and more restrictions on Android 4.4[23]","FairPlay , URL: /wiki/FairPlay
+","Yes","Yes","Yes","Yes[citation needed]","Yes[citation needed]","Yes","?"
+"Device independent system updates","LineageOS , URL: /wiki/LineageOS
+","Yes[26]","No","Yes","Yes[27]","","","Yes.[28] Intended for use on old mobile devices","feature phones , URL: /wiki/Feature_phones
+smart phones , URL: /wiki/Smart_phones
+"
+"Wireless system updates , URL: /wiki/FOTA_(technology)
+","Yes","5+[29]","No","Yes","Yes","","","",""
+"GPU , URL: /wiki/Graphics_processing_unit
+GUI , URL: /wiki/Graphical_user_interface
+","3+[30]","Yes","Yes","Yes","Yes","","","",""
+"Feature","Android , URL: /wiki/Android_(operating_system)
+","iOS , URL: /wiki/IOS
+","Tizen , URL: /wiki/Tizen
+","Sailfish OS , URL: /wiki/Sailfish_OS
+","Ubuntu Touch , URL: /wiki/Ubuntu_Touch
+","Plasma Mobile , URL: /wiki/Plasma_Mobile
+","PureOS , URL: /wiki/PureOS
+","PostmarketOS , URL: /wiki/PostmarketOS
+","KaiOS , URL: /wiki/KaiOS
+"

@@ -1,0 +1,29 @@
+"Browser engine , URL: /wiki/Browser_engine
+","MSHTML , URL: /wiki/MSHTML
+","Gecko , URL: /wiki/Gecko_(software)
+","WebKit , URL: /wiki/WebKit
+","Presto , URL: /wiki/Presto_(browser_engine)
+","Blink , URL: /wiki/Blink_(browser_engine)
+"
+"Corresponding JavaScript engine","JScript , URL: /wiki/JScript
+Chakra , URL: /wiki/Chakra_(JScript_engine)
+","SpiderMonkey , URL: /wiki/SpiderMonkey_(JavaScript_engine)
+","JavaScriptCore , URL: /wiki/WebKit#JavaScriptCore
+","Linear B / Futhark / Carakan , URL: /wiki/Presto_(browser_engine)#ECMAScript_engines
+","V8 , URL: /wiki/V8_(JavaScript_engine)
+"
+"ECMAScript Edition 3","Yes","0.6","Yes","1.0","Yes"
+"ECMAScript Edition 5","5.0","2.0","Partial","Yes","Yes"
+"ECMAScript Edition 6","?","?","?","?","?"
+"JavaScript 1.5 extensions","No","0.6","Yes","1.0","Yes"
+"E4X , URL: /wiki/E4x
+","No","1.8","Partial","Partial","Partial"
+"JavaScript 1.7 extensions","No","1.8.1","No","Partial","No"
+"JavaScript 1.8 extensions","No","1.9","Partial","No","Partial"
+"JavaScript 1.8.1 extensions","No","1.9.1","No","No","No"
+"JScript .NET , URL: /wiki/JScript_.NET
+","No","No","No","No","No"
+"ActionScript , URL: /wiki/ActionScript
+","No","No","No","No","No"
+"E4X , URL: /wiki/E4X
+","No","Dropped[1]","No","No","No"

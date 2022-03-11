@@ -1,0 +1,42 @@
+"Kernel Name","File access control","Disable memory execution , URL: /wiki/NX_bit
+","ASLR , URL: /wiki/Address_space_layout_randomization
+","Mandatory access control , URL: /wiki/Mandatory_access_control
+","Capability-based security , URL: /wiki/Capability-based_security
+","In-kernel key management","Audit API","Sandbox , URL: /wiki/Sandbox_(computer_security)
+","SYN flood , URL: /wiki/SYN_flood
+","UDP flood , URL: /wiki/UDP_flood
+","Ping flood , URL: /wiki/Ping_flood
+","Smurf attack , URL: /wiki/Smurf_attack
+","Network Behavior Analysis , URL: /wiki/Intrusion_prevention_system
+"
+"Linux","Traditional Unix permissions , URL: /wiki/Filesystem_permissions#Traditional_Unix_permissions
+POSIX ACL , URL: /wiki/Access_control_list
+","Yes","Yes","LSM , URL: /wiki/Linux_Security_Modules
+SELinux , URL: /wiki/SELinux
+SMACK , URL: /wiki/Smack_(Linux_security_module)
+TOMOYO Linux , URL: /wiki/TOMOYO_Linux
+AppArmor , URL: /wiki/AppArmor
+","seccomp","keyctl , URL: /w/index.php?title=Keyctl&action=edit&redlink=1
+","fanotify","seccomp , URL: /wiki/Seccomp
+","SYN cookies , URL: /wiki/SYN_cookies
+","No?","No?","No?","No"
+"FreeBSD Kernel","Traditional Unix permissions , URL: /wiki/Filesystem_permissions#Traditional_Unix_permissions
+POSIX and NFSv4 ACL , URL: /wiki/Access_control_list
+","Yes","?","TrustedBSD MAC , URL: /w/index.php?title=TrustedBSD_MAC&action=edit&redlink=1
+","Capsicum","?","OpenBSM , URL: /wiki/OpenBSM
+","Capsicum, MAC framework","SYN cookies , URL: /wiki/SYN_cookies
+","?","?","?","?"
+"Solaris Kernel","Traditional Unix permissions , URL: /wiki/Filesystem_permissions#Traditional_Unix_permissions
+POSIX ACL , URL: /wiki/Access_control_list
+NFSv4 ACL , URL: /wiki/ZFS
+","Default","?","Solaris Trusted Extensions , URL: /wiki/Solaris_Trusted_Extensions
+","?","?","?","?","?","?","?","?","?"
+"Windows NT kernel","Access control list , URL: /wiki/Access_control_list
+","DEP , URL: /wiki/Data_Execution_Prevention
+","Yes","Mandatory Integrity Control , URL: /wiki/Mandatory_Integrity_Control
+","AppContainers","?","Yes","Windows Event Log","Yes[12]","?","?","?","?"
+"XNU","Traditional Unix permissions , URL: /wiki/Filesystem_permissions#Traditional_Unix_permissions
+NT/NFSv4 ACL , URL: /wiki/Access_control_list
+","Yes","Yes","TrustedBSD MAC , URL: /w/index.php?title=TrustedBSD_MAC&action=edit&redlink=1
+","?","?","OpenBSM , URL: /wiki/OpenBSM
+","Apple XNU Sandbox","?","?","?","?","?"

@@ -1,0 +1,58 @@
+"BitTorrent client","Protocol version","Magnet URI , URL: /wiki/Magnet_URI
+","Preload Magnet metadata[Note 5]","Super-seeding , URL: /wiki/Super-seeding
+","Embedded tracker , URL: /wiki/BitTorrent_tracker
+","UPnP , URL: /wiki/Universal_Plug_and_Play
+","NAT Port Mapping Protocol , URL: /wiki/NAT_Port_Mapping_Protocol
+","NAT traversal , URL: /wiki/NAT_traversal
+","DHT , URL: /wiki/Distributed_hash_table
+","Peer exchange , URL: /wiki/Peer_exchange
+","Encryption , URL: /wiki/BitTorrent_protocol_encryption
+","UDP tracker , URL: /wiki/UDP_tracker
+","LPD , URL: /wiki/Local_Peer_Discovery
+","Proxy server , URL: /wiki/Proxy_server
+"
+"BitComet , URL: /wiki/BitComet
+","1","Yes","No","Yes","Separate download","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","SOCKS , URL: /wiki/SOCKS
+"
+"BitLord , URL: /wiki/BitLord
+","1","Yes","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","HTTP 1.1, SOCKS4-4a-5"
+"BitTorrent , URL: /wiki/BitTorrent_(software)
+","1","No","No","No","Yes[Note 9]","Yes","Yes","No","Yes","Yes","Yes","No","No","Yes"
+"BitTorrent 6","1","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[Note 10]","Yes","Yes","Yes","HTTP(S), SOCKS4-5"
+"Deluge , URL: /wiki/Deluge_(software)
+","1","Yes","Partial[Note 11]","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","HTTP(S), SOCKS4-5"
+"FlashGet , URL: /wiki/FlashGet
+","1","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No"
+"Free Download Manager , URL: /wiki/Free_Download_Manager
+","1","Yes","No","No","No","No","No","No","Yes","Yes","No","No","No","No"
+"KTorrent , URL: /wiki/KTorrent
+","1","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Partial","HTTP, SOCKS4-5"
+"LimeWire , URL: /wiki/LimeWire
+","1","Partial","No","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","No","No"
+"MLDonkey , URL: /wiki/MLDonkey
+","1","Yes[55]","No","No","Yes","Yes","Yes","No","Yes","No","No","Yes","No","No"
+"μTorrent , URL: /wiki/%CE%9CTorrent
+","1","Yes","Yes[56]","Yes[57]","Yes[58]","Yes[59]","Yes","Yes[60]","Yes[Note 12]","Yes[Note 10]","Yes[61]","Yes","Yes[62]","HTTP(S), SOCKS4-5"
+"Opera 12 , URL: /wiki/Opera_(web_browser)
+","1","No","No","No","Yes[63]","No","No","No","No","Yes[64]","No","No","No","No"
+"qBittorrent , URL: /wiki/QBittorrent
+","1, 2[65]","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","HTTP(S), SOCKS4-5"
+"rTorrent , URL: /wiki/RTorrent
+","1","Yes[66]","No","Yes","No","No","No","No","Yes","Yes","Yes","Yes","No[67]","No"
+"Shareaza , URL: /wiki/Shareaza
+","1","Yes","No","No","No","Yes","Yes","No","Yes[Note 13]","Yes","No","Yes[Note 14]","No","No"
+"Tixati , URL: /wiki/Tixati
+","1","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","only with out going without DHT if anonymity required"
+"Tonido , URL: /wiki/Tonido
+","1","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No","No","No"
+"Transmission , URL: /wiki/Transmission_(BitTorrent_client)
+","1","Yes","Patch available[68][69][70]","No","No","Yes","Yes","No[71]","Yes","Yes[Note 15]","Yes","Yes","Yes","No[72]"
+"Tribler , URL: /wiki/Tribler
+","1","Yes","No","No","Yes","Yes","Yes","No","Yes","Yes","Yes","No","No","P2P , URL: /wiki/Peer-to-peer
+onion routing , URL: /wiki/Onion_routing
+"
+"Vuze , URL: /wiki/Vuze
+","1","Yes","Yes","Yes","Yes","Yes","Yes","Yes[Note 16]","Yes[Note 17]","Yes","Yes","Yes","Plugin","HTTP(S)?, SOCKS4-4a-5"
+"Xunlei , URL: /wiki/Xunlei
+","1","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","HTTP, SOCKS5, FTP"
+"BitTorrent client","Protocol version","Magnet URI","Preload Magnet metadata","Super-seeding","Embedded tracker","UPnP","NAT Port Mapping Protocol","NAT traversal","DHT","Peer exchange","Encryption","UDP tracker","LPD","Proxy server"

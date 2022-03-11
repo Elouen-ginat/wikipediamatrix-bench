@@ -1,6 +1,7 @@
 package fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Visitor;
 
 import java.util.ArrayList;
+import java.util.List;
 
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -24,18 +25,32 @@ public class CreateVisitor implements Visitor {
         this.controler = new Controler();
     }
 
+    public List<List<Balise>> depth_balise = new ArrayList<List<Balise>>();
+
     private void createChildren(Balise balise) {
         Element balise_el = balise.getElement();
         Elements children = balise_el.children();
+        
+        // Add balise to depth array
+        int depth = balise.getDepth();
+        if (depth < depth_balise.size()) {
+            this.depth_balise.get(depth).add(balise);
+        } else {
+            this.depth_balise.add(new ArrayList<Balise>());
+            this.depth_balise.get(depth).add(balise);
+        }
 
         // Add childrens to the balise
         for (Element child : children) {
-            Balise balise_child = this.controler.getBalise(child, balise);
+            Balise balise_child = this.controler.getBalise(child);
             if (balise_child != null) {
-                balise_child.setDepth(balise.getDepth() + 1);
+                balise_child.init(child, balise, depth + 1);
                 balise.addChild(balise_child);
             }
         }
+
+        // Init grid after adding children (depends on final)
+        balise.initGrid();
 
         // Recursive creation
         for (Balise child : balise.getChildren()) {
@@ -45,9 +60,6 @@ public class CreateVisitor implements Visitor {
 
     @Override
     public void Table(Table table) {
-        //Element table_el = table.getElement();
-        //Un wrap tbody element not necessary
-        //table_el.select(new Tbody().getTag()).unwrap();
         createChildren(table);
 
     }

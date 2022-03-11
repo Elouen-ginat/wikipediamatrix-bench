@@ -1,70 +1,95 @@
-"null","null","null","null","null","null","null","null","null","null","null"
-"null","null","null","null","null","null","null","null","null","null","null"
-"Windows","10.3","2016-03-16","Proprietary","Yes","Yes","No","en","EDIF, Viewlogic, more","PDF, HTML, Verilog, VHDL, EDIF, Zuken, more",""
-"POSIX[1]","2019[2]","2018-11-15","Proprietary","Yes","Yes","Yes","en","HSPICE, SPICE, Spectre netlists; Gerber, Excellon, ODB++, artwork; more","HSPICE, SPICE, Spectre netlists; Gerber, Excellon, ODB++, artwork; more","Python, Application Extension Language (proprietary; "AEL")"
-"Windows[1]","null","null","null","null","null","null","null","null","null","null"
-"SuSE[1]","null","null","null","null","null","null","null","null","null","null"
-"RHEL[1]","null","null","null","null","null","null","null","null","null","null"
-"Windows","21.5.1[3]","2021-06-22","Proprietary","Yes","Yes","Yes","Multilingual","OrCAD, Allegro, PADS Logic, PADS PCB, Expedition, DxDesigner, EAGLE, P-CAD, Gerber, STEP, Solidworks, IDF, more","3D PDF, Gerber, Gerber X2, Excellon, ODB++, DXF, STEP, OrCAD, EAGLE, more","Delphi, JS, VB"
-"Wine","null","null","null","null","null","null","null","null","null","null"
-"Windows","2019.0.0.1","2019-11-18","Proprietary","Yes","Yes, SI & PI","Yes","en","PADS, OrCAD, P-CAD, Protel, DXF, IDF","PDF, Gerber, Excellon, ODB++, DXF, IDF more","COM, macros"
-"Windows","10","2019-01","Proprietary","Yes","Yes","Yes","en","SPICE, Gerber, DXF","SPICE, PDF, Gerber, DXF",""
-"Windows","2","2021-07","Proprietary","Yes","No","Yes","en","Importer Removed since Last Version (1.3)","Gerber, Excellon, DXF, STEP, PDF","None"
-"Wine","null","null","null","null","null","null","null","null","null","null"
-"POSIX","13","2011-05-17","Proprietary","Yes","Yes, SI & PI","Yes","en, jp","EDIF, DXF, IGES, IDF, BSDL, STEP, ACIS, Gerber, Excellon, more","PDF, Gerber, Excellon, ODB++ (must request[4]), DXF, STEP, IPC D-356, IPC-2581, EPS, ACIS",""
-"Windows","null","null","null","null","null","null","null","null","null","null"
-"Unix","null","null","null","null","null","null","null","null","null","null"
-"Linux","null","null","null","null","null","null","null","null","null","null"
-"POSIX","2020","2020-06-30","Proprietary","Yes","Yes, SI & PI, IBIS-AMI/SERDES","Yes","en, jp","EDIF, DXF, IGES, IDF, BSDL, STEP, ACIS, Gerber, Excellon, more","PDF, Gerber, Excellon, ODB++ (must request[4]), DXF, STEP, IPC D-356, IPC-2581, EPS, ACIS",""
-"Windows","null","null","null","null","null","null","null","null","null","null"
-"Unix","null","null","null","null","null","null","null","null","null","null"
-"Linux","null","null","null","null","null","null","null","null","null","null"
-"Windows","9.0.3","2020-07-08","Proprietary","Yes","Yes, Spice","Yes","en","EAGLE, DXF, EDIF","Gerber, Excellon, ODB++, DXF, IDF, PDF, LPKF",""
-"Windows","9.0.3","2020-07-08","Proprietary","Yes","Yes, Spice","Yes","en","EAGLE, OrCAD, Easy-PC, NI Ultiboard, BoardMaker, DXF, PNL, EDIF","Gerber, Excellon, ODB++, DXF, IDF, PDF, LPKF",""
-"POSIX","4.2.0.1","2021-11-18","Proprietary","Yes","External (Spice netlist export)","Yes","21 languages","Altium, Eagle, KiCad, OrCAD, P-CAD, PADS, Gerber, N/C Drill, DXF, BSDL Pinlist, Netlists","Gerber, Gerber X2, Excellon, ODB++, DXF, Eagle, P-CAD, PADS, OrCAD, IPC-D-356, STEP, VRML, Pick and Place, CSV, BOM",""
-"Windows","null","null","null","null","null","null","null","null","null","null"
-"Mac","null","null","null","null","null","null","null","null","null","null"
-"Wine","null","null","null","null","null","null","null","null","null","null"
-"POSIX","9.6.2","2020-05-27","Proprietary","Yes","Ngspice","Yes","de, en, zh, hu, ru","EAGLE (XML), ACCEL (P-CAD, Altium, Protel), ULTIBOARD, Netlists, BMP, Custom","EAGLE (XML), Protel, Netlists, Images, Gerber, Gerber X2, Excellon, Sieb & Meyer, HPGL, PostScript/EPS, PDF, Images, HyperLynx, IDF, Custom","Proprietary User Language Programming (ULP)"
-"Windows","null","null","null","null","null","null","null","null","null","null"
-"Linux","null","null","null","null","null","null","null","null","null","null"
-"Mac","null","null","null","null","null","null","null","null","null","null"
-"POSIX","6.4.5","2020-08-19","Proprietary","Yes","Ngspice","Yes","en, fr, de, pl, jp, ru, es, se, ua, zh ...","Altium, EAGLE, KiCad libraries, LTspice .asc/.asy files, JSON, Spice","PDF, PNG, SVG, JSON, Gerber, Excellon, Pick and Place CSV file, CSV-formatted drill chart, Bill of Materials CSV file, Altium netlist, FreePCB netlist, PADS Layout Netlist, Spice netlist.","JSON"
-"Windows","null","null","null","null","null","null","null","null","null","null"
-"Linux","null","null","null","null","null","null","null","null","null","null"
-"Mac","null","null","null","null","null","null","null","null","null","null"
-"Chrome OS as a Web application","null","null","null","null","null","null","null","null","null","null"
-"POSIX","0.9.9[5]","2021-09-24 (2021-09-24)","GPL-3.0-or-later","Yes, + breadboard","No","Yes","en, de, nl, es, it, fr, pt, ru, zh, jp, ...","gEDA symbols, KiCad symbols, SVG","Gerber, DIY etching, BOM, SVG, PDF, EPS",""
-"Windows","null","null","null","null","null","null","null","null","null","null"
-"Linux","null","null","null","null","null","null","null","null","null","null"
-"Mac","null","null","null","null","null","null","null","null","null","null"
-"POSIX","1.10.2[6]","2020-12-22 (2020-12-22)","GPL-2.0-or-later","Yes","Yes","Yes","en","gschem netlists, image as background","Gerber, Excellon, SVG, PDF, EPS, PNG, GIF, JPEG, Specctra, XYRS","Guile (Scheme)"
-"Windows","null","null","null","null","null","null","null","null","null","null"
-"Linux","null","null","null","null","null","null","null","null","null","null"
-"Mac","null","null","null","null","null","null","null","null","null","null"
-"POSIX","6.0.1[7]","2022-01-15 (2022-01-15)","GPL-3.0-or-later","Yes","Internal: Ngspice External: SPICE netlist export","Yes","zh_CN, de, en, es, fr, it, pt, ru, ja, pl, cz","TinyCAD net lists, OrCAD EDIF, EAGLE (XML)","PDF, Gerber, Gerber X2, Excellon, netlist, VRML2, STEP, IDFv3","Python"
-"Windows","null","null","null","null","null","null","null","null","null","null"
-"Linux","null","null","null","null","null","null","null","null","null","null"
-"Mac","null","null","null","null","null","null","null","null","null","null"
-"Windows","12.0.2.3","2019-11-18","Proprietary","Yes","Yes","No","en, jp","HSPICE, PSPICE, SPICE3, netlists, Images, IBIS, Touchstone","SPICE text file, netlist, BOM, Protel, Accel, OrCad, PADS netlists, Schematic and Analysis Plots Images, Numeric Output Text, Excel",""
-"Wine","null","null","null","null","null","null","null","null","null","null"
-"Windows","14.2 [8]","2019-05-19","Proprietary","Yes","Yes","Yes","en","MS*, MP*, EWB, Spice, OrCAD, UltiCap, Protel, Gerber, DXF, Ultiboard 4&5, Calay","BOM, Gerber, Excellon, IGES (3D), DXF (2D & 3D), SVG",""
-"Web application[9]","null","null","null","null","null","null","null","null","null","null"
-"Windows","17.2","2016-10","Proprietary","Yes","Yes","Yes","en","EAGLE, PADS, Altium, STEP, DXF, IDF, IDX, OrCAD SDT, OrCAD Layout,OrCAD","PDF, Gerber, Gerber X2, Excellon drill/route, netlist, ODB++, DXF, IDF, IDX, STEP,3D PDF, IPC2581","Tcl/TK, SKILL (Lisp)"
-"POSIX","3.0.2","2021-11-04 (2021-11-04)","GPL-2.0-or-later","No","external: OpenEMS","Yes","en","gschem netlists, Protel Autotrax, KiCad (legacy & s-expr layouts), EAGLE (XML & v3,4,5 binary layouts), eeschema netlists, mentor netlists, TinyCad netlists, Calay netlist, FreePCB/easyEDA netlist, LT-Spice, MUCS, Mentor Graphics Hyperlynx, image (BMP, JPG, GIF, PNG), HPGL, BXL, Specctra (DSN), PADS","Gerber/[Excellon format|drill],SVG, PDF, EPS, PNG, GIF, JPEG, Specctra (DSN), PADS, Protel Autotrax, KiCad (legacy & s-expr), DXF, FidocadJ, Mentor Graphics Hyperlynx, template configurable XYRS/BOM","Python, lua, perl, tcl, AWK (multiple dialects), lisp & scheme (multiple dialects), javascript, ruby, pascal, BASIC"
-"Windows","null","null","null","null","null","null","null","null","null","null"
-"Linux","null","null","null","null","null","null","null","null","null","null"
-"Mac","null","null","null","null","null","null","null","null","null","null"
-"Windows","8.11","2020-09-01","Proprietary","Yes","Yes","Yes","en","Gerber, BMP, DXF","PDF, Gerber, GerberX2, Excellon, ODB++, DXF, IDF, PKP, testpoint file, metafile, BMP.","internal script"
-"Windows","10.0","2018-10-01","Proprietary","Yes","Yes","Yes","en","Allegro, Altium, CadStar, EAGLE, OrCAD, PADS, P-CAD, Protel, Gerber, STEP, DXF, IDF, more","Gerber, Gerber X2, Excellon, ODB++, IPC-2581, PDF, DXF, STEP, IDF, BOM, more","Proprietary language, ActiveX"
-"Wine","null","null","null","null","null","null","null","null","null","null"
-"Windows","30.2.0.63","2020-12-14","Proprietary","Yes","Yes","Yes","en, de, fr","EAGLE, DXF, Gerber, Gerber, Excellon, BMP, CXF, STEP 3D","Gerber, Gerber X2, Excellon, EAGLE, HPGL, G-Code (Milling), CXF, STEP 3D, Excel BOMs, Pick&Place, GenCAD, FABmaster, IPC D-356, Test points, Netlists, OBJ, POV-Ray, PDF","Package generator scripts, BOM scripts, printing and PDF generator scripts, 3D scripts"
-"Wine","null","null","null","null","null","null","null","null","null","null"
-"POSIX","N/A","2019-05-10","Proprietary","Yes","No","Yes","en","Altium, OrCad, PDF, OpenJSON, EAGLE","PDF, Gerber, Excellon, netlist, PADS Layout Netlist, Tempo Automation, Pick and Place CSV, High-Res PNG, STL, CSV-formatted drill chart, CSV-formatted list of all parts",""
-"Windows","null","null","null","null","null","null","null","null","null","null"
-"Web application","null","null","null","null","null","null","null","null","null","null"
-"POSIX","N/A","","Proprietary","Yes, + breadboard","Yes","Yes","en","EAGLE","Gerber",""
-"Windows","null","null","null","null","null","null","null","null","null","null"
-"Web application","null","null","null","null","null","null","null","null","null","null"
-"null","null","null","null","null","null","null","null","null","null","null"
-"null","null","null","null","null","null","null","null","null","null","null"
+"Name","Architecture","License","Autorouter , URL: /wiki/Routing_(EDA)
+","Comment"
+"Electric , URL: /wiki/Electric_(software)
+","*BSD , URL: /wiki/FreeBSD
+Java , URL: /wiki/Java_(programming_language)
+","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","VLSI , URL: /wiki/Very-large-scale_integration
+PCB , URL: /wiki/Printed_circuit_board
+"
+"FreePCB , URL: /wiki/FreePCB
+","w32 , URL: /wiki/Microsoft_Windows
+","GPL","Yes","printed circuit board , URL: /wiki/Printed_circuit_board
+Microsoft Windows , URL: /wiki/Microsoft_Windows
+metric , URL: /wiki/Metric_system
+US customary units , URL: /wiki/US_customary_units
+Gerber format , URL: /wiki/Gerber_format
+FreeRouting , URL: /w/index.php?title=FreeRouting&action=edit&redlink=1
+Specctra , URL: /wiki/Specctra
+"
+"Fritzing , URL: /wiki/Fritzing
+","Windows , URL: /wiki/Microsoft_Windows
+Mac , URL: /wiki/Mac_OS_X
+Linux , URL: /wiki/Linux
+","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","Arduino , URL: /wiki/Arduino
+Raspberry Pi , URL: /wiki/Raspberry_Pi
+"
+"gEDA , URL: /wiki/GEDA
+","*BSD , URL: /wiki/FreeBSD
+Linux , URL: /wiki/Linux
+Mac , URL: /wiki/Mac_OS_X
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","schematic, simulation, PCB editor, gerber view"
+"Gnucap , URL: /wiki/Gnucap
+","any (C++98)","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No","Mixed-signal circuit simulator"
+"Icarus Verilog , URL: /wiki/Icarus_Verilog
+","*BSD , URL: /wiki/FreeBSD
+Linux , URL: /wiki/Linux
+Mac , URL: /wiki/Mac_OS_X
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No","Verilog , URL: /wiki/Verilog
+"
+"KiCad , URL: /wiki/KiCad
+","Linux , URL: /wiki/Linux
+Mac , URL: /wiki/Mac_OS_X
+Windows , URL: /wiki/Microsoft_Windows
+","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","FreeRouting","Full package for schematic and board design, etc. Design rule checking. User-defined symbols and footprints. Gerber/ drill file creation. Graphic interface. Active user community."
+"KTechLab , URL: /wiki/KTechLab
+","Linux , URL: /wiki/Linux
+","GPL","No","KTechLab is a schematic capture and simulator. It is specifically geared toward mixed signal simulation of analog components and small digital processors."
+"Magic , URL: /wiki/Magic_(software)
+","Linux","BSD license","No","very-large-scale integration , URL: /wiki/Very-large-scale_integration
+"
+"Ngspice , URL: /wiki/Ngspice
+","Linux , URL: /wiki/Linux
+Solaris , URL: /wiki/Solaris_(operating_system)
+Mac , URL: /wiki/Mac_OS_X
+NetBSD , URL: /wiki/NetBSD
+FreeBSD , URL: /wiki/FreeBSD
+w32 , URL: /wiki/Microsoft_Windows
+","BSD-3-Clause , URL: /wiki/BSD_licenses
+","No","SPICE , URL: /wiki/SPICE
+"
+"Oregano , URL: /wiki/Oregano_(software)
+","","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No","Schematic capture + spice simulation"
+"Quite Universal Circuit Simulator , URL: /wiki/Quite_Universal_Circuit_Simulator
+","Linux , URL: /wiki/Linux
+Solaris , URL: /wiki/Solaris_(operating_system)
+Mac , URL: /wiki/Mac_OS_X
+NetBSD , URL: /wiki/NetBSD
+FreeBSD , URL: /wiki/FreeBSD
+w32 , URL: /wiki/Microsoft_Windows
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No","Schematic capture , URL: /wiki/Schematic_capture
+"
+"pcb-rnd , URL: /wiki/Pcb-rnd
+","*BSD , URL: /wiki/FreeBSD
+Linux , URL: /wiki/Linux
+Mac , URL: /wiki/Mac_OS_X
+w32 , URL: /wiki/Microsoft_Windows
+","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","DRC , URL: /wiki/Design_rule_checking
+"
+"Verilator , URL: /wiki/Verilator
+","Posix","LGPL-3.0-only , URL: /wiki/GNU_Lesser_General_Public_License
+Artistic-2.0 , URL: /wiki/Artistic_License
+","No","SystemC , URL: /wiki/SystemC
+ModelSim , URL: /wiki/ModelSim
+"
+"XCircuit , URL: /wiki/XCircuit
+","Unix , URL: /wiki/Unix
+","GPL","No","Used to produce netlists and publish high-quality drawings."

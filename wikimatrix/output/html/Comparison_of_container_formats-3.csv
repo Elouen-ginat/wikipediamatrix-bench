@@ -1,0 +1,71 @@
+"Format","Type","License[a]","MKV , URL: /wiki/Matroska
+","MP4 , URL: /wiki/MPEG-4_Part_14
+","QTFF , URL: /wiki/QuickTime_File_Format
+","ASF , URL: /wiki/Advanced_Systems_Format
+","AVI , URL: /wiki/Audio_Video_Interleave
+","MXF , URL: /wiki/Material_eXchange_Format
+","PS , URL: /wiki/MPEG_program_stream
+TS , URL: /wiki/MPEG_transport_stream
+","M2TS , URL: /wiki/.m2ts
+","VOB , URL: /wiki/VOB
+","EVO , URL: /wiki/Enhanced_VOB
+","3GP, 3G2 , URL: /wiki/3GP_and_3G2
+","F4V , URL: /wiki/Flash_Video
+","FLV , URL: /wiki/Flash_Video
+","Ogg , URL: /wiki/Ogg
+","WebM , URL: /wiki/WebM
+"
+"SubRip , URL: /wiki/SubRip
+","Formatted text , URL: /wiki/Formatted_text
+","Open source","Yes[112]","TTXT , URL: /wiki/MPEG-4_Part_17
+","TTXT , URL: /wiki/MPEG-4_Part_17
+","SAMI , URL: /wiki/SAMI
+","Needs alterations[95]","As SMPTE-TT","No","No","No","No","TTXT , URL: /wiki/MPEG-4_Part_17
+","TTXT , URL: /wiki/MPEG-4_Part_17
+","No","As Ogg Kate[114]","WebVTT , URL: /wiki/WebVTT
+"
+"WebVTT , URL: /wiki/WebVTT
+","Formatted text , URL: /wiki/Formatted_text
+","Open source","Yes[115]","Yes[116]","TTXT , URL: /wiki/MPEG-4_Part_17
+","No","No","As SMPTE-TT","No","No","No","No","TTXT , URL: /wiki/MPEG-4_Part_17
+","TTXT , URL: /wiki/MPEG-4_Part_17
+","ActionScript , URL: /wiki/ActionScript
+","No","Yes"
+"ASS , URL: /wiki/Advanced_SubStation_Alpha
+SSA , URL: /wiki/SubStation_Alpha
+","Formatted text , URL: /wiki/Formatted_text
+","Open source","Yes[118]","No","No","No","Needs alterations[95]","As SMPTE-TT","No","No","No","No","No","No","No","No","No"
+"TTXT , URL: /wiki/MPEG-4_Part_17
+","XML , URL: /wiki/XML
+","Patent encumbered","No[vii]","Yes","Yes[46]","No","No","No","No","No","No","No","Yes","Yes[34]","No","No","No"
+"USF , URL: /wiki/Universal_Subtitle_Format
+","XML , URL: /wiki/XML
+","Proprietary , URL: /wiki/Proprietary_software
+","Planned","No","No","No","Needs alterations","No","No","No","No","No","No","No","No","No","No"
+"SAMI , URL: /wiki/SAMI
+","HTML , URL: /wiki/HTML
+","Proprietary , URL: /wiki/Proprietary_software
+","No","No","No","Yes","Needs alterations","As SMPTE-TT","No","No","No","No","No","No","No","No","No"
+"VobSub , URL: /wiki/VSFilter
+","Picture","Patent encumbered","Mature[viii]","Yes","Not standard","No","Needs alterations","No","No","As PGS[ix]","Yes","No","No","No","No","No","No"
+"PGS[x]","Picture","Patent encumbered","Mature[viii]","VobSub , URL: /wiki/VSFilter
+","No","No","No","No","No","Blu-ray","VobSub , URL: /wiki/VSFilter
+","HD DVD , URL: /wiki/HD_DVD
+","No","No","No","No","No"
+"DVB-SUB , URL: /wiki/Digital_Video_Broadcasting#Content
+","Picture","Patent encumbered","Mature[viii]","No","No","No","No","Yes[122]","Yes","No","No","No","No","No","No","No","No"
+"Ogg Kate[123]","formatted text , URL: /wiki/Formatted_text
+","Open source","Mature[viii]","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No"
+"TextST[x]","Text stream","Patent encumbered","Beta , URL: /wiki/Software_release_life_cycle#Beta
+","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No"
+"MicroDVD , URL: /wiki/MicroDVD
+","Plain text , URL: /wiki/Plain_text
+","Proprietary , URL: /wiki/Proprietary_software
+","No","No","No","No","Needs alterations","No","No","No","No","No","No","No","No","As Ogg Writ[xi]","No"
+"Other","Other","Varies","Generic bitmap images, generic plain text[54]","BIFS , URL: /wiki/MPEG-4_Part_11
+","SMIL , URL: /wiki/Synchronized_Multimedia_Integration_Language
+EIA-608 , URL: /wiki/EIA-608
+","—","XSUB , URL: /wiki/XSUB
+","SMPTE-TT, EBU-TT[109][126]","CEA-708","—","—","—","—","—","—","Ogg Writ[xi]","—"
+"Obsolete","Other","—","—","—","—","—","—","—","—","—","—","—","—","—","—","CMML , URL: /wiki/Continuous_Media_Markup_Language
+","—"

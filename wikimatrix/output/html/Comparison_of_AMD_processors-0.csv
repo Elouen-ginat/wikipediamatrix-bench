@@ -1,0 +1,3236 @@
+"Architecture , URL: /wiki/Microarchitecture
+","Fabrication (nm) , URL: /wiki/Semiconductor_device_fabrication
+","Family","Release Date","Code name","Model Group","Cores","SMT , URL: /wiki/Simultaneous_multithreading
+","Clock rate , URL: /wiki/Clock_rate
+MHz , URL: /wiki/Hertz
+","Bus , URL: /wiki/Bus_(computing)
+","Cache","Cache","Cache","Socket , URL: /wiki/CPU_socket
+","Memory Controller","Features","Features","Features"
+"Architecture , URL: /wiki/Microarchitecture
+","Fabrication (nm) , URL: /wiki/Semiconductor_device_fabrication
+","Family","Release Date","Code name","Model Group","Cores","SMT , URL: /wiki/Simultaneous_multithreading
+","Clock rate , URL: /wiki/Clock_rate
+MHz , URL: /wiki/Hertz
+","Bus , URL: /wiki/Bus_(computing)
+","L1 , URL: /wiki/CPU_cache
+","L2 , URL: /wiki/CPU_cache
+","L3 , URL: /wiki/CPU_cache
+","Socket , URL: /wiki/CPU_socket
+","Memory Controller","SIMD , URL: /wiki/SIMD
+","Speed/Power","Other"
+"Am386","","Am386 , URL: /wiki/Am386
+","","Sx/SxL/SxLV[1]","","1","No","25-40[1]","","","","","100 PQFP[1]","","","",""
+"Am486[2]","500, 350","Am486 , URL: /wiki/Am486
+","","25-120","PGA , URL: /wiki/Pin_grid_array
+","1","No","","","8","","","","","","",""
+"Am486[2]","500, 350","Am486 , URL: /wiki/Am486
+","","","","1","No","66-120","","8, 8/16","","","PGA , URL: /wiki/Pin_Grid_Array
+","","","",""
+"Am5x86","350","Am5x86 , URL: /wiki/Am5x86
+","","X5-133","","1","No","133","33","16","","","Socket 3 , URL: /wiki/Socket_3
+Socket 2 , URL: /wiki/Socket_2
+Socket 1 , URL: /wiki/Socket_1
+","","","",""
+"K5","500, 350","AMD K5 , URL: /wiki/AMD_K5
+","","SSA/5, 5k86","","1","No","75–133","50, 60, 66","8+16","0","","Socket 5 , URL: /wiki/Socket_5
+Socket 7 , URL: /wiki/Socket_7
+","","","",""
+"K6","350, 250","AMD K6 , URL: /wiki/AMD_K6
+","","Model 6, Littlefoot","","1","No","166-300","50, 60, 66","32+32","0","","Socket 7 , URL: /wiki/Socket_7
+","","MMX , URL: /wiki/MMX_(instruction_set)
+","",""
+"K6","250, 180","AMD K6-2 , URL: /wiki/AMD_K6-2
+","","Chomper, Chomper Extended, mobile","","1","No","166-550","66, 95, 97, 100","32+32","0, 128","","Super Socket 7 , URL: /wiki/Super_Socket_7
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow! , URL: /wiki/3DNow!
+","",""
+"K6","250, 180","K6-3 , URL: /wiki/AMD_K6-III
+","","Sharptooth","","1","No","400-550","66, 95, 96.2, 100","32+32","256","512, 1024","Super Socket 7 , URL: /wiki/Super_Socket_7
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow! , URL: /wiki/3DNow!
+","",""
+"K7","250","Athlon , URL: /wiki/Athlon
+","","Argon","","1","No","500-700","100","64+64","512","","Slot A , URL: /wiki/Slot_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow! , URL: /wiki/3DNow!
+","",""
+"K7","180","Athlon , URL: /wiki/Athlon
+","","Pluto/Orion","","1","No","550-1000","100","64+64","512","","Slot A , URL: /wiki/Slot_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow! , URL: /wiki/3DNow!
+","",""
+"K7","180","Athlon , URL: /wiki/Athlon
+","","Thunderbird","","1","No","1000-1400","100","64+64","256","","Slot A , URL: /wiki/Slot_A
+Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow! , URL: /wiki/3DNow!
+","",""
+"K7","180","Athlon XP/MP , URL: /wiki/Athlon_XP
+","","Palomino","1500+ - 2100+","1","No","1333-1733","133","64+64","256","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","130","Athlon XP/MP , URL: /wiki/Athlon_XP
+","","Thoroughbred","1600+ - 2800+","1","No","1400-2250","133, 166, 200","64+64","256","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","130","Athlon XP/MP , URL: /wiki/Athlon_XP
+","","Thorton","2000+ - 3100+","1","No","1667-2200","133, 166, 200","64+64","256","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","130","Athlon XP/MP , URL: /wiki/Athlon_XP
+","","Barton","2500+ - 3200+","1","No","1833-2333","133, 166, 200","64+64","512","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","180","Duron , URL: /wiki/Duron
+","","Spitfire","","1","No","600-950","100","64+64","64","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","180","Duron , URL: /wiki/Duron
+","","Morgan","","1","No","900-1300","100","64+64","64","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","130","Duron , URL: /wiki/Duron
+","","Applebred","","1","No","1400, 1600, 1800","133","64+64","64","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","180","Athlon 4","","Corvette","","1","No","850-1400","100","64+64","256","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","130","Athlon XP-M","","Thoroughbred","","1","No","1400-2133","100, 133","64+64","256","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","130","Athlon XP-M","","Barton","","1","No","1667-2200","133","64+64","512","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","180","Mobile Duron","","Spitfire","","1","No","600, 700","100","64+64","64","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","180","Mobile Duron","","Camaro","","1","No","800-1300","100","64+64","64","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","130","Sempron , URL: /wiki/Sempron
+","","Thoroughbred-B","","1","No","1500-2000","166","64+64","256","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","130","Sempron , URL: /wiki/Sempron
+","","Thorton","","1","No","1500-2000","166","64+64","256","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K7","130","Sempron , URL: /wiki/Sempron
+","","Barton","","1","No","2000–2200","166, 200","64+64","512","","Socket A , URL: /wiki/Socket_A
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+","",""
+"K8 , URL: /wiki/AMD_K8
+","130","Opteron , URL: /wiki/Opteron
+","","Sledgehammer","100","1","No","1400-2400","800","64+64","1024","","Socket 940 , URL: /wiki/Socket_940
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+ccNUMA , URL: /wiki/CcNUMA
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Opteron , URL: /wiki/Opteron
+","","Sledgehammer","200","1","No","1400-2400","800","64+64","1024","","Socket 940 , URL: /wiki/Socket_940
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+ccNUMA , URL: /wiki/CcNUMA
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Opteron , URL: /wiki/Opteron
+","","Sledgehammer","800","1","No","1400-2400","800","64+64","1024","","Socket 940 , URL: /wiki/Socket_940
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+ccNUMA , URL: /wiki/CcNUMA
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Opteron , URL: /wiki/Opteron
+","","Venus","100","1","No","1600-3000","800","64+64","1024","","Socket 939 , URL: /wiki/Socket_939
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+ccNUMA , URL: /wiki/CcNUMA
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Opteron , URL: /wiki/Opteron
+","","Troy","200","1","No","1600-3000","800","64+64","1024","","","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+ccNUMA , URL: /wiki/CcNUMA
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Opteron , URL: /wiki/Opteron
+","","Athens","800","1","No","1600-3000","800","64+64","1024","","","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+ccNUMA , URL: /wiki/CcNUMA
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Opteron , URL: /wiki/Opteron
+","","Denmark","100","2","No","1600-3200","1000","64+64","1024","","Socket 939 , URL: /wiki/Socket_939
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Opteron , URL: /wiki/Opteron
+","","Italy","200","2","No","1600-3200","1000","64+64","1024","","Socket 940 , URL: /wiki/Socket_940
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+ccNUMA , URL: /wiki/CcNUMA
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Opteron , URL: /wiki/Opteron
+","","Egypt","800","2","No","1600-3200","1000","64+64","1024","","Socket 940 , URL: /wiki/Socket_940
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+ccNUMA , URL: /wiki/CcNUMA
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Opteron , URL: /wiki/Opteron
+","","Santa Ana","1200","2","No","1800-3200","1000","64+64","1024","","Socket AM2 , URL: /wiki/Socket_AM2
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Opteron , URL: /wiki/Opteron
+","","Santa Rosa","2200","2","No","1800-3200","1000","64+64","1024","","Socket F , URL: /wiki/Socket_F
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Opteron , URL: /wiki/Opteron
+","","Santa Rosa","8200","2","No","2000-3000","1000","64+64","1024","","Socket F , URL: /wiki/Socket_F
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Athlon 64 FX , URL: /wiki/Athlon_64_FX
+","","Sledgehammer","FX-51, FX-53","1","No","2200, 2400","800","64+64","1024","","Socket 940 , URL: /wiki/Socket_940
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Athlon 64 FX , URL: /wiki/Athlon_64_FX
+","","Clawhammer","FX-53, FX-55","1","No","2400, 2400","1000","64+64","1024","","Socket 939 , URL: /wiki/Socket_939
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 FX , URL: /wiki/Athlon_64_FX
+","","San Diego","FX-55, FX-57","1","No","2600, 2800","1000","64+64","1024","","Socket 939 , URL: /wiki/Socket_939
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 FX , URL: /wiki/Athlon_64_FX
+","","Toledo","FX-60","2","No","2600","1000","64+64","1024","","Socket 939 , URL: /wiki/Socket_939
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 FX , URL: /wiki/Athlon_64_FX
+","","Windsor","FX-62","2","No","2800","1000","64+64","1024","","Socket AM2 , URL: /wiki/Socket_AM2
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 FX , URL: /wiki/Athlon_64_FX
+","","Windsor","FX-70, FX-72, FX-74","2","No","2600, 2800, 3000","1000","64+64","1024","","Socket F , URL: /wiki/Socket_F
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Athlon 64 , URL: /wiki/Athlon_64
+","","Clawhammer","","1","No","2000-2600","800","64+64","1024","","Socket 754 , URL: /wiki/Socket_754
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Athlon 64 , URL: /wiki/Athlon_64
+","","Clawhammer","","1","No","2000-2600","1000","64+64","1024","","Socket 939 , URL: /wiki/Socket_939
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Athlon 64 , URL: /wiki/Athlon_64
+","","Newcastle","","1","No","1800-2400","800","64+64","512","","Socket 754 , URL: /wiki/Socket_754
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Athlon 64 , URL: /wiki/Athlon_64
+","","Newcastle","","1","No","1800-2400","1000","64+64","512","","Socket 939 , URL: /wiki/Socket_939
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 , URL: /wiki/Athlon_64
+","","Winchester","","1","No","1800-2200","1000","64+64","512","","Socket 939 , URL: /wiki/Socket_939
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 , URL: /wiki/Athlon_64
+","","Venice","","1","No","1800-2400","800","64+64","512","","Socket 754 , URL: /wiki/Socket_754
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 , URL: /wiki/Athlon_64
+","","Venice","","1","No","1800-2400","1000","64+64","512","","Socket 939 , URL: /wiki/Socket_939
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 , URL: /wiki/Athlon_64
+","","San Diego","","1","No","2200-2600","1000","64+64","1024","","Socket 939 , URL: /wiki/Socket_939
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 , URL: /wiki/Athlon_64
+","","Orleans","","1","No","1800-2600","1000","64+64","512","","Socket AM2 , URL: /wiki/Socket_AM2
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K8 , URL: /wiki/AMD_K8
+","65","Athlon 64 , URL: /wiki/Athlon_64
+","","Lima","","1","No","2000-2800","1000","64+64","512","","Socket AM2 , URL: /wiki/Socket_AM2
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 X2 , URL: /wiki/Athlon_64_X2
+","","Manchester","3600+","2","No","2000","1000","64+64","256 PC, FS","","Socket 939 , URL: /wiki/Socket_939
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 X2 , URL: /wiki/Athlon_64_X2
+","","Manchester","3800+, 4200+, 4600+","2","No","2000, 2200, 2400","1000","64+64","512 PC, FS","","Socket 939 , URL: /wiki/Socket_939
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 X2 , URL: /wiki/Athlon_64_X2
+","","Toledo","3800+, 4200+, 4600+","2","No","2000, 2200, 2400","1000","64+64","512 PC, FS","","Socket 939 , URL: /wiki/Socket_939
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 X2 , URL: /wiki/Athlon_64_X2
+","","Toledo","4400+, 4800+","2","No","2200, 2400","1000","64+64","1024 PC, FS","","Socket 939 , URL: /wiki/Socket_939
+","DDR , URL: /wiki/DDR_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 X2 , URL: /wiki/Athlon_64_X2
+","","Windsor","3600+","2","No","2000","1000","64+64","256 PC, FS","","Socket AM2 , URL: /wiki/Socket_AM2
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 X2 , URL: /wiki/Athlon_64_X2
+","","Windsor","3800+, 4200+, 4600+, 5000+, 5400+","2","No","2000, 2200, 2400, 2600, 2800","1000","64+64","512 PC, FS","","Socket AM2 , URL: /wiki/Socket_AM2
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Athlon 64 X2 , URL: /wiki/Athlon_64_X2
+","","Windsor","4000+, 4400+, 4800+, 5200+, 5600+, 6000+, 6400+","2","No","2000, 2200, 2400, 2600, 2800, 3000, 3200","1000","64+64","1024 PC, FS","","Socket AM2 , URL: /wiki/Socket_AM2
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K8 , URL: /wiki/AMD_K8
+","65","Athlon 64 X2 , URL: /wiki/Athlon_64_X2
+","","Brisbane , URL: /wiki/Athlon_64_X2#Brisbane_(65_nm_SOI)
+","3600+, 3800+, 4000+, 4200+, 4400+, 4600+, 4800+, 5000+, 5200+, 5400+, 5600+, 5800+, 6000+","2","No","1900, 2000, 2100, 2200, 2300, 2400, 2500, 2600, 2700, 2800, 2900, 3000, 3100","1000","64+64","512 PC, FS","","Socket AM2 , URL: /wiki/Socket_AM2
+","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Sempron , URL: /wiki/Sempron
+","","Paris","3000+","1","No","1800","800","64+64","128","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Sempron , URL: /wiki/Sempron
+","","Paris","3100+","1","No","1800","800","64+64","256","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Sempron , URL: /wiki/Sempron
+","","Palermo","2500+","1","No","1400","800","64+64","256","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Sempron , URL: /wiki/Sempron
+","","Palermo","2600+","1","No","1600","800","64+64","128","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Sempron , URL: /wiki/Sempron
+","","Palermo","2800+","1","No","1600","800","64+64","","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Sempron , URL: /wiki/Sempron
+","","Palermo","3000+","1","No","1800","800","64+64","128","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Sempron , URL: /wiki/Sempron
+","","Palermo","3100+","1","No","1800","800","64+64","","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Sempron , URL: /wiki/Sempron
+","","Palermo","3300+","1","No","2000","800","64+64","128","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Sempron , URL: /wiki/Sempron
+","","Palermo","3400+","1","No","2000","800","64+64","","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Sempron , URL: /wiki/Sempron
+","","Palermo","3000+","1","No","1800","800","64+64","128","","Socket 939 , URL: /wiki/Socket_939
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Sempron , URL: /wiki/Sempron
+","","Palermo","3200+","1","No","1800","800","64+64","","","Socket 939 , URL: /wiki/Socket_939
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Sempron , URL: /wiki/Sempron
+","","Palermo","3400+","1","No","2000","800","64+64","128","","Socket 939 , URL: /wiki/Socket_939
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Sempron , URL: /wiki/Sempron
+","","Palermo","3500+","1","No","2000","800","64+64","","","Socket 939 , URL: /wiki/Socket_939
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX Bit , URL: /wiki/NX_Bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Sempron , URL: /wiki/Sempron
+","","Manila , URL: /wiki/Sempron#Manila_(90_nm_SOI)
+","2800+, 3200+, 3500+","1","No","1600, 1800, 2000","800","64+64","128","","Socket AM2 , URL: /wiki/Socket_AM2
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Sempron , URL: /wiki/Sempron
+","","Manila , URL: /wiki/Sempron#Manila_(90_nm_SOI)
+","3000+, 3400+, 3600+, 3800+","1","No","1600, 1800, 2000, 2200","800","64+64","256","","Socket AM2 , URL: /wiki/Socket_AM2
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","65","Sempron , URL: /wiki/Sempron
+","","Sparta , URL: /wiki/Sempron#Sparta_(90_nm_SOI)
+","LE-1100, LE-1150","1","No","1900, 2000","800","64+64","256","","Socket AM2 , URL: /wiki/Socket_AM2
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","65","Sempron , URL: /wiki/Sempron
+","","Sparta , URL: /wiki/Sempron#Sparta_(90_nm_SOI)
+","LE-1200, LE-1250, LE-1300","1","No","2100, 2200, 2300","800","64+64","512","","Socket AM2 , URL: /wiki/Socket_AM2
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Mobile Athlon 64 , URL: /wiki/List_of_AMD_Athlon_64_microprocessors#Mobile_Athlon_64
+","","Clawhammer","2700+","1","No","1600","800","64+64","512","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Mobile Athlon 64 , URL: /wiki/List_of_AMD_Athlon_64_microprocessors#Mobile_Athlon_64
+","","Clawhammer","2800+, 3000+, 3200+, 3400+, 3700+","1","No","1600, 1800, 2000, 2200, 2400","800","64+64","1024","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Mobile Athlon 64 , URL: /wiki/List_of_AMD_Athlon_64_microprocessors#Mobile_Athlon_64
+","","Odessa","2700+, 2800+, 3000+","1","No","1600, 1800, 2000","800","64+64","512","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Mobile Athlon 64 , URL: /wiki/List_of_AMD_Athlon_64_microprocessors#Mobile_Athlon_64
+","","Oakville","2700+, 2800+, 3000+","1","No","1600, 1800, 2000","800","64+64","512","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Mobile Athlon 64 , URL: /wiki/List_of_AMD_Athlon_64_microprocessors#Mobile_Athlon_64
+","","Newark","3000+, 3200+, 3400+, 3700+, 4000+","1","No","1800, 2000, 2200, 2400, 2600","800","64+64","1024","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Mobile Sempron , URL: /wiki/List_of_AMD_Sempron_microprocessors#Mobile_Sempron
+","","Dublin","","1","No","1600, 1800","800","64+64","128","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","130","Mobile Sempron , URL: /wiki/List_of_AMD_Sempron_microprocessors#Mobile_Sempron
+","","Dublin","","1","No","1600","800","64+64","256","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Mobile Sempron , URL: /wiki/List_of_AMD_Sempron_microprocessors#Mobile_Sempron
+","","Georgetown","","1","No","1600, 1800, 2000","800","64+64","128","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Mobile Sempron , URL: /wiki/List_of_AMD_Sempron_microprocessors#Mobile_Sempron
+","","Georgetown","","1","No","1600, 1800","800","64+64","256","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Mobile Sempron , URL: /wiki/List_of_AMD_Sempron_microprocessors#Mobile_Sempron
+","","Sonora","","1","No","1600, 1800","800","64+64","128","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Mobile Sempron , URL: /wiki/List_of_AMD_Sempron_microprocessors#Mobile_Sempron
+","","Sonora","","1","No","1600, 1800","800","64+64","256","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Mobile Sempron , URL: /wiki/List_of_AMD_Sempron_microprocessors#Mobile_Sempron
+","","Albany","","1","No","1800, 2000, 2200","800","64+64","128","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Mobile Sempron , URL: /wiki/List_of_AMD_Sempron_microprocessors#Mobile_Sempron
+","","Albany","","1","No","1800, 2000","800","64+64","256","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Mobile Sempron , URL: /wiki/List_of_AMD_Sempron_microprocessors#Mobile_Sempron
+","","Roma","","1","No","1800, 2000","800","64+64","128","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Mobile Sempron , URL: /wiki/List_of_AMD_Sempron_microprocessors#Mobile_Sempron
+","","Roma","","1","No","1600, 1800, 2000","800","64+64","256","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Mobile Sempron , URL: /wiki/List_of_AMD_Sempron_microprocessors#Mobile_Sempron
+","","Keene","","1","No","1800, 2000","800","64+64","256","","Socket S1 , URL: /wiki/Socket_S1
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Mobile Sempron , URL: /wiki/List_of_AMD_Sempron_microprocessors#Mobile_Sempron
+","","Keene","","1","No","1600, 1800, 2000","800","64+64","512","","Socket S1 , URL: /wiki/Socket_S1
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Turion 64 , URL: /wiki/Turion_64
+","","Lancaster , URL: /wiki/AMD_Turion#Lancaster_(90_nm_SOI)
+","MT-28, MT-32, ML-42","1","No","1600 1800, 2400","800","64+64","512","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Turion 64 , URL: /wiki/Turion_64
+","","Lancaster , URL: /wiki/AMD_Turion#Lancaster_(90_nm_SOI)
+","MT-30, MT-34, MT-37, MT-40, ML-44","1","No","1600, 1800, 2000, 2200, 2400","800","64+64","1024","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Turion 64 , URL: /wiki/Turion_64
+","","Richmond , URL: /wiki/AMD_Turion#Richmond_(90_nm_SOI)
+","MK-36, MK-38","1","No","2000, 2200","800","64+64","512","","Socket 754 , URL: /wiki/Socket_754
+","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Turion 64 X2 , URL: /wiki/Turion_64_X2
+","","Taylor , URL: /wiki/List_of_AMD_Turion_microprocessors#"Taylor"_(90_nm)
+","TL-50","2","No","1600","800","64+64","256","","Socket S1","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","90","Turion 64 X2 , URL: /wiki/Turion_64_X2
+","","Trinidad , URL: /wiki/List_of_AMD_Turion_microprocessors#"Trinidad"_(90_nm)
+","TL-52, TL-56, TL-60, TL-64","2","No","1600, 1800, 2000, 2200","800","64+64","512","","Socket S1","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","65","Turion 64 X2 , URL: /wiki/Turion_64_X2
+","","Tyler , URL: /wiki/List_of_AMD_Turion_microprocessors#"Tyler"_(65_nm)
+","TK-53, TK-55, TK-57","2","No","1700, 1800, 1900","800","64+64","256","","Socket S1","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K8 , URL: /wiki/AMD_K8
+","65","Turion 64 X2 , URL: /wiki/Turion_64_X2
+","","Tyler , URL: /wiki/List_of_AMD_Turion_microprocessors#"Tyler"_(65_nm)
+","TL-56, TL-58, TL-60, TL-62, TL-64, TL-66, TL-68","2","No","1800, 1900, 2000, 2100, 2200, 2300, 2400","800","64+64","512","","Socket S1","","MMX , URL: /wiki/MMX_(instruction_set)
+3DNow!+ , URL: /wiki/3DNow!
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+","","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+"
+"K10 , URL: /wiki/AMD_10h
+","65","Opteron , URL: /wiki/Opteron
+","","Barcelona","","4","No","1700-2500","1000","64+64","256, 512","2048","Socket F , URL: /wiki/Socket_F
+","","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+ccNUMA , URL: /wiki/CcNUMA
+"
+"K10 , URL: /wiki/AMD_10h
+","65","Opteron , URL: /wiki/Opteron
+","","Budapest","","4","No","1700-2500","1000","64+64","256, 512","2048","Socket AM2 , URL: /wiki/Socket_AM2
+","","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10 , URL: /wiki/AMD_10h
+","65","Phenom , URL: /wiki/Phenom_(processor)
+","","Agena","9100e,9150e, 9350e, 9450e, 9500, 9550, 9600, 9600B, 9600BE, 9650, 9670, 9750, 9750B, 9850, 9850B 9850BE, 9950BE","4","No","1800-2600","1600, 1800, 2000","64+64","512","2048","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+","","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10 , URL: /wiki/AMD_10h
+","65","Phenom , URL: /wiki/Phenom_(processor)
+","","Toliman","8250e, 8400, 8450, 8450e, 8550, 8600, 8600B, 8650, 8750, 8750B, 8750BE, 8850","3","No","1900-2500","1600, 1800","64+64","512","2048","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+","","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10 , URL: /wiki/AMD_10h
+","65","Athlon X2 , URL: /wiki/Athlon_X2
+","","Kuma","6500BE","2","No","2300","1600, 1800","64+64","1024","","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+","","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10 , URL: /wiki/AMD_10h
+","65","Athlon X2 , URL: /wiki/Athlon_X2
+","","Kuma","7450, 7550, 7750BE, 7850BE","2","No","2400-2800","1600, 1800","64+64","1024","2048","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+","","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10 , URL: /wiki/AMD_10h
+","65","Athlon , URL: /wiki/Athlon
+","","Lima","","1","No","2400–2700","1600, 1800","64+64","512, 1024","","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+","","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10 , URL: /wiki/AMD_10h
+","65","Sempron , URL: /wiki/Sempron
+","","Sparta","","1","No","2700","1600","64+64","512","","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+","","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","45","Phenom II , URL: /wiki/Phenom_II
+","","Thuban","1100T, 1090T, 1075T, 1055T, 1045T","6/6","No","2600-3300","1800, 2000","64+64","512","6144","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR2 , URL: /wiki/DDR2_SDRAM
+DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","45","Phenom II , URL: /wiki/Phenom_II
+","","Zosma","840T, 960T, 970(E0 stepping)","4/6","No","3000-3400","1800, 2000","64+64","512","6144","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR2 , URL: /wiki/DDR2_SDRAM
+DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","45","Phenom II , URL: /wiki/Phenom_II
+","","Deneb","980, 975, 970, 965, 955, 945, 940, 925, 920, 910e, 905e, 830, 820, 810, 805","4/4","No","2500-3700","1800, 2000","64+64","512","6144 (805-820 only 4096)","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR2 , URL: /wiki/DDR2_SDRAM
+DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","45","Phenom II , URL: /wiki/Phenom_II
+","","Heka","740, 720, 705e","3/4","No","2500–2800","2000","64+64","512","6144","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR2 , URL: /wiki/DDR2_SDRAM
+DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","45","Phenom II , URL: /wiki/Phenom_II
+","","Callisto","570, 565, 560, 555, 550, 545","2/4","No","3000-3400","2000","64+64","512","6144","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR2 , URL: /wiki/DDR2_SDRAM
+DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","45","Athlon II , URL: /wiki/Athlon_II
+","","Propus","","4","No","2200–2800","2000","64+64","512","","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR2 , URL: /wiki/DDR2_SDRAM
+DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","45","Athlon II , URL: /wiki/Athlon_II
+","","Rana","","3","No","2200–3100","2000","64+64","512","","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR2 , URL: /wiki/DDR2_SDRAM
+DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","45","Athlon II , URL: /wiki/Athlon_II
+","","Regor","","2","No","1600-3600","2000","64+64","512, 1024","","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR2 , URL: /wiki/DDR2_SDRAM
+DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","45","Sempron , URL: /wiki/AMD_Sempron#Sempron
+","","Sargas","130","1","No","2600","2000","64+64","512","","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR2 , URL: /wiki/DDR2_SDRAM
+DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","45","Sempron , URL: /wiki/AMD_Sempron#Sempron
+","","Sargas","140","1","No","2700","2000","64+64","1024","","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR2 , URL: /wiki/DDR2_SDRAM
+DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","45","Sempron , URL: /wiki/AMD_Sempron#Sempron
+","","Sargas","145","1","No","2800","2000","64+64","1024","","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR2 , URL: /wiki/DDR2_SDRAM
+DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","45","Sempron , URL: /wiki/AMD_Sempron#Sempron
+","","Sargas","150","1","No","2900","2000","64+64","1024","","Socket AM2+ , URL: /wiki/Socket_AM2%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR2 , URL: /wiki/DDR2_SDRAM
+DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","45","Turion II , URL: /wiki/AMD_Turion#Turion_II
+","","Caspian","","2","No","2000-2700","1800, 1600","64+64","512, 1024","","Socket S1G3","DDR2 , URL: /wiki/DDR2_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"K10.5","32","Llano , URL: /wiki/AMD_APU#Llano
+","","Llano","E2-3200, A4-3300, A4-3420, A6-3500, A6-3600, A6-3620, A6-3650, A6-3670K, A8-3800, A8-3820, A8-3850, A8-3870K","2/3/4","No","2100-3000","","64+64","1024, 3072, 4096","","Socket FM1 , URL: /wiki/Socket_FM1
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE4a , URL: /wiki/SSE4a
+Enhanced 3DNow! , URL: /wiki/3DNow!
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"Bobcat , URL: /wiki/Bobcat_(microarchitecture)
+","40","Bobcat","","Desna, Ontario, Zacate","C-series, E-series, G-series, Z-series","1/2","No","1000 - 1750","","32 + 32","512 KB (per core)","","FT1 , URL: /wiki/FT1
+","DDR3 , URL: /wiki/DDR3
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","","Zambezi","FX-4100 series (4100, 4120, 4130, 4150, 4170)","4","No","3600-4200 (3700-4300 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2","8","Socket AM3+ , URL: /wiki/Socket_AM3%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","","Zambezi","FX-6100 series (6100, 6120, 6130, 6200)","6","No","3300-3800 (3600-4200 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2","8","Socket AM3+ , URL: /wiki/Socket_AM3%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","","Zambezi","FX-8100 series (8100, 8120, 8140, 8150, 8170)","8","No","2800-3900 (3100-4500 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2","8","Socket AM3+ , URL: /wiki/Socket_AM3%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","","Zurich","Opteron 3200 series (3250HE, 3260HE, 3280)","4/8","No","2400-2700 (2700-3700 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2","8","Socket AM3+ , URL: /wiki/Socket_AM3%2B
+Socket AM3 , URL: /wiki/Socket_AM3
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","","Valencia","Opteron 4200 series (42DX, 42MX, 4226, 4228HE, 4230HE, 4234, 4238, 4240, 4256EE,4274HE, 4276HE, 4280, 4284)","4/6/8","No","1600-3400 (1900-3800 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2","8","Socket C32 , URL: /wiki/Socket_C32
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","","Interlagos","Opteron 6200 series (6204, 6212, 6220, 6230HE, 6234, 6238, 6262HE, 6272, 6274, 6276, 6278, 6282SE, 6284SE)","4/8/12/16","No","1600-3300 (2100-3600 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2","8","Socket G34 , URL: /wiki/Socket_G34
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Piledriver , URL: /wiki/Piledriver_(microarchitecture)
+","","Trinity","SempronX2 240, AthlonX2 340, AthlonX4 740, AthlonX4 750K, FirePro A300, FirePro A320, A4-4300M, A4-4355M, A4-5300, A4-5300B, A6-4400M, A6-4455M, A6-5400K, A6-5400B, A8-5500, A8-4500M, A8-4555M, A8-5500B, A8-5600K, A10-4600M, A10-4655M, A10-5700, A10-5800K, A10-5800B","2/4","No","1600-3800 (2400-4200 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2, 3x2, 2x2, 1","8, 4","Socket FM2 , URL: /wiki/Socket_FM2
+FS1r2 , URL: /wiki/Socket_FS1
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX1.1 , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA3 , URL: /wiki/FMA3
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+TBM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Piledriver , URL: /wiki/Piledriver_(microarchitecture)
+","","Richland","SempronX2 250, AthlonX2 350, AthlonX2 370K, AthlonX2 750, AthlonX2 760K, FX-670K, A4-4000, A4-4320, A4-5145M, A4-5150M, A4-6300, A4-6300B, A4-6320, A4-6320B, A4-7300, A4PRO-7300B, A6-5345M, A6-5350M, A6-5357M, A6-6400B , A6-6400K, A6-6420B, A6-6420K, A8-5345M, A8-5350M, A8-5357M, A8-6500, A8-6500T, A8-6500B, A8-6600, A10-5745M, A10-5750M, A10-5757M, A10-6700, A10-6700T, A10-6790B , A10-6790K , A10-6800B , A10-6800K","2/4","No","1700-4100 (2600-4400 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2, 3x2, 2x2, 1","8, 4","Socket FM2 , URL: /wiki/Socket_FM2
+FS1r2 , URL: /wiki/Socket_FS1
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX1.1 , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA3 , URL: /wiki/FMA3
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+TBM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Piledriver , URL: /wiki/Piledriver_(microarchitecture)
+","","Vishera","FX-4300 series (4300, 4320, 4350)","4","No","3800-4200 (4000-4300 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2, 3x2, 2x2, 1","8, 4","Socket AM3+ , URL: /wiki/Socket_AM3%2B
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX1.1 , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA3 , URL: /wiki/FMA3
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+TBM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Piledriver , URL: /wiki/Piledriver_(microarchitecture)
+","","Vishera","FX-6300 series (6300, 6350)","6","No","3500-3900 (4100-4200 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2, 3x2, 2x2, 1","8, 4","Socket AM3+ , URL: /wiki/Socket_AM3%2B
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX1.1 , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA3 , URL: /wiki/FMA3
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+TBM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Piledriver , URL: /wiki/Piledriver_(microarchitecture)
+","","Vishera","FX-8300 series (8300, 8310, 8320, 8320E, 8350, 8370, 8370E, 9370, 9590)","8","No","3300-4700 (4000-5000 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2, 3x2, 2x2, 1","8, 4","Socket AM3+ , URL: /wiki/Socket_AM3%2B
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX1.1 , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA3 , URL: /wiki/FMA3
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+TBM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Piledriver , URL: /wiki/Piledriver_(microarchitecture)
+","","Delhi","Opteron 3300 series (3320EE, 3350HE, 3365, 3380)","4/8","No","1900-2800 (2100-3800 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2, 3x2, 2x2, 1","8, 4","Socket AM3+ , URL: /wiki/Socket_AM3%2B
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX1.1 , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA3 , URL: /wiki/FMA3
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+TBM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Piledriver , URL: /wiki/Piledriver_(microarchitecture)
+","","Seoul","Opteron 4300 series (43CXEE, 43GKHE, 4310EE, 4332HE, 4334, 4340, 4365EE, 4376HE, 4386)","4/6/8","No","2000-3500 (2300-3800 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2, 3x2, 2x2, 1","8, 4","Socket C32 , URL: /wiki/Socket_C32
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX1.1 , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA3 , URL: /wiki/FMA3
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+TBM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","32","Piledriver , URL: /wiki/Piledriver_(microarchitecture)
+","","Abu Dhabi","Opteron 6300 series (6308, 6320, 6328, 6338P, 6344, 6348, 6366HE, 6370P, 6376, 6378, 6380, 6386SE)","4/8/12/16","No","1800-3500 (2300-3800 boost)","2600","2 x 16 KB (data) + 64 KB (instruction)(per module)","4x2, 3x2, 2x2, 1","8, 4","Socket G34 , URL: /wiki/Socket_G34
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX1.1 , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA3 , URL: /wiki/FMA3
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+TBM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","28","Steamroller , URL: /wiki/Steamroller_(microarchitecture)
+","","Kaveri","AthlonX2 450, AthlonX4 840, AthlonX4 860K, AthlonX4 870K, AthlonX4 880K, FX-770K, FX-7500, FX-7600P, A4PRO-7350B, A6-7000, A6Pro-7050B, A6-7400K, A6PRO-7400B, A6-7470K, A8-7100, A8Pro-7150B, A8-7200P, A8-7600, A8PRO-7600B, A8-7650K, A8-7670K, A10-7300, A10Pro-7350B, A10-7400P, A10-7700K, A10-7800, A10PRO-7800B, A10-7850K, A10-7850B, A10-7860K, A10-7870K, A10-7890K","2/4","No","1800-4100 (3000-4300 boost)","","2 x 16 KB (data) + 96 KB (instruction)(per module)","2x2, 1","","Socket FM2+ , URL: /wiki/Socket_FM2%2B
+Socket FP3 , URL: /wiki/Socket_FP3
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX1.1 , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA3 , URL: /wiki/FMA3
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+TBM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","28","Excavator , URL: /wiki/Excavator_(microarchitecture)
+","","Carrizo","AthlonX4 835, AthlonX4 845, FX-8800P, A6-8500P, A6Pro-8500B, A8-8600P, A8Pro-8600B, A10-8700P, A10Pro-8700B, A10-8780P, A12Pro-8800B","2/4","No","1600-3500 (3000-3800 boost)","","2 x 32 KB (data) + 96 KB (instruction)(per module)","2x1","","Socket FM2+ , URL: /wiki/Socket_FM2%2B
+Socket FP4 , URL: /w/index.php?title=Socket_FP4&action=edit&redlink=1
+","DDR3 , URL: /wiki/DDR3_SDRAM
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX1.1 , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA3 , URL: /wiki/FMA3
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+TBM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Bulldozer , URL: /wiki/Bulldozer_(microarchitecture)
+","28","Excavator , URL: /wiki/Excavator_(microarchitecture)
+","","Bristol Ridge","AthlonX4 940, AthlonX4 950, AthlonX4 970, FX-9800P, FX-9830P, A6-9500, A6PRO-9500, A6Pro-9500B, A6-9500E, A6PRO-9500E, A6-9550, A8-9600, A8PRO-9600, A8Pro-9600B, A8Pro-9630B, A10-9600P, A10-9620P, A10-9630P, A10-9700, A10PRO-9700, A10Pro-9700B, A10-9700E, A10PRO-9700E, A10Pro-9730B, A12-9700P, A12-9720P, A12-9730P, A12-9800, A12PRO-9800, A12Pro-9800B, A12-9800E, A12PRO-9800E, A12Pro-9830B","2/4","No","2300-3800 (3200-4200 boost)","","2 x 32 KB (data) + 96 KB (instruction)(per module)","1x1, 2x1","","Socket AM4 , URL: /wiki/Socket_AM4
+Socket FP4 , URL: /w/index.php?title=Socket_FP4&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX1.1 , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","Cool'n'Quiet , URL: /wiki/Cool%27n%27Quiet
+PowerNow! , URL: /wiki/PowerNow!
+Turbo Core , URL: /wiki/Turbo_Core
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+IOMMU , URL: /wiki/IOMMU
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+XOP , URL: /wiki/XOP_instruction_set
+FMA3 , URL: /wiki/FMA3
+FMA4 , URL: /wiki/FMA4
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+TBM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+ECC , URL: /wiki/Exchange_coupled_composite_media
+"
+"Jaguar , URL: /wiki/Jaguar_(microarchitecture)
+","28","Jaguar , URL: /wiki/Jaguar_(microarchitecture)
+","","Kabini, Temash, Kyoto","","2/4","No","1000 - 2200","","32 kB + 32 kB (per core)","512 KB (per core)","","Socket AM1 , URL: /wiki/Socket_AM1
+Socket FT3 , URL: /wiki/Socket_FT3
+","DDR3 , URL: /wiki/DDR3
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+"
+"Jaguar , URL: /wiki/Jaguar_(microarchitecture)
+","28","Puma , URL: /wiki/Puma_(microarchitecture)
+","","Beema, Mullins, Stepped Eagle, Crowned Eagle, Carrizo-L, LX-Family,","","2/4","No","800 - 2400","","32 kB + 32 kB (per core)","512 KB (per core)","","Socket FT3b , URL: /wiki/Socket_FT3b
+","DDR3 , URL: /wiki/DDR3
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+","PowerNow! , URL: /wiki/PowerNow!
+","AMD64 , URL: /wiki/AMD64
+NX bit , URL: /wiki/NX_bit
+AMD-V , URL: /wiki/AMD-V
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","March 2017","Summit Ridge","Ryzen 3 (Pro 1200, 1200, Pro 1300, 1300X)","4","no","3100-3500 (3400-3700 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","8 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","March 2017","Summit Ridge","Ryzen 5 (1400, Pro 1500, 1500X, Pro 1600, 1600, 1600X)","4/6","yes","3200-3600 (3400-4000 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","8-16 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","March 2017","Summit Ridge","Ryzen 7 (Pro 1700, 1700, Pro 1700X, 1700X, 1800X)","8","yes","3000-3600 (3700-4000 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","16 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","June 2017","Naples","EPYC , URL: /wiki/Epyc
+","8/16/24/32","yes","2000-3100 (2550-3600 all) (2700-3800 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","32-64 MB","Socket SP3 , URL: /wiki/Socket_SP3
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","August 2017","Whitehaven","Ryzen Threadripper (1900, 1920, 1920X, 1950X)","8/12/16","yes","3200-3800 (3800-4000 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","16-32 MB","Socket TR4 , URL: /wiki/Socket_TR4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","October 2017","Raven Ridge","Athlon (Pro 200U, 300U), Ryzen 3 (2200U, 3200U, 3250U)","2","yes","2300-2600 (3200-3500 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","4 MB","Socket FP5 , URL: /w/index.php?title=Socket_FP5&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","October 2017","Raven Ridge","Ryzen 3 (2300U, Pro 2300U)","4","no","2000 (3400 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","4 MB","Socket FP5 , URL: /w/index.php?title=Socket_FP5&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","October 2017","Raven Ridge","Ryzen 5 (2500U, Pro 2500U, 2600H), Ryzen 7 (2700U, Pro 2700U, 2800H)","4","yes","2000-3300 (3600-3800 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","4 MB","Socket FP5 , URL: /w/index.php?title=Socket_FP5&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","February 2018","Raven Ridge","Athlon (200GE, Pro 200GE, 220GE, 240GE, 3000G)","2","yes","3200-3500","","64 kB + 32 kB (per core)","512 kB (per core)","4 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","February 2018","Raven Ridge","Ryzen 3 (2200GE, Pro 2200GE, 2200G, Pro 2200G)","4","no","3200-3500 (3600-3700 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","4 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","February 2018","Raven Ridge","Ryzen 5 (2400GE, Pro 2400GE, 2400G, Pro 2400G)","4","yes","3200-3600 (3800-3900 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","4 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","February 2018","Snowy Owl","EPYC , URL: /wiki/Epyc
+","4/8/12/16","no","1500-2100 (2150-3100 all) (2900-3100 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","8-32 MB (8 MB per CCX)","Socket SP4r2 , URL: /w/index.php?title=Socket_SP4r2&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","February 2018","Snowy Owl","EPYC , URL: /wiki/Epyc
+","4/8/12/16","yes","1900-2700 (2450-3100 all) (2900-3100 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","16-32 MB (8 MB per CCX)","Socket SP4r2 , URL: /w/index.php?title=Socket_SP4r2&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","February 2018","Great Horned Owl","V1000 series (Embedded)","2/4","yes","2000-3350 (3200-3800 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","4 MB","Socket FP5 , URL: /w/index.php?title=Socket_FP5&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","April 2019","Banded Kestrel","R1000 series (Embedded)","2","no","1200 (2600 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","4 MB","Socket FP5 , URL: /w/index.php?title=Socket_FP5&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","14 , URL: /wiki/14_nanometer
+","Zen , URL: /wiki/Zen_(microarchitecture)
+","April 2019","Banded Kestrel","R1000 series (Embedded)","2","yes","1500-2600 (2800-3500 boost)","","64 kB + 32 kB (per core)","512 kB (per core)","4 MB","Socket FP5 , URL: /w/index.php?title=Socket_FP5&action=edit&redlink=1
+","","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","12 GloFo 12LP","Zen+ , URL: /wiki/Zen%2B
+","April 2018","Pinnacle Ridge","Ryzen 3 (1200 AF, 2300X)","4","no","3100-3500 (3400-4000 boost)","","32 kB data 64 kB inst. per core","512 kB per core","8 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","12 GloFo 12LP","Zen+ , URL: /wiki/Zen%2B
+","April 2018","Pinnacle Ridge","Ryzen 5 2500X","4","yes","3600 (4000 boost)","","32 kB data 64 kB inst. per core","512 kB per core","8 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","12 GloFo 12LP","Zen+ , URL: /wiki/Zen%2B
+","April 2018","Pinnacle Ridge","Ryzen 5 (1600 AF, 2600, 2600E, 2600X), Ryzen 7 (2700, 2700E, 2700X, Pro 2700X)","6/8","yes","2800-3700 (3600-4300 boost)","","32 kB data 64 kB inst. per core","512 kB per core","16 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","12 GloFo 12LP","Zen+ , URL: /wiki/Zen%2B
+","August 2018","Colfax","Ryzen Threadripper (2920X, 2950X, 2970WX, 2990WX)","12/16/24/32","yes","3000-3500 (4200-4400 boost)","","32 kB data 64 kB inst. per core","512 kB per core","32-64 MB","Socket TR4 , URL: /wiki/Socket_TR4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","12 GloFo 12LP","Zen+ , URL: /wiki/Zen%2B
+","January 2019","Picasso","Ryzen 3 (3300U, Pro 3300U, 3350U)","4","no","2100 (3500 boost)","","32 kB data 64 kB inst. per core","512 kB per core","4 MB","Socket FP5 , URL: /w/index.php?title=Socket_FP5&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","12 GloFo 12LP","Zen+ , URL: /wiki/Zen%2B
+","January 2019","Picasso","Ryzen 5 (3450U, 3500C, 3500U, Pro 3500U, 3550H, 3580U), Ryzen 7 (3700C, 3700U, Pro 3700U, 3750H, 3780U)","4","yes","2100-2300 (3500-4000 boost)","","32 kB data 64 kB inst. per core","512 kB per core","4 MB","Socket FP5 , URL: /w/index.php?title=Socket_FP5&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","12 GloFo 12LP","Zen+ , URL: /wiki/Zen%2B
+","July 2019","Picasso","Ryzen 3 (3200GE, Pro 3200GE, 3200G, Pro 3200G)","4","no","3300-3600 (3800-4000 boost)","","32 kB data 64 kB inst. per core","512 kB per core","4 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","12 GloFo 12LP","Zen+ , URL: /wiki/Zen%2B
+","July 2019","Picasso","Ryzen 5 (3400GE, Pro 3400GE, 3400G, Pro 3400G)","4","yes","3300-3700 (4000-4200 boost)","","32 kB data 64 kB inst. per core","512 kB per core","4 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","July 2019","Matisse","Ryzen 3 (3100, 3300X)","4","yes","3600-3800 (3900-4200 boost)","","32 kB data 32 kB inst. per core","512 kB per core","16 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","July 2019","Matisse","Ryzen 5 (3500, 3500X)","6","no","3600 (4100 boost)","","32 kB data 32 kB inst. per core","512 kB per core","16-32 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","July 2019","Matisse","Ryzen 5 (3600, Pro 3600, 3600X, 3600XT), Ryzen 7 (Pro 3700, 3700X, 3800X, 3800XT)","6/8","yes","3600-3900 (4200-4700 boost)","","32 kB data 32 kB inst. per core","512 kB per core","32 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","July 2019","Matisse","Ryzen 9 (3900, Pro 3900, 3900X, 3900XT, 3950X)","12/16","yes","3100-3800 (4300-4700 boost)","","32 kB data 32 kB inst. per core","512 kB per core","64 MB","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","August 2019","Rome","EPYC 7002 series","8/12/16/24/32/48/64","yes","2000-3700 (3200-3900 boost)","","32 kB data 32 kB inst. per core","512 kB per core","32-256 MB","Socket SP3 , URL: /wiki/Socket_SP3
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","November 2019","Castle Peak","Ryzen Threadripper (3960X, 3970X, 3990X)","24/32/64","yes","2900-3800 (4300-4500 boost)","","32 kB data 32 kB inst. per core","512 kB per core","128/128/256 MB","Socket sTRX4 , URL: /wiki/Socket_sTRX4
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","March 2020","Renoir","Ryzen 3 4300U","4","no","2700 (3700 boost)","","32 kB data 32 kB inst. per core","512 kB per core","4 MB","Socket FP6 , URL: /w/index.php?title=Socket_FP6&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+LPDDR4 , URL: /wiki/LPDDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","March 2020","Renoir","Ryzen 3 (4300G, 4300GE, 4350G, 4350GE, Pro 4450U)","4","yes","2500-3800 (3700-4200 boost)","","32 kB data 32 kB inst. per core","512 kB per core","4 MB","Socket FP6 , URL: /w/index.php?title=Socket_FP6&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+LPDDR4 , URL: /wiki/LPDDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","March 2020","Renoir","Ryzen 5 4500U","6","no","2300 (4000 boost)","","32 kB data 32 kB inst. per core","512 kB per core","8 MB","Socket FP6 , URL: /w/index.php?title=Socket_FP6&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+LPDDR4 , URL: /wiki/LPDDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","March 2020","Renoir","Ryzen 5 (4600U, Pro 4650U, 4600H, 4600HS, 4680U), Ryzen 5 (4600G, 4600GE, Pro 4650G, Pro 4650GE)","6","yes","2100-3700 (4000-4200 boost)","","32 kB data 32 kB inst. per core","512 kB per core","8 MB","Socket FP6 , URL: /w/index.php?title=Socket_FP6&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+LPDDR4 , URL: /wiki/LPDDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","March 2020","Renoir","Ryzen 7 4700U","8","no","2000 (4100 boost)","","32 kB data 32 kB inst. per core","512 kB per core","8 MB","Socket FP6 , URL: /w/index.php?title=Socket_FP6&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+LPDDR4 , URL: /wiki/LPDDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","March 2020","Renoir","Ryzen 7 (4700U, Pro 4750U, 4800U, 4800H, 4800HS), Ryzen 7 (4700G, 4700GE, Pro 4750G, Pro 4750GE), Ryzen 9 (4900H, 4900HS)","8","yes","1800-3600 (4100-4400 boost)","","32 kB data 32 kB inst. per core","512 kB per core","8 MB","Socket FP6 , URL: /w/index.php?title=Socket_FP6&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+LPDDR4 , URL: /wiki/LPDDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","July 2020","Castle Peak (Pro)","Ryzen Threadripper Pro (3945WX, 3955WX, 3975WX, 3995WX)","12/16/32/64","yes","2700-4000 (4200-4300 boost)","","32 kB data 32 kB inst. per core","512 kB per core","64-256 MB (16 MB per CCX)","sWRX8 , URL: /w/index.php?title=SWRX8&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","November 2020","Grey Hawk","V2000 series (Embedded)","6/8","yes","1700-3000 (3950-4250 boost)","","32 kB data 32 kB inst. per core","512 kB per core","8 MB","Socket FP6 , URL: /w/index.php?title=Socket_FP6&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+LPDDR4 , URL: /wiki/LPDDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","January 2021","Lucienne","Ryzen 3 5300U","4","yes","2600 (3800 boost)","","32 kB data 32 kB inst. per core","512 kB per core","4 MB","Socket FP6 , URL: /w/index.php?title=Socket_FP6&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+LPDDR4 , URL: /wiki/LPDDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","January 2021","Lucienne","Ryzen 5 5500U","6","yes","2100 (4000 boost)","","32 kB data 32 kB inst. per core","512 kB per core","8 MB","Socket FP6 , URL: /w/index.php?title=Socket_FP6&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+LPDDR4 , URL: /wiki/LPDDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 2 , URL: /wiki/Zen_2
+","January 2021","Lucienne","Ryzen 7 5700U","8","yes","1800 (4300 boost)","","32 kB data 32 kB inst. per core","512 kB per core","8 MB","Socket FP6 , URL: /w/index.php?title=Socket_FP6&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+LPDDR4 , URL: /wiki/LPDDR4
+","MMX , URL: /wiki/MMX_(instruction_set)
+SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 3 , URL: /wiki/Zen_3
+","November 2020","Vermeer","Ryzen 5 (5600x), Ryzen 7 (5800x), Ryzen 9 (5900x, 5950x)","6/8/12/16","yes","3400-3800 (4600-4900 boost)","","32 kB data 32 kB inst. per core","512 kB per core","32-64 MB (32 MB per CCD/CCX)","Socket AM4 , URL: /wiki/Socket_AM4
+","DDR4 , URL: /wiki/DDR4
+","SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 3 , URL: /wiki/Zen_3
+","January 2021","Cezanne","Ryzen 3 (5300G, 5300GE, 5400U)","4","yes","2600-4000 (4000-4200 boost)","","32 kB data 32 kB inst. per core","512 kB per core","8 MB","Socket FP6 , URL: /w/index.php?title=Socket_FP6&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+LPDDR4 , URL: /wiki/LPDDR4
+","SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 3 , URL: /wiki/Zen_3
+","January 2021","Cezanne","Ryzen 5 (5600G, 5600GE, 5600U, 5600H, 5600HS)","6","yes","2300-3900 (4200-4400 boost)","","32 kB data 32 kB inst. per core","512 kB per core","16 MB","Socket FP6 , URL: /w/index.php?title=Socket_FP6&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+LPDDR4 , URL: /wiki/LPDDR4
+","SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 3 , URL: /wiki/Zen_3
+","January 2021","Cezanne","Ryzen 7 (5700G, 5700GE, 5800U, 5800H, 5800HS) Ryzen 9 (5900HS, 5900HX, 5980HS, 5980HX)","8","yes","1900-3800 (4400-4800 boost)","","32 kB data 32 kB inst. per core","512 kB per core","16 MB","Socket FP6 , URL: /w/index.php?title=Socket_FP6&action=edit&redlink=1
+","DDR4 , URL: /wiki/DDR4
+LPDDR4 , URL: /wiki/LPDDR4
+","SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","7 , URL: /wiki/7_nanometer
+","Zen 3 , URL: /wiki/Zen_3
+","March 2021","Milan","EPYC 7003 series","8/16/24/28/32/48/56/64","yes","2000-3700 (3450-4100 boost)","","32 kB data 32 kB inst. per core","512 kB per core","64-256 MB (16-32 MB per CCD/CCX)","Socket SP3 , URL: /wiki/Socket_SP3
+","DDR4 , URL: /wiki/DDR4
+","SSE , URL: /wiki/Streaming_SIMD_Extensions
+SSE2 , URL: /wiki/SSE2
+SSE3 , URL: /wiki/SSE3
+SSE3s , URL: /wiki/SSSE3
+SSE4a , URL: /wiki/SSE4a
+SSE4.1 , URL: /wiki/SSE4.1
+SSE4.2 , URL: /wiki/SSE4.2
+AVX , URL: /wiki/Advanced_Vector_Extensions
+AVX2 , URL: /wiki/Advanced_Vector_Extensions
+","","AMD64 , URL: /wiki/AMD64
+AES , URL: /wiki/AES_instruction_set
+CLMUL , URL: /wiki/CLMUL
+FMA3 , URL: /wiki/FMA3
+CVT16 , URL: /wiki/CVT16_instruction_set
+F16C , URL: /wiki/F16C
+ABM , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI1 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+BMI2 , URL: /wiki/Bit_Manipulation_Instruction_Sets
+SHA , URL: /wiki/Intel_SHA_Extensions
+"
+"Zen , URL: /wiki/Zen_(microarchitecture)
+","6 TSMC N6","Zen 3+ , URL: /w/index.php?title=Zen_3%2B&action=edit&redlink=1
+","January 2022","Rembrandt[5][6][7]","Ryzen 5 (6600U, 6600H, 6600HS) Ryzen 7 (6800U, 6800H, 6800HS) Ryzen 9 (6900HS, 6900HX, 6980HS, 6980HX)","6/8","yes","2700-3300 (4500-5000 boost)","","32 kB data 32 kB inst. per core","512 kB per core","16 MB","Socket FP7 , URL: /w/index.php?title=Socket_FP7&action=edit&redlink=1
+","DDR5 , URL: /wiki/DDR5_SDRAM
+LPDDR5 , URL: /wiki/LPDDR
+","","",""
+"Architecture , URL: /wiki/Microarchitecture
+","Fabrication , URL: /wiki/Semiconductor_device_fabrication
+","Family","Release Date","Code Name","Model Group","Cores","SMT , URL: /wiki/Simultaneous_multithreading
+","Clock rate , URL: /wiki/Clock_rate
+MHz , URL: /wiki/Hertz
+","Bus , URL: /wiki/Bus_(computing)
+","L1 , URL: /wiki/CPU_cache
+","L2 , URL: /wiki/CPU_cache
+","L3 , URL: /wiki/CPU_cache
+","Socket , URL: /wiki/CPU_socket
+","Memory Controller","SIMD , URL: /wiki/SIMD
+","Speed/Power","Other"
+"Architecture , URL: /wiki/Microarchitecture
+","Fabrication , URL: /wiki/Semiconductor_device_fabrication
+","Family","Release Date","Code Name","Model Group","Cores","SMT , URL: /wiki/Simultaneous_multithreading
+","Clock rate , URL: /wiki/Clock_rate
+MHz , URL: /wiki/Hertz
+","Bus , URL: /wiki/Bus_(computing)
+","Cache","Cache","Cache","Socket , URL: /wiki/CPU_socket
+","Memory Controller","Features","Features","Features"

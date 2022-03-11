@@ -1,0 +1,25 @@
+"Name","Textual/graphical","Object-oriented , URL: /wiki/Object-oriented
+","Type system , URL: /wiki/Type_system
+"
+"Bidule , URL: /wiki/Bidule
+","Graphical","No",""
+"ChucK , URL: /wiki/ChucK
+","Textual","Yes","Static"
+"Csound , URL: /wiki/Csound
+","Textual/Graphical (FLTK/Qt/HTML5)","No","In development"
+"Impromptu , URL: /wiki/Impromptu_(programming_environment)
+","Mostly textual","-","Dynamic & static"
+"Kyma , URL: /wiki/Kyma_(sound_design_language)
+","Mostly Graphical","Yes","Dynamic"
+"Max/MSP , URL: /wiki/Max/MSP
+","Graphical","No",""
+"Pure Data , URL: /wiki/Pure_Data
+","Graphical","No",""
+"Reaktor , URL: /wiki/Reaktor
+","Graphical","No",""
+"SuperCollider , URL: /wiki/SuperCollider
+","Textual/Graphical (Cocoa/Swing/Qt)","Yes","Dynamic"
+"SynthEdit , URL: /wiki/SynthEdit
+","Graphical","Yes","Static"
+"MPEG-4/SA , URL: /wiki/MPEG-4_Structured_Audio
+","Textual","No","No"

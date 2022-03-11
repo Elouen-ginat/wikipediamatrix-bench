@@ -1,0 +1,50 @@
+"Name","Advanced command","Scriptable","Supported architecture","Supported executable","Supported protocol","Supported decompression","Others"
+"GRUB Legacy , URL: /wiki/GNU_GRUB
+","Yes","No","x86 (PC)","Multiboot , URL: /wiki/Multiboot_Specification
+","TFTP","gzip",""
+"GRUB 2 , URL: /wiki/GNU_GRUB
+","Yes","Yes","x86 (PC, EFI, UEFI, coreboot, OLPC), IA-64, ARM (U-Boot, UEFI), PowerPC (OpenFirmware), MIPS, SPARC (SPARC v9)","Multiboot , URL: /wiki/Multiboot_Specification
+","TFTP, HTTP[7]","gzip, xz[8]",""
+"LILO , URL: /wiki/LILO_(boot_loader)
+","No","No","x86 (PC)","Linux zImage, Linux bzImage","?","bzip2, gzip",""
+"FreeBSD , URL: /wiki/FreeBSD
+","Yes","Yes","x86 (PC, EFI, UEFI, coreboot, OLPC), ARM (U-Boot, UEFI), MIPS, PowerPC, SPARC v9","Multiboot , URL: /wiki/Multiboot_Specification
+Xen , URL: /wiki/Xen
+","TFTP, NFS","gzip, bzip2",""
+"loadlin , URL: /wiki/Loadlin
+","No","No","x86 (PC)","Linux zImage, Linux bzImage","?","gzip",""
+"LOLO (Logic PD)","Yes","Yes","ARM7, ARM9, ARM11, Cortex-A8, StrongARM, SH, ColdFire","ELF, binary, BIN (WinCE), SREC","TFTP","?","Supported devices: MCF54xx, MCF5329, MCF5373, LLH7A400, LLH7A404, LLH79520, LLH79524, LSH7727, LSH7750, LSH7760, PXA270, PXA320, IMX31, IMX27, OMAP35xx, OMAP37xx"
+"SYSLINUX , URL: /wiki/SYSLINUX
+","via cmd.c32 module","via lua.c32 module","x86 (PC)","MBR , URL: /wiki/Master_boot_record
+","TFTP","gzip, bzip2, lzo, zip, lzma, ?",""
+"AKernelLoader","No","No","x86 (PC)","ELF, Binary","?","?",""
+"BOOTBOOT","Yes","No","x86-64 (PC, UEFI, El Torito CDROM, BSS Expansion ROM, UEFI Option ROM), ARM AArch64 (Raspberry Pi 3 and up)","ELF64 / PE32+","?","gzip","comes with a multiplatform, dependency-free bootable hybrid image creator (FOSS)"
+"Yaboot , URL: /wiki/Yaboot
+","No","No","PowerPC (Open Firmware)","Linux ELF image","TFTP","No",""
+"RedBoot , URL: /wiki/RedBoot
+","Yes","yes (boot only)","ARM, ColdFire, H8300, x86, Freescale/Motorola 68000, MIPS, PowerPC, SH, SPARC, SPARCLite","ELF","TFTP, serial (X-modem)","gzip",""
+"Das U-Boot , URL: /wiki/Das_U-Boot
+","Yes","Yes","Blackfin , URL: /wiki/Blackfin
+","EFI, ELF, U-Boot image format, Linux zImage, raw","TFTP, NFS, serial (S-Record, Y-Modem, Kermit binary protocol)","bzip2, gzip, lzma",""
+"Barebox , URL: /wiki/Barebox
+","Yes","Yes","Blackfin , URL: /wiki/Blackfin
+","ELF, U-Boot image format","TFTP, NFS, serial (S-Record, Y-Modem, Kermit binary protocol)","bzip2, gzip, lz4, xz, lzo",""
+"Linux kexec","Depending on user space","Depending on user space","x86, ARM, ARM64, PowerPC 64, IA-64, IBM Z[13]","Multiboot , URL: /wiki/Multiboot_Specification
+","Depending on configuration and user space","N/A","The kexec system call can start another kernel, replacing the current running Linux, thus turning a Linux-based operating system into a fancy bootloader."
+"NTLDR , URL: /wiki/NTLDR
+","No","No","x86 (PC)","MBR , URL: /wiki/Master_boot_record
+","?","?","default bootloader on Windows NT"
+"TianoCore EDK II","Yes","Yes","ARM, RISC-V, x86","EFI","HTTPS","?","UEFI reference implementation"
+"Windows Boot Manager , URL: /wiki/Windows_Boot_Manager
+","No","No","x86 (PC), ARM (only on Windows Mobile remake)","Portable Executable , URL: /wiki/Portable_Executable
+","?","?","Successor of NTLDR; used on Vista and up."
+"ReactOS , URL: /wiki/ReactOS
+","No","No","x86 (PC), ARM, PowerPC","?","?","?","clone of NTLDR"
+"extipl","?","?","?","?","?","?","IBM IPL , URL: /wiki/IBM_Public_License
+"
+"Multiple Boot Manager","?","?","?","?","?","?",""
+"bootload (Technologic Systems)","?","?","ARM","?","?","?","Proprietary , URL: /wiki/Proprietary_software
+"
+"Limine","Yes","No","x86 (PC)","Multiboot , URL: /wiki/Multiboot
+","TFTP","gzip",""
+"Name","Advanced command","Scriptable","Supported architecture","Supported executable","Supported protocol","Supported decompression","Others"

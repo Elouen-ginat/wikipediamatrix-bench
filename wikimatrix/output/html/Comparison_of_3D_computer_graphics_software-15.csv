@@ -1,0 +1,7 @@
+"Application","Hard surface Modeling","Hard surface Modeling","Sculpt Modeling","Sculpt Modeling","Sculpt Modeling","Sculpt Modeling","Sculpt Modeling","Sculpt Modeling","Non-destructive Modeling","Non-destructive Modeling","Non-destructive Modeling","Non-destructive Modeling"
+"Application","Polygon Modeling","Subdivision Modeling","Base-mesh Creation","Sketch Modeling","Sculpting","Cloth Sculpting","Hand Retopology","Automatic Retopology","Boolean","Bevel","Modifier","Procedural"
+"Maya","Yes","Yes","(SOuP BMesh)","No","Yes","No","Yes","2020 and later","Yes","Yes","?","Yes"
+"3ds Max","Yes","Yes","(Form)","No","Paint Deform","No","Yes","2021.3 and later","Yes","Yes","Yes","Max Creation Graph"
+"Blender","Yes","Yes","Skin Modifier","Trim Brush with Union/Join mode","Yes","2.83 and later","Yes","Yes","Yes","Yes","Yes","Geometry Nodes"
+"ZBrush","ZModeler","ZModeler","ZSphere and ZSketch","MeshBalloon","Yes","2021 and later","Yes","ZRemesher","4R8 and later","?","No","No"
+"Curvy 3D","No","No","No","Yes","Yes","No","?","?","?","?","No","No"

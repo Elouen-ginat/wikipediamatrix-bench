@@ -1,0 +1,29 @@
+"Implementation","Namespace","Build tools","API manual","Crypto back-end","OpenSSL compatibility Layer[clarify]"
+"Botan , URL: /wiki/Botan_(programming_library)
+","Botan::TLS","Makefile","Sphinx","Included (pluggable)","No"
+"Bouncy Castle , URL: /wiki/Bouncy_Castle_(cryptography)
+","org.bouncycastle","Java Development Environment","Programmers reference manual (PDF)","Included (pluggable)","No"
+"BSAFE , URL: /wiki/BSAFE
+","com.rsa.asn1[a] com.rsa.certj[b] com.rsa.jcp[c] com.rsa.jsafe[d] com.rsa.ssl[e] com.rsa.jsse[f]","Java classloader , URL: /wiki/Java_Classloader
+","Javadoc, Developer's guide (HTML)","Included","No"
+"cryptlib , URL: /wiki/Cryptlib
+","crypt*","makefile, MSVC project workspaces","Programmers reference manual (PDF), architecture design manual (PDF)","Included (monolithic)","No"
+"GnuTLS , URL: /wiki/GnuTLS
+","gnutls_*","Autoconf, automake, libtool","Manual and API reference (HTML, PDF)","libnettle , URL: /wiki/Nettle_(cryptographic_library)
+","Yes (limited)"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","javax.net.ssl sun.security.ssl","Makefile","API Reference (HTML) + JSSE Reference Guide","Java Cryptography Architecture , URL: /wiki/Java_Cryptography_Architecture
+Java Cryptography Extension , URL: /wiki/Java_Cryptography_Extension
+","No"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","matrixSsl_* ps*","Makefile, MSVC project workspaces, Xcode projects for OS X and iOS","API Reference (PDF), Integration Guide","Included (pluggable)","Yes (Subset: SSL_read, SSL_write, etc.)"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","mbedtls_ssl_* mbedtls_sha1_* mbedtls_md5_* mbedtls_x509* ...","CMake , URL: /wiki/CMake
+","API Reference + High Level and Module Level Documentation (HTML)","Included (monolithic)","No"
+"NSS , URL: /wiki/Network_Security_Services
+","CERT_* SEC_* SECKEY_* NSS_* PK11_* SSL_* ...","Makefile","Manual (HTML)","Included, PKCS#11 based[231]","Yes (separate package called nss_compat_ossl[232])"
+"OpenSSL , URL: /wiki/OpenSSL
+","SSL_* SHA1_* MD5_* EVP_* ...","Makefile","Man pages","Included (monolithic)","N/A"
+"wolfSSL , URL: /wiki/WolfSSL
+","wolfSSL_* CyaSSL_* SSL_*","Autoconf, automake, libtool, MSVC project workspaces, XCode projects, CodeWarrior projects, MPLAB X projects, Keil, IAR, Clang, GCC, e2Studio","Manual and API Reference (HTML, PDF)","Included (monolithic)","Yes (about 60% of API)"
+"Implementation","Namespace","Build tools","API manual","Crypto back-end","OpenSSL compatibility layer"

@@ -1,0 +1,325 @@
+"Audio compression format , URL: /wiki/Audio_compression_format
+","Creator","First public release date","Latest stable version","Cost","Cost","Proprietary , URL: /wiki/Proprietary_software
+","Open-source , URL: /wiki/Open-source_license
+","Uses (other than consumer audio)","Music reproduction (consumer audio)","Telephony , URL: /wiki/Telephony
+","Lossless audio compression , URL: /wiki/Audio_compression_(data)#Lossless
+","Patented , URL: /wiki/Patented
+","DRM , URL: /wiki/Digital_rights_management
+"
+"Audio compression format , URL: /wiki/Audio_compression_format
+","Creator","First public release date","Latest stable version","Encoder , URL: /wiki/Data_compression
+","Player","Proprietary , URL: /wiki/Proprietary_software
+","Open-source , URL: /wiki/Open-source_license
+","Uses (other than consumer audio)","Music reproduction (consumer audio)","Telephony , URL: /wiki/Telephony
+","Lossless audio compression , URL: /wiki/Audio_compression_(data)#Lossless
+","Patented , URL: /wiki/Patented
+","DRM , URL: /wiki/Digital_rights_management
+"
+"AAC , URL: /wiki/Advanced_Audio_Coding
+","ISO , URL: /wiki/International_Organization_for_Standardization
+IEC , URL: /wiki/International_Electrotechnical_Commission
+MPEG Audio Committee , URL: /wiki/MPEG
+","1997","ISO/IEC 14496-3","Non-free[1]","Non-free[1]","FAAC , URL: /wiki/FAAC
+Nero Digital Audio , URL: /wiki/Nero_Digital
+Apple CoreAudio , URL: /wiki/Core_Audio
+QuickTime , URL: /wiki/QuickTime
+iTunes , URL: /wiki/ITunes
+","FAAD2 , URL: /wiki/FAAD2
+FFmpeg , URL: /wiki/FFmpeg
+Fraunhofer FDK AAC , URL: /wiki/Fraunhofer_FDK_AAC
+","Digital TV service, Digital Radio, Internet streaming","Yes","AAC-LD , URL: /wiki/AAC-LD
+","MPEG-4 SLS , URL: /wiki/MPEG-4_SLS
+","Yes","FairPlay , URL: /wiki/FairPlay
+"
+"AC-3 , URL: /wiki/Dolby_Digital
+","Dolby Laboratories , URL: /wiki/Dolby_Laboratories
+","1992","ATSC , URL: /wiki/Advanced_Television_Systems_Committee_standards
+","Free","Free","DVD players , URL: /wiki/DVD_players
+digital television , URL: /wiki/Digital_television
+","FFmpeg , URL: /wiki/FFmpeg
+","Theatrical movie presentation, Digital TV service & home-video (personal recorders, DVD, etc.)","No","No","No","No","?"
+"ALAC , URL: /wiki/Apple_Lossless
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","2004-04-28","QuickTime , URL: /wiki/QuickTime
+","Free","Free","QuickTime , URL: /wiki/QuickTime
+iTunes , URL: /wiki/ITunes
+RealPlayer , URL: /wiki/RealPlayer
+","FFmpeg , URL: /wiki/FFmpeg
+","Music archival","Yes","No","Yes","Free","Possible, but never implemented"
+"ALS , URL: /wiki/Audio_Lossless_Coding
+","ISO , URL: /wiki/International_Organization_for_Standardization
+IEC , URL: /wiki/International_Electrotechnical_Commission
+","2005","ISO/IEC 14496-3","Free","Free","MPEG-4 ALS , URL: /wiki/MPEG-4_ALS
+","FFmpeg , URL: /wiki/FFmpeg
+","-","Yes","No","Yes","Yes","?"
+"AMBE , URL: /wiki/Multi-Band_Excitation
+","Digital Voice Systems","?","?","Non-free","Non-free","?","mbelib","Low bandwidth HF/VHF digital radio, VoIP trunking","No","No","No","Yes","?"
+"AMR , URL: /wiki/Adaptive_multi-rate_compression
+","3GPP , URL: /wiki/3GPP
+","1999-06-22","ETSI , URL: /wiki/ETSI
+","Non-free[5][6]","Non-free[5][6]","QuickTime , URL: /wiki/QuickTime
+RealPlayer , URL: /wiki/RealPlayer
+","Android , URL: /wiki/Android_(operating_system)
+","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","Yes","No"
+"AMR-WB , URL: /wiki/AMR-WB
+","3GPP , URL: /wiki/3GPP
+","2001-04-10","ETSI , URL: /wiki/ETSI
+","Non-free","Non-free","QuickTime , URL: /wiki/QuickTime
+RealPlayer , URL: /wiki/RealPlayer
+","VisualOn , URL: /wiki/VisualOn
+Android , URL: /wiki/Android_(operating_system)
+","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","Yes","No"
+"AMR-WB+ , URL: /wiki/AMR-WB%2B
+","3GPP , URL: /wiki/3GPP
+","2004-06-14","ETSI , URL: /wiki/ETSI
+","Non-free[9][10]","Non-free[9][10]","?","?","voice recording , URL: /wiki/Voice_recording
+","Yes","Yes","No","Yes","No"
+"aptX , URL: /wiki/AptX
+","Qualcomm , URL: /wiki/Qualcomm
+","1989","2007","Non-free","Non-free","Harris Corporation , URL: /wiki/Harris_Corporation
+","FFmpeg","Studio/transmitter link , URL: /wiki/Studio/transmitter_link
+Bluetooth , URL: /wiki/Bluetooth
+wireless microphone , URL: /wiki/Wireless_microphone
+","Yes","No","No","Yes","No"
+"ATRAC , URL: /wiki/Adaptive_Transform_Acoustic_Coding
+","Sony , URL: /wiki/Sony
+","1991","ATRAC3plus","Non-free","Non-free","MiniDisc , URL: /wiki/MiniDisc
+Walkman , URL: /wiki/Walkman
+VAIO , URL: /wiki/VAIO
+Clie , URL: /wiki/Clie
+PlayStation 3 , URL: /wiki/PlayStation_3
+PlayStation Portable , URL: /wiki/PlayStation_Portable
+SDDS , URL: /wiki/Sony_Dynamic_Digital_Sound
+SoundForge , URL: /wiki/SoundForge
+RealPlayer , URL: /wiki/RealPlayer
+","FFmpeg , URL: /wiki/FFmpeg
+","voice recording , URL: /wiki/Voice_recording
+","Yes","No","Yes","Yes","Yes"
+"BroadVoice , URL: /wiki/Broadcom#BroadVoice
+","Broadcom , URL: /wiki/Broadcom
+","2009-08-19","1.2","Free","Free","?","?","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","Free","No"
+"CELT , URL: /wiki/CELT
+","Xiph.Org Foundation , URL: /wiki/Xiph.Org_Foundation
+","2007-12-08","Opus , URL: /wiki/Opus_(audio_format)
+","Free","Free","?","FFmpeg , URL: /wiki/FFmpeg
+","Studio/transmitter link , URL: /wiki/Studio/transmitter_link
+","Yes","Yes","No","No","No"
+"Codec2 , URL: /wiki/Codec2
+","David Rowe","2010","Developmental","Free","Free","?","c2enc, c2dec","Low bandwidth HF/VHF digital radio, VoIP trunking","No","Yes","No","No","No"
+"Enhanced AC-3 (E-AC-3) , URL: /wiki/Dolby_Digital_Plus
+","Dolby Laboratories , URL: /wiki/Dolby_Laboratories
+","?","ATSC , URL: /wiki/Advanced_Television_Systems_Committee_standards
+","Non-free","Non-free","Digital television , URL: /wiki/Digital_television
+","FFmpeg , URL: /wiki/FFmpeg
+","Theatrical movie presentation, digital TV service & home-video (personal recorders, DVD, etc.)","No","No","No","Yes","Yes"
+"EVS , URL: /wiki/Enhanced_Voice_Services
+","Fraunhofer , URL: /wiki/Fraunhofer_IIS
+JVC Kenwood , URL: /wiki/JVC_Kenwood
+NTT , URL: /wiki/Nippon_Telegraph_and_Telephone
+NTT Docomo , URL: /wiki/NTT_Docomo
+Panasonic , URL: /wiki/Panasonic
+Ericsson , URL: /wiki/Ericsson
+","2014","?","Non-free","?","?","?","?","?","?","?","Yes","?"
+"FLAC , URL: /wiki/Free_Lossless_Audio_Codec
+","Xiph.Org Foundation , URL: /wiki/Xiph.Org_Foundation
+","2001-07-20","1.3.3 (2019-08-04)","Free","Free","","FLAC , URL: /wiki/FLAC
+FFmpeg , URL: /wiki/FFmpeg
+","Music archival[15]","Yes","No","Yes","No","No"
+"G.711 , URL: /wiki/G.711
+","ITU-T , URL: /wiki/ITU-T
+","ITU-T , URL: /wiki/ITU-T
+","G.711 Appendix II (02/00)","Free","Free","VoIP , URL: /wiki/VoIP
+","FFmpeg , URL: /wiki/FFmpeg
+Ekiga , URL: /wiki/Ekiga
+Asterisk (PBX) , URL: /wiki/Asterisk_(PBX)
+VoIP , URL: /wiki/VoIP
+","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","No","No"
+"G.722 , URL: /wiki/G.722
+","ITU-T","1988-11","","Free","Free","VoIP , URL: /wiki/VoIP
+","Asterisk (PBX) , URL: /wiki/Asterisk_(PBX)
+QuteCom , URL: /wiki/QuteCom
+","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","No","No"
+"G.722.1 , URL: /wiki/G.722.1
+","ITU-T","1999-09","G.722.1 (05/05)","Free[16][17]","Free[16][17]","VoIP , URL: /wiki/VoIP
+","FreeSWITCH , URL: /wiki/FreeSWITCH
+PJSIP , URL: /w/index.php?title=PJSIP&action=edit&redlink=1
+","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","Yes","No"
+"G.722.2 , URL: /wiki/G.722.2
+","ITU-T (adopted directly from 3GPP)","2002-01","G.722.2 (07/03)","Non-free","Non-free","QuickTime , URL: /wiki/QuickTime
+RealPlayer , URL: /wiki/RealPlayer
+","VisualOn , URL: /wiki/VisualOn
+Android , URL: /wiki/Android_(operating_system)
+","voice recording , URL: /wiki/Voice_recording
+","No","No","No","Yes","No"
+"G.723.1 , URL: /wiki/G.723.1
+","ITU-T","1996-03","G.723.1 (05/06)","Non-free","Non-free","VoIP , URL: /wiki/VoIP
+","FFmpeg","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","Yes","No"
+"G.726 , URL: /wiki/G.726
+","ITU-T","1990-12","","Free","Free","VoIP , URL: /wiki/VoIP
+","FFmpeg , URL: /wiki/FFmpeg
+Ekiga , URL: /wiki/Ekiga
+VoIP , URL: /wiki/VoIP
+","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","No","No"
+"G.728 , URL: /wiki/G.728
+","ITU-T","1992-09","","Non-free","Non-free","VoIP , URL: /wiki/VoIP
+","","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","Yes","No"
+"G.729 , URL: /wiki/G.729
+","ITU-T","1996-03","G.729 (06/12)","Free[19]","Free","VoIP , URL: /wiki/VoIP
+","FFmpeg , URL: /wiki/FFmpeg
+","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","Expired[19]","No"
+"G.729.1 , URL: /wiki/G.729.1
+","ITU-T","2006-05","G.729.1 Am.8 (03/13)","Free[19]","Free","VoIP , URL: /wiki/VoIP
+","","voice recording , URL: /wiki/Voice_recording
+DECT , URL: /wiki/DECT
+","No","Yes","No","No","No"
+"GSM-FR , URL: /wiki/GSM-FR
+","ETSI , URL: /wiki/ETSI
+","1990-1994 (ETS 300 580-2)","ETSI EN 300 961 V8.1.1 (2000–11)","Free","Free","","Ekiga , URL: /wiki/Ekiga
+VoIP , URL: /wiki/VoIP
+","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","?","No"
+"HE-AAC , URL: /wiki/HE-AAC
+","ISO , URL: /wiki/International_Organization_for_Standardization
+IEC , URL: /wiki/International_Electrotechnical_Commission
+","2003","ISO/IEC 14496-3","?","?","?","?","?","Yes","No","No","?","?"
+"iLBC , URL: /wiki/ILBC
+","Global IP Solutions","2002","RFC 3951","Free","Free","Cisco IP Communicator , URL: /wiki/Cisco_IP_Communicator
+Skype , URL: /wiki/Skype
+","Ekiga , URL: /wiki/Ekiga
+Asterisk (PBX) , URL: /wiki/Asterisk_(PBX)
+VoIP , URL: /wiki/VoIP
+","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","Free[22]","No"
+"iSAC , URL: /wiki/Internet_Speech_Audio_Codec
+","Global IP Solutions","?","","Free","Free","Yahoo! Messenger","WebRTC , URL: /wiki/WebRTC
+","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","Yes[23]","?"
+"Monkey's Audio , URL: /wiki/Monkey%27s_Audio
+","Matthew T. Ashland","2000","7.33 (2022-02-09)","Free","Free","Monkey's Audio , URL: /wiki/Monkey%27s_Audio
+","FFmpeg , URL: /wiki/FFmpeg
+","Music Archival","Yes","No","Yes","No","No"
+"MP2 , URL: /wiki/MPEG-1_Audio_Layer_II
+","ISO , URL: /wiki/International_Organization_for_Standardization
+IEC , URL: /wiki/International_Electrotechnical_Commission
+","1993","ISO/IEC 11172-3, ISO/IEC 13818-3","Free[24]","Free[24]","DVD , URL: /wiki/DVD
+","TooLAME , URL: /wiki/TooLAME
+FFmpeg , URL: /wiki/FFmpeg
+","DAB , URL: /wiki/Digital_Audio_Broadcasting
+DVB , URL: /wiki/Digital_Video_Broadcasting
+DVD , URL: /wiki/DVD
+","Yes","No","No","Free[25]","?"
+"MP3 , URL: /wiki/MPEG-1_Audio_Layer_3
+","ISO , URL: /wiki/International_Organization_for_Standardization
+IEC , URL: /wiki/International_Electrotechnical_Commission
+","1993","ISO/IEC 11172-3, ISO/IEC 13818-3","Free","Free","FhG , URL: /wiki/FhG
+l3enc , URL: /wiki/L3enc
+Xing , URL: /wiki/Xing_Technology
+","LAME , URL: /wiki/LAME
+FFmpeg , URL: /wiki/FFmpeg
+libmad , URL: /wiki/MPEG_Audio_Decoder
+","-","Yes","No","No","No[27]","Yes (optional, rarely used)"
+"Musepack , URL: /wiki/Musepack
+","Frank Klemm/MDT","1997","1.30 (2009-04-02)","Free","Free","","Musepack , URL: /wiki/Musepack
+FFmpeg , URL: /wiki/FFmpeg
+","-","Yes","No","No","No","No"
+"Nellymoser Asao , URL: /wiki/Nellymoser_Asao_Codec
+","Nellymoser Inc. , URL: /wiki/Nellymoser
+","2002","?","Non-free","Non-free","Adobe Flash , URL: /wiki/Adobe_Flash
+Flash Player , URL: /wiki/Flash_Player
+","FFmpeg , URL: /wiki/FFmpeg
+","voice recording , URL: /wiki/Voice_recording
+","No","No","No","Yes","?"
+"Opus , URL: /wiki/Opus_(codec)
+","Xiph.Org Foundation , URL: /wiki/Xiph.Org_Foundation
+Internet Engineering Task Force , URL: /wiki/Internet_Engineering_Task_Force
+","2012-09-11","RFC 6716 (libopus 1.3)","Free","Free","","libopus, FFmpeg","VoIP , URL: /wiki/VoIP
+Studio/transmitter link , URL: /wiki/Studio/transmitter_link
+","Yes","Yes","No","Free[29]","No"
+"SBC , URL: /wiki/SBC_(codec)
+","Bluetooth SIG , URL: /wiki/Bluetooth_Special_Interest_Group
+","2003","A2DP , URL: /wiki/List_of_Bluetooth_profiles#Advanced_Audio_Distribution_Profile_(A2DP)
+","Bluetooth , URL: /wiki/Bluetooth
+","Bluetooth , URL: /wiki/Bluetooth
+","A2DP , URL: /wiki/List_of_Bluetooth_profiles#Advanced_Audio_Distribution_Profile_(A2DP)
+","BlueZ, FFmpeg","Bluetooth , URL: /wiki/Bluetooth
+","Yes","No","No","Yes","No"
+"Shorten , URL: /wiki/Shorten_(file_format)
+","Tony Robinson","1993-03-30","3.6.1 (2007-03-19, final release)","Free","Free","Shorten","FFmpeg , URL: /wiki/FFmpeg
+","-","Yes","No","Yes","No (with commercial use restriction)[30][31]","No"
+"SILK , URL: /wiki/SILK
+","Skype Limited , URL: /wiki/Skype_Limited
+","2009-01-07","Opus , URL: /wiki/Opus_(audio_format)
+","Free","Free","Skype , URL: /wiki/Skype
+","SILK Speech Codec","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","Yes","?"
+"Siren , URL: /wiki/Siren_Codec
+","Polycom , URL: /wiki/Polycom
+","1999","","?[16][17]","?[16][17]","Microsoft Office Communicator , URL: /wiki/Microsoft_Office_Communicator
+","FreeSWITCH , URL: /wiki/FreeSWITCH
+aMSN , URL: /wiki/AMSN
+","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","Yes","?"
+"Speex , URL: /wiki/Speex
+","Xiph.Org Foundation , URL: /wiki/Xiph.Org_Foundation
+","2003-03-24","Opus) , URL: /wiki/Opus_(audio_format)
+","Free","Free","Adobe Flash Player , URL: /wiki/Adobe_Flash_Player
+","Speex , URL: /wiki/Speex
+","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","No","No"
+"SVOPC , URL: /wiki/SVOPC
+","Skype Limited , URL: /wiki/Skype_Limited
+","2007","","?","?","Skype , URL: /wiki/Skype
+","","voice recording , URL: /wiki/Voice_recording
+","No","Yes","No","Yes","?"
+"True Audio (TTA) , URL: /wiki/TTA_(codec)
+","TAU Software","1999","2.3 (2015-02-24)","Free","Free","","TTA , URL: /wiki/TTA_(codec)
+FFmpeg , URL: /wiki/FFmpeg
+","-","Yes","No","Yes","No","No"
+"TwinVQ , URL: /wiki/TwinVQ
+","Nippon Telegraph and Telephone , URL: /wiki/Nippon_Telegraph_and_Telephone
+","1996 (?)","","Non-free","Non-free","Winamp , URL: /wiki/Winamp
+","FFmpeg , URL: /wiki/FFmpeg
+","speech","Yes","No","No","Yes","?"
+"Vorbis , URL: /wiki/Vorbis
+Ogg , URL: /wiki/Ogg
+","Xiph.Org Foundation , URL: /wiki/Xiph.Org_Foundation
+","2000-05-11","1.3.7","Free","Free","","libvorbis , URL: /wiki/Libvorbis
+aoTuV , URL: /wiki/AoTuV
+FFmpeg , URL: /wiki/FFmpeg
+","-","Yes","No","No","No","No"
+"WavPack , URL: /wiki/WavPack
+","Conifer Software","1998","5.4.0 (2021-01-10)","Free","Free","","WavPack , URL: /wiki/WavPack
+FFmpeg , URL: /wiki/FFmpeg
+","Music archival","Yes","No","Yes","No","No"
+"Windows Media Audio , URL: /wiki/Windows_Media_Audio
+","Microsoft , URL: /wiki/Microsoft
+","1999","11.0","Free for consumer licensees of the Windows operating system [citation needed]","Free for licensees of the Windows operating system[41]","Windows Media Player , URL: /wiki/Windows_Media_Player
+Windows Media Encoder , URL: /wiki/Windows_Media_Encoder
+","FFmpeg (decoding only for Pro, Lossless and Voice)","internet streaming","Yes","No","Yes","Yes","Optional[42]"
+"Audio compression format , URL: /wiki/Audio_compression_format
+","Creator","First public release date","Latest stable version","Encoder , URL: /wiki/Data_compression
+","Player","Proprietary , URL: /wiki/Proprietary_software
+","Open-source , URL: /wiki/Open-source_license
+","Uses (other than consumer audio)","Music reproduction (consumer audio)","Telephony , URL: /wiki/Telephony
+","Lossless audio compression , URL: /wiki/Audio_compression_(data)#Lossless
+","Patented , URL: /wiki/Patented
+","DRM , URL: /wiki/Digital_rights_management
+"
+"Audio compression format , URL: /wiki/Audio_compression_format
+","Creator","First public release date","Latest stable version","cost","cost","Proprietary , URL: /wiki/Proprietary_software
+","Open-source , URL: /wiki/Open-source_license
+","Uses (other than consumer audio)","Music reproduction (consumer audio)","Telephony , URL: /wiki/Telephony
+","Lossless audio compression , URL: /wiki/Audio_compression_(data)#Lossless
+","Patented , URL: /wiki/Patented
+","DRM , URL: /wiki/Digital_rights_management
+"

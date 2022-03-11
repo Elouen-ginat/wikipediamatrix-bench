@@ -1,25 +1,67 @@
-"null","null","null","null","null","null","null","null","null","null","null","null"
-"Botan","Jack Lloyd","Yes","Simplified BSD License","Jack Lloyd","C++","2.18.1 (May 9, 2021; 9 months ago (2021-05-09)[1]) [±]","US (Vermont)","null","null","null","null"
-"BoringSSL","Google","Yes","OpenSSL-SSLeay dual-license, ISC license","Eric Young, Tim Hudson, Sun, OpenSSL project, Google, and others","C, C++, Go, assembly","??","Australia/EU","null","null","null","null"
-"Bouncy Castle","The Legion of the Bouncy Castle Inc.","Yes","MIT License","Legion of the Bouncy Castle Inc.","Java, C#","Java 1.70 / November 29, 2021; 3 months ago (2021-11-29)[2] Java FIPS BC-FJA 1.0.2.3 / February 9, 2022; 25 days ago (2022-02-09)[3] C# 1.9.0 / October 17, 2021; 4 months ago (2021-10-17)[4] C# FIPS BC-FNA 1.0.1.1 / April 21, 2021; 10 months ago (2021-04-21)[5]","1.70 / November 29, 2021; 3 months ago (2021-11-29)[2]","BC-FJA 1.0.2.3 / February 9, 2022; 25 days ago (2022-02-09)[3]","1.9.0 / October 17, 2021; 4 months ago (2021-10-17)[4]","BC-FNA 1.0.1.1 / April 21, 2021; 10 months ago (2021-04-21)[5]","Australia"
-"1.70 / November 29, 2021; 3 months ago (2021-11-29)[2]","null","null","null","null","null","null","null","null","null","null","null"
-"BC-FJA 1.0.2.3 / February 9, 2022; 25 days ago (2022-02-09)[3]","null","null","null","null","null","null","null","null","null","null","null"
-"1.9.0 / October 17, 2021; 4 months ago (2021-10-17)[4]","null","null","null","null","null","null","null","null","null","null","null"
-"BC-FNA 1.0.1.1 / April 21, 2021; 10 months ago (2021-04-21)[5]","null","null","null","null","null","null","null","null","null","null","null"
-"BSAFE","Dell, formerly RSA Security","No","Proprietary","Dell","Java, C, assembly","SSL-J 6.4 (February 15, 2022; 19 days ago (2022-02-15)[6]) [±] SSL-J 7.0 (April 13, 2021; 10 months ago (2021-04-13)[7]) [±] Micro Edition Suite 4.6.1 (August 17, 2021; 6 months ago (2021-08-17)[8]) [±]","Australia","null","null","null","null"
-"cryptlib","Peter Gutmann","Yes","Sleepycat License and commercial license","Peter Gutmann","C","3.4.5 (2019; 3 years ago (2019)[9]) [±]","NZ","null","null","null","null"
-"GnuTLS","GnuTLS project","Yes","GNU LGPLv2.1+","Free Software Foundation","C","3.6.16 (May 24, 2021; 9 months ago (2021-05-24)[10]) [±]","EU (Greece and Sweden)","null","null","null","null"
-"Java Secure Socket Extension (JSSE)","Oracle","Yes","GNU GPLv2 and commercial license","Oracle","Java","17.0.2 (January 18, 2022; 47 days ago (2022-01-18)) [±] 11.0.14 (January 18, 2022; 47 days ago (2022-01-18)[11]) [±] 8u321 (January 18, 2022; 47 days ago (2022-01-18)[12]) [±]","US","null","null","null","null"
-"LibreSSL","OpenBSD Project","Yes","Apache License 1.0, 4-clause BSD License, ISC License, and some are public domain","Eric Young, Tim Hudson, Sun, OpenSSL project, OpenBSD Project, and others","C, assembly","3.4.2 (25 November 2021; 3 months ago (2021-11-25)[13]) [±]","Canada","null","null","null","null"
-"MatrixSSL[14]","PeerSec Networks","Yes","GNU GPLv2+ and commercial license","PeerSec Networks","C","4.2.2 (September 11, 2019; 2 years ago (2019-09-11) [15]) [±]","US","null","null","null","null"
-"Mbed TLS (previously PolarSSL)","Arm","Yes","Apache License 2.0, GNU GPLv2+ and commercial license","Arm Holdings","C","3.0.0 (July 7, 2021; 7 months ago (2021-07-07)[16]) [±]","EU (Netherlands)","null","null","null","null"
-"Network Security Services (NSS)","Mozilla, AOL, Red Hat, Sun, Oracle, Google and others","Yes","MPL 2.0","NSS contributors","C, assembly","Standard 3.68 / July 8, 2021; 7 months ago (2021-07-08)[17] Extended Support Release 3.53.1 / June 16, 2020; 20 months ago (2020-06-16)[17]","3.68 / July 8, 2021; 7 months ago (2021-07-08)[17]","3.53.1 / June 16, 2020; 20 months ago (2020-06-16)[17]","US","null","null"
-"3.68 / July 8, 2021; 7 months ago (2021-07-08)[17]","null","null","null","null","null","null","null","null","null","null","null"
-"3.53.1 / June 16, 2020; 20 months ago (2020-06-16)[17]","null","null","null","null","null","null","null","null","null","null","null"
-"OpenSSL","OpenSSL project","Yes","OpenSSL-SSLeay dual-license for any release before OpenSSL 3.0.0 Apache_License 2.0 for OpenSSL 3.0.0 and later releases","Eric Young, Tim Hudson, Sun, OpenSSL project, and others","C, assembly","3.0.1 (14 December 2021; 2 months ago (2021-12-14)[18]) [±]","Australia/EU","null","null","null","null"
-"s2n","Amazon","Yes","Apache License 2.0, GNU GPLv2+ and commercial license","Amazon, Inc.","C","Continuous","US","null","null","null","null"
-"SChannel","Microsoft","No","Proprietary","Microsoft Inc.","","Windows 10, 2015-07-29","US","null","null","null","null"
-"Secure Transport","Apple Inc.","Yes","APSL 2.0","Apple Inc.","","57337.20.44 (OS X 10.11.2), 2015-12-08","US","null","null","null","null"
-"wolfSSL (previously CyaSSL)","wolfSSL[19]","Yes","GNU GPLv2+ and commercial license","wolfSSL Inc.[20]","C","5.1.1 (January 3, 2022; 2 months ago (2022-01-03)[21]) [±]","US","null","null","null","null"
-"Erlang/OTP SSL application","Ericsson","Yes","Apache License 2.0","Ericsson","Erlang","OTP-21, 2018-06-19","Sweden","null","null","null","null"
-"null","null","null","null","null","null","null","null","null","null","null","null"
+"Implementation","SSL 2.0 , URL: /wiki/Transport_Layer_Security
+","SSL 3.0 , URL: /wiki/Transport_Layer_Security
+","TLS 1.0 , URL: /wiki/Transport_Layer_Security
+","TLS 1.1 , URL: /wiki/Transport_Layer_Security
+","TLS 1.2 , URL: /wiki/Transport_Layer_Security
+","TLS 1.3 , URL: /wiki/Transport_Layer_Security
+","DTLS 1.0 , URL: /wiki/Datagram_Transport_Layer_Security
+","DTLS 1.2 , URL: /wiki/Datagram_Transport_Layer_Security
+"
+"Botan , URL: /wiki/Botan_(programming_library)
+","No","No[36]","Yes","Yes","Yes","","Yes","Yes"
+"BoringSSL , URL: /wiki/BoringSSL
+","","","Yes","Yes","Yes","Yes","Yes","Yes"
+"Bouncy Castle , URL: /wiki/Bouncy_Castle_(cryptography)
+","No","No","Yes","Yes","Yes","Yes (draft version)","Yes","Yes"
+"BSAFE , URL: /wiki/BSAFE
+","No","Disabled by default","No[a]","No[a]","Yes","Yes","No","No"
+"cryptlib , URL: /wiki/Cryptlib
+","No","Disabled by default at compile time","Yes","Yes","Yes","","No","No"
+"GnuTLS , URL: /wiki/GnuTLS
+","No[b]","Disabled by default[38]","Yes","Yes","Yes","Yes[39]","Yes","Yes"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","No[b]","Disabled by default[40]","Disabled by default[41]","Disabled by default[41]","Yes","Yes","Yes","Yes"
+"LibreSSL , URL: /wiki/LibreSSL
+","No[42]","No[43]","Yes","Yes","Yes","Yes","Yes","Yes[44]"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","No","Disabled by default at compile time[45]","Yes","Yes","Yes","Yes","Yes","Yes"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","No","No[46]","No[46]","No[46]","Yes","Yes (experimental)","Yes[47]","Yes[47]"
+"NSS , URL: /wiki/Network_Security_Services
+","No[c]","Disabled by default[48]","Yes","Yes[49]","Yes[50]","Yes[51]","Yes[49]","Yes[52]"
+"OpenSSL , URL: /wiki/OpenSSL
+","No[53]","Disabled by default","Yes","Yes[54]","Yes[54]","Yes","Yes","Yes[55]"
+"s2n , URL: /wiki/S2n
+","No","Disabled by default","Yes","Yes","Yes","Yes","No","No"
+"SChannel , URL: /wiki/SChannel
+","Disabled by default in MSIE 7","Enabled by default","Enabled by default in MSIE 7","No","No","","No","No"
+"SChannel , URL: /wiki/SChannel
+","Disabled by default","Enabled by default","Yes","No","No","","No","No"
+"SChannel , URL: /wiki/SChannel
+","Disabled by default","Enabled by default","Yes","Disabled by default (KB4019276)","Disabled by default (KB4019276)","","No","No"
+"SChannel , URL: /wiki/SChannel
+","Disabled by default","Disabled by default in MSIE 11","Yes","Enabled by default in MSIE 11","Enabled by default in MSIE 11","","Yes[60]","No[60]"
+"SChannel , URL: /wiki/SChannel
+","Disabled by default","Enabled by default","Yes","Disabled by default","Disabled by default","","Yes","No"
+"SChannel , URL: /wiki/SChannel
+","Disabled by default","Disabled by default in MSIE 11","Yes","Yes","Yes","","Yes","No"
+"SChannel , URL: /wiki/SChannel
+","No","Disabled by default","Yes","Yes","Yes","","Yes","Yes"
+"Secure Transport , URL: /wiki/MacOS
+","Yes","Yes","Yes","No","No","","No","No"
+"Secure Transport OS X 10.8-10.10, iOS 5-8","No[d]","Yes","Yes","Yes[d]","Yes[d]","","Yes[d]","No"
+"Secure Transport OS X 10.11, iOS 9","No","No[d]","Yes","Yes","Yes","","Yes","Unknown"
+"Secure Transport OS X 10.13, iOS 11","No","No[d]","Yes","Yes","Yes","Yes (draft version)[62]","Yes","Unknown"
+"wolfSSL , URL: /wiki/WolfSSL
+","No","Disabled by default[63]","Disabled by default[64]","Yes","Yes","Yes","Yes","Yes"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","No [e]","No [f]","Disabled by default [e]","Disabled by default [e]","Yes","Partially [g]","Disabled by default [e]","Yes"
+"Implementation","SSL 2.0 , URL: /wiki/Transport_Layer_Security
+","SSL 3.0 , URL: /wiki/Transport_Layer_Security
+","TLS 1.0 , URL: /wiki/Transport_Layer_Security
+","TLS 1.1 , URL: /wiki/Transport_Layer_Security
+","TLS 1.2 , URL: /wiki/Transport_Layer_Security
+","TLS 1.3 , URL: /wiki/Transport_Layer_Security
+","DTLS 1.0 , URL: /wiki/Datagram_Transport_Layer_Security
+","DTLS 1.2 , URL: /wiki/Datagram_Transport_Layer_Security
+"

@@ -1,0 +1,41 @@
+"Model","Launch","Architecture (Fab)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Clock rate","Clock rate","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","TDP (Watts)","Notes"
+"Model","Launch","Architecture (Fab)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core (MHz)","Memory (MHz)","Core config1","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","GiB , URL: /wiki/Gibibyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Double precision , URL: /wiki/Double_precision_floating-point_format
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","OpenCL , URL: /wiki/OpenCL
+","Vulkan , URL: /wiki/Vulkan_(API)
+","TDP (Watts)","Notes"
+"Radeon E6465[464]","","","","600","800","?:?:?:2","","","2","","GDDR5 , URL: /wiki/GDDR5
+","64","192","","11","?","?","?","20","PCIe (4× miniDP or 2× DP), or MXM Type A (4× DP/HDMI/DVI)"
+"Radeon E8860[465]","","GCN (?)","","625","1125","?:?:?:10","","","2","","GDDR5 , URL: /wiki/GDDR5
+","128","768","","12.0","4.5","1.2","?","37","PCIe, MXM Type A, or MCM; with or w/o fan; miniDP, DVI+miniDP, or DP/HDMI/DVI"
+"Radeon E8870","","","","1000","1500","?:?:?:12","","","4","","GDDR5 , URL: /wiki/GDDR5
+","128","1500","","12.0","4.5","2.0","?","75","PCIe (4× DP) or MXM Type B (6× DP/HDMI/DVI)"
+"Radeon E9260","","Polaris (?)","PCIe 3.0 x8","","","?:?:?:14","","","4","","GDDR5 , URL: /wiki/GDDR5
+","128","2500","","12.0","4.5","2.0","?","50","PCIe (4× miniDP) or MXM Type A (5× DP/HDMI/DVI)"
+"Radeon E9390[466]","","Polaris (?)","PCIe 3.0 x16","1086","1250","?:?:?:28","","","8","","GDDR5 , URL: /wiki/GDDR5
+","256","3900","","12.0","4.5","2.0","?","75","4× DisplayPort"
+"Radeon E9550","","Polaris (?)","PCIe 3.0 x16","1243","1250","?:?:?:36","","","8","","GDDR5 , URL: /wiki/GDDR5
+","256","5700","","12.0","4.5","2.0","?","95","MXM Type B 6× DP/HDMI"
+"Radeon E9560","","Polaris (?)","PCIe 3.0 x16","1243","1750","?:?:?:36","","","8","","GDDR5 , URL: /wiki/GDDR5
+","256","5700","","12.0","4.5","2.0","?","",""
+"Radeon E9565","","Polaris (?)","PCIe 3.0 x16","1243","1750","?:?:?:36","","","16","","GDDR5 , URL: /wiki/GDDR5
+","256","5700","","12.0","4.5","2.0","?","135","6× miniDP"

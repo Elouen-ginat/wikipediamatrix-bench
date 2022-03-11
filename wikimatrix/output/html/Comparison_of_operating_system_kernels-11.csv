@@ -1,0 +1,51 @@
+"Kernel name","DES , URL: /wiki/Data_Encryption_Standard
+","AES , URL: /wiki/Advanced_Encryption_Standard
+","Blowfish , URL: /wiki/Blowfish_(cipher)
+","Triple DES , URL: /wiki/Triple_DES
+","Serpent , URL: /wiki/Serpent_(cipher)
+","Twofish , URL: /wiki/Twofish
+","CAST-128 , URL: /wiki/CAST-128
+","DES-X , URL: /wiki/DES-X
+","IDEA , URL: /wiki/International_Data_Encryption_Algorithm
+","RC2 , URL: /wiki/RC2
+","RC5 , URL: /wiki/RC5
+","SEED , URL: /wiki/SEED
+","Skipjack , URL: /wiki/Skipjack_(cipher)
+","TEA , URL: /wiki/Tiny_Encryption_Algorithm
+","XTEA , URL: /wiki/XTEA
+","CAST-256 , URL: /wiki/CAST-256
+","RC4 , URL: /wiki/RC4
+","Camellia , URL: /wiki/Camellia_(cipher)
+","Anubis , URL: /wiki/Anubis_(cipher)
+","KHAZAD , URL: /wiki/KHAZAD
+","Salsa20 , URL: /wiki/Salsa20
+","FCrypt , URL: /w/index.php?title=FCrypt&action=edit&redlink=1
+"
+"DragonFly BSD kernel","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","No","Yes","No","No","No","Yes","Yes","No","No","No","No"
+"FreeBSD kernel","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","No","No","No","Yes","No","No","Yes","Yes","Yes","No","No","No","No"
+"Linux","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Windows NT kernel","Yes","Yes","Yes","Yes","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","No","No","No","No","No"
+"macOS XNU Kernel","Yes","Yes","Yes","?","?","?","Yes","?","?","Yes","Yes","?","?","?","?","Yes","Yes","?","?","?","?","?"
+"Kernel name","DES , URL: /wiki/Data_Encryption_Standard
+","AES , URL: /wiki/Advanced_Encryption_Standard
+","Blowfish , URL: /wiki/Blowfish_(cipher)
+","Triple DES , URL: /wiki/Triple_DES
+","Serpent , URL: /wiki/Serpent_(cipher)
+","Twofish , URL: /wiki/Twofish
+","CAST-128 , URL: /wiki/CAST-128
+","DES-X , URL: /wiki/DES-X
+","IDEA , URL: /wiki/International_Data_Encryption_Algorithm
+","RC2 , URL: /wiki/RC2
+","RC5 , URL: /wiki/RC5
+","SEED , URL: /wiki/SEED
+","Skipjack , URL: /wiki/Skipjack_(cipher)
+","TEA , URL: /wiki/Tiny_Encryption_Algorithm
+","XTEA , URL: /wiki/XTEA
+","CAST-256 , URL: /wiki/CAST-256
+","RC4 , URL: /wiki/RC4
+","Camellia , URL: /wiki/Camellia_(cipher)
+","Anubis , URL: /wiki/Anubis_(cipher)
+","KHAZAD , URL: /wiki/KHAZAD
+","Salsa20 , URL: /wiki/Salsa20
+","FCrypt , URL: /w/index.php?title=FCrypt&action=edit&redlink=1
+"

@@ -1,0 +1,33 @@
+"OLAP server","Real Time","Write-back","Partitioning","Usage Based Optimizations","Load Balancing and Clustering"
+"Apache Druid , URL: /wiki/Apache_Druid
+","Yes","?","Yes","Yes","Yes"
+"Apache Kylin , URL: /wiki/Apache_Kylin
+","Yes [28]","No","Yes","Yes","Yes"
+"Apache Pinot , URL: /wiki/Apache_Pinot
+","Yes","Yes","Yes","Yes","Yes"
+"ClickHouse , URL: /wiki/ClickHouse
+","Yes","Yes","Yes","Yes","Yes"
+"Essbase , URL: /wiki/Essbase
+","Yes","Yes","Yes","Yes","Yes"
+"IBM Cognos BI , URL: /wiki/IBM_Cognos_BI
+","Yes","No","Yes","Yes","?"
+"IBM Cognos TM1 , URL: /wiki/IBM_Cognos_TM1
+","Yes","Yes","Yes","?","?"
+"icCube , URL: /wiki/IcCube
+","Yes[29]","Yes[30]","Yes[31]","?","?"
+"Jedox OLAP Server , URL: /wiki/Jedox
+","Yes","Yes","Yes","?","?"
+"Kyvos , URL: /wiki/Kyvos
+","Yes","Yes","Yes","Yes","Yes"
+"Microsoft Analysis Services , URL: /wiki/Microsoft_Analysis_Services
+","Yes","Yes","Yes","Yes","Yes"
+"MicroStrategy Intelligence Server , URL: /wiki/MicroStrategy
+","?","Yes[32]","Yes","Yes","Yes"
+"Mondrian OLAP server , URL: /wiki/Mondrian_OLAP_server
+","Yes","Planned","Yes","?","?"
+"Oracle Database OLAP Option , URL: /wiki/Oracle_OLAP
+","?","Yes","Yes","No","?"
+"SAP NetWeaver BW , URL: /wiki/SAP_NetWeaver_Business_Intelligence
+","?","Yes","Yes","?","?"
+"SAS OLAP Server , URL: /wiki/SAS_System
+","?","Yes","Yes","?","?"

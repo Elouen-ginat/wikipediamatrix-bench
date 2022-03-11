@@ -1,0 +1,157 @@
+"IRC Bot","Primary developers , URL: /wiki/Software_developer
+","Software license , URL: /wiki/Software_license
+","Operating system , URL: /wiki/Operating_system
+","Programming language , URL: /wiki/Programming_language
+","First public release - date (version)","Latest version - date (version)","Notable features","Function scope","Website , URL: /wiki/Website
+"
+"Cardinal","John Maguire","MIT , URL: /wiki/MIT_License
+","Cross-platform","Python 3","2013-02-03 (beta)","2021-01-13 (3.1.0)","?","?","[1] , URL: https://github.com/JohnMaguire/Cardinal
+"
+"Pynfo","kuran","GPL-2 , URL: /wiki/GPL
+","Cross-platform","Python","2002-10-21","2013-02-27","?","?","[2] , URL: https://sourceforge.net/projects/pynfo
+"
+"Supybot","Jeremiah Fincher, James Vega and others","BSD , URL: /wiki/BSD_licenses
+","Cross-platform","Python","? (0.30)","2018-05-10 (0.84.0)","Many plugins, SSL, multiple networks support, (un)loading plugins, threads, configuration registry, standardized command syntax, argument parsing","?","[3] , URL: http://sourceforge.net/projects/supybot/
+[4] , URL: https://github.com/Supybot/Supybot
+"
+"Cerberus","Stefan Hüsges , URL: https://de.wikipedia.org/wiki/Benutzer:DeusTron
+","GPL-3.0 , URL: /wiki/GPL
+","Cross-platform","PHP","2008-02-18 (beta)","2016-10-04 (1.6.0)","?","?","[5] , URL: https://github.com/tronsha/cerberus
+"
+"Cinch","Dominik Honnef, Lee Jarvis","MIT","Unix-like","Ruby","2010-07-08 (0.3.2)","2015-03-31 (2.2.5)","Threaded, object-oriented","Bot writing framework","[6] , URL: https://github.com/cinchrb/cinch/
+"
+"CNT Bot","CNT Bot Team","Unlicense , URL: /wiki/Unlicense
+","Unix-like","TCL","2015-06-15 (0.1)","2015-07-24 (0.2)","Voting, polling, elect/recall delegates, hold plenaries, admission control, automatically connects to other CNT Bots","Democracy software for digital activists building flat, horizontal networks","[7] , URL: http://cntbot.org
+"
+"Darkbot","Jason Hamilton, juice","GPL","Unix-like , URL: /wiki/Unix-like
+","C , URL: /wiki/C_(programming_language)
+","?","?","?","responds to user questions from database","[8] , URL: http://darkbot.sourceforge.net/
+"
+"Daskeb","Digit","GPL","Unix-like , URL: /wiki/Unix-like
+","Haskell , URL: /wiki/Haskell_(programming_language)
+","?","?","minimal starter bot","?","[9] , URL: http://www.wastedartist.com/scripts/daskeb/daskeb.html
+"
+"Eggdrop , URL: /wiki/Eggdrop
+","Eggheads","GPL","Cross-platform , URL: /wiki/Cross-platform
+","C","1993-12","2021-05-31 (1.9.1)","SSL, botnet, partyline, filesharing, user management, IRC bot uptime contest, supports scripting in tcl","multi-purpose","[10] , URL: https://web.archive.org/web/20081230054258/http://www.eggheads.org/
+"
+"EnergyMech","Proton","GPL","Unix-like","C","1998-09-10 (2.5.24, first release by Proton)","2018-03-09 (3.0.99p4)","single-thread multi-bot capable, low resource usage, botnet, user management, channel moderation, built-in irc bouncer, can be upgraded without disconnecting, IRC bot uptime contest, supports scripting in tcl, python.","multi-purpose","[11] , URL: http://www.energymech.net/
+"
+"Erebot","François Poirotte","GPL-3.0 , URL: /wiki/GPL
+","Cross-platform","PHP","2010-10-09","2011-05-08","Extensible with many modules and support for multiple networks, multiple identities, SSL/TLS, STARTTLS, IdentD and various IRC daemons extensions. Can be used as a framework to create advanced channel bots.","games","[12] , URL: https://github.com/Erebot/Erebot
+"
+"Erwin","Idar Lund","GPL-2.0+ , URL: /wiki/GPL
+","Cross-platform","Perl","2004-04-05 (1.0-beta1)","2017-03-19 (1.2.0)","Easily expandable by writing new modules.","Replies to users from database.","[13] , URL: http://sourceforge.net/projects/erwin/
+"
+"FoxBot","Lee Watson","GPL-3.0 , URL: /wiki/GPL
+","Cross-platform","Java","?","2013-09-06 (0.9)","Command framework is designed to make writing commands easy. Has simple and powerful permissions system. Simple and fully explained config.","?","[14] , URL: https://github.com/TheReverend403/FoxBot
+"
+"FoxEye","Andriy Grytsenko","GPL","Unix-like","C","2011-01 (beta)","2011-02-24 (0.9b10)","Multithreaded, multinetworked. Encoding chosen per user or network. Extendible by plugins, can be used as client or whatever. Currently supported scripts: Lua, Tcl.","kit to build internet client / server / gateway, primary for messaging networks","[15] , URL: http://foxeye.sf.net/
+"
+"Gambot","Derek Hoagland","GPL , URL: /wiki/GPL
+","Unix-like","Perl , URL: /wiki/Perl
+","2011-1-1","2011-07-16 (1.0)","Framework for creating bots. Messages handled completely asynchronously. Extensible in any programming language. Can be updated without reconnecting, restarting, or reloading.","Twitter and other feeds, games / memes,","[16] , URL: https://github.com/grickit/Gambot
+"
+"Gozerbot","Bart Thate","BSD , URL: /wiki/BSD_licenses
+","Unix-like","Python","?","? (1.0.1)","XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+Google Wave , URL: /wiki/Google_Wave
+","?","[17] , URL: https://web.archive.org/web/20160306003449/https://pikacode.com/bthate/gozerbot/
+"
+"Graystone","Geoff Woollams","MIT , URL: /wiki/MIT_License
+","Cross-platform , URL: /wiki/Cross-platform
+","C# , URL: /wiki/C_Sharp_(programming_language)
+","2015-10-08","2015-10-09 (0.1)","IRC commands can launch any command line or http request to allow any program or script to control the bot by its output. MySQL support for non user initiated actions and 3rd party integration.","?","[18] , URL: https://github.com/nzgeoff/Graystone
+"
+"guppy","Svetlana Tkachenko","GPL , URL: /wiki/GNU_General_Public_License
+","Cross-platform , URL: /wiki/Cross-platform
+","Python , URL: /wiki/Python_(programming_language)
+","2011-03-20","2012-12-11 (0.4.3)","easy to install, modular structure","multi-purpose","[19] , URL: https://puszcza.gnu.org.ua/projects/guppy/
+"
+"Ibid","Jonathan Hitchcock, Michael Gorven, Stefano Rivera","GPL3 , URL: /wiki/GPL3
+MIT , URL: /wiki/MIT_License
+","Unix-like","Twisted , URL: /wiki/Twisted_(software)
+","? (0.1.0)","? (0.1.1)","Campfire , URL: /wiki/Campfire_(software)
+","? + plugin "factoids" responds to users from database","[20] , URL: http://ibid.omnia.za.net/
+"
+"Infobot , URL: /wiki/Infobot
+","Kevin Lenzo","Artistic License , URL: /wiki/Artistic_License
+","Unix-like","Perl , URL: /wiki/Perl
+","2004-08","2008-08-01 (1.5.3)","?","replies to users from database","[21] , URL: http://infobot.sourceforge.net/
+"
+"IrcBot","Marlinc","BSD , URL: /wiki/BSD_licenses
+","Unix-like","PHP","? (0.1)","? (1.2)","?","?","[22] , URL: https://github.com/Marlinc/IRCBot
+"
+"jenni","Michael Yanovich","EFLv2 , URL: /wiki/Eiffel_Forum_License
+","Unix-like","Python (2)","?","?","Threaded, general purpose, includes some games. Easily expandable by writing new modules.","user management, conversation / lookup, games","[23] , URL: https://github.com/myano/jenni/
+"
+"irccd","David Demelier","ISC , URL: /wiki/ISC_license
+","Cross-platform , URL: /wiki/Cross-platform
+","C++17 and JavaScript","2013-09-13 (1.0.0)","2021-01-04 (3.1.1)","Multiple servers, rules filtering, templates system, cross-platform, extensible with Javascript and C++ plugins","bot framework","[24] , URL: http://projects.malikania.fr/irccd
+"
+"Jerkbot","Jason Stephenson","Artistic License 2.0 , URL: /wiki/Artistic_License_2.0
+","Cross-platform , URL: /wiki/Cross-platform
+","Sleep","2014-02-10 (1.0)","2017-08-29 (1.7.65)","Configurable chatter bot, written as jIRCii script","responsive chatter + learns + modules","[25] , URL: http://cepheidvariable.online/irc
+"
+"JSONBOT","Bart Thate","MIT","Unix-like","Python","2010-04","2012-03-23 (0.84.4)","Beta","","[26] , URL: https://github.com/melmothx/jsonbot
+"
+"JZBot","Alexander Boyd, Maximilian Dirkmann, James Stoker","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","Cross-platform","Java , URL: /wiki/Java_(programming_language)
+","?","?","?","feeds, werewolf / maffia, karma system, reminders","[27] , URL: https://archive.today/20130124172851/http://jzbot.googlecode.com/
+"
+"KGB","Martín Ferrari and Damyan Ivanov","GPL-2+ , URL: /wiki/GNU_General_Public_License
+","Cross-platform","Perl","2008-07-14 (Git)","see commits , URL: https://alioth.debian.org/anonscm/git/kgb/kgb.git
+","KGB is a system that provides notifications on IRC for commits made to Git, Subversion and CVS repositories.","notifications on code commits","[28] , URL: http://kgb.alioth.debian.org/
+"
+"Lambdabot","Andrew J. Bromage et al.","MIT","Unix-like","Haskell , URL: /wiki/Haskell_(programming_language)
+","? (1.0)","2011-01-20 (4.2.3.2)","GHCi , URL: /wiki/GHCi
+","haskell development tool","[29] , URL: http://haskell.org/haskellwiki/Lambdabot
+"
+"Limnoria","","BSD , URL: /wiki/BSD_licenses
+","Cross-platform","Python","?","2017-03-30 (2017.03.30)","See Supybot","A maintained fork of Supybot","[30] , URL: https://github.com/ProgVal/Limnoria
+"
+"Mozbot","Ian Hickson, Chris Crews","MPL , URL: /wiki/Mozilla_Public_License
+","Cross-platform","Perl","?","?","?","services to developer communities","[31] , URL: https://web.archive.org/web/20120116110244/http://www.mozilla.org/projects/mozbot/
+"
+"MrBot - AwesomeBot","MattMc","Apache v2","Cross-platform","Java","November '13","2014-06-01","A Semi-Advanced Java Bot with a ton of feactures and still more coming... join #AwesomeBot on espernet for more info..","factoids + lastseen","[32] , URL: https://archive.today/20140601192732/https://www.github.com/mattsmc/mrbot
+"
+"nibblrjr","Kirjava","None","Cross-platform","Javascript","?","?","bot framework for creating custom behaviour dynamically","Bot framework","[33] , URL: https://github.com/kirjavascript/nibblrjr
+"
+"node-irc","Martyn Smith","GPLv3","Unix-like","Javascript","?","2015-01-16 (0.3.9)","Node- native non blocking","?","[34] , URL: https://github.com/martynsmith/node-irc
+"
+"PircBot","Paul Mutton","GPL","Cross-platform","Java","2001-08-01","2009-12-14 (1.5.0)","Framework for creating bots","framework to create bots","[35] , URL: http://www.jibble.org/pircbot.php
+"
+"pmxbot","YouGov, Jamie Turner, Chris Mulligan","MIT","Unix-like","Python 3","?","?","Designed to be extensible for a work IRC network","conversation, search, games","[36] , URL: https://github.com/yougov/pmxbot
+"
+"Ruby-rbot","ruby-rbot","GPL","Unix-like","Ruby , URL: /wiki/Ruby_(programming_language)
+","?","?","flexible plugin system","Twitter & RSS feeds, searches, games","[37] , URL: http://ruby-rbot.org/
+"
+"Rubybot","umby24","GPL-3.0 , URL: /wiki/GPL
+","Cross-platform","Ruby","?","2013-10-30 (4.2)","Simple, yet easily extensible.","usermanagement","[38] , URL: https://github.com/umby24/Rubybot
+"
+"Schongo","Selig, Posiden, Wil","?","Cross-platform","Python 3","?","?","Focus on simplicity, highly extandable module system, rapid development cycle","internet searches","[39] , URL: https://github.com/DarkDna/Schongo
+"
+"Shocky","Shockah, clone1018","GPL-2.0 , URL: /wiki/GPL
+","Cross-platform","Java","?","?","A Very advanced Java irc bot, that supports all kinds of stuff","user management, factoids, games, karma system","[40] , URL: https://github.com/Shockah/Shocky3
+"
+"sircbot","Alpine Linux , URL: /wiki/Alpine_Linux
+","GPL-2.0 , URL: /wiki/GPL
+","Unix-like","C (Lua scriptable)","?","2011-12-15","Simple IRC bot for shell and lua scripts","?","git , URL: https://git.alpinelinux.org/hosted/sircbot/
+wiki , URL: http://wiki.alpinelinux.org/wiki/Sircbot
+"
+"Sopel","dgw, Elsie Powell, Dimitri Molenaars, Elad Alfassa, Ari Koivula","EFLv2 , URL: /wiki/Eiffel_Forum_License
+","Cross-platform","Python","2012-07-15 (3.0.0)","2020-08-04 (7.0.6)","SSL, (un)loading of plugins at runtime, threaded, user/channel/plugin settings database, Python 3 support. (Formerly Willie; based originally on phenny)","Twitter & other feeds, internet searches, meetingbot, link information","[41] , URL: https://sopel.chat/
+"
+"Tennu","Havvy (Ryan Scheel)","ISC","Cross-platform , URL: /wiki/Cross-platform
+","Javascript","2012-03-08 (1.0.0)","2016-06-22 (4.9.0)","Node.js, Plugin architecture, Promise driven","user management","[42] , URL: https://tennu.github.io/
+"
+"Ultros","gdude2002 and rakiru","Artistic License 2.0 , URL: /wiki/Artistic_License_2.0
+","Cross-platform","Python2","2013-04-08 (Git)","see commits , URL: https://github.com/UltrosBot/Ultros/commits/master
+","Python IRC bot with an extensible plugin and protocol system, and a package manager. Also supports mumble.","internet searches, games","git , URL: https://github.com/UltrosBot/Ultros
+site , URL: https://ultros.io
+"
+"VikingBot","Tor Henning Ueland","GPL-3.0 , URL: /wiki/GPL
+","Unix-like","PHP","?","2013-10-09","Simple PHP based IRC bot with support for secure IRC servers and plugin support","bot stats","[43] , URL: https://github.com/Ueland/VikingBot
+"
+"Yauib","Julien Palard","Simplified BSD , URL: /wiki/BSD_licenses
+","Cross-platform","Python","2011-03-22","?","Plugins can be written in any language","takes all pubmsg and priv and tries to match the first word as a command to a directory with exec files and the rest as parameters","[44] , URL: https://github.com/julienpalard/yauib
+"

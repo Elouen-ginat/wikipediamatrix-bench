@@ -1,0 +1,92 @@
+"Codename","Model","Year","Processors Supported","Fabrication process , URL: /wiki/Semiconductor_device_fabrication
+nm , URL: /wiki/Nanometre
+","FSB , URL: /wiki/Front-side_bus
+QDR , URL: /wiki/Quad_Data_Rate
+","Crossfire , URL: /wiki/AMD_CrossFire
+","Features","Southbridge , URL: /wiki/Southbridge_(computing)
+","NB-SB Interface","Notes"
+"RS200L","IGP 330","2002","Northwood , URL: /wiki/Pentium_4#Northwood
+Prescott , URL: /wiki/Pentium_4#Prescott
+","180","400","No","Radeon VE (7000) IGP , URL: /wiki/Radeon_R100#RV100
+GiB , URL: /wiki/GiB
+DDR-200 or 266 , URL: /wiki/DDR_SDRAM#Chips_and_modules
+","ATI IXP200/IXP250 , URL: /wiki/Comparison_of_ATI_chipsets#Comparison_of_Southbridges
+VIA VT82C686B , URL: /wiki/List_of_VIA_chipsets#Southbridge_chips
+ALI M1535D+ , URL: /wiki/Acer_Laboratories_Incorporated#Chipsets
+","PCI , URL: /wiki/Conventional_PCI
+","HydraVision , URL: /wiki/AMD_Catalyst#HydraVision
+Video Immersion , URL: /wiki/Video_Immersion
+TV-out , URL: /wiki/TV-out
+"
+"RS200","IGP 340","2002","Northwood , URL: /wiki/Pentium_4#Northwood
+Prescott , URL: /wiki/Pentium_4#Prescott
+","180","533/400","No","Radeon VE (7000) IGP , URL: /wiki/Radeon_R100#RV100
+GiB , URL: /wiki/GiB
+DDR-200 or 266 , URL: /wiki/DDR_SDRAM#Chips_and_modules
+","ATI IXP200/IXP250 , URL: /wiki/Comparison_of_ATI_chipsets#Comparison_of_Southbridges
+VIA VT82C686B , URL: /wiki/List_of_VIA_chipsets#Southbridge_chips
+ALI M1535D+ , URL: /wiki/Acer_Laboratories_Incorporated#Chipsets
+","PCI , URL: /wiki/Conventional_PCI
+","HydraVision , URL: /wiki/AMD_Catalyst#HydraVision
+Video Immersion , URL: /wiki/Video_Immersion
+TV-out , URL: /wiki/TV-out
+"
+"RS200M revA","IGP 340M","2002","Pentium 4-M , URL: /wiki/Pentium_4#Mobile_Pentium_4
+","180","533/400","No","Radeon VE (7000) IGP , URL: /wiki/Radeon_R100#RV100
+GiB , URL: /wiki/GiB
+DDR-200 or 266 , URL: /wiki/DDR_SDRAM#Chips_and_modules
+","ATI IXP200/IXP250 , URL: /wiki/Comparison_of_ATI_chipsets#Comparison_of_Southbridges
+VIA VT82C686B , URL: /wiki/List_of_VIA_chipsets#Southbridge_chips
+ALI M1535D+ , URL: /wiki/Acer_Laboratories_Incorporated#Chipsets
+","PCI , URL: /wiki/Conventional_PCI
+",""
+"RS200M+","IGP 345M","2002","Pentium 4-M , URL: /wiki/Pentium_4#Mobile_Pentium_4
+","180","533/400","No","Radeon VE (7000) IGP , URL: /wiki/Radeon_R100#RV100
+GiB , URL: /wiki/GiB
+DDR-200 or 266 , URL: /wiki/DDR_SDRAM#Chips_and_modules
+","ATI IXP200/IXP250 , URL: /wiki/Comparison_of_ATI_chipsets#Comparison_of_Southbridges
+VIA VT82C686B , URL: /wiki/List_of_VIA_chipsets#Southbridge_chips
+ALI M1535D+ , URL: /wiki/Acer_Laboratories_Incorporated#Chipsets
+","PCI , URL: /wiki/Conventional_PCI
+",""
+"RS200M revB","IGP 350M","2003","Pentium M , URL: /wiki/Pentium_M
+","180","533/400","No","Radeon VE (7000) IGP , URL: /wiki/Radeon_R100#RV100
+GiB , URL: /wiki/GiB
+DDR-200 or 266 , URL: /wiki/DDR_SDRAM#Chips_and_modules
+","ATI IXP200/IXP250 , URL: /wiki/Comparison_of_ATI_chipsets#Comparison_of_Southbridges
+VIA VT82C686B , URL: /wiki/List_of_VIA_chipsets#Southbridge_chips
+ALI M1535D+ , URL: /wiki/Acer_Laboratories_Incorporated#Chipsets
+","PCI , URL: /wiki/Conventional_PCI
+",""
+"RS250M","IGP 7000 (IGP 360)","2003","Pentium 4-M HT , URL: /wiki/Pentium_4#Mobile_Pentium_4
+Pentium 4 , URL: /wiki/Pentium_4#Northwood
+Pentium M , URL: /wiki/Pentium_M
+","180","533/400","No","Radeon VE (7000) IGP , URL: /wiki/Radeon_R100#RV100
+GiB , URL: /wiki/GiB
+DDR-200, 266 or 333 , URL: /wiki/DDR_SDRAM#Chips_and_modules
+","ATI IXP200/IXP250 , URL: /wiki/Comparison_of_ATI_chipsets#Comparison_of_Southbridges
+VIA VT82C686B , URL: /wiki/List_of_VIA_chipsets#Southbridge_chips
+ALI M1535D+ , URL: /wiki/Acer_Laboratories_Incorporated#Chipsets
+","PCI , URL: /wiki/Conventional_PCI
+","ATI PowerPlay 2.0 , URL: /wiki/ATI_PowerPlay
+HydraVision , URL: /wiki/AMD_Catalyst#HydraVision
+Video Immersion , URL: /wiki/Video_Immersion
+TV-out , URL: /wiki/TV-out
+"
+"RS350","ATI Radeon 9100 PRO IGP","2004","","","800","No, AGP 8x","Radeon 9100 IGP","IXP150, IXP200, IXP300","","Dual Channel Memory"
+"RC350","ATI Radeon 9000 PRO IGP","2004","","","800","No, AGP 8x","Radeon 9000 IGP","IXP150, IXP200, IXP300","","Single Channel Memory"
+"RX330","","","","","800","No, AGP 8x","As RS350 without IGP","IXP150, IXP200, IXP300","",""
+"RX320M","","","","","","","","","","Mobile chipset, PowerPlay"
+"RS400 RS415 RC400 RC410","Xpress 200 for Intel , URL: /wiki/Xpress_200#Radeon_Xpress_200_for_Intel
+","Mar 11 2005","Pentium 4 , URL: /wiki/Pentium_4
+Core 2 , URL: /wiki/Intel_Core_2
+Intel Core 2 Quad Q6600 (SLACR) , URL: /w/index.php?title=Intel_Core_2_Quad_Q6600_(SLACR)&action=edit&redlink=1
+","","1066","No","Radeon X300 IGP","","",""
+"RS600","Xpress 1250 , URL: /wiki/AMD_690_chipset_series#Radeon_Xpress_1250
+","Aug 29 2006","Pentium 4, Core 2","80","1066","No","Radeon X700 IGP, 500 MHz","","","AVIVO , URL: /wiki/ATI_Avivo
+HDMI , URL: /wiki/HDMI
+HDCP , URL: /wiki/High-bandwidth_Digital_Content_Protection
+"
+"RD600","Xpress 3200 , URL: /wiki/Xpress_3200
+","Sep 27 2006","Pentium 4, Core 2","","1066","Yes, Dual x8","","","","Dual Channel Memory"
+"Codename","Model","Year","Processors Supported","Fabrication process (nm)","FSB/QDR Frequency (MHz)","Crossfire Enabled","Features","Southbridge","NB-SB Interface","Notes"

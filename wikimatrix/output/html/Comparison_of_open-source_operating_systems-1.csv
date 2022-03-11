@@ -1,32 +1,144 @@
-"null","null","null","null","null","null","null"
-"GPL version 2 only","Monolithic with modules","C","1:1","Unix-like","4.4","elks"
-"BSD; GPL, LGPL software usually included","Monolithic with modules","C","1:1","BSD, Unix-like","11","DragonFly BSD"
-"BSD","Monolithic","C","1:1","BSD, Unix-like","6.4","MirOS"
-"BSD","Monolithic with modules","C","1:1","BSD, Unix-like","7.0","OpenBSD"
-"BSD","Hybrid","C","1:1","BSD, Unix-like","No",""
-"CDDL","Monolithic with modules","C","1:1, M:N","Unix","No",""
-"APSL","Hybrid","C, C++[Note 2]","1:1","BSD, Unix, Unix-like, OS X","No",""
-"BSD","Microkernel","C","","Unix-like","No",""
-"MIT","Microkernel","Rust","","Unix-like","No",""
-"MIT","RTOS","C","","RTOS","No",""
-"GPL","Monolithic","C","","DOS","1.1",""
-"AGPL","Microkernel","C++","1:1","Genode","",""
-"MIT","Hybrid","C, C++","","BeOS","No","TiltOS"
-"BSD","","Haskell","","own/original","No",""
-"GPL","Monolithic","ASM","","MenuetOS","No",""
-"Menuet 64, commerce excluded","Monolithic","ASM","","own/original","No","KolibriOS"
-"GPL","Multiserver Microkernel (Hurd kernel) or Monolithic (Linux-libre kernel, fork of Linux kernel, and other kernels which are not part of the GNU Project)","C","1:1","Unix-like","2.4 on Linux-libre kernel (not on Hurd kernel)","Linux"
-"GPL, LGPL","Hybrid","C, C++","","Windows-like","No",""
-"Apache 2.0","Monolithic (with co-operative multitaslking)","ARM assembly","","RISC OS","No","RISC OS 6"
-"Some GPL, some BSD","Microkernel","C++","","L4","No",""
-"MIT","Hybrid","C","1:1, 1:M Cothread style.","own, Unix informed","No","Inferno, Plan B"
-"APL","Exokernel","C","","AmigaOS","No",""
-"GPL","Monolithic with modules","C, C++","1:1","Unix-like, BeOS, AmigaOS, POSIX","No",""
-"GPL, LGPL; MIT","","C","","Plan 9","No","OzInferno"
-"BSD","RTOS","C","","RTOS","No",""
-"modified GPL, eCos","RTOS","C, C++","","RTOS","No",""
-"modified GPL, BSD, Stanford","RTOS","C and ASM with native support for other languages including C++ and Ada","POSIX, RTEID/ORKID, uITRON","RTOS","4.7.1",""
-"BSD","Microkernel","C","M:N","own/original","No",""
-"GPLv2","Monolithic","ASM, C","1:1","BeOS, Unix-like","No",""
-"public domain","Monolithic","HolyC, C, C++","","Commodore 64-like","No",""
-"null","null","null","null","null","null","null"
+"Name","x86 , URL: /wiki/X86
+i386 , URL: /wiki/Intel_80386
+IA-32 , URL: /wiki/IA-32
+","SMP , URL: /wiki/Symmetric_multiprocessing
+","Xen , URL: /wiki/Xen
+","IA-64 , URL: /wiki/IA-64
+","x86-64 , URL: /wiki/X86-64
+","PowerPC , URL: /wiki/PowerPC
+","PowerPC SMP","SPARC , URL: /wiki/SPARC
+","SPARC SMP","Alpha , URL: /wiki/DEC_Alpha
+","MIPS , URL: /wiki/MIPS_architecture
+","ARM , URL: /wiki/ARM_architecture
+","XScale , URL: /wiki/XScale
+","68k , URL: /wiki/68k
+","PA-RISC , URL: /wiki/PA-RISC
+","OpenRISC , URL: /wiki/OpenRISC
+","others","hosted mode"
+"Linux , URL: /wiki/Linux
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","FR-V , URL: /wiki/FR-V
+Cell , URL: /wiki/Cell_(microprocessor)
+ETRAX CRIS , URL: /wiki/ETRAX_CRIS
+M32R , URL: /wiki/M32R
+Xtensa , URL: /wiki/Xtensa
+h8 , URL: /wiki/Hitachi_H8
+s390 , URL: /wiki/IBM_eServer_zSeries
+SuperH , URL: /wiki/SuperH
+","UML , URL: /wiki/User-mode_Linux
+coLinux , URL: /wiki/Cooperative_Linux
+MkLinux , URL: /wiki/MkLinux
+Itanium Linux-on-Linux , URL: https://web.archive.org/web/20110223110627/http://ertos.nicta.com.au/software/virtualisation/lol.pml
+wombat , URL: https://web.archive.org/web/20060426171410/http://www.ertos.nicta.com.au/software/kenge/wombat/latest/
+"
+"FreeBSD , URL: /wiki/FreeBSD
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","No","Yes","Yes","Yes","No","No","No","PC98 , URL: /wiki/PC-9801
+",""
+"OpenBSD , URL: /wiki/OpenBSD
+","Yes","Yes","No","No","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","No","Yes","No","SuperH , URL: /wiki/SuperH
+",""
+"NetBSD , URL: /wiki/NetBSD
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","SuperH , URL: /wiki/SuperH
+ns32k , URL: /wiki/NS320xx
+VAX , URL: /wiki/VAX
+hppa , URL: /wiki/Hppa
+M68010 , URL: /wiki/Motorola_68010
+mipsel , URL: /wiki/Mipsel
+sh3eb , URL: /w/index.php?title=Sh3eb&action=edit&redlink=1
+sh3el , URL: /w/index.php?title=Sh3el&action=edit&redlink=1
+sparc64 , URL: /wiki/SPARC
+",""
+"DragonFly BSD , URL: /wiki/DragonFly_BSD
+","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","","vkernel , URL: https://lwn.net/Articles/228404/
+"
+"OpenSolaris , URL: /wiki/OpenSolaris
+illumos , URL: /wiki/Illumos
+","Yes","Yes","Yes","No","Yes","No","No","Yes","Yes","No","No","No","No","No","No","No","",""
+"Darwin , URL: /wiki/Darwin_(operating_system)
+OpenDarwin , URL: /wiki/OpenDarwin
+","Yes","Yes","No","No","Yes","Yes","Yes","No","No","No","No","Yes","No","Yes","No","No","","L4/Darwin , URL: https://web.archive.org/web/20131219064814/http://www.ertos.nicta.com.au/software/darbat/
+"
+"MINIX , URL: /wiki/MINIX
+","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","",""
+"FreeDOS , URL: /wiki/FreeDOS
+","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","",""
+"Genode , URL: /wiki/Genode
+","Yes","Yes","Yes","No","No","No","No","No","No","No","No","Yes","No","No","No","No","RISC-V , URL: /wiki/RISC-V
+","Linux"
+"Haiku , URL: /wiki/Haiku_(operating_system)
+","Yes","Yes","No","No","Yes","No","No","No","No","No","No","No[Note 1][8]","No","No","No","No","",""
+"KolibriOS , URL: /wiki/KolibriOS
+","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","",""
+"MenuetOS , URL: /wiki/MenuetOS
+","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","",""
+"GNU , URL: /wiki/GNU
+","Yes","Yes[Note 2]","Yes[Note 2]","Yes[Note 2]","Yes[Note 2]","Yes[Note 2]","Yes[Note 2]","Yes[Note 2]","Yes[Note 2]","Yes[Note 2]","Yes[Note 2]","Yes[Note 2]","Yes[Note 2]","Yes[Note 2]","Yes[Note 2]","Yes[Note 2]","FR-V , URL: /wiki/FR-V
+Cell , URL: /wiki/Cell_(microprocessor)
+ETRAX CRIS , URL: /wiki/ETRAX_CRIS
+M32R , URL: /wiki/M32R
+Xtensa , URL: /wiki/Xtensa
+h8 , URL: /wiki/Hitachi_H8
+s390 , URL: /wiki/IBM_eServer_zSeries
+SuperH , URL: /wiki/SuperH
+","UML , URL: /wiki/User-mode_Linux
+Itanium Linux-on-Linux , URL: https://web.archive.org/web/20110223110627/http://ertos.nicta.com.au/software/virtualisation/lol.pml
+"
+"ReactOS , URL: /wiki/ReactOS
+","Yes","Yes","No[Note 1]","No","Yes","No[Note 1]","No[Note 1]","No","No","No","No","Yes","No","No","No","No","",""
+"RISC OS , URL: /wiki/RISC_OS
+","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","",""
+"L4 , URL: /wiki/L4_microkernel_family
+Pistachio , URL: /wiki/L4_microkernel_family#L4Ka::Pistachio
+","Yes","No","No","Yes[Note 4]","Yes[Note 4]","Yes[Note 4]","No","No","No","Yes[Note 4]","Yes[Note 4]","Yes","No","No","No","No","",""
+"Plan 9 , URL: /wiki/Plan_9_from_Bell_Labs
+","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes[Note 5]","Yes[Note 5]","Yes","Yes","Yes","Yes","Yes[Note 5]","No","No","See[9][10]","lguest , URL: /wiki/Lguest
+vx32 , URL: /wiki/Vx32
+"
+"AROS , URL: /wiki/Amiga_Research_Operating_System
+","Yes","No","No","No","Yes","Yes","No","No","No","No","No","Yes","No","Yes","No","No","","i386-linux , URL: http://www.aros.org/introduction/ports.php#aros-i386-linux
+i386-freebsd , URL: http://www.aros.org/introduction/ports.php#aros-i386-freebsd
+"
+"Syllable , URL: /wiki/Syllable_Desktop
+","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","",""
+"Inferno , URL: /wiki/Inferno_(operating_system)
+","Yes","?","No","No","?","Yes","?","Yes","?","No","Yes","Yes","Yes","Yes[Note 5]","No","No","AMD Am29000 , URL: /wiki/AMD_Am29000
+Texas Instruments OMAP , URL: /wiki/Texas_Instruments_OMAP
+","Microsoft Windows , URL: /wiki/Microsoft_Windows
+OS X , URL: /wiki/OS_X
+Solaris , URL: /wiki/Solaris_(operating_system)
+Irix , URL: /wiki/Irix
+UnixWare , URL: /wiki/UnixWare
+HP-UX , URL: /wiki/HP-UX
+Internet Explorer , URL: /wiki/Internet_Explorer
+"
+"FreeRTOS , URL: /wiki/FreeRTOS
+","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","Yes","AVR , URL: /wiki/Atmel_AVR
+PIC , URL: /wiki/PIC_microcontroller
+MSP430 , URL: /wiki/TI_MSP430
+HCS12 , URL: /wiki/Freescale_68HC12
+8052 , URL: /wiki/Intel_8051
+MicroBlaze , URL: /wiki/MicroBlaze
+H8S , URL: /wiki/H8_Family
+",""
+"eCos , URL: /wiki/ECos
+","Yes","Yes","No","No","No","Yes","No","Yes","No","No","Yes","Yes","Yes","Yes","No","Yes","CalmRISC , URL: http://ecos.sourceware.org/hardware.html#CalmRISC
+ColdFire , URL: /wiki/ColdFire
+FR-V , URL: /wiki/FR-V
+h8 , URL: /wiki/Hitachi_H8
+Matsushita AM3x , URL: http://ecos.sourceware.org/hardware.html#Matsushita%20AM3x
+Nios II , URL: /wiki/Nios_II
+NEC V8xx , URL: http://ecos.sourceware.org/hardware.html#NEC%20V8xx
+","Microsoft Windows, Linux"
+"RTEMS , URL: /wiki/RTEMS
+","Yes","No","Xen , URL: /wiki/Xen
+","No","No","Yes","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","Blackfin , URL: /wiki/Blackfin
+Coldfire , URL: /wiki/Freescale_Coldfire
+Texas Instruments C3x/C4x , URL: /wiki/Texas_Instruments_TMS320
+H8S , URL: /wiki/H8_Family
+","Cygwin , URL: /wiki/Cygwin
+"
+"HelenOS , URL: /wiki/HelenOS
+","Yes","Yes","No","Yes","Yes","Yes","No","Yes","Yes","No","Yes","Yes","No","No","No","No","",""
+"E/OS","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","",""
+"TempleOS , URL: /wiki/TempleOS
+","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","","QEMU, VirtualBox, etc."
+"Name","x86, i386, IA-32","x86 SMP","Xen","IA-64","x86-64","PowerPC","PowerPC SMP","SPARC32","SPARC SMP","Alpha","MIPS","ARM","XScale","M68k","PA-RISC","OpenRISC","other","hosted mode"

@@ -1,0 +1,97 @@
+"C++","Java"
+"C , URL: /wiki/C_(programming_language)
+object-oriented programming , URL: /wiki/Object-oriented_programming
+generic programming , URL: /wiki/Generic_programming
+","Strongly influenced by C++/C syntax."
+"C , URL: /wiki/C_(programming_language)
+corner cases , URL: /wiki/Corner_case
+","Java Native Interface , URL: /wiki/Java_Native_Interface
+Java Native Access , URL: /wiki/Java_Native_Access
+"
+"Write once, compile anywhere , URL: /wiki/Write_once,_compile_anywhere
+","Write once, run anywhere , URL: /wiki/Write_once,_run_anywhere
+"
+"procedural programming , URL: /wiki/Procedural_programming
+functional programming , URL: /wiki/Functional_programming
+object-oriented programming , URL: /wiki/Object-oriented_programming
+generic programming , URL: /wiki/Generic_programming
+template metaprogramming , URL: /wiki/Template_metaprogramming
+","procedural programming , URL: /wiki/Procedural_programming
+functional programming , URL: /wiki/Functional_programming
+generic programming , URL: /wiki/Generic_programming
+object-oriented , URL: /wiki/Object-oriented_programming
+programming paradigm , URL: /wiki/Programming_paradigm
+scripting languages , URL: /wiki/Scripting_language
+"
+"instruction set , URL: /wiki/Instruction_set
+","virtual machine , URL: /wiki/Java_virtual_machine
+"
+"run-time type information , URL: /wiki/Run-time_type_information
+","reflective , URL: /wiki/Reflection_(computer_programming)
+"
+"Has multiple binary compatibility standards (commonly Microsoft (for MSVC compiler) and Itanium/GNU (for almost all other compilers)).","cross-platform , URL: /wiki/Cross-platform
+"
+"bounds checking , URL: /wiki/Bounds_checking
+","HotSpot , URL: /wiki/HotSpot_(virtual_machine)
+"
+"unsigned arithmetic , URL: /wiki/Unsigned_(arithmetic)
+","Native unsigned arithmetic unsupported. Java 8 changes some of this, but aspects are unclear.[1]"
+"Standardized minimum limits for all numerical types, but the actual sizes are implementation-defined. Standardized types are available via the standard library <cstdint>.","Standardized limits and sizes of all primitive types on all platforms."
+"Pointers, references, and pass-by-value are supported for all types (primitive or user-defined).","reference types , URL: /wiki/Reference_type
+"
+"Memory management , URL: /wiki/Memory_management
+manually , URL: /wiki/Manual_memory_management
+Garbage collection , URL: /wiki/Garbage_collection_(computer_science)
+","garbage collection , URL: /wiki/Garbage_collection_(computer_science)
+"
+"Resource management , URL: /wiki/Resource_management_(computing)
+RAII , URL: /wiki/RAII
+","Resource management must generally be done manually, or automatically via finalizers, though this is generally discouraged. Has try-with-resources for automatic scope-based resource management (version 7 onwards). It can also be done using the internal API sun.misc.Unsafe but that usage is highly discouraged and will be replaced by a public API in an upcoming Java version."
+"passive data structure , URL: /wiki/Passive_data_structure
+heap , URL: /wiki/Dynamic_memory_allocation
+stack , URL: /wiki/Stack-based_memory_allocation
+","heap , URL: /wiki/Dynamic_memory_allocation
+Java SE 6 , URL: /wiki/Java_version_history#Java_SE_6
+escape analysis , URL: /wiki/Escape_analysis
+stack , URL: /wiki/Stack-based_memory_allocation
+"
+"Allows explicitly overriding types, and some implicit narrowing conversions (for compatibility with C).","type safety , URL: /wiki/Type_safety
+"
+"C++ Standard Library , URL: /wiki/C%2B%2B_Standard_Library
+iterators , URL: /wiki/Iterator#C++
+Boost library , URL: /wiki/Boost_(C%2B%2B_libraries)
+","XML , URL: /wiki/XML
+XSLT , URL: /wiki/XSLT
+MIDI , URL: /wiki/MIDI
+LDAP , URL: /wiki/LDAP
+Kerberos , URL: /wiki/Kerberos_(protocol)
+JavaFX , URL: /wiki/JavaFX
+"
+"Operator overloading , URL: /wiki/Operator_overloading
+","Operators are not overridable. The language overrides + and += for the String class."
+"multiple inheritance , URL: /wiki/Multiple_inheritance
+","Only supports single inheritance of classes."
+"Turing complete , URL: /wiki/Turing_complete
+","Generics , URL: /wiki/Generics_in_Java
+type erasure , URL: /wiki/Type_erasure
+"
+"C++11 , URL: /wiki/C%2B%2B11
+","Java 8 , URL: /wiki/Java_8
+"
+"Doxygen , URL: /wiki/Doxygen
+","Javadoc , URL: /wiki/Javadoc
+"
+"const-correctness , URL: /wiki/Const-correctness
+","final provides a version of const, equivalent to type* const pointers for objects and const for primitive types. Immutability of object members achieved via read-only interfaces and object encapsulation."
+"Supports the goto statement.","Java specification. , URL: https://docs.oracle.com/javase/specs/
+"
+"cross-platform , URL: /wiki/Cross-platform
+Windows , URL: /wiki/Microsoft_Windows
+BSD , URL: /wiki/BSD
+Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Solaris , URL: /wiki/Solaris_(operating_system)
+","Java bytecode , URL: /wiki/Java_bytecode
+JVM , URL: /wiki/JVM
+operating system , URL: /wiki/Operating_system
+"

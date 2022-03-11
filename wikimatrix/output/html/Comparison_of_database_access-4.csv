@@ -1,0 +1,3 @@
+"Database","show all data in all fields","show all data in some fields","show filtered data in all fields"
+"MySQL , URL: /wiki/MySQL
+","select * from "tbname";","select "fields" from "tbname";","select * from "tbname" where "filter_expr";"

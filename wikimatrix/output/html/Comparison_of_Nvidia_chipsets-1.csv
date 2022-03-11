@@ -1,5 +1,4 @@
-"null","null","null","null","null","null","null","null","null","null","null"
-"nForce 220","2001","Athlon XP, Athlon, Duron","","266 MHz, 200 MHz","DDR266 single channel","1.5 GB","AGP 4×","MCP MCP-D","",""
-"nForce 220-D","2001","Athlon XP, Athlon, Duron","","266 MHz, 200 MHz","DDR266 single channel","1.5 GB","AGP 4×","MCP MCP-D","Geforce 2 MX IGP",""
-"nForce 415-D","January 8, 2002","Athlon XP, Athlon, Duron","","266 MHz, 200 MHz","DDR266 dual channel","1.5 GB","AGP 4×","MCP MCP-D","",""
-"nForce 420-D","2001","Athlon XP, Athlon, Duron","","266 MHz, 200 MHz","DDR266 dual channel","1.5 GB","AGP 4×","MCP MCP-D","Geforce 2 MX IGP",""
+"Model","Release Date","nm , URL: /wiki/Nanometer
+","PCI","USB","FireWire (IEEE1394)","PATA","SATA","LAN","Sound","Features","Notes"
+"MCP","2001","","5 Ports","6 Ports Rev 1.1","No","2 Ports UDMA 100","No","100 Mbit/s","AC'97 2.1","",""
+"MCP-D","2001","","5 Ports","6 Ports Rev 1.1","No","2 Ports UDMA 100","No","100 Mbit/s","AC'97 2.1 NVAPU SoundStorm","",""

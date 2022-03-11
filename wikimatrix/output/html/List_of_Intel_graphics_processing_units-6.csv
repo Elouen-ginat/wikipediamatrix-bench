@@ -1,0 +1,245 @@
+"Graphics","Launch","Market","Processor , URL: /wiki/List_of_Intel_microprocessors
+","Code name","Device ID , URL: /wiki/Device_driver#Identifiers
+","clock , URL: /wiki/Clock_rate
+MHz , URL: /wiki/Hertz
+","Core config1","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","Memory bandwidth , URL: /wiki/Memory_bandwidth
+GB/s , URL: /wiki/Gigabyte_per_second
+","DVMT , URL: /wiki/Dynamic_video_memory_technology
+MB , URL: /wiki/Megabyte
+","QSV , URL: /wiki/Intel_Quick_Sync_Video
+"
+"Graphics","Launch","Market","Processor , URL: /wiki/List_of_Intel_microprocessors
+","Code name","Device ID , URL: /wiki/Device_driver#Identifiers
+","clock , URL: /wiki/Clock_rate
+MHz , URL: /wiki/Hertz
+","Core config1","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","OpenCL , URL: /wiki/OpenCL
+","Vulkan , URL: /wiki/Vulkan_(API)
+","Memory bandwidth , URL: /wiki/Memory_bandwidth
+GB/s , URL: /wiki/Gigabyte_per_second
+","DVMT , URL: /wiki/Dynamic_video_memory_technology
+MB , URL: /wiki/Megabyte
+","QSV , URL: /wiki/Intel_Quick_Sync_Video
+"
+"HD Graphics","2012","Desktop","Celeron G16x0 Celeron G1610T Pentium G2xx0 Pentium G2xx0T","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","015A","650–1050","48:6:1[36] (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720","No"
+"HD Graphics","2012","Mobile","Celeron 10x0M Celeron 10x7U Pentium 2117U Pentium 20x0M","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","015A","350–1100","48:6:1[36] (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720","No"
+"HD Graphics 2500[37]","2012","Workstation","Xeon E3-1265LV2","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0152","650–1150","48:6:1[36] (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics 2500[37]","2012","Desktop","Core i3-32x0 Core i3-32x0T Core i5-3xx0 Core i5-3xx0S Core i5-3xx0T","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0152","650–1150","48:6:1[36] (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics 4000[29]","2012","Desktop","Core i3-3225 Core i3-3245 Core i5-3475S Core i5-3570K Core i7-3770 Core i7-3770x","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0162","650–1150","128:16:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics 4000[29]","2012","Mobile","Core i3-3110M","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0166","650–1000","128:16:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics 4000[29]","2012","Mobile","Core i3-3120M Core i5-3210M","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0166","","128:16:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics 4000[29]","2012","Mobile","Core i3-3120ME","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0166","","128:16:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics 4000[29]","2012","Mobile","Core i3-3217U Core i5-3317U","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0166","","128:16:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics 4000[29]","2012","Mobile","Core i3-3217UE","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0166","","128:16:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics 4000[29]","2012","Mobile","Core i3-3229Y Core i5-3339Y Core i5-3439Y","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0166","","128:16:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics 4000[29]","2012","Mobile","Core i5-33x0M","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0166","","128:16:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics 4000[29]","2012","Mobile","Core i5-3337U","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0166","","128:16:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics 4000[29]","2012","Mobile","Core i5-3427U","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0166","","128:16:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics 4000[29]","2012","Mobile","Core i5-3610ME","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0166","","128:16:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics 4000[29]","2012","Mobile","Core i7-3520M Core i7-3xx7U Core i7-3xxxQM Core i7-3920XM","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","0166","","128:16:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics P4000[38]","2012","Workstation","Xeon E3-12x5V2","Ivy Bridge , URL: /wiki/Ivy_Bridge_(microarchitecture)
+","016A","650–1250","128:16:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.0Windows 4.1macOS 4.2Linux ES 3.0Linux","1.2","1.0Linux","25.6","1720",""
+"HD Graphics","2013","Tablet","Atom Z3735D Atom Z3735E Atom Z3735F Atom Z3735G Atom Z3736F Atom Z3736G","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","311-646","32:4:1[39]","11[40]","4.0 ES 2.0/1.1Linux[41]","1.2","1.0Linux","10.7","2048","Yes"
+"HD Graphics","2013","Tablet","Atom Z3680","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","311-667","32:4:1[39]","11[40]","4.0 ES 2.0/1.1Linux[41]","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Tablet","Atom Z3740 Atom Z3770","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","311-667","32:4:1[39]","11[40]","4.0 ES 2.0/1.1Linux[41]","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Tablet","Atom Z3680D Atom Z3740D Atom Z3770D","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","313-688","32:4:1[39]","11[40]","4.0 ES 2.0/1.1Linux[41]","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Tablet","Atom Z3745 Atom Z3775 Atom Z3795","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","311-778","32:4:1[39]","11[40]","4.0 ES 2.0/1.1Linux[41]","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Tablet","Atom Z3745D Atom Z3775D","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","311-792","32:4:1[39]","11[40]","4.0 ES 2.0/1.1Linux[41]","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Tablet","Atom Z3785","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","313-833","32:4:1[39]","11[40]","4.0 ES 2.0/1.1Linux[41]","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Laptop","Celeron N2805","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","313-667","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","8.5","2048","Yes"
+"HD Graphics","2013","Laptop","Celeron N2807","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","313-750","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Laptop","Celeron N2830 Pentium N3510","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","313-750","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Laptop","Celeron N2806","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","313-756","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Laptop","Celeron N2810 Celeron N2815 Celeron N2820 Celeron N2910","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","313-756","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Laptop","Celeron N2808","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","311-792","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Laptop","Celeron N2840","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","311-792","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Laptop","Celeron N2920","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","313-844","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Laptop","Celeron N2930 Celeron N2940 Pentium N3520","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","313-854","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Laptop","Pentium N3530 Pentium N3540","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Embedded","Atom E3815","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","400-400","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Embedded","Atom E3825","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Embedded","Atom E3826","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","533-667","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Embedded","Atom E3827 Atom E3845","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","542-792","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Desktop","Celeron J1750","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","688-750","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Desktop","Celeron J1800 Celeron J1850","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Desktop","Celeron J1900 Pentium J2850","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","Desktop","Pentium J2900","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics","2013","??","Pentium A1020","Valleyview , URL: /wiki/Silvermont_(microarchitecture)
+","0F30 0F31 0F32 0F33 0155 0157","","32:4:1[39]","11.2","4.0Windows 4.2Linux ES 3.0Linux","1.2","1.0Linux","","2048","Yes"
+"HD Graphics[42]","2013","Desktop","Pentium G3xxx","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0402 0406 040A 040B 040E ULT: 0A02 0A06 0A0A 0A0B 0A0E","350–1150","80:10:1[43] (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes[45]"
+"HD Graphics[42]","2013","Desktop","Pentium G3xxxT","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0402 0406 040A 040B 040E ULT: 0A02 0A06 0A0A 0A0B 0A0E","","80:10:1[43] (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes[45]"
+"HD Graphics[42]","2013","Desktop","Celeron G18xx","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0402 0406 040A 040B 040E ULT: 0A02 0A06 0A0A 0A0B 0A0E","","80:10:1[43] (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes[45]"
+"HD Graphics[42]","2013","Desktop","Celeron G18xxT","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0402 0406 040A 040B 040E ULT: 0A02 0A06 0A0A 0A0B 0A0E","","80:10:1[43] (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes[45]"
+"HD Graphics[42]","2013","Mobile","Celeron 2950M Pentium 3550M","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0402 0406 040A 040B 040E ULT: 0A02 0A06 0A0A 0A0B 0A0E","400–1100","80:10:1[43] (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes[45]"
+"HD Graphics[42]","2013","Mobile","Celeron 29xxU Pentium 35xxU","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0402 0406 040A 040B 040E ULT: 0A02 0A06 0A0A 0A0B 0A0E","","80:10:1[43] (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes[45]"
+"HD Graphics[42]","2013","Mobile","Celeron 29xxY Pentium 35xxY","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0402 0406 040A 040B 040E ULT: 0A02 0A06 0A0A 0A0B 0A0E","","80:10:1[43] (GT1)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes[45]"
+"HD Graphics 4200","2013","ULT Mobile","Core i3-40xxY Core i5-4xxxY Core i7-4610Y","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","200–850","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4400","2013","Desktop","Core i3-4130 Core i3-4150 Core i3-4160 Core i3-4170","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","350–1150","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4400","2013","Desktop","Core i3-4130T Core i3-4150T Core i3-4160T Core i3-4170T","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4400","2013","Mobile","Core i3-4005U Core i3-4025U","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","200–950","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4400","2013","Mobile","Core i3-4010U Core i3-4100U Core i5-4200U Core i3-4030U Core i3-4120U","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4400","2013","Mobile","Core i5-4300U Core i7-4500U Core i7-4600U","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4600","2013","Desktop","Core i3-4330 Core i3-4340 Core i5-4570 Core i5-4570S Core i5-4590 Core i5-4590S Core i5-4590T","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","350-1150","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4600","2013","Desktop","Core i3-4330T Core i5-4570T","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4600","2013","Desktop","Core i5-4430 Core i5-4430S Core i5-4440 Core i5-4440S","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4600","2013","Desktop","Core i5-4670 Core i5-4670K Core i5-4670S Core i5-4670T Core i5-4690 Core i5-4690K Core i5-4690S Core i5-4690T Core i7-4765T Core i7-4770 Core i7-4770S Core i7-4770T Core i7-4771 Core i7-4790","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4600","2013","Desktop","Core i7-4770K Core i7-4790K","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4600","2013","Mobile","Core i3-4xxxE Core i5-4402E","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","400–900","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4600","2013","Mobile","Core i3-4xxxM","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4600","2013","Mobile","Core i5-4200M Core i5-4200H Core i7-47xxMQ Core i7-4702HQ","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4600","2013","Mobile","Core i5-43xxM","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4600","2013","Mobile","Core i5-4400E Core i7-4700EQ","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4600","2013","Mobile","Core i7-4700HQ","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4600","2013","Mobile","Core i7-4xxxM Core i7-4800MQ Core i7-4900MQ","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 4600","2013","Mobile","Core i7-4930MX","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics P4600","2013","Workstation","Xeon E3-1225 v3 Xeon E3-1226 v3 Xeon E3-1245 v3 Xeon E3-1246 v3","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","350–1200","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics P4600","2013","Workstation","Xeon E3-1275 v3 Xeon E3-1276 v3","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics P4700","2013","Workstation","Xeon E3-1285L v3 Xeon E3-1286L v3","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","350–1250","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics P4700","2013","Workstation","Xeon E3-1285 v3 Xeon E3-1286 v3","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0412 0416 041A 041B 041E ULT: 0A12 0A16 0A1A 0A1B 0A1E","","160:20:2 (GT2)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 5000","2013","ULT Mobile","Core i5-4250U","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0422 0426 042A 042B 042E ULT: 0A22 0A26 0A2A 0A2B 0A2E","200–1000","320:40:4 (GT3)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"HD Graphics 5000","2013","ULT Mobile","Core i5-4350U Core i7-4550U Core i7-4650U","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0422 0426 042A 042B 042E ULT: 0A22 0A26 0A2A 0A2B 0A2E","","320:40:4 (GT3)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"Iris Graphics 5100","2013","ULT Mobile","Core i3-4158U Core i5-4258U","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0422 0426 042A 042B 042E ULT: 0A22 0A26 0A2A 0A2B 0A2E","200–1100","320:40:4 (GT3)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"Iris Graphics 5100","2013","ULT Mobile","Core i5-4288U Core i7-4558U","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0422 0426 042A 042B 042E ULT: 0A22 0A26 0A2A 0A2B 0A2E","","320:40:4 (GT3)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"Iris Pro Graphics 5200","2013","Desktop","Core i5-4570R","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0D22 0D26 0D2A 0D2B 0D2E","200–1150","320:40:4 + eDRAM (GT3e)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"Iris Pro Graphics 5200","2013","Desktop","Core i5-4670R Core i7-4770R","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0D22 0D26 0D2A 0D2B 0D2E","","320:40:4 + eDRAM (GT3e)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"Iris Pro Graphics 5200","2013","Mobile","Core i7-4750HQ Core i7-4850HQ","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0D22 0D26 0D2A 0D2B 0D2E","200–1200","320:40:4 + eDRAM (GT3e)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"
+"Iris Pro Graphics 5200","2013","Mobile","Core i7-49xxHQ","Haswell , URL: /wiki/Haswell_(microarchitecture)
+","0D22 0D26 0D2A 0D2B 0D2E","","320:40:4 + eDRAM (GT3e)","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.3Windows 4.1macOS 4.5Linux ES 3.1Linux","1.2","1.0Linux","25.6","2048","Yes"

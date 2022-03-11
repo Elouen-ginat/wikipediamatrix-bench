@@ -1,0 +1,96 @@
+"Function","bits , URL: /wiki/Bit
+","bits , URL: /wiki/Bit
+","bits , URL: /wiki/Bit
+","bits , URL: /wiki/Bit
+","bits , URL: /wiki/Bit
+","bits , URL: /wiki/Bit
+","Words × Passes = Rounds[note 2]","Operations[note 3]","Endian , URL: /wiki/Endianness
+"
+"Function","Word , URL: /wiki/Word_(computer_architecture)
+","Digest , URL: /wiki/Cryptographic_hash_function
+","Chaining values , URL: /wiki/Merkle%E2%80%93Damg%C3%A5rd_construction
+","Computation values[note 6]","Block , URL: /wiki/Merkle%E2%80%93Damg%C3%A5rd_construction
+","Length , URL: /wiki/Merkle%E2%80%93Damg%C3%A5rd_construction#Security_characteristics
+","Words × Passes = Rounds[note 2]","Operations[note 3]","Endian , URL: /wiki/Endianness
+"
+"GOST R 34.11-94 , URL: /wiki/GOST_(hash_function)
+","32","×8 = 256","×8 = 256","×8 = 256","×8 = 256","32","4","A B L S","Little"
+"HAVAL-3-128 , URL: /wiki/HAVAL
+","32","×4 = 128","×8 = 256","×8 = 256","×32 = 1,024","64","32 × 3 = 96","A B S","Little"
+"HAVAL-3-160 , URL: /wiki/HAVAL
+","32","×5 = 160","×8 = 256","×8 = 256","×32 = 1,024","64","32 × 3 = 96","A B S","Little"
+"HAVAL-3-192 , URL: /wiki/HAVAL
+","32","×6 = 192","×8 = 256","×8 = 256","×32 = 1,024","64","32 × 3 = 96","A B S","Little"
+"HAVAL-3-224 , URL: /wiki/HAVAL
+","32","×7 = 224","×8 = 256","×8 = 256","×32 = 1,024","64","32 × 3 = 96","A B S","Little"
+"HAVAL-3-256 , URL: /wiki/HAVAL
+","32","×8 = 256","×8 = 256","×8 = 256","×32 = 1,024","64","32 × 3 = 96","A B S","Little"
+"HAVAL-4-128 , URL: /wiki/HAVAL
+","32","×4 = 128","×8 = 256","×8 = 256","×32 = 1,024","64","","A B S","Little"
+"HAVAL-4-160 , URL: /wiki/HAVAL
+","32","×5 = 160","×8 = 256","×8 = 256","×32 = 1,024","64","","A B S","Little"
+"HAVAL-4-192 , URL: /wiki/HAVAL
+","32","×6 = 192","×8 = 256","×8 = 256","×32 = 1,024","64","","A B S","Little"
+"HAVAL-4-224 , URL: /wiki/HAVAL
+","32","×7 = 224","×8 = 256","×8 = 256","×32 = 1,024","64","","A B S","Little"
+"HAVAL-4-256 , URL: /wiki/HAVAL
+","32","×8 = 256","×8 = 256","×8 = 256","×32 = 1,024","64","","A B S","Little"
+"HAVAL-5-128 , URL: /wiki/HAVAL
+","32","×4 = 128","×8 = 256","×8 = 256","×32 = 1,024","64","","A B S","Little"
+"HAVAL-5-160 , URL: /wiki/HAVAL
+","32","×5 = 160","×8 = 256","×8 = 256","×32 = 1,024","64","","A B S","Little"
+"HAVAL-5-192 , URL: /wiki/HAVAL
+","32","×6 = 192","×8 = 256","×8 = 256","×32 = 1,024","64","","A B S","Little"
+"HAVAL-5-224 , URL: /wiki/HAVAL
+","32","×7 = 224","×8 = 256","×8 = 256","×32 = 1,024","64","","A B S","Little"
+"HAVAL-5-256 , URL: /wiki/HAVAL
+","32","×8 = 256","×8 = 256","×8 = 256","×32 = 1,024","64","","A B S","Little"
+"MD2 , URL: /wiki/MD2_(hash_function)
+","8","×16 = 128","×32 = 256","×48 = 384","×16 = 128","None","48 × 18 = 864","B","N/A"
+"MD4 , URL: /wiki/MD4
+","32","×4 = 128","×4 = 128","×4 = 128","×16 = 512","64","16 × 3 = 48","A B S","Little"
+"MD5 , URL: /wiki/MD5
+","32","×4 = 128","×4 = 128","×4 = 128","×16 = 512","64","","A B S","Little"
+"RIPEMD , URL: /wiki/RIPEMD
+","32","×4 = 128","×4 = 128","×8 = 256","×16 = 512","64","16 × 3 = 48","A B S","Little"
+"RIPEMD-128 , URL: /wiki/RIPEMD-128
+","32","×4 = 128","×4 = 128","×8 = 256","×16 = 512","64","","A B S","Little"
+"RIPEMD-256 , URL: /wiki/RIPEMD-256
+","32","×8 = 256","×8 = 256","×8 = 256","×16 = 512","64","","A B S","Little"
+"RIPEMD-160 , URL: /wiki/RIPEMD-160
+","32","×5 = 160","×5 = 160","×10 = 320","×16 = 512","64","16 × 5 = 80","A B S","Little"
+"RIPEMD-320 , URL: /wiki/RIPEMD-320
+","32","×10 = 320","×10 = 320","×10 = 320","×16 = 512","64","16 × 5 = 80","A B S","Little"
+"SHA-0 , URL: /wiki/SHA-0
+","32","×5 = 160","×5 = 160","×5 = 160","×16 = 512","64","16 × 5 = 80","A B S","Big"
+"SHA-1 , URL: /wiki/SHA-1
+","32","×5 = 160","×5 = 160","×5 = 160","×16 = 512","64","16 × 5 = 80","A B S","Big"
+"SHA-256 , URL: /wiki/SHA-256
+","32","×8 = 256","×8 = 256","×8 = 256","×16 = 512","64","16 × 4 = 64","A B S","Big"
+"SHA-224 , URL: /wiki/SHA-224
+","32","×7 = 224","×8 = 256","×8 = 256","×16 = 512","64","16 × 4 = 64","A B S","Big"
+"SHA-512 , URL: /wiki/SHA-512
+","64","×8 = 512","×8 = 512","×8 = 512","×16 = 1024","128","16 × 5 = 80","A B S","Big"
+"SHA-384 , URL: /wiki/SHA-384
+","64","×6 = 384","×8 = 512","×8 = 512","×16 = 1024","128","16 × 5 = 80","A B S","Big"
+"Tiger-192 , URL: /wiki/Tiger_(hash_function)
+","64","×3 = 192","×3 = 192","×3 = 192","×8 = 512","64","8 × 3 = 24","A B L S","Not Specified"
+"Tiger-160 , URL: /wiki/Tiger_(hash_function)
+","64","×2.5=160","×3 = 192","×3 = 192","×8 = 512","64","8 × 3 = 24","A B L S","Not Specified"
+"Tiger-128 , URL: /wiki/Tiger_(hash_function)
+","64","×2 = 128","×3 = 192","×3 = 192","×8 = 512","64","8 × 3 = 24","A B L S","Not Specified"
+"Function","Word , URL: /wiki/Word_(computer_architecture)
+","Digest , URL: /wiki/Cryptographic_hash_function
+","Chaining values , URL: /wiki/Merkle%E2%80%93Damg%C3%A5rd_construction
+","Computation values","Block , URL: /wiki/Merkle%E2%80%93Damg%C3%A5rd_construction
+","Length , URL: /wiki/Merkle%E2%80%93Damg%C3%A5rd_construction#Security_characteristics
+","Words × Passes = Rounds","Operations","Endian , URL: /wiki/Endianness
+"
+"Function","bits , URL: /wiki/Bit
+","bits , URL: /wiki/Bit
+","bits , URL: /wiki/Bit
+","bits , URL: /wiki/Bit
+","bits , URL: /wiki/Bit
+","bits , URL: /wiki/Bit
+","Words × Passes = Rounds","Operations","Endian , URL: /wiki/Endianness
+"

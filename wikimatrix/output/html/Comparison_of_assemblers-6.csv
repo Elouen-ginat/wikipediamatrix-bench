@@ -1,0 +1,63 @@
+"Assembler","Developer","Operating system , URL: /wiki/Operating_system
+","FOSS , URL: /wiki/Free_and_open-source_software
+","License , URL: /wiki/Software_license
+","Development active"
+"FASM , URL: /wiki/FASM
+","Tomasz Grysztar , URL: /w/index.php?title=Tomasz_Grysztar&action=edit&redlink=1
+","DOS , URL: /wiki/DOS
+Unix-like , URL: /wiki/Unix-like
+Windows , URL: /wiki/Microsoft_Windows
+","Yes","BSD , URL: /wiki/BSD_licenses
+","Yes"
+"GAS , URL: /wiki/GNU_Assembler
+","GNU Project , URL: /wiki/GNU_Project
+","DOS , URL: /wiki/DOS
+OS/2 , URL: /wiki/OS/2
+Unix-like , URL: /wiki/Unix-like
+Windows , URL: /wiki/Microsoft_Windows
+","Yes","GNU GPL , URL: /wiki/GNU_General_Public_License
+","Yes"
+"MASM , URL: /wiki/Microsoft_Macro_Assembler
+","Microsoft , URL: /wiki/Microsoft
+","DOS , URL: /wiki/DOS
+OS/2 , URL: /wiki/OS/2
+Windows|Xenix , URL: /wiki/Microsoft_Windows
+","No","Commercial , URL: /wiki/Commercial_software
+","Yes"
+"NASM , URL: /wiki/Netwide_Assembler
+","Simon Tatham , URL: /wiki/Simon_Tatham
+Hans Peter Anvin , URL: /wiki/Hans_Peter_Anvin
+","DOS , URL: /wiki/DOS
+Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+OS/2 , URL: /wiki/OS/2
+Windows , URL: /wiki/Microsoft_Windows
+","Yes","BSD , URL: /wiki/BSD_licenses
+","Yes"
+"Open Watcom Assembler , URL: /wiki/Open_Watcom_Assembler
+","Watcom , URL: /wiki/Watcom
+","DOS , URL: /wiki/DOS
+FreeBSD , URL: /wiki/FreeBSD
+Linux , URL: /wiki/Linux
+OS/2 , URL: /wiki/OS/2
+Windows , URL: /wiki/Microsoft_Windows
+","OSI , URL: /wiki/Open_Source_Initiative
+FSF , URL: /wiki/Free_Software_Foundation
+","Sybase Open Watcom Public , URL: /wiki/Sybase_Open_Watcom_Public_License
+","Yes"
+"POASM , URL: /w/index.php?title=Pelles_C&action=edit&redlink=1
+","","Windows , URL: /wiki/Microsoft_Windows
+Windows Mobile , URL: /wiki/Windows_Mobile
+","No","Freeware , URL: /wiki/Freeware
+","Yes"
+"TCCASM , URL: /wiki/Tiny_C_Compiler
+","Fabrice Bellard , URL: /wiki/Fabrice_Bellard
+","Unix-like , URL: /wiki/Unix-like
+Windows , URL: /wiki/Microsoft_Windows
+","Yes","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","Yes"
+"Yasm[3]","","DOS , URL: /wiki/DOS
+Unix-like , URL: /wiki/Unix-like
+Windows , URL: /wiki/Microsoft_Windows
+","Yes","BSD , URL: /wiki/BSD_licenses
+","No"

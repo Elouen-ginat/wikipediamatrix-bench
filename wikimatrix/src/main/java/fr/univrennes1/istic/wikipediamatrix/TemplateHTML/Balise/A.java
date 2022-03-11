@@ -1,17 +1,11 @@
 package fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise;
 
-import org.jsoup.nodes.Element;
-
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Visitor.Visitor;
 
 public class A extends Balise {
 
     public A() {
-        super("a");
-    }
-
-    public A(Element self, Balise parent) {
-        super(self, parent);
+        super("a", false);
     }
 
     @Override
@@ -24,12 +18,16 @@ public class A extends Balise {
         if (this.isFinal()) {
             return this.getElement().text() + " , URL: " + this.getElement().attr("href");
         }
-        return null;
+        String str = this.getElement().text() + "\nURL: " + this.getElement().attr("href");
+        for (Balise child: this.getChildren()) {
+            str += "\n"+child.getInfo();
+        }
+        return str;
     }
 
     @Override
-    public Balise newInstance(Element self, Balise parent) {
-        return new A(self, parent);
+    public Balise newInstance() {
+        return new A();
     }
     
 }

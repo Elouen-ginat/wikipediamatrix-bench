@@ -1,0 +1,245 @@
+"File extension , URL: /wiki/File_extension
+","MIME , URL: /wiki/MIME
+","Official name[3]","Creation platform[4]","Restoration platform[7]","free software , URL: /wiki/Free_software
+","Description"
+".7z","application/x-7z-compressed","7z , URL: /wiki/7z_(file_format)
+","Multiple","Multiple","Yes","7-Zip , URL: /wiki/7-Zip
+"
+".s7z","application/x-7z-compressed","7zX","macOS , URL: /wiki/MacOS
+","macOS , URL: /wiki/MacOS
+","Yes","Based on 7z. Preserves Spotlight metadata, resource forks, owner/group information, dates and other data which would be otherwise lost with compression. Made obsolete by the introduction of AppleDouble-encoded 7z archives (Macintosh only)."
+".ace","application/x-ace-compressed","ACE , URL: /wiki/ACE_(compression_file_format)
+","Windows , URL: /wiki/Microsoft_Windows
+","Multiple","Yes","Proprietary format"
+".afa","application/x-astrotite-afa","AFA","UNIX-like","UNIX-like","No","AFA , URL: /w/index.php?title=Afa_(file_format)&action=edit&redlink=1
+"
+".alz","application/x-alz-compressed","ALZip , URL: /wiki/ALZip
+","Windows , URL: /wiki/Microsoft_Windows
+","Multiple","Yes","A mainly Korean format designed for very large archives."
+".apk","application/vnd.android.package-archive","APK , URL: /wiki/APK_(file_format)
+","Multiple","Multiple","Yes","Android , URL: /wiki/Android_(operating_system)
+JAR file format , URL: /wiki/JAR_file_format
+"
+".arc, .ark","application/octet-stream","ARC , URL: /wiki/ARC_(file_format)
+","Multiple","Multiple","Yes","BBSes , URL: /wiki/Bulletin_board_system
+"
+".arc, .cdx","application/x-freearc","FreeArc , URL: /wiki/FreeArc
+","Windows , URL: /wiki/Microsoft_Windows
+Linux , URL: /wiki/Linux
+","Windows , URL: /wiki/Microsoft_Windows
+Linux , URL: /wiki/Linux
+","Yes","Zstandard , URL: /wiki/Zstandard
+"
+".arj","application/x-arj","ARJ , URL: /wiki/ARJ
+","DOS , URL: /wiki/DOS
+","Multiple","Yes","Competitor to PKZIP in the 1990s, offered better multi-part archive handling."
+".b1","application/x-b1","B1 , URL: /wiki/B1_(archive_format)
+","Multiple","Multiple","Yes","B1 Free Archiver , URL: /wiki/B1_Free_Archiver
+http://dev.b1.org/standard/archive-format.html , URL: http://dev.b1.org/standard/archive-format.html
+"
+".b6z","","B6Z","macOS , URL: /wiki/MacOS
+","Multiple","Yes","B6Zip , URL: http://b6zip.com/
+"
+".ba","","Scifer","Multiple","Multiple","Yes","Binary Archive with external header"
+".bh","","BlakHole","","","Yes","Proprietary format from the ZipTV Compression Components"
+".cab","application/vnd.ms-cab-compressed","Cabinet , URL: /wiki/Cabinet_(file_format)
+","Windows , URL: /wiki/Microsoft_Windows
+","Multiple","Yes","Microsoft Windows , URL: /wiki/Microsoft_Windows
+WISE , URL: /wiki/Wise_Solutions,_Inc.
+"
+".car","","Compressia archive","DOS , URL: /wiki/DOS
+Windows , URL: /wiki/Microsoft_Windows
+","DOS , URL: /wiki/DOS
+Windows , URL: /wiki/Microsoft_Windows
+","Yes","Created by Yaakov Gringeler; released last in 2003 (Compressia 1.0.0.1 beta), now apparently defunct. Free trial of 30 days lets user create and extract archives; after that it is possible to extract, but not to create."
+".cfs","application/x-cfs-compressed","Compact File Set , URL: /wiki/CFS_(Compact_File_Set_file_format)
+","Windows , URL: /wiki/Microsoft_Windows
+Unix-like , URL: /wiki/Unix-like
+macOS , URL: /wiki/MacOS
+","Multiple","Yes","Open source file format."
+".cpt","","Compact Pro , URL: /wiki/Compact_Pro
+","Classic Mac OS , URL: /wiki/Classic_Mac_OS
+","Multiple","Yes","Mac OS 7 , URL: /wiki/Mac_OS_7
+"
+".dar","application/x-dar","Disk Archiver , URL: /wiki/DAR_(Disk_Archiver)
+","Unix-like , URL: /wiki/Unix-like
+macOS , URL: /wiki/MacOS
+","Unix-like , URL: /wiki/Unix-like
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","Yes","Open source file format. Files are compressed individually with either gzip, bzip2 or lzo."
+".dd","","DiskDoubler , URL: /wiki/DiskDoubler
+","Classic Mac OS , URL: /wiki/Classic_Mac_OS
+","","","obsolete"
+".dgc","application/x-dgc-compressed","DGCA , URL: /wiki/DGCA_(Computing)
+","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","",""
+".dmg , URL: /wiki/.dmg
+","application/x-apple-diskimage","Apple Disk Image , URL: /wiki/Apple_Disk_Image
+","macOS , URL: /wiki/MacOS
+","macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+Linux , URL: /wiki/Linux
+","Yes","Safari , URL: /wiki/Safari_(web_browser)
+"
+".ear","","EAR , URL: /wiki/EAR_(file_format)
+","Multiple","Multiple","Yes","Enterprise Java Archive archive"
+".gca","application/x-gca-compressed","GCA","","","","The predecessor of DGCA."
+".genozip","","Genozip , URL: https://genozip.com/
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","Linux , URL: /wiki/Linux
+macOS , URL: /wiki/MacOS
+Windows , URL: /wiki/Microsoft_Windows
+","No","Optimized for (but not limited to) genomic file types such as FASTQ, BAM, VCF"
+".ha","","[2] , URL: http://www.ibiblio.org/pub/Linux/utils/compress/ha0999p-linux.tar.gz
+","DOS , URL: /wiki/DOS
+","DOS , URL: /wiki/DOS
+","Yes, but may be covered by patents","DOS , URL: /wiki/DOS
+"
+".hki","","WinHKI , URL: http://www.winhki.com/
+","MS Windows","MS Windows","No","HKI"
+".ice","","ICE","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","Yes","ICEOWS , URL: /w/index.php?title=ICEOWS&action=edit&redlink=1
+"
+".jar","application/java-archive","JAR , URL: /wiki/JAR_(file_format)
+","Multiple","Multiple","Yes","ZIP , URL: /wiki/ZIP_(file_format)
+"
+".kgb","","KGB Archiver , URL: /wiki/KGB_Archiver
+","Multiple","Multiple","Yes","Open sourced archiver with compression using the PAQ family of algorithms and optional encryption."
+".lzh, .lha","application/x-lzh","LHA , URL: /wiki/LHA_(file_format)
+","DOS , URL: /wiki/DOS
+","Multiple","Yes","Amiga , URL: /wiki/Amiga
+"
+".lzx","application/x-lzx","LZX , URL: /wiki/LZX
+","Amiga , URL: /wiki/Amiga
+","","","Amiga , URL: /wiki/Amiga
+"
+".pak","","PAK , URL: /wiki/PAK_(file_format)
+","HP NonStop , URL: /w/index.php?title=HP_NonStop&action=edit&redlink=1
+","HP NonStop , URL: /w/index.php?title=HP_NonStop&action=edit&redlink=1
+","Yes[9]","NoGate Consultings , URL: /w/index.php?title=NoGate_Consultings&action=edit&redlink=1
+"
+".partimg","","PartImage , URL: /wiki/PartImage
+","Multiple","Multiple","Yes","A disk image archive format that supports several compression methods as well as splitting the archive into smaller pieces."
+".paq6, .paq7, .paq8 and variants","","PAQ , URL: /wiki/PAQ
+","Unix-like , URL: /wiki/Unix-like
+Windows , URL: /wiki/Microsoft_Windows
+","Unix-like , URL: /wiki/Unix-like
+Windows , URL: /wiki/Microsoft_Windows
+","Yes","http://mattmahoney.net/dc , URL: http://mattmahoney.net/dc
+"
+".pea","","PeaZip , URL: /wiki/Peazip
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+","Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+","Yes","CRCs , URL: /wiki/Cyclic_redundancy_check
+SHA-512 , URL: /wiki/SHA-512
+Whirlpool , URL: /wiki/Whirlpool_(algorithm)
+"
+".phar","","PHAR , URL: /wiki/PHAR_(file_format)
+","Multiple","Multiple","Yes","A package format to enable distribution of applications and libraries by bundling many PHP code files and other resources (e.g. images, stylesheets, etc.) into a single archive file"
+".pim","","PIM","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","Yes","The format from the PIM - a freeware compression tool by Ilia Muraviev. It uses an LZP-based compression algorithm with set of filters for executable, image and audio files."
+".pit","","PackIt , URL: /wiki/PackIt
+","Classic Mac OS , URL: /wiki/Classic_Mac_OS
+","","","obsolete"
+".qda","","Quadruple D","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","","Delphi , URL: /wiki/Embarcadero_Delphi
+byte pair compression , URL: /wiki/Byte_pair_compression
+"
+".rar","application/x-rar-compressed","RAR , URL: /wiki/RAR_(file_format)
+","DOS , URL: /wiki/DOS
+","Multiple","Yes","proprietary , URL: /wiki/Proprietary_format
+"
+".rk","","[3] , URL: http://www.msoftware.biz/products/winrk
+","Multiple","Multiple","No","PAQ , URL: /wiki/PAQ
+PPMD , URL: /wiki/Prediction_by_partial_matching
+"
+".sda","","Self Dissolving ARChive","Commodore 64, Commodore 128","Commodore 64, Commodore 128","Yes","SDAs refer to Self Dissolving ARC files, and are based on the Commodore 64 and Commodore 128 versions of ARC, originally written by Chris Smeets. While the files share the same extension, they are not compatible between platforms. That is, an SDA created on a Commodore 64 but run on a Commodore 128 in Commodore 128 mode will crash the machine, and vice versa. The intended successor to SDA is SFX."
+".sea","","Self Extracting Archive","Classic Mac OS , URL: /wiki/Classic_Mac_OS
+","Classic Mac OS , URL: /wiki/Classic_Mac_OS
+","","Mac OS X , URL: /wiki/Mac_OS_X
+"
+".sen","","Scifer","Multiple","Multiple","Yes","Scifer Archive with internal header"
+".sfx","","Self Extracting Archive","Commodore 64, Commodore 128","Commodore 64, Commodore 128","Yes","SFX is a Self Extracting Archive which uses the LHArc compression algorithm. It was originally developed by Chris Smeets on the Commodore platform, and runs primarily using the CS-DOS extension for the Commodore 128. Unlike its predecessor SDA, SFX files will run on both the Commodore 64 and Commodore 128 regardless of which machine they were created on."
+".shk","","NuFX , URL: /wiki/ShrinkIt
+","Originally Apple II, now multiple","Multiple","Yes","An archive format designed for the Apple II series of computers. The canonical implementation is ShrinkIt, which can operate on disk images as well as files. Preferred compression algorithm is a combination of RLE and 12-bit LZW. Archives can be manipulated with the command-line NuLib tool, or the Windows-based CiderPress."
+".sit","application/x-stuffit","StuffIt , URL: /wiki/StuffIt
+","Classic Mac OS , URL: /wiki/Classic_Mac_OS
+","Classic Mac OS , URL: /wiki/Classic_Mac_OS
+","Yes","Apple Macintosh , URL: /wiki/Apple_Macintosh
+"
+".sitx","application/x-stuffitx","StuffIt X , URL: /wiki/StuffIt_X
+","Multiple","Multiple","Yes","The replacement for the .sit format that supports more compression methods, UNIX file permissions, long file names, very large files, more encryption options, data specific compressors (JPEG, Zip, PDF, 24-bit image, MP3). The free StuffIt Expander is available for Windows and OS X."
+".sqx","","SQX , URL: /wiki/SQX
+","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","Yes","A royalty-free compressing format"
+".tar.gz, .tgz, .tar.Z, .tar.bz2, .tbz2, .tar.lz, .tlz. .tar.xz, .txz, .tar.zst","application/x-gtar","tar with gzip, compress, bzip2, lzip, xz, or zstd","Multiple","Multiple","Yes","Xarchiver , URL: /wiki/Xarchiver
+"
+".uc .uc0 .uc2 .ucn .ur2 .ue2","","UltraCompressor II","DOS , URL: /wiki/DOS
+","DOS , URL: /wiki/DOS
+","","UltraCompressor 2.3 was developed to act as an alternative to the then popular PKZIP application. The main feature of the application is its ability to create large archives. This means that compressed archives with the UC2 file extension can hold almost 1 million files."
+".uca","","PerfectCompress[10]","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","No","Based on PAQ, RZM, CSC, CCM, and 7zip. The format consists of a PAQ, RZM, CSC, or CCM compressed file and a manifest with compression settings stored in a 7z archive."
+".uha","","UHarc","DOS , URL: /wiki/DOS
+Windows , URL: /wiki/Microsoft_Windows
+","DOS , URL: /wiki/DOS
+Windows , URL: /wiki/Microsoft_Windows
+","Yes","DOS , URL: /wiki/DOS
+"
+".war","","WAR , URL: /wiki/WAR_(file_format)
+","Multiple","Multiple","Yes","Web Application archive (Java-based web app)"
+".wim","application/x-ms-wim","Windows Image , URL: /wiki/Windows_Imaging_Format
+","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","Yes","Microsoft Windows , URL: /wiki/Microsoft_Windows
+"
+".xar","application/x-xar","XAR , URL: /wiki/Xar_(archiver)
+","Multiple","Multiple","Yes",""
+".xp3","","KiriKiri , URL: /wiki/KiriKiri
+","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","Yes","KiriKiri , URL: /wiki/KiriKiri
+Visual Novel , URL: /wiki/Visual_Novel
+zlib , URL: /wiki/Zlib
+UTF-16 , URL: /wiki/UTF-16
+Adler-32 , URL: /wiki/Adler-32
+"
+".yz1","","YZ1 , URL: /w/index.php?title=Yz1_(file_format)&action=edit&redlink=1
+","Windows , URL: /wiki/Microsoft_Windows
+DOS , URL: /wiki/DOS
+Linux , URL: /wiki/Linux
+","Windows , URL: /wiki/Microsoft_Windows
+DOS , URL: /wiki/DOS
+Linux , URL: /wiki/Linux
+","Yes","DeepFreezer , URL: https://ja.wikipedia.org/wiki/DeepFreezer
+TUGZip , URL: /wiki/TUGZip
+ZipZag , URL: /w/index.php?title=ZipZag&action=edit&redlink=1
+"
+".zip, .zipx","application/zip","ZIP , URL: /wiki/ZIP_(file_format)
+","DOS , URL: /wiki/DOS
+","Multiple","Yes","Microsoft Windows , URL: /wiki/Microsoft_Windows
+Macintosh , URL: /wiki/Apple_Macintosh
+Unix , URL: /wiki/Unix
+"
+".zoo","application/x-zoo","zoo , URL: /wiki/Zoo_(file_format)
+","Multiple","Multiple","Yes",""
+".zpaq","","ZPAQ , URL: /wiki/ZPAQ
+","Multiple","Multiple","Yes","deduplication , URL: /wiki/Data_deduplication
+LZ77 , URL: /wiki/LZ77
+BWT , URL: /wiki/Burrows%E2%80%93Wheeler_transform
+context mixing , URL: /wiki/Context_mixing
+Open source , URL: /wiki/Open-source_license
+"
+".zz","","Zzip , URL: https://web.archive.org/web/20090201134403/http://debin.net/zzip/
+","Multiple","Multiple","Yes","Burrows–Wheeler transform , URL: /wiki/Burrows%E2%80%93Wheeler_transform
+"

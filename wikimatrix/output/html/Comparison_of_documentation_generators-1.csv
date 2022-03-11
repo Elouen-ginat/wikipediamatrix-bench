@@ -1,33 +1,60 @@
-"null","null","null","null","null","null","null"
-"Bruno Pacheco Lopes da Silva","Text","COBOL","Any","2020/08/01","1.0.11","GPL"
-"Walter Bright","Text","D","Windows, OS X, Linux and BSD","2005/09/19","DMD 2.078.3","Boost"
-"Innovasys","Text, Binary","C++/CLI only, C#, IDL, Java, VB, VBScript, PL/SQL","Windows only","1998","2014.1","Proprietary"
-"Dimitri van Heesch","Text","C/C++, C#, D, IDL, Fortran, Java, PHP, Python","Any","1997/10/26","1.9.1","GPL"
-"Edward Loper","Text","Python","Any","2002/01/—","3.0 (2008)","MIT"
-"Sebastian Guenther","Text","Pascal","[verification needed]","2005?","2.6.4","GPL"
-"Simon Marlow","Text","Haskell","Any","2002","2.15.0 (2014)","BSD"
-"Apple Inc.","Text","AppleScript, Bash, Csh, C, C++, Delphi, IDL, Java, JavaScript, MIG, Pascal, Perl, PHP, Python, Ruby, Tcl","Any Unix-like","2000/09/—","8.9.28 (2013)","APSL"
-"Imagix Corp.","Text","C, C++, Java","Windows, Linux, Unix","1995","7.3","Proprietary"
-"Sun Microsystems","Text","Java","Any","1995","1.6","GPL"
-"LAMP, EPFL","Text","Scala","Any","2011","1.0","Scala License"
-"Michael Mathews","Text","JavaScript","Any","2001/07/—","1.10.2","GPL"
-"Michael Mathews","Text","JavaScript","Any","2007?","2.0.0","MIT"
-"Jean-Paul Louyot","Text","Any with comments","Unix, Linux, Windows","1989","2015","EUPL GPL"
-"Greg Valure","Text","Any with comments","Any","2003/05/26","2.0.2","GPL"
-"Jason Diamond, Jean-Claude Manoli, Kral Ferch","Binary","C#","Windows only","2003/07/27","1.3.1","GPL"
-"Andrew Gallant","Text","Python","Any","2013","1.0.1 (2021)","Unlicense"
-"kernc","Text","Python","Any","2018","0.9.2 (2020)","Affero GPL"
-"Larry Wall","Text","Perl","Any","1994","5.16.3","Artistic, GPL"
-"Joshua Eichorn","Text","PHP","Any","2000","3.0.0","LGPL for 1.x, MIT for 2+"
-"Ka-Ping Yee[1][2]","Text","Python","Any","2000","in Python core","Python"
-"Dave Thomas","Text","C, C++, Ruby","Any","2001/12/14","in Ruby core","Ruby"
-"Frans Slothouber","Text","Any with comments","Any","1995/01/19","4.99.36 (2015)","GPL"
-"Hadley Wickam","Text","R","Any","2011/07/23","7.1.2.9000","MIT"
-"The Rust Project","Text","Rust","Any","Sep 2020","1.52.1","Apache 2.0 or MIT"
-"Microsoft","Text",".NET","Windows only","2008/05/—","2014.5.31.0","Ms-PL"
-"Eric Woodruff","Text",".NET","Windows only","2015/01/12","2021.-.-.-","Ms-PL"
-"Georg Brandl","Text","Ada, C, C++, Fortran, JavaScript, PHP, Python, Ruby","Any","2008/03/21","3.5.4","BSD"
-"Novalys","Text, Binary","C#, PL/SQL, Transact-SQL, PowerBuilder","Windows only","1995","2017","Proprietary"
-"Helixoft","Text","VB, VBScript, C#","Windows only","2003 Oct 2","9.0","Proprietary"
-"Loren Segal","Text","Ruby","Any","2007/02/24","0.7.3","MIT"
-"null","null","null","null","null","null","null"
+"","HTML , URL: /wiki/HTML
+","CHM , URL: /wiki/Microsoft_Compressed_HTML_Help
+","RTF , URL: /wiki/Rich_Text_Format
+","PDF , URL: /wiki/Portable_Document_Format
+","LaTeX , URL: /wiki/LaTeX
+","PostScript , URL: /wiki/PostScript
+","man pages , URL: /wiki/Unix_manual
+","DocBook , URL: /wiki/DocBook
+","XML , URL: /wiki/XML
+","ePub , URL: /wiki/EPub
+"
+"COBOLDoc , URL: /w/index.php?title=COBOLDoc&action=edit&redlink=1
+","Yes","No","No","No","No","No","No","No","No",""
+"Ddoc , URL: /wiki/Ddoc
+","Yes","Yes[a]","No","Yes[a]","Yes[a]","Yes[a]","Yes[a]","No","Yes[a]",""
+"Document! X , URL: /wiki/Document!_X
+","Yes","Yes","No","No","No","No","No","No","No",""
+"Doxygen , URL: /wiki/Doxygen
+","Yes","Yes","Yes","Indirectly[b]","Yes","Indirectly[b]","Yes","Yes","Yes","No"
+"Epydoc , URL: /wiki/Epydoc
+","Yes","No","No","Yes","Indirectly[c]","Indirectly[c]","No","No","No",""
+"Haddock , URL: /wiki/Haddock_(software)
+","Yes","Yes","No","No","No","No","No","Partial","No",""
+"HeaderDoc , URL: /wiki/HeaderDoc
+","Yes","No","No","No","No","No","Yes","No","Yes",""
+"Imagix 4D , URL: /wiki/Imagix_4D
+","Yes","No","Yes","No","No","No","No","No","No",""
+"Javadoc , URL: /wiki/Javadoc
+","Yes","Indirectly[d]","Indirectly[d]","Indirectly[d]","Indirectly[d]","Indirectly[d]","Indirectly[d]","Indirectly[d]","Indirectly[d]",""
+"JSDoc , URL: /wiki/JSDoc
+","Yes","No","No","No","No","No","No","No","No",""
+"JsDoc Toolkit , URL: /wiki/JSDoc
+","Yes","No","No","No","No","No","No","No","Yes+JSON",""
+"Natural Docs , URL: /wiki/Natural_Docs
+","Yes","No","No","No","No","No","No","No","No",""
+"NDoc , URL: /wiki/NDoc
+","Yes","Yes","No","No","No","No","No","No","No",""
+"pdoc , URL: /wiki/Pdoc
+","Yes","No","No","No","No","No","No","No","No","No"
+"pdoc3 , URL: /wiki/Pdoc3
+","Yes","No","No","Indirectly[e]","No","No","No","No","No","No"
+"phpDocumentor , URL: /wiki/PhpDocumentor
+","Yes","Yes (1.x only)","No","Yes (1.x only)","No","No","No","Yes (1.x only)","Yes (1.x only)",""
+"pydoc , URL: /wiki/Pydoc
+","Yes","No","No","No","No","No","No","No","No","No"
+"RDoc , URL: /wiki/RDoc
+","Yes","Yes[f]","No","No","No","No","Indirectly[g]","No","Yes[f]",""
+"ROBODoc , URL: /wiki/ROBODoc
+","Yes","Indirectly","Yes","Indirectly[c]","Yes","Indirectly[c]","Yes","Yes","No",""
+"Sandcastle , URL: /wiki/Sandcastle_(software)
+","Yes","Yes","No","No","No","No","No","No","No",""
+"Sphinx , URL: /wiki/Sphinx_(documentation_generator)
+","Yes","Yes","","Indirectly[h]","Yes","","Yes","","","Yes"
+"Visual Expert , URL: /wiki/Visual_Expert
+","Yes","No","No","No","No","No","No","No","No",""
+"VSdocman , URL: /wiki/VSdocman
+","Yes","Yes","No","Yes","No","No","No","No","Yes",""
+"YARD , URL: /wiki/YARD_(software)
+","Yes","No","No","No","No","No","No","No","No",""
+"","HTML","CHM","RTF","PDF","LaTeX","PostScript","man pages","DocBook","XML","ePub"

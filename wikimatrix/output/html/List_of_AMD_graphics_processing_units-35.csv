@@ -1,0 +1,62 @@
+"codename , URL: /wiki/Codename
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/Floating-point_operations_per_second
+","GFLOPS , URL: /wiki/Floating-point_operations_per_second
+","GFLOPS , URL: /wiki/Floating-point_operations_per_second
+","Cache , URL: /wiki/Cache_(computing)
+","Cache , URL: /wiki/Cache_(computing)
+","Memory","Memory","Memory","Memory","TBP","Bus interface"
+"codename , URL: /wiki/Codename
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Config[e]","MHz , URL: /wiki/Hertz
+","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","Half , URL: /wiki/Half-precision_floating-point_format
+","Single , URL: /wiki/Single_precision_floating-point_format
+","Double , URL: /wiki/Double_precision_floating-point_format
+","Size","Bandwidth (GB/s)","Size","Bandwidth (GB/s)","Bus type & width","MT/s , URL: /wiki/Transfer_(computing)
+","TBP","Bus interface"
+"Radeon RX 6400 (Navi 24)[140][141]","January 19, 2022","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N6 , URL: /wiki/7_nanometer
+","5.4×109 107 mm2","768:48:32:12 12 CU","2039 2321","97.8 111.4","65.3 74.3","6,260 7,130","3,133 3,570","195.9 223.1","16 MB","416","4 GB","128","GDDR6 64-bit","16000","53W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6500 XT (Navi 24)[142][143]","January 19, 2022 $199 USD","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N6 , URL: /wiki/7_nanometer
+","5.4×109 107 mm2","1024:64:32:16 16 CU","2610 2815","167.1 180.2","83.5 90.1","10,690 11,530","5,350 5,770","334.3 360.6","16 MB","416","4 GB","144","GDDR6 64-bit","18000","107W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6600 (Navi 23)[144]","October 13, 2021 $329 USD","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","11.06×109 237 mm2","1792:112:64:28 28 CU","1626 2491","228.9 279","104.1 159.4","14,654 17,860","7,325 8,928","457.8 558.0","32 MB","832","8 GB","224","GDDR6 128-bit","14000","132 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6600 XT (Navi 23)[145][146][147][148]","August 11, 2021 $379 USD","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","11.06×109 237 mm2","2048:128:64:32 32 CU","1968 2589","251.9 331.4","126.0 165.7","16,122 21,209","8,061 10,605","503.8 662.8","32 MB","832","8 GB","256","GDDR6 128-bit","16000","160 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6700 XT (Navi 22)[149][150][151]","March 18, 2021 $479 USD","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","17.2×109 335 mm2","2560:160:64:40 40 CU","2321 2581","371.4 413","148.5 165.2","23,767 26,429","11,884 13,215","742.7 825.9","96 MB","1248","12 GB","384","GDDR6 192-bit","16000","230 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6800 (Navi 21) [152][153][154][155]","November 18, 2020 $579 USD","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","26.8×109 519.8 mm2","3840:240:96:60 60 CU","1700 2105","408 505.2","163.2 202.1","26,112 32,333","13,056 16,166","816 1,010","128 MB","1664","16 GB","512","GDDR6 256-bit","16000","250 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6800 XT (Navi 21) [152][153][156][155]","November 18, 2020 $649 USD","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","26.8×109 519.8 mm2","4608:288:128:72 72 CU","1825 2250","525.6 648","233.6 288","33,638 41,472","16,819 20,736","1,051 1,296","128 MB","1664","16 GB","512","GDDR6 256-bit","16000","300 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"
+"Radeon RX 6900 XT (Navi 21) [152][153][157][155]","December 8, 2020 $999 USD","RDNA 2 , URL: /wiki/RDNA_2
+TSMC , URL: /wiki/TSMC
+N7 , URL: /wiki/7_nanometer
+","26.8×109 519.8 mm2","5120:320:128:80 80 CU","1825 2250","584 720","233.6 288","37,376 46,080","18,688 23,040","1,168 1,440","128 MB","1664","16 GB","512","GDDR6 256-bit","16000","300 W","PCIe 4.0 , URL: /wiki/PCIe_4.0
+"

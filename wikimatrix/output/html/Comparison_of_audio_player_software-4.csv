@@ -1,0 +1,93 @@
+"Audio player","Lossy compression , URL: /wiki/Lossy_compression
+","Lossy compression , URL: /wiki/Lossy_compression
+","Lossy compression , URL: /wiki/Lossy_compression
+","Lossy compression , URL: /wiki/Lossy_compression
+","Lossy compression , URL: /wiki/Lossy_compression
+","Lossy compression , URL: /wiki/Lossy_compression
+","Lossy compression , URL: /wiki/Lossy_compression
+","Lossy compression , URL: /wiki/Lossy_compression
+","Lossy compression , URL: /wiki/Lossy_compression
+","Lossless compression , URL: /wiki/Lossless_compression
+","Lossless compression , URL: /wiki/Lossless_compression
+","Lossless compression , URL: /wiki/Lossless_compression
+","Lossless compression , URL: /wiki/Lossless_compression
+","Lossless compression , URL: /wiki/Lossless_compression
+","Lossless compression , URL: /wiki/Lossless_compression
+"
+"Audio player","MP3 , URL: /wiki/MP3
+","WMA , URL: /wiki/Windows_Media_Audio
+","RealAudio , URL: /wiki/RealAudio
+","Vorbis , URL: /wiki/Vorbis
+","Musepack , URL: /wiki/Musepack
+","AAC , URL: /wiki/Advanced_Audio_Coding
+","Dolby AC-3 , URL: /wiki/Dolby_AC-3
+","VQF , URL: /wiki/VQF
+","Opus , URL: /wiki/Opus_(audio_format)
+","APE , URL: /wiki/Monkey%27s_Audio
+","FLAC , URL: /wiki/FLAC
+","ALAC , URL: /wiki/Apple_Lossless
+","SHN , URL: /wiki/Shorten_(file_format)
+","WV , URL: /wiki/WavPack
+","WMA L , URL: /wiki/Windows_Media_Audio
+"
+"AIMP , URL: /wiki/AIMP
+","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes[b]","Yes","Yes","Yes","Yes","No","Yes","Yes"
+"Amarok , URL: /wiki/Amarok_(audio)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes"
+"Audacious , URL: /wiki/Audacious_(software)
+","Yes","Yes","No","Yes","Yes","Yes","Yes","?","Yes[d]","Yes","Yes","Yes","No","Yes","?"
+"Audion , URL: /wiki/Audion_(software)
+","Yes","No","No","Yes","No","No","No","?","?","No","No","No","No","No","?"
+"Banshee , URL: /wiki/Banshee_(media_player)
+","Yes","?","?","Yes","?","?","?","?","?","No","?","?","?","?","?"
+"cmus , URL: /wiki/Cmus
+","Yes","Yes[d]","No","Yes","Yes","Yes","Yes[d]","?","Yes[e]","Yes[d]","Yes","Yes[d]","Yes[d]","Yes","?"
+"Cog , URL: /wiki/Cog_(software)
+","Yes","No","No","Yes","Yes","Yes","No","?","?","Yes","Yes","Yes","Yes","Yes","?"
+"Exaile , URL: /wiki/Exaile
+","Yes[f]","Yes[f]","Yes[f]","Yes[f]","Yes[f]","Yes[f]","Yes[f]","?","Yes","Yes[f]","Yes[f]","Yes[f]","Yes[f]","Yes[f]","?"
+"foobar2000 , URL: /wiki/Foobar2000
+","Yes","Yes","No","Yes","Yes","Yes","Partial[a]","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Groove Music , URL: /wiki/Groove_Music
+","Yes","Yes","No","No","?","Yes","Yes","?","?","?","Yes","?","?","?","?"
+"JRiver Media Center , URL: /wiki/JRiver_Media_Center
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"JuK , URL: /wiki/JuK
+","Yes","No","No","Yes","Yes","No","No","?","?","Yes","Yes","No","Yes","No","?"
+"Media Jukebox , URL: /wiki/JRiver_Media_Center#Media_Jukebox
+","Yes[audionotes 1]","Yes","Yes","Yes","Yes","Yes","Yes","?","?","Yes","Yes","Yes","Yes","Yes","?"
+"MediaMonkey , URL: /wiki/MediaMonkey
+","Yes","Yes","No","Yes","Yes","Partial[g]","Partial[g]","?","No","Yes","Yes","Yes","Partial[a]","Partial[a]","?"
+"MPXPLAY , URL: /wiki/MPXPLAY
+","Yes","Yes","No","Yes","Yes","Yes","Yes","?","Partial[a]","Yes","Yes","No","No","Yes","?"
+"Music Player Daemon , URL: /wiki/Music_Player_Daemon
+","Yes","Yes[d]","Partial[d]","Yes","Yes","Yes","Yes[d]","Yes[d]","Yes","Yes[d]","Yes","Yes","Yes[d]","Yes","?"
+"MusicBee , URL: /wiki/MusicBee
+","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes[b]","Yes","Yes","Yes","Yes","Yes[b]","Yes","Yes"
+"Musicmatch Jukebox , URL: /wiki/Musicmatch_Jukebox
+","Yes","Yes","No","No","No","No","No","?","?","No","No","No","No","No","?"
+"musikCube , URL: /wiki/MusikCube
+","Yes","Partial[g]","No","Yes","Partial[g]","Partial[g]","Partial[g]","?","?","Yes","Yes","No","No","Partial[g]","?"
+"Quod Libet , URL: /wiki/Quod_Libet_(software)
+","Yes[f]","Yes[f]","Yes[f]","Yes[f]","Yes[f]","Yes[f]","Yes[f]","?","Yes","Yes[f]","Yes[f]","Yes[f]","Yes[f]","Yes[f]","?"
+"Rhapsody , URL: /wiki/Rhapsody_(online_music_service)
+","Yes","Yes","Yes","No","No","Yes","No","?","?","No","No","No","No","No","?"
+"Rhythmbox , URL: /wiki/Rhythmbox
+","Yes[f]","Yes[f]","Yes[f]","Yes[f]","Yes[f]","Yes[f]","Yes[f]","?","Yes[f]","Yes[f]","Yes[f]","Yes[f]","Yes[f]","Yes[f]","?"
+"Sayonara Player , URL: /wiki/Sayonara_Player
+","Yes","?","?","Yes","?","?","No","?","Yes","?","Yes","?","?","?","?"
+"Sonique , URL: /wiki/Sonique_(media_player)
+","Yes","Yes","No","Yes","Partial[g]","Partial[g]","No","?","?","No","No","No","No","No","?"
+"Spotify , URL: /wiki/Spotify
+","Yes","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No"
+"Style Jukebox , URL: /wiki/Style_Jukebox
+","Yes","Yes","No","No","No","Yes","No","No","No","No","Yes","Yes","No","No","Yes"
+"Winamp , URL: /wiki/Winamp
+","Yes","Yes","Yes[a]","Yes","Yes[a]","Yes","?","?","?","?","Yes","?","?","Yes[a]","?"
+"XMMS , URL: /wiki/XMMS
+","Yes","Partial[g]","Partial[g]","Partial[g]","Yes","Yes","No","Yes[a]","?","Partial[g]","Yes","No","Partial[g]","Yes","?"
+"XMPlay , URL: /wiki/Xmplay
+","Yes","Yes[a]","Yes[a]","Yes","Yes[a]","Yes[a]","Yes[a]","?","Yes[a]","Yes[a]","Yes[a]","Yes[a]","Yes[a]","Yes[a]","?"
+"Zinf , URL: /wiki/Zinf
+","Yes","No","No","Yes","No","No","No","?","?","No","No","No","No","No","?"
+"Audio player","MP3","WMA","RealAudio","Vorbis","Musepack","AAC","Dolby AC-3","VQF","Opus","APE","FLAC","ALAC","SHN","WV","WMA L"

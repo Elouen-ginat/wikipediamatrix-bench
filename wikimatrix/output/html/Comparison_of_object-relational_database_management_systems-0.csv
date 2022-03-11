@@ -1,0 +1,60 @@
+"Name","Vendor","License , URL: /wiki/Software_license
+","OS , URL: /wiki/Operating_system
+","Notes"
+"Adaptive Server Enterprise , URL: /wiki/Adaptive_Server_Enterprise
+","SAP , URL: /wiki/SAP_AG
+","Proprietary , URL: /wiki/Proprietary_software
+","Cross-platform",""
+"Caché , URL: /wiki/InterSystems_Cach%C3%A9
+","InterSystems , URL: /wiki/InterSystems
+","Proprietary","Cross-platform",""
+"CUBRID , URL: /wiki/CUBRID
+","NHN Corporation , URL: /wiki/NHN_Corporation
+","GPL , URL: /wiki/GNU_GPL
+BSD , URL: /wiki/BSD_license
+","Linux, Windows",""
+"Db2 , URL: /wiki/IBM_Db2_Family
+","IBM , URL: /wiki/IBM
+","Proprietary","Cross-platform",""
+"GigaSpaces","GigaSpaces , URL: /wiki/GigaSpaces
+","Apache-2.0 or Proprietary","Cross-platform",""
+"Greenplum Database , URL: /wiki/Greenplum
+","Greenplum , URL: /wiki/Greenplum
+EMC Corporation , URL: /wiki/EMC_Corporation
+","Proprietary","?","Uses PostgreSQL codebase"
+"Informix , URL: /wiki/Informix
+","IBM , URL: /wiki/IBM
+","Proprietary","Cross-platform",""
+"Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
+","Microsoft Corporation , URL: /wiki/Microsoft_Corporation
+","Proprietary","Windows, Linux","Supports data objects in .NET languages"
+"OpenEdge Advanced Business Language , URL: /wiki/OpenEdge_Advanced_Business_Language
+","Progress Software Corporation , URL: /wiki/Progress_Software_Corporation
+","Proprietary","Cross-platform",""
+"Oracle Database , URL: /wiki/Oracle_Database
+","Oracle Corporation , URL: /wiki/Oracle_Corporation
+","Proprietary","Linux, Windows, Unix",""
+"PostgreSQL , URL: /wiki/PostgreSQL
+","PostgreSQL Global Development Group","PostgreSQL License , URL: /wiki/PostgreSQL
+","Cross-platform",""
+"Virtuoso Universal Server , URL: /wiki/Virtuoso_Universal_Server
+","OpenLink Software","GPLv , URL: /wiki/GNU_GPL
+","Cross-platform",""
+"VMDS , URL: /wiki/VMDS
+","GE Energy , URL: /wiki/GE_Energy
+General Electric , URL: /wiki/General_Electric
+","Proprietary","?","GIS for public utilities; can be stored inside Oracle Database"
+"WakandaDB , URL: /wiki/Wakanda_(software)
+","4th Dimension , URL: /wiki/4th_Dimension_(software)
+","AGPLv , URL: /wiki/Affero_General_Public_License
+","Windows, Linux, macOS","Based on REST and server-side JavaScript"
+"XDB Enterprise Server , URL: /wiki/XDB_Enterprise_Server
+","Micro Focus , URL: /wiki/Micro_Focus
+","Proprietary","DOS, Windows NT, OS/2",""
+"YugabyteDB , URL: /wiki/YugabyteDB
+","Yugabyte , URL: /wiki/Yugabyte
+","Apache 2.0","Linux",""
+"Zope Object Database , URL: /wiki/Zope_Object_Database
+","Zope Corporation","Zope Public License , URL: /wiki/Zope_Public_License
+","Cross-platform","Zope , URL: /wiki/Zope
+"

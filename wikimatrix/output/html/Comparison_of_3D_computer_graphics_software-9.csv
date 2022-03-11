@@ -1,0 +1,62 @@
+"","Imports , URL: /wiki/Imports
+","Imports , URL: /wiki/Imports
+","Imports , URL: /wiki/Imports
+","Imports , URL: /wiki/Imports
+","Imports , URL: /wiki/Imports
+","Imports , URL: /wiki/Imports
+","Imports , URL: /wiki/Imports
+","Imports , URL: /wiki/Imports
+","Imports , URL: /wiki/Imports
+","Exports , URL: /wiki/Exports
+","Exports , URL: /wiki/Exports
+"
+"","Geometry Cache","Geometry Cache","Point Cache","Point Cache","Particle Cache","Particle Cache","Particle Cache","Particle Cache","Animation","Exports , URL: /wiki/Exports
+","Exports , URL: /wiki/Exports
+"
+"","Alembic (*.abc)","Maya Cache (*.mc) [io 8]","3ds Max PC2 [io 8]","LightWave MDD","Maya Particle Data (*.pda / *.pdb)","Houdini BGEO","RealFlow , URL: /wiki/RealFlow
+","Krakatoa PRT","Biovision Hierarchy , URL: /wiki/Biovision_Hierarchy
+","Alembic (*.abc)","others"
+"3ds Max , URL: /wiki/3ds_Max
+","Yes","Yes","Yes","?","?","?","?","?","?","Yes",""
+"AC3D , URL: /wiki/AC3D
+","?","?","?","?","?","?","?","?","?","?",""
+"Blender , URL: /wiki/Blender_(software)
+","Yes","No","Mesh Cache Modifier[16]","Mesh Cache Modifier[16]","?","?","?","?","Yes","Yes","BVH"
+"Electric Image Animation System , URL: /wiki/Electric_Image_Animation_System
+","?","?","?","?","?","?","?","?","?","?",""
+"Cinema 4D , URL: /wiki/Cinema_4D
+","Yes","?","?","?","?","?","?","?","?","Yes",""
+"Clara.io , URL: /wiki/Clara.io
+","?","?","?","?","?","?","?","?","Yes","?","BVH"
+"Cobalt , URL: /wiki/Cobalt_(CAD_program)
+","?","?","?","?","?","?","?","?","?","?",""
+"Houdini , URL: /wiki/Houdini_(software)
+","Yes","via FBX importer","via FBX importer","?","?","Yes","?","?","?","Yes",""
+"IClone , URL: /wiki/IClone
+","?","?","?","?","?","?","?","?","Yes","?","BVH"
+"Lightwave 3D , URL: /wiki/Lightwave_3D
+","Yes","?","?","Yes","Partio Node [17]","No[17]","?","?","?","Yes",""
+"MakeHuman , URL: /wiki/MakeHuman
+","?","?","?","?","?","?","?","?","?","?",""
+"Maya , URL: /wiki/Maya_(software)
+","Yes","Yes","?","?","Yes","?","?","?","?","Yes",""
+"Metasequoia , URL: /wiki/Metasequoia_(software)
+","?","?","?","?","?","?","?","?","?","?",""
+"Modo , URL: /wiki/Modo_(software)
+","Yes","?","?","MDD Deformer","?","?","?","?","?","Yes",""
+"Remo 3D , URL: /wiki/Remo_3D
+","?","?","?","?","?","?","?","?","?","?",""
+"Shade , URL: /wiki/Shade_3D
+","?","?","?","?","?","?","?","?","?","?","BVH"
+"Softimage , URL: /wiki/Softimage
+","(Exocortex Crate)","?","?","Point Oven","?","?","?","?","?","(Exocortex Crate)",""
+"Solid Edge , URL: /wiki/Solid_Edge
+","?","?","?","?","?","?","?","?","?","?",""
+"SketchUp Make , URL: /wiki/SketchUp
+","?","?","?","?","?","?","?","?","?","?",""
+"SketchUp , URL: /wiki/SketchUp
+","?","?","?","?","?","?","?","?","?","?",""
+"E-on Vue , URL: /wiki/E-on_Vue
+","?","?","?","?","?","?","?","?","?","?",""
+"Wings3D , URL: /wiki/Wings3D
+","?","?","?","?","?","?","?","?","?","?",""

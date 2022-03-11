@@ -1,0 +1,51 @@
+"Name","Release year","Market","Processor , URL: /wiki/List_of_Intel_microprocessors
+","Processor , URL: /wiki/List_of_Intel_microprocessors
+","Device ID , URL: /wiki/Device_ID
+","Core config1","Clock rate , URL: /wiki/Clock_rate
+","Clock rate , URL: /wiki/Clock_rate
+","API , URL: /wiki/API
+","API , URL: /wiki/API
+","API , URL: /wiki/API
+","API , URL: /wiki/API
+","Memory bandwidth , URL: /wiki/Memory_bandwidth
+"
+"Name","Release year","Market","Code name","Model","Device ID , URL: /wiki/Device_ID
+","Core config1","Min (MHz)","Max (MHz)","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","OpenCL , URL: /wiki/OpenCL
+","Vulkan , URL: /wiki/Vulkan_(API)
+","Memory bandwidth , URL: /wiki/Memory_bandwidth
+"
+"UHD Graphics","2019","Mobile","Ice Lake , URL: /wiki/Ice_Lake_(microarchitecture)
+","Core i3-1000G1 Core i3-1005G1","8A58","256:32:4 (GT1)","300","900","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","59.7"
+"UHD Graphics","2019","Mobile","Ice Lake , URL: /wiki/Ice_Lake_(microarchitecture)
+","Core i5-1035G1","8A56","256:32:4 (GT1)","300","1050","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","59.7"
+"Iris Plus Graphics","2019","Mobile","Ice Lake , URL: /wiki/Ice_Lake_(microarchitecture)
+","Core i3-1000G4","8A5C","384:48:6 (GT1.5)","300","900","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","59.7"
+"Iris Plus Graphics","2019","Mobile","Ice Lake , URL: /wiki/Ice_Lake_(microarchitecture)
+","Core i5-1030G4","8A5C","384:48:6 (GT1.5)","300","","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","59.7"
+"Iris Plus Graphics","2019","Mobile","Ice Lake , URL: /wiki/Ice_Lake_(microarchitecture)
+","Core i5-1035G4","8A5A","384:48:6 (GT1.5)","300","","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","59.7"
+"Iris Plus Graphics","2019","Mobile","Ice Lake , URL: /wiki/Ice_Lake_(microarchitecture)
+","Core i5-1030G7 Core i5-1030NG7","8A51","512:64:8 (GT2)","300","1050","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","59.7"
+"Iris Plus Graphics","2019","Mobile","Ice Lake , URL: /wiki/Ice_Lake_(microarchitecture)
+","Core i7-1060G7 Core i7-1060NG7","8A51","512:64:8 (GT2)","300","","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","59.7"
+"Iris Plus Graphics","2019","Mobile","Ice Lake , URL: /wiki/Ice_Lake_(microarchitecture)
+","Core i5-1035G7","8A52","512:64:8 (GT2)","300","1050","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","59.7"
+"Iris Plus Graphics","2019","Mobile","Ice Lake , URL: /wiki/Ice_Lake_(microarchitecture)
+","Core i7-1065G7","8A52","512:64:8 (GT2)","300","","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","59.7"
+"Iris Plus Graphics","2019","Mobile","Ice Lake , URL: /wiki/Ice_Lake_(microarchitecture)
+","Core i5-1038G7","8A53","512:64:8 (GT2)","300","1050","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","59.7"
+"Iris Plus Graphics","2019","Mobile","Ice Lake , URL: /wiki/Ice_Lake_(microarchitecture)
+","Core i7-1068G7","8A53","512:64:8 (GT2)","300","","FL , URL: /wiki/Feature_levels_in_Direct3D
+","4.6Windows 4.6Linux ES 3.2Linux","3.0Windows 3.0Linux","1.2Windows 1.2Linux","59.7"

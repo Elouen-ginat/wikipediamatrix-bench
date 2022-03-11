@@ -1,0 +1,94 @@
+"BitTorrent client","GUI , URL: /wiki/Graphical_user_interface
+","Remote","CLI , URL: /wiki/Command-line_interface
+","Other","Programming language , URL: /wiki/Programming_language
+","Based on","IPv6 , URL: /wiki/IPv6
+","μTP , URL: /wiki/Micro_Transport_Protocol
+"
+"BitComet , URL: /wiki/BitComet
+","Yes","Yes","Partial[39]","No","C++ , URL: /wiki/C%2B%2B
+","-","Yes","No"
+"BitLord , URL: /wiki/BitLord
+","Yes","No","No","No","Python , URL: /wiki/Python_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","libtorrent , URL: /wiki/Libtorrent
+","Yes","No"
+"BitTorrent , URL: /wiki/BitTorrent_(software)
+","Yes","No","Partial","No","Python , URL: /wiki/Python_(programming_language)
+","-","No","No"
+"BitTorrent 6","Yes","Yes","Partial","No","C++ , URL: /wiki/C%2B%2B
+","μTorrent","Yes","Yes"
+"Deluge , URL: /wiki/Deluge_(software)
+","Yes","Yes","Yes","Daemon , URL: /wiki/Daemon_(computing)
+","Python , URL: /wiki/Python_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","libtorrent , URL: /wiki/Libtorrent
+","Yes","Yes[40]"
+"FlashGet , URL: /wiki/FlashGet
+","Yes","No","No","No","?","?","No","No"
+"Free Download Manager , URL: /wiki/Free_Download_Manager
+","Yes","Yes","Partial","No","C++ , URL: /wiki/C%2B%2B
+","libtorrent , URL: /wiki/Libtorrent
+","No","No"
+"Frostwire , URL: /wiki/Frostwire
+","Yes","No","No","No","Java , URL: /wiki/Java_(programming_language)
+","libtorrent , URL: /wiki/Libtorrent
+","No","Yes[41]"
+"KGet , URL: /wiki/KGet
+","Yes","Yes","Partial[Note 4]","No","C++ , URL: /wiki/C%2B%2B
+","-","Yes","No"
+"KTorrent , URL: /wiki/KTorrent
+","Yes","Yes","Partial","No","C++ , URL: /wiki/C%2B%2B
+","-","Yes","Yes[42]"
+"LimeWire , URL: /wiki/LimeWire
+","Yes","No","No","No","Java , URL: /wiki/Java_(programming_language)
+","libtorrent , URL: /wiki/Libtorrent
+","No","No"
+"Miro , URL: /wiki/Miro_(software)
+","Yes","No","No","No","C++ , URL: /wiki/C%2B%2B
+","libtorrent , URL: /wiki/Libtorrent
+","No","No"
+"MLDonkey , URL: /wiki/MLDonkey
+","No","Third Party[43]","Partial","Telnet","OCaml , URL: /wiki/OCaml
+","-","No","No"
+"μTorrent , URL: /wiki/%CE%9CTorrent
+","Yes","Yes","No[44]","RESTful Web API[45]","C++ , URL: /wiki/C%2B%2B
+","-","Yes[47]","Yes[48]"
+"Opera 12 , URL: /wiki/Opera_(web_browser)
+","Yes","No","No","No","C++ , URL: /wiki/C%2B%2B
+","-","Yes","No"
+"qBittorrent , URL: /wiki/QBittorrent
+","Yes","Yes","Partial","No","Python , URL: /wiki/Python_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","libtorrent , URL: /wiki/Libtorrent
+","Yes","Yes[49]"
+"rTorrent , URL: /wiki/RTorrent
+","No","Third Party","Yes","SCGI , URL: /wiki/SCGI
+","C++ , URL: /wiki/C%2B%2B
+","[libTorrent] (Rakshasa)","Yes[50]","No"
+"Shareaza , URL: /wiki/Shareaza
+","Yes","Yes","Partial","No","C++ , URL: /wiki/C%2B%2B
+","-","No","No"
+"Tixati , URL: /wiki/Tixati
+","Yes","Yes","No","Web interface , URL: /wiki/Web_interface
+","C++ , URL: /wiki/C%2B%2B
+","-","Yes","Yes[51]"
+"Tonido , URL: /wiki/Tonido
+","No","Yes","No","No","C++ , URL: /wiki/C%2B%2B
+","libtorrent , URL: /wiki/Libtorrent
+","No","No"
+"Transmission , URL: /wiki/Transmission_(BitTorrent_client)
+","Yes","Yes","Yes","Daemon, JSON-RPC over HTTP remote control API","C , URL: /wiki/C_(programming_language)
+Objective-C , URL: /wiki/Objective-C
+","libtransmission","Yes","Yes[52]"
+"Tribler , URL: /wiki/Tribler
+","Yes","Partial","Partial","No","Python , URL: /wiki/Python_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","libtorrent , URL: /wiki/Libtorrent
+","No","Yes"
+"Vuze , URL: /wiki/Vuze
+","Yes","Yes","Partial","Telnet, XML over HTTP remote control API","Java , URL: /wiki/Java_(programming_language)
+","-","Yes","Yes[53]"
+"Xunlei , URL: /wiki/Xunlei
+","Yes","No","No","remote control over internet[54]","C++ , URL: /wiki/C%2B%2B
+","-","No","No"
+"BitTorrent client","GUI","Web","CLI","Other","Programming language","Based on","IPv6","μTP"

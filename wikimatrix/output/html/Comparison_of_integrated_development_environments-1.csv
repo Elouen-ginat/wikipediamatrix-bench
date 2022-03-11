@@ -1,6 +1,43 @@
-"null","null","null","null","null","null","null","null","null","null","null"
-"Proprietary","Yes","No","Yes","JVM","Yes","Yes","Yes","Yes","Yes","Yes"
-"Proprietary","Yes","No","Yes","JVM","Yes","Yes","Yes","Yes","Yes","Yes"
-"MIT License","Yes","No","No","","Yes","No","Yes","No","Yes","Yes"
-"Proprietary","Yes","Yes","Yes","FreeBSD, OpenBSD, Solaris","Yes","No","Yes","Yes","Yes","Yes"
-"Proprietary","Yes","Yes","Yes","JVM","Yes","No","Yes","Yes","Yes","Yes"
+"IDE , URL: /wiki/Integrated_development_environment
+","License , URL: /wiki/Software_license
+","Windows , URL: /wiki/Microsoft_Windows
+","Linux , URL: /wiki/Linux
+","macOS , URL: /wiki/MacOS
+","Other platforms , URL: /wiki/Platform_(computing)
+","Debugger , URL: /wiki/Debugger
+","GUI builder , URL: /wiki/GUI_builder
+","Toolchain , URL: /wiki/Toolchain
+","Profiler , URL: /wiki/Profiler_(computer_science)
+","Code coverage , URL: /wiki/Code_coverage
+","Autocomplete , URL: /wiki/Autocomplete
+","Static code analysis , URL: /wiki/Static_code_analysis
+","GUI-based design , URL: /wiki/User_interface_design
+","Class browser , URL: /wiki/Class_browser
+","release , URL: /wiki/Software_release
+"
+"Eclipse , URL: /wiki/Eclipse_(software)
+AonixADT , URL: /wiki/Atego_(company)
+","EPL , URL: /wiki/Eclipse_Public_License
+","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+JVM , URL: /wiki/Java_Virtual_Machine
+Solaris , URL: /wiki/Solaris_(operating_system)
+","Yes","Yes[2]","No","Unknown","Unknown","Yes","Unknown","No","Yes","December 2009"
+"GNAT Programming Studio , URL: /wiki/GNAT_Programming_Studio
+","GPL , URL: /wiki/GPL
+","Yes","Yes","Yes","DragonFly BSD , URL: /wiki/DragonFly_BSD
+FreeBSD , URL: /wiki/FreeBSD
+NetBSD , URL: /wiki/NetBSD
+OpenBSD , URL: /wiki/OpenBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+","Yes","Yes[3]","Yes","Yes","Yes","Yes","Yes","No","Yes","June 2014"
+"SlickEdit , URL: /wiki/SlickEdit
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Solaris , URL: /wiki/Solaris_(operating_system)
+Solaris SPARC , URL: /w/index.php?title=Solaris_SPARC&action=edit&redlink=1
+AIX , URL: /wiki/AIX
+HP-UX , URL: /wiki/HP-UX
+","Yes","No","No","No","No","Yes","No","No","Yes","2018"
+"Understand , URL: /wiki/Understand_(software)
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Solaris , URL: /wiki/Solaris_(operating_system)
+","No","No","No","No","No","Yes","Yes","No","Yes","December 2015"

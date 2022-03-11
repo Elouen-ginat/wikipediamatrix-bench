@@ -1,0 +1,20 @@
+"Kernel name","Intel","NVIDIA","AMD","ARM","Qualcomm , URL: /wiki/Qualcomm
+","Imagination Technologies , URL: /wiki/Imagination_Technologies
+","Broadcom , URL: /wiki/Broadcom
+","VeriSilicon , URL: /wiki/Vivante_Corporation
+"
+"Kernel name","Intel HD/Iris Graphics , URL: /wiki/Intel_HD_and_Iris_Graphics
+","GeForce/Quadro/Tesla","Radeon","Mali","Adreno","PowerVR","VideoCore4","Vivante"
+"Linux kernel , URL: /wiki/Linux_kernel
+","Yes","Yes","Yes","Yes","Yes","2D only[37][38]","Yes","Yes"
+"Windows NT kernel , URL: /wiki/Windows_NT_kernel
+","Yes","Yes","Yes","?","Windows Phone 8.x , URL: /wiki/Windows_Phone_8.x
+Windows 10 Mobile , URL: /wiki/Windows_10_Mobile
+Windows on ARM , URL: /wiki/Windows_10
+","Yes[39]","No[40]","Yes"
+"XNU , URL: /wiki/XNU
+","macOS , URL: /wiki/MacOS
+","macOS , URL: /wiki/MacOS
+","macOS , URL: /wiki/MacOS
+","No","No","iOS , URL: /wiki/IOS
+","No","No"

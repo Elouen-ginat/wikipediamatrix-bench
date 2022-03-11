@@ -1,0 +1,34 @@
+"Model","Code name , URL: /wiki/Code_name
+","Fab (nm)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Boost clock (MHz)","Memory clock (MHz)","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","TDP , URL: /wiki/Thermal_design_power
+","Notes"
+"Model","Code name , URL: /wiki/Code_name
+","Fab (nm)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Boost clock (MHz)","Memory clock (MHz)","Core config1","Pixel (GP/s)","Texture (GT/s)","Size (GB)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Half precision , URL: /wiki/Half_precision_floating-point_format
+","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Double precision , URL: /wiki/Double_precision_floating-point_format
+","Tensor , URL: /wiki/Tensor
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","Vulkan , URL: /wiki/Vulkan_(API)
+","OpenCL , URL: /wiki/OpenCL
+","CUDA , URL: /wiki/CUDA
+","TDP , URL: /wiki/Thermal_design_power
+","Notes"
+"RTX A2000 [277][278][279]","GA106-850-A1","8","PCIe 4.0 x16","562","1200","1500 (12000)","3328:104:48:26:104","57.6","124.8","6","288","GDDR6","192","7987","7987","124.8","63900","12.2","4.6","1.2","3.0","8.6","70","4x mini DisplayPort"
+"RTX A4000 [280][281][282]","GA104-875-A1","8","PCIe 4.0 x16","735","1560","1750 (14000)","6144:192:96:48:192","149.8","299.5","16","448","GDDR6","256","19170","19170","599","153400","12.2","4.6","1.2","3.0","8.6","140","4x DisplayPort"
+"RTX A5000 [283][284][285]","GA102-850-A1","8","PCIe 4.0 x16","1170","1695","2000 (16000)","8192:256:96:64:256","162.7","433.9","24","768","GDDR6","384","27770","27770","867.8","222200","12.2","4.6","1.2","3.0","8.6","230","4x DisplayPort"
+"RTX A6000 [286][287][288]","GA102-875-A1","8","PCIe 4.0 x16","1410","1800","2000 (16000)","10752:336:112:84:336","201.6","604.8","48","768","GDDR6","384","38709.7","38709.7","1209.7","309700","12.2","4.6","1.2","3.0","8.6","300","4x DisplayPort"

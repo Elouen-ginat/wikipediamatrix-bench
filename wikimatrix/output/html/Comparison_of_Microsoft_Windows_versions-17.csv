@@ -1,0 +1,28 @@
+"","Resource access control","Subsystem isolation mechanisms","Integrated firewall","Encrypted file systems","Defender","Windows Hello"
+"Windows 2000 , URL: /wiki/Windows_2000
+","ACLs , URL: /wiki/Access_Control_List
+","","TCP/IP Filtering, IPSec","Yes (NTFS only)","No","No"
+"Windows XP , URL: /wiki/Windows_XP
+","ACLs","Win32 WindowStation, Desktop, Job objects","Windows Firewall (from SP2), TCP/IP Filtering, IPSec","Yes (NTFS only)","Optional","No"
+"Windows Server 2003 , URL: /wiki/Windows_Server_2003
+","Privileges , URL: /wiki/Privilege_(computing)
+RBAC , URL: /wiki/RBAC
+","Win32 WindowStation, Desktop, Job objects","Windows Firewall, TCP/IP Filtering, IPSec","Yes","Optional","No"
+"Windows Vista , URL: /wiki/Windows_Vista
+","ACLs, Privileges, RBAC","Win32 WindowStation, Desktop, Job objects","Windows Firewall, TCP/IP Filtering, IPSec","Yes","Yes","No"
+"Windows Server 2008 , URL: /wiki/Windows_Server_2008
+","ACLs, Privileges, RBAC","Win32 WindowStation, Desktop, Job objects","Windows Firewall, TCP/IP Filtering, IPSec","Yes","Yes","No"
+"Windows 7 , URL: /wiki/Windows_7
+","ACLs, Privileges, RBAC","Win32 WindowStation, Desktop, Job objects","Windows Firewall, TCP/IP Filtering, IPSec","Yes","Yes","No"
+"Windows Server 2012 , URL: /wiki/Windows_Server_2012
+","ACLs, Privileges, RBAC","Win32 WindowStation, Desktop, Job objects","Windows Firewall, TCP/IP Filtering, IPSec","Yes","Yes","No"
+"Windows 8 , URL: /wiki/Windows_8
+","ACLs, Privileges, RBAC","Win32 WindowStation, Desktop, Job objects","Windows Firewall, TCP/IP Filtering, IPSec","Yes","Yes","No"
+"Windows Server 2012 R2 , URL: /wiki/Windows_Server_2012_R2
+","ACLs, Privileges, RBAC","Win32 WindowStation, Desktop, Job objects","Windows Firewall, TCP/IP Filtering, IPSec","Yes","Yes","No"
+"Windows 8.1 , URL: /wiki/Windows_8.1
+","ACLs, Privileges, RBAC","Win32 WindowStation, Desktop, Job objects","Windows Firewall, TCP/IP Filtering, IPSec","Yes","Yes","No"
+"Windows 10 , URL: /wiki/Windows_10
+","ACLs, Privileges, RBAC","Win32 WindowStation, Desktop, Job objects","Windows Firewall, TCP/IP Filtering, IPSec","Yes","Yes","Yes"
+"Windows Server 2016 , URL: /wiki/Windows_Server_2016
+","ACLs, Privileges, RBAC","Win32 WindowStation, Desktop, Job objects","Windows Firewall, TCP/IP Filtering, IPSec","Yes","Yes","Yes"

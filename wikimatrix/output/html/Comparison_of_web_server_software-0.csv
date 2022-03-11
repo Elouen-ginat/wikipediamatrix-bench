@@ -1,0 +1,121 @@
+"Server","Developed by","Software license , URL: /wiki/Software_license
+","Last stable version","Latest release date"
+"AOLserver , URL: /wiki/AOLserver
+","NaviSoft , URL: /wiki/NaviSoft
+","Mozilla , URL: /wiki/Mozilla_Public_License
+","4.5.2","2012-09-19 (discontinued)"
+"Apache HTTP Server , URL: /wiki/Apache_HTTP_Server
+","Apache Software Foundation , URL: /wiki/Apache_Software_Foundation
+","Apache , URL: /wiki/Apache_License
+","2.4.49","2021-09-15"
+"Apache Tomcat , URL: /wiki/Apache_Tomcat
+","Apache Software Foundation","Apache , URL: /wiki/Apache_License
+","10.0.11","2021-09-11"
+"Boa , URL: /wiki/Boa_(web_server)
+","Jon Nelson and Larry Doolittle","GNU GPL","0.94.13","2002-07-30 (discontinued)"
+"BusyBox httpd , URL: /wiki/BusyBox
+","Glenn Engel, Vladimir Oleynik, BusyBox Team","GNU GPL","1.34.0","2020-08-19"
+"Caddy , URL: /wiki/Caddy_(web_server)
+","Matt Holt","Apache , URL: /wiki/Apache_License
+","2.4.2","2021-06-17"
+"Caudium , URL: /wiki/Caudium_(web_server)
+","The Caudium Group","GNU GPL","1.4.18","2012-02-24"
+"Cherokee HTTP Server , URL: /wiki/Cherokee_(Webserver)
+","Álvaro López Ortega","GNU GPL","1.2.103","2013-04-21"
+"GlassFish , URL: /wiki/GlassFish
+","Sun Microsystems , URL: /wiki/Sun_Microsystems
+Oracle Corporation , URL: /wiki/Oracle_Corporation
+Eclipse Foundation , URL: /wiki/Eclipse_Foundation
+","Eclipse Public License , URL: /wiki/Eclipse_Public_License
+GNU General Public License , URL: /wiki/GNU_General_Public_License
+","6.2.1","2021-08-27"
+"Hiawatha , URL: /wiki/Hiawatha_(web_server)
+","Hugo Leisink","GNU GPLv2","10.12","2021-03-25"
+"HFS , URL: /wiki/HTTP_File_Server
+","Rejetto","GNU GPL","2.3m","2018-08-16"
+"IBM HTTP Server , URL: /wiki/IBM_HTTP_Server
+","IBM , URL: /wiki/IBM
+","proprietary , URL: /wiki/Proprietary_software
+","9.0.5.4","2020-06-12[1]"
+"Internet Information Services , URL: /wiki/Internet_Information_Services
+","Microsoft , URL: /wiki/Microsoft
+","Non-free proprietary","10.0.17763.1","2018-10-02"
+"Jetty , URL: /wiki/Jetty_(web_server)
+","Eclipse Foundation , URL: /wiki/Eclipse_Foundation
+","Apache , URL: /wiki/Apache_License
+","11.0.6x","2021-03-29"
+"Jexus , URL: /wiki/Jexus
+","Bing Liu","Non-free proprietary","6.2.x","2020"
+"lighttpd , URL: /wiki/Lighttpd
+","Jan Kneschke (Incremental)","BSD , URL: /wiki/BSD_licenses
+","1.4.64","2022-01-19"
+"LiteSpeed Web Server , URL: /wiki/LiteSpeed_Web_Server
+","LiteSpeed Technologies","Non-free proprietary","5.4.8","2020-07-01"
+"Mongoose , URL: /wiki/Mongoose_(web_server)
+","Cesanta Software","GNU GPLv2 , URL: /wiki/GNU_General_Public_License#Version_2
+","6.18","2020-05-21"
+"Monkey HTTP Server , URL: /wiki/Monkey_HTTP_Server
+","Monkey Software","Apache , URL: /wiki/Apache_License
+","1.6.9","2016-06-04"
+"NaviServer , URL: /wiki/NaviServer
+","Various","Mozilla 1.1","4.99.23","2021-12-31"
+"NCSA HTTPd , URL: /wiki/NCSA_HTTPd
+","Robert McCool , URL: /wiki/Robert_McCool
+","Non-free proprietary","1.5.2a","1996-10-08 (discontinued)"
+"Nginx , URL: /wiki/Nginx
+","NGINX, Inc. , URL: /wiki/NGINX,_Inc.
+","BSD , URL: /wiki/BSD_licenses
+","1.21.0","2021-05-25"
+"OpenBSD , URL: /wiki/OpenBSD
+","Reyk Floeter","ISC , URL: /wiki/ISC_license
+","5.8","2015-08-18"
+"OpenLink Virtuoso , URL: /wiki/Virtuoso_Universal_Server
+","OpenLink Software","GNU GPL and proprietary versions","8.3.3316","2020-03-10"
+"OpenLiteSpeed Web Server","LiteSpeed Technologies","GNU GPL","1.7.6","2020-11-10"
+"Oracle HTTP Server , URL: /wiki/Oracle_HTTP_Server
+","Oracle Corporation , URL: /wiki/Oracle_Corporation
+","Non-free proprietary","12cR2 (12.2.1.4)[2]","Unknown"
+"Oracle iPlanet Web Server , URL: /wiki/Oracle_iPlanet_Web_Server
+","Oracle Corporation , URL: /wiki/Oracle_Corporation
+","BSD , URL: /wiki/BSD_licenses
+","7.0.27","2017-10-01"
+"Oracle WebLogic Server , URL: /wiki/Oracle_WebLogic_Server
+","Oracle Corporation , URL: /wiki/Oracle_Corporation
+BEA Systems , URL: /wiki/BEA_Systems
+","Non-free proprietary","14c (14.1.1.0) [2]","2020-03-30"
+"Resin Open Source , URL: /wiki/Resin_Server
+","Caucho Technology , URL: /wiki/Caucho_Technology
+","GNU GPLv3 , URL: /wiki/GNU_General_Public_License#Version_3
+","4.0.65","2020-07-29"
+"Resin Professional , URL: /wiki/Resin_Server
+","Caucho Technology","Non-free proprietary","4.0.65","2020-07-29"
+"thttpd , URL: /wiki/Thttpd
+","Jef Poskanzer , URL: /wiki/Jef_Poskanzer
+","BSD , URL: /wiki/BSD_licenses
+","2.29","2018-05-24"
+"TUX web server , URL: /wiki/TUX_web_server
+","Ingo Molnár , URL: /wiki/Ingo_Moln%C3%A1r
+","GNU GPL","3.2.6.18","2006-09-20 (discontinued)"
+"Wakanda Server , URL: /wiki/Wakanda_(software)
+","Wakanda","GNU AGPLv3 , URL: /wiki/GNU_Affero_General_Public_License#Version_3
+","2.7.0","2019-04-29 (Discontinued)"
+"WEBrick , URL: /wiki/WEBrick
+","Ruby Community","BSD , URL: /wiki/BSD_licenses#2-clause
+","1.6.0","2019-11-30"
+"Web Server for Chrome , URL: https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb
+","Kyle Graehl","MIT , URL: /wiki/MIT_license
+","0.5.2","2021-04-06"
+"Xitami , URL: /wiki/Xitami
+","iMatix Corporation , URL: /wiki/IMatix_Corporation
+","BSD , URL: /wiki/BSD_licenses
+","5.0a0","2009-02-19 (discontinued)"
+"Yaws , URL: /wiki/Yaws_(web_server)
+","Claes Wikström","BSD , URL: /wiki/BSD_licenses
+","2.0.7","2019-07-14"
+"Zeus Web Server , URL: /wiki/Zeus_Web_Server
+","Zeus Technology , URL: /wiki/Zeus_Technology
+","Non-free proprietary","4.3r5","2010-01-13 (discontinued)"
+"Zope , URL: /wiki/Zope
+","Zope Corporation","Zope , URL: /wiki/Zope_Public_License
+","2.13.30","2020-02-14"
+"Server","Developed by","Software license","Last stable version","Latest release date"

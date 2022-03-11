@@ -1,0 +1,64 @@
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Process","Transistors (billion)","Die size (mm2)","Core config[a]","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","L2 , URL: /wiki/GPU_cache
+","Clock speeds","Clock speeds","Clock speeds","Memory","Memory","Memory","Memory","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","TFLOPS , URL: /wiki/TFLOPS
+","TFLOPS , URL: /wiki/TFLOPS
+","TFLOPS , URL: /wiki/TFLOPS
+","TFLOPS , URL: /wiki/TFLOPS
+","Ray-tracing , URL: /wiki/Ray_tracing_(graphics)
+","Ray-tracing , URL: /wiki/Ray_tracing_(graphics)
+","Ray-tracing , URL: /wiki/Ray_tracing_(graphics)
+","TDP , URL: /wiki/Thermal_design_power
+","NVLink , URL: /wiki/NVLink
+","Release price (USD)","Release price (USD)"
+"Model","Launch","Code name , URL: /wiki/Code_name
+","Process","Transistors (billion)","Die size (mm2)","Core config[a]","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","L2 , URL: /wiki/GPU_cache
+","MHz , URL: /wiki/Hertz
+","MHz , URL: /wiki/Hertz
+","MT/s , URL: /wiki/Transfer_(computing)
+","GiB , URL: /wiki/Gibibyte
+","GB , URL: /wiki/Gigabyte
+","Bus type","bit , URL: /wiki/Bit
+","GP , URL: /wiki/Pixel
+","GT , URL: /wiki/Texel_(graphics)
+","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Double precision , URL: /wiki/Double_precision_floating-point_format
+","Half precision , URL: /wiki/Half_precision_floating-point_format
+","Tensor , URL: /wiki/Tensor
+","Rays/s (Billions)","RTX OPS/s (Trillions)","Ray Perf TFLOPS","TDP , URL: /wiki/Thermal_design_power
+","NVLink , URL: /wiki/NVLink
+","MSRP","Founders Edition"
+"GeForce RTX 3050[154]","January 27, 2022","GA106-150-A1","Samsung , URL: /wiki/Samsung_Electronics
+","13.25","276","2560:80:48:80:20 (20) (2)","PCIe 4.0 x8","2","1552","1777","14000","8","224.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","128","74.5 85.3","124.2 142.2","7.95 9.01","0.124 0.142","7.95 9.01","63.6 72.8","","","18.2","130","No","","$249"
+"GeForce RTX 3060[155]","February 25, 2021","GA106-300-A1","Samsung , URL: /wiki/Samsung_Electronics
+","13.25","276","3584:112:48:112:28 (28) (3)","PCIe 4.0 x16","3","1320","1777","15000","12","360.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","192","63.4 85.3","147.8 199.0","9.46 12.74","0.148 0.199","9.46 12.74","75.7 101.9","","","25","170","No","","$329"
+"GeForce RTX 3060[155]","September 1, 2021","GA104-150-A1[156]","Samsung , URL: /wiki/Samsung_Electronics
+","17.4","392.5","3584:112:48:112:28 (28) (3)","PCIe 4.0 x16","3","1320","1777","15000","12","360.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","192","63.4 85.3","147.8 199.0","9.46 12.74","0.148 0.199","9.46 12.74","75.7 101.9","","","25","170","No","","$329"
+"GeForce RTX 3060 Ti[157]","December 2, 2020","GA104-200-A1","Samsung , URL: /wiki/Samsung_Electronics
+","17.4","392.5","4864:152:80:152:38 (38) (6)","PCIe 4.0 x16","4","1410","1665","14000","8","448.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","256","112.8 133.2","214.3 253.1","13.72 16.20","0.214 0.253","13.70 16.20","109.7 129.6","","","32.4","200","No","","$399"
+"GeForce RTX 3070[158]","October 29, 2020[159]","GA104-300-A1","Samsung , URL: /wiki/Samsung_Electronics
+","17.4","392.5","5888:184:96:184:46 (46) (6)","PCIe 4.0 x16","4","1500","1725","14000","8","448.0","GDDR6 , URL: /wiki/GDDR6_SDRAM
+","256","144.0 165.6","276.0 317.4","17.66 20.31","0.276 0.318","17.66 20.37","141.31 162.98","","","40.6[160]","220","No","","$499"
+"GeForce RTX 3070 Ti[161]","June 10, 2021","GA104-400-A1","Samsung , URL: /wiki/Samsung_Electronics
+","17.4","392.5","6144:192:96:192:48 (48) (6)","PCIe 4.0 x16","4","1575","1770","19000","8","608.3","GDDR6X","256","151.18 169.9","302.36 339.8","19.35 21.75","0.302 0.340","19.35 21.75","154.8 174.0","","","43.5","290","No","","$599"
+"GeForce RTX 3080[162]","September 17, 2020","GA102-200-KD-A1","Samsung , URL: /wiki/Samsung_Electronics
+","28.3","628.4","8704:272:96:272:68 (68) (7)","PCIe 4.0 x16","5","1440","1710","19000","10","760.0","GDDR6X","320","138.2 164.2","391.68 465.12","25.07 29.77","0.392 0.465","25.06 29.76","200.54 238.14","","","59.5","320","No","","$699"
+"GeForce RTX 3080[162]","January 27, 2022","GA102-220-A1","Samsung , URL: /wiki/Samsung_Electronics
+","28.3","628.4","8960:280:104:280:70 (70) (7)","PCIe 4.0 x16","6","1260","1710","19000","12","912.0","GDDR6X","384","131.0 177.8","352.8 478.8","22.6 30.6","0.353 0.479","22.6 30.6","180.6 245.1","","","61.3","350","No","",""
+"GeForce RTX 3080 Ti[163]","June 3, 2021","GA102-225-A1","Samsung , URL: /wiki/Samsung_Electronics
+","28.3","628.4","10240:320:112:320:80 (80) (7)","PCIe 4.0 x16","6","1395","1665","19000","12","912.0","GDDR6X","384","153.5 186.5","438.5 532.8","28.57 34.71","0.438 0.533","28.06 34.10","228.6 272.8","","","68.2","350","No","","$1199"
+"GeForce RTX 3090[164]","September 24, 2020","GA102-300-A1","Samsung , URL: /wiki/Samsung_Electronics
+","28.3","628.4","10496:328:112:328:82 (82) (7)","PCIe 4.0 x16","6","1395","1695","19500","24","935.8","GDDR6X","384","156.2 189.8","457.6 555.96","29.28 35.58","0.459 0.558","29.38 35.68","235.08 285.48","","","71.1","350","NVLink , URL: /wiki/NVLink
+","","$1499"
+"GeForce RTX 3090 Ti[165]","January 27, 2022","GA102-350","Samsung , URL: /wiki/Samsung_Electronics
+","28.3","628.4","10752:336:112:336:84 (84) (7)","PCIe 4.0 x16","6","1560","1860","21000","24","1007.8","GDDR6X","384","174.7 208.3","524.2 625.0","33.5 40.0","0.524 0.625","33.5 40.0","268.4 320.0","","","80.0","450","NVLink , URL: /wiki/NVLink
+","",""

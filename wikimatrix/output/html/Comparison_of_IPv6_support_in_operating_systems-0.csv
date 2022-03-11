@@ -1,0 +1,96 @@
+"OS","Version","Claimed IPv6-ready","Installed by default","DHCPv6 , URL: /wiki/DHCPv6
+","ND , URL: /wiki/Neighbor_Discovery_Protocol
+","Notes"
+"AIX , URL: /wiki/IBM_AIX
+","4.3","Yes","Yes","Yes","No",""
+"AlliedWare Plus , URL: /wiki/AlliedWare_Plus
+","5.4.4","Yes","Yes","Yes","No",""
+"Android , URL: /wiki/Android_(operating_system)
+","Ice Cream Sandwich , URL: /wiki/Android_Ice_Cream_Sandwich
+","Yes[1][2]","Yes","No[3]","Yes",""
+"ChromeOS , URL: /wiki/ChromeOS
+","67.0.3396.99","Yes","Yes","No","Yes",""
+"Cisco IOS , URL: /wiki/Cisco_IOS
+","15.3","Yes","Yes","Yes","Yes[4]","Support for RDNSS option as of 15.4(1)T, 15.3(2)S."
+"Cisco Meraki , URL: /wiki/Cisco_Meraki
+","MR series 28.1 and later","Yes","Yes","No","Yes","[5] Devices support DHCPv6 for clients but not for themselves"
+"Cisco Meraki , URL: /wiki/Cisco_Meraki
+","MX + MX series","No","No","No","No","[6] Devices can only carry / pass through IPv6 on bridge, but not route"
+"Debian , URL: /wiki/Debian
+","3.0 (woody)","Yes","Yes","Yes","Yes","RDNSS support with "rdnssd" and "resolvconf" or "openresolve" packages."
+"Fedora , URL: /wiki/Fedora_(operating_system)
+","13","Yes","Yes[7]","Yes[7]","Yes[7]",""
+"FreeBSD , URL: /wiki/FreeBSD
+","9.0","Yes[8]","Yes","Addon[9]","Yes[10]",""
+"HP-UX , URL: /wiki/HP-UX
+","11i","Yes","Yes","Yes","Yes","[11]"
+"IBM i , URL: /wiki/IBM_i
+","7.1","Yes","Yes","Yes","No","[12]"
+"iOS , URL: /wiki/IOS
+","4.1","Yes","Yes","Yes","Yes[13]",""
+"Juniper JUNOS , URL: /wiki/Juniper_JUNOS
+","14.1","Yes","Yes","Yes","Yes","RDNSS support introduced in JunOS 14.1[14]"
+"LibreELEC , URL: /wiki/LibreELEC
+","9.2.1","No","No","No","No","connman , URL: https://01.org/connman
+"
+"macOS , URL: /wiki/MacOS
+","Mac OS X 10.7 (Lion) , URL: /wiki/Mac_OS_X_Lion
+","Yes","Yes","Yes[15]","Yes[16]","Happy Eyeballs , URL: /wiki/Happy_Eyeballs
+"
+"MeeGo , URL: /wiki/MeeGo
+","1.2","No[19]","Yes[20]","No","Yes[21]",""
+"NetBSD , URL: /wiki/NetBSD
+","7.0","Yes","Yes","Yes","Yes",""
+"OpenBSD , URL: /wiki/OpenBSD
+","6.6","Yes","Yes","Addon[9]","Yes","RDNSS is only supported for rad(8) so far. As of 6.6, OpenBSD still does not favor IPv6 connectivity if there is IPv4 connectivity.[citation needed]"
+"openSUSE , URL: /wiki/OpenSUSE
+","42.1 (Leap)","Yes[22]","Yes","Yes","Yes",""
+"OpenVMS , URL: /wiki/OpenVMS
+","8.3","Yes","Yes","No","No",""
+"ReactOS , URL: /wiki/ReactOS
+","0.4.11","No","No","No","No","ReactOS Foundation services are all IPv6 enabled , URL: https://reactos.org/wiki/IPv6
+"
+"Red Hat Enterprise Linux , URL: /wiki/Red_Hat_Enterprise_Linux
+","6","Yes[23]","Yes","Yes[9]","Yes",""
+"Solaris , URL: /wiki/Solaris_(operating_system)
+","11","Yes","Yes","Yes","Yes[24]",""
+"SUSE Linux Enterprise Server , URL: /wiki/SUSE_Linux_Enterprise_Server
+","11","Yes[25]","Yes","Yes","Yes",""
+"Symbian , URL: /wiki/Symbian
+","7.0","Yes","Yes","No","No","[2] , URL: http://sw.nokia.com/id/f9363497-5d96-4354-b071-e212ab204c63/Nokia_Views_on_IPv6_Transition_v2_0_en.pdf
+"
+"Ubuntu , URL: /wiki/Ubuntu_(operating_system)
+","All supported versions","Yes","Yes","Yes","Yes","RDNSS support available so long as NetworkManager uses IPv6 "Automatic" setting, otherwise "rdnssd" package required."
+"webOS , URL: /wiki/WebOS
+","2.1.0","No","No","No","No","[26]"
+"Windows NT , URL: /wiki/Windows_NT
+Windows 10 Mobile , URL: /wiki/Windows_10_Mobile
+","XP , URL: /wiki/Windows_XP
+","Yes","No","Addon[9]","No","Windows XP users can use Dibbler, an open source DHCPv6 implementation. --update: Windows XP fully supports IPv6- but NOT IPv6 DNS queries (nslookup)[27]"
+"Windows NT , URL: /wiki/Windows_NT
+Windows 10 Mobile , URL: /wiki/Windows_10_Mobile
+","Vista , URL: /wiki/Windows_Vista
+7 , URL: /wiki/Windows_7
+8 , URL: /wiki/Windows_8
+8.1 , URL: /wiki/Windows_8.1
+10 RTM-Anniversary Update , URL: /wiki/Windows_10
+","Yes[28]","Yes","Yes[9]","No","dnssd-win32 provides an open source implementation of ND RDNSS[29]"
+"Windows NT , URL: /wiki/Windows_NT
+Windows 10 Mobile , URL: /wiki/Windows_10_Mobile
+","10 Creators Update , URL: /wiki/Windows_10
+","Yes[28]","Yes","Yes[9]","Yes","Windows 10 Creators Update introduces support for RFC 8106 (6106) RDNSS."
+"Windows NT , URL: /wiki/Windows_NT
+Windows 10 Mobile , URL: /wiki/Windows_10_Mobile
+","11","","Yes","","","Not yet enough information of any changes."
+"Windows Mobile , URL: /wiki/Windows_Mobile
+","6.5","Yes","Yes","Lite[30]","No","If the OEM explicitly unsets the SYSGEN_TCPIP6 pre-processor symbol, the built image will not have any IPv6 capabilities."
+"Windows Phone , URL: /wiki/Windows_Phone
+","7.5","No","No","No","No",""
+"Windows Phone , URL: /wiki/Windows_Phone
+","8(.1)[31]","Yes","Yes","Yes","No","Private lab research. No privacy extensions (RFC4941)."
+"z/OS , URL: /wiki/Z/OS
+","V1R4.0","Yes","Yes","No[32]","",""
+"z/VM , URL: /wiki/Z/VM
+","V5R1.0","Yes","Yes","No","No","[33]"
+"z/VSE , URL: /wiki/VSE_(operating_system)
+","V4R2","Addon[34]","No","","","Via a third party TCP/IP stack, IP6/VSE from Barnard Software, Inc."

@@ -1,0 +1,122 @@
+"Client , URL: /wiki/Client_(computing)
+","Multi-server , URL: /wiki/IRC_server
+","UTF-8 , URL: /wiki/UTF-8
+","Proxy server , URL: /wiki/Proxy_server
+","irc:// URI scheme , URL: /wiki/URI_scheme
+","Automatic updates , URL: /wiki/Software_update
+","Scripting language , URL: /wiki/Scripting_language
+"
+"Bersirc , URL: /wiki/Bersirc
+","Yes","No","?","?","?","N/A"
+"BitchX , URL: /wiki/BitchX
+","Yes","No","?","?","?","IrcII , URL: /wiki/IrcII
+"
+"ChatZilla , URL: /wiki/ChatZilla
+","Yes","Yes","Yes","Yes","Yes","JavaScript , URL: /wiki/JavaScript
+"
+"Colloquy , URL: /wiki/Colloquy_(IRC_client)
+","Yes","Yes","?","Yes","Yes[Note 1]","AppleScript , URL: /wiki/AppleScript
+Cocoa , URL: /wiki/Cocoa_(API)
+F-Script , URL: /wiki/F-Script_(programming_language)
+Python , URL: /wiki/Python_(programming_language)
+"
+"degesch","Yes","Yes","Yes","N/A","N/A","Lua , URL: /wiki/Lua_(programming_language)
+"
+"DMDirc","Yes","Partial","?","Yes","Yes","Java , URL: /wiki/Java_(programming_language)
+"
+"ERC , URL: /wiki/ERC_(software)
+","Yes","Yes","Yes[Note 2]","?","Yes[Note 3]","Emacs Lisp , URL: /wiki/Emacs_Lisp
+"
+"HexChat , URL: /wiki/HexChat
+","Yes","Yes","Yes","Yes","Yes","Perl , URL: /wiki/Perl
+Python , URL: /wiki/Python_(programming_language)
+Tcl , URL: /wiki/Tcl
+Lua , URL: /wiki/Lua_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+D-Bus , URL: /wiki/D-Bus
+"
+"HydraIRC","Yes","Yes","?","?","Yes","No"
+"IceChat , URL: /wiki/IceChat
+","Yes","Yes","No","Yes","Yes","VBScript , URL: /wiki/VBScript
+"
+"ircII , URL: /wiki/IrcII
+","Yes","Yes[Note 5]","?","?","?","IrcII , URL: /wiki/IrcII
+"
+"IRCjr","No","No","No","No","No","N/A"
+"IRCCloud","Yes","Yes","Yes","Yes","N/A","JavaScript , URL: /wiki/JavaScript
+"
+"Ircle , URL: /wiki/Ircle
+","Yes","No","?","?","?","AppleScript , URL: /wiki/AppleScript
+"
+"Irssi , URL: /wiki/Irssi
+","Yes","Yes","Yes","No","No","Perl , URL: /wiki/Perl
+"
+"jIRCii","Yes","Yes","Yes","?","No","Sleep"
+"KiwiIRC","Yes","Yes","Yes","Yes","N/A","JavaScript , URL: /wiki/JavaScript
+Node.js , URL: /wiki/Node.js
+"
+"Konversation , URL: /wiki/Konversation
+","Yes","Yes","Yes","Yes","?","Shell script , URL: /wiki/Shell_script
+Ruby , URL: /wiki/Ruby_(programming_language)
+Python , URL: /wiki/Python_(programming_language)
+Perl , URL: /wiki/Perl
+Java , URL: /wiki/Java_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+"
+"KVIrc , URL: /wiki/KVIrc
+","Yes","Yes","Yes","Yes","No","Perl , URL: /wiki/Perl
+Python , URL: /wiki/Python_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+"
+"LeafChat , URL: /wiki/LeafChat
+","Yes","Yes","?","N/A","Yes","Java , URL: /wiki/Java_(programming_language)
+"
+"LimeChat","Yes","Yes","?","?","?","N/A"
+"Linkinus , URL: /wiki/Linkinus
+","Yes","Yes","Yes","Yes","Yes","AppleScript , URL: /wiki/AppleScript
+Cocoa , URL: /wiki/Cocoa_(API)
+"
+"Mibbit , URL: /wiki/Mibbit
+","Yes","Yes","?","Yes","N/A","N/A"
+"mIRC , URL: /wiki/MIRC
+","Yes","Yes","Yes","Yes","Yes[Note 7]","mIRC script , URL: /wiki/MIRC_scripting_language
+"
+"Nettalk , URL: /wiki/Nettalk_(IRC_client)
+","Yes","Yes","SOCKS , URL: /wiki/SOCKS
+","Yes","Yes","VBScript , URL: /wiki/VBScript
+"
+"PIRCH , URL: /wiki/PIRCH_(IRC_client)
+","Yes","No","?","?","No","Yes"
+"PJIRC , URL: /wiki/PJIRC
+","Yes","Yes","?","?","No","JavaScript , URL: /wiki/JavaScript
+"
+"Quassel , URL: /wiki/Quassel_IRC
+","Yes","Yes","Yes","?","No","No"
+"qwebirc","No","Yes","No","Yes","Yes","No"
+"rcirc , URL: /wiki/Rcirc
+","Yes","Yes","?","?","No","Emacs Lisp , URL: /wiki/Emacs_Lisp
+"
+"Smuxi , URL: /wiki/Smuxi
+","Yes","Yes","Yes","?","?","Yes (language agnostic)"
+"Snak , URL: /wiki/Snak
+","Yes","Yes","?","?","?","AppleScript , URL: /wiki/AppleScript
+IrcII , URL: /wiki/IrcII
+"
+"Visual IRC , URL: /wiki/Visual_IRC
+","Yes","No","?","?","?","Versus , URL: /wiki/Versus_programming_language
+"
+"WeeChat , URL: /wiki/WeeChat
+","Yes","Yes","Yes","Yes","?","C , URL: /wiki/C_(programming_language)
+Perl , URL: /wiki/Perl
+Python , URL: /wiki/Python_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+Lua , URL: /wiki/Lua_(programming_language)
+Tcl , URL: /wiki/Tcl
+Scheme , URL: /wiki/Scheme_(programming_language)
+Guile , URL: /wiki/GNU_Guile
+"
+"Client","Multi-server","UTF-8","Proxy server","irc:// URI scheme","Automatic updates","Scripting language"

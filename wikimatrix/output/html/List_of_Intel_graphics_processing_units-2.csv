@@ -1,0 +1,70 @@
+"Graphics","Launch","Market","Chipset , URL: /wiki/List_of_Intel_chipsets
+","Chipset , URL: /wiki/List_of_Intel_chipsets
+","Device ID , URL: /wiki/Device_ID
+","Pixel pipelines , URL: /wiki/Pixel_pipelines
+","Clock rate , URL: /wiki/Clock_rate
+","Memory , URL: /wiki/Video_memory
+","Memory , URL: /wiki/Video_memory
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","Hardware acceleration","Hardware acceleration","Hardware acceleration"
+"Graphics","Launch","Market","Code name","Name","Device ID , URL: /wiki/Device_ID
+","Pixel pipelines , URL: /wiki/Pixel_pipelines
+","Clock rate , URL: /wiki/Clock_rate
+","DVMT , URL: /wiki/Dynamic_video_memory_technology
+MB , URL: /wiki/Megabyte
+","Bandwidth , URL: /wiki/Memory_bandwidth
+GB/s , URL: /wiki/Gigabyte_per_second
+","Shader , URL: /wiki/Shader
+vertex , URL: /wiki/Vertex_shader
+pixel , URL: /wiki/Pixel_shader
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","OpenCL , URL: /wiki/OpenCL
+","MPEG-2 , URL: /wiki/MPEG-2_Part_2
+","VC-1 , URL: /wiki/VC-1
+","AVC , URL: /wiki/H.264/MPEG-4_AVC
+"
+"GMA 900","2004","Desktop","Grantsdale","910GL","2582 258A","4","333","128","3.2","3.0 (SW) / 2.0","9.0 (No WDDM nor Aero support)","1.4Windows 1.4macOS 2.1Linux[6] ES 2.0Linux","No","MC , URL: /wiki/Motion_compensation
+","No","No"
+"GMA 900","2004","Desktop","Grantsdale","915GL","2582 258A","4","333","128","3.2","3.0 (SW) / 2.0","9.0 (No WDDM nor Aero support)","1.4Windows 1.4macOS 2.1Linux[6] ES 2.0Linux","No","MC , URL: /wiki/Motion_compensation
+","No","No"
+"GMA 900","2004","Desktop","Grantsdale","915GV","2582 258A","4","333","128","","3.0 (SW) / 2.0","9.0 (No WDDM nor Aero support)","1.4Windows 1.4macOS 2.1Linux[6] ES 2.0Linux","No","MC , URL: /wiki/Motion_compensation
+","No","No"
+"GMA 900","2004","Desktop","Grantsdale","915G","2582 258A","4","333","128","","3.0 (SW) / 2.0","9.0 (No WDDM nor Aero support)","1.4Windows 1.4macOS 2.1Linux[6] ES 2.0Linux","No","MC , URL: /wiki/Motion_compensation
+","No","No"
+"GMA 900","2005","Mobile","Alviso","Mobile 915 Family","2592","4","133–333","128","","3.0 (SW) / 2.0","9.0 (No WDDM nor Aero support)","1.4Windows 1.4macOS 2.1Linux[6] ES 2.0Linux","No","MC , URL: /wiki/Motion_compensation
+","No","No"
+"GMA 950","2005","Desktop","Lakeport","945GZ","2772","4","400","256[8][9]","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.0 (SW) / 2.0","","1.4Windows 1.4macOS 2.1Linux[6] ES 2.0Linux","No","MC , URL: /wiki/Motion_compensation
+","No","No"
+"GMA 950","2005","Desktop","Lakeport","945GC","2772","4","400","256[8][9]","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.0 (SW) / 2.0","","1.4Windows 1.4macOS 2.1Linux[6] ES 2.0Linux","No","MC , URL: /wiki/Motion_compensation
+","No","No"
+"GMA 950","2005","Desktop","Lakeport","945G","2772","4","400","256[8][9]","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.0 (SW) / 2.0","","1.4Windows 1.4macOS 2.1Linux[6] ES 2.0Linux","No","MC , URL: /wiki/Motion_compensation
+","No","No"
+"GMA 950","2006","Mobile","Calistoga","Mobile 945 Family","27A2 27AE","4","166–400[10]","256[8][9]","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.0 (SW) / 2.0","","1.4Windows 1.4macOS 2.1Linux[6] ES 2.0Linux","No","MC , URL: /wiki/Motion_compensation
+","No","No"
+"GMA 3100","2007","Desktop","Bearlake","Q33 , URL: http://ark.intel.com/products/31917
+","29D2","4","400[11][12]","256[8][9]","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.0 (SW) / 2.0","12.8","1.4Windows 1.4macOS 2.1Linux[6] ES 2.0Linux","No","MC , URL: /wiki/Motion_compensation
+","No","No"
+"GMA 3100","2007","Desktop","Bearlake","Q35 , URL: http://ark.intel.com/products/31918
+","29B2","4","400[11][12]","256[8][9]","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.0 (SW) / 2.0","12.8","1.4Windows 1.4macOS 2.1Linux[6] ES 2.0Linux","No","MC , URL: /wiki/Motion_compensation
+","No","No"
+"GMA 3100","2007","Desktop","Bearlake","G31 , URL: http://ark.intel.com/products/31913
+","29C2","4","400[11][12]","256[8][9]","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.0 (SW) / 2.0","12.8","1.4Windows 1.4macOS 2.1Linux[6] ES 2.0Linux","No","MC , URL: /wiki/Motion_compensation
+","No","No"
+"GMA 3100","2007","Desktop","Bearlake","G33 , URL: http://ark.intel.com/products/31914
+","29C2","4","400[11][12]","256[8][9]","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.0 (SW) / 2.0","","1.4Windows 1.4macOS 2.1Linux[6] ES 2.0Linux","No","","No","No"
+"GMA 3150","2010","Nettop","Pineview","Atom D4xx Atom D5xx","A001","2","400[11][12]","384","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.0 (SW) / 2.0","6.4","1.5Windows 2.1Linux[6] ES 2.0Linux","No","","No","No"
+"GMA 3150","2010","Netbook","Pineview","Atom N4xx Atom N5xx","A011","2","200","384","FL , URL: /wiki/Feature_levels_in_Direct3D
+","3.0 (SW) / 2.0","5.3","1.5Windows 2.1Linux[6] ES 2.0Linux","No","","No","No"

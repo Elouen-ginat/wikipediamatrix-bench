@@ -1,36 +1,87 @@
-"null","null","null","null","null","null","null","null","null"
-"Magix","Proprietary","Yes","No","No","No","","",""
-"The Ardour Community","GNU GPL","Yes","Yes","Yes","No","","NFS",""
-"Mark of the Unicorn","Proprietary","No","Yes","No","No","","",""
-"Adobe Systems","Proprietary","Yes","Yes","No","No","","",""
-"Bitwig","Proprietary","Yes","Yes","Yes","No","","",""
-"BandLab Technologies","Proprietary (Freeware)","Yes","No","No","No","","",""
-"Steinberg","Proprietary","Yes","Yes","No","Yes","Yes","","Requires hardware dongle"
-"Mark of the Unicorn","Proprietary","Yes","Yes","No","No","","",""
-"Image-Line","Proprietary","Yes","Yes","No","Yes","Yes","",""
-"Apple","Proprietary","No","Yes","No","Yes","","",""
-"Harrison Consoles","Proprietary","Yes","Yes","Yes","No","","NFS",""
-"Kreatives","Proprietary (Freeware)","Yes","No","No","No","","",""
-"Ableton","Proprietary","Yes","Yes","No","No","","",""
-"Tobias Doerffel","GNU GPL","Yes","Yes","Yes","No","","NFS",""
-"Apple","Proprietary","Discontinued (last version: 5.5.1)","Yes","No","No","","",""
-"Acoustica","Proprietary","Yes","No","Wine[1]","Remote only[2]","Remote only[2]","",""
-"Martin Pesch","Proprietary Freeware","Yes","No","No","No","","",""
-"MuTools","Proprietary","Yes","Yes","No","No","","",""
-"Bremmers Audio Design","Proprietary","Yes","Yes","No","Yes","","",""
-"MuseE","GNU GPL","No","No","Yes","No","","NFS",""
-"Fasoft","Proprietary","Yes","Yes","No","Yes","Yes","",""
-"Steinberg","Proprietary","Yes","Yes","No","No","","",""
-"Zynewave","Proprietary / Freemium","Yes","No","No","No","","",""
-"Avid","Proprietary","Yes","Yes","No","No","","MediaNet (proprietary)","Yes"
-"Qtractor","GNU GPL","No","No","Yes","No","","NFS",""
-"Cockos","Proprietary","Yes","Yes","Yes (after version 6.0)","No","","",""
-"Propellerhead Software","Proprietary","Yes","Yes","No","No","","",""
-"Propellerhead Software","Proprietary","Yes","Yes","No","No","","",""
-"Renoise Team","Proprietary","Yes","Yes","Yes","No","","",""
-"Rosegarden","GNU GPL","No","No","Yes","No","","NFS",""
-"Magix","Proprietary","Yes","No","No","No","","",""
-"Mackie","Proprietary","Yes","No","No","No","","","External 2U rack unit"
-"PreSonus","Proprietary","Yes","Yes","No","No","","SoundCloud",""
-"Tracktion Software Inc","Proprietary","Yes","Yes","Yes","No","","",""
-"null","null","null","null","null","null","null","null","null"
+"Digital audio editor","Creator / developer","Software license , URL: /wiki/Software_license
+","Microsoft Windows , URL: /wiki/Microsoft_Windows
+","MacOS , URL: /wiki/MacOS
+","iOS , URL: /wiki/IOS
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/BSD
+","Online , URL: /wiki/Online
+","Network storage","External hardware"
+"Acoustica , URL: /wiki/Acoustica_(software)
+","Acon Digital","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","No","No","No","Unknown","Unknown"
+"Audacity , URL: /wiki/Audacity_(audio_editor)
+","Audacity Team","GNU GPL , URL: /wiki/GNU_General_Public_License
+","Yes","Yes","Yes","Yes","Yes","No","NFS",""
+"Audiotool , URL: /wiki/Audiotool
+","Hobnox , URL: /wiki/Hobnox
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Not officially supported","Yes","No","Yes","NFS","Optional MIDI support"
+"BIAS Peak , URL: /wiki/BIAS_Peak
+","BIAS , URL: /wiki/BIAS
+","Proprietary , URL: /wiki/Proprietary_software
+","No","Yes","No","No","No","No","",""
+"Diamond Cut ART , URL: /wiki/Diamond_Cut_Audio_Restoration_Tools
+","Diamond Cut Productions , URL: /wiki/Diamond_Cut_Productions
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","No","No","No","No","Unknown","Unknown"
+"Ecasound , URL: /wiki/Ecasound
+","Kai Vehmanen","GNU GPL , URL: /wiki/GNU_General_Public_License
+","No","Yes","No","Yes","Yes","No","Unknown","Unknown"
+"Goldwave , URL: /wiki/Goldwave
+","Goldwave Inc.","Proprietary , URL: /wiki/Proprietary_software
+Shareware , URL: /wiki/Shareware
+","Yes","No","No","No","No","No","",""
+"Jokosher , URL: /wiki/Jokosher
+","Jokosher","GNU GPL , URL: /wiki/GNU_General_Public_License
+","Yes","No","No","Yes","No","No","NFS",""
+"NU-Tech , URL: /wiki/NU-Tech
+","Leaff Engineering","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","No","No","No","No","",""
+"RiffWorks , URL: /wiki/RiffWorks
+","Sonoma Wire Works","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","No","No","No","",""
+"Sound Forge , URL: /wiki/Sound_Forge
+","Magix , URL: /wiki/Magix
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","No","No","No","",""
+"Soundbooth , URL: /wiki/Soundbooth
+","Adobe Systems , URL: /wiki/Adobe_Systems
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","No","No","No","",""
+"SoX , URL: /wiki/SoX
+","Chris Bagwell, et al.","GNU GPL , URL: /wiki/GNU_General_Public_License
+","Yes","Yes","No","Yes","Yes","No","",""
+"SpectraLayers , URL: /wiki/SpectraLayers
+","Sony , URL: /wiki/Sony
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","No","No","No","",""
+"Sweep , URL: /wiki/Sweep_(software)
+","Conrad Parker","GNU GPL , URL: /wiki/GNU_General_Public_License
+","No","No","No","Yes","Yes","No","",""
+"Total Recorder , URL: /wiki/Total_Recorder
+","HighCriteria","Proprietary , URL: /wiki/Proprietary_software
+Shareware , URL: /wiki/Shareware
+","Yes","No","No","No","No","No","",""
+"Traverso DAW , URL: /wiki/Traverso_DAW
+","Traverso","GNU GPL , URL: /wiki/GNU_General_Public_License
+","Yes","Yes","No","Yes","No","No","NFS",""
+"WaveLab , URL: /wiki/WaveLab
+","Steinberg , URL: /wiki/Steinberg
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","No","No","No","","External gear, MIDI"
+"WavePad , URL: /wiki/WavePad_Audio_Editor_Software
+","NCH Software , URL: /wiki/NCH_Software
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","No","No","No","",""
+"WaveSurfer , URL: /wiki/WaveSurfer
+","KTH , URL: /wiki/Royal_Institute_of_Technology
+","BSD , URL: /wiki/Berkeley_Software_Distribution
+","Yes","Yes","No","Yes","Yes","No","",""
+"Digital audio editor","Creator / developer","Software license , URL: /wiki/Software_license
+","Microsoft Windows , URL: /wiki/Microsoft_Windows
+","MacOS , URL: /wiki/MacOS
+","iOS , URL: /wiki/IOS
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/BSD
+","Online , URL: /wiki/Online
+","Network storage","External hardware"

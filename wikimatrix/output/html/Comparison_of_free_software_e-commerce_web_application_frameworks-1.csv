@@ -1,3 +1,103 @@
-"","This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages) This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of shopping cart software" – news · newspapers · books · scholar · JSTOR (December 2010) (Learn how and when to remove this template message) This article may be too long to read and navigate comfortably. The readable prose size is 2 kilobytes. Please consider splitting content into sub-articles, condensing it, or adding subheadings. Please discuss this issue on the article's talk page. (April 2010) (Learn how and when to remove this template message)","","This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of shopping cart software" – news · newspapers · books · scholar · JSTOR (December 2010) (Learn how and when to remove this template message)","","This article may be too long to read and navigate comfortably. The readable prose size is 2 kilobytes. Please consider splitting content into sub-articles, condensing it, or adding subheadings. Please discuss this issue on the article's talk page. (April 2010)"
-"","This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of shopping cart software" – news · newspapers · books · scholar · JSTOR (December 2010) (Learn how and when to remove this template message)","null","null","null","null"
-"","This article may be too long to read and navigate comfortably. The readable prose size is 2 kilobytes. Please consider splitting content into sub-articles, condensing it, or adding subheadings. Please discuss this issue on the article's talk page. (April 2010)","null","null","null","null"
+"Name","Creator","First release date","Latest stable version","Latest release date","License , URL: /wiki/Software_license
+","Language","Web application framework","CMS extension"
+"AbanteCart Software , URL: /wiki/AbanteCart_Software
+","Belavier Commerce, LLC","2011","1.2.15[1]","2019-05-13[±]","OSL 3.0 , URL: /wiki/Open_Software_License_3.0
+","PHP , URL: /wiki/PHP
+","Model-View-Controller , URL: /wiki/Model-View-Controller
+","integrated, and 3rd party extensions"
+"Apache OFBiz , URL: /wiki/Apache_OFBiz
+","Apache Software Foundation","2007","17.12.04[2]","2020-07-13","Apache 2.0 , URL: /wiki/Apache_License
+","Java , URL: /wiki/Java_(programming_language)
+","Apache OFBiz , URL: /wiki/Apache_OFBiz
+","integrated, and 3rd party extensions"
+"Batavi , URL: /wiki/Batavi_(software)
+","Batavi","?","Continuous/SaaS","Continuous/SaaS","Proprietary , URL: /wiki/Proprietary_software
+","PHP , URL: /wiki/PHP
+","",""
+"BigCommerce , URL: /wiki/BigCommerce
+","BigCommerce Inc","?","Continuous/SaaS","Continuous/SaaS","Proprietary , URL: /wiki/Proprietary_software
+","PHP , URL: /wiki/PHP
+","",""
+"CE Phoenix , URL: /wiki/OsCommerce#Official_Community_Version
+","osCommerce and Gary Burton","2019-07-04","1.0.2.0","2019-08-14","GNU GPL , URL: /wiki/GNU_General_Public_License
+","PHP , URL: /wiki/PHP
+","Bootstrap , URL: /wiki/Bootstrap_(front-end_framework)
+",""
+"Drupal Commerce , URL: /wiki/Drupal_Commerce
+","Drupal Commerce","2011-08-23","2.17[3]","2020-02-28[±]","GPL , URL: /wiki/GNU_General_Public_License
+","PHP , URL: /wiki/PHP
+","","Drupal , URL: /wiki/Drupal
+"
+"KonaKart , URL: /wiki/KonaKart
+","DS Data Systems UK Ltd","?","9.0.0.0[4]","2019-08-26","GNU LGPL , URL: /wiki/GNU_LGPL
+","Java , URL: /wiki/Java_(programming_language)
+","",""
+"Magento , URL: /wiki/Magento
+","Varien","2007-08-13","2.4.3[5]","2021-08-10[±]","OSL 3.0 , URL: /wiki/Open_Software_License_3.0
+","PHP , URL: /wiki/PHP
+","Zend Framework , URL: /wiki/Zend_Framework
+",""
+"Miva Merchant , URL: /wiki/Miva_Merchant
+","Miva, Inc.","?","9.14","2019-08-07","Proprietary , URL: /wiki/Proprietary_software
+","MIVA Script , URL: /wiki/MIVA_Script
+","",""
+"nopCommerce , URL: /wiki/NopCommerce
+","Nop Solutions Ltd","2008-10-23","4.50[6]","2022-01-26[±]","GPL , URL: /wiki/GNU_General_Public_License
+","C# , URL: /wiki/C_Sharp_(programming_language)
+","ASP.NET MVC , URL: /wiki/ASP.NET_MVC
+",""
+"OpenCart , URL: /wiki/OpenCart
+","OpenCart Ltd.","1999-05-11","3.0.3.8[7]","2021-08-27[±]","GPL , URL: /wiki/GNU_General_Public_License
+","PHP , URL: /wiki/PHP
+","",""
+"osCommerce , URL: /wiki/OsCommerce
+","osCommerce","2000-03","2.3.4.1[8]","2017-08-18","GNU GPL , URL: /wiki/GNU_GPL
+","PHP , URL: /wiki/PHP
+","",""
+"pimcore , URL: /wiki/Pimcore
+","pimcore GmbH","2010","6.8.5 [9]","2020-11-30[±]","BSD , URL: /wiki/BSD_Licenses
+","PHP , URL: /wiki/PHP
+","Symfony , URL: /wiki/Symfony
+","pimcore , URL: /wiki/Pimcore
+"
+"PrestaShop , URL: /wiki/PrestaShop
+","PrestaShop SA","2007-08-15","1.7.7.8[11]","2021-09-14[±]","OSL 3.0 , URL: /wiki/Open_Software_License_3.0
+","PHP , URL: /wiki/PHP
+","Symfony , URL: /wiki/Symfony
+",""
+"Shopify , URL: /wiki/Shopify
+","Shopify","2006[13]","Continuous/SAAS[14]","Continuous/SAAS","Proprietary , URL: /wiki/Proprietary_software
+","Ruby , URL: /wiki/Ruby_(programming_language)
+","Ruby on Rails , URL: /wiki/Ruby_on_Rails
+",""
+"Spree Commerce , URL: /wiki/Spree_Commerce
+","Sean Schofield","2007","4.1[15]","2020-03-02[±]","BSD , URL: /wiki/BSD_Licenses
+","Ruby , URL: /wiki/Ruby_(programming_language)
+","Ruby on Rails , URL: /wiki/Ruby_on_Rails
+",""
+"SupaDupa , URL: /wiki/SupaDupa
+","SupaDupa","?","Continuous/SAAS","Continuous/SAAS","Proprietary , URL: /wiki/Proprietary_software
+","Ruby , URL: /wiki/Ruby_(programming_language)
+","Ruby on Rails , URL: /wiki/Ruby_on_Rails
+",""
+"uCoz , URL: /wiki/UCoz
+","uCoz Media","?","Continuous/SAAS","Continuous/SAAS","Proprietary , URL: /wiki/Proprietary_software
+","Perl , URL: /wiki/Perl
+","",""
+"VirtueMart , URL: /wiki/VirtueMart
+","Max Milbers and Team","?","3.8.4[16]","2020-06-18[±]","GPL , URL: /wiki/GNU_General_Public_License
+","PHP , URL: /wiki/PHP
+","","Mambo , URL: /wiki/Mambo_(software)
+Joomla! , URL: /wiki/Joomla!
+"
+"WooCommerce , URL: /wiki/WooCommerce
+","WooThemes","2011[17]","6.2.1[18]","2022-02-22","GPL , URL: /wiki/GPL
+","PHP , URL: /wiki/PHP
+","","WordPress , URL: /wiki/WordPress
+"
+"Zen Cart , URL: /wiki/Zen_Cart
+","Zen Ventures","2003-06[19]","1.5.7c[20]","2020-06-23[±]","GPL , URL: /wiki/GNU_General_Public_License
+","PHP , URL: /wiki/PHP
+","",""
+"","Creator","First release date","Latest stable version","Latest release date","License , URL: /wiki/Software_license
+","Language","Web application framework","CMS extension"

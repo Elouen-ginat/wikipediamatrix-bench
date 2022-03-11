@@ -1,24 +1,42 @@
-"null","null","null","null","null","null","null","null","null","null","null","null","null"
-"Apabi Reader[1]","Beijing Founder Apabi Technology Limited","Yes","Yes","No","In library and in-book","Yes","Yes","Unlimited","Yes","No","Yes","Yes"
-"Blio[2]","K-NFB Reading Technology, Inc.","Yes","No","No","In-book only","Yes","Yes","Unlimited","Yes","No","Yes","Yes"
-"BookFusion[3]","BookFusion","Yes","Yes","No","In library and in-book","Yes","Yes","Unlimited","Yes","Yes","Yes","Yes"
-"Bluefire Reader[4]","Bluefire Productions","Yes","Yes","No","In-book only","Yes","Yes","Unlimited","Yes","Yes","Yes","Yes"
-"DL Reader[5]","Datalogics, Inc","Yes","Yes","No","In-book only","Yes","Yes","Unlimited","Yes","No","Yes","Yes"
-"eBookMobi[6]","Tien Thinh Vu","Yes","support on iPad, portrait only on iPhone","No","In library and in-book","Yes","Yes","Unlimited","Yes","No","Yes","No"
-"Ebook Reader[7]","Ebooks.com Limited","Yes","Yes","No","In library and in-book","Yes","Yes","Unlimited","Yes","Yes","Yes","Yes"
-"i2Reader[8]","Yuriy Melyushin","Yes","Yes","Yes","In-book only","Yes","Yes","Unlimited","Yes","No","Yes","Yes"
-"Apple Books[9]","Apple","Yes","No","Manual","In-book only","Yes","Yes","Unlimited","Yes","Yes","Yes","Yes"
-"Kindle[10]","AMZN Mobile LLC","Yes","Yes","No","In library and in-book","Yes","Yes","Unlimited","Yes","Yes","Yes","Yes"
-"Kobo Reading App[11]","Kobo Inc.","Yes","Yes","No","In-book only","Yes","Yes","Last place marker only","Yes","Yes","Yes","No"
-"KyBook Reader[12]","Konstantin Bukreev","Yes","Yes","No","In library and in-book","Yes","Yes","Unlimited","Yes","No","Yes","Yes"
-"KyBook 2[13]","Konstantin Bukreev","Yes","Yes","In library and in-book","Yes","Yes","Unlimited","Yes","Yes","Yes","Yes","Yes"
-"MapleRead[14]","Maplepop LLC","Yes","Yes","No","In library and in-book","Configurable","Yes","Unlimited","Yes","Yes","Yes","Yes"
-"Marvin[15]","Appstafarian","Yes","Yes","Yes","In library and in-book","Configurable","Yes","Unlimited","Yes","Optional","Yes","Yes"
-"MegaReader[16]","Inkstone Software, Inc.","Yes","Yes","No","In-book only","Yes","Yes","Unlimited","Yes","No","Yes","No"
-"PocketBook reader[17]","Obreey Products","Yes","Yes","Yes","In-book only","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
-"ShuBook 2[18]","Ambibma Ltd.","Yes","Yes","No","In library and in-book","Yes","Yes","Unlimited","Yes","No","Yes","Yes"
-"SideBooks[19]","Tatsumi-system Co., Ltd.","Yes","No","No","No","Yes","Yes","Yes","Yes","No","Yes","Yes"
-"Stanza[20]","Lexcycle","Configurable","Yes","No","In library and in-book","Configurable","Yes","Unlimited","Yes","No","Yes","Yes"
-"uBooks XL[21]","Nix Solutions Ltd","Mixed scrolling & pagination","Yes","Yes","Yes","Yes","Yes","Unlimited","Yes","Yes","Yes","Yes"
-"iBouquiniste[22]","Sandr","Yes","Yes","No","In-book only","Yes","Yes","Unlimited","Yes","Yes","Yes","Yes"
-"null","null","null","null","null","null","null","null","null","null","null","null","null"
+"Product","Multi-column mode","Styles (bold/italic/etc.)","Page Turn Effects","Themes","Day/Night mode","Enable/Disable sleep mode","Brightness Control","Indent paragraph","Enable/Disable CSS","Enable/Disable hyphenation","Customize margins","Customize text alignment","Customize font","Customize spacing: line/paragraph"
+"Apabi Reader , URL: /w/index.php?title=Apabi_Reader&action=edit&redlink=1
+","Yes","Yes","Configurable","Yes","Yes","Yes","Vertical swipe","Yes","Yes","Yes","No","Yes","Yes","Yes"
+"Blio , URL: /wiki/Blio
+","Yes","Yes","Yes","No","Yes","No","Yes","No","No","No","No","Justification only","Yes","No"
+"Bluefire Reader , URL: /wiki/Bluefire_Reader
+","No","Yes","Yes","Yes","Yes","No","Vertical swipe","No","Yes","No","Pre-set choices only","Justification only","Yes","Line only"
+"BookFusion , URL: /w/index.php?title=BookFusion&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","In-book only","No","Yes","No","No","No","Yes","No","Yes","Line only"
+"DL Reader , URL: /w/index.php?title=DL_Reader&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","Yes","No","Yes","No","Yes","No","Pre-set choices only","Justification only","Yes","No"
+"eBookMobi , URL: /w/index.php?title=EBookMobi&action=edit&redlink=1
+","Yes","Yes","No","Yes","No","No","Yes","No","No","No","No","No","Yes","No"
+"Ebook Reader , URL: /w/index.php?title=Ebook_Reader&action=edit&redlink=1
+","No","Yes","Yes","No","Yes","(Disabled by default)","Yes","No","No","No","No","No","Yes","No"
+"i2Reader , URL: /w/index.php?title=I2Reader&action=edit&redlink=1
+","Yes","Buggy","Yes","Yes","Using styles","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes"
+"Apple Books , URL: /wiki/Apple_Books
+","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","Yes","No","Yes","Yes","No"
+"Kindle , URL: /wiki/Amazon_Kindle#Kindle_applications
+","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","No","Pre-set choices only","Yes","Yes","Line; pre-set choices only"
+"Kobo Reading App , URL: /wiki/Kobo_eReader
+","No","Yes","Yes","No","Yes","No","Vertical swipe","No","Yes","No","No","Yes","Yes","No"
+"KyBook","Yes","Yes","Yes","Yes","Using themes","No","Yes","Yes","Configurable","Yes","Yes","Yes","Yes","Yes"
+"KyBook 2","Yes","Yes","Yes","Using themes","Yes","Yes","Yes","Configurable","Yes","Yes","Yes","Yes","Yes","Yes"
+"MapleRead","Configurable","Yes","Configurable","Configurable","Configurable","Yes","Vertical swipe","Configurable","Yes","Yes","Yes","Yes","Yes","Yes"
+"Marvin","Configurable","Yes","Configurable","Yes","Yes","Yes","Vertical swipe","Yes","Configurable","Yes","Yes","Yes","Yes","Yes"
+"MegaReader , URL: /w/index.php?title=MegaReader&action=edit&redlink=1
+","Configurable","Buggy","Configurable","Yes","Using themes","Yes","Vertical swipe","No","No","No","Yes","Yes","Yes","Line only"
+"PocketBook reader , URL: /w/index.php?title=PocketBook_reader&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","No","Yes","No","Yes","No"
+"ShuBook 2 , URL: /w/index.php?title=ShuBook_2&action=edit&redlink=1
+","No","Buggy","Configurable","Yes","Yes","Yes","Vertical swipe","Configurable","No","Yes","None, small, large","Yes","Yes","Yes"
+"SideBooks , URL: /w/index.php?title=SideBooks&action=edit&redlink=1
+","No","No","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","No","No","No"
+"Stanza , URL: /wiki/Lexcycle_Stanza
+","No","Yes","Configurable","Yes","Yes","Yes","Vertical swipe","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"uBooks XL , URL: /w/index.php?title=UBooks_XL&action=edit&redlink=1
+","No","Buggy","Yes","No","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes"
+"iBouquiniste , URL: /w/index.php?title=IBouquiniste&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes"
+"Product","Multi-column mode","Styles (bold/italic/etc.)","Page Turn Effects","Themes","Day/Night mode","Enable/Disable sleep mode","Brightness Control","Indent paragraph","Enable/Disable CSS","Enable/Disable hyphenation","Customize margins","Customize text alignment","Customize font","Customize spacing: line/paragraph"

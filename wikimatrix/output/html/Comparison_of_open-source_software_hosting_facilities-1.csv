@@ -1,21 +1,45 @@
-"null","null","null","null","null","null"
-"Assembla, Inc","2005","No","Unknown","Unknown",""
-"Microsoft","2012[1]","No","No","Azure DevOps Services Microsoft Visual Studio","Most features are free for open source projects or teams of 5 members or less[2]"
-"Atlassian","2008","No","No","Atlassian BitBucket Server, JIRA and Confluence","Denies service to Cuba, Iran, North Korea, Sudan, Syria[3]"
-"Buddy, LLC.","2015","No","No","Unknown","Cloud version free for 1 project with no limit on size. Self-hosted version free up to 10 users with Fair Source license[4] applied."
-"CollabNet","2012","No","Unknown","Unknown",""
-"Gitea organization (open source community)[5]","2016","Yes","Yes","Unknown","Gitea is an open-source software tool funded on Open Collective that is designed for self-hosting, but also provides a free first-party instance."
-"The GForge Group,Inc.[6]","2006","Partial","Yes","Cloud version – free up to 5 users. On-premises version - free up to 5 users.","GForge is free for open source projects."
-"Microsoft/GitHub, Inc","2008-04","No","No","Unknown","Denies service to Crimea, North Korea, Sudan, Syria[7] List of government takedown requests"
-"GitLab Inc.","2011-09[8]","Partial[9]","Yes[10]","GitLab FOSS — free software GitLab Enterprise Edition (EE) — proprietary","Denies service to Crimea, Cuba, Iran, North Korea, Sudan, Syria[11]"
-"Free Software Foundation","2001-01","Yes","Yes","Savane","For use by projects with GPL compatible licenses, subject to staff approval. Code access review.[12]"
-"Perforce Software","1995","No","No","Cloud version – free up to 5 users. On-premises version requires a license.","Free cloud version has no limits on projects within 5gb storage limit. On-premises version has DevOps pipeline technology and free replicas."
-"Canonical","2004","Yes","No","Launchpad","Supports Bazaar and Git for version-controlled repository hosting.[13][14]"
-"OSDN K.K.","2002–04","Unknown","Yes","Unknown","For open-source projects only.[15] Ad-supported."
-"Comunes Collective","2002","Yes","Yes","FusionForge","For free software, free culture and free content projects."
-"OW2 Consortium","Unknown","Unknown","No","Unknown","Oriented on middleware technology."
-"Phacility, Inc","2010","Yes","Yes","Unknown","End of life.[16]"
-"Unknown","1997-05","Unknown","No","Unknown",""
-"BizX LLC","1999-11","Yes[17][18]","Yes","Apache Allura","For use by open-source projects.[19] Ad-supported. Subject to American export restrictions, so denies service to Cuba, Iran, North Korea, Sudan, Syria.[20]"
-"Bitcoin Association, Raja Zuberi","2020","Yes","Unknown","No","Provides an option of uploading repository data to the BSV blockchain."
-"null","null","null","null","null","null"
+"Name","Code review","Bug tracking","Web hosting","Wiki","Translation system","Shell server","Mailing list","Forum","Personal repository","Private repository","Announce","Build system","Team","Release binaries","Self-hosting"
+"Assembla , URL: /wiki/Assembla
+","Yes[21]","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes[22]","Yes","Yes","Yes","Unknown","No"
+"Azure DevOps Services , URL: /wiki/Azure_DevOps_Services
+","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Azure DevOps Server , URL: /wiki/Azure_DevOps_Server
+"
+"Bitbucket , URL: /wiki/Bitbucket
+","Yes[23]","Yes[a]","Yes[24]","Yes","No","No","No","No","Yes","Yes[b]","No","Yes[25]","Yes","No[26]","Bitbucket Server , URL: /wiki/Bitbucket_Server
+"
+"Buddy , URL: /wiki/Buddy_(software)
+","Yes","Yes","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes[d]","Yes","Yes","Yes"
+"CloudForge , URL: /wiki/CloudForge
+","Unknown","Yes","Yes","Yes","No","No","No","No","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","No"
+"GForge , URL: /wiki/GForge
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Gitea , URL: /wiki/Gitea
+","Yes","Yes","No","Yes","Unknown","Unknown","Unknown","Unknown","Yes","Yes","Unknown","Travis CI , URL: /wiki/Travis_CI
+","Yes","Yes","Yes"
+"GitHub , URL: /wiki/GitHub
+","Yes[28]","Yes[29][e]","Yes[30]","Yes","No","No","No","No","Yes","Yes","Yes","Yes[31]","Yes","Yes","Commercially (GitHub Enterprise)"
+"GitLab , URL: /wiki/GitLab
+","Yes[32]","Yes","Yes[33]","Yes","No","No","No","No","Yes","Yes","Yes","Yes[34]","Yes","Yes[35]","Yes[f]"
+"GNU Savannah , URL: /wiki/GNU_Savannah
+","Yes[36]","Yes","Yes","No","No","Yes","Yes","No[37]","No","No","Yes","No","Yes","Unknown","Yes"
+"Helix TeamHub , URL: /wiki/Perforce#Other_products
+","Yes[38]","Yes","No","Yes","No","No","Yes","Yes","Yes","Yes","No","Yes, with hooks. Jenkins, TeamCity, etc.","No","Yes","Yes"
+"java.net , URL: /wiki/Java.net
+","Unknown","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Unknown","No"
+"Kallithea , URL: /wiki/Kallithea_(software)
+","Yes","No","Yes","No","No","Unknown","No","No","Yes","Yes","No","No","Yes","Yes","Yes"
+"Launchpad , URL: /wiki/Launchpad_(website)
+","Yes","Yes","No","No","Yes","No","Yes","No","Yes","Yes[g]","Yes","Yes[h]","Yes","Unknown","Yes"
+"OSDN , URL: /wiki/OSDN
+","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Yes","No","Yes","Yes","No"
+"Ourproject.org , URL: /wiki/Ourproject.org
+","Unknown","Yes","Yes","Yes","No","Unknown","Yes","Yes","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Yes"
+"Phabricator , URL: /wiki/Phabricator
+","Yes","Yes","Yes","Yes","Unknown","Yes","Unknown","Yes","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Yes"
+"RhodeCode , URL: /wiki/RhodeCode
+","Yes","No","Yes","No","No","Unknown","No","No","Yes","Yes","Yes","No","Yes","Yes","Yes"
+"SourceForge , URL: /wiki/SourceForge
+","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes[i]","Yes","No","Yes","Yes","Yes"
+"ProgramOnChain , URL: https://programonchain.com/
+","Yes","No","Yes","No","No","No","No","Yes","Yes","Yes","Unknown","Yes","Yes","No","Yes"
+"Name","Code review","Bug tracking","Web hosting","Wiki","Translation system","Shell server","Mailing list","Forum","Personal repository","Private repository","Announce","Build system","Team","Release binaries","Self-hosting"

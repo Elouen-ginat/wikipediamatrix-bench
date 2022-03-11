@@ -1,0 +1,94 @@
+"File archivers","ZIP , URL: /wiki/ZIP_(file_format)
+","TAR , URL: /wiki/Tar_(file_format)
+","GZ , URL: /wiki/Gzip#File_format
+","BZ2 , URL: /wiki/Bzip2
+","7z , URL: /wiki/7z_(file_format)
+","XZ , URL: /wiki/XZ_Utils
+","RAR , URL: /wiki/RAR_(file_format)
+","LHA/LZH , URL: /wiki/LHA_(file_format)
+","ACE , URL: /wiki/ACE_(compression_file_format)
+","SIT , URL: /wiki/StuffIt
+","SITX , URL: /wiki/StuffIt
+","ARJ , URL: /wiki/ARJ
+","KGB , URL: /wiki/KGB_Archiver
+","DAR , URL: /wiki/DAR_(Disk_Archiver)
+","ARC , URL: /wiki/ARC_(file_format)
+","CAB , URL: /wiki/Cabinet_(file_format)
+","ALZ , URL: /wiki/ALZip
+","ISO/CD Image , URL: /wiki/ISO_image
+","ZPAQ , URL: /wiki/ZPAQ
+","Special"
+"7-Zip , URL: /wiki/7-Zip
+","Yes","Yes","Yes[14]","Yes[14]","Yes","Yes[14]","No","No","No","No","No","No","No","No","No","No","No","No","No",""
+"ALZip , URL: /wiki/ALZip
+","Yes","Yes","Yes","Yes","No","Unknown","No","No","No","No","No","No","No","No","No","Yes","Yes","Unknown","No",""
+"Archive Manager , URL: /wiki/Archive_Manager
+","Yes","Yes","Yes","Yes","Yes","Yes","No[12]","Yes","Unknown","Unknown","Unknown","Yes","Unknown","Unknown","Unknown","Unknown","Unknown","No","No",""
+"Archive Utility , URL: /wiki/Archive_Utility
+","Yes","No","No","No","No","Unknown","No","No","No","No","No","No","No","No","No","No","No","No","No",""
+"Ark , URL: /wiki/Ark_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","No[10]","Yes","No","No","No","No","No","No","No","No","No","No","No",""
+"B1 Free Archiver , URL: /wiki/B1_Free_Archiver
+","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No",""
+"BetterZip , URL: /wiki/BetterZip
+","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No",""
+"bsdtar/libarchive , URL: /wiki/Tar_(file_format)
+","Yes","Yes","Yes[15]","Yes[15]","Yes","Yes[15]","No","No","No","No","No","No","No","No","No","No","No","Yes","No",""
+"Commander One , URL: /wiki/Commander_One
+","Yes","Yes","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No",""
+"Disk ARchiver , URL: /wiki/DAR_(Disk_Archiver)
+","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No",""
+"Filzip , URL: /wiki/Filzip
+","Yes","Yes","Yes","No","No","Unknown","No","Yes","No","No","No","No","No","Unknown","Unknown","Unknown","Unknown","Unknown","No",""
+"FreeArc , URL: /wiki/FreeArc
+","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",""
+"GNU tar , URL: /wiki/Tar_(file_format)
+","No","Yes","Yes[1]","Yes[1]","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No",""
+"iArchiver , URL: /wiki/IArchiver
+","Yes","Yes","Yes","Yes","Yes","Unknown","No","No","No","No","No","No","No","No","No","No","No","No","No",""
+"Info-ZIP , URL: /wiki/Info-ZIP
+","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No",""
+"KGB Archiver , URL: /wiki/KGB_Archiver
+","Yes","No","No","No","No","Unknown","No","No","No","No","No","No","Yes","Unknown","Unknown","Unknown","Unknown","Unknown","No",""
+"PeaZip , URL: /wiki/Peazip
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No","No","No","No","Yes","No","No","No","Yes",""
+"PKZIP , URL: /wiki/PKZIP
+","Yes","Yes","Yes","Yes","No","Unknown","No","No","No","No","No","No","No","Unknown","Unknown","Unknown","Unknown","Unknown","No",""
+"PowerArchiver , URL: /wiki/PowerArchiver
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes[17]","Yes","No","No","No","No","No","No","No","Yes","No","No","Yes",".bh (BlakHole) by ZipTV"
+"Star , URL: /wiki/Tar_(file_format)#Key_implementations
+","No","Yes","Yes[1]","Yes[1]","Yes[1]","Yes[1]","No","No","No","No","No","No","No","No","No","No","No","No","No",""
+"StuffIt , URL: /wiki/StuffIt
+","Yes","Yes","Yes","Yes","No","Unknown","No[9]","Yes","No[4]","Yes","Yes","No","No","Unknown","Unknown","Unknown","Unknown","Unknown","No",""
+"TUGZip , URL: /wiki/TUGZip
+","Yes","Yes","Yes","Yes","Yes","Unknown","No[2]","Yes","No[4]","No","No","No","No","No","No","Yes","No","Unknown","No",""
+"WinAce , URL: /wiki/WinAce
+","Yes","Yes","Yes","Yes","No","Unknown","No","Yes","Yes","No","No","No","No","Unknown","Unknown","Yes","Unknown","Yes","No",""
+"WinRAR , URL: /wiki/WinRAR
+","Yes","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No",""
+"WinZip , URL: /wiki/WinZip
+","Yes","No","No","No","No","No","No","No","No","No","No","No[3]","No","No","No","No","No","No","No","ZIPx"
+"Xarchiver , URL: /wiki/Xarchiver
+","Yes","Yes","Yes","Yes","Yes","Yes","No[11]","Yes","No","Unknown","Unknown","Yes","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","No",""
+"ZipGenius , URL: /wiki/ZipGenius
+","Yes","Yes[7]","Yes[7]","Yes[7]","Yes","Unknown","No","Yes[8]","No","No","No","No","No","No","Unknown","Yes[7]","No","No","No",""
+"","ZIP , URL: /wiki/ZIP_(file_format)
+","TAR , URL: /wiki/Tar_(file_format)
+","GZ , URL: /wiki/Gzip#File_format
+","BZ2 , URL: /wiki/Bzip2
+","7z , URL: /wiki/7z_(file_format)
+","XZ , URL: /wiki/XZ_Utils
+","RAR , URL: /wiki/RAR_(file_format)
+","LHA/LZH , URL: /wiki/LHA_(file_format)
+","ACE , URL: /wiki/ACE_(compression_file_format)
+","SIT , URL: /wiki/StuffIt
+","SITX , URL: /wiki/StuffIt
+","ARJ , URL: /wiki/ARJ
+","KGB , URL: /wiki/KGB_Archiver
+","DAR , URL: /wiki/DAR_(Disk_Archiver)
+","ARC , URL: /wiki/ARC_(file_format)
+","CAB , URL: /wiki/Cabinet_(file_format)
+","ALZ , URL: /wiki/ALZip
+","ISO/CD Image , URL: /wiki/ISO_image
+","ZPAQ , URL: /wiki/ZPAQ
+","Special"

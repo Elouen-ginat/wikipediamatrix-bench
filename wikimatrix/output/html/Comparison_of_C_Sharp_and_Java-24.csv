@@ -1,0 +1,22 @@
+"Native interoperability","Java","C#"
+"Cross-language interoperability , URL: /wiki/Cross-language_interoperability
+","GraalVM , URL: /wiki/GraalVM
+Nashorn , URL: /wiki/Nashorn_(JavaScript_engine)
+CORBA , URL: /wiki/CORBA
+JNI , URL: /wiki/JNI
+JNA , URL: /wiki/Java_Native_Access
+","Yes; C# was designed for it[92]"
+"External/native methods","Yes","Yes"
+"Marshalling , URL: /wiki/Marshalling_(computer_science)
+","External glue code needed","Yes; metadata controlled"
+"Pointers , URL: /wiki/Pointer_(computer_programming)
+","sun.misc.Unsafe , URL: http://mishadoff.com/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/
+","Yes"
+"Native types","Yes[93]","Yes"
+"Fixed-size buffers","No","Yes"
+"Explicit stack allocation","No","Yes"
+"Address-of","No","Yes"
+"Object pinning (fix variable to address) , URL: /wiki/Object_pinning#Moving_vs._non-moving
+","No","Yes"
+"Function pointers","No","Yes[94]"
+"Unions","No","Yes[95]"

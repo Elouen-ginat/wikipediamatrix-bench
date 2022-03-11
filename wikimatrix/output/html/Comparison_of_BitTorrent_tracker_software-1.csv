@@ -1,12 +1,14 @@
-"null","null","null","null","null","null","null"
-"aquatic","Rust","Apache-2.0","Yes","Yes","Unix-like","Faster than Opentracker"
-"Hefur[1]","C++","MIT","Yes","Yes","Unix-like","No database required (everything in memory)"
-"MLDonkey[2]","OCaml","GPL-2.0-or-later","Yes","","Windows, OS X, Unix-like, Morph OS","Has a built-in tracker and announcement service"
-"MonoTorrent[3]","C#","MIT","Yes","","Windows, Mac OS, Unix-like","Uses Mono or .NET Core for cross-platform support (.NET)"
-"Opentracker[4]","C","Beerware","Yes","Yes (IPv4 and IPv6 have separate binaries and processes that do not share any information between them. If a client communicates to the tracker over IPv6, it will only receive IPv6 addresses in the response.)","Unix-like (source code only)","Uses libowfat,[5] performs well even on embedded hardware. Only requirement is a POSIX compliant OS. Supports only a compact peer list."
-"PeerTracker[6]","PHP","GPL-3.0-or-later","Yes","","Web application","Extremely lightweight and efficient BitTorrent tracker. Supports SQLite3, and MySQL for storage."
-"μTorrent[7]","C++","Freeware","Yes","","Windows, OS X, Linux, Android","Does not have a list of hosted torrents."
-"qBittorrent[8]","C++","GPL-2.0-or-later","Yes","","Windows, OS X, Unix-like, OS/2","Lightweight. Supports DHT, PEX, announcements via UDP. Does not have a web interface or list of hosted torrents; it is not designed for secure or large-scale application."
-"TorrentPier[9]","PHP","MIT","Yes","","Web application","Supports Apache and nginx and MySQL, MariaDB and Percona for storage."
-"Vuze[10]","Java","Disputed","Yes","","Windows, Mac OS, Linux","Vuze (formerly Azureus) has a built in tracker."
-"XBT Tracker [Wikidata][11][12][13]","C++","GPL-3.0-only","Yes","","Windows, Linux","Uses MySQL for data storage, lightweight tracker"
+"v t e BitTorrent","v t e BitTorrent"
+"Companies","BitTorrent, Inc. Vuze, Inc."
+"People","Bram Cohen Ross Cohen Eric Klinker Ashwin Navin Justin Sun"
+"Technology","Glossary Broadcatching Distributed hash tables DNA I2P index Local Peer Discovery Peer exchange Protocol encryption Super-seeding Tracker Torrent file TCP UDP µTP WebRTC WebTorrent"
+"comparison , URL: /wiki/Comparison_of_BitTorrent_clients
+usage share , URL: /wiki/Usage_share_of_BitTorrent_clients
+","BitTorrent (original client) BitComet BitLord Deluge Free Download Manager Flashget FrostWire Getright Go!Zilla KTorrent libtorrent (library) LimeWire µTorrent Miro MLDonkey qBittorrent rTorrent Shareaza Tixati Transmission Tribler Vuze (formerly Azureus) WebTorrent Desktop Xunlei"
+"comparison , URL: 
+","opentracker PeerTracker XBT Tracker"
+"comparison , URL: /wiki/Comparison_of_BitTorrent_sites
+","1337x BTDigg Demonoid etree ExtraTorrent EZTV isoHunt KickassTorrents Nyaa Torrents The Pirate Bay RARBG Rutracker.org Tamil Rockers Torrentz YIFY yourBittorrent"
+"Defunct websites","BTJunkie Burnbit LokiTorrent Mininova Oink's Pink Palace OpenBitTorrent Suprnova.org t411 Torrent Project TorrentSpy What.CD YouTorrent"
+"Related topics","aXXo BitTorrent Open Source License Glossary of BitTorrent terms Popcorn Time Slyck.com TorrentFreak"
+"Category Commons","Category Commons"

@@ -1,0 +1,282 @@
+"Name","Creator-maintainer","Based on","Standardized?[definition needed]","Specification , URL: /wiki/Specification
+","Binary , URL: /wiki/Binary_format
+","Human-readable , URL: /wiki/Human-readable
+","references , URL: /wiki/Reference_(computer_science)
+","IDL , URL: /wiki/Interface_description_language
+","APIs , URL: /wiki/API
+","zero-copy , URL: /wiki/Zero-copy
+"
+"Apache Avro , URL: /wiki/Apache_Avro
+","Apache Software Foundation , URL: /wiki/Apache_Software_Foundation
+","N/A","No","Apache Avro™ Specification , URL: https://avro.apache.org/docs/current/spec.html
+","Yes","Partialg","N/A","Built-in","C, C#, C++, Java, PHP, Python, Ruby","N/A"
+"Apache Parquet , URL: /wiki/Apache_Parquet
+","Apache Software Foundation , URL: /wiki/Apache_Software_Foundation
+","N/A","No","Apache Parquet , URL: https://parquet.apache.org
+","Yes","No","No","N/A","Java, Python, C++","No"
+"ASN.1 , URL: /wiki/ASN.1
+","ISO , URL: /wiki/International_Organization_for_Standardization
+IEC , URL: /wiki/International_Electrotechnical_Commission
+ITU-T , URL: /wiki/ITU-T
+","N/A","Yes","ISO/IEC 8824 / ITU-T X.680 (syntax) and ISO/IEC 8825 / ITU-T X.690 (encoding rules) series. X.680, X.681, and X.683 define syntax and semantics.","BER , URL: /wiki/Basic_Encoding_Rules
+DER , URL: /wiki/Distinguished_Encoding_Rules
+PER , URL: /wiki/Packed_Encoding_Rules
+OER , URL: /wiki/Octet_encoding_rules
+ECN , URL: /wiki/Encoding_Control_Notation
+","XER , URL: /wiki/XML_Encoding_Rules
+JER , URL: /wiki/JSON_encoding_rules
+GSER , URL: /wiki/Generic_String_Encoding_Rules
+ECN , URL: /wiki/Encoding_Control_Notation
+","Yesf","Built-in","N/A","OER , URL: /wiki/Octet_encoding_rules
+"
+"Bencode , URL: /wiki/Bencode
+","Bram Cohen , URL: /wiki/Bram_Cohen
+BitTorrent, Inc. , URL: /wiki/BitTorrent,_Inc.
+","N/A","De facto as BEP","BitTorrent protocol specification , URL: http://bittorrent.org/beps/bep_0003.html
+","Except numbers and delimiters, being ASCII","No","No","No","No","No"
+"Binn , URL: /wiki/Binn_(serialization_format)
+","Bernardo Ramos","JSON , URL: /wiki/JSON
+","No","Binn Specification , URL: https://github.com/liteserver/binn/blob/master/spec.md
+","Yes","No","No","No","No","Yes"
+"BSON , URL: /wiki/BSON
+","MongoDB , URL: /wiki/MongoDB
+","JSON , URL: /wiki/JSON
+","No","BSON Specification , URL: http://bsonspec.org
+","Yes","No","No","No","No","No"
+"CBOR , URL: /wiki/CBOR
+","P. Hoffman , URL: /wiki/Paul_Hoffman_(engineer)
+","JSON , URL: /wiki/JSON
+","Yes","RFC 8949","Yes","No","Yes, through tagging","CDDL , URL: https://tools.ietf.org/html/rfc8610
+","No","No"
+"Comma-separated values , URL: /wiki/Comma-separated_values
+","RFC author: Yakov Shafranovich","N/A","A myriad of informal variants","RFC 4180 (among others)","No","Yes","No","No","No","No"
+"Common Data Representation , URL: /wiki/Common_Data_Representation
+","Object Management Group , URL: /wiki/Object_Management_Group
+","N/A","Yes","General Inter-ORB Protocol , URL: /wiki/General_Inter-ORB_Protocol
+","Yes","No","Yes","Yes","Ada, C, C++, Java, Cobol, Lisp, Python, Ruby, Smalltalk","N/A"
+"D-Bus , URL: /wiki/D-Bus
+","freedesktop.org , URL: /wiki/Freedesktop.org
+","N/A","Yes","D-Bus Specification , URL: https://dbus.freedesktop.org/doc/dbus-specification.html#message-protocol
+","Yes","No","No","Partial (Signature strings)","Yes , URL: /wiki/D-Bus
+","N/A"
+"Extensible Data Notation , URL: https://github.com/edn-format
+","Rich Hickey","N/A","Yes","edn-format , URL: https://github.com/edn-format/edn
+","No","Yes","Yes","No","Clojure, C#, Python","N/A"
+"Efficient XML Interchange , URL: /wiki/Efficient_XML_Interchange
+","W3C , URL: /wiki/World_Wide_Web_Consortium
+","XML , URL: /wiki/XML
+","Yes","Efficient XML Interchange (EXI) Format 1.0 , URL: https://www.w3.org/TR/exi/
+","Yes","XML , URL: /wiki/XML
+","XPointer , URL: /wiki/XPointer
+XPath , URL: /wiki/XPath
+","XML Schema , URL: /wiki/XML_Schema_(W3C)
+","DOM , URL: /wiki/Document_Object_Model
+SAX , URL: /wiki/Simple_API_for_XML
+StAX , URL: /wiki/StAX
+XQuery , URL: /wiki/XQuery
+XPath , URL: /wiki/XPath
+","N/A"
+"FlatBuffers , URL: /wiki/FlatBuffers
+","Google","N/A","No","Flatbuffers GitHub , URL: https://google.github.io/flatbuffers/
+","Yes","Apache Arrow , URL: /wiki/Apache_Arrow
+","Partial (internal to the buffer)","Yes , URL: https://google.github.io/flatbuffers/flatbuffers_guide_writing_schema.html
+","C++, Java, C#, Go, Python, Rust, JavaScript, PHP, C, Dart, Lua, TypeScript","Yes"
+"Fast Infoset , URL: /wiki/Fast_Infoset
+","ISO , URL: /wiki/International_Organization_for_Standardization
+IEC , URL: /wiki/International_Electrotechnical_Commission
+ITU-T , URL: /wiki/ITU-T
+","XML , URL: /wiki/XML
+","Yes","ITU-T X.891 and ISO/IEC 24824-1:2007","Yes","No","XPointer , URL: /wiki/XPointer
+XPath , URL: /wiki/XPath
+","XML schema , URL: /wiki/XML_schema
+","DOM , URL: /wiki/Document_Object_Model
+SAX , URL: /wiki/Simple_API_for_XML
+XQuery , URL: /wiki/XQuery
+XPath , URL: /wiki/XPath
+","N/A"
+"FHIR , URL: /wiki/FHIR
+","Health Level 7 , URL: /wiki/Health_Level_7
+","REST , URL: /wiki/REST
+","Yes","Fast Healthcare Interoperability Resources , URL: /wiki/Fast_Healthcare_Interoperability_Resources
+","Yes","Yes","Yes","Yes","JSON , URL: /wiki/JSON
+XML , URL: /wiki/XML
+Turtle , URL: /wiki/Turtle_(syntax)
+","No"
+"Ion , URL: /wiki/Ion_(serialization_format)
+","Amazon , URL: /wiki/Amazon.com
+","JSON , URL: /wiki/JSON
+","No","The Amazon Ion Specification , URL: https://amzn.github.io/ion-docs/spec.html
+","Yes","Yes","No","Ion schema , URL: https://amzn.github.io/ion-schema/
+","No","N/A"
+"Java , URL: /wiki/Java_(programming_language)
+","Oracle Corporation , URL: /wiki/Oracle_Corporation
+","N/A","Yes","Java Object Serialization , URL: https://docs.oracle.com/javase/8/docs/technotes/guides/serialization/index.html
+","Yes","No","Yes","No","Yes","N/A"
+"JSON , URL: /wiki/JSON
+","Douglas Crockford , URL: /wiki/Douglas_Crockford
+","JavaScript syntax , URL: /wiki/JavaScript_syntax
+","Yes","STD 90 , URL: https://tools.ietf.org/html/std90
+ECMA-404 , URL: http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf
+ISO/IEC 21778:2017 , URL: https://www.iso.org/standard/71616.html
+","BSON , URL: /wiki/BSON
+Smile , URL: /wiki/Smile_(data_interchange_format)
+UBJSON , URL: /wiki/UBJSON
+","Yes","JSON Pointer (RFC 6901) , URL: https://tools.ietf.org/html/rfc6901
+JSONPath , URL: http://goessner.net/articles/JsonPath/
+JPath , URL: https://web.archive.org/web/20120922110739/http://bluelinecity.com/software/jpath/
+JSPON , URL: https://web.archive.org/web/20121203081945/http://www.jspon.org/
+json:select() , URL: https://github.com/lloyd/JSONSelect
+JSON-LD , URL: /wiki/JSON-LD
+","JSON Schema Proposal , URL: http://json-schema.org/
+ASN.1 , URL: /wiki/ASN.1
+JER , URL: /wiki/JSON_encoding_rules
+Kwalify , URL: http://www.kuwata-lab.com/kwalify/
+Rx , URL: http://rjbs.manxome.org/rx/
+Itemscript Schema , URL: http://itemscript.org/ItemscriptSchema.html
+JSON-LD , URL: /wiki/JSON-LD
+","Clarinet , URL: https://github.com/dscape/clarinet
+JSONQuery , URL: https://www.sitepen.com/blog/jsonquery-data-querying-beyond-jsonpath
+RQL , URL: https://www.sitepen.com/blog/resource-query-language-a-query-language-for-the-web-nosql
+JSONPath , URL: http://goessner.net/articles/JsonPath/
+JSON-LD , URL: /wiki/JSON-LD
+","No"
+"MessagePack , URL: /wiki/MessagePack
+","Sadayuki Furuhashi","JSON , URL: /wiki/JSON
+","No","MessagePack format specification , URL: https://github.com/msgpack/msgpack/blob/master/spec.md
+","Yes","No","No","No","No","Yes"
+"Netstrings , URL: /wiki/Netstring
+","Dan Bernstein , URL: /wiki/Dan_Bernstein
+","N/A","No","netstrings.txt , URL: http://cr.yp.to/proto/netstrings.txt
+","Except ASCII delimiters","Yes","No","No","No","Yes"
+"OGDL , URL: /wiki/OGDL
+","Rolf Veen","?","No","Specification , URL: http://ogdl.org/spec/
+","Binary specification , URL: http://ogdl.org/spec/binary.html
+","Yes","Path specification , URL: http://ogdl.org/spec/path.html
+","Schema WD , URL: http://ogdl.org/spec/schema.html
+","","N/A"
+"OPC-UA Binary , URL: /wiki/OPC_Unified_Architecture
+","OPC Foundation , URL: /wiki/OPC_Foundation
+","N/A","No","opcfoundation.org , URL: https://opcfoundation.org
+","Yes","No","Yes","No","No","N/A"
+"OpenDDL , URL: /wiki/OpenDDL
+","Eric Lengyel , URL: /wiki/Eric_Lengyel
+","C , URL: /wiki/C_(programming_language)
+PHP , URL: /wiki/PHP
+","No","OpenDDL.org , URL: http://openddl.org/
+","No","Yes","Yes","No","OpenDDL library , URL: http://openddl.org/
+","N/A"
+"PHP serialization format , URL: /wiki/PHP_serialization_format
+","PHP Group","N/A","Yes","No","Yes","Yes","Yes","No","Yes","N/A"
+"Pickle (Python) , URL: /wiki/Pickle_(Python)
+","Guido van Rossum , URL: /wiki/Guido_van_Rossum
+","Python , URL: /wiki/Python_(programming_language)
+","PEPs , URL: /wiki/Python_Enhancement_Proposal
+","PEP 3154 – Pickle protocol version 4 , URL: https://www.python.org/dev/peps/pep-3154/
+","Yes","No","Yes[2]","No","Yes","No"
+"Property list , URL: /wiki/Property_list
+","NeXT , URL: /wiki/NeXT
+Apple , URL: /wiki/Apple_Inc.
+","?","Partial","Public DTD for XML format , URL: https://www.apple.com/DTDs/PropertyList-1.0.dtd
+","Yesa","Yesb","No","?","Cocoa , URL: https://developer.apple.com/mac/library/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html
+CoreFoundation , URL: https://developer.apple.com/mac/library/documentation/CoreFoundation/Conceptual/CFPropertyLists/CFPropertyLists.html
+OpenStep , URL: https://web.archive.org/web/20081210064322/http://docs.sun.com/app/docs/doc/802-2112/6i63mn65o?a=view
+GnuStep , URL: https://web.archive.org/web/20110519164921/http://gnustep.org/resources/documentation/Developer/Base/Reference/NSPropertyList.html
+","No"
+"Protocol Buffers , URL: /wiki/Protocol_Buffers
+","Google , URL: /wiki/Google
+","N/A","No","Developer Guide: Encoding , URL: https://developers.google.com/protocol-buffers/docs/encoding
+","Yes","Partiald","No","Built-in","C++, Java, C#, Python, Go, Ruby, Objective-C, C, Dart, Perl, PHP, R, Rust, Scala, Swift, Julia, Erlang, D, Haskell, Action Script, Delphi, Elixir, Elm, Erlang, GopherJS, Haskell, Haxe, JavaScript, Kotlin, Lua, Matlab, Mercurt, OCaml, Prolog, Solidity, Typescript, Vala, Visual Basic","No"
+"Ethereum , URL: /wiki/Ethereum
+Recursive Length Prefix , URL: /w/index.php?title=Recursive_Length_Prefix&action=edit&redlink=1
+","Ethereum , URL: /wiki/Ethereum
+","N/A","No","Specification , URL: https://github.com/ethereum/wiki/wiki/RLP
+","Yes","No","No","No","Erlang, Go, Java, Javascript, Kotlin, Objective-C, Python, Swift, PHP","Yes"
+"S-expressions","John McCarthy , URL: /wiki/John_McCarthy_(computer_scientist)
+Ron Rivest , URL: /wiki/Ron_Rivest
+","Lisp , URL: /wiki/Lisp_(programming_language)
+Netstrings , URL: /wiki/Netstring
+","Largely de facto",""S-Expressions" , URL: http://people.csail.mit.edu/rivest/Sexp.txt
+Internet Draft , URL: /wiki/Internet_Draft
+","Yes, canonical representation","Yes, advanced transport representation","No","No","","N/A"
+"Smile , URL: /wiki/Smile_(data_interchange_format)
+","Tatu Saloranta","JSON , URL: /wiki/JSON
+","No","Smile Format Specification , URL: https://github.com/FasterXML/smile-format-specification
+","Yes","No","Yes","JSON Schema Proposal , URL: http://json-schema.org/
+","Partial (via JSON APIs implemented with Smile backend, on Jackson, Python)","N/A"
+"SOAP , URL: /wiki/SOAP
+","W3C , URL: /wiki/W3C
+","XML , URL: /wiki/XML
+","Yes","SOAP/1.1 , URL: https://www.w3.org/TR/2000/NOTE-SOAP-20000508/
+SOAP/1.2 , URL: https://www.w3.org/TR/soap12/
+","MTOM , URL: /wiki/Message_Transmission_Optimization_Mechanism
+","Yes","XPointer , URL: /wiki/XPointer
+XPath , URL: /wiki/XPath
+","WSDL , URL: /wiki/WSDL
+XML schema , URL: /wiki/XML_schema
+","DOM , URL: /wiki/Document_Object_Model
+SAX , URL: /wiki/Simple_API_for_XML
+XQuery , URL: /wiki/XQuery
+XPath , URL: /wiki/XPath
+","N/A"
+"Structured Data eXchange Formats","Max Wildgrube , URL: /w/index.php?title=Max_Wildgrube&action=edit&redlink=1
+","N/A","Yes","RFC 3072","Yes","No","No","No","","N/A"
+"Apache Thrift , URL: /wiki/Apache_Thrift
+","Facebook , URL: /wiki/Facebook
+Apache , URL: /wiki/Apache_Software_Foundation
+","N/A","No","Original whitepaper , URL: http://thrift.apache.org/static/files/thrift-20070401.pdf
+","Yes","Partialc","No","Built-in","C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml, Delphi and other languages[3]","N/A"
+"UBJSON , URL: /wiki/UBJSON
+","The Buzz Media, LLC","JSON , URL: /wiki/JSON
+BSON , URL: /wiki/BSON
+","No","ubjson.org , URL: http://ubjson.org/
+","Yes","No","No","No","No","N/A"
+"eXternal Data Representation , URL: /wiki/External_Data_Representation
+","Sun Microsystems , URL: /wiki/Sun_Microsystems
+IETF , URL: /wiki/IETF
+","N/A","Yes","STD 67 , URL: https://tools.ietf.org/html/std67
+","Yes","No","Yes","Yes","Yes","N/A"
+"XML , URL: /wiki/XML
+","W3C , URL: /wiki/W3C
+","SGML , URL: /wiki/SGML
+","Yes","1.0 (Fifth Edition) , URL: http://www.w3.org/TR/2008/REC-xml-20081126/
+1.1 (Second Edition) , URL: http://www.w3.org/TR/2006/REC-xml11-20060816/
+","Partial (Efficient XML Interchange, Binary XML, Fast Infoset, XSD base64 data)","Yes","XPointer , URL: /wiki/XPointer
+XPath , URL: /wiki/XPath
+","XML schema , URL: /wiki/XML_schema
+RELAX NG , URL: /wiki/RELAX_NG
+","DOM , URL: /wiki/Document_Object_Model
+SAX , URL: /wiki/Simple_API_for_XML
+XQuery , URL: /wiki/XQuery
+XPath , URL: /wiki/XPath
+","N/A"
+"XML-RPC , URL: /wiki/XML-RPC
+","Dave Winer , URL: /wiki/Dave_Winer
+","XML , URL: /wiki/XML
+","No","XML-RPC Specification , URL: http://xmlrpc.scripting.com/spec
+","No","Yes","No","No","No","No"
+"YAML , URL: /wiki/YAML
+","Clark Evans, Ingy döt Net, and Oren Ben-Kiki","C , URL: /wiki/C_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+Perl , URL: /wiki/Perl
+Python , URL: /wiki/Python_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+Email , URL: /wiki/Email
+HTML , URL: /wiki/HTML
+MIME , URL: /wiki/MIME
+URI , URL: /wiki/URI
+XML , URL: /wiki/XML
+SAX , URL: /wiki/Simple_API_for_XML
+SOAP , URL: /wiki/SOAP
+JSON , URL: /wiki/JSON
+","No","Version 1.2 , URL: http://www.yaml.org/spec/1.2/spec.html
+","No","Yes","Yes","Kwalify , URL: http://www.kuwata-lab.com/kwalify/
+Rx , URL: http://rjbs.manxome.org/rx/
+","No","No"
+"Name","Creator-maintainer","Based on","Standardized?","Specification , URL: /wiki/Specification
+","Binary , URL: /wiki/Binary_format
+","Human-readable , URL: /wiki/Human-readable
+","references , URL: /wiki/Reference_(computer_science)
+","IDL , URL: /wiki/Interface_description_language
+","APIs , URL: /wiki/API
+","zero-copy , URL: /wiki/Zero-copy
+"

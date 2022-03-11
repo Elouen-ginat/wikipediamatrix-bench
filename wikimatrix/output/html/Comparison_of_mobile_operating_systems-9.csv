@@ -1,0 +1,27 @@
+"Feature","Android , URL: /wiki/Android_(operating_system)
+","iOS , URL: /wiki/IOS
+","Tizen , URL: /wiki/Tizen
+","Sailfish OS , URL: /wiki/Sailfish_OS
+","Ubuntu Touch , URL: /wiki/Ubuntu_Touch
+"
+"Audio playback","FLAC , URL: /wiki/FLAC
+Opus , URL: /wiki/Opus_(audio_format)
+","AAC, protected AAC (from iTunes Store), HE-AAC, MP3, MP3 VBR, Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+), Apple Lossless, AIFF, WAV[242]","AAC, AAC+, eAAC+, AMR-NB, AMR-WB, MP3, Vorbis, WAV[243]","MP3, FLAC, AAC, eAAC, eAAC+, ALAC, AC3, DTS, Opus, Vorbis","?"
+"Video playback","H.263 , URL: /wiki/H.263
+VLC media player , URL: /wiki/VLC_media_player
+","H.264 , URL: /wiki/H.264
+","H.263, H.264, MPEG-4 Part 2[243]","MPEG-4, H264, H263,[244] although audio in recorded videos is out of sync[245]","?"
+"Wired video out","4K on 6+[246]","Up to 1080p via HDMI[247] or VGA,[248] 576p/480p via component[249] or composite;[250]","No","No[251]","Yes"
+"Wired digital audio output","5+ USB Audio[252]","7+: USB Audio[253]","No","No","Yes"
+"Wireless video/audio streaming to set top boxes/TVs/speakers","Miracast , URL: /wiki/Miracast
+DLNA , URL: /wiki/Digital_Living_Network_Alliance
+","AirPlay , URL: /wiki/AirPlay
+","DLNA , URL: /wiki/Digital_Living_Network_Alliance
+","?","Yes"
+"Media player on-device playlist creation","Yes[258]","Yes[59]","?","Yes","Yes"
+"Media player video scrubbing","Yes","Yes","?","?","?"
+"Media player audio scrubbing","Yes","Yes","?","?","?"
+"Media player fine scrubbing","VLC media player , URL: /wiki/VLC_media_player
+","Yes[261]","?","?","?"
+"Media player double speed playing","6+[262]","Podcasts , URL: /wiki/Podcast
+","?","?","?"

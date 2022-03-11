@@ -1,0 +1,61 @@
+"","Directives [Note 1]","Conditionals","Atomic groups [Note 2]","Named capture [Note 3]","Comments","Embedded code","Unicode , URL: /wiki/Unicode
+","Balancing groups [Note 4]","Variable-length look-behinds [Note 5]"
+"Boost.Regex , URL: /w/index.php?title=Boost.Regex&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","Yes","No","Some[Note 6]","No","No"
+"Boost.Xpressive , URL: /w/index.php?title=Boost.Xpressive&action=edit&redlink=1
+","Yes","No","Yes","Yes","Yes","No","No","No","No"
+"CL-PPCRE , URL: /w/index.php?title=CL-PPCRE&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","Yes","Yes","Some[Note 6]","No","No"
+"EmEditor , URL: /wiki/EmEditor
+","Yes","Yes","?","?","Yes","No","?","No","No"
+"FREJ","No","No","Yes","Yes","Yes","No","?","No","No"
+"GLib , URL: /wiki/GLib
+","Yes","Yes","Yes","Yes","Yes","No","Some[Note 6]","No","No"
+"GNU grep , URL: /wiki/Grep
+","Yes","Yes","?","Yes","Yes","No","No","No","No"
+"Haskell , URL: /wiki/Haskell_(programming_language)
+","?","?","?","?","?","No","No","No","No"
+"RXP , URL: https://titan-ic.com/technology/rxp-explained
+","Yes","Yes","No","Yes","Yes","No","No","No","No"
+"ICU , URL: /wiki/International_Components_for_Unicode
+","Yes","No","Yes","Yes[Note 7]","Yes","No","Yes","No","No"
+"Java , URL: /wiki/Java_(programming_language)
+","Yes","No","Yes","Yes[Note 8]","Yes","No","Some[Note 6]","No","No"
+"JavaScript , URL: /wiki/JavaScript
+ECMAScript , URL: /wiki/ECMAScript
+","No","No","No","No","No","No","Some[Note 6][Note 9][4]","No","No"
+"JGsoft , URL: /w/index.php?title=Just_Great_Software&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","Yes","No","Some[Note 6]","No","Yes"
+"Lua , URL: /wiki/Lua_(programming_language)
+","No","No","No","No","No","No","No","No","No"
+".NET , URL: /wiki/.NET_Framework
+","Yes","Yes","Yes","Yes","Yes","No","Some[Note 6]","Yes","Yes"
+"OCaml , URL: /wiki/OCaml
+","No","No","No","No","No","No","No","No","No"
+"PCRE , URL: /wiki/Perl_Compatible_Regular_Expression
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"Perl , URL: /wiki/Perl
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No[Note 10]"
+"PHP , URL: /wiki/PHP
+","Yes","Yes","Yes","Yes","Yes","No","No","No","No"
+"Python , URL: /wiki/Python_(programming_language)
+","Yes","Yes","Yes[Note 11]","Yes","Yes","No","Yes[Note 12]","No","Yes[Note 11]"
+"Qt , URL: /wiki/Qt_(toolkit)
+","No","No","No","No","No","No","No","No","No"
+"RE2 , URL: /wiki/RE2_(software)
+","Yes","No","?","Yes","No","No","Some[Note 6]","No","No"
+"Ruby / Onigmo , URL: /wiki/Ruby_(programming_language)
+","Yes","Yes","Yes","Yes","Yes","Yes","Some[Note 6]","No","No"
+"Tcl , URL: /wiki/Tcl
+","Yes","No","Yes","No","Yes","No","Yes","No","No"
+"TRE , URL: /wiki/TRE_(computing)
+","Yes","No","No","No","Yes","No","?","No","No"
+"Vim , URL: /wiki/Vim_(text_editor)
+","Yes","No","Yes","No","No","No","No","No","Yes"
+"RGX","Yes","Yes","Yes","Yes","Yes","No","Yes","No","No"
+"XML Schema , URL: /wiki/XML_Schema_(W3C)
+","No","No","No","No","No","No","Yes","No","No"
+"XPath 3 , URL: /wiki/XPath_3
+XQuery , URL: /wiki/XQuery
+","No","No","No","No","No","No","Yes","No","No"
+"XRegExp","Leading only","No","No","Yes","Yes","No","Yes","No","No"

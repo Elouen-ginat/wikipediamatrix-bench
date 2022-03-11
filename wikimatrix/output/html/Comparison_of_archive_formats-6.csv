@@ -1,0 +1,44 @@
+"Archive format","Built-in compression","Self-extracting","Directory structure","POSIX attributes , URL: /w/index.php?title=POSIX_attributes&action=edit&redlink=1
+","ACLs , URL: /wiki/Access_Control_List
+","Alternate data streams , URL: /wiki/Alternate_data_streams
+"
+"cpio , URL: /wiki/Cpio
+","No1","No","Yes","Yes","No","?"
+"tar , URL: /wiki/Tar_(file_format)
+","No1","No","Yes","Yes","Some","(in Solaris implementation)"
+"dar , URL: /wiki/DAR_(Disk_Archiver)
+","Yes3","No","Yes","Yes","Yes","Yes"
+"ar , URL: /wiki/Ar_(Unix)
+","No","No","No","Yes","No","?"
+"pax , URL: /wiki/Pax_(command)
+","No","No","Yes","Yes","Yes","?"
+"dump , URL: /wiki/Dump_(program)
+","No1","No","Yes","Yes","Yes","?"
+"shar , URL: /wiki/Shar
+","No","Yes","Yes","Yes","No","?"
+"makeself","Yes","Yes","Yes","Yes","Yes","?"
+"zip , URL: /wiki/Zip_(file_format)
+","Yes","Yes2","Yes","No","?","?"
+"rar , URL: /wiki/RAR_(file_format)
+","Yes","Yes2","Yes","No","?","Yes"
+"ace , URL: /wiki/ACE_(compression_file_format)
+","Yes","?","Yes","No","?","?"
+"arj , URL: /wiki/Arj
+","Yes","Yes2","Yes","No","No","?"
+"zoo , URL: /wiki/Zoo_(file_format)
+","Yes","?","Yes","No","?","?"
+"ISO 9660 , URL: /wiki/ISO_9660
+","No1","No","Yes","Rock Ridge , URL: /wiki/Rock_Ridge
+","No","?"
+"cab , URL: /wiki/Cabinet_(file_format)
+","Yes","Yes2","?","No","?","?"
+"rpm , URL: /wiki/RPM_Package_Manager
+","Yes","No","Yes","Yes","?","?"
+"deb , URL: /wiki/Deb_(file_format)
+","Yes","No","Yes","Yes","?","?"
+"7z , URL: /wiki/7z_(file_format)
+","Yes","Yes","Yes","No","?","?"
+"Archive format","Built-in compression","Self-extracting","Directory Structure","POSIX attributes , URL: /w/index.php?title=POSIX_attributes&action=edit&redlink=1
+","ACLs , URL: /wiki/Access_Control_List
+","Alternate data streams , URL: /wiki/Alternate_data_streams
+"

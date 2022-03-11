@@ -1,0 +1,52 @@
+"Name","ssh-dss[AuthNote 1]","ssh-rsa","RSA , URL: /wiki/RSA_(cryptosystem)
+SHA-2 , URL: /wiki/SHA-2
+","RSA , URL: /wiki/RSA_(cryptosystem)
+SHA-2 , URL: /wiki/SHA-2
+","ECDSA , URL: /wiki/ECDSA
+SHA-2 , URL: /wiki/SHA-2
+","ECDSA , URL: /wiki/ECDSA
+SHA-2 , URL: /wiki/SHA-2
+","ECDSA , URL: /wiki/ECDSA
+SHA-2 , URL: /wiki/SHA-2
+","","Security keys","Security keys","Security keys","Security keys"
+"Name","ssh-dss[AuthNote 1]","ssh-rsa","rsa-sha2-256","rsa-sha2-512","ecdsa-sha2-nistp256","ecdsa-sha2-nistp384","ecdsa-sha2-nistp521","ssh-ed25519","sk-ecdsa-sha2-nistp256","sk-ecdsa-sha2-nistp256-cert-v01","sk-ssh-ed25519","sk-ssh-ed25519-cert-v01"
+"AbsoluteTelnet , URL: /wiki/AbsoluteTelnet
+","?","?","?","?","?","?","?","?","","","",""
+"Bitvise , URL: /wiki/Bitvise
+","?","?","?","?","?","?","?","?","","","",""
+"Dropbear , URL: /wiki/Dropbear_(software)
+","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","","","",""
+"lsh , URL: /wiki/Lsh
+","?","?","?","?","?","?","?","?","","","",""
+"OpenSSH , URL: /wiki/OpenSSH
+","Yes[AuthNote 2]","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"PuTTY , URL: /wiki/PuTTY
+","?","Yes","?","?","Yes","?","?","?","","","",""
+"SecureCRT , URL: /wiki/SecureCRT
+","?","?","?","?","?","?","?","?","","","",""
+"SmartFTP , URL: /wiki/SmartFTP
+","?","?","?","?","?","?","?","?","","","",""
+"Tera Term , URL: /wiki/Tera_Term
+","?","?","?","?","?","?","?","?","","","",""
+"TN3270 Plus , URL: /wiki/TN3270_Plus
+","?","?","?","?","?","?","?","?","","","",""
+"TtyEmulator , URL: /wiki/TtyEmulator
+","?","?","?","?","?","?","?","?","","","",""
+"WinSCP , URL: /wiki/WinSCP
+","No","Yes","Yes","Yes","Yes","Yes","Yes","?","","","",""
+"wolfSSH , URL: /wiki/WolfSSH
+","No","Yes","Yes","Yes","Yes","Yes","Yes","?","","","",""
+"ZOC , URL: /wiki/ZOC_(software)
+","?","?","?","?","?","?","?","?","","","",""
+"Name","ssh-dss","ssh-rsa","rsa-sha2-256","rsa-sha2-512","ecdsa-sha2-nistp256","ecdsa-sha2-nistp384","ecdsa-sha2-nistp521","ssh-ed25519","sk-ecdsa-sha2-nistp256","sk-ecdsa-sha2-nistp256-cert-v01","sk-ssh-ed25519","sk-ssh-ed25519-cert-v01"
+"Name","ssh-dss","ssh-rsa","RSA , URL: /wiki/RSA_(cryptosystem)
+SHA-2 , URL: /wiki/SHA-2
+","RSA , URL: /wiki/RSA_(cryptosystem)
+SHA-2 , URL: /wiki/SHA-2
+","ECDSA , URL: /wiki/ECDSA
+SHA-2 , URL: /wiki/SHA-2
+","ECDSA , URL: /wiki/ECDSA
+SHA-2 , URL: /wiki/SHA-2
+","ECDSA , URL: /wiki/ECDSA
+SHA-2 , URL: /wiki/SHA-2
+","","Security keys","Security keys","Security keys","Security keys"

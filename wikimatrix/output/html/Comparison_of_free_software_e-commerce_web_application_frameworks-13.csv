@@ -1,0 +1,30 @@
+"","Amazon FPS , URL: /wiki/Amazon_Flexible_Payments_Service
+","Checkout by Amazon , URL: /wiki/Amazon_Payments#Checkout_by_Amazon
+","Google Checkout , URL: /wiki/Google_Checkout
+","PayPal , URL: /wiki/PayPal
+"
+"Apache OFBiz , URL: /wiki/Apache_OFBiz
+","No","Yes","Yes","Yes"
+"Batavi , URL: /wiki/Batavi_(software)
+","No","No","No","No"
+"BigCommerce , URL: /wiki/BigCommerce
+","No","No","No","Yes"
+"Drupal Commerce , URL: /wiki/Drupal_Commerce
+","Yes","add-on","Yes","Yes"
+"Magento , URL: /wiki/Magento
+","Yes","add-on","Yes","Yes"
+"nopCommerce , URL: /wiki/NopCommerce
+","Yes","Yes","Yes","Yes"
+"osCommerce , URL: /wiki/OsCommerce
+","No","add-on","No","Yes"
+"pimcore , URL: /wiki/Pimcore
+","No","No","No","No"
+"PrestaShop , URL: /wiki/PrestaShop
+","Yes","Yes","Yes","Yes"
+"Shopify , URL: /wiki/Shopify
+","No","No","Yes","Yes"
+"WooCommerce , URL: /wiki/WooCommerce
+","No","Yes","Yes","Yes"
+"Zen Cart , URL: /wiki/Zen_Cart
+","No","add-on","add-on","Yes"
+"","Amazon FPS","Checkout by Amazon","Google Checkout","PayPal Express"

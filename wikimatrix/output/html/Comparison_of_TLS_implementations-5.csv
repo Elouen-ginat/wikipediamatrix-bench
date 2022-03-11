@@ -1,0 +1,64 @@
+"Implementation","SRP , URL: /wiki/Secure_Remote_Password_protocol
+","SRP , URL: /wiki/Secure_Remote_Password_protocol
+DSS , URL: /wiki/Digital_Signature_Algorithm
+","SRP , URL: /wiki/Secure_Remote_Password_protocol
+RSA , URL: /wiki/RSA_(cryptosystem)
+","PSK , URL: /wiki/Pre-shared_key
+RSA , URL: /wiki/RSA_(cryptosystem)
+","PSK , URL: /wiki/Pre-shared_key
+","DHE , URL: /wiki/Diffie%E2%80%93Hellman_key_exchange
+PSK , URL: /wiki/Pre-shared_key
+forward secrecy , URL: /wiki/Forward_secrecy
+","ECDHE , URL: /wiki/Elliptic_curve_Diffie%E2%80%93Hellman
+PSK , URL: /wiki/Pre-shared_key
+forward secrecy , URL: /wiki/Forward_secrecy
+","KRB5 , URL: /wiki/Kerberos_(protocol)
+","DH , URL: /wiki/Diffie%E2%80%93Hellman_key_exchange
+","ECDH , URL: /wiki/Elliptic_curve_Diffie%E2%80%93Hellman
+"
+"Botan , URL: /wiki/Botan_(programming_library)
+","Yes","Yes","Yes","No","Yes","Yes","Yes","No","Disabled by default","Disabled by default"
+"BSAFE , URL: /wiki/BSAFE
+","No","No","No","No","Yes[97]","No","No","No","Disabled by default","Disabled by default"
+"cryptlib , URL: /wiki/Cryptlib
+","No","No","No","No","Yes","Yes","No","Unknown","No","No"
+"GnuTLS , URL: /wiki/GnuTLS
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Disabled by default","Disabled by default"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","No","No","No","No","No","No","No","No","Disabled by default","Disabled by default"
+"LibreSSL , URL: /wiki/LibreSSL
+","No[98]","No[98]","No[98]","No","No","No","No","No","Yes","Yes"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","No","No","No","Yes","Yes","Yes","No","No","Disabled by default","No"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","No","No","No","Yes","Yes","Yes","Yes","No","No","No"
+"NSS , URL: /wiki/Network_Security_Services
+","No[99]","No[99]","No[99]","No[100]","No[100]","No[100]","No[100]","No","Client side only, disabled by default[101]","Disabled by default[102]"
+"OpenSSL , URL: /wiki/OpenSSL
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[103]","Disabled by default[104]","Disabled by default[104]"
+"SChannel , URL: /wiki/SChannel
+","No","No","No","No","No","No","No","Yes","No","No"
+"Secure Transport , URL: /wiki/MacOS
+","No","No","No","No","No","No","No","Unknown","Yes","Yes"
+"wolfSSL , URL: /wiki/WolfSSL
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes[105]","Yes","No","No"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","Disabled by default","Disabled by default","Disabled by default","Disabled by default","Disabled by default","Disabled by default","No","No","Disabled by default","Disabled by default"
+"Implementation","SRP , URL: /wiki/Secure_Remote_Password_protocol
+","SRP , URL: /wiki/Secure_Remote_Password_protocol
+DSS , URL: /wiki/Digital_Signature_Algorithm
+","SRP , URL: /wiki/Secure_Remote_Password_protocol
+RSA , URL: /wiki/RSA_(cryptosystem)
+","PSK , URL: /wiki/Pre-shared_key
+RSA , URL: /wiki/RSA_(cryptosystem)
+","PSK , URL: /wiki/Pre-shared_key
+","DHE , URL: /wiki/Diffie%E2%80%93Hellman_key_exchange
+PSK , URL: /wiki/Pre-shared_key
+forward secrecy , URL: /wiki/Forward_secrecy
+","ECDHE , URL: /wiki/Elliptic_curve_Diffie%E2%80%93Hellman
+PSK , URL: /wiki/Pre-shared_key
+forward secrecy , URL: /wiki/Forward_secrecy
+","KRB5 , URL: /wiki/Kerberos_(protocol)
+","DH , URL: /wiki/Diffie%E2%80%93Hellman_key_exchange
+","ECDH , URL: /wiki/Elliptic_curve_Diffie%E2%80%93Hellman
+"

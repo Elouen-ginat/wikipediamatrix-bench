@@ -1,0 +1,253 @@
+"v t e Nvidia","v t e Nvidia","v t e Nvidia","v t e Nvidia"
+"GeForce (List of GPUs)","GeForce (List of GPUs)","GeForce (List of GPUs)","GeForce (List of GPUs)"
+"Fixed pixel pipeline
+Pre-GeForce , URL: /wiki/List_of_Nvidia_graphics_processing_units#Pre-GeForce
+
+NV1 NV2 RIVA 128 RIVA TNT TNT2
+
+
+
+
+
+Vertex , URL: /wiki/Vertex_shader
+pixel , URL: /wiki/Pixel_shader
+
+GeForce 3 4 Ti FX 6 7
+
+Unified shaders , URL: /wiki/Unified_Shader_Model
+
+GeForce 8 9 100 200 300 400 500
+
+NUMA , URL: /wiki/Non-uniform_memory_access
+
+GeForce 600 700 800M 900 10 16
+
+Ray tracing , URL: /wiki/Ray_tracing_(graphics)
+
+GeForce 20 30
+
+
+","Fixed pixel pipeline
+Pre-GeForce , URL: /wiki/List_of_Nvidia_graphics_processing_units#Pre-GeForce
+
+NV1 NV2 RIVA 128 RIVA TNT TNT2
+
+
+
+
+
+Vertex , URL: /wiki/Vertex_shader
+pixel , URL: /wiki/Pixel_shader
+
+GeForce 3 4 Ti FX 6 7
+
+Unified shaders , URL: /wiki/Unified_Shader_Model
+
+GeForce 8 9 100 200 300 400 500
+
+NUMA , URL: /wiki/Non-uniform_memory_access
+
+GeForce 600 700 800M 900 10 16
+
+Ray tracing , URL: /wiki/Ray_tracing_(graphics)
+
+GeForce 20 30
+
+
+","Fixed pixel pipeline
+Pre-GeForce , URL: /wiki/List_of_Nvidia_graphics_processing_units#Pre-GeForce
+
+NV1 NV2 RIVA 128 RIVA TNT TNT2
+
+
+
+
+
+Vertex , URL: /wiki/Vertex_shader
+pixel , URL: /wiki/Pixel_shader
+
+GeForce 3 4 Ti FX 6 7
+
+Unified shaders , URL: /wiki/Unified_Shader_Model
+
+GeForce 8 9 100 200 300 400 500
+
+NUMA , URL: /wiki/Non-uniform_memory_access
+
+GeForce 600 700 800M 900 10 16
+
+Ray tracing , URL: /wiki/Ray_tracing_(graphics)
+
+GeForce 20 30
+
+
+","Fixed pixel pipeline
+Pre-GeForce , URL: /wiki/List_of_Nvidia_graphics_processing_units#Pre-GeForce
+
+NV1 NV2 RIVA 128 RIVA TNT TNT2
+
+
+
+
+
+Vertex , URL: /wiki/Vertex_shader
+pixel , URL: /wiki/Pixel_shader
+
+GeForce 3 4 Ti FX 6 7
+
+Unified shaders , URL: /wiki/Unified_Shader_Model
+
+GeForce 8 9 100 200 300 400 500
+
+NUMA , URL: /wiki/Non-uniform_memory_access
+
+GeForce 600 700 800M 900 10 16
+
+Ray tracing , URL: /wiki/Ray_tracing_(graphics)
+
+GeForce 20 30
+
+
+"
+"Software and technologies","Software and technologies","Software and technologies","Software and technologies"
+"Multimedia acceleration NVENC (video encoding) NVDEC (video decoding) PureVideo (video decoding) Software Cg (shading language) CUDA Gelato (offline renderer) Nvidia GameWorks OptiX (ray tracing API) PhysX (physics SDK) Nvidia RTX (ray tracing platform) Nvidia System Tools VDPAU (video decode API) Technologies Nvidia 3D Vision (stereo 3D) Nvidia G-Sync (variable refresh rate) Nvidia Optimus (GPU switching) Nvidia Surround (multi-monitor) NVLink (protocol) Scalable Link Interface (multi-GPU) TurboCache (framebuffer in system memory) GPU microarchitectures Fahrenheit Celsius Kelvin Rankine Curie Tesla Fermi Kepler Maxwell Pascal Volta Turing Ampere Lovelace Hopper","Multimedia acceleration NVENC (video encoding) NVDEC (video decoding) PureVideo (video decoding) Software Cg (shading language) CUDA Gelato (offline renderer) Nvidia GameWorks OptiX (ray tracing API) PhysX (physics SDK) Nvidia RTX (ray tracing platform) Nvidia System Tools VDPAU (video decode API) Technologies Nvidia 3D Vision (stereo 3D) Nvidia G-Sync (variable refresh rate) Nvidia Optimus (GPU switching) Nvidia Surround (multi-monitor) NVLink (protocol) Scalable Link Interface (multi-GPU) TurboCache (framebuffer in system memory) GPU microarchitectures Fahrenheit Celsius Kelvin Rankine Curie Tesla Fermi Kepler Maxwell Pascal Volta Turing Ampere Lovelace Hopper","Multimedia acceleration NVENC (video encoding) NVDEC (video decoding) PureVideo (video decoding) Software Cg (shading language) CUDA Gelato (offline renderer) Nvidia GameWorks OptiX (ray tracing API) PhysX (physics SDK) Nvidia RTX (ray tracing platform) Nvidia System Tools VDPAU (video decode API) Technologies Nvidia 3D Vision (stereo 3D) Nvidia G-Sync (variable refresh rate) Nvidia Optimus (GPU switching) Nvidia Surround (multi-monitor) NVLink (protocol) Scalable Link Interface (multi-GPU) TurboCache (framebuffer in system memory) GPU microarchitectures Fahrenheit Celsius Kelvin Rankine Curie Tesla Fermi Kepler Maxwell Pascal Volta Turing Ampere Lovelace Hopper","Multimedia acceleration NVENC (video encoding) NVDEC (video decoding) PureVideo (video decoding) Software Cg (shading language) CUDA Gelato (offline renderer) Nvidia GameWorks OptiX (ray tracing API) PhysX (physics SDK) Nvidia RTX (ray tracing platform) Nvidia System Tools VDPAU (video decode API) Technologies Nvidia 3D Vision (stereo 3D) Nvidia G-Sync (variable refresh rate) Nvidia Optimus (GPU switching) Nvidia Surround (multi-monitor) NVLink (protocol) Scalable Link Interface (multi-GPU) TurboCache (framebuffer in system memory) GPU microarchitectures Fahrenheit Celsius Kelvin Rankine Curie Tesla Fermi Kepler Maxwell Pascal Volta Turing Ampere Lovelace Hopper"
+"Other products","Other products","Other products","Other products"
+"Graphics processing
+Nvidia Quadro Quadro Plex
+
+GPGPU , URL: /wiki/General-purpose_computing_on_graphics_processing_units
+
+Nvidia Tesla DGX
+
+Console , URL: /wiki/Video_game_console
+
+NV2A (Xbox) RSX 'Reality Synthesizer' (PlayStation 3) Tegra NX-SoC (Nintendo Switch)
+
+Nvidia Shield
+Shield Portable Shield Tablet Shield Android TV GeForce Now
+
+SoCs , URL: /wiki/System_on_a_chip
+
+GoForce Drive Jetson Tegra
+
+CPUs , URL: /wiki/Central_processing_unit
+
+Project Denver
+
+chipsets , URL: /wiki/Chipset
+
+nForce
+
+
+","Graphics processing
+Nvidia Quadro Quadro Plex
+
+GPGPU , URL: /wiki/General-purpose_computing_on_graphics_processing_units
+
+Nvidia Tesla DGX
+
+Console , URL: /wiki/Video_game_console
+
+NV2A (Xbox) RSX 'Reality Synthesizer' (PlayStation 3) Tegra NX-SoC (Nintendo Switch)
+
+Nvidia Shield
+Shield Portable Shield Tablet Shield Android TV GeForce Now
+
+SoCs , URL: /wiki/System_on_a_chip
+
+GoForce Drive Jetson Tegra
+
+CPUs , URL: /wiki/Central_processing_unit
+
+Project Denver
+
+chipsets , URL: /wiki/Chipset
+
+nForce
+
+
+","Graphics processing
+Nvidia Quadro Quadro Plex
+
+GPGPU , URL: /wiki/General-purpose_computing_on_graphics_processing_units
+
+Nvidia Tesla DGX
+
+Console , URL: /wiki/Video_game_console
+
+NV2A (Xbox) RSX 'Reality Synthesizer' (PlayStation 3) Tegra NX-SoC (Nintendo Switch)
+
+Nvidia Shield
+Shield Portable Shield Tablet Shield Android TV GeForce Now
+
+SoCs , URL: /wiki/System_on_a_chip
+
+GoForce Drive Jetson Tegra
+
+CPUs , URL: /wiki/Central_processing_unit
+
+Project Denver
+
+chipsets , URL: /wiki/Chipset
+
+nForce
+
+
+","Graphics processing
+Nvidia Quadro Quadro Plex
+
+GPGPU , URL: /wiki/General-purpose_computing_on_graphics_processing_units
+
+Nvidia Tesla DGX
+
+Console , URL: /wiki/Video_game_console
+
+NV2A (Xbox) RSX 'Reality Synthesizer' (PlayStation 3) Tegra NX-SoC (Nintendo Switch)
+
+Nvidia Shield
+Shield Portable Shield Tablet Shield Android TV GeForce Now
+
+SoCs , URL: /wiki/System_on_a_chip
+
+GoForce Drive Jetson Tegra
+
+CPUs , URL: /wiki/Central_processing_unit
+
+Project Denver
+
+chipsets , URL: /wiki/Chipset
+
+nForce
+
+
+"
+"Company","Company","Company","Company"
+"Key people
+Jen-Hsun Huang Chris Malachowsky Curtis Priem David Kirk Bill Dally Debora Shoquist Ranga Jayaraman Jonah M. Alben
+
+Acquisitions
+3dfx Interactive Ageia ULi Arm Holdings Icera Mellanox Technologies Mental Images PortalPlayer Exluna MediaQ Stexar
+
+
+","Key people
+Jen-Hsun Huang Chris Malachowsky Curtis Priem David Kirk Bill Dally Debora Shoquist Ranga Jayaraman Jonah M. Alben
+
+Acquisitions
+3dfx Interactive Ageia ULi Arm Holdings Icera Mellanox Technologies Mental Images PortalPlayer Exluna MediaQ Stexar
+
+
+","Key people
+Jen-Hsun Huang Chris Malachowsky Curtis Priem David Kirk Bill Dally Debora Shoquist Ranga Jayaraman Jonah M. Alben
+
+Acquisitions
+3dfx Interactive Ageia ULi Arm Holdings Icera Mellanox Technologies Mental Images PortalPlayer Exluna MediaQ Stexar
+
+
+","Key people
+Jen-Hsun Huang Chris Malachowsky Curtis Priem David Kirk Bill Dally Debora Shoquist Ranga Jayaraman Jonah M. Alben
+
+Acquisitions
+3dfx Interactive Ageia ULi Arm Holdings Icera Mellanox Technologies Mental Images PortalPlayer Exluna MediaQ Stexar
+
+
+"

@@ -1,0 +1,27 @@
+"codename , URL: /wiki/Codename
+","Launch","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/GFLOPS
+","Memory","Memory","Memory","Memory","Typical TDP , URL: /w/index.php?title=Typical_Thermal_design_power&action=edit&redlink=1
+"
+"codename , URL: /wiki/Codename
+","Launch","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Config[e]","MHz , URL: /wiki/Hertz
+","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","GFLOPS , URL: /wiki/GFLOPS
+","Size","GB , URL: /wiki/Gigabyte
+","Bus type & width","MT , URL: /wiki/Transfer_(computing)
+","Typical TDP , URL: /w/index.php?title=Typical_Thermal_design_power&action=edit&redlink=1
+"
+"Radeon RX 5300M[219] (Navi 14)","13 November 2019","RDNA , URL: /wiki/RDNA_(microarchitecture)
+","1408:88:32 22 CU","1181 1445","127.2","46.2","4069","3 GB","168","GDDR6 96-bit","14000","60 W"
+"Radeon RX 5500M[220] (Navi 14)","7 October 2019","RDNA , URL: /wiki/RDNA_(microarchitecture)
+","1408:88:32 22 CU","1448 1645","144.8","52.6","4632","4 GB","224","GDDR6 128-bit","14000","80 W"
+"Radeon RX 5600M[221] (Navi 10)","7 July 2020","RDNA , URL: /wiki/RDNA_(microarchitecture)
+","2304:144:64 36 CU","1190 1265","182.2","81","5829","6 GB","288","GDDR6 192-bit","12000","80 W"
+"Radeon RX 5700M[222] (Navi 10)","2020","RDNA , URL: /wiki/RDNA_(microarchitecture)
+","2304:144:64 36 CU","1620 1720","247.7","110.1","7926","8 GB","384","GDDR6 256-bit","14000","120 W"

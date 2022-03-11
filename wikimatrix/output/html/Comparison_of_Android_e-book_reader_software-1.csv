@@ -1,17 +1,41 @@
-"null","null","null","null"
-"Aldiko","Proprietary","iOS","Adobe DRM"
-"AlReader[1]","Proprietary","None","?"
-"Bookari","Proprietary","iOS","Adobe DRM"
-"Cool Reader[2]","GPLv2","Android, Windows, Mac OS X, Linux, PocketBook","?"
-"Ebook Reader[3]","Proprietary","iOS, BlackBerry 10+, Kindle Fire (side loaded)","Adobe DRM"
-"eReader Prestigio","Proprietary","None","Adobe DRM"
-"FBReader","Proprietary","Windows, Linux, PDAs, Mac OS X","None"
-"Google Play Books","Proprietary","Web application, iOS","Adobe DRM"
-"Kindle","Proprietary","Web application, iOS, BlackBerry, Mac OS X, Windows","Amazon DRM"
-"Kobo","Proprietary","Windows, Mac OS X, iOS","Adobe DRM"
-"KOReader[4]","AGPLv3","Android, Kindle eInk, Kindle Fire, BQ Cervantes, PocketBook, Kobo","None"
-"Lektz","Proprietary","Web application, Mac OS X, iOS, Windows","Lektz DRM"
-"Librera[5]","GPL","None","None"
-"MReader","Proprietary","None","None"
-"OverDrive Media Console[6]","Proprietary","Chromebook, iOS, Mac OS X, Windows","Adobe DRM, OverDrive"
-"Snapplify","Proprietary","Web application, iOS","Adobe DRM, Snapplify SnappSafe DRM"
+"Product","Formats total #",".cbr",".cbz",".umd",".chm",".djvu",".epub",".fb2",".html",".mobi",".oeb",".rtf",".pdf",".txt",".doc",".docx",".pdb"
+"Aldiko Book Reader , URL: /wiki/Aldiko
+","02+","?","?","?","No","No","Yes","No","No","No","No","No","Yes","No","?","?","?"
+"AlReader , URL: /w/index.php?title=AlReader&action=edit&redlink=1
+","09+","?","?","?","No","No","Yes","Yes","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes"
+"Bookari , URL: /w/index.php?title=Bookari_Ebook_Reader_Premium&action=edit&redlink=1
+","02+","?","?","?","No","No","Yes","No","No","No","No","No","Yes","No","No","No","No"
+"Cool Reader , URL: /wiki/CoolReader
+","07+","?","?","?","Yes","No","Yes","Yes","Yes","Yes","No","Yes","No","Yes","Yes","No","Yes"
+"EBookDroid , URL: /w/index.php?title=EBookDroid&action=edit&redlink=1
+","05+","?","?","?","No","Yes","Yes","Yes","No","No","No","Yes","Yes","No","?","?","?"
+"Ebook Reader , URL: /w/index.php?title=Ebook_Reader&action=edit&redlink=1
+","02+","No","No","No","No","No","Yes","No","No","No","No","No","Yes","No","No","No","No"
+"eReader Prestigio , URL: /w/index.php?title=EReader_Prestigio&action=edit&redlink=1
+","09+","?","?","?","No","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","No","?"
+"ezPDF Reader , URL: /w/index.php?title=EzPDF_Reader&action=edit&redlink=1
+","04+","?","?","?","No","No","Yes","No","Yes","No","No","No","Yes","Yes","?","?","?"
+"FBReader , URL: /wiki/FBReader
+","11+","Yes","Yes","?","No","Plugin[10]","Yes","Yes","Yes","Yes","Yes","Yes","Plugin[11]","Yes","Yes","No","Yes"
+"Google Play Books , URL: /wiki/Google_Play_Books
+","02+","?","?","?","No","No","Yes","No","No","No","No","No","Yes","No","No","No","No"
+"iReader , URL: /w/index.php?title=IReader&action=edit&redlink=1
+","02+","?","?","?","?","?","Yes","?","Yes","Yes","?","?","?","Yes","?","?","?"
+"Kindle , URL: /wiki/Amazon_Kindle
+","02+","?","?","?","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","?","?"
+"KOReader","13","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes"
+"Kobo Books","05+","?","?","?","No","No","Yes","No","Yes","No","No","Yes","No","Yes","?","?","?"
+"Lektz eBook Reader , URL: /wiki/Lektz
+","02+","?","?","?","No","No","Yes","No","No","No","No","No","Yes","No","?","?","?"
+"Librera , URL: /w/index.php?title=Librera&action=edit&redlink=1
+","13","Yes","Yes","?","No","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes"
+"Moon+ reader Pro , URL: /w/index.php?title=Moon%2B_reader_Pro&action=edit&redlink=1
+","14","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes",""
+"MReader , URL: /w/index.php?title=MReader&action=edit&redlink=1
+","10+","?","?","?","No","No","Yes","No","No","No","No","No","No","No","No","No","No"
+"PocketBook , URL: /w/index.php?title=PocketBook_reader&action=edit&redlink=1
+","07+","?","?","?","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","No","No","Yes"
+"Snapplify","07+","?","?","?","No","No","Yes","No","Yes","No","No","No","Yes","Yes","?","?","?"
+"Socio eReader , URL: /w/index.php?title=Socio_eReader&action=edit&redlink=1
+","01+","?","?","?","No","No","Yes","No","No","No","No","No","No","No","?","?","?"
+"Product","Formats total #",".cbr",".cbz",".umd",".chm",".djvu",".epub",".fb2",".html",".mobi",".oeb",".rtf",".pdf",".txt",".doc",".docx",".pdb"

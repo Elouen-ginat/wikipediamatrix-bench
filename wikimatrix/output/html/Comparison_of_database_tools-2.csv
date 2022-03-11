@@ -1,0 +1,160 @@
+"","user manager","Plugin , URL: /wiki/Plug-in_(computing)
+","Compare","Import","Export","Debugger , URL: /wiki/Debugger
+","Source control , URL: /wiki/Source_control
+","Spatial Visualization"
+"Adminer , URL: /wiki/Adminer
+","Yes","Yes","Yes","zip , URL: /wiki/Zip_(file_format)
+gzip , URL: /wiki/Gzip
+bzip2 , URL: /wiki/Bzip2
+","zip , URL: /wiki/Zip_(file_format)
+gzip , URL: /wiki/Gzip
+bzip2 , URL: /wiki/Bzip2
+","No","Git , URL: /wiki/Git_(software)
+",""
+"Altova DatabaseSpy , URL: /wiki/DatabaseSpy
+","No","No","Yes","CSV, XML","XML, XML Structure, CSV, HTML, MS Excel","No","?",""
+"DaDaBIK","Some[15]","No","No","No","CSV , URL: /wiki/Comma-separated_values
+","Yes","No",""
+"Database Workbench , URL: /wiki/Database_Workbench
+","Yes","No","Yes","Yes","Yes","Yes","Yes[16]",""
+"DataGrip , URL: /wiki/DataGrip
+","No","Yes","Yes","Yes","TXT , URL: /wiki/Text_file
+CSV , URL: /wiki/Comma-separated_values
+HTML , URL: /wiki/HTML
+XML , URL: /wiki/XML
+DBF , URL: /wiki/DBase
+SQL script , URL: /wiki/SQL
+RTF , URL: /wiki/Rich_Text_Format
+MS Word , URL: /wiki/MS_Word
+MS Excel , URL: /wiki/MS_Excel
+MS Access , URL: /wiki/MS_Access
+MS Windows Clipboard , URL: /wiki/Clipboard_(computing)
+Paradox file , URL: /wiki/Paradox_(database)
+WK1 , URL: /wiki/Lotus_1-2-3
+WQ1 , URL: /wiki/Quattro_Pro
+SLK , URL: /wiki/SYmbolic_LinK_(SYLK)
+DIF , URL: /wiki/Data_Interchange_Format
+LDIF , URL: /wiki/LDAP_Data_Interchange_Format
+","No","Yes",""
+"DBeaver , URL: /wiki/DBeaver
+","Yes","Yes","Yes","Yes","Yes","No","Eclipse , URL: /wiki/Eclipse_(software)
+",""
+"DBEdit , URL: /wiki/DBEdit
+","No","No","No","No","MS Excel , URL: /wiki/MS_Excel
+PDF , URL: /wiki/PDF
+","No","?",""
+"DbVisualizer , URL: /w/index.php?title=DbVisualizer&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","Excel , URL: /wiki/MS_Excel
+CSV , URL: /wiki/Comma-separated_values
+","Yes","?",""
+"Epictetus , URL: /wiki/Epictetus_Database_Client
+","No","Yes","No","No","Excel","No","?",""
+"ModelRight , URL: /wiki/ModelRight
+","Some","Yes","Yes","Yes - from supported databases using native interfaces, or from any ODBC source","SQL , URL: /wiki/SQL
+XML , URL: /wiki/XML
+DTD , URL: /wiki/Document_Type_Definition
+JPEG , URL: /wiki/JPEG
+","No","?",""
+"Navicat , URL: /wiki/Navicat
+","Yes","No","Yes","TXT , URL: /wiki/Text_file
+CSV , URL: /wiki/Comma-separated_values
+DBF , URL: /wiki/DBase
+HTML , URL: /wiki/HTML
+MS Excel , URL: /wiki/MS_Excel
+MS Access , URL: /wiki/MS_Access
+Paradox file , URL: /wiki/Paradox_(database)
+WK1 , URL: /wiki/Lotus_1-2-3
+WQ1 , URL: /wiki/Quattro_Pro
+XML , URL: /wiki/XML
+","TXT , URL: /wiki/Text_file
+CSV , URL: /wiki/Comma-separated_values
+HTML , URL: /wiki/HTML
+XML , URL: /wiki/XML
+DBF , URL: /wiki/DBase
+SQL script , URL: /wiki/SQL
+RTF , URL: /wiki/Rich_Text_Format
+MS Word , URL: /wiki/MS_Word
+MS Excel , URL: /wiki/MS_Excel
+MS Access , URL: /wiki/MS_Access
+MS Windows Clipboard , URL: /wiki/Clipboard_(computing)
+Paradox file , URL: /wiki/Paradox_(database)
+WK1 , URL: /wiki/Lotus_1-2-3
+WQ1 , URL: /wiki/Quattro_Pro
+SLK , URL: /wiki/SYmbolic_LinK_(SYLK)
+DIF , URL: /wiki/Data_Interchange_Format
+LDIF , URL: /wiki/LDAP_Data_Interchange_Format
+","Yes","No",""
+"Navicat Data Modeler , URL: /wiki/Navicat
+","No","No","Yes","Yes - Import Database from server/ODBC","Yes - Export SQL","No","No",""
+"MySQL Workbench , URL: /wiki/MySQL_Workbench
+","Yes","Yes","Yes","CSV , URL: /wiki/Comma-separated_values
+HTML , URL: /wiki/HTML
+JSON , URL: /wiki/JSON
+MS Excel , URL: /wiki/MS_Excel
+XML , URL: /wiki/XML
+","CSV , URL: /wiki/Comma-separated_values
+HTML , URL: /wiki/HTML
+JSON , URL: /wiki/JSON
+MS Excel , URL: /wiki/MS_Excel
+XML , URL: /wiki/XML
+","Yes","No",""
+"Oracle SQL Developer , URL: /wiki/Oracle_SQL_Developer
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Orbada , URL: /wiki/Orbada
+","No","Yes","Yes","SQL script","SQL script, CSV, XML, HTML, PDF, Excel, DBF, DataText","No","No",""
+"pgAdmin , URL: /wiki/PgAdmin_III
+","Yes","Yes","No","CSV , URL: /wiki/Comma-separated_values
+Text , URL: /wiki/Text_file
+","CSV , URL: /wiki/Comma-separated_values
+text , URL: /wiki/Text_file
+HTML , URL: /wiki/HTML
+XML , URL: /wiki/XML
+","Yes","No",""
+"phpMyAdmin , URL: /wiki/PhpMyAdmin
+","Yes","Some","Yes","CSV , URL: /wiki/Comma-separated_values
+SQL , URL: /wiki/SQL
+XML , URL: /wiki/XML
+Excel , URL: /wiki/Microsoft_Excel
+ODS , URL: /wiki/OpenDocument
+","CSV , URL: /wiki/Comma-separated_values
+LaTeX , URL: /wiki/LaTeX
+Excel , URL: /wiki/Microsoft_Excel
+Word , URL: /wiki/Microsoft_Word
+ODS , URL: /wiki/OpenDocument
+ODT , URL: /wiki/OpenDocument
+XML , URL: /wiki/XML
+SQL , URL: /wiki/SQL
+YAML , URL: /wiki/YAML
+Texy! , URL: /wiki/Texy!
+JSON , URL: /wiki/JSON
+NHibernate , URL: /wiki/NHibernate
+PHP , URL: /wiki/PHP
+PDF , URL: /wiki/PDF
+MediaWiki , URL: /wiki/MediaWiki
+","Yes","Git , URL: /wiki/Git_(software)
+",""
+"SQL Database Studio , URL: /wiki/SQL_Database_Studio
+","Yes","Yes","No","CSV , URL: /wiki/Comma-separated_values
+XML , URL: /wiki/XML
+MS Excel , URL: /wiki/MS_Excel
+","CSV , URL: /wiki/Comma-separated_values
+HTML , URL: /wiki/HTML
+MS Excel , URL: /wiki/MS_Excel
+XML , URL: /wiki/XML
+","No","No",""
+"SQLyog , URL: /wiki/SQLyog
+","Yes","?","Yes","Yes","Yes","?","?",""
+"SQL Server Management Studio , URL: /wiki/SQL_Server_Management_Studio
+","Yes","Yes","?","Yes","Yes","Yes","Yes[18]","Yes"
+"SQuirreL SQL , URL: /wiki/SQuirreL_SQL
+","?","Yes","Yes","Yes","?","No","?",""
+"Toad , URL: /wiki/Toad_(software)
+","Some","No","Yes","Yes","Yes","Yes","SVN , URL: /wiki/Subversion_(software)
+CVS , URL: /wiki/Concurrent_Versions_System
+TFS , URL: /wiki/Team_Foundation_Server
+VSS , URL: /wiki/Microsoft_Visual_SourceSafe
+",""
+"Toad Data Modeler , URL: /wiki/Toad_Data_Modeler
+","No","?","Yes","Toad for Oracle ERD, ERWin 7.1(XML) via plugin","SQL; meta data in XML; report in HTML/RTF/CSV; diagram as BMP, JPEG, PNG","No","?",""
+"TOra , URL: /wiki/TOra
+","Some","No","Yes","Yes","Yes","Yes","No",""

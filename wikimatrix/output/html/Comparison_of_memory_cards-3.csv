@@ -1,0 +1,151 @@
+"Card","Varieties","nom. , URL: https://en.wiktionary.org/wiki/nominal
+GiB , URL: /wiki/Gibibyte
+","nom. , URL: https://en.wiktionary.org/wiki/nominal
+GiB , URL: /wiki/Gibibyte
+","MB , URL: /wiki/Megabyte
+","Max write speed (MB/s)","Read-write cycles","Low-level access","Operating voltage (V)[11]","Controller chip[12]","# of pins"
+"CompactFlash , URL: /wiki/CompactFlash
+","I","512","PiB , URL: /wiki/Pebibyte
+GiB , URL: /wiki/Gibibyte
+","167[13]","167[13]","","NOR , URL: /wiki/Flash_memory#NOR_memories
+NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3 and 5","Yes","50"
+"CompactFlash , URL: /wiki/CompactFlash
+","II","12","PiB , URL: /wiki/Pebibyte
+GiB , URL: /wiki/Gibibyte
+","167[13]","167[13]","","NOR , URL: /wiki/Flash_memory#NOR_memories
+NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3 and 5","Yes","50"
+"SmartMedia , URL: /wiki/SmartMedia
+","","MiB , URL: /wiki/Mebibyte
+GiB , URL: /wiki/Gibibyte
+","","2","","1,000,000","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3 or 5","No","22"
+"MMC , URL: /wiki/Multimedia_Card
+","MMC","8","128","2","2","1,000,000[14]","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","Yes","7"
+"MMC , URL: /wiki/Multimedia_Card
+","RS-MMC","2","128","2[15]","2[15]","1,000,000[14]","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","Yes","7"
+"MMC , URL: /wiki/Multimedia_Card
+","MMCmobile","2","128","15[16]","8[16]","1,000,000[14]","NAND , URL: /wiki/Flash_memory#NAND_memories
+","1.8 and 3.3","Yes","13"
+"MMC , URL: /wiki/Multimedia_Card
+","MMCplus","4[17]","128","52[18]","52[18]","1,000,000[14]","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","Yes","13"
+"MMC , URL: /wiki/Multimedia_Card
+","MMCmicro","2","128","","","1,000,000[14]","NAND , URL: /wiki/Flash_memory#NAND_memories
+","1.8 and 3.3","Yes","10[19]"
+"MMC , URL: /wiki/Multimedia_Card
+","eMMC","","TiB , URL: /wiki/Tebibyte
+GiB , URL: /wiki/Gibibyte
+","104","104","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","1.8 and 3.3","Yes","Varies"
+"Secure Digital , URL: /wiki/Secure_Digital
+","SDSC , URL: /wiki/Secure_Digital_Standard_Capacity
+","512","4","25[21]","25","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","Yes","9"
+"Secure Digital , URL: /wiki/Secure_Digital
+","miniSD , URL: /wiki/MiniSD
+","8","4","25","25","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","Yes","11"
+"Secure Digital , URL: /wiki/Secure_Digital
+","microSD , URL: /wiki/MicroSD
+","4","4","25","25","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","Yes","8"
+"Secure Digital , URL: /wiki/Secure_Digital
+","SDHC , URL: /wiki/SDHC
+","32[22]","32","UHS-I , URL: /wiki/UHS-I
+","UHS-I , URL: /wiki/UHS-I
+","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","1.8 and 3.3","Yes","9"
+"Secure Digital , URL: /wiki/Secure_Digital
+","miniSDHC , URL: /wiki/MiniSDHC
+","4[23]","32","UHS-I , URL: /wiki/UHS-I
+","UHS-I , URL: /wiki/UHS-I
+","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","1.8 and 3.3","Yes","11"
+"Secure Digital , URL: /wiki/Secure_Digital
+","microSDHC , URL: /wiki/MicroSDHC
+","32[4]","32","UHS-I , URL: /wiki/UHS-I
+","UHS-I , URL: /wiki/UHS-I
+","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","1.8 and 3.3","Yes","8"
+"Secure Digital , URL: /wiki/Secure_Digital
+","SDXC , URL: /wiki/SDXC
+","512[24]","TiB , URL: /wiki/Tebibyte
+GiB , URL: /wiki/Gibibyte
+","UHS-I , URL: /wiki/UHS-I
+","104","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","2.7–3.6[25]","Yes","9"
+"Secure Digital , URL: /wiki/Secure_Digital
+","microSDXC , URL: /wiki/MicroSDXC
+","1 TiB [26]","TiB , URL: /wiki/Tebibyte
+GiB , URL: /wiki/Gibibyte
+","UHS-I , URL: /wiki/UHS-I
+","UHS-I , URL: /wiki/UHS-I
+","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","2.7–3.6[25]","Yes","8"
+"Memory Stick , URL: /wiki/Memory_Stick
+","Standard","MiB , URL: /wiki/Mebibyte
+GiB , URL: /wiki/Gibibyte
+","MiB , URL: /wiki/Mebibyte
+GiB , URL: /wiki/Gibibyte
+","2.5","1.8","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","Yes","10"
+"Memory Stick , URL: /wiki/Memory_Stick
+","PRO","4","TiB , URL: /wiki/Tebibyte
+GiB , URL: /wiki/Gibibyte
+","20","20","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","Yes","10"
+"Memory Stick , URL: /wiki/Memory_Stick
+","PRO Duo","32[27]","TiB , URL: /wiki/Tebibyte
+GiB , URL: /wiki/Gibibyte
+","20","20","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","Yes","10"
+"Memory Stick , URL: /wiki/Memory_Stick
+","PRO-HG Duo","32[28]","TiB , URL: /wiki/Tebibyte
+GiB , URL: /wiki/Gibibyte
+","30 (actual;[29] theoretical: 60[30])","30 (actual;[29] theoretical: 60[30])","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","Yes","10"
+"Memory Stick , URL: /wiki/Memory_Stick
+","Micro (M2)","16[31]","32","20","20","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","1.8 and 3.3","Yes","10"
+"Memory Stick , URL: /wiki/Memory_Stick
+","xC","","TiB , URL: /wiki/Tebibyte
+GiB , URL: /wiki/Gibibyte
+","60","60","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","Yes","10"
+"xD , URL: /wiki/XD-Picture_Card
+","","MiB , URL: /wiki/Mebibyte
+GiB , URL: /wiki/Gibibyte
+","MiB , URL: /wiki/Mebibyte
+GiB , URL: /wiki/Gibibyte
+","5","3","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","No","18"
+"xD , URL: /wiki/XD-Picture_Card
+","Type M","2","8","4","2.5","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","No","18"
+"xD , URL: /wiki/XD-Picture_Card
+","Type H","2","8","5","4","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","No","18"
+"xD , URL: /wiki/XD-Picture_Card
+","Type M+","2","8","6","3.75","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","3.3","No","18"
+"XQD , URL: /wiki/XQD
+","","64","TiB , URL: /wiki/Tebibyte
+GiB , URL: /wiki/Gibibyte
+","168","168","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","5","",""
+"USB , URL: /wiki/USB_flash_drive
+","Full speed (USB 1)","TiB , URL: /wiki/Tebibyte
+","No hardware limit","1","1","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","5","Yes","4"
+"USB , URL: /wiki/USB_flash_drive
+","High speed (USB 2.0)","TiB , URL: /wiki/Tebibyte
+","No hardware limit","40","40","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","5","Yes","4"
+"USB , URL: /wiki/USB_flash_drive
+","Super speed (USB 3.0)","TiB , URL: /wiki/Tebibyte
+","No hardware limit","240","160","","NAND , URL: /wiki/Flash_memory#NAND_memories
+","5","Yes","4"

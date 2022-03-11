@@ -1,0 +1,608 @@
+"Application and developer","Platform","Latest release","Latest release","License , URL: /wiki/Software_license
+","Schematic , URL: /wiki/Schematic_capture
+","Simulation , URL: /wiki/Electronic_circuit_simulation
+","PCB , URL: /wiki/Printed_circuit_board
+","User Interface Language(s)","Imports","Exports","Scripting support"
+"Application and developer","Platform","Version , URL: /wiki/Software_versioning
+","Date","License , URL: /wiki/Software_license
+","Schematic , URL: /wiki/Schematic_capture
+","Simulation , URL: /wiki/Electronic_circuit_simulation
+","PCB , URL: /wiki/Printed_circuit_board
+","User Interface Language(s)","Imports","Exports","Scripting support"
+"Active-HDL , URL: /wiki/Aldec
+Aldec , URL: /wiki/Aldec
+","Windows","10.3","2016-03-16","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","en , URL: /wiki/English_language
+","EDIF, Viewlogic, more","PDF, HTML, Verilog, VHDL, EDIF, Zuken, more",""
+"Advanced Design System , URL: /wiki/Advanced_Design_System
+EEsof , URL: /wiki/EEsof
+","POSIX , URL: /wiki/Unix-like
+","2019[2]","2018-11-15","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","Gerber , URL: /wiki/Gerber_file
+Excellon , URL: /wiki/Excellon_file
+ODB++ , URL: /wiki/ODB%2B%2B
+","HSPICE, SPICE, Spectre netlists; Gerber, Excellon, ODB++, artwork; more","Python, Application Extension Language (proprietary; "AEL")"
+"Advanced Design System , URL: /wiki/Advanced_Design_System
+EEsof , URL: /wiki/EEsof
+","Windows[1]","2019[2]","2018-11-15","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","Gerber , URL: /wiki/Gerber_file
+Excellon , URL: /wiki/Excellon_file
+ODB++ , URL: /wiki/ODB%2B%2B
+","HSPICE, SPICE, Spectre netlists; Gerber, Excellon, ODB++, artwork; more","Python, Application Extension Language (proprietary; "AEL")"
+"Advanced Design System , URL: /wiki/Advanced_Design_System
+EEsof , URL: /wiki/EEsof
+","SuSE , URL: /wiki/SuSE
+","2019[2]","2018-11-15","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","Gerber , URL: /wiki/Gerber_file
+Excellon , URL: /wiki/Excellon_file
+ODB++ , URL: /wiki/ODB%2B%2B
+","HSPICE, SPICE, Spectre netlists; Gerber, Excellon, ODB++, artwork; more","Python, Application Extension Language (proprietary; "AEL")"
+"Advanced Design System , URL: /wiki/Advanced_Design_System
+EEsof , URL: /wiki/EEsof
+","RHEL , URL: /wiki/RHEL
+","2019[2]","2018-11-15","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","Gerber , URL: /wiki/Gerber_file
+Excellon , URL: /wiki/Excellon_file
+ODB++ , URL: /wiki/ODB%2B%2B
+","HSPICE, SPICE, Spectre netlists; Gerber, Excellon, ODB++, artwork; more","Python, Application Extension Language (proprietary; "AEL")"
+"Altium Designer , URL: /wiki/Altium_Designer
+Altium , URL: /wiki/Altium
+","Windows","21.5.1[3]","2021-06-22","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Multilingual","OrCAD, Allegro, PADS Logic, PADS PCB, Expedition, DxDesigner, EAGLE, P-CAD, Gerber, STEP, Solidworks, IDF, more","3D PDF, Gerber, Gerber X2, Excellon, ODB++, DXF, STEP, OrCAD, EAGLE, more","Delphi, JS, VB"
+"Altium Designer , URL: /wiki/Altium_Designer
+Altium , URL: /wiki/Altium
+","Wine , URL: /wiki/Wine_(software)
+","21.5.1[3]","2021-06-22","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","Multilingual","OrCAD, Allegro, PADS Logic, PADS PCB, Expedition, DxDesigner, EAGLE, P-CAD, Gerber, STEP, Solidworks, IDF, more","3D PDF, Gerber, Gerber X2, Excellon, ODB++, DXF, STEP, OrCAD, EAGLE, more","Delphi, JS, VB"
+"CADSTAR , URL: /wiki/CADSTAR
+Zuken , URL: /wiki/Zuken
+","Windows","2019.0.0.1","2019-11-18","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes, SI & PI","Yes","en , URL: /wiki/English_language
+","PADS, OrCAD, P-CAD, Protel, DXF, IDF","PDF, Gerber, Excellon, ODB++, DXF, IDF more","COM, macros"
+"CircuitLogix , URL: /wiki/CircuitLogix
+","Windows","10","2019-01","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","SPICE, Gerber, DXF","SPICE, PDF, Gerber, DXF",""
+"CircuitMaker , URL: /wiki/CircuitMaker
+Altium , URL: /wiki/Altium
+","Windows","2","2021-07","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","Yes","en , URL: /wiki/English_language
+","Importer Removed since Last Version (1.3)","Gerber, Excellon, DXF, STEP, PDF","None"
+"CircuitMaker , URL: /wiki/CircuitMaker
+Altium , URL: /wiki/Altium
+","Wine , URL: /wiki/Wine_(software)
+","2","2021-07","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","Yes","en , URL: /wiki/English_language
+","Importer Removed since Last Version (1.3)","Gerber, Excellon, DXF, STEP, PDF","None"
+"CR-5000 , URL: /wiki/CR-5000
+Zuken , URL: /wiki/Zuken
+","POSIX , URL: /wiki/Unix-like
+","13","2011-05-17","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes, SI & PI","Yes","en , URL: /wiki/English_language
+jp , URL: /wiki/Japanese_language
+","EDIF, DXF, IGES, IDF, BSDL, STEP, ACIS, Gerber, Excellon, more","PDF, Gerber, Excellon, ODB++ (must request[4]), DXF, STEP, IPC D-356, IPC-2581, EPS, ACIS",""
+"CR-5000 , URL: /wiki/CR-5000
+Zuken , URL: /wiki/Zuken
+","Windows","13","2011-05-17","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes, SI & PI","Yes","en , URL: /wiki/English_language
+jp , URL: /wiki/Japanese_language
+","EDIF, DXF, IGES, IDF, BSDL, STEP, ACIS, Gerber, Excellon, more","PDF, Gerber, Excellon, ODB++ (must request[4]), DXF, STEP, IPC D-356, IPC-2581, EPS, ACIS",""
+"CR-5000 , URL: /wiki/CR-5000
+Zuken , URL: /wiki/Zuken
+","Unix , URL: /wiki/Unix
+","13","2011-05-17","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes, SI & PI","Yes","en , URL: /wiki/English_language
+jp , URL: /wiki/Japanese_language
+","EDIF, DXF, IGES, IDF, BSDL, STEP, ACIS, Gerber, Excellon, more","PDF, Gerber, Excellon, ODB++ (must request[4]), DXF, STEP, IPC D-356, IPC-2581, EPS, ACIS",""
+"CR-5000 , URL: /wiki/CR-5000
+Zuken , URL: /wiki/Zuken
+","Linux , URL: /wiki/Linux
+","13","2011-05-17","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes, SI & PI","Yes","en , URL: /wiki/English_language
+jp , URL: /wiki/Japanese_language
+","EDIF, DXF, IGES, IDF, BSDL, STEP, ACIS, Gerber, Excellon, more","PDF, Gerber, Excellon, ODB++ (must request[4]), DXF, STEP, IPC D-356, IPC-2581, EPS, ACIS",""
+"CR-8000 , URL: /wiki/CR-8000
+Zuken , URL: /wiki/Zuken
+","POSIX , URL: /wiki/Unix-like
+","2020","2020-06-30","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes, SI & PI, IBIS-AMI/SERDES","Yes","en , URL: /wiki/English_language
+jp , URL: /wiki/Japanese_language
+","EDIF, DXF, IGES, IDF, BSDL, STEP, ACIS, Gerber, Excellon, more","PDF, Gerber, Excellon, ODB++ (must request[4]), DXF, STEP, IPC D-356, IPC-2581, EPS, ACIS",""
+"CR-8000 , URL: /wiki/CR-8000
+Zuken , URL: /wiki/Zuken
+","Windows","2020","2020-06-30","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes, SI & PI, IBIS-AMI/SERDES","Yes","en , URL: /wiki/English_language
+jp , URL: /wiki/Japanese_language
+","EDIF, DXF, IGES, IDF, BSDL, STEP, ACIS, Gerber, Excellon, more","PDF, Gerber, Excellon, ODB++ (must request[4]), DXF, STEP, IPC D-356, IPC-2581, EPS, ACIS",""
+"CR-8000 , URL: /wiki/CR-8000
+Zuken , URL: /wiki/Zuken
+","Unix , URL: /wiki/Unix
+","2020","2020-06-30","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes, SI & PI, IBIS-AMI/SERDES","Yes","en , URL: /wiki/English_language
+jp , URL: /wiki/Japanese_language
+","EDIF, DXF, IGES, IDF, BSDL, STEP, ACIS, Gerber, Excellon, more","PDF, Gerber, Excellon, ODB++ (must request[4]), DXF, STEP, IPC D-356, IPC-2581, EPS, ACIS",""
+"CR-8000 , URL: /wiki/CR-8000
+Zuken , URL: /wiki/Zuken
+","Linux , URL: /wiki/Linux
+","2020","2020-06-30","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes, SI & PI, IBIS-AMI/SERDES","Yes","en , URL: /wiki/English_language
+jp , URL: /wiki/Japanese_language
+","EDIF, DXF, IGES, IDF, BSDL, STEP, ACIS, Gerber, Excellon, more","PDF, Gerber, Excellon, ODB++ (must request[4]), DXF, STEP, IPC D-356, IPC-2581, EPS, ACIS",""
+"DesignSpark PCB , URL: /wiki/DesignSpark_PCB
+RS Components , URL: /wiki/RS_Components
+","Windows","9.0.3","2020-07-08","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes, Spice","Yes","en , URL: /wiki/English_language
+","EAGLE, DXF, EDIF","Gerber, Excellon, ODB++, DXF, IDF, PDF, LPKF",""
+"DesignSpark PCB Pro , URL: /wiki/DesignSpark_PCB_Pro
+RS Components , URL: /wiki/RS_Components
+","Windows","9.0.3","2020-07-08","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes, Spice","Yes","en , URL: /wiki/English_language
+","EAGLE, OrCAD, Easy-PC, NI Ultiboard, BoardMaker, DXF, PNL, EDIF","Gerber, Excellon, ODB++, DXF, IDF, PDF, LPKF",""
+"DipTrace , URL: /wiki/DipTrace
+Novarm , URL: /wiki/Novarm
+","POSIX , URL: /wiki/Unix-like
+","4.2.0.1","2021-11-18","Proprietary , URL: /wiki/Proprietary_software
+","Yes","External (Spice netlist export)","Yes","21 languages","Altium, Eagle, KiCad, OrCAD, P-CAD, PADS, Gerber, N/C Drill, DXF, BSDL Pinlist, Netlists","Gerber, Gerber X2, Excellon, ODB++, DXF, Eagle, P-CAD, PADS, OrCAD, IPC-D-356, STEP, VRML, Pick and Place, CSV, BOM",""
+"DipTrace , URL: /wiki/DipTrace
+Novarm , URL: /wiki/Novarm
+","Windows","4.2.0.1","2021-11-18","Proprietary , URL: /wiki/Proprietary_software
+","Yes","External (Spice netlist export)","Yes","21 languages","Altium, Eagle, KiCad, OrCAD, P-CAD, PADS, Gerber, N/C Drill, DXF, BSDL Pinlist, Netlists","Gerber, Gerber X2, Excellon, ODB++, DXF, Eagle, P-CAD, PADS, OrCAD, IPC-D-356, STEP, VRML, Pick and Place, CSV, BOM",""
+"DipTrace , URL: /wiki/DipTrace
+Novarm , URL: /wiki/Novarm
+","Mac , URL: /wiki/Macintosh
+","4.2.0.1","2021-11-18","Proprietary , URL: /wiki/Proprietary_software
+","Yes","External (Spice netlist export)","Yes","21 languages","Altium, Eagle, KiCad, OrCAD, P-CAD, PADS, Gerber, N/C Drill, DXF, BSDL Pinlist, Netlists","Gerber, Gerber X2, Excellon, ODB++, DXF, Eagle, P-CAD, PADS, OrCAD, IPC-D-356, STEP, VRML, Pick and Place, CSV, BOM",""
+"DipTrace , URL: /wiki/DipTrace
+Novarm , URL: /wiki/Novarm
+","Wine , URL: /wiki/Wine_(software)
+","4.2.0.1","2021-11-18","Proprietary , URL: /wiki/Proprietary_software
+","Yes","External (Spice netlist export)","Yes","21 languages","Altium, Eagle, KiCad, OrCAD, P-CAD, PADS, Gerber, N/C Drill, DXF, BSDL Pinlist, Netlists","Gerber, Gerber X2, Excellon, ODB++, DXF, Eagle, P-CAD, PADS, OrCAD, IPC-D-356, STEP, VRML, Pick and Place, CSV, BOM",""
+"EAGLE , URL: /wiki/EAGLE_(program)
+Autodesk , URL: /wiki/Autodesk
+CadSoft Computer , URL: /wiki/CadSoft_Computer
+","POSIX , URL: /wiki/Unix-like
+","9.6.2","2020-05-27","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Ngspice , URL: /wiki/Ngspice
+","Yes","de , URL: /wiki/German_language
+en , URL: /wiki/English_language
+zh , URL: /wiki/Chinese_language
+hu , URL: /wiki/Hungarian_language
+ru , URL: /wiki/Russian_language
+","EAGLE (XML), ACCEL (P-CAD, Altium, Protel), ULTIBOARD, Netlists, BMP, Custom","Sieb & Meyer , URL: /wiki/Sieb_%26_Meyer
+","Proprietary User Language Programming (ULP)"
+"EAGLE , URL: /wiki/EAGLE_(program)
+Autodesk , URL: /wiki/Autodesk
+CadSoft Computer , URL: /wiki/CadSoft_Computer
+","Windows","9.6.2","2020-05-27","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Ngspice , URL: /wiki/Ngspice
+","Yes","de , URL: /wiki/German_language
+en , URL: /wiki/English_language
+zh , URL: /wiki/Chinese_language
+hu , URL: /wiki/Hungarian_language
+ru , URL: /wiki/Russian_language
+","EAGLE (XML), ACCEL (P-CAD, Altium, Protel), ULTIBOARD, Netlists, BMP, Custom","Sieb & Meyer , URL: /wiki/Sieb_%26_Meyer
+","Proprietary User Language Programming (ULP)"
+"EAGLE , URL: /wiki/EAGLE_(program)
+Autodesk , URL: /wiki/Autodesk
+CadSoft Computer , URL: /wiki/CadSoft_Computer
+","Linux , URL: /wiki/Linux
+","9.6.2","2020-05-27","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Ngspice , URL: /wiki/Ngspice
+","Yes","de , URL: /wiki/German_language
+en , URL: /wiki/English_language
+zh , URL: /wiki/Chinese_language
+hu , URL: /wiki/Hungarian_language
+ru , URL: /wiki/Russian_language
+","EAGLE (XML), ACCEL (P-CAD, Altium, Protel), ULTIBOARD, Netlists, BMP, Custom","Sieb & Meyer , URL: /wiki/Sieb_%26_Meyer
+","Proprietary User Language Programming (ULP)"
+"EAGLE , URL: /wiki/EAGLE_(program)
+Autodesk , URL: /wiki/Autodesk
+CadSoft Computer , URL: /wiki/CadSoft_Computer
+","Mac , URL: /wiki/Macintosh
+","9.6.2","2020-05-27","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Ngspice , URL: /wiki/Ngspice
+","Yes","de , URL: /wiki/German_language
+en , URL: /wiki/English_language
+zh , URL: /wiki/Chinese_language
+hu , URL: /wiki/Hungarian_language
+ru , URL: /wiki/Russian_language
+","EAGLE (XML), ACCEL (P-CAD, Altium, Protel), ULTIBOARD, Netlists, BMP, Custom","Sieb & Meyer , URL: /wiki/Sieb_%26_Meyer
+","Proprietary User Language Programming (ULP)"
+"EasyEDA , URL: /wiki/EasyEDA
+","POSIX , URL: /wiki/Unix-like
+","6.4.5","2020-08-19","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Ngspice , URL: /wiki/Ngspice
+","Yes","en , URL: /wiki/English_language
+fr , URL: /wiki/French_language
+de , URL: /wiki/German_language
+pl , URL: /wiki/Polish_language
+jp , URL: /wiki/Japanese_language
+ru , URL: /wiki/Russian_language
+es , URL: /wiki/Spanish_language
+se , URL: /wiki/Swedish_language
+ua , URL: /wiki/Ukrainian_language
+zh , URL: /wiki/Chinese_language
+","Altium, EAGLE, KiCad libraries, LTspice .asc/.asy files, JSON, Spice","PDF, PNG, SVG, JSON, Gerber, Excellon, Pick and Place CSV file, CSV-formatted drill chart, Bill of Materials CSV file, Altium netlist, FreePCB netlist, PADS Layout Netlist, Spice netlist.","JSON"
+"EasyEDA , URL: /wiki/EasyEDA
+","Windows","6.4.5","2020-08-19","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Ngspice , URL: /wiki/Ngspice
+","Yes","en , URL: /wiki/English_language
+fr , URL: /wiki/French_language
+de , URL: /wiki/German_language
+pl , URL: /wiki/Polish_language
+jp , URL: /wiki/Japanese_language
+ru , URL: /wiki/Russian_language
+es , URL: /wiki/Spanish_language
+se , URL: /wiki/Swedish_language
+ua , URL: /wiki/Ukrainian_language
+zh , URL: /wiki/Chinese_language
+","Altium, EAGLE, KiCad libraries, LTspice .asc/.asy files, JSON, Spice","PDF, PNG, SVG, JSON, Gerber, Excellon, Pick and Place CSV file, CSV-formatted drill chart, Bill of Materials CSV file, Altium netlist, FreePCB netlist, PADS Layout Netlist, Spice netlist.","JSON"
+"EasyEDA , URL: /wiki/EasyEDA
+","Linux , URL: /wiki/Linux
+","6.4.5","2020-08-19","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Ngspice , URL: /wiki/Ngspice
+","Yes","en , URL: /wiki/English_language
+fr , URL: /wiki/French_language
+de , URL: /wiki/German_language
+pl , URL: /wiki/Polish_language
+jp , URL: /wiki/Japanese_language
+ru , URL: /wiki/Russian_language
+es , URL: /wiki/Spanish_language
+se , URL: /wiki/Swedish_language
+ua , URL: /wiki/Ukrainian_language
+zh , URL: /wiki/Chinese_language
+","Altium, EAGLE, KiCad libraries, LTspice .asc/.asy files, JSON, Spice","PDF, PNG, SVG, JSON, Gerber, Excellon, Pick and Place CSV file, CSV-formatted drill chart, Bill of Materials CSV file, Altium netlist, FreePCB netlist, PADS Layout Netlist, Spice netlist.","JSON"
+"EasyEDA , URL: /wiki/EasyEDA
+","Mac , URL: /wiki/Macintosh
+","6.4.5","2020-08-19","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Ngspice , URL: /wiki/Ngspice
+","Yes","en , URL: /wiki/English_language
+fr , URL: /wiki/French_language
+de , URL: /wiki/German_language
+pl , URL: /wiki/Polish_language
+jp , URL: /wiki/Japanese_language
+ru , URL: /wiki/Russian_language
+es , URL: /wiki/Spanish_language
+se , URL: /wiki/Swedish_language
+ua , URL: /wiki/Ukrainian_language
+zh , URL: /wiki/Chinese_language
+","Altium, EAGLE, KiCad libraries, LTspice .asc/.asy files, JSON, Spice","PDF, PNG, SVG, JSON, Gerber, Excellon, Pick and Place CSV file, CSV-formatted drill chart, Bill of Materials CSV file, Altium netlist, FreePCB netlist, PADS Layout Netlist, Spice netlist.","JSON"
+"EasyEDA , URL: /wiki/EasyEDA
+","Chrome OS , URL: /wiki/Chrome_OS
+Web application , URL: /wiki/Web_application
+","6.4.5","2020-08-19","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Ngspice , URL: /wiki/Ngspice
+","Yes","en , URL: /wiki/English_language
+fr , URL: /wiki/French_language
+de , URL: /wiki/German_language
+pl , URL: /wiki/Polish_language
+jp , URL: /wiki/Japanese_language
+ru , URL: /wiki/Russian_language
+es , URL: /wiki/Spanish_language
+se , URL: /wiki/Swedish_language
+ua , URL: /wiki/Ukrainian_language
+zh , URL: /wiki/Chinese_language
+","Altium, EAGLE, KiCad libraries, LTspice .asc/.asy files, JSON, Spice","PDF, PNG, SVG, JSON, Gerber, Excellon, Pick and Place CSV file, CSV-formatted drill chart, Bill of Materials CSV file, Altium netlist, FreePCB netlist, PADS Layout Netlist, Spice netlist.","JSON"
+"Fritzing , URL: /wiki/Fritzing
+","POSIX , URL: /wiki/Unix-like
+","
+URL: https://www.wikidata.org/wiki/Q2463610?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-09-24 (2021-09-24)","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes, + breadboard","No","Yes","en , URL: /wiki/English_language
+de , URL: /wiki/German_language
+nl , URL: /wiki/Dutch_language
+es , URL: /wiki/Spanish_language
+it , URL: /wiki/Italian_language
+fr , URL: /wiki/French_language
+pt , URL: /wiki/Portuguese_language
+ru , URL: /wiki/Russian_language
+zh , URL: /wiki/Chinese_language
+jp , URL: /wiki/Japanese_language
+","gEDA symbols, KiCad symbols, SVG","Gerber, DIY etching, BOM, SVG, PDF, EPS",""
+"Fritzing , URL: /wiki/Fritzing
+","Windows","
+URL: https://www.wikidata.org/wiki/Q2463610?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-09-24 (2021-09-24)","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes, + breadboard","No","Yes","en , URL: /wiki/English_language
+de , URL: /wiki/German_language
+nl , URL: /wiki/Dutch_language
+es , URL: /wiki/Spanish_language
+it , URL: /wiki/Italian_language
+fr , URL: /wiki/French_language
+pt , URL: /wiki/Portuguese_language
+ru , URL: /wiki/Russian_language
+zh , URL: /wiki/Chinese_language
+jp , URL: /wiki/Japanese_language
+","gEDA symbols, KiCad symbols, SVG","Gerber, DIY etching, BOM, SVG, PDF, EPS",""
+"Fritzing , URL: /wiki/Fritzing
+","Linux , URL: /wiki/Linux
+","
+URL: https://www.wikidata.org/wiki/Q2463610?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-09-24 (2021-09-24)","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes, + breadboard","No","Yes","en , URL: /wiki/English_language
+de , URL: /wiki/German_language
+nl , URL: /wiki/Dutch_language
+es , URL: /wiki/Spanish_language
+it , URL: /wiki/Italian_language
+fr , URL: /wiki/French_language
+pt , URL: /wiki/Portuguese_language
+ru , URL: /wiki/Russian_language
+zh , URL: /wiki/Chinese_language
+jp , URL: /wiki/Japanese_language
+","gEDA symbols, KiCad symbols, SVG","Gerber, DIY etching, BOM, SVG, PDF, EPS",""
+"Fritzing , URL: /wiki/Fritzing
+","Mac , URL: /wiki/Macintosh
+","
+URL: https://www.wikidata.org/wiki/Q2463610?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-09-24 (2021-09-24)","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes, + breadboard","No","Yes","en , URL: /wiki/English_language
+de , URL: /wiki/German_language
+nl , URL: /wiki/Dutch_language
+es , URL: /wiki/Spanish_language
+it , URL: /wiki/Italian_language
+fr , URL: /wiki/French_language
+pt , URL: /wiki/Portuguese_language
+ru , URL: /wiki/Russian_language
+zh , URL: /wiki/Chinese_language
+jp , URL: /wiki/Japanese_language
+","gEDA symbols, KiCad symbols, SVG","Gerber, DIY etching, BOM, SVG, PDF, EPS",""
+"gEDA , URL: /wiki/GEDA
+","POSIX , URL: /wiki/Unix-like
+","
+URL: https://www.wikidata.org/wiki/Q287588?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2020-12-22 (2020-12-22)","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","gschem netlists, image as background","Gerber, Excellon, SVG, PDF, EPS, PNG, GIF, JPEG, Specctra, XYRS","Guile (Scheme)"
+"gEDA , URL: /wiki/GEDA
+","Windows","
+URL: https://www.wikidata.org/wiki/Q287588?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2020-12-22 (2020-12-22)","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","gschem netlists, image as background","Gerber, Excellon, SVG, PDF, EPS, PNG, GIF, JPEG, Specctra, XYRS","Guile (Scheme)"
+"gEDA , URL: /wiki/GEDA
+","Linux , URL: /wiki/Linux
+","
+URL: https://www.wikidata.org/wiki/Q287588?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2020-12-22 (2020-12-22)","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","gschem netlists, image as background","Gerber, Excellon, SVG, PDF, EPS, PNG, GIF, JPEG, Specctra, XYRS","Guile (Scheme)"
+"gEDA , URL: /wiki/GEDA
+","Mac , URL: /wiki/Macintosh
+","
+URL: https://www.wikidata.org/wiki/Q287588?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2020-12-22 (2020-12-22)","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","gschem netlists, image as background","Gerber, Excellon, SVG, PDF, EPS, PNG, GIF, JPEG, Specctra, XYRS","Guile (Scheme)"
+"KiCad , URL: /wiki/KiCad
+","POSIX , URL: /wiki/Unix-like
+","
+URL: https://www.wikidata.org/wiki/Q942363?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-01-15 (2022-01-15)","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","Ngspice , URL: /wiki/Ngspice
+SPICE , URL: /wiki/SPICE
+","Yes","zh_CN , URL: /wiki/Chinese_language
+de , URL: /wiki/German_language
+en , URL: /wiki/English_language
+es , URL: /wiki/Spanish_language
+fr , URL: /wiki/French_language
+it , URL: /wiki/Italian_language
+pt , URL: /wiki/Portuguese_language
+ru , URL: /wiki/Russian_language
+ja , URL: /wiki/Japanese_language
+pl , URL: /wiki/Polish_language
+cz , URL: /wiki/Czech_language
+","TinyCAD net lists, OrCAD EDIF, EAGLE (XML)","PDF, Gerber, Gerber X2, Excellon, netlist, VRML2, STEP, IDFv3","Python"
+"KiCad , URL: /wiki/KiCad
+","Windows","
+URL: https://www.wikidata.org/wiki/Q942363?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-01-15 (2022-01-15)","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","Ngspice , URL: /wiki/Ngspice
+SPICE , URL: /wiki/SPICE
+","Yes","zh_CN , URL: /wiki/Chinese_language
+de , URL: /wiki/German_language
+en , URL: /wiki/English_language
+es , URL: /wiki/Spanish_language
+fr , URL: /wiki/French_language
+it , URL: /wiki/Italian_language
+pt , URL: /wiki/Portuguese_language
+ru , URL: /wiki/Russian_language
+ja , URL: /wiki/Japanese_language
+pl , URL: /wiki/Polish_language
+cz , URL: /wiki/Czech_language
+","TinyCAD net lists, OrCAD EDIF, EAGLE (XML)","PDF, Gerber, Gerber X2, Excellon, netlist, VRML2, STEP, IDFv3","Python"
+"KiCad , URL: /wiki/KiCad
+","Linux , URL: /wiki/Linux
+","
+URL: https://www.wikidata.org/wiki/Q942363?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-01-15 (2022-01-15)","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","Ngspice , URL: /wiki/Ngspice
+SPICE , URL: /wiki/SPICE
+","Yes","zh_CN , URL: /wiki/Chinese_language
+de , URL: /wiki/German_language
+en , URL: /wiki/English_language
+es , URL: /wiki/Spanish_language
+fr , URL: /wiki/French_language
+it , URL: /wiki/Italian_language
+pt , URL: /wiki/Portuguese_language
+ru , URL: /wiki/Russian_language
+ja , URL: /wiki/Japanese_language
+pl , URL: /wiki/Polish_language
+cz , URL: /wiki/Czech_language
+","TinyCAD net lists, OrCAD EDIF, EAGLE (XML)","PDF, Gerber, Gerber X2, Excellon, netlist, VRML2, STEP, IDFv3","Python"
+"KiCad , URL: /wiki/KiCad
+","Mac , URL: /wiki/Macintosh
+","
+URL: https://www.wikidata.org/wiki/Q942363?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-01-15 (2022-01-15)","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Yes","Ngspice , URL: /wiki/Ngspice
+SPICE , URL: /wiki/SPICE
+","Yes","zh_CN , URL: /wiki/Chinese_language
+de , URL: /wiki/German_language
+en , URL: /wiki/English_language
+es , URL: /wiki/Spanish_language
+fr , URL: /wiki/French_language
+it , URL: /wiki/Italian_language
+pt , URL: /wiki/Portuguese_language
+ru , URL: /wiki/Russian_language
+ja , URL: /wiki/Japanese_language
+pl , URL: /wiki/Polish_language
+cz , URL: /wiki/Czech_language
+","TinyCAD net lists, OrCAD EDIF, EAGLE (XML)","PDF, Gerber, Gerber X2, Excellon, netlist, VRML2, STEP, IDFv3","Python"
+"Micro-Cap , URL: /wiki/Micro-Cap
+","Windows","12.0.2.3","2019-11-18","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","en , URL: /wiki/English_language
+jp , URL: /wiki/Japanese_language
+","HSPICE, PSPICE, SPICE3, netlists, Images, IBIS, Touchstone","SPICE text file, netlist, BOM, Protel, Accel, OrCad, PADS netlists, Schematic and Analysis Plots Images, Numeric Output Text, Excel",""
+"Micro-Cap , URL: /wiki/Micro-Cap
+","Wine , URL: /wiki/Wine_(software)
+","12.0.2.3","2019-11-18","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","No","en , URL: /wiki/English_language
+jp , URL: /wiki/Japanese_language
+","HSPICE, PSPICE, SPICE3, netlists, Images, IBIS, Touchstone","SPICE text file, netlist, BOM, Protel, Accel, OrCad, PADS netlists, Schematic and Analysis Plots Images, Numeric Output Text, Excel",""
+"NI Ultiboard , URL: /wiki/NI_Ultiboard
+Multisim , URL: /wiki/NI_Multisim
+National Instruments , URL: /wiki/National_Instruments
+","Windows","14.2 [8]","2019-05-19","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","MS*, MP*, EWB, Spice, OrCAD, UltiCap, Protel, Gerber, DXF, Ultiboard 4&5, Calay","BOM, Gerber, Excellon, IGES (3D), DXF (2D & 3D), SVG",""
+"NI Ultiboard , URL: /wiki/NI_Ultiboard
+Multisim , URL: /wiki/NI_Multisim
+National Instruments , URL: /wiki/National_Instruments
+","Web application , URL: /wiki/Web_application
+","14.2 [8]","2019-05-19","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","MS*, MP*, EWB, Spice, OrCAD, UltiCap, Protel, Gerber, DXF, Ultiboard 4&5, Calay","BOM, Gerber, Excellon, IGES (3D), DXF (2D & 3D), SVG",""
+"OrCAD , URL: /wiki/OrCAD
+","Windows","17.2","2016-10","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","EAGLE, PADS, Altium, STEP, DXF, IDF, IDX, OrCAD SDT, OrCAD Layout,OrCAD","PDF, Gerber, Gerber X2, Excellon drill/route, netlist, ODB++, DXF, IDF, IDX, STEP,3D PDF, IPC2581","Tcl/TK, SKILL (Lisp)"
+"pcb-rnd , URL: /wiki/Pcb-rnd
+","POSIX , URL: /wiki/Unix-like
+","
+URL: https://www.wikidata.org/wiki/Q56276672?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-11-04 (2021-11-04)","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No","external: OpenEMS","Yes","en , URL: /wiki/English_language
+","gschem netlists, Protel Autotrax, KiCad (legacy & s-expr layouts), EAGLE (XML & v3,4,5 binary layouts), eeschema netlists, mentor netlists, TinyCad netlists, Calay netlist, FreePCB/easyEDA netlist, LT-Spice, MUCS, Mentor Graphics Hyperlynx, image (BMP, JPG, GIF, PNG), HPGL, BXL, Specctra (DSN), PADS","Gerber , URL: /wiki/Gerber_format
+","Python, lua, perl, tcl, AWK (multiple dialects), lisp & scheme (multiple dialects), javascript, ruby, pascal, BASIC"
+"pcb-rnd , URL: /wiki/Pcb-rnd
+","Windows","
+URL: https://www.wikidata.org/wiki/Q56276672?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-11-04 (2021-11-04)","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No","external: OpenEMS","Yes","en , URL: /wiki/English_language
+","gschem netlists, Protel Autotrax, KiCad (legacy & s-expr layouts), EAGLE (XML & v3,4,5 binary layouts), eeschema netlists, mentor netlists, TinyCad netlists, Calay netlist, FreePCB/easyEDA netlist, LT-Spice, MUCS, Mentor Graphics Hyperlynx, image (BMP, JPG, GIF, PNG), HPGL, BXL, Specctra (DSN), PADS","Gerber , URL: /wiki/Gerber_format
+","Python, lua, perl, tcl, AWK (multiple dialects), lisp & scheme (multiple dialects), javascript, ruby, pascal, BASIC"
+"pcb-rnd , URL: /wiki/Pcb-rnd
+","Linux , URL: /wiki/Linux
+","
+URL: https://www.wikidata.org/wiki/Q56276672?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-11-04 (2021-11-04)","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No","external: OpenEMS","Yes","en , URL: /wiki/English_language
+","gschem netlists, Protel Autotrax, KiCad (legacy & s-expr layouts), EAGLE (XML & v3,4,5 binary layouts), eeschema netlists, mentor netlists, TinyCad netlists, Calay netlist, FreePCB/easyEDA netlist, LT-Spice, MUCS, Mentor Graphics Hyperlynx, image (BMP, JPG, GIF, PNG), HPGL, BXL, Specctra (DSN), PADS","Gerber , URL: /wiki/Gerber_format
+","Python, lua, perl, tcl, AWK (multiple dialects), lisp & scheme (multiple dialects), javascript, ruby, pascal, BASIC"
+"pcb-rnd , URL: /wiki/Pcb-rnd
+","Mac , URL: /wiki/Macintosh
+","
+URL: https://www.wikidata.org/wiki/Q56276672?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-11-04 (2021-11-04)","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No","external: OpenEMS","Yes","en , URL: /wiki/English_language
+","gschem netlists, Protel Autotrax, KiCad (legacy & s-expr layouts), EAGLE (XML & v3,4,5 binary layouts), eeschema netlists, mentor netlists, TinyCad netlists, Calay netlist, FreePCB/easyEDA netlist, LT-Spice, MUCS, Mentor Graphics Hyperlynx, image (BMP, JPG, GIF, PNG), HPGL, BXL, Specctra (DSN), PADS","Gerber , URL: /wiki/Gerber_format
+","Python, lua, perl, tcl, AWK (multiple dialects), lisp & scheme (multiple dialects), javascript, ruby, pascal, BASIC"
+"Proteus , URL: /wiki/Proteus_Design_Suite
+","Windows","8.11","2020-09-01","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","Gerber, BMP, DXF","PDF, Gerber, GerberX2, Excellon, ODB++, DXF, IDF, PKP, testpoint file, metafile, BMP.","internal script"
+"Pulsonix , URL: /wiki/Pulsonix
+","Windows","10.0","2018-10-01","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","Allegro, Altium, CadStar, EAGLE, OrCAD, PADS, P-CAD, Protel, Gerber, STEP, DXF, IDF, more","Gerber, Gerber X2, Excellon, ODB++, IPC-2581, PDF, DXF, STEP, IDF, BOM, more","Proprietary language, ActiveX"
+"Pulsonix , URL: /wiki/Pulsonix
+","Wine , URL: /wiki/Wine_(software)
+","10.0","2018-10-01","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+","Allegro, Altium, CadStar, EAGLE, OrCAD, PADS, P-CAD, Protel, Gerber, STEP, DXF, IDF, more","Gerber, Gerber X2, Excellon, ODB++, IPC-2581, PDF, DXF, STEP, IDF, BOM, more","Proprietary language, ActiveX"
+"TARGET 3001! , URL: /wiki/TARGET_3001!
+","Windows","30.2.0.63","2020-12-14","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+de , URL: /wiki/German_language
+fr , URL: /wiki/French_language
+","EAGLE, DXF, Gerber, Gerber, Excellon, BMP, CXF, STEP 3D","STEP 3D , URL: /wiki/ISO_10303
+Test points , URL: /wiki/Test_point
+OBJ , URL: /wiki/Wavefront_.obj_file
+POV-Ray , URL: /wiki/POV-Ray
+","Package generator scripts, BOM scripts, printing and PDF generator scripts, 3D scripts"
+"TARGET 3001! , URL: /wiki/TARGET_3001!
+","Wine , URL: /wiki/Wine_(software)
+","30.2.0.63","2020-12-14","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Yes","Yes","en , URL: /wiki/English_language
+de , URL: /wiki/German_language
+fr , URL: /wiki/French_language
+","EAGLE, DXF, Gerber, Gerber, Excellon, BMP, CXF, STEP 3D","STEP 3D , URL: /wiki/ISO_10303
+Test points , URL: /wiki/Test_point
+OBJ , URL: /wiki/Wavefront_.obj_file
+POV-Ray , URL: /wiki/POV-Ray
+","Package generator scripts, BOM scripts, printing and PDF generator scripts, 3D scripts"
+"Upverter , URL: /wiki/Upverter
+","POSIX , URL: /wiki/Unix-like
+","N/A","2019-05-10","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","Yes","en , URL: /wiki/English_language
+","Altium, OrCad, PDF, OpenJSON, EAGLE","Tempo Automation , URL: /wiki/Tempo_Automation
+",""
+"Upverter , URL: /wiki/Upverter
+","Windows","N/A","2019-05-10","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","Yes","en , URL: /wiki/English_language
+","Altium, OrCad, PDF, OpenJSON, EAGLE","Tempo Automation , URL: /wiki/Tempo_Automation
+",""
+"Upverter , URL: /wiki/Upverter
+","Web application , URL: /wiki/Web_application
+","N/A","2019-05-10","Proprietary , URL: /wiki/Proprietary_software
+","Yes","No","Yes","en , URL: /wiki/English_language
+","Altium, OrCad, PDF, OpenJSON, EAGLE","Tempo Automation , URL: /wiki/Tempo_Automation
+",""
+"123D Circuits , URL: /wiki/123D
+Autodesk , URL: /wiki/Autodesk
+","POSIX , URL: /wiki/Unix-like
+","N/A","","Proprietary , URL: /wiki/Proprietary_software
+","Yes, + breadboard","Yes","Yes","en , URL: /wiki/English_language
+","EAGLE","Gerber",""
+"123D Circuits , URL: /wiki/123D
+Autodesk , URL: /wiki/Autodesk
+","Windows","N/A","","Proprietary , URL: /wiki/Proprietary_software
+","Yes, + breadboard","Yes","Yes","en , URL: /wiki/English_language
+","EAGLE","Gerber",""
+"123D Circuits , URL: /wiki/123D
+Autodesk , URL: /wiki/Autodesk
+","Web application , URL: /wiki/Web_application
+","N/A","","Proprietary , URL: /wiki/Proprietary_software
+","Yes, + breadboard","Yes","Yes","en , URL: /wiki/English_language
+","EAGLE","Gerber",""
+"Application and developer","Platform","Latest release","Latest release","License , URL: /wiki/Software_license
+","Schematic , URL: /wiki/Schematic_capture
+","Simulation , URL: /wiki/Electronic_circuit_simulation
+","PCB , URL: /wiki/Printed_circuit_board
+","User Interface Language(s)","Imports","Exports","Scripting support"
+"Application and developer","Platform","Version , URL: /wiki/Software_versioning
+","Date","License , URL: /wiki/Software_license
+","Schematic , URL: /wiki/Schematic_capture
+","Simulation , URL: /wiki/Electronic_circuit_simulation
+","PCB , URL: /wiki/Printed_circuit_board
+","User Interface Language(s)","Imports","Exports","Scripting support"

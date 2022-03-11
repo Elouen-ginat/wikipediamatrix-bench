@@ -1,0 +1,81 @@
+"Name","CBC w/ predictable IVs","CBC w/ secret IVs","CBC w/ random per-sector keys","LRW","XTS","Authenticated encryption"
+"Aloaha Crypt Disk","No","No","No","Yes","Yes","?"
+"ArchiCrypt Live","No","No","No","Legacy support[127]","Yes","?"
+"BestCrypt , URL: /wiki/BestCrypt
+","No","Yes","No","Yes[128]","Yes[129]","?"
+"BitArmor , URL: /wiki/BitArmor
+","No","Yes","Plumb-IV","No","No","?"
+"BitLocker , URL: /wiki/BitLocker
+","No[130]","Yes[130]","No","No","Yes, Windows 10 10547+","?"
+"Bloombase StoreSafe","Yes","Yes","Yes","Yes","Yes","?"
+"CGD","No","Yes[131]","No","No","No","?"
+"CenterTools DriveLock","?","?","?","?","?","?"
+"Check Point Full Disk Encryption","No","No","Yes","Yes","Yes","?"
+"CipherShed , URL: /wiki/CipherShed
+","Legacy support[132]","No","No","Legacy support[133]","Yes[134]","?"
+"CrossCrypt , URL: /wiki/CrossCrypt
+","Yes","No","No","No","No","?"
+"CryFS","No","No","Yes","No","No","?"
+"CryptArchiver","?","?","?","?","?","?"
+"Cryptic Disk","No","No","No","No","Yes","No"
+"Cryhod","No","Yes","No","No","No","?"
+"Cryptoloop , URL: /wiki/Cryptoloop
+","Yes","No","No","No","No","No"
+"DiskCryptor","No","No","No","No","Yes","?"
+"Dm-crypt , URL: /wiki/Dm-crypt
+LUKS , URL: /wiki/Linux_Unified_Key_Setup
+","Yes","Yes","No","Yes, using *-lrw-benbi[135]","Yes, using *-xts-plain","Yes, using --integrity mode[136]"
+"DriveCrypt , URL: https://www.securstar.com/en/drivecrypt.html
+","?","?","?","?","?","?"
+"DriveSentry , URL: /wiki/DriveSentry
+","?","?","?","?","?","?"
+"E4M , URL: /wiki/E4M
+","?","?","?","No","No","?"
+"e-Capsule Private Safe","?","?","?","?","?","?"
+"eCryptfs","No","Yes","?","No","No","?"
+"EgoSecure HDD Encryption","No","Yes","No","No","No","?"
+"FileVault , URL: /wiki/FileVault
+","Yes[90]","No","No","No","No","?"
+"FileVault 2 , URL: /wiki/FileVault
+","No","No","No","No","Yes[137]","?"
+"FREE CompuSec","Yes","No","No","No","No","?"
+"FreeOTFE , URL: /wiki/FreeOTFE
+","Yes","Yes","No","Yes","Yes","No"
+"GBDE , URL: /wiki/GBDE
+","No","No","Yes[95]","No","No","?"
+"GELI , URL: /wiki/Geli_(software)
+","No","Yes[138]","No","No","Yes","Yes, using -a option[139]"
+"Loop-AES","single-key, multi-key-v2 modes[97]","multi-key-v3 mode[97]","No","No","No","No"
+"McAfee Drive Encryption (SafeBoot)","No","Yes","No","No","No","?"
+"n-Crypt Pro","?","?","No","No","No","?"
+"PGPDisk , URL: /wiki/PGPDisk
+","?","?","?","?","?","?"
+"Private Disk , URL: /wiki/Private_Disk
+","No","Yes","No","No","No","?"
+"ProxyCrypt","No","No","No","No","Yes","?"
+"R-Crypto","?","?","?","?","?","?"
+"SafeGuard Easy","?","?","?","?","?","?"
+"SafeGuard Enterprise","?","?","?","?","?","?"
+"SafeGuard PrivateDisk","?","?","?","?","?","?"
+"SafeHouse Professional","Yes","No","No","No","No","?"
+"Scramdisk , URL: /wiki/Scramdisk
+","No","Yes","No","No","No","?"
+"Scramdisk , URL: /wiki/Scramdisk
+","No","Yes[140]","No","Yes[141]","Yes[142]","?"
+"SecuBox","Yes","No","No","No","No","?"
+"SecureDoc","?","?","?","?","?","?"
+"Sentry 2020 , URL: /wiki/Sentry_2020
+","?","?","?","?","?","?"
+"Seqrite , URL: /wiki/Seqrite
+","No","Yes","No","Yes","Yes","?"
+"Softraid / RAID C","?","?","?","?","Yes[143]","?"
+"Svnd / Vnconfig","?","?","?","?","?","?"
+"Symantec , URL: /wiki/NortonLifeLock
+","No","No","Yes","No","No","?"
+"TrueCrypt , URL: /wiki/TrueCrypt
+","Legacy support[132]","No","No","Legacy support[133]","Yes[144]","No"
+"USBCrypt","No","Yes","No","No","Yes","?"
+"VeraCrypt , URL: /wiki/VeraCrypt
+","No","No","No","No","Yes","?"
+"CyberSafe Top Secret","No","No","No","No","Yes","?"
+"Name","CBC w/ predictable IVs","CBC w/ secret IVs","CBC w/ random per-sector keys","LRW","XTS","Authenticated encryption"

@@ -1,22 +1,65 @@
-"null","null","null","null","null","null","null","null","null","null","null"
-"4K Video Downloader","4.13.2.3860 (October 9, 2020; 16 months ago (2020-10-09))","Proprietary","Freemium","No","No","Yes","No","Yes","Yes","Yes"
-"BitComet","1.85 (January 18, 2022; 34 days ago (2022-01-18)) [±][2]","Proprietary","No cost","Adware from version 0.85 to 0.97; Potentially sensitive information reported to BC Servers","Partial [3]","Yes","Yes[citation needed]","No","Yes","No"
-"DownloadStudio","10.0.4.0 (December 28, 2017; 4 years ago (2017-12-28))","Proprietary","$24.95","None Known","Yes","Yes","Yes","No","Yes","No"
-"DownThemAll!","4.2.6 (November 27, 2019; 2 years ago (2019-11-27)) [±][4]","GPL-2.0-only","No cost","None Known","No","Yes","Yes","Requires recent version of Chrome, Firefox and Opera","Requires recent version of Chrome, Firefox and Opera","Requires recent version of Chrome, Firefox and Opera"
-"FlashGet","3.7.0.1195 (January 10, 2012; 10 years ago (2012-01-10))","Proprietary","No cost","No","No","Yes","Yes","No","Yes","No"
-"Free Download Manager","6.13.4.3616 (February 9, 2021; 12 months ago (2021-02-09)) [±][5]","Proprietary","No cost after version 5.0","No","No","Yes","No","Yes","Yes","Yes"
-"Free Studio","6.6.35.323 (March 23, 2017; 4 years ago (2017-03-23)[6][7])","Proprietary","No cost","No","No","Yes","No","Yes","Yes","Yes"
-"Freemake Video Downloader","3.8.0 (May 12, 2016; 5 years ago (2016-05-12))","Proprietary","No cost","Offers to install sponsored software upon installation changing default search engine and browsers homepage","No","Yes","No","No","Yes","No"
-"GetRight","6.5 (January 24, 2011; 11 years ago (2011-01-24)) [±][8]","Proprietary","$49.95 for Pro","No","Yes","Yes","Yes","No","Yes","No"
-"Go!Zilla","5.03 (February 1, 2008; 14 years ago (2008-02-01)[9])","Proprietary","$19.95","None as of Version 5; Aureate adware prior to that","No","Yes","Yes","No","Yes","Yes"
-"Internet Download Accelerator","6.21.1.1675 (August 13, 2021; 6 months ago (2021-08-13))","Proprietary","$0, $9.95 single/$24.95 family pack for Pro","Adware on $0 version","Yes","Yes","No","No","Yes","No"
-"Internet Download Manager","6.40 Build 2 (December 9, 2021; 2 months ago (2021-12-09)[10])","Proprietary","$24.95 lifetime for 1 PC","None Known","Yes","Yes","No","No","Yes","No"
-"JDownloader","2 (7 February 2017; 5 years ago (2017-02-07))","GPL","No cost","Yes, comes bundled but can install even when not ticking yes","Yes","Yes","Yes","Yes","Yes","Yes"
-"0.9.581 (19 January 2011; 11 years ago (2011-01-19))","GPL","No cost","Adware Mobogenie (optional install); Adware browser hijacker Mysearchdial (optional install)","No","Yes","Yes","Yes","Yes","Yes","null"
-"0.7.3-3 (8 May 2006; 15 years ago (2006-05-08))","GPLv2","No cost","No","Yes","No","No","Yes","Yes","Yes","null"
-"KGet","4.14.38 (November 7, 2017; 4 years ago (2017-11-07)) [±][11]","GPL-2.0-or-later","No cost","None Known","Yes","Yes","No","Yes","Part of KDE for Windows","Part of KDE for Mac"
-"Microsoft Download Manager","1.2.1 build 2044 (November 8, 2011; 10 years ago (2011-11-08)[12])","Proprietary","No cost","No","No","Yes","No","No","Yes","No"
-"MiniDM","2.5.1 (June 2, 2010; 11 years ago (2010-06-02)[13])","Proprietary","No cost","None Known","No","Yes","No","No","Yes","No"
-"MLDonkey","3.1.7 (July 6, 2020; 19 months ago (2020-07-06)[14]) [±]","GPL-2.0-or-later","No cost","None Known","Yes","Yes","Yes","Yes","Yes","No"
-"Shareaza","2.7.10.2 (September 18, 2017; 4 years ago (2017-09-18)[15]) [±]","GPL-2.0-or-later","No cost","Original Client: None Known","Yes","Yes","Yes","No","Yes","No"
-"null","null","null","null","null","null","null","null","null","null","null"
+"Manager","HTTP , URL: /wiki/HTTP
+","HTTPS , URL: /wiki/HTTPS
+","FTP , URL: /wiki/FTP
+","SFTP , URL: /wiki/FTP_over_SSH
+","MMS , URL: /wiki/Microsoft_Media_Services
+","RTSP , URL: /wiki/Real_Time_Streaming_Protocol
+","Metalink , URL: /wiki/Metalink
+","Magnet link , URL: /wiki/Magnet_link
+","Podcast , URL: /wiki/Podcast
+","RTMP , URL: /wiki/Real_Time_Messaging_Protocol
+","BitTorrent , URL: /wiki/BitTorrent_(protocol)
+","eDonkey , URL: /wiki/EDonkey_network
+"
+"4K Video Downloader , URL: /wiki/4K_Video_Downloader
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"BitComet , URL: /wiki/BitComet
+","Yes","Yes","Yes","?","?","?","?","Yes","?","?","Yes","Yes"
+"Download Accelerator Plus , URL: /wiki/Download_Accelerator_Plus
+","Yes","Yes","Yes","?","?","?","?","?","?","?","?","?"
+"DownloadStudio , URL: /wiki/DownloadStudio
+","?","?","?","?","?","?","?","?","?","?","?","?"
+"DownThemAll! , URL: /wiki/DownThemAll!
+","Yes","Yes","Yes","No","No","No","Yes","No","No","No","No","No"
+"FlashGet , URL: /wiki/FlashGet
+","Yes","1.7x, 1.9x","Yes","No","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes"
+"Free Download Manager , URL: /wiki/Free_Download_Manager
+","Yes","Yes","Yes","No","Yes[16]","Yes[16]","No","Yes[17]","No","No","Yes","No"
+"Freemake Video Downloader , URL: /wiki/Freemake_Video_Downloader
+","Yes","Yes","No","No","No","No","No","No","No","No","No","No"
+"Free Studio , URL: /wiki/Free_Studio
+","Yes","Yes","No","No","No","No","No","No","No","Yes","No","No"
+"GetRight , URL: /wiki/GetRight
+","Yes","Paid version only","Yes","No","No","No","Yes","?","Yes","No","Yes","No"
+"Go!Zilla , URL: /wiki/Go!Zilla
+","?","?","?","?","?","?","?","?","?","?","?","?"
+"Internet Download Accelerator","Yes","Yes","Yes","Yes","No","No","Yes","No","No","No","No","No"
+"Internet Download Manager , URL: /wiki/Internet_Download_Manager
+","Yes","Yes","Yes","No","Yes","No","No","No","No","Yes","No","No"
+"JDownloader , URL: /wiki/JDownloader
+","Yes","Yes","Yes","No","No","No","Yes","No","Yes","No","No","No"
+"Jigdo , URL: /wiki/Jigdo
+","Yes","Yes","Yes","No","No","No","No","No","No","No","No","No"
+"KGet , URL: /wiki/KGet
+","Yes","Yes","Yes","Yes","Yes","No","Yes","?","No","No","Yes","No"
+"Microsoft Download Manager , URL: /wiki/Microsoft_Download_Manager
+","Yes","Yes","?","?","?","?","?","?","?","?","?","?"
+"MiniDM , URL: /wiki/MiniDM
+","Yes","Yes","Yes","No","No","No","No","No","No","No","No","No"
+"MLDonkey , URL: /wiki/MLDonkey
+","Yes","?","Yes","?","No","No","No","?","No","No","Yes","Yes"
+"Shareaza , URL: /wiki/Shareaza
+","Yes","Yes","Yes","Yes","No","No","No","Yes","No","No","Yes","Yes"
+"Manager","HTTP , URL: /wiki/HTTP
+","HTTPS , URL: /wiki/HTTPS
+","FTP , URL: /wiki/FTP
+","SFTP , URL: /wiki/FTP_over_SSH
+","MMS , URL: /wiki/Microsoft_Media_Services
+","RTSP , URL: /wiki/Real_Time_Streaming_Protocol
+","Metalink , URL: /wiki/Metalink
+","Magnet link , URL: /wiki/Magnet_link
+","Podcast , URL: /wiki/Podcast
+","RTMP , URL: /wiki/Real_Time_Messaging_Protocol
+","BitTorrent , URL: /wiki/BitTorrent_(protocol)
+","eDonkey , URL: /wiki/EDonkey_network
+"

@@ -1,0 +1,31 @@
+"OLAP server","Windows","Linux","UNIX","z/OS","AIX"
+"Apache Druid , URL: /wiki/Apache_Druid
+","No","Yes","Yes","",""
+"Apache Kylin , URL: /wiki/Apache_Kylin
+","No","Yes","Yes","No","No"
+"Apache Pinot , URL: /wiki/Apache_Pinot
+","Yes","Yes","Yes","Yes","Yes"
+"ClickHouse , URL: /wiki/ClickHouse
+","No","Yes","Yes","No","No"
+"Essbase , URL: /wiki/Essbase
+","Yes","Yes","Yes","No","Yes"
+"IBM Cognos TM1 , URL: /wiki/IBM_Cognos_TM1
+","Yes","Yes","Yes","No","Yes"
+"icCube , URL: /wiki/IcCube
+","Yes","Yes","Yes","Yes","Yes"
+"Jedox OLAP Server , URL: /wiki/Jedox
+","Yes","Yes","Yes","No",""
+"Kyvos , URL: /wiki/Kyvos
+","No","Yes","Yes","No","No"
+"Microsoft Analysis Services , URL: /wiki/Microsoft_Analysis_Services
+","Yes","No","No","No",""
+"MicroStrategy Intelligence Server , URL: /wiki/MicroStrategy
+","Yes","Yes","Yes","No","Yes"
+"Mondrian OLAP server , URL: /wiki/Mondrian_OLAP_server
+","Yes","Yes","Yes","Yes",""
+"Oracle Database OLAP Option , URL: /wiki/Oracle_OLAP
+","Yes","Yes","Yes","Yes",""
+"SAP NetWeaver BW , URL: /wiki/SAP_NetWeaver_Business_Intelligence
+","Yes","Yes","Yes","Yes",""
+"SAS OLAP Server , URL: /wiki/SAS_System
+","Yes","Yes","Yes","Yes",""

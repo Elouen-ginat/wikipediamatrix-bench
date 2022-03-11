@@ -1,0 +1,333 @@
+"File system","filename , URL: /wiki/Filename
+","Allowable characters in directory entries[c]","Maximum pathname length","Maximum file size","Maximum volume size[d]","Max number of files"
+"BeeGFS , URL: /wiki/BeeGFS
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","EB , URL: /wiki/Exabyte
+","EB , URL: /wiki/Exabyte
+","?"
+"CP/M file system , URL: /wiki/CP/M_file_system
+","8.3","ASCII , URL: /wiki/ASCII
+","CP/M 2.2 , URL: /wiki/CP/M_2.2
+","MB , URL: /wiki/Megabyte
+","MB , URL: /wiki/Megabyte
+","?"
+"IBM SFS","8.8","?","?","Non-hierarchical[8]","?","?"
+"DECtape , URL: /wiki/DECtape
+","6.3","A–Z, 0–9","DTxN:FILNAM.EXT = 15","bytes , URL: /wiki/Byte
+","bytes , URL: /wiki/Byte
+","?"
+"Elektronika BK , URL: /wiki/Elektronika_BK
+","16 bytes","?","No directory hierarchy","KB , URL: /wiki/Kilobyte
+","KB , URL: /wiki/Kilobyte
+","?"
+"MicroDOS file system","14 bytes","?","?","MB , URL: /wiki/Megabyte
+","MB , URL: /wiki/Megabyte
+","?"
+"Level-D","6.3","A–Z, 0–9","DEVICE:FILNAM.EXT[PROJCT,PROGRM] = 7 + 10 + 15 = 32; + 5*7 for SFDs = 67","SIXBIT bytes , URL: /wiki/Six-bit_byte
+","GB , URL: /wiki/Gigabyte
+MB , URL: /wiki/Megabyte
+","?"
+"RT-11 , URL: /wiki/RT-11
+","6.3","A–Z, 0–9, $","0 (no directory hierarchy)","bytes , URL: /wiki/Byte
+","bytes , URL: /wiki/Byte
+","?"
+"Version 6 Unix file system (V6FS)","14 bytes","NUL , URL: /wiki/Null_character
+","No limit defined[f]","MB , URL: /wiki/Megabyte
+","MB , URL: /wiki/Megabyte
+","?"
+"GEC DOS , URL: /wiki/GEC_DOS
+","?","?","?","bytes , URL: /wiki/Byte
+","?","?"
+"GEC DOS , URL: /wiki/GEC_DOS
+","8 bytes","A–Z, 0–9. Period was directory separator","? No limit defined (workaround for OS limit)","bytes , URL: /wiki/Byte
+","?","?"
+"CBM DOS , URL: /wiki/CBM_DOS
+","16 bytes","Any byte except NUL","0 (no directory hierarchy)","MB , URL: /wiki/Megabyte
+","MB , URL: /wiki/Megabyte
+","?"
+"Version 7 Unix file system (V7FS)","14 bytes","Any byte except NUL or /[e]","No limit defined[f]","GB , URL: /wiki/Gigabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"exFAT , URL: /wiki/ExFAT
+","UTF-16 , URL: /wiki/UTF-16
+","?","32,760 Unicode characters with each path component no more than 255 characters[11]","EB , URL: /wiki/Exabyte
+","ZB , URL: /wiki/Zettabyte
+bytes , URL: /wiki/Byte
+","?"
+"FAT (8-bit) , URL: /wiki/FAT_(8-bit)
+","6.3 , URL: /wiki/6.3_filename
+","ASCII , URL: /wiki/ASCII
+","No directory hierarchy","?","?","?"
+"FAT12 , URL: /wiki/FAT12
+FAT16 , URL: /wiki/FAT16
+","8.3 , URL: /wiki/8.3_filename
+UCS-2 , URL: /wiki/UCS-2
+","OEM , URL: /wiki/OEM_code_page
+Unicode , URL: /wiki/Unicode
+","No limit defined[f]","MB , URL: /wiki/Megabyte
+GB , URL: /wiki/Gigabyte
+","MB , URL: /wiki/Megabyte
+MB , URL: /wiki/Megabyte
+","?"
+"FAT16B , URL: /wiki/FAT16B
+FAT16X , URL: /wiki/FAT16X
+","8.3 , URL: /wiki/8.3_filename
+UCS-2 , URL: /wiki/UCS-2
+","OEM , URL: /wiki/OEM_code_page
+Unicode , URL: /wiki/Unicode
+","No limit defined[f]","GB , URL: /wiki/Gigabyte
+","MB , URL: /wiki/Megabyte
+GB , URL: /wiki/Gigabyte
+","?"
+"FAT32 , URL: /wiki/FAT32
+FAT32X , URL: /wiki/FAT32X
+","8.3 , URL: /wiki/8.3_filename
+UCS-2 , URL: /wiki/UCS-2
+","OEM , URL: /wiki/OEM_code_page
+Unicode , URL: /wiki/Unicode
+","32,760 Unicode characters with each path component no more than 255 characters[11]","GB , URL: /wiki/Gigabyte
+","MB , URL: /wiki/Megabyte
+TB , URL: /wiki/Terabyte
+","?"
+"FATX , URL: /wiki/FATX
+","42 bytes[i]","Unicode , URL: /wiki/Unicode
+","No limit defined[f]","GB , URL: /wiki/Gigabyte
+","MB , URL: /wiki/Megabyte
+GB , URL: /wiki/Gigabyte
+","?"
+"Fossil , URL: /wiki/Fossil_(file_system)
+","?","?","?","?","?","?"
+"GEMDOS , URL: /wiki/GEMDOS
+","8.3","A-Z, a-z, 0-9 ! @ # $ % ^ & ( ) + - = ~ ` ; ' " , < > | [ ] ( ) _[13]","?","?","?","?"
+"APFS , URL: /wiki/APFS
+","UTF-8 , URL: /wiki/UTF-8
+","Unicode 9.0 , URL: /wiki/Unicode_9.0
+UTF-8 , URL: /wiki/UTF-8
+","?","EB , URL: /wiki/Exabyte
+","?","263 [15]"
+"F2FS , URL: /wiki/F2FS
+","255 bytes","Any byte except NUL, /[e]","No limit defined[f]","TB , URL: /wiki/Terabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"MFS , URL: /wiki/Macintosh_File_System
+","255 bytes","Any byte except :","No path (flat filesystem)","MB , URL: /wiki/Megabyte
+","MB , URL: /wiki/Megabyte
+","?"
+"HFS , URL: /wiki/Hierarchical_File_System
+","31 bytes","Any byte except :","Unlimited","GB , URL: /wiki/Gigabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"HPFS , URL: /wiki/High_Performance_File_System
+","255 bytes","Any byte except NUL[l]","No limit defined[f]","GB , URL: /wiki/Gigabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"NTFS , URL: /wiki/NTFS
+","255 characters","Win32 , URL: /wiki/Win32
+UTF-16 , URL: /wiki/UTF-16
+NUL , URL: /wiki/Null_character
+","32,767 Unicode characters with each path component (directory or filename) up to 255 characters long[f]","EB , URL: /wiki/Exabyte
+","EB , URL: /wiki/Exabyte
+","232"
+"ReFS , URL: /wiki/ReFS
+","255 UTF-16 characters[17]","Win32 , URL: /wiki/Win32
+UTF-16 , URL: /wiki/UTF-16
+NUL , URL: /wiki/Null_character
+","32,767 Unicode characters with each path component (directory or filename) up to 255 characters long[17]","EB , URL: /wiki/Exabyte
+","YB , URL: /wiki/Yottabyte
+","?"
+"HFS Plus , URL: /wiki/HFS_Plus
+","255 UTF-16 characters[o]","Unicode , URL: /wiki/Unicode
+","Unlimited","EB , URL: /wiki/Exabyte
+","EB , URL: /wiki/Exabyte
+","?"
+"FFS , URL: /wiki/Berkeley_Fast_File_System
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","GB , URL: /wiki/Gigabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"HAMMER , URL: /wiki/HAMMER_(file_system)
+","255 bytes[22]","Any byte except NUL[e]","?","?","EB , URL: /wiki/Exabyte
+","?"
+"UFS1 , URL: /wiki/UFS1_(file_system)
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","GB , URL: /wiki/Gigabyte
+TB , URL: /wiki/Terabyte
+","EB , URL: /wiki/Exabyte
+","Subdirectory per directory is 32,767[24]"
+"UFS2 , URL: /wiki/UFS2_(file_system)
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","GB , URL: /wiki/Gigabyte
+PB , URL: /wiki/Petabyte
+","ZB , URL: /wiki/Zettabyte
+bytes , URL: /wiki/Byte
+","Subdirectory per directory is 32,767[24]"
+"ext , URL: /wiki/Extended_file_system
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","GB , URL: /wiki/Gigabyte
+","GB , URL: /wiki/Gigabyte
+","?"
+"Xiafs , URL: /wiki/Xiafs
+","248 bytes","Any byte except NUL[e]","No limit defined[f]","MB , URL: /wiki/Megabyte
+","GB , URL: /wiki/Gigabyte
+","?"
+"ext2 , URL: /wiki/Ext2
+","255 bytes","Any byte except NUL, /[e]","No limit defined[f]","GB , URL: /wiki/Gigabyte
+TB , URL: /wiki/Terabyte
+","TB , URL: /wiki/Terabyte
+TB , URL: /wiki/Terabyte
+","?"
+"ext3 , URL: /wiki/Ext3
+","255 bytes","Any byte except NUL, /[e]","No limit defined[f]","GB , URL: /wiki/Gigabyte
+TB , URL: /wiki/Terabyte
+","TB , URL: /wiki/Terabyte
+TB , URL: /wiki/Terabyte
+","?"
+"ext4 , URL: /wiki/Ext4
+","255 bytes[26]","Any byte except NUL, /[e]","No limit defined[f]","GB , URL: /wiki/Gigabyte
+TB , URL: /wiki/Terabyte
+","EB , URL: /wiki/Exabyte
+","inode , URL: /wiki/Inode
+creation , URL: /wiki/Disk_formatting
+"
+"NOVA , URL: /wiki/NOVA_(filesystem)
+","255 bytes","Any byte except NUL, /[e]","No limit defined[f]","EB , URL: /wiki/Exabyte
+","EB , URL: /wiki/Exabyte
+","?"
+"Lustre , URL: /wiki/Lustre_(file_system)
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","EB , URL: /wiki/Exabyte
+ZFS , URL: /wiki/ZFS
+","EB , URL: /wiki/Exabyte
+","?"
+"GPFS , URL: /wiki/General_Parallel_File_System
+","codepoints , URL: /wiki/Codepoint
+","Any byte except NUL[e]","No limit defined[f]","No limit found","bytes , URL: /wiki/Byte
+PB , URL: /wiki/Petabyte
+","?"
+"GFS , URL: /wiki/Global_File_System
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","TB , URL: /wiki/Terabyte
+EB , URL: /wiki/Exabyte
+","TB , URL: /wiki/Terabyte
+EB , URL: /wiki/Exabyte
+","?"
+"NILFS , URL: /wiki/NILFS
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","EB , URL: /wiki/Exabyte
+","EB , URL: /wiki/Exabyte
+","?"
+"ReiserFS , URL: /wiki/ReiserFS
+","4,032 bytes/255 characters","Any byte except NUL or '/'[e]","No limit defined[f]","TB , URL: /wiki/Terabyte
+GB , URL: /wiki/Gigabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"Reiser4 , URL: /wiki/Reiser4
+","3,976 bytes","Any byte except / and NUL","No limit defined[f]","TB , URL: /wiki/Terabyte
+","?","?"
+"OCFS , URL: /wiki/OCFS
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","TB , URL: /wiki/Terabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"OCFS2 , URL: /wiki/OCFS2
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","PB , URL: /wiki/Petabyte
+","PB , URL: /wiki/Petabyte
+","?"
+"XFS , URL: /wiki/XFS
+","255 bytes[s]","Any byte except NUL[e]","No limit defined[f]","EB , URL: /wiki/Exabyte
+","EB , URL: /wiki/Exabyte
+","?"
+"JFS1 , URL: /wiki/JFS_file_system
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","EB , URL: /wiki/Exabyte
+","TB , URL: /wiki/Terabyte
+PB , URL: /wiki/Petabyte
+","?"
+"JFS , URL: /wiki/JFS_file_system
+","255 bytes","Unicode , URL: /wiki/Unicode
+","No limit defined[f]","PB , URL: /wiki/Petabyte
+","PB , URL: /wiki/Petabyte
+","?"
+"QFS , URL: /wiki/QFS
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","EB , URL: /wiki/Exabyte
+","PB , URL: /wiki/Petabyte
+","?"
+"BFS , URL: /wiki/Be_File_System
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","bytes , URL: /wiki/Byte
+GB , URL: /wiki/Gigabyte
+","PB , URL: /wiki/Petabyte
+EB , URL: /wiki/Exabyte
+","Unlimited"
+"AdvFS , URL: /wiki/AdvFS
+","255 characters","Any byte except NUL[e]","No limit defined[f]","TB , URL: /wiki/Terabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"NSS , URL: /wiki/Novell_Storage_Services
+","256 characters","Depends on namespace used[w]","Only limited by client","TB , URL: /wiki/Terabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"NWFS , URL: /wiki/NetWare_File_System
+","80 bytes[x]","Depends on namespace used[w]","No limit defined[f]","GB , URL: /wiki/Gigabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"ODS-5 , URL: /wiki/ODS-5
+","236 bytes[y]","?","4,096 bytes[z]","TB , URL: /wiki/Terabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"VxFS , URL: /wiki/Veritas_File_System
+","255 bytes","Any byte except NUL[e]","No limit defined[f]","EB , URL: /wiki/Exabyte
+","?","?"
+"UDF , URL: /wiki/Universal_Disk_Format
+","255 bytes","Unicode , URL: /wiki/Unicode
+","1,023 bytes[aa]","EB , URL: /wiki/Exabyte
+","MB , URL: /wiki/Megabyte
+TB , URL: /wiki/Terabyte
+","?"
+"ZFS , URL: /wiki/ZFS
+","255 bytes","Unicode , URL: /wiki/Unicode
+","No limit defined[f]","EB , URL: /wiki/Exabyte
+","ZB , URL: /wiki/Zettabyte
+bytes , URL: /wiki/Byte
+","2128"
+"Btrfs , URL: /wiki/Btrfs
+","255 bytes","Any byte except '/' and NUL","No limit defined","EB , URL: /wiki/Exabyte
+","EB , URL: /wiki/Exabyte
+","264"
+"Minix V1 FS , URL: /wiki/Minix_file_system
+","14 or 30 bytes, set at filesystem creation time","Any byte except NUL[e]","No limit defined[f]","MB , URL: /wiki/Megabyte
+","MB , URL: /wiki/Megabyte
+","?"
+"Minix V2 FS , URL: /wiki/Minix_file_system
+","14 or 30 bytes, set at filesystem creation time","Any byte except NUL[e]","No limit defined[f]","GB , URL: /wiki/Gigabyte
+","GB , URL: /wiki/Gigabyte
+","?"
+"Minix V3 FS , URL: /wiki/Minix_file_system
+","60 bytes","Any byte except NUL[e]","No limit defined[f]","GB , URL: /wiki/Gigabyte
+","GB , URL: /wiki/Gigabyte
+","?"
+"VMFS2 , URL: /wiki/VMFS2
+","128","Any byte except NUL or /[e]","2,048","TB , URL: /wiki/Terabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"VMFS3 , URL: /wiki/VMFS3
+","128","Any byte except NUL or /[e]","2,048","TB , URL: /wiki/Terabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"ISO 9660:1988 , URL: /wiki/ISO_9660:1988
+","Level 1: 8.3, Level 2 & 3: ~ 180","Depends on Level[ad]","~ 180 bytes?","GB , URL: /wiki/Gigabyte
+TB , URL: /wiki/Terabyte
+","TB , URL: /wiki/Terabyte
+","?"
+"Joliet ("CDFS") , URL: /wiki/Joliet_(file_system)
+","Unicode , URL: /wiki/Unicode
+","UCS-2 , URL: /wiki/UCS-2
+","?","ISO 9660:1988 , URL: /wiki/ISO_9660:1988
+","ISO 9660:1988 , URL: /wiki/ISO_9660:1988
+","?"
+"Rock Ridge , URL: /wiki/Rock_Ridge
+","255 bytes","Any byte except NUL or /[e]","No limit defined[f]","ISO 9660:1988 , URL: /wiki/ISO_9660:1988
+","ISO 9660:1988 , URL: /wiki/ISO_9660:1988
+","?"
+"UniFS , URL: /w/index.php?title=UniFS&action=edit&redlink=1
+","No limit defined (depends on client)","?","No limit defined (depends on client)","Available cache space at time of write (depends on platform)","No limit defined","No limit defined"
+"ISO 9660:1999 , URL: /wiki/ISO_9660:1999
+","?","?","?","?","?","?"
+"High Sierra Format , URL: /wiki/High_Sierra_Format
+","?","?","?","?","?","?"
+"SquashFS , URL: /wiki/SquashFS
+","256 bytes","?","No limit defined","EB , URL: /wiki/Exabyte
+","EB , URL: /wiki/Exabyte
+","?"
+"BlueStore/Cephfs , URL: /wiki/Ceph_(software)
+","?","any byte, except null, "/"","No limit defined","Max. 264 bytes, 1TB by default [30]","Not limited","Not limited, default is 100,000 files per directory [31]"
+"File system","Maximum filename length","Allowable characters in directory entries[c]","Maximum pathname length","Maximum file size","Maximum volume size[d]","Max number of files"

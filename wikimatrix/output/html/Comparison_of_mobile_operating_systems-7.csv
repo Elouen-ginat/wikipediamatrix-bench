@@ -1,0 +1,23 @@
+"Feature","Android , URL: /wiki/Android_(operating_system)
+","iOS , URL: /wiki/IOS
+","Tizen , URL: /wiki/Tizen
+","Sailfish OS , URL: /wiki/Sailfish_OS
+","Ubuntu Touch , URL: /wiki/Ubuntu_Touch
+"
+"Non-English languages support","Partial[204]","Yes[205][206][207]","Limited (Search is not diacritical mark-insensitive)","Yes","Yes"
+"spell checker , URL: /wiki/Spell_checker
+","2.3+[208][209]","Yes[210]","No","?","No"
+"Built-in system-wide dictionary","Built into keyboard app. Available on every device.[211]","5+[212]","No","Yes","Yes"
+"Autoexpanding text replacements","Yes","5+[213]","?","?","?"
+"Keyboard next word prediction","No,[214] 3rd party software[215]","8+[216]","No","Yes","Yes"
+"Keyboard cursor controller","Google Keyboard;[217][218]","3D Touch , URL: /wiki/3D_Touch
+","No","No","Yes"
+"Optical character recognition , URL: /wiki/Optical_character_recognition
+","No[221]","Notes , URL: /wiki/Notes_(software)
+","No","No","No"
+"input methods , URL: /wiki/Input_method
+","Yes[225]","8+","?","?","?"
+"Gesture text input","4+[226]","SwiftKey , URL: /wiki/SwiftKey
+","?","No[228]","No"
+"Emoji , URL: /wiki/Emoji
+","4.4+[229]","Yes[230]","?","2.2.0+[231] 3rd party software[232]","Yes"

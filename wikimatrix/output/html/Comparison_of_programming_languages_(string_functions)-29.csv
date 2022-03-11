@@ -1,0 +1,10 @@
+"Format","Languages","Comments"
+"string.partition(separator)","Python , URL: /wiki/Python_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+",""
+"lists:partition(pred, string)","Erlang , URL: /wiki/Erlang_(programming_language)
+",""
+"split /(separator)/, string, 2","Perl 5 , URL: /wiki/Perl_5
+",""
+"split separator, string, 2 string.split( separator, 2 )","Raku , URL: /wiki/Raku_(programming_language)
+","Separator does not have to be a regular expression"

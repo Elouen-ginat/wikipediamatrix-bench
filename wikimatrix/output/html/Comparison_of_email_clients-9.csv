@@ -1,0 +1,152 @@
+"Client","Message file format","Encrypted database","Virtual folders , URL: /wiki/Virtual_folder
+","Scheduled backup","New mail notification","New mail notification","New mail notification","New mail notification","Customizable interface","Customizable keybindings","Fragmented messages [Note 1]","regular expressions , URL: /wiki/Regular_expression
+","Indexed search , URL: /wiki/Indexed_search
+","Search folders [Note 2]","IMAP","IMAP","IMAP","IMAP"
+"Client","Message file format","Encrypted database","Virtual folders , URL: /wiki/Virtual_folder
+","Scheduled backup","ticker","tray icon","tooltip","sound","Customizable interface","Customizable keybindings","Fragmented messages [Note 1]","regular expressions , URL: /wiki/Regular_expression
+","Indexed search , URL: /wiki/Indexed_search
+","Search folders [Note 2]","","","",""
+"Alpine , URL: /wiki/Alpine_(email_client)
+","mbox , URL: /wiki/Mbox
+MIX , URL: /wiki/MIX_(email)
+maildir , URL: /wiki/Maildir
+MMDF , URL: /wiki/MMDF
+MH , URL: /wiki/MH_Message_Handling_System
+","?","Yes","Partial","?","?","?","Yes","Yes","No","?","No","Yes","Yes","Yes","No","",""
+"Becky! Internet Mail , URL: /wiki/Becky!
+","mbox , URL: /wiki/Mbox
+","?","?","No","Yes","?","Yes","Yes","?","?","?","Yes","?","Yes","Yes","Yes","",""
+"Citadel , URL: /wiki/Citadel/UX
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","",""
+"Claws Mail , URL: /wiki/Claws_Mail
+","MH , URL: /wiki/MH_Message_Handling_System
+mbox , URL: /wiki/Mbox
+","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?","No","Yes","No","",""
+"Courier , URL: /wiki/Courier_(email_client)
+","Proprietary , URL: /wiki/Proprietary_format
+","Yes (weak)","Yes","?","?","?","?","?","Yes (layout)","No","?","No","No","Yes","No","Yes","",""
+"Elm , URL: /wiki/Elm_(email_client)
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","",""
+"eM Client , URL: /wiki/EM_Client
+","Proprietary , URL: /wiki/Proprietary_format
+sqlite , URL: /wiki/Sqlite
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","No","No","Yes","Yes","No","Yes","",""
+"EmailTray , URL: /wiki/EmailTray
+","Proprietary , URL: /wiki/Proprietary_format
+","Yes","Yes","No","Yes","Yes","No","Yes","No","No","No","No","Yes","Yes","?","?","",""
+"Eudora , URL: /wiki/Eudora_(email_client)
+","modified mbox , URL: /wiki/Mbox#Modified_mbox
+","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes[specify]","Yes","Yes","Yes","?","",""
+"Evolution , URL: /wiki/Evolution_(software)
+","maildir , URL: /wiki/Maildir
+mbox , URL: /wiki/Mbox
+MH , URL: /wiki/MH_Message_Handling_System
+","No","Yes","No","No","Yes","Yes","Yes","Partial","Yes [Note 3]","Yes","Yes","Yes","Yes","Yes","Yes","",""
+"Gnus , URL: /wiki/Gnus
+","maildir , URL: /wiki/Maildir
+mbox , URL: /wiki/Mbox
+MMDF , URL: /wiki/MMDF
+","No","Yes","No","No","?","?","?","Yes","Yes","Yes","Yes","Yes[Note 4]","Yes","Yes","?","",""
+"GroupWise , URL: /wiki/GroupWise
+","Proprietary , URL: /wiki/Proprietary_format
+","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes","?","?","?","Yes","Yes","Yes","No","",""
+"Hiri , URL: /wiki/Hiri_(email_client)
+","Proprietary","No","No","No","No","No","No","No","Yes","No","No","No","Yes","Yes","No","No","",""
+"IBM Notes , URL: /wiki/IBM_Lotus_Notes
+","Proprietary","Yes[35]","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes [Note 5]","No","Yes","Yes","?","No","",""
+"KMail , URL: /wiki/KMail
+","mbox , URL: /wiki/Mbox
+maildir , URL: /wiki/Maildir
+","No","Yes","No","?","?","?","?","Yes","Yes","No","Yes","?","Yes","Yes","Yes","",""
+"Mailbird , URL: /wiki/Mailbird
+","Proprietary","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Partial","Yes","Yes","Yes","",""
+"Mailpile , URL: /wiki/Mailpile
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","",""
+"Microsoft Entourage , URL: /wiki/Microsoft_Entourage
+","Personal Storage Table , URL: /wiki/Personal_Storage_Table
+","?","Yes","Partial [Note 6]","?","?","?","?","Partial","No","No","Partial [Note 7]","Yes","Yes","Yes","Yes","",""
+"Microsoft Office Outlook , URL: /wiki/Microsoft_Office_Outlook
+","Personal Storage Table , URL: /wiki/Personal_Storage_Table
+","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes","Yes","?","?","Yes [Note 8]","Yes","?","Yes","",""
+"Mozilla Mail & Newsgroups , URL: /wiki/Mozilla_Mail_%26_Newsgroups
+","mbox , URL: /wiki/Mbox
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","",""
+"Mozilla Thunderbird , URL: /wiki/Mozilla_Thunderbird
+","mbox , URL: /wiki/Mbox
+maildir , URL: /wiki/Maildir
+","No","Yes","?","?","Yes","Yes","Yes","Yes [Note 9]","?","No","?","Yes (as of 3.0)","Yes","Yes","Yes","",""
+"Mulberry , URL: /wiki/Mulberry_(email_client)
+","mbox , URL: /wiki/Mbox
+","Partial [Note 11]","Partial [Note 11]","Partial [Note 11]","?","?","?","?","Yes","?","?","Yes[specify]","Partial [Note 11]","No","Yes","No","",""
+"Mutt , URL: /wiki/Mutt_(email_client)
+","mbox , URL: /wiki/Mbox
+MMDF , URL: /wiki/MMDF
+MH , URL: /wiki/MH_Message_Handling_System
+maildir , URL: /wiki/Maildir
+","Yes (with compressed folders patch[36])","? (has limit command)","No","?","?","?","?","Yes","Yes","?","Yes","Yes[Note 12]","Yes[Note 12]","Yes","Yes","",""
+"Netscape Messenger , URL: /wiki/Netscape_Messenger
+","mbox , URL: /wiki/Mbox
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","",""
+"Netscape Messenger 9 , URL: /wiki/Netscape_Messenger_9
+","mbox , URL: /wiki/Mbox
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","",""
+"nmh / MH , URL: /wiki/MH_Message_Handling_System
+","MH","No","Yes","No","No","?","?","?","Yes","Yes","?","Yes","Yes","Yes","No","?","",""
+"Opera Mail , URL: /wiki/Opera_Mail
+","mbox , URL: /wiki/Mbox
+MH , URL: /wiki/MH_Message_Handling_System
+","No","Yes (all folders are virtual)","No","No","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","?","Yes","",""
+"Outlook Express , URL: /wiki/Outlook_Express
+","Proprietary","No","No","No","?","Yes","No","Yes","No","No","Yes","?","No","?","?","Yes","",""
+"Pegasus Mail , URL: /wiki/Pegasus_Mail
+","Proprietary (mbox-like)","No","Yes","No","?","Yes","Yes","Yes","Yes","?","?","Yes","?","Yes","Yes","No[39]","",""
+"Pine , URL: /wiki/Pine_(email_client)
+","mbox , URL: /wiki/Mbox
+MIX , URL: /wiki/MIX_(email)
+maildir , URL: /wiki/Maildir
+MMDF , URL: /wiki/MMDF
+MH , URL: /wiki/MH_Message_Handling_System
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","No","",""
+"Pocomail , URL: /wiki/Pocomail
+","mbox","Yes","Yes","Yes","?","?","?","?","Yes","?","?","Yes","Yes","Yes","?","?","",""
+"RoundCube , URL: /wiki/RoundCube
+","[IMAP Server]","?","?","?","Yes","No","No","Yes","Yes","Yes","?","?","?","Yes","Yes","?","",""
+"i.Scribe / InScribe , URL: /wiki/Scribe_Mail
+","Proprietary , URL: /wiki/Proprietary_format
+sqlite , URL: /wiki/Sqlite
+","No","No","No","No","Yes","No","Yes","Yes","No","No","No","No","No","No","Yes","",""
+"SeaMonkey , URL: /wiki/SeaMonkey
+","mbox , URL: /wiki/Mbox
+","?","?","?","Yes","Yes","Yes","Yes","?","?","?","?","?","?","Yes","Yes","",""
+"SquirrelMail , URL: /wiki/SquirrelMail
+","[IMAP Server]","?","?","?","Yes","No","No","Yes","Yes","Yes","?","?","?","Yes","Yes","?","",""
+"Sylpheed , URL: /wiki/Sylpheed
+","MH , URL: /wiki/MH_Message_Handling_System
+","No","Yes","No","?","Yes","?","?","Yes","Yes","No","No [Note 13]","No [Note 13]","Yes","?","No","",""
+"The Bat! , URL: /wiki/The_Bat!
+","Proprietary","AES 128 , URL: /wiki/AES_128
+","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes (PCRE 6.2)","No","Yes","Yes","Yes","",""
+"Trojitá , URL: /wiki/Trojit%C3%A1
+","IMAP , URL: /wiki/IMAP
+","No","No","No","No","Yes","No","No","Yes","Yes","No","No","Yes","No","Yes","Yes","",""
+"Turnpike , URL: /wiki/Turnpike_(software)
+","Proprietary","Yes","Yes","?","?","?","?","?","?","?","Yes","?","?","Yes","?","?","",""
+"Windows Live Mail , URL: /wiki/Windows_Live_Mail
+","File System (.eml)","No","No","No","No","Yes","?","Yes","Yes","No","Yes","No","Yes","Yes","?","?","",""
+"Windows Mail , URL: /wiki/Windows_Mail
+","?","?","?","?","?","?","?","Yes","?","?","?","?","?","?","?","Yes","",""
+"YAM , URL: /wiki/YAM_(Yet_Another_Mailer)
+","mbox , URL: /wiki/Mbox
+maildir , URL: /wiki/Maildir
+","No","No","No","?","?","Yes","Yes","Yes","No","No","No","No","No","No","No","",""
+"Zimbra , URL: /wiki/Zimbra
+","File system , URL: /wiki/File_system
+","No","Yes","Yes","?","?","?","?","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","",""
+"Client","Message file format","Encrypted database","Virtual folders , URL: /wiki/Virtual_folder
+","Scheduled backup","New mail notification","New mail notification","New mail notification","New mail notification","Customizable interface","Customizable keybindings","Fragmented messages [Note 1]","regular expressions , URL: /wiki/Regular_expression
+","Indexed search , URL: /wiki/Indexed_search
+","Search folders [Note 2]","IMAP","IMAP","IMAP","IMAP"
+"Client","Message file format","Encrypted database","Virtual folders , URL: /wiki/Virtual_folder
+","Scheduled backup","ticker","tray icon","tooltip","sound","Customizable interface","Customizable keybindings","Fragmented messages [Note 1]","regular expressions , URL: /wiki/Regular_expression
+","Indexed search , URL: /wiki/Indexed_search
+","Search folders [Note 2]","","","",""

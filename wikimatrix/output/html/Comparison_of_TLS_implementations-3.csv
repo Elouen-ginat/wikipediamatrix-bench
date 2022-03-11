@@ -1,0 +1,53 @@
+"Implementation","FIPS 140-1 , URL: /wiki/FIPS_140-1
+FIPS 140-2 , URL: /wiki/FIPS_140-2
+","FIPS 140-1 , URL: /wiki/FIPS_140-1
+FIPS 140-2 , URL: /wiki/FIPS_140-2
+","Common Criteria , URL: /wiki/Common_Criteria
+","Embedded FIPS Solution , URL: /w/index.php?title=Embedded_FIPS_Solution&action=edit&redlink=1
+"
+"Implementation","Level 1","Level 2[disputed – discuss]","Common Criteria , URL: /wiki/Common_Criteria
+","Embedded FIPS Solution , URL: /w/index.php?title=Embedded_FIPS_Solution&action=edit&redlink=1
+"
+"Botan , URL: /wiki/Botan_(programming_library)
+","","","",""
+"Bouncy Castle , URL: /wiki/Bouncy_Castle_(cryptography)
+","BC-FJA 1.0.0 (#2768) BC-FJA 1.0.1 (#3152)","","",""
+"BSAFE , URL: /wiki/BSAFE
+","1785 , URL: https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/1785
+1786 , URL: https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/1786
+2057 , URL: https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/2057
+2058 , URL: https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/2058
+2468 , URL: https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/2468
+2469 , URL: https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/2469
+3172 , URL: https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/3172
+3184 , URL: https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/3184
+#3819 , URL: https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/3819
+#3820 , URL: https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/3820
+","","",""
+"cryptlib , URL: /wiki/Cryptlib
+","","","",""
+"GnuTLS , URL: /wiki/GnuTLS
+","Red Hat Enterprise Linux GnuTLS Cryptographic Module (#2780)","","",""
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","","","",""
+"LibreSSL , URL: /wiki/LibreSSL
+","no support","","",""
+"MatrixSSL , URL: /wiki/MatrixSSL
+","SafeZone FIPS Cryptographic Module: 1.1 (#2389)","","",""
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","","","",""
+"NSS , URL: /wiki/Network_Security_Services
+","Network Security Services: 3.2.2 (#247) Network Security Services Cryptographic Module: 3.11.4 (#815), 3.12.4 (#1278), 3.12.9.1 (#1837)","Netscape Security Module: 1 (#7[notes 1]), 1.01 (#47[notes 2]) Network Security Services: 3.2.2 (#248[notes 3]) Network Security Services Cryptographic Module: 3.11.4 (#814[notes 4]), 3.12.4 (#1279, #1280[notes 5])","",""
+"OpenSSL , URL: /wiki/OpenSSL
+","OpenSSL FIPS Object Module: 1.0 (#624), 1.1.1 (#733), 1.1.2 (#918), 1.2, 1.2.1, 1.2.2, 1.2.3 or 1.2.4 (#1051) 2.0, 2.0.1, 2.0.2, 2.0.3, 2.0.4, 2.0.5, 2.0.6, 2.0.7 or 2.0.8 (#1747)","","",""
+"SChannel , URL: /wiki/SChannel
+","Microsoft FIPS 140 Validated Cryptographic Modules , URL: https://technet.microsoft.com/en-us/library/security/cc750357.aspx#_Microsoft_FIPS_140
+","","",""
+"Secure Transport , URL: /wiki/MacOS
+","Apple FIPS Cryptographic Module: 1.0 (OS X 10.6, #1514), 1.1 (OS X 10.7, #1701) Apple OS X CoreCrypto Module; CoreCrypto Kernel Module: 3.0 (OS X 10.8, #1964, #1956), 4.0 (OS X 10.9, #2015, #2016) Apple iOS CoreCrypto Module; CoreCrypto Kernel Module: 3.0 (iOS 6, #1963, #1944), 4.0 (iOS 7 , #2020, #2021)","","",""
+"wolfSSL , URL: /wiki/WolfSSL
+","NIST certificate , URL: https://csrc.nist.gov/Projects/cryptographic-module-validation-program/Certificate/3389
+NIST certificate , URL: https://csrc.nist.gov/projects/cryptographic-module-validation-program/Certificate/2425
+","","","Yes"
+"Implementation","Level 1","Level 2","Common Criteria","Embedded FIPS Solution"
+"Implementation","FIPS 140-1, FIPS 140-2","FIPS 140-1, FIPS 140-2","Common Criteria","Embedded FIPS Solution"

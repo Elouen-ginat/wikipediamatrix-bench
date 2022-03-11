@@ -1,0 +1,30 @@
+"Model","Code name , URL: /wiki/Code_name
+","Fab (nm)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Boost clock (MHz)","Memory clock (MHz)","Core config1","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","Memory","Memory","Memory","Memory","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","API , URL: /wiki/Application_programming_interface
+","TDP , URL: /wiki/Thermal_design_power
+","Notes"
+"Model","Code name , URL: /wiki/Code_name
+","Fab (nm)","Bus , URL: /wiki/Computer_bus
+interface , URL: /wiki/I/O_interface
+","Core clock (MHz)","Boost clock (MHz)","Memory clock (MHz)","Core config1","Pixel (GP/s)","Texture (GT/s)","Size (GB)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single precision , URL: /wiki/Single_precision_floating-point_format
+","Double precision , URL: /wiki/Double_precision_floating-point_format
+","Direct3D , URL: /wiki/Direct3D
+","OpenGL , URL: /wiki/OpenGL
+","Vulkan , URL: /wiki/Vulkan_(API)
+","OpenCL , URL: /wiki/OpenCL
+","CUDA , URL: /wiki/CUDA
+","TDP , URL: /wiki/Thermal_design_power
+","Notes"
+"Quadro RTX 4000","TU104-850-A1","12","PCIe 3.0 x16","1005","1545","1625 (13000)","2304:144:64:36:288","98.9","222.5","8","416","GDDR6","256","7119","222.5","12.2","4.6","1.2","3.0","7.5","100-125","3x DisplayPort 1x USB Type-C"
+"Quadro RTX 5000","TU104-875-A1","12","PCIe 3.0 x16","1620","1815","1750 (14000)","3072:192:64:48:384","116.2","348.5","16","448","GDDR6","256","11151","348.5","12.2","4.6","1.2","3.0","7.5","125-230","3x DisplayPort 1x USB Type-C"
+"Quadro RTX 6000","TU102-875-A1","12","PCIe 3.0 x16","1440","1770","1750 (14000)","4608:288:96:72:576","169.9","509.8","24","672","GDDR6","384","16312","509.8","12.2","4.6","1.2","3.0","7.5","100-260","3x DisplayPort 1x USB Type-C"
+"Quadro RTX 8000","TU102-875-A1","12","PCIe 3.0 x16","","1770","1750 (14000)","4608:288:96:72:576","169.9","509.8","","672","GDDR6","384","16312","509.8","12.2","4.6","1.2","3.0","7.5","100-260","3x DisplayPort 1x USB Type-C"

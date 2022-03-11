@@ -1,0 +1,162 @@
+"Systems","Creator","Last Stable Version","Release Date","License , URL: /wiki/Software_license
+","Implementation language(s)","Server Operating System","Database backend","First Release Date"
+"Act! CRM , URL: /wiki/Act!_CRM
+","Pat Sullivan , URL: /wiki/Pat_Sullivan_(programmer)
+Mike Muhney , URL: /wiki/Mike_Muhney
+","22.1","June 2020","SaaS , URL: /wiki/Software_as_a_service
+Proprietary , URL: /wiki/Proprietary_software
+","C# , URL: /wiki/C_Sharp_(programming_language)
+.NET , URL: /wiki/.NET_Framework
+","Windows , URL: /wiki/Microsoft_Windows
+iOS , URL: /wiki/IOS
+Android , URL: /wiki/Android_(operating_system)
+","MS SQL , URL: /wiki/Microsoft_SQL_Server
+","1987"
+"Adempiere , URL: /wiki/Adempiere
+","Jorg Janke","3.9.3","December 2019","GPLv2 , URL: /wiki/GPLv2#Version_2
+","Java","Windows, Linux, Unix, Mac","","2006"
+"Base CRM , URL: /wiki/Base_CRM
+","Base CRM","2016","2009","SaaS , URL: /wiki/SaaS
+","Ruby on Rails , URL: /wiki/Ruby_on_Rails
+Python , URL: /wiki/Python_(programming_language)
+","Cloud Computing , URL: /wiki/Cloud_Computing
+iOS , URL: /wiki/IOS
+Android , URL: /wiki/Android_(operating_system)
+Windows Phone , URL: /wiki/Windows_Phone
+","MySQL , URL: /wiki/MySQL
+","2009"
+"Capsule (CRM) , URL: /wiki/Capsule_(CRM)
+","Zestia Ltd.","2019","2009","SaaS , URL: /wiki/SaaS
+","Java , URL: /wiki/Java_(programming_language)
+Scala , URL: /wiki/Scala_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+","iOS , URL: /wiki/IOS
+Android , URL: /wiki/Android_(operating_system)
+","MySQL , URL: /wiki/MySQL
+","2009"
+"CiviCRM , URL: /wiki/CiviCRM
+","Dave Greenberg, Donald Lobo, Michal Mach","5.38","June 2021","AGPLv , URL: /wiki/Affero_General_Public_License
+","PHP 7.2+","Cross-platform","MySQL , URL: /wiki/MySQL
+MariaDB , URL: /wiki/MariaDB
+","2004"
+"Dolibarr , URL: /wiki/Dolibarr
+","Rodolphe Quiedeville, Laurent Destailleur","13.0.3","June 2021","GPLv3 , URL: /wiki/GPLv3
+SaaS , URL: /wiki/SaaS
+","PHP 5.6.x, 7.x","Cross-platform","MySQL or PostgreSQL","2003"
+"Dynamics CRM , URL: /wiki/Microsoft_Dynamics_CRM
+","Microsoft , URL: /wiki/Microsoft
+","Dynamics 365 9.1","July 2019","Proprietary , URL: /wiki/Proprietary_software
+",".NET, ASP.NET","Windows","MS SQL","2003"
+"Epesi CRM , URL: /wiki/EpesiCRM
+","Telaxus LLC","1.8.0","2016 September 26","MIT , URL: /wiki/MIT_license
+","PHP 5.x","Cross-platform","MySQL, PostgreSQL, AdoDB, others","2006"
+"GNU Enterprise , URL: /wiki/GNU_Enterprise
+","FSF","","","GPLv3 , URL: /wiki/GPLv3
+","Python","Linux, Unix, Mac OS X, Windows","Firebird/Interbase, MySQL, MaxDB, MS ADO (MS SQL-Server/MS Access), Oracle, PostgreSQL, SQLite, SQLite3, CSV files,DBF files (DBase, XBase etc.), INI style configuration files","2003"
+"Group-Office , URL: /wiki/Group-Office
+","Intermesh BV","6.4.178","October 2020","AGPLv , URL: /wiki/Affero_General_Public_License
+","PHP/JavaScript","Windows, Linux, Unix, Mac OS","MySQL","2003"
+"HubSpot CRM Free , URL: /wiki/HubSpot#HubSpot_CRM_Free
+","HubSpot , URL: /wiki/HubSpot
+","N/A","N/A","SaaS , URL: /wiki/SaaS
+","Java [2]","Cloud computing","HBase , URL: /wiki/HBase
+","2014[3]"
+"Neolane , URL: /wiki/Neolane
+","Adobe , URL: /wiki/Adobe_Systems
+","v6","2012","Proprietary , URL: /wiki/Proprietary_software
+","C++, JavaScript","Windows, Linux","MS SQL, Oracle, PostgreSQL, MySQL","2001"
+"Nutshell CRM , URL: /wiki/Nutshell_CRM
+","Nutshell CRM","2017","2017","SaaS , URL: /wiki/SaaS
+","PHP","iOS , URL: /wiki/IOS
+Android , URL: /wiki/Android_(operating_system)
+","MySQL , URL: /wiki/MySQL
+","2010"
+"Oracle Advertising and Customer Experience (CX) , URL: /wiki/Oracle_Advertising_and_Customer_Experience_(CX)
+","Oracle Corporation , URL: /wiki/Oracle_Corporation
+","2021","Sept 2021","Proprietary , URL: /wiki/Proprietary_software
+SaaS , URL: /wiki/SaaS
+","Java, PL/SQL, C/C++, Python","Cloud computing , URL: /wiki/Cloud_computing
+","Oracle Database","2011"
+"Pega CRM , URL: /wiki/Pega_7
+","Chordiant , URL: /wiki/Chordiant
+","?","?","Proprietary","?","Windows, Linux, Mac, web browser","?","?"
+"Pipedrive , URL: /wiki/Pipedrive
+","Pipedrive","2018","2018","SaaS , URL: /wiki/SaaS
+","JavaScript , URL: /wiki/JavaScript
+PHP , URL: /wiki/PHP_(programming_language)
+","iOS , URL: /wiki/IOS
+Android , URL: /wiki/Android_(operating_system)
+","MySQL , URL: /wiki/MySQL
+","2011"
+"Pivotal CRM , URL: /wiki/Pivotal_CRM
+","Aptean , URL: /wiki/Aptean
+","6.6","January 2019","Proprietary , URL: /wiki/Proprietary_software
+",".NET","Windows","MS SQL, Oracle","1996"
+"Really Simple Systems , URL: /wiki/Really_Simple_Systems
+","Really Simple Systems","2016","2006","SaaS , URL: /wiki/SaaS
+","VBScript, JavaScript, ASP","Cloud Computing , URL: /wiki/Cloud_Computing
+","MySQL , URL: /wiki/MySQL
+","2006"
+"SageCRM , URL: /wiki/SageCRM
+","Sage Group , URL: /wiki/Sage_Group
+","Sage CRM 2019 R1","February 2019","Proprietary , URL: /wiki/Proprietary_software
+","ASP.NET, ASP","Windows","MS SQL, ORACLE, DB2","1981"
+"Salesbox CRM , URL: /wiki/Salesbox_CRM
+","Salesbox CRM","2019","2019","SaaS , URL: /wiki/SaaS
+","JS , URL: /wiki/JavaScript
+React , URL: /wiki/React_(JavaScript_library)
+","Web , URL: /wiki/World_Wide_Web
+iOS , URL: /wiki/IOS
+Android , URL: /wiki/Android_(operating_system)
+","PostgreSQL , URL: /wiki/PostgreSQL
+","2014"
+"Salesforce.com , URL: /wiki/Salesforce.com
+","Marc Benioff","Winter '21","June 2019","Proprietary , URL: /wiki/Proprietary_software
+","APEX (Proprietary Language Java-like)","Cloud Computing , URL: /wiki/Cloud_Computing
+","Proprietary","1999"
+"SAP CRM , URL: /wiki/SAP_CRM
+","SAP SE , URL: /wiki/SAP_SE
+","7.0 EHP4 SP11","2018","Proprietary , URL: /wiki/Proprietary_software
+","ABAP","Windows, Linux, Unix","SAP HANA, MS SQL, Oracle","2000"
+"SAP Cloud for Customer , URL: /wiki/SAP_CRM
+","SAP SE , URL: /wiki/SAP_SE
+","1811","2018","Proprietary , URL: /wiki/Proprietary_software
+","ABAP","Linux","SAP HANA","2009"
+"Snapforce CRM , URL: /wiki/Snapforce_CRM
+","Snapforce CRM","2016","2013","SaaS , URL: /wiki/SaaS
+","PHP","Cloud Computing , URL: /wiki/Cloud_Computing
+","MySQL , URL: /wiki/MySQL
+","2011"
+"Streak , URL: /wiki/Streak_(company)
+","Aleem Mawani, Omar Ismail","","","Proprietary , URL: /wiki/Proprietary_software
+","Java","Windows, Mac","Google App Engine","2012"
+"SugarCRM , URL: /wiki/SugarCRM
+","John Roberts, Clint Oram, Jacob Taylor","9.0.1[5]","June 2019","Proprietary , URL: /wiki/Proprietary_software
+SaaS , URL: /wiki/SaaS
+","PHP , URL: /wiki/PHP
+","Cross-platform","MySQL , URL: /wiki/MySQL
+","2004"
+"SuiteCRM , URL: /wiki/SuiteCRM
+","SalesAgility","7.11.15","June 2020","AGPLv , URL: /wiki/Affero_General_Public_License
+","PHP","Cross-platform","MariaDB , URL: /wiki/MariaDB
+MySQL , URL: /wiki/MySQL
+Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
+","2013"
+"SuperOffice CRM , URL: /wiki/SuperOffice
+","SuperOffice","7.5","2014","Proprietary , URL: /wiki/Proprietary_software
+","C++,C# and ASP.NET","Windows","SQL Server","1990"
+"OnlyOffice , URL: /wiki/OnlyOffice
+","Ascensio System SIA","10.5.1","December 2019","GPLv3 , URL: /wiki/GPLv3
+SaaS , URL: /wiki/SaaS
+","ASP.NET","Windows","Microsoft SQL Server, Amazon Server","2010"
+"Tryton , URL: /wiki/Tryton
+","Tryton","5.6","May 2020","GPLv3 , URL: /wiki/GPLv3
+","Python, JavaScript","Cross-platform","PostgreSQL , URL: /wiki/PostgreSQL
+MySQL , URL: /wiki/MySQL
+SQLite , URL: /wiki/SQLite
+","2008"
+"WORKetc , URL: /wiki/WORKetc
+","Daniel Barnett","v4.0","2013","SaaS , URL: /wiki/SaaS
+","C#, .NET","Windows","Microsoft SQL Server, Amazon Server","2009"
+"Zoho CRM , URL: /wiki/Zoho_CRM
+","Zoho CRM","Zoho CRM 2018","2018","SaaS","Java","Cloud Computing, Cross Platform","Proprietary","1999"

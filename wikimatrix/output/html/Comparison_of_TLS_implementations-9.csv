@@ -1,0 +1,30 @@
+"Implementation","sect163k1 NIST K-163 (1)[81]","sect163r1 (2)[81]","sect163r2 NIST B-163 (3)[81]","sect193r1 (4)[81]","sect193r2 (5)[81]","sect233k1 NIST K-233 (6)[81]","sect233r1 NIST B-233 (7)[81]","sect239k1 (8)[81]","sect283k1 NIST K-283 (9)[81]","sect283r1 NIST B-283 (10)[81]","sect409k1 NIST K-409 (11)[81]","sect409r1 NIST B-409 (12)[81]","sect571k1 NIST K-571 (13)[81]","sect571r1 NIST B-571 (14)[81]"
+"Botan , URL: /wiki/Botan_(programming_library)
+","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"BoringSSL , URL: /wiki/BoringSSL
+","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"BSAFE , URL: /wiki/BSAFE
+","Yes","No","Yes","No","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes"
+"GnuTLS , URL: /wiki/GnuTLS
+","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"JSSE , URL: /wiki/Java_Secure_Socket_Extension
+","Notes[a][b]","Notes[a][b]","Notes[a][b]","Notes[a][b]","Notes[a][b]","Notes[a][b]","Notes[a][b]","Notes[a][b]","Notes[a][b]","Notes[a][b]","Notes[a][b]","Notes[a][b]","Notes[a][b]","Notes[a][b]"
+"LibreSSL , URL: /wiki/LibreSSL
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"MatrixSSL , URL: /wiki/MatrixSSL
+","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"Mbed TLS , URL: /wiki/Mbed_TLS
+","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"NSS , URL: /wiki/Network_Security_Services
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"OpenSSL , URL: /wiki/OpenSSL
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"SChannel Vista/2008, 7/2008R2, 8/2012, 8.1/2012R2, 10 , URL: /wiki/SChannel
+","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"Secure Transport , URL: /wiki/MacOS
+","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"wolfSSL , URL: /wiki/WolfSSL
+","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Implementation","sect163k1 NIST K-163 (1)","sect163r1 (2)","sect163r2 NIST B-163 (3)","sect193r1 (4)","sect193r2 (5)","sect233k1 NIST K-233 (6)","sect233r1 NIST B-233 (7)","sect239k1 (8)","sect283k1 NIST K-283 (9)","sect283r1 NIST B-283 (10)","sect409k1 NIST K-409 (11)","sect409r1 NIST B-409 (12)","sect571k1 NIST K-571 (13)","sect571r1 NIST B-571 (14)"

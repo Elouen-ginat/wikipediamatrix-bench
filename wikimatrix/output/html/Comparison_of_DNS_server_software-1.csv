@@ -1,19 +1,42 @@
-"null","null","null","null","null","null","null","null","null","null","null","null","null"
-"Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","API, command line","Yes",""
-"Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes (since 9.x)","Yes (since 4.x)","Yes","Web[Note 1], command line","Yes","Yes"
-"Yes","Yes","Yes","Yes[Note 2]","Yes","Yes (since 3.0) [Note 3]","Yes (since 3.0)","Yes[Note 2]","Yes","Yes","REST, Web[Note 4], command line","Partial[Note 5]","Yes"
-"Yes","Yes","Yes","Yes[Note 6]","Yes","Partial[Note 7]","No","Partial via generic records. [5]","Partial[Note 8]","Yes","command line and web (VegaDNS & NicTool)","Yes[Note 9]",""
-"Yes","Yes","Yes","Yes","Yes","No","No","Yes","Partial","Yes","command line and web","Yes",""
-"Partial","Yes","Partial","Partial","Yes","No [16]","Partial","Yes","Yes","Yes","command line, pdnsd-ctl program","Partial",""
-"Yes","Yes","Yes","Partial[Note 10]","Yes","No","No","Partial","Yes","Yes","command line","No",""
-"Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","command line, API","No",""
-"Partial","Yes","Yes","N/A","Yes","Yes","No","Yes","Yes","Yes","command line, API","Yes","Yes"
-"Partial[Note 11]","No","No","No","Yes","Yes (since 2.69) [Note 12]","No","Yes","Yes","Yes","command line","Partial[Note 13]",""
-"Yes","No","N/A","Yes","N/A","Yes","Yes","Yes","Yes","Yes","command line","No",""
-"Yes","No","N/A","Yes","N/A","Yes","Yes","Yes","Yes","Yes","command line","Yes[Note 14]",""
-"Yes","No","N/A","Yes","N/A","Yes","Yes","Yes","Yes","Yes","command line","No",""
-"Yes","Yes","Yes[Note 15]","Yes","Yes","Yes[Note 16]","Yes[Note 17]","Yes[Note 18]","Yes","No","GUI, command line, API[Note 19], WMI[Note 20], RPC[Note 21]","Yes[Note 15]",""
-"Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","GUI, Web, command line","Yes[Note 22]","Yes"
-"Yes","No","No","Yes","No","Yes","Yes","Yes","Yes","No","Command Line or Web GUI","Yes",""
-"No","Yes","Yes","No","Yes","Yes","No","Yes","Yes","No","Command Line or Web GUI","Yes",""
-"null","null","null","null","null","null","null","null","null","null","null","null","null"
+"Server","BSD , URL: /wiki/Berkeley_Software_Distribution
+","Solaris , URL: /wiki/Solaris_(operating_system)
+","Linux , URL: /wiki/Linux
+","Mac OS X , URL: /wiki/Mac_OS_X
+","Windows , URL: /wiki/Microsoft_Windows
+"
+"BIND , URL: /wiki/BIND
+","Yes","Yes","Yes","Yes","Yes[Note 1]"
+"Microsoft DNS , URL: /wiki/Microsoft_DNS
+","No","No","No","No","Included[Note 2]"
+"djbdns , URL: /wiki/Djbdns
+","Yes","Yes","Yes","Yes","No"
+"Dnsmasq , URL: /wiki/Dnsmasq
+","Yes","Yes","Yes","Yes","No"
+"Simple DNS Plus , URL: /wiki/Simple_DNS_Plus
+","No","No","No","No","Yes"
+"NSD , URL: /wiki/NSD
+","Yes","Yes","Yes","Yes","No"
+"Knot DNS , URL: /wiki/Knot_DNS
+","Yes","No","Yes","Yes","No"
+"PowerDNS , URL: /wiki/PowerDNS
+","Yes","[6] , URL: http://www.solaris4you.dk/dnsservSS.html
+","Yes","Beta , URL: /wiki/Software_release_life_cycle#Beta
+","No"
+"MaraDNS , URL: /wiki/MaraDNS
+","Yes","[7] , URL: http://www.solaris4you.dk/dnsservSS.html
+","Yes","Yes","Partial"
+"pdnsd , URL: /wiki/Pdnsd
+","Yes","Partial[17]","Yes","Yes","No"
+"Posadis , URL: /wiki/Posadis
+","Yes","Yes","Yes","Yes","[8] , URL: http://posadis.sourceforge.net/
+"
+"Unbound , URL: /wiki/Unbound_(DNS_Server)
+","Yes","Yes","Yes","Yes","Yes"
+"Cisco Network Registrar , URL: /wiki/Cisco_Network_Registrar
+","No","Yes","Yes","No","Yes"
+"YADIFA , URL: /wiki/YADIFA
+","Yes","Yes","Yes","Yes","No"
+"Secure64 DNS Authority , URL: /wiki/Secure64_DNS
+","No","No","Yes","No","No"
+"Secure64 DNS Cache , URL: /wiki/Secure64_DNS
+","No","No","Yes","No","No"

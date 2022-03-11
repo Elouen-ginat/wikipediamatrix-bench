@@ -1,1 +1,50 @@
-"","This list is incomplete; you can help by adding missing items. (February 2011)"
+"Names","Underlying theory (symbolic, connectionist, or hybrid)","Achievements","Estimated requirements","Non-laboratory usages","Activity status (active or dead + RSS news)","Year of creation","Related publications","License (if applies, for example GPL)",""
+"4CAPS , URL: /wiki/4CAPS
+","hybrid","?","?","?","?","?","?","",""
+"ACT-R , URL: /wiki/ACT-R
+","hybrid [1]","?","?","?","active","?","Anderson, 2007","",""
+"ASMO , URL: /wiki/ASMO
+","hybrid","Many robotic systems","?","IBM internet-of-things system","active","2009","Novianto, Johnston and Williams 2010","",""
+"CHREST , URL: /wiki/CHREST
+","symbolic","?","?","?","active","1992 [2]","?","",""
+"CLARION , URL: /wiki/CLARION_(cognitive_architecture)
+","hybrid [1]","Many psychological theories derived from it","?","?","active","1994","Sun, 2002, 2016","",""
+"Copycat , URL: /wiki/Copycat_(software)
+","?","?","?","?","?","?","?","",""
+"Deeplearning4j , URL: /wiki/Deeplearning4j
+","hybrid","online learning, anomaly detection, image recognition","?","?","active","Josh Patterson & Adam Gibson (2017) , URL: http://shop.oreilly.com/product/0636920035343.do
+","Apache 2.0","",""
+"DUAL , URL: /wiki/DUAL_(cognitive_architecture)
+","hybrid","?","?","?","?","?","?","",""
+"EPAM , URL: /wiki/EPAM
+","?","?","?","?","?","1959 [2]","?","",""
+"EPIC","?","?","?","?","?","?","?","",""
+"GLAIR , URL: /w/index.php?title=GLAIR_(cognitive_architecture)&action=edit&redlink=1
+","symbolic","?","?","?","active","?","Bona and Shapiro, 2009","?",""
+"Hierarchical Temporal Memory , URL: /wiki/Hierarchical_Temporal_Memory
+","connectionist","online learning, anomaly detection","?","anomaly detection","active","2009","Hawkins et al (multiple)","AGPL",""
+"LIDA , URL: /wiki/LIDA_(cognitive_architecture)
+","symbolic","?","?","?","?","?","?","",""
+"MAMID , URL: /w/index.php?title=MAMID_(cognitive_architecture)&action=edit&redlink=1
+","?","?","?","?","?","?","Hudlicka, 2002; 2003","?",""
+"Mibe architecture , URL: /wiki/Mibe_architecture
+","?","?","?","?","?","1998","?","",""
+"OpenCog , URL: /wiki/OpenCog
+","hybrid","chatbot, game avatar","?","misc subsystems in commercial, financial, medical","active","2001","Goertzel et al (multiple)","AGPL",""
+"Parallel terraced scan , URL: /wiki/Parallel_terraced_scan
+","?","?","?","?","?","?","?","",""
+"Procedural Reasoning System , URL: /wiki/Procedural_Reasoning_System
+","?","?","?","?","?","?","?","",""
+"R-CAST , URL: /wiki/R-CAST
+","?","?","?","?","?","?","?","",""
+"Soar , URL: /wiki/Soar_(cognitive_architecture)
+","symbolic [1]","?","?","yes","active","1983","Laird (2012)","",""
+"Sigma , URL: http://cogarch.ict.usc.edu
+","Hybrid","Ray Kurzweil Awards at AGI 2011 and 2012","?","not yet","active","2009","Rosenbloom, Demski, Ustun (2016) , URL: http://www.degruyter.com/dg/viewarticle.fullcontentlink:pdfeventlink/$002fj$002fjagi.ahead-of-print$002fjagi-2016-0001$002fjagi-2016-0001.pdf/jagi-2016-0001.pdf?format=INT&t:ac=j$002fjagi.ahead-of-print$002fjagi-2016-0001$002fjagi-2016-0001.xml
+","BSD 2 clause , URL: https://opensource.org/licenses/BSD-2-Clause
+",""
+"SOSIEL , URL: https://www.sosiel.org
+","Symbolic","",".Net Core","policy analysis","active","2018","Sotnik (2018) , URL: https://www.sciencedirect.com/science/article/abs/pii/S2212683X18301038
+","open source",""
+"TinyCog , URL: http://tinycog.sourceforge.net/
+","symbolic","?","?","?","active","2015","Bergmann and Fenton, 2015","GPL V3",""

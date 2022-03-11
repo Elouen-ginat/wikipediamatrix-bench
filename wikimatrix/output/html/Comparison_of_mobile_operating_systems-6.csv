@@ -1,0 +1,47 @@
+"Feature","Android , URL: /wiki/Android_(operating_system)
+","iOS , URL: /wiki/IOS
+","Tizen , URL: /wiki/Tizen
+","Sailfish OS , URL: /wiki/Sailfish_OS
+","Ubuntu Touch , URL: /wiki/Ubuntu_Touch
+"
+"Unified Inbox","No,[178] but 3rd party apps available[179]","Yes","Yes","Yes","?"
+"Email sync protocols supported","POP3, IMAP, MAPI","POP3 , URL: /wiki/POP3
+IMAP , URL: /wiki/IMAP
+MAPI , URL: /wiki/MAPI
+ActiveSync , URL: /wiki/ActiveSync
+","POP3, IMAP","POP3, IMAP, ActiveSync","?"
+"Non-carrier-based integrated messaging","Google Hangouts , URL: /wiki/Google_Hangouts
+","iMessage , URL: /wiki/IMessage
+","?","3rd party software","3rd party software"
+"Visual voicemail , URL: /wiki/Visual_voicemail
+","2.1+[182]","Yes","?","?","?"
+"Call log duration","Yes[183]","Yes[184]","?","Yes","Yes"
+"Multiple mobile phones per contact","Yes","Yes","?","Yes","Yes"
+"Contact groups","4+[185] or 3rd party software[186]","iCloud , URL: /wiki/ICloud
+","Yes","No[188]","?"
+"Voice over IP , URL: /wiki/Voice_over_IP
+","SIP , URL: /wiki/Session_Initiation_Protocol
+","FaceTime , URL: /wiki/FaceTime
+","No[192]","3rd party software","3rd party software"
+"NFC payment software","Available on any device that supports the hardware. Android Pay for NFC payments available in Play Store.[193]","iPhone 6/6 Plus , URL: /wiki/IPhone_6
+iPhone 5 , URL: /wiki/IPhone_5
+Apple Watch , URL: /wiki/Apple_Watch
+Apple Pay , URL: /wiki/Apple_Pay
+","Samsung Pay , URL: /wiki/Samsung_Pay
+","No","No"
+"Tethering","Mobile Wi-Fi Hotspot, USB, Bluetooth","4.3+: Personal Hotspot (Wi-Fi, Bluetooth, USB; carrier dependent)","microUSB, Bluetooth 3.0, Mobile Wi-Fi Hotspot","Mobile Wi-Fi Hotspot, USB, Bluetooth","Mobile Wi-Fi Hotspot"
+"USB On-The-Go , URL: /wiki/USB_On-The-Go
+","3.1+[194][195]","13+;[196] 9+: Only for connecting cameras","No","Yes","Yes"
+"Wi-Fi Direct , URL: /wiki/Wi-Fi_Direct
+","4+[51] and selected devices[197][198]","No, 3rd party software on jailbroken devices","bada , URL: /wiki/Bada
+Tizen , URL: /wiki/Tizen
+","No[200]","No"
+"DHCP v4","Yes","Yes","?","?","?"
+"DHCP v6","No","Yes","?","?","?"
+"Bluetooth , URL: /wiki/Bluetooth
+","2+[201]","AirDrop , URL: /wiki/AirDrop
+","bada , URL: /wiki/Bada
+Tizen , URL: /wiki/Tizen
+","Yes[203] but limited to images, videos and contacts","No"
+"NFC , URL: /wiki/Near_field_communication
+","No, removed on Android 10","No","2+[199]","No","No"

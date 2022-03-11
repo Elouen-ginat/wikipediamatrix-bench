@@ -1,0 +1,181 @@
+"Name","Parsing , URL: /wiki/Parsing
+","Output languages , URL: /wiki/Programming_language
+","Grammar, code","Development platform","License , URL: /wiki/Software_license
+"
+"AustenX","Packrat (modified)","Java , URL: /wiki/Java_(programming_language)
+","Separate","All","BSD , URL: /wiki/BSD_licenses
+"
+"Aurochs","Packrat","C , URL: /wiki/C_(programming_language)
+OCaml , URL: /wiki/OCaml
+Java , URL: /wiki/Java_(programming_language)
+","Mixed","All","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"BNFlite","Recursive descent","C++ , URL: /wiki/C%2B%2B
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"Canopy","Packrat","Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+Python , URL: /wiki/Python_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+","Separate","All","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"CL-peg","Packrat","Common Lisp , URL: /wiki/Common_Lisp
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"Drat!","Packrat","D , URL: /wiki/D_(programming_language)
+","Mixed","All","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"Frisby","Packrat","Haskell , URL: /wiki/Haskell_(programming_language)
+","Mixed","All","BSD , URL: /wiki/BSD_licenses
+"
+"grammar::peg , URL: /wiki/Tcllib
+","Packrat","Tcl , URL: /wiki/Tcl
+","Mixed","All","BSD , URL: /wiki/BSD_licenses
+"
+"Grako","Packrat + Cut + Left Recursion","Python , URL: /wiki/Python_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+","Separate","All","BSD , URL: /wiki/BSD_licenses
+"
+"IronMeta","Packrat","C# , URL: /wiki/C_Sharp_(programming_language)
+","Mixed","Windows , URL: /wiki/Microsoft_Windows
+","BSD , URL: /wiki/BSD_licenses
+"
+"Laja","backtracking , URL: /wiki/Backtracking
+","Java , URL: /wiki/Java_(programming_language)
+","Separate","All","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"lars::Parser","Packrat (supporting left-recursion and grammar ambiguity)","C++ , URL: /wiki/C%2B%2B
+","Identical","All","BSD , URL: /wiki/BSD_licenses
+"
+"LPeg","Parsing machine","Lua , URL: /wiki/Lua_(programming_language)
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"lug","Parsing machine","C++17 , URL: /wiki/C%2B%2B17
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"Mouse","Recursive descent","Java , URL: /wiki/Java_(programming_language)
+","Separate","Java virtual machine , URL: /wiki/Java_virtual_machine
+","Apache , URL: /wiki/Apache_License
+"
+"Narwhal","Packrat","C , URL: /wiki/C_(programming_language)
+","Mixed","POSIX , URL: /wiki/POSIX
+Windows , URL: /wiki/Microsoft_Windows
+","BSD , URL: /wiki/BSD_licenses
+"
+"Nearley","Earley , URL: /wiki/Earley_parser
+","JavaScript , URL: /wiki/JavaScript
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"Nemerle.Peg","Recursive descent + Pratt","Nemerle , URL: /wiki/Nemerle
+","Separate","All","BSD , URL: /wiki/BSD_licenses
+"
+"neotoma","Packrat","Erlang , URL: /wiki/Erlang_(programming_language)
+","Separate","All","MIT , URL: /wiki/MIT_License
+"
+"NPEG","Recursive descent","C# , URL: /wiki/C_Sharp_(programming_language)
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"OMeta , URL: /wiki/OMeta
+","Packrat (modified, partial memoization)","JavaScript , URL: /wiki/JavaScript
+Squeak , URL: /wiki/Squeak
+Python , URL: /wiki/Python_(programming_language)
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"PackCC , URL: /wiki/PackCC
+","Packrat (modified, left-recursion support)","C , URL: /wiki/C_(programming_language)
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"Packrat","Packrat","Scheme , URL: /wiki/Scheme_(programming_language)
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"Pappy , URL: /wiki/Pappy
+","Packrat","Haskell , URL: /wiki/Haskell_(programming_language)
+","Mixed","All","BSD , URL: /wiki/BSD_licenses
+"
+"parboiled , URL: /wiki/Parboiled_(Java)
+","Recursive descent","Java , URL: /wiki/Java_(programming_language)
+Scala , URL: /wiki/Scala_(programming_language)
+","Mixed","Java virtual machine , URL: /wiki/Java_virtual_machine
+","Apache , URL: /wiki/Apache_License
+"
+"Lambda PEG","Recursive descent","Java , URL: /wiki/Java_(programming_language)
+","Mixed","Java virtual machine , URL: /wiki/Java_virtual_machine
+","Apache , URL: /wiki/Apache_License
+"
+"parsepp","Recursive descent","C++ , URL: /wiki/C%2B%2B
+","Mixed","All","public domain , URL: /wiki/Public_domain
+"
+"Parsnip","Packrat","C++ , URL: /wiki/C%2B%2B
+","Mixed","Windows , URL: /wiki/Microsoft_Windows
+","GNU GPL , URL: /wiki/GNU_General_Public_License
+"
+"Patterns","Parsing machine","Swift , URL: /wiki/Swift_(programming_language)
+","Identical","All","MIT , URL: /wiki/MIT_License
+"
+"peg","Recursive descent","C , URL: /wiki/C_(programming_language)
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"PEG.js","Packrat (partial memoization)","JavaScript , URL: /wiki/JavaScript
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"Peggy[12]","Packrat (partial memoization)","JavaScript , URL: /wiki/JavaScript
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"Pegasus","Recursive descent, Packrat (selectively)","C# , URL: /wiki/C_Sharp_(programming_language)
+","Mixed","Windows , URL: /wiki/Microsoft_Windows
+","MIT , URL: /wiki/MIT_License
+"
+"pegc","Recursive descent","C , URL: /wiki/C_(programming_language)
+","Mixed","All","public domain , URL: /wiki/Public_domain
+"
+"pest","Recursive descent","Rust , URL: /wiki/Rust_(programming_language)
+","Separate","All","MPL , URL: /wiki/Mozilla_Public_License
+"
+"PetitParser","Packrat","Smalltalk , URL: /wiki/Smalltalk
+Java , URL: /wiki/Java_(programming_language)
+Dart , URL: /wiki/Dart_(programming_language)
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"PEGTL","Recursive descent","C++11 , URL: /wiki/C%2B%2B11
+C++17 , URL: /wiki/C%2B%2B17
+","Mixed","All","Boost , URL: /wiki/Boost_Software_License
+"
+"Parser Grammar Engine , URL: /wiki/Parser_Grammar_Engine
+","Hybrid recursive descent / operator precedence[13]","Parrot bytecode , URL: /wiki/Parrot_virtual_machine
+","Mixed","Parrot virtual machine , URL: /wiki/Parrot_virtual_machine
+","Artistic , URL: /wiki/Artistic_License
+"
+"PyPy , URL: /wiki/PyPy
+","Packrat","Python , URL: /wiki/Python_(programming_language)
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"Rats!","Packrat","Java , URL: /wiki/Java_(programming_language)
+","Mixed","Java virtual machine , URL: /wiki/Java_virtual_machine
+","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"Rekex , URL: https://github.com/zhong-j-yu/rekex
+","Recursive descent","Java , URL: /wiki/Java_(programming_language)
+","Mixed","Java virtual machine , URL: /wiki/Java_virtual_machine
+","Apache , URL: /wiki/Apache_License
+"
+"Spirit2","Recursive descent","C++ , URL: /wiki/C%2B%2B
+","Mixed","All","Boost , URL: /wiki/Boost_Software_License
+"
+"Treetop","Recursive descent","Ruby , URL: /wiki/Ruby_(programming_language)
+","Mixed","All","MIT , URL: /wiki/MIT_License
+"
+"Yard","Recursive descent","C++ , URL: /wiki/C%2B%2B
+","Mixed","All","MIT , URL: /wiki/MIT_License
+public domain , URL: /wiki/Public_domain
+"
+"Waxeye","Parsing machine","C , URL: /wiki/C_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+Python , URL: /wiki/Python_(programming_language)
+Racket , URL: /wiki/Racket_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+","Separate","All","MIT , URL: /wiki/MIT_License
+"
+"PHP PEG","PEG Parser?","PHP , URL: /wiki/PHP
+","Mixed","All","BSD , URL: /wiki/BSD_licenses
+"

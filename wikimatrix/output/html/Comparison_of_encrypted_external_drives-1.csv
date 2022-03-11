@@ -1,20 +1,28 @@
-"null","null","null"
-"iStorage Limited","2015","Yes"
-"iStorage Limited","-","Yes"
-"iStorage Limited","2017","Yes"
-"BlockMaster","2004","Yes"
-"BlockMaster","2009","Yes"
-"IronKey","2005","No"
-"IronKey","2009","Yes"
-"IronKey","2009","Yes"
-"CryptX2 / Open Source","2012","Yes"
-"Kingston Technology","2010","Yes"
-"Kingston Technology","","Yes"
-"Kingston Technology","","Yes"
-"Kingston Technology","","Yes"
-"Lexar","","Yes"
-"Lockheed Martin","2010","Yes"
-"SanDisk","","Yes"
-"Verbatim","","Yes"
-"Kanguru Solutions","2012","Yes"
-"null","null","null"
+"Name","Windows , URL: /wiki/Windows
+","FreeBSD , URL: /wiki/FreeBSD
+","Linux , URL: /wiki/Linux
+","Mac OS , URL: /wiki/Mac_OS
+","NetBSD , URL: /wiki/NetBSD
+","OpenBSD , URL: /wiki/OpenBSD
+"
+"SafeStick","Yes","No","Yes","Yes","No","No"
+"SafeStick SuperSonic","Yes","No","Yes","Yes","No","No"
+"IronKey S100","Yes","No","Yes","Yes","No","No"
+"IronKey S200","Yes","No","Yes","Yes","No","No"
+"IronKey D200","Yes","No","Yes","Yes","No","No"
+"CryptX2","Yes","Yes","Yes","Yes","Yes","Yes"
+"DataTraveler 5000","Yes","No","No","No","No","No"
+"DataTraveler Locker+","Yes","No","No","Yes","No","No"
+"DataTraveler Vault","Yes","No","Public partition only","Public partition only","No","No"
+"DataTraveler Vault – Privacy Edition","Yes","No","No","Yes","No","No"
+"JumpDrive SecureII Plus","Yes","Unknown","Unknown","Unknown","Unknown","Unknown"
+"IronClad","Yes","No","Yes","Yes","No","No"
+"Cruzer Enterprise","Yes","Unknown","Unknown","Yes","Unknown","Unknown"
+"Store n' Go Corporate","Yes","Unknown","Unknown","Unknown","Unknown","Unknown"
+"Name","Windows , URL: /wiki/Windows
+","FreeBSD , URL: /wiki/FreeBSD
+","Linux , URL: /wiki/Linux
+","Mac OS , URL: /wiki/Mac_OS
+","NetBSD , URL: /wiki/NetBSD
+","OpenBSD , URL: /wiki/OpenBSD
+"

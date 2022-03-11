@@ -1,0 +1,60 @@
+"OLAP server","Authentication","Network encryption","On-the-Fly[a]","Data access","Data access","Data access"
+"OLAP server","Authentication","Network encryption","On-the-Fly[a]","Cell security","Dimension security","Visual totals"
+"Apache Druid , URL: /wiki/Apache_Druid
+","Druid Database authentication","SSL , URL: /wiki/Transport_Layer_Security
+","Yes","No","Yes","No"
+"Apache Kylin , URL: /wiki/Apache_Kylin
+","LDAP, SAML, Kerboros, Microsoft Active Directory","SSL","Yes","No","No","?"
+"Apache Pinot , URL: /wiki/Apache_Pinot
+","Authentication not yet supported","SSL , URL: /wiki/Transport_Layer_Security
+","?","No","No","No"
+"ClickHouse , URL: /wiki/ClickHouse
+","LDAP , URL: /wiki/LDAP
+Microsoft Active Directory , URL: /wiki/Microsoft_Active_Directory
+Kerberos , URL: /wiki/Kerberos_(protocol)
+","SSL , URL: /wiki/Transport_Layer_Security
+","Yes","Yes","Yes","Yes"
+"Essbase , URL: /wiki/Essbase
+","LDAP , URL: /wiki/LDAP
+Microsoft Active Directory , URL: /wiki/Microsoft_Active_Directory
+","SSL , URL: /wiki/Transport_Layer_Security
+","Yes","Yes","Yes","No"
+"IBM Cognos TM1 , URL: /wiki/IBM_Cognos_TM1
+","LDAP , URL: /wiki/LDAP
+Microsoft Active Directory , URL: /wiki/Microsoft_Active_Directory
+NTLM , URL: /wiki/NTLM
+","SSL , URL: /wiki/Transport_Layer_Security
+","Yes","Yes","Yes","Yes"
+"icCube , URL: /wiki/IcCube
+","HTTP Basic/Form Authentication, Windows SSO (NTLM,Kerberos), Plugin Based for Embedded Usage","SSL , URL: /wiki/Transport_Layer_Security
+","Yes","Yes","Yes","Yes"
+"Jedox OLAP Server , URL: /wiki/Jedox
+","LDAP , URL: /wiki/LDAP
+Microsoft Active Directory , URL: /wiki/Microsoft_Active_Directory
+","SSL , URL: /wiki/Transport_Layer_Security
+","Yes","Yes","Yes","?"
+"Kyvos , URL: /wiki/Kyvos
+","LDAP , URL: /wiki/LDAP
+Microsoft Active Directory , URL: /wiki/Microsoft_Active_Directory
+","SSL , URL: /wiki/Transport_Layer_Security
+","Yes","Yes","Yes","Yes"
+"Microsoft Analysis Services , URL: /wiki/Microsoft_Analysis_Services
+","NTLM , URL: /wiki/NTLM
+Kerberos , URL: /wiki/Kerberos_(protocol)
+","SSL , URL: /wiki/Transport_Layer_Security
+SSPI , URL: /wiki/SSPI
+","Yes","Yes","Yes","Yes"
+"MicroStrategy Intelligence Server , URL: /wiki/MicroStrategy
+","LDAP , URL: /wiki/LDAP
+Microsoft Active Directory , URL: /wiki/Microsoft_Active_Directory
+NTLM , URL: /wiki/NTLM
+Kerberos , URL: /wiki/Kerberos_(protocol)
+","SSL , URL: /wiki/Transport_Layer_Security
+","?","Yes","Yes","Yes"
+"Oracle Database OLAP Option , URL: /wiki/Oracle_OLAP
+","Oracle Database authentication","SSL , URL: /wiki/Transport_Layer_Security
+","?","Yes","Yes","No"
+"SAS OLAP Server , URL: /wiki/SAS_System
+","LDAP , URL: /wiki/LDAP
+Microsoft Active Directory , URL: /wiki/Microsoft_Active_Directory
+","Yes[41]","?","Yes","Yes","Yes"

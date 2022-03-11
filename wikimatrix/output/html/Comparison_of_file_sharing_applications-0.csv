@@ -1,0 +1,163 @@
+"Name","Network , URL: /wiki/Computer_networking
+","Anonymous P2P , URL: /wiki/Anonymous_P2P
+","Link system compatibility","Price","Platform , URL: /wiki/Computing_platform
+","License , URL: /wiki/Software_license
+","Programming language , URL: /wiki/Programming_language
+","Spyware , URL: /wiki/Spyware
+Adware , URL: /wiki/Adware
+","Latest release year","Extra information"
+"aMule , URL: /wiki/AMule
+","eDonkey , URL: /wiki/EDonkey_network
+Kad , URL: /wiki/Kad_network
+","No","eD2k , URL: /wiki/Ed2k_URI_scheme
+","Free","GNU , URL: /wiki/GNU
+Windows , URL: /wiki/Microsoft_Windows
+Linux , URL: /wiki/Linux
+","GPL","C++ , URL: /wiki/C%2B%2B
+","Yes","2016, 2.3.3 (February 7, 2021; 12 months ago (2021-02-07)[2]) [±]",""
+"BitComet , URL: /wiki/BitComet
+","BitTorrent, eDonkey, Kad;[3] HTTP/FTP download","No","ed2k,[3] magnet","Free","Windows","Proprietary , URL: /wiki/Proprietary_software
+","C++","Yes","2015, 1.85 (January 18, 2022; 35 days ago (2022-01-18)) [±][4]","Exploits SuperSeeding and thus is often banned by trackers and peers. Compatible with e2DK links through an eMule plugin which gives access to eDonkey and Kad networks and cross-network sharing abilities with BitTorrent network."
+"DC++ , URL: /wiki/DC%2B%2B
+","Direct Connect","No","magnet","Free","Windows","GPL","C++","Yes","2017, 0.866 May 20, 2017; 4 years ago (2017-05-20)","FlylinkDC++ , URL: /wiki/FlylinkDC%2B%2B
+"
+"eMule , URL: /wiki/EMule
+","eDonkey, Kad","No","ed2k","Free","Windows","GPL","C++","Yes","2010, 0.50a (April 7, 2010; 11 years ago (2010-04-07)[5]) [±]","obfuscation , URL: /wiki/Obfuscation
+"
+"Filetopia , URL: /wiki/Filetopia
+","Filetopia","No (except when using a bouncer)","No","Free","Windows","Proprietary , URL: /wiki/Proprietary_software
+","Java","No","2018",""
+"Flashget , URL: /wiki/Flashget
+","BitTorrent, eDonkey; HTTP/FTP download","No","?","?","Windows","Proprietary , URL: /wiki/Proprietary_software
+","?","?","2012",""
+"Free Download Manager , URL: /wiki/Free_Download_Manager
+","BitTorrent; HTTP/FTP download","No","metalink , URL: /wiki/Metalink
+","Free","Windows","GPL","C++","Yes","2015, 6.13.4.3616 (February 9, 2021; 12 months ago (2021-02-09)) [±][6]",""
+"Freenet , URL: /wiki/Freenet
+","Freenet , URL: /wiki/Freenet
+","Yes","No","Free","GNU , URL: /wiki/GNU
+","GPL","Java","Yes","2020, 0.7.5 (Build 1492) (October 28, 2021; 3 months ago (2021-10-28)[7]) [±]",""
+"Frost , URL: /wiki/Freenet#Tools_and_applications
+","Freenet","Yes","No","Free","GNU , URL: /wiki/GNU
+","GPL","Java","Yes","2011",""
+"FrostWire , URL: /wiki/FrostWire
+","BitTorrent","No","magnet","Free","GNU , URL: /wiki/GNU
+","GPL","Java","Yes","2015, 6.9.7 (build 311) (January 9, 2022; 44 days ago (2022-01-09)) [±]","Fork , URL: /wiki/Fork_(software_development)
+"
+"GetRight , URL: /wiki/GetRight
+","BitTorrent; HTTP/FTP download","No","?","?","Windows","?","?","?","2011",""
+"giFT , URL: /wiki/GiFT
+","OpenFT , URL: /wiki/OpenFT
+Gnutella , URL: /wiki/Gnutella
+FastTrack , URL: /wiki/FastTrack
+","No","No","Free","GNU , URL: /wiki/GNU
+","GPL","C , URL: /wiki/C_(programming_language)
+","Yes","2004, 0.11.8.1 (2004-11-27) [±]",""
+"GnucDNA , URL: /wiki/GnucDNA
+","Gnutella , URL: /wiki/Gnutella
+Gnutella2 , URL: /wiki/Gnutella2
+","No","No","Free","Windows","GPL","C++","Yes","2005, 2.2.0.0 (June 17, 2005; 16 years ago (2005-06-17)) [±]",""
+"GNUnet , URL: /wiki/GNUnet
+","GNUnet , URL: /wiki/GNUnet
+","Yes","ECRS , URL: /wiki/GNUnet#File_sharing_URIs
+","Free","GNU , URL: /wiki/GNU
+FreeBSD , URL: /wiki/FreeBSD
+","GNU AGPLv3 or later , URL: /wiki/GNU_Affero_General_Public_License
+Free software , URL: /wiki/Free_software
+","C","Yes","2019, 0.11.6 (July 24, 2019; 2 years ago (2019-07-24)[9]) [±]","Latest preview release: 0.11.0pre66 / June 6, 2018; 3 years ago (2018-06-06)[10]"
+"gtk-gnutella , URL: /wiki/Gtk-gnutella
+","Gnutella , URL: /wiki/Gnutella
+","No","magnet","Free","GNU, Windows, Linux","GPL","C","Yes","2018, 1.2.0 (July 9, 2020; 19 months ago (2020-07-09)) [±]",""
+"I2Phex , URL: /wiki/I2Phex
+","I2P , URL: /wiki/I2P
+Gnutella , URL: /wiki/Gnutella
+","Yes","magnet","Free","GNU, macOS, Windows","GPL","Java","Yes","2011","I2P , URL: /wiki/I2P
+"
+"iMule , URL: /wiki/IMule
+","I2P , URL: /wiki/I2P
+Kad network , URL: /wiki/Kad_network
+","Yes","ed2k, magnet","Free","GNU, macOS, Windows","GPL","C++","Yes","2013, 2.3.3.3 (June 1, 2016 (2016-06-01)) [±]","needs I2P to run"
+"Jumpshare , URL: /wiki/Jumpshare
+","Jumpshare","No","No","Free or US$9.99/month","Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+","Proprietary , URL: /wiki/Proprietary_software
+","Various","Yes","2015","Real-time file sharing with built-in utilities for screenshots, screencasts, notes, and voice clips"
+"KCeasy , URL: /wiki/KCeasy
+","Gnutella , URL: /wiki/Gnutella
+FastTrack , URL: /wiki/FastTrack
+","No","No","Free","Windows","GPL","C++, Object Pascal (Delphi)","Yes","2008","giFT , URL: /wiki/GiFT
+daemon , URL: /wiki/Daemon_(computer_software)
+back-end , URL: /wiki/Front-end_and_back-end
+"
+"KGet , URL: /wiki/KGet
+","BitTorrent; HTTP/FTP download","No","?","Free","part of KDE on Windows","GPL","C++","?","2012","?"
+"MLDonkey , URL: /wiki/MLDonkey
+","FastTrack , URL: /wiki/FastTrack
+Gnutella , URL: /wiki/Gnutella
+","No","sig2dat , URL: /wiki/UUHash#Sig2Dat
+","Free","GNU , URL: /wiki/GNU
+Linux , URL: /wiki/Linux
+","GPL","OCaml , URL: /wiki/OCaml
+","Yes","2014, 3.1.7 (July 6, 2020; 19 months ago (2020-07-06)[11]) [±]","P2P application, telnet / web-interface / GUI interface, complete and complex remote usage. Sancho GUI makes automatic SSH tunnels."
+"Nodezilla , URL: /wiki/Nodezilla
+","Private , URL: /wiki/Private_network
+","Yes","No","Free","GNU , URL: /wiki/GNU
+","core proprietary, GUI GPL","Java","Yes","2010","Most is proprietary, GUI is GPL."
+"Perfect Dark , URL: /wiki/Perfect_Dark_(P2P)
+","Perfect Dark","Yes","No","Free","Windows","Proprietary , URL: /wiki/Proprietary_software
+","C++","Yes","2015","Boards. Auto update."
+"Retroshare , URL: /wiki/Retroshare
+","Retroshare","Yes","Own format","Free","GNU , URL: /wiki/GNU
+macOS , URL: /wiki/MacOS
+","GPL","C++","Yes","2021","Uses PGP for friend authentication. Decentralized F2F network type."
+"Robert , URL: /wiki/Robert_(P2P_Software)
+","I2P (protocol BitTorrent)","Yes","magnet","Free","GNU , URL: /wiki/GNU
+","GPL","Python","Yes","2012","needs I2P to run"
+"Share , URL: /wiki/Share_(P2P)
+","Share , URL: /wiki/Share_(P2P)
+","Yes","No","Free","Windows","Proprietary , URL: /wiki/Proprietary_software
+","Object Pascal (Delphi)","Yes","2006","Anonymous developer; tries to be Winny successor"
+"Shareaza , URL: /wiki/Shareaza
+","eDonkey , URL: /wiki/EDonkey_network
+BitTorrent , URL: /wiki/BitTorrent
+Gnutella , URL: /wiki/Gnutella
+Gnutella2 , URL: /wiki/Gnutella2
+","No","magnet , URL: /wiki/Magnet_link
+","Free","Windows","GPL","C++","Yes","2017, 2.7.10.2 (September 18, 2017; 4 years ago (2017-09-18)[12]) [±]","Uses a powerful files library; maintained by volunteer group"
+"StealthNet , URL: /wiki/StealthNet
+","RShare , URL: /w/index.php?title=RShare&action=edit&redlink=1
+","Yes","No","Free","GNU , URL: /wiki/GNU
+","GPL","C#","Yes","2011","RShare , URL: /w/index.php?title=RShare&action=edit&redlink=1
+"
+"Soulseek , URL: /wiki/Soulseek
+","Soulseek , URL: /wiki/Soulseek
+","No","No","Free, donations for privileges","Windows, Mac, Linux","Proprietary , URL: /wiki/Proprietary_software
+","?","Yes","2015, SoulseekQt build 2021.02.06 (February 6, 2021; 12 months ago (2021-02-06)) [±]","Folder downloads, browse users with folder trees, no multi-source downloads"
+"Tribler , URL: /wiki/Tribler
+","BitTorrent and its own","Yes","magnet","Free","GNU , URL: /wiki/GNU
+","GNU LGPL v2.1+ , URL: /wiki/GNU_Lesser_General_Public_License
+","Python, C++","Yes","2019, 7.11.0 (January 1, 2022; 52 days ago (2022-01-01)) [±][14]","decentralized , URL: /wiki/Decentralized
+trackers , URL: /wiki/BitTorrent_tracker
+indexing service , URL: /wiki/BitTorrent_(protocol)#Indexing
+"
+"Vuze , URL: /wiki/Vuze
+","BitTorrent and I2P","I2P , URL: /wiki/I2P
+","magnet","Free","GNU , URL: /wiki/GNU
+","GPL","Java","No","2016, 5.7.6.0 (November 2, 2017; 4 years ago (2017-11-02)) [±][16]",""
+"WinMX , URL: /wiki/WinMX
+","WinMX Peer Network (independent, now user-operated), OpenNAP, chatrooms supported","No","No","Free","Windows","Proprietary , URL: /wiki/Proprietary_software
+","C++","Yes","2004","RIAA , URL: /wiki/RIAA
+"
+"Winny , URL: /wiki/Winny
+","Winny","Yes","No","Free","Windows","Proprietary , URL: /wiki/Proprietary_software
+","C++","Yes","2003",""
+"WireShare , URL: /wiki/WireShare
+","Gnutella , URL: /wiki/Gnutella
+","No","magnet","Free","GNU, macOS, Windows","GPL","Java","Yes","2016","Forked from Limewire pro"
+"Name","Network","Anonymous P2P , URL: /wiki/Anonymous_P2P
+","Link system compatibility","Price","Platform , URL: /wiki/Computing_platform
+","License , URL: /wiki/Software_license
+","Programming language , URL: /wiki/Programming_language
+","Spyware , URL: /wiki/Spyware
+Adware , URL: /wiki/Adware
+","Last release year","Extra information"

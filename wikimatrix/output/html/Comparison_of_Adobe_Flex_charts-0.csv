@@ -1,0 +1,77 @@
+"Chart type / Framework","Chart type / Framework","Adobe Flex built-in charts","Axiis","BirdEye","Flare","Flexmonster","IBM ILOG Elixir","Kap IT Labs","yFiles","amCharts","AnyChart","LiveGap Chart"
+"Cost","Cost","Free","Free","Free","Free","Non-free contact vendor for prices","EULA , URL: /wiki/Software_license_agreement#End-user_license_agreement
+","Free for non-commercial, €2'500 (VAT excluded) for full 1-developer package","Non-free contact vendor for prices","Free (with link to amCharts) link-free from €85}","Free (with link to AnyChart) Team license available}","Free"
+"License , URL: /wiki/Software_license
+","License , URL: /wiki/Software_license
+","MPL , URL: /wiki/Mozilla_Public_License
+","MIT , URL: /wiki/MIT_license
+","MIT , URL: /wiki/MIT_license
+","BSD , URL: /wiki/BSD_License
+","Proprietary , URL: /wiki/Proprietary_software
+","Proprietary , URL: /wiki/Proprietary_software
+","Proprietary , URL: /wiki/Proprietary_software
+","Proprietary , URL: /wiki/Proprietary_software
+","Proprietary , URL: /wiki/Proprietary_software
+","Proprietary , URL: /wiki/Proprietary_software
+","Free"
+"Open source , URL: /wiki/Open-source_license
+","Open source , URL: /wiki/Open-source_license
+","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","No"
+"Bar/Column charts","Simple","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes"
+"Bar/Column charts","Stacked","Yes","Yes","Yes","Yes","No","Yes","No","No","Yes","Yes","Yes"
+"Bar/Column charts","Floating (Range)","Yes","Yes","No","No","No","No","No","No","Yes","Yes","Yes"
+"Bar/Column charts","Waterfall , URL: /wiki/Waterfall_chart
+","Yes","Yes","No","No","No","No","No","No","Yes","Yes","No"
+"Bar/Column charts","Layered","No","Yes","Yes","No","No","Yes","No","No","Yes","Yes","No"
+"Line charts","Simple","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes"
+"Line charts","Spline (Curve)","Yes","Yes","Yes","No","No","No","No","No","Yes","Yes","Yes"
+"Line charts","Step","Yes","No","No","No","No","Yes","No","No","Yes","Yes","Yes"
+"Pie charts","Simple","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes"
+"Pie charts","Doughnut (Ring) , URL: /wiki/Pie_chart#Doughnut_chart
+","Yes","Yes","Yes","Yes","No","Yes","Yes","No","Yes","Yes","Yes"
+"Pie charts","Exploded , URL: /wiki/Pie_chart#Exploded_pie_chart
+","Yes","No","No","No","No","Yes","Yes","No","No","Yes","No"
+"Pie charts","Stacked , URL: /wiki/Pie_chart#Ring_chart,_sunburst_chart,_and_multilevel_pie_chart
+","No","Yes","Yes","No","No","Yes","Yes","No","No","Yes","No"
+"Area charts","Simple","Yes","Yes","Yes","Yes","No","Yes","No","No","Yes","Yes","Yes"
+"Area charts","Spline (Curve)","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","Yes"
+"Area charts","Stacked","Yes","Yes","Yes","Yes","No","Yes","No","No","Yes","Yes","Yes"
+"Area charts","Floating (Range)","No","Yes","Yes","No","No","No","No","No","Yes","Yes","Yes"
+"Area charts","Histogram (Step) , URL: /wiki/Histogram
+","Yes","No","No","No","No","Yes","No","No","Yes","Yes","No"
+"Scatter plot charts","Simple , URL: /wiki/Scatterplot
+","Yes","Yes","Yes","Yes","No","No","No","No","Yes","Yes","No"
+"Scatter plot charts","Bubble , URL: /wiki/Bubble_chart
+","Yes","Yes","Yes","No","No","No","No","No","Yes","Yes","No"
+"Circular charts","Radar , URL: /wiki/Radar_chart
+","No","No","Yes","No","No","Yes","Yes","No","Yes","Yes","Yes"
+"Circular charts","Polar , URL: /wiki/Pie_chart#Polar_area_diagram
+","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes"
+"Accumulation charts","Pyramid","No","No","No","No","No","No","No","No","No","Yes","No"
+"Accumulation charts","Funnel","No","No","No","No","No","No","No","No","No","Yes","No"
+"Tree/Heat map charts","Tree map , URL: /wiki/Treemapping
+","No","Yes","Yes","Yes","No","Yes","Yes","No","No","No","No"
+"Tree/Heat map charts","Heat map , URL: /wiki/Heat_map
+","No","No","No","No","No","Yes","No","No","No","No","No"
+"Finance charts","OHLC , URL: /wiki/Open-high-low-close_chart
+","Yes","No","No","No","No","No","No","No","Yes","No","No"
+"Finance charts","Candlestick , URL: /wiki/Candlestick_chart
+","Yes","No","No","No","No","No","No","No","Yes","No","No"
+"Finance charts","Kagi , URL: /wiki/Kagi_chart
+","No","No","No","No","No","No","No","No","No","No","No"
+"Gauge charts","Gauge charts","No","No","No","No","No","Yes","No","No","No","Yes","No"
+"Cartogram charts , URL: /wiki/Cartogram
+","Cartogram charts , URL: /wiki/Cartogram
+","No","No","Yes","No","No","Yes","No","No","No","No","No"
+"Gantt charts , URL: /wiki/Gantt_chart
+","Gantt charts , URL: /wiki/Gantt_chart
+","No","No","No","No","No","Yes","No","No","No","Yes","No"
+"Dependency graphs","Dependency graphs","No","No","Yes","Yes","No","Yes","Yes","Yes","No","No","No"
+"Nomograms","Smith chart , URL: /wiki/Smith_chart
+","No","Yes","No","No","No","No","No","No","No","No","No"
+"Organizational charts , URL: /wiki/Organizational_chart
+","Organizational charts , URL: /wiki/Organizational_chart
+","No","No","No","No","No","Yes","Yes","Yes","No","No","No"
+"Flow charts , URL: /wiki/Flow_chart
+","Flow charts , URL: /wiki/Flow_chart
+","No","No","No","No","No","Yes","Yes","Yes","No","No","No"

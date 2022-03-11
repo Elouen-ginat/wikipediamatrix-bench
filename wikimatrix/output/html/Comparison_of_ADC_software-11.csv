@@ -1,0 +1,22 @@
+"Other software","GUI , URL: /wiki/Graphical_user_interface
+","CLI , URL: /wiki/Command-line_interface
+","Other","Programming language , URL: /wiki/Programming_language
+","Based on"
+"ADCCore","No","No","No","C# , URL: /wiki/C_Sharp_(programming_language)
+","CoreDC"
+"DCBouncer","No","Yes","No","C++ , URL: /wiki/C%2B%2B
+",""
+"DC-Hublink","Yes","No","No","Visual Basic , URL: /wiki/Visual_Basic
+",""
+"DCWatch","No","Yes","No","Java , URL: /wiki/Java_(programming_language)
+Lua , URL: /wiki/Lua_(programming_language)
+","Embla"
+"Embla","No","No","No","Java",""
+"FlowLib","No","No","No","C# , URL: /wiki/C_Sharp_(programming_language)
+",""
+"NetChatLink","Yes","No","No","Delphi , URL: /wiki/Delphi_(programming_language)
+",""
+"Announcer Bot","No","No","No","Lua , URL: /wiki/Lua_(programming_language)
+",""
+"Certmanager","Yes","No","No","wxLua",""
+"ADC hub","GUI","CLI","Other","Programming language","Based on"

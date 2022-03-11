@@ -1,0 +1,64 @@
+"Format","Languages"
+"string1 == string2","Python , URL: /wiki/Python_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+Cobra , URL: /wiki/Cobra_(programming_language)
+Go , URL: /wiki/Go_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+PHP , URL: /wiki/PHP
+Ruby , URL: /wiki/Ruby_(programming_language)
+Rust , URL: /wiki/Rust_(programming_language)
+Erlang , URL: /wiki/Erlang_(programming_language)
+Haskell , URL: /wiki/Haskell_(programming_language)
+Lua , URL: /wiki/Lua_(programming_language)
+D , URL: /wiki/D_(programming_language)
+Mathematica , URL: /wiki/Mathematica
+Swift , URL: /wiki/Swift_(programming_language)
+"
+"string1 === string2","JavaScript , URL: /wiki/JavaScript
+PHP , URL: /wiki/PHP
+"
+"string1 == string2 or string1 .EQ. string2","Fortran , URL: /wiki/Fortran
+"
+"strcmp(string1, string2) == 0","C , URL: /wiki/C_(programming_language)
+"
+"(string=? string1 string2)","Scheme , URL: /wiki/Scheme_(programming_language)
+"
+"(string= string1 string2)","Common Lisp , URL: /wiki/Common_Lisp
+ISLISP , URL: /wiki/ISLISP
+"
+"string1 = string2","ALGOL 68 , URL: /wiki/ALGOL_68
+Ada , URL: /wiki/Ada_(programming_language)
+Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
+OCaml , URL: /wiki/OCaml
+Pascal , URL: /wiki/Pascal_(programming_language)
+Rexx , URL: /wiki/Rexx
+Seed7 , URL: /wiki/Seed7
+Standard ML , URL: /wiki/Standard_ML
+BASIC , URL: /wiki/BASIC
+VB , URL: /wiki/Visual_Basic_(classic)
+VB .NET , URL: /wiki/Visual_Basic_.NET
+F# , URL: /wiki/F_Sharp_(programming_language)
+Smalltalk , URL: /wiki/Smalltalk
+PL/I , URL: /wiki/PL/I
+COBOL , URL: /wiki/COBOL
+"
+"test string1 = string2, or [ string1 = string2 ]","Bourne Shell , URL: /wiki/Bourne_Shell
+"
+"string1 eq string2","Perl , URL: /wiki/Perl
+Raku , URL: /wiki/Raku_(programming_language)
+"
+"string1.equals(string2)","Cobra , URL: /wiki/Cobra_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+"
+"string1.Equals(string2)","C# , URL: /wiki/C_Sharp_(programming_language)
+"
+"string1 -eq string2, or [string]::Equals(string1, string2)","Windows PowerShell , URL: /wiki/Windows_PowerShell
+"
+"[string1 isEqualToString:string2], or [string1 isEqual:string2]","Objective-C , URL: /wiki/Objective-C
+"
+"string1 ≡ string2","APL , URL: /wiki/APL_(programming_language)
+"
+"string1.eq(string2)","Rust , URL: /wiki/Rust_(programming_language)
+"

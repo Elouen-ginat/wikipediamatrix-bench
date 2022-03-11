@@ -1,3 +1,5 @@
-"null","null","null"
-"MacBook Air 13.3" (retina P3) model; Uses Apple M1 processor","MacBook Pro 13.3" (retina P3) model; Uses Apple M1 processor 14.2" (mini-LED Retina P3) and 16.2" (mini-LED Retina P3) models; Uses Apple M1 Pro or Apple M1 Max processor","null"
-"Mac Mini Entry-level desktop; Uses Apple M1, Intel Core i5 or i7 processor","iMac (Intel-based) 27" (5K P3) model; Uses i5, i7 or i9 processor iMac (Apple silicon) 24" 4.5K (retina P3) model; Uses Apple M1 processor","Mac Pro Customizable workstation desktop; Uses one Intel Xeon W processor"
+"Model","System on a chip","Memory","Storage","Graphics","Display resolution","MSRP"
+"MacBook Air","3.2 GHz Apple M1 chip with 8-core CPU and 7-core GPU","8GB unified","256GB flash","M1 7-core GPU","2560 x 1600 Retina Display with P3 wide color gamut and True Tone","$999 (USD) / $1299 (CAD) / £999 (GBP) / €1129 (EUR) / $1599 (AUD)"
+"MacBook Pro 13"","3.2 GHz Apple M1 chip with 8-core CPU and 8-core GPU","8GB unified","256GB flash","M1 8-core GPU","2560 x 1600 Retina Display with P3 wide color gamut and True Tone","$1299 (USD) / $1699 (CAD) / £1299 (GBP) / €1449 (EUR) / $1999 (AUD)"
+"MacBook Pro 14"","3.2 GHz Apple M1 Pro chip with 8-core CPU and 14-core GPU","16GB unified","512GB flash","M1 Pro 14-core GPU","3024 x 1964 Retina Display with P3 wide color gamut, True Tone and ProMotion","$1999 (USD) / $2499 (CAD) / £1899 (GBP) / €2249 (EUR) / $2999 (AUD)"
+"MacBook Pro 16"","3.2 GHz Apple M1 Pro chip with 10-core CPU and 16-core GPU","16GB unified","512GB flash","M1 Pro 16-core GPU","3456 x 2234 Retina Display with P3 wide color gamut, True Tone and ProMotion","$2499 (USD) / $3149 (CAD) / £2399 (GBP) / €2749 (EUR) / $3749 (AUD)"

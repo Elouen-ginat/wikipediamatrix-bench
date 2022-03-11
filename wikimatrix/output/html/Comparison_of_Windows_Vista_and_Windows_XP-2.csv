@@ -1,0 +1,23 @@
+"Feature","Windows XP","Windows Vista","Windows 7","Windows 8.x","Windows 10"
+"Windows Defender , URL: /wiki/Windows_Defender
+","Available as a free download[10]","Yes","Yes","Microsoft Security Essentials , URL: /wiki/Microsoft_Security_Essentials
+","Microsoft Security Essentials , URL: /wiki/Microsoft_Security_Essentials
+"
+"Windows Firewall , URL: /wiki/Windows_Firewall
+","Yes","Yes","Yes","Yes","Yes"
+"Windows Security Center , URL: /wiki/Windows_Security_Center
+","Yes (starting with SP2)","Yes","Action Center , URL: /wiki/Action_Center
+","Action Center , URL: /wiki/Action_Center
+","Security and Maintenance , URL: /wiki/Security_and_Maintenance
+"
+"BitLocker Drive Encryption , URL: /wiki/BitLocker_Drive_Encryption
+","Only viewing contents","Yes (Ultimate and Enterprise editions only)","Yes (Ultimate and Enterprise editions only)","Yes (Pro and Enterprise editions only)","Yes (Pro, Education and Enterprise editions only)"
+"Parental controls , URL: /wiki/Parental_controls
+","Internet Explorer , URL: /wiki/Internet_Explorer
+","Yes","Yes","Family Safety , URL: /wiki/Family_Safety
+","Family Safety , URL: /wiki/Family_Safety
+"
+"User Account Control , URL: /wiki/User_Account_Control
+","No","Yes","Yes","Yes","Yes"
+"Data Execution Prevention , URL: /wiki/Data_Execution_Prevention
+","Yes (starting with SP2)","Yes","Yes","Yes","Yes"

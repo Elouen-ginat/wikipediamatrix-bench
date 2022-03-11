@@ -1,0 +1,34 @@
+"Name","Shell scripting","Shell scripting","MIDI , URL: /wiki/MIDI
+","MIDI , URL: /wiki/MIDI
+","OSC , URL: /wiki/Open_Sound_Control
+","OSC , URL: /wiki/Open_Sound_Control
+","HID , URL: /wiki/Human_interface_device
+","VST , URL: /wiki/Virtual_Studio_Technology
+","Audio Units , URL: /wiki/Audio_Units
+","Audio Units , URL: /wiki/Audio_Units
+","Other"
+"Name","In","Out","In","Out","In","Out","HID , URL: /wiki/Human_interface_device
+","VST , URL: /wiki/Virtual_Studio_Technology
+","As host","As unit","Other"
+"Bidule , URL: /wiki/Bidule
+","","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes",""
+"ChucK , URL: /wiki/ChucK
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","","","","Chunity allows to run ChucK in the Unity game engine"
+"Csound , URL: /wiki/Csound
+","Yes","Yes","Yes","Yes","Yes","Yes","","No","","","binding from Haskell (hCsound), C, C++, Python, Java, Lua, Lisp, JavaScript"
+"Impromptu , URL: /wiki/Impromptu_(programming_environment)
+","","","Yes","Yes","Yes","Yes","","","Yes","No","Bidirectional Scheme to Objective-C bridge"
+"Kyma , URL: /wiki/Kyma_(sound_design_language)
+","","","Yes","Yes","Yes","Yes","Yes","","","",""
+"Max/MSP , URL: /wiki/Max/MSP
+","","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","",""
+"Pure Data , URL: /wiki/Pure_Data
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Some","Some","bindings for Python, Lua, Java, GStreamer. the Camomile plugin may host PD as plugin within DAW. PD-extended presently has multiple options to host LADSPA plugins within PD environment."
+"Reaktor , URL: /wiki/Reaktor
+","","","Yes","Yes","Yes","Yes","","Yes","No","Yes",""
+"SuperCollider , URL: /wiki/SuperCollider
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","","No","Yes","LADSPA Host, scsynth can be controlled by OSC messages (Haskell, Scala, Python, Ruby, Scheme etc.)"
+"SynthEdit , URL: /wiki/SynthEdit
+","","","Yes","Yes","No","No","","Yes","No","Yes",""
+"VCV Rack , URL: https://vcvrack.com/
+","","","Yes","Yes","Yes","Yes","","Yes","","",""

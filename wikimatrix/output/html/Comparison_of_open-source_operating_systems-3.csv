@@ -1,0 +1,62 @@
+"Name","Networking support , URL: /wiki/Computer_networking
+","NE2000/RTL8029 , URL: /wiki/Realtek
+","RTL8139","Gigabit Ethernet , URL: /wiki/Gigabit_Ethernet
+","10 Gigabit Ethernet , URL: /wiki/10_Gigabit_Ethernet
+","Wireless LAN , URL: /wiki/Wireless_LAN
+","Bluetooth , URL: /wiki/Bluetooth
+","IrDA , URL: /wiki/Infrared_Data_Association
+"
+"Linux , URL: /wiki/Linux
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"FreeBSD , URL: /wiki/FreeBSD
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"OpenBSD , URL: /wiki/OpenBSD
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
+"NetBSD , URL: /wiki/NetBSD
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"DragonFly BSD , URL: /wiki/DragonFly_BSD
+","Yes","","Yes","Yes","Yes","Yes","Yes",""
+"OpenSolaris , URL: /wiki/OpenSolaris
+illumos , URL: /wiki/Illumos
+","Yes","","Yes","Yes","Yes","Yes","No","No"
+"Darwin , URL: /wiki/Darwin_(operating_system)
+OpenDarwin , URL: /wiki/OpenDarwin
+","Yes","","","","","","",""
+"MINIX , URL: /wiki/MINIX
+","Yes","","Yes","","","","",""
+"FreeDOS , URL: /wiki/FreeDOS
+","Yes","Yes","Yes","","","","",""
+"Genode , URL: /wiki/Genode
+","Yes","No","No","Yes","No","Yes","No","No"
+"Haiku , URL: /wiki/Haiku_(operating_system)
+","Yes","Yes","Yes","Yes","","Yes","",""
+"KolibriOS , URL: /wiki/KolibriOS
+","Yes","Yes","Yes","","","","No","Yes"
+"MenuetOS , URL: /wiki/MenuetOS
+","Yes","Yes","","","","","No","No"
+"GNU , URL: /wiki/GNU
+","Yes","","","","","","",""
+"ReactOS , URL: /wiki/ReactOS
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"L4 , URL: /wiki/L4_microkernel_family
+Fiasco , URL: /wiki/L4_microkernel_family#L4/Fiasco
+Pistachio , URL: /wiki/L4_microkernel_family#L4Ka::Pistachio
+","","","","","","","",""
+"Plan 9 , URL: /wiki/Plan_9_from_Bell_Labs
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"AROS , URL: /wiki/Amiga_Research_Operating_System
+","Yes","Yes","","","","","",""
+"Syllable , URL: /wiki/Syllable_Desktop
+","Yes","Yes","Yes","Yes","","","",""
+"Inferno , URL: /wiki/Inferno_(operating_system)
+","Yes","Yes","Yes","Yes","","Yes","No","No"
+"FreeRTOS , URL: /wiki/FreeRTOS
+","","","","","","","",""
+"eCos , URL: /wiki/ECos
+","Yes","","","Yes","","","Yes",""
+"RTEMS , URL: /wiki/RTEMS
+","Yes","Yes","Yes","Yes","No","No","No","No"
+"HelenOS , URL: /wiki/HelenOS
+","Yes","Yes","Yes","Yes","No","No","No","No"
+"E/OS","Yes","Yes","Yes","Yes","Yes","No[6]","No","No"
+"Name","Networking support","NE2000/RTL8029","RTL8139","Gigabit Ethernet","10 Gigabit Ethernet","Wireless LAN","Bluetooth","IrDA"

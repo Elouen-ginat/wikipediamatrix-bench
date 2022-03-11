@@ -1,0 +1,60 @@
+"Audio player","asx, wax, wvx , URL: /wiki/Advanced_Stream_Redirector
+","M3U , URL: /wiki/M3U
+","pls , URL: /wiki/PLS_(file_format)
+","XSPF , URL: /wiki/XML_Shareable_Playlist_Format
+","CUE , URL: /wiki/Cue_sheet_(computing)
+","SMIL , URL: /wiki/Synchronized_Multimedia_Integration_Language
+"
+"AIMP , URL: /wiki/AIMP
+","Yes","Yes","Yes","Yes","Yes","?"
+"Amarok , URL: /wiki/Amarok_(audio)
+","Yes","Yes","Yes","Yes","Yes","?"
+"Audacious , URL: /wiki/Audacious_(software)
+","Partial","Yes","Yes","Yes","Yes","Partial"
+"Audion , URL: /wiki/Audion_(software)
+","No","No","No","?","?","No"
+"Clementine , URL: /wiki/Clementine_(software)
+","Yes","Yes","Yes","Yes","Yes","?"
+"cmus , URL: /wiki/Cmus
+","No","Yes","Yes","No","?","?"
+"Cog , URL: /wiki/Cog_(software)
+","?","?","?","?","?","?"
+"Exaile , URL: /wiki/Exaile
+","Yes","Yes","Yes","Yes","?","?"
+"foobar2000 , URL: /wiki/Foobar2000
+","Yes","Yes","Yes","Yes","Yes","?"
+"iTunes , URL: /wiki/ITunes
+","No","Yes","?","?","No","?"
+"JRiver Media Center , URL: /wiki/JRiver_Media_Center
+","Yes","Yes","Yes","Yes","Yes","?"
+"JuK , URL: /wiki/JuK
+","?","?","?","?","?","?"
+"MediaMonkey , URL: /wiki/MediaMonkey
+","?","Yes","?","No","?","?"
+"MPXPLAY , URL: /wiki/MPXPLAY
+","?","Yes","Yes","?","Yes","?"
+"MusicBee , URL: /wiki/MusicBee
+","Yes","Yes","Yes","Yes","Yes","?"
+"Musicmatch Jukebox , URL: /wiki/Musicmatch_Jukebox
+","?","Yes","?","?","?","?"
+"musikCube , URL: /wiki/MusikCube
+","?","?","?","?","?","?"
+"Quod Libet , URL: /wiki/Quod_Libet_(software)
+","Partial","Yes","Yes","No","?","?"
+"Rhapsody , URL: /wiki/Rhapsody_(online_music_service)
+","?","?","?","?","?","?"
+"Rhythmbox , URL: /wiki/Rhythmbox
+","?","?","Yes","?","No","?"
+"Sayonara Player , URL: /wiki/Sayonara_Player
+","?","Yes","?","?","?","?"
+"Sonique , URL: /wiki/Sonique_(media_player)
+","?","Yes","Yes","?","?","?"
+"Spotify , URL: /wiki/Spotify
+","No","No","No","No","No","?"
+"Winamp , URL: /wiki/Winamp
+","Yes","Yes","Yes","Yes","?","?"
+"XMMS , URL: /wiki/XMMS
+","?","Yes","Yes","?","?","?"
+"Zinf , URL: /wiki/Zinf
+","?","?","?","No","?","?"
+"Audio player","asx/wax/wvx","M3U","pls","XSPF","CUE","SMIL"

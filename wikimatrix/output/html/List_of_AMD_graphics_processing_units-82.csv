@@ -1,0 +1,45 @@
+"codename , URL: /wiki/Codename
+","Release date","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Fillrate , URL: /wiki/Fillrate
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","Memory","Memory","Memory","Memory","TBP","Bus interface"
+"codename , URL: /wiki/Codename
+","Release date","Architecture , URL: /wiki/Microarchitecture
+Fab , URL: /wiki/Semiconductor_device_fabrication
+","Transistors & Die Size","Config[e]","MHz , URL: /wiki/Hertz
+","GT , URL: /wiki/Texel_(graphics)
+","GP , URL: /wiki/Pixel
+","Half , URL: /wiki/Half-precision_floating-point_format
+","Single , URL: /wiki/Single_precision_floating-point_format
+","Double , URL: /wiki/Double_precision_floating-point_format
+","Bus type & width","GiB , URL: /wiki/Gibibyte
+","MT/s , URL: /wiki/Transfer_(computing)
+","GB , URL: /wiki/Gigabyte
+","TBP","Bus interface"
+"Radeon Instinct MI6 (Polaris 10) [443][444][445][446][447]","December 2016","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","5.7×109 232 mm2","2304:144:32 36 CU","1120 1233","177.6","39.46","5800","5800","358","GDDR5 256-bit","16","7000","224","150 W","PCIe 3.0 x16 , URL: /wiki/PCI_Express#PCI_Express_3.0
+"
+"Radeon Instinct MI8 (Fiji XT) [443][444][445][448][449]","December 2016","GCN 3rd gen , URL: /wiki/Graphics_Core_Next#third
+","8.9×109 596 mm2","4096:256:64 64 CU","1000","256.0","64.0","8200","8200","512","HBM 4096-bit","4","1000","512","175 W","PCIe 3.0 x16 , URL: /wiki/PCI_Express#PCI_Express_3.0
+"
+"Radeon Instinct MI25 (Vega 10 XT)[443][444][445][450][451][452]","December 2016","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
+","12.5×109 510 mm2","4096:256:64 64 CU","1400 1500","384","96.0","24600","12300","768","HBM2 2048-bit","16","1704","436.2","300 W","PCIe 3.0 x16 , URL: /wiki/PCI_Express#PCI_Express_3.0
+"
+"Radeon Instinct MI50 (Vega 20 GL)[453][454][455][456]","November 2018","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
+","13.2×109 331 mm2","3840:240:- 60 CU","1450 1725","348 414","-","26500","13300","6600","HBM2 4096-bit","16 or 32[457]","2000","1024","300 W","PCIe 4.0 x16 , URL: /wiki/PCI_Express#PCI_Express_4.0
+"
+"Radeon Instinct MI60 (Vega 20 GL)[453][458][459]","November 2018","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
+","13.2×109 331 mm2","4096:256:- 64 CU","1500 1800","384 460.8","-","29450","14725","7362.5","HBM2 4096-bit","32","2000","1024","300 W","PCIe 4.0 x16 , URL: /wiki/PCI_Express#PCI_Express_4.0
+"
+"AMD Instinct MI100 (MI100 XL)[460]","November 12, 2020","CDNA 1.0 7 nm","? 750 mm2","7680:480:- 120 CU","1000 1502","480 720","-","184600","23100","11500","HBM2 4096-bit","32","2400","1228.8","300 W","PCIe 4.0 x16 , URL: /wiki/PCI_Express#PCI_Express_4.0
+"
+"AMD Instinct MI210 (?)[461]","December, 2021","CDNA 2.0 6 nm","58 x 109 ? mm2","6656:416:- 104 CU","1000 1700","? ?","-","181000","22630","22630","HBM2e 4096-bit","64","1600","1638","300 W","PCIe 4.0 x16 , URL: /wiki/PCI_Express#PCI_Express_4.0
+"
+"AMD Instinct MI250 (?)[462]","November 8, 2021","CDNA 2.0 6 nm","58 x 109 ? mm2","13312:832:- 208 CU","1000 1700","? ?","-","362100","45300","45300","HBM2e 8192-bit","128","1600","3276.8","500 W 560 W (Peak)","PCIe 4.0 x16 , URL: /wiki/PCI_Express#PCI_Express_4.0
+"
+"AMD Instinct MI250X (?)[463]","November 8, 2021","CDNA 2.0 6 nm","58 x 109 ? mm2","14080:880:- 220 CU","1000 1700","? ?","-","383000","47900","47900","HBM2e 8192-bit","128","1600","3276.8","500 W 560 W (Peak)","PCIe 4.0 x16 , URL: /wiki/PCI_Express#PCI_Express_4.0
+"

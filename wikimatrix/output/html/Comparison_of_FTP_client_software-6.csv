@@ -1,0 +1,110 @@
+"Client","FTP , URL: /wiki/File_Transfer_Protocol
+","FTP over SSH , URL: /wiki/FTP_over_SSH
+","SFTP , URL: /wiki/SSH_File_Transfer_Protocol
+","FTPS (FTP over SSL) , URL: /wiki/FTPS
+","FXP (Site2site transfer) , URL: /wiki/File_eXchange_Protocol
+","DAV / HTTP(S) , URL: /wiki/WebDAV
+","Compression , URL: /wiki/Data_compression
+","Mode Z / Remote Compression","API / Commandline available","Resume Download","Passive mode","Parallel Transfer[22]","Segmented Downloads[22]"
+"AbsoluteTelnet , URL: /wiki/AbsoluteTelnet
+","No","No","Yes","No","No","No","Yes","Yes","?","?","?","?","?"
+"ALFTP , URL: /wiki/ALFTP
+","Yes","No","No","Yes","No","No","No","?","?","?","?","?","?"
+"Beyond Compare , URL: /wiki/Beyond_Compare
+","Yes","No","Yes (Pro only)","Yes (Pro only)","No","Yes (Pro only)","Yes","Yes","Yes","Yes","Yes","?","?"
+"Classic FTP , URL: /wiki/Classic_FTP
+","Yes","No","No","Yes","No","No","No","?","?","?","Yes","?","?"
+"Codeanywhere , URL: /wiki/Codeanywhere
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?"
+"Commander One , URL: /wiki/Commander_One
+","Yes","No","Yes","Yes","No","No","No","No","No","No","Yes","?","?"
+"Core FTP , URL: /wiki/Core_FTP
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","?","?","?","Yes[23]"
+"CrossFTP , URL: /wiki/CrossFTP
+","Yes","Yes (Pro only)","Yes (Pro only)","Yes (Pro only)","Yes (Pro only)","Yes (Pro only)","Yes","?","Yes","Yes","Yes","?","?"
+"cURL , URL: /wiki/CURL
+","Yes","Yes","Yes","Yes","No","Yes","Yes","No","Yes (Only)","Yes","Yes","?","?"
+"CuteFTP , URL: /wiki/CuteFTP
+","Yes","Yes","Yes","Yes","Yes","Yes (HTTP(S))","Yes","No","?","Yes","Yes","?","Yes"
+"Cyberduck , URL: /wiki/Cyberduck
+","Yes","No","Yes","Yes","No","Yes","No","Yes (SFTP only)","Yes","Yes","Yes","?","?"
+"Directory Opus , URL: /wiki/Directory_Opus
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","?","?"
+"ExpanDrive , URL: /wiki/ExpanDrive
+","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","?","?","?","?"
+"ExpanDrive , URL: /wiki/ExpanDrive
+","Yes","No","Yes","Yes","No","No","?","No","?","?","?","?","?"
+"Far Manager , URL: /wiki/Far_Manager
+","Yes","Yes","Yes","Yes","?","Yes","No","?","?","Yes","Yes","?","?"
+"Fetch , URL: /wiki/Fetch_(FTP_client)
+","Yes","No","Yes","Yes","Yes","No","Yes","No","No","Yes","Yes","?","?"
+"FileZilla , URL: /wiki/FileZilla
+","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes (basic)","Yes","Yes","?","No"
+"FireFTP , URL: /wiki/FireFTP
+","Yes","No","Yes","Yes","Yes","No","Yes","No","No","Yes","Yes","?","?"
+"FlashFXP , URL: /wiki/FlashFXP
+","Yes","Yes","Yes","Yes","Yes","No","Yes","No","Yes","Yes","Yes","?","?"
+"Fling FTP , URL: /wiki/Fling_FTP
+","Yes","No","No","Yes","No","No","No","Yes","Yes","?","?","?","?"
+"ForkLift , URL: /wiki/ForkLift_(file_manager)
+","Yes","No","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","?","?"
+"FTP Client , URL: /wiki/FTP_Client
+","Yes","No","Yes","Yes","Yes","No","No","No","No","Yes","?","?","?"
+"FTP Commander , URL: /wiki/FTP_Commander
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","?","?","?","?","?"
+"FTP Explorer , URL: /wiki/FTP_Explorer
+","Yes","No","No","No","?","?","No","?","?","?","?","?","?"
+"FTP Voyager , URL: /wiki/FTP_Voyager
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","?","?"
+"Fugu , URL: /wiki/Fugu_(software)
+","No","No","Yes","No","No","No","No","?","?","?","?","?","?"
+"gFTP , URL: /wiki/GFTP
+","Yes","Yes","Yes","Yes (control connection only)","Yes","?","No","?","Yes","?","?","?","?"
+"Interarchy , URL: /wiki/Interarchy
+","Yes","Yes","Yes","Yes","Yes","Yes","No","?","?","Yes","Yes","?","?"
+"LeechFTP , URL: /wiki/LeechFTP
+","Yes","No","No","No","No","No","No","?","?","?","?","?","?"
+"lftp , URL: /wiki/Lftp
+","Yes","Yes","Yes","Yes","Yes","Yes (Partial)","No","No","Yes","Yes","?","?","Yes"
+"Macfusion , URL: /wiki/Macfusion
+","Yes","?","Yes","No","?","?","?","?","?","?","?","?","?"
+"Macfusion , URL: /wiki/Macfusion
+","Yes","?","Yes","No","?","?","?","?","?","?","?","?","?"
+"NcFTP , URL: /wiki/NcFTP
+","Yes","No","No","?","?","?","No","?","Yes","?","Yes","?","?"
+"PuTTY , URL: /wiki/PuTTY
+","No","No","Yes","No","No","No","No","No","Yes","Yes","?","?","?"
+"Rclone , URL: /wiki/Rclone
+","Yes","No","Yes","Yes","No","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes"
+"Secure FTP , URL: /wiki/Secure_FTP_(software)
+","Yes","No","No","Yes","No","No","Yes","Yes","Yes","?","?","?","?"
+"SmartFTP , URL: /wiki/SmartFTP
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","?","Yes"
+"Steed , URL: /wiki/Steed_(FTP_client)
+","Yes","No","Yes","Yes","No","No","No","No","No","?","Yes","?","?"
+"Sysax FTP Automation , URL: /wiki/Sysax_FTP_Automation
+","Yes","No","Yes","Yes","No","No","Yes","No","Yes (script and command line)","?","?","?","?"
+"Total Commander , URL: /wiki/Total_Commander
+","Yes","Yes","Yes (plugin)","Yes","Yes","Yes (plugin)","Yes","?","Yes","Yes","Yes","?","?"
+"Transmit , URL: /wiki/Transmit_(FTP_client)
+","Yes","No","Yes","Yes","Yes","Yes","No","?","Yes (AppleScript)","Yes","Yes","?","?"
+"WebDrive , URL: /wiki/WebDrive
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes (SFTP)","Yes","Yes","Yes","?","?"
+"Windows 7 , URL: /wiki/Windows_7
+","Yes","No","No","No","No","No","No","No","No","?","No","?","?"
+"WinSCP , URL: /wiki/WinSCP
+","Yes","Yes","Yes","Yes","No","Yes","Yes (SFTP only)","Yes (SCP command)","Yes","Yes","Yes","Yes","No"
+"WISE-FTP , URL: /wiki/WISE-FTP
+","Yes","No","Yes","Yes","Yes","No","Yes","Yes","?","?","?","?","?"
+"WS_FTP , URL: /wiki/WS_FTP
+","Yes","Yes (Pro only)","Yes (Pro only)","Yes","Yes (Pro only)","Yes","Yes (Pro only)","No","Yes (Pro only)","Yes (Pro only)","Yes","?","?"
+"Yummy FTP , URL: /wiki/Yummy_FTP
+","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes (AppleScript)","Yes","Yes","?","?"
+"Client","FTP , URL: /wiki/File_Transfer_Protocol
+","FTP over SSH , URL: /wiki/FTP_over_SSH
+","SFTP , URL: /wiki/SSH_file_transfer_protocol
+","FTPS (FTP over SSL) , URL: /wiki/FTPS
+","FXP (Site2site transfer) , URL: /wiki/File_eXchange_Protocol
+","DAV / HTTP(S) , URL: /wiki/WebDAV
+","Compression , URL: /wiki/Data_compression
+","Mode Z / Remote Compression","API / Commandline available","Resume Download","Passive mode","Parallel Transfer","Segmented Downloads"

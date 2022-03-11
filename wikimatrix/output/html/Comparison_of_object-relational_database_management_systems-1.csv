@@ -1,18 +1,16 @@
-"null","null","null","null","null"
-"Adaptive Server Enterprise","SAP","Proprietary","Cross-platform",""
-"Caché","InterSystems","Proprietary","Cross-platform",""
-"CUBRID","NHN Corporation","GPL/BSD","Linux, Windows",""
-"Db2","IBM","Proprietary","Cross-platform",""
-"GigaSpaces","GigaSpaces","Apache-2.0 or Proprietary","Cross-platform",""
-"Greenplum Database","Greenplum division of EMC Corporation","Proprietary","?","Uses PostgreSQL codebase"
-"Informix","IBM","Proprietary","Cross-platform",""
-"Microsoft SQL Server","Microsoft Corporation","Proprietary","Windows, Linux","Supports data objects in .NET languages"
-"OpenEdge Advanced Business Language (formerly Progress 4GL)","Progress Software Corporation","Proprietary","Cross-platform",""
-"Oracle Database","Oracle Corporation","Proprietary","Linux, Windows, Unix",""
-"PostgreSQL","PostgreSQL Global Development Group","PostgreSQL License","Cross-platform",""
-"Virtuoso Universal Server","OpenLink Software","GPLv2 or proprietary","Cross-platform",""
-"VMDS (Version Managed Data Store)","GE Energy, a division of General Electric","Proprietary","?","GIS for public utilities; can be stored inside Oracle Database"
-"WakandaDB","4th Dimension","AGPLv3 or proprietary","Windows, Linux, macOS","Based on REST and server-side JavaScript"
-"XDB Enterprise Server","Micro Focus","Proprietary","DOS, Windows NT, OS/2",""
-"YugabyteDB","Yugabyte","Apache 2.0","Linux",""
-"Zope Object Database","Zope Corporation","Zope Public License","Cross-platform","For Python, also included in Zope web application server"
+"","Type , URL: /wiki/Datatype
+","Method , URL: /wiki/Method_(computer_science)
+","Type inheritance , URL: /wiki/Inheritance_(object-oriented_programming)
+","Table inheritance"
+"CUBRID , URL: /wiki/CUBRID
+","Yes","Yes","Yes","Yes"
+"Oracle , URL: /wiki/Oracle_database
+","Yes","Yes[Note 1]","Yes","Yes"
+"OpenLink Virtuoso , URL: /wiki/Virtuoso_Universal_Server
+","Yes","Yes","Yes","Yes"
+"PostgreSQL , URL: /wiki/PostgreSQL
+","Yes","Yes","Yes","Yes"
+"Informix , URL: /wiki/Informix
+","Yes","Yes","Yes","Yes"
+"WakandaDB , URL: /wiki/Wakanda_(software)
+","Yes","Yes","Yes","Yes"
