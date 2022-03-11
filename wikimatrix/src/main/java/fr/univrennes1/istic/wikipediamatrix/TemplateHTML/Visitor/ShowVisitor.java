@@ -1,12 +1,14 @@
 package fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Visitor;
 
-import fr.univrennes1.istic.wikipediamatrix.App;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Balise;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Table;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tbody;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tr;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Th;
+import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Thead;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Td;
+import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tfoot;
+import fr.univrennes1.istic.wikipediamatrix.App;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.A;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Img;
 
@@ -29,8 +31,18 @@ public class ShowVisitor implements Visitor {
     }
 
     @Override
+    public void Thead(Thead thead) {
+        showChildren(thead);
+    }
+
+    @Override
     public void Tbody(Tbody tbody) {
         showChildren(tbody);
+    }
+
+    @Override
+    public void Tfoot(Tfoot tfoot) {
+        showChildren(tfoot);
     }
 
     @Override

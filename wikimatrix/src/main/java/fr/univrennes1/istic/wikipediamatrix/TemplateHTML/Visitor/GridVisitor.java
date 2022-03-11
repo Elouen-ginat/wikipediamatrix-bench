@@ -9,7 +9,9 @@ import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tbody;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tr;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Grid.Grid;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Th;
+import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Thead;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Td;
+import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tfoot;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.A;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Img;
 
@@ -70,8 +72,18 @@ public class GridVisitor implements Visitor {
     }
 
     @Override
+    public void Thead(Thead thead) {
+        mergeRow(thead);
+    }
+
+    @Override
     public void Tbody(Tbody tbody) {
         mergeRow(tbody);
+    }
+
+    @Override
+    public void Tfoot(Tfoot tfoot) {
+        mergeRow(tfoot);
     }
 
     @Override

@@ -42,6 +42,7 @@ public class App
         } catch (Exception e) {
             String message = "Unable to connect to the URL: " + wurl;
             App.LOGGER.error(message, e);
+            return;
         }
 
         Elements tables = null;

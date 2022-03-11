@@ -7,6 +7,7 @@ import java.util.Set;
 
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Balise;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Table;
+import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Void;
 
 public class Grid {
 
@@ -15,7 +16,7 @@ public class Grid {
     // Does this grid is a table or just a display balise
     private boolean from_table = true;
 
-    public final static Balise DEFAULT_VALUE = null;
+    public final static Balise DEFAULT_VALUE = new Void();
 
     public Grid() {
         this.grid = new ArrayList<List<Balise>>();
@@ -26,9 +27,7 @@ public class Grid {
         ArrayList<Balise> row = new ArrayList<Balise>();
         row.add(final_balise);
         this.grid.add(row);
-        if (final_balise != null) {
-            this.from_table = final_balise.getFromTable();
-        }
+        this.from_table = final_balise.getFromTable();
     }
 
     public void span(int span_row, int span_col) {
@@ -65,7 +64,7 @@ public class Grid {
         grid_row.squareUp();
         // Get starting pos of merging
         int j = 0;
-        Balise value = new Table();
+        Balise value = null;
         if (i < this.getRowSize()) {
             for (j = 0; j < this.getRow(i).size(); j++) {
                 value = this.getValue(i, j);
@@ -161,7 +160,7 @@ public class Grid {
         List<Balise> tables = new ArrayList<Balise>();
         for (int i = 0; i < this.getRowSize(); i++) {
             for (int j = 0; j < this.getRow(i).size(); j++) {
-                Balise balise = this.getRow(i).get(j);
+                Balise balise = this.getValue(i, j);
                 if (balise instanceof Table) {
                     tables.add(balise);
                 }
@@ -184,9 +183,9 @@ public class Grid {
         for (int i = 0; i < this.getRowSize(); i++) {
             int max_exp = 1;
             for (int j = 0; j < this.getRow(i).size(); j++) {
-                Balise balise = this.getRow(i).get(j);
-                if (balise instanceof Table) {
-                    max_exp = Math.max(max_exp, balise.getGrid().getRowSize());
+                Balise value = this.getValue(i, j);
+                if (value instanceof Table) {
+                    max_exp = Math.max(max_exp, value.getGrid().getRowSize());
                 }
             }
             row_exp_l.add(max_exp);
@@ -194,9 +193,9 @@ public class Grid {
         for (int j = 0; j < this.getMaxColSize(); j++) {
             int max_exp = 1;
             for (int i = 0; i < this.getRowSize(); i++) {
-                Balise balise = this.getRow(i).get(j);
-                if (balise instanceof Table) {
-                    max_exp = Math.max(max_exp, balise.getGrid().getMaxColSize());
+                Balise value = this.getValue(i, j);
+                if (value instanceof Table) {
+                    max_exp = Math.max(max_exp, value.getGrid().getMaxColSize());
                 }
             }
             col_exp_l.add(max_exp);
@@ -209,7 +208,7 @@ public class Grid {
             for (int j = 0; j < this.getRow(i).size(); j++) {
                 int row_exp = (int) row_exp_l.get(i);
                 int col_exp = (int) col_exp_l.get(j);
-                Balise value = this.getRow(i).get(j);
+                Balise value = this.getValue(i, j);
                 Grid exp_value = null;
                 if (value instanceof Table) {
                     exp_value = value.getGrid();
@@ -238,12 +237,8 @@ public class Grid {
 
         for (int i = 0; i < this.getRowSize(); i++) {
             for (int j = 0; j < this.getRow(i).size(); j++) {
-                Balise val = this.grid.get(i).get(j);
-                if (val == Grid.DEFAULT_VALUE) {
-                    string_array[i][j] = "";
-                } else {
-                    string_array[i][j] = val.getInfo();
-                }
+                Balise val = this.getValue(i, j);
+                string_array[i][j] = val.getInfo();
             }
         }
         return string_array;
@@ -276,13 +271,9 @@ public class Grid {
     public String toString() {
         String result = "";
         for(int i = 0; i < this.getRowSize(); i++){
-            for(int j = 0; j < this.grid.get(i).size(); j++){
-                Balise val = this.grid.get(i).get(j);
-                if (val == null) {
-                    result += "null";
-                } else {
-                    result += val.getTag();
-                }
+            for(int j = 0; j < this.getRow(i).size(); j++){
+                Balise val = this.getValue(i, j);
+                result += val.getTag();
                 result += " ";
             }
             result += "\n";

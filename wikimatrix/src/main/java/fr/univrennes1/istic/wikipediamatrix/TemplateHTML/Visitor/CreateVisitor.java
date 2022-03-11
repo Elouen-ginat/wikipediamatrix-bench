@@ -12,7 +12,9 @@ import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tbody;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tr;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Controler.Controler;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Th;
+import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Thead;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Td;
+import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tfoot;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.A;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Img;
 
@@ -65,8 +67,18 @@ public class CreateVisitor implements Visitor {
     }
 
     @Override
+    public void Thead(Thead thead) {
+        createChildren(thead);
+    }
+
+    @Override
     public void Tbody(Tbody tbody) {
         createChildren(tbody);
+    }
+
+    @Override
+    public void Tfoot(Tfoot tfoot) {
+        createChildren(tfoot);
     }
 
     @Override

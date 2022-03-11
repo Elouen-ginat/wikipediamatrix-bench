@@ -9,15 +9,19 @@ import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Balise;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Table;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tbody;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Td;
+import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tfoot;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Th;
+import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Thead;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Tr;
+import fr.univrennes1.istic.wikipediamatrix.App;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.A;
 import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Img;
 
 public class Controler {
     
     // Array of all balise (all class that inherit from Balise)
-    private Balise[] balises = {new Table(), new Tbody(), new Td(), new Th(), new Tr(), new A(), new Img()};
+    private Balise[] balises = {new Table(), new Thead(), new Tbody(), new Tfoot(), 
+                                new Td(), new Th(), new Tr(), new A(), new Img()};
 
     // Mapping from tag name to the corresponding object
     Map<String, Balise> tag_map = new HashMap<String, Balise>();
@@ -35,7 +39,7 @@ public class Controler {
         if (this.tag_map.containsKey(tag)) {
             return this.tag_map.get(tag).newInstance();
         }
-        //App.LOGGER.debug("Tag name not present: " + tag);
+        App.LOGGER.debug("Tag name not present: " + tag);
         return null;
     }
 

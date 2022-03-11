@@ -8,6 +8,7 @@ import org.jsoup.select.Elements;
 import fr.univrennes1.istic.wikipediamatrix.App;
 import fr.univrennes1.istic.wikipediamatrix.Exception.NoTableException;
 import fr.univrennes1.istic.wikipediamatrix.Extractor.Extractor;
+import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Table;
 
 public class WikipediaHTMLExtractor implements Extractor{
 
@@ -20,7 +21,11 @@ public class WikipediaHTMLExtractor implements Extractor{
 
     @Override
     public Element getTable(Document doc, int index) throws NoTableException, IndexOutOfBoundsException  {
-        Elements tables = doc.select("table");
+        // Get the tag of the table balise
+        String table_tag = new Table().getTag();
+        // Get all elements table in the dom
+        Elements tables = doc.select(table_tag);
+        // Throw execption if no tables in the DOM
         if (tables.isEmpty()) {
             throw new NoTableException(doc.location());
         }
