@@ -83,7 +83,7 @@ Server Core , URL: /wiki/Server_Core
 ","Classic , URL: /wiki/Windows_XP_visual_styles#Windows_Classic
 Aero , URL: /wiki/Aero_Glass
 ","Internet Explorer 7","IIS , URL: /wiki/Internet_Information_Services
-","11 (enabled by installing "Desktop Experience")","COMMAND.COM , URL: /wiki/COMMAND.COM
+","11 (enabled by installing ""Desktop Experience"")","COMMAND.COM , URL: /wiki/COMMAND.COM
 CMD.EXE , URL: /wiki/CMD.EXE
 PowerShell , URL: /wiki/Windows_PowerShell
 "
@@ -102,7 +102,7 @@ Server Core , URL: /wiki/Server_Core
 ","Classic , URL: /wiki/Windows_XP_visual_styles#Windows_Classic
 Aero , URL: /wiki/Aero_Glass
 ","Internet Explorer 8","IIS , URL: /wiki/Internet_Information_Services
-","12 (via "Desktop Experience")","CMD.EXE , URL: /wiki/CMD.EXE
+","12 (via ""Desktop Experience"")","CMD.EXE , URL: /wiki/CMD.EXE
 PowerShell , URL: /wiki/Windows_PowerShell
 "
 "Windows Server 2012 , URL: /wiki/Windows_Server_2012
@@ -110,7 +110,7 @@ PowerShell , URL: /wiki/Windows_PowerShell
 Server Core , URL: /wiki/Server_Core
 ","Metro , URL: /wiki/Metro_(design_language)
 ","Internet Explorer 10","IIS , URL: /wiki/Internet_Information_Services
-","12 (via "Desktop Experience")","CMD.EXE , URL: /wiki/CMD.EXE
+","12 (via ""Desktop Experience"")","CMD.EXE , URL: /wiki/CMD.EXE
 PowerShell , URL: /wiki/Windows_PowerShell
 "
 "Windows 8 , URL: /wiki/Windows_8
@@ -126,7 +126,7 @@ PowerShell , URL: /wiki/Windows_PowerShell
 Windows server core , URL: /wiki/Windows_server_core
 ","Metro , URL: /wiki/Metro_(design_language)
 ","Internet Explorer 11","IIS , URL: /wiki/Internet_Information_Services
-","12 (via "Desktop Experience")","CMD.EXE , URL: /wiki/CMD.EXE
+","12 (via ""Desktop Experience"")","CMD.EXE , URL: /wiki/CMD.EXE
 PowerShell , URL: /wiki/Windows_PowerShell
 "
 "Windows 8.1 , URL: /wiki/Windows_8.1
@@ -150,7 +150,7 @@ PowerShell , URL: /wiki/Windows_PowerShell
 Windows server core , URL: /wiki/Windows_server_core
 ","Metro , URL: /wiki/Metro_(design_language)
 ","Internet Explorer 11 Microsoft Edge 13","IIS , URL: /wiki/Internet_Information_Services
-","12 (via "Desktop Experience")","CMD.EXE , URL: /wiki/CMD.EXE
+","12 (via ""Desktop Experience"")","CMD.EXE , URL: /wiki/CMD.EXE
 PowerShell , URL: /wiki/Windows_PowerShell
 "
 "Windows Server 2019 , URL: /wiki/Windows_Server_2019
@@ -158,6 +158,6 @@ PowerShell , URL: /wiki/Windows_PowerShell
 Windows server core , URL: /wiki/Windows_server_core
 ","Metro , URL: /wiki/Metro_(design_language)
 ","Internet Explorer 11 Microsoft Edge 13","IIS , URL: /wiki/Internet_Information_Services
-","12 (via "Desktop Experience")","CMD.EXE , URL: /wiki/CMD.EXE
+","12 (via ""Desktop Experience"")","CMD.EXE , URL: /wiki/CMD.EXE
 PowerShell , URL: /wiki/Windows_PowerShell
 "

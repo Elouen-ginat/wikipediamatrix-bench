@@ -1,22 +1,25 @@
-"Element","Function","Supported first by","Deprecated in HTML version","Alternative solution","MSHTML , URL: /wiki/MSHTML
+"Tag","Function","Introduced by","Alternative solution","MSHTML , URL: /wiki/MSHTML
 ","Gecko , URL: /wiki/Gecko_(software)
 ","WebKit , URL: /wiki/WebKit
 ","KHTML , URL: /wiki/KHTML
 ","Presto , URL: /wiki/Presto_(browser_engine)
 "
-"applet","Insert an applet","HotJava , URL: /wiki/HotJava
-","4[7]","embed, object","<3.1[IE 4.0]","1.7","Yes","Yes","1.0"
-"basefont","Sets font styles","Internet Explorer","4","CSS","<3.1[IE 3.0]","No[8]","85","Yes","Yes"
-"center","Centers contents","Netscape[9]","4","CSS","3.1","Yes","Yes","Yes","Yes"
-"dir","Directory list","?","4","ul, ol","3.1","Yes","Yes","Yes","Yes"
-"font","Applies font styles","Netscape","4","CSS","3.1","Yes","Yes","Yes","Yes"
-"isindex[10]","Adds a search field","?","4","input type="search"","<3.1[IE 5.5]","1.7","312","Yes","Partial"
-"listing","Displays preformatted text","IETF , URL: /wiki/IETF
-","2","pre, samp, code, CSS","3.1","1.7","125","3.3","Yes"
-"menu","Menu list","?","4","ul, ol","3.1","Yes","Yes","Yes","Yes"
-"plaintext","Designates that all HTML be ignored, and to display the page as is","?","3.2","MIME type , URL: /wiki/MIME_type
-","3.1","Yes","Yes","Yes","Yes"
-"s","Strike-through","?","4","del, CSS","<3.1[IE 4.0]","1.7","Yes","Yes","1.0"
-"strike","Strike-through","?","4","del, CSS","<3.1[IE 4.0]","1.7","Yes","Yes","1.0"
-"u","Underline","?","4","CSS","<3.1[IE 4.0]","1.7","Yes","Yes","1.0"
-"xmp","Similar to pre and plaintext, but ignores all HTML within and displays as is","?","2","pre, samp, code","<3.1[IE 3.0]","1.7","125","3.3","1.0"
+"bgsound","Used to add sound to the background of a website","Internet Explorer","audio","<3.1[IE 3.0]","No","No","No","Dropped[11]"
+"blink","Used to display a blinking text","Netscape , URL: /wiki/Netscape
+","Javascript, CSS","No","Dropped[12]","Yes","No","1.0"
+"bq","blockquote , URL: /wiki/Blockquote
+","WebTV, HTML 3.0","blockquote","No","No","No","No","Dropped[13]"
+"comment","Used to allow the addition of comments to HTML documents","Internet Explorer, WebTV","<!-- ... -->","3.1","No","No","No","No"
+"ilayer","Inline layers","Netscape (4 only)","iframe","No","No","No","Partial","No"
+"image","Synonym of img","?","img","3.1","Yes","Yes","Yes","Yes"
+"layer","Used to create multiple layers of text and images which lay on top of each other in a given order","Netscape (4 only)","AJAX , URL: /wiki/Ajax_(programming)
+","No","No","No","Partial","No"
+"marquee","Used to display a scrolling, marquee-like text.","Internet Explorer, WebTV","JavaScript, CSS3","3.1","1.7","125","3.3","1.0"
+"nobr","Prevents any line breaks from occurring within the flow of a text","Netscape[14][15]","CSS","3.1","Yes","Yes","Yes","Yes"
+"noembed","Displays an alternative text for browsers which do not recognize the embed tag","Netscape","Child elements of object used as fallback","3.1","Yes","Yes","Yes","Yes"
+"spacer","Adds whitespace in a layout","Netscape","CSS","No","Dropped[16]","No","No","No"
+"wbr","Placed inside a nobr element to add a line break","Netscape[14][15]","zero-width space , URL: /wiki/Zero-width_space
+","Dropped[note 10]","1.7","Yes","3.1","No"
+"xml[18]","Includes XML data, either inline or from an URL, in an HTML page","Internet Explorer","AJAX , URL: /wiki/AJAX
+XML namespaces , URL: /wiki/XML_namespaces
+","3.1","No","No","No","No"

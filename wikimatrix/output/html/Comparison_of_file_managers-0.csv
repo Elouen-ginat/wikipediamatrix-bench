@@ -1,237 +1,461 @@
-"Name","Creator","First public version (date)","Latest stable version (date, number)","Cost","Software license , URL: /wiki/Software_license
-"
+"Name","Developer","Initial release","Initial release","Platform","Latest release","Latest release","License , URL: /wiki/Software_license
+","Cost"
+"Name","Developer","Version","Date","Platform","Version","Date","License , URL: /wiki/Software_license
+","Cost"
 "Altap Salamander , URL: /wiki/Altap_Salamander
-","Altap","August 15, 1997 (1997-08-15)","July 1, 2019; 2 years ago (2019-07-01) (4.0)","No cost , URL: /wiki/Gratis_versus_libre
-","Proprietary , URL: /wiki/Proprietary_software
+","Altap","","1997-08-15","Windows","
+URL: https://www.wikidata.org/wiki/Q3509597?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2019-06-11","Proprietary , URL: /wiki/Proprietary_software
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Commander One , URL: /wiki/Commander_One
-","Eltima Software","August 4, 2015 (2015-08-04)","2019; 3 years ago (2019) (2.3)","US$29.95[1]","Proprietary , URL: /wiki/Proprietary_software
+","Eltima Software","","2015-08-04","macOS","
+URL: https://www.wikidata.org/wiki/Q21043313?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-09-10","Proprietary , URL: /wiki/Proprietary_software
+","US$29.95[a]"
+"Directory Opus , URL: /wiki/Directory_Opus
+","Jonathan Potter GPSoftware","1","1990-01-03","AmigaOS","4.16[4]","2001-07-04","GPL-2.0 , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Directory Opus , URL: /wiki/Directory_Opus
-","Jonathan Potter, GPSoftware","Amiga , URL: /wiki/Amiga
-Windows , URL: /wiki/Microsoft_Windows
-","December 2, 2021; 3 months ago (2021-12-02) (12.26)","A$ , URL: /wiki/Australian_dollar
+","Jonathan Potter GPSoftware","1","1990-01-03","AmigaOS","5.91[5]","2015-08-30","APL , URL: /wiki/AROS_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"Directory Opus , URL: /wiki/Directory_Opus
+","Jonathan Potter GPSoftware","1","1990-01-03","AROS","5.91[5]","2015-08-30","APL , URL: /wiki/AROS_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"Directory Opus , URL: /wiki/Directory_Opus
+","Jonathan Potter GPSoftware","1","1990-01-03","MorphOS","5.91[5]","2015-08-30","APL , URL: /wiki/AROS_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"Directory Opus , URL: /wiki/Directory_Opus
+","Jonathan Potter GPSoftware","6","2001-06-18","Windows","12.26","2021-12-02","Proprietary , URL: /wiki/Proprietary_software
+","A$ , URL: /wiki/Australian_dollar
 A$ , URL: /wiki/Australian_dollar
-","Proprietary , URL: /wiki/Proprietary_software
 "
 "Dired , URL: /wiki/Dired
 ","Emacs , URL: /wiki/Emacs
 GNU project , URL: /wiki/GNU_project
-","1974?","July 30, 2009; 12 years ago (2009-07-30) (7.17)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL , URL: /wiki/GNU_General_Public_License
+","","1974?","","
+URL: https://www.wikidata.org/wiki/Q1227545?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2009-07-30","GPL-1.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Dolphin , URL: /wiki/Dolphin_(file_manager)
 ","KDE , URL: /wiki/KDE
-","June 7, 2006 (2006-06-07) (0.5)","
+","0.5","2006-06-07","BSD","
 URL: https://www.wikidata.org/wiki/Q816725?uselang=en#P348
 //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-01-29","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
 ","No cost , URL: /wiki/Gratis_versus_libre
-","GPL , URL: /wiki/GNU_General_Public_License
+"
+"Dolphin , URL: /wiki/Dolphin_(file_manager)
+","KDE , URL: /wiki/KDE
+","0.5","2006-06-07","GNU/Linux","
+URL: https://www.wikidata.org/wiki/Q816725?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-01-29","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"Dolphin , URL: /wiki/Dolphin_(file_manager)
+","KDE , URL: /wiki/KDE
+","0.5","2006-06-07","macOS","
+URL: https://www.wikidata.org/wiki/Q816725?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-01-29","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"Dolphin , URL: /wiki/Dolphin_(file_manager)
+","KDE , URL: /wiki/KDE
+","0.5","2006-06-07","Unix","
+URL: https://www.wikidata.org/wiki/Q816725?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-01-29","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"Dolphin , URL: /wiki/Dolphin_(file_manager)
+","KDE , URL: /wiki/KDE
+","0.5","2006-06-07","Windows","
+URL: https://www.wikidata.org/wiki/Q816725?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-01-29","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "DOS Navigator , URL: /wiki/DOS_Navigator
 ","Ritlabs , URL: /w/index.php?title=Ritlabs&action=edit&redlink=1
-","1991 (0.90)","1999 (1.51)","No cost , URL: /wiki/Gratis_versus_libre
-","BSD-3-Clause , URL: /wiki/BSD_licenses
+","0.90","1991","DOS","
+URL: https://www.wikidata.org/wiki/Q1250911?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","1999-04-19","BSD-3-Clause , URL: /wiki/BSD_licenses
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"DOS Navigator , URL: /wiki/DOS_Navigator
+","Ritlabs , URL: /w/index.php?title=Ritlabs&action=edit&redlink=1
+","0.90","1991","OS/2","
+URL: https://www.wikidata.org/wiki/Q1250911?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","1999-04-19","BSD-3-Clause , URL: /wiki/BSD_licenses
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"DOS Navigator , URL: /wiki/DOS_Navigator
+","Ritlabs , URL: /w/index.php?title=Ritlabs&action=edit&redlink=1
+","0.90","1991","Windows","
+URL: https://www.wikidata.org/wiki/Q1250911?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","1999-04-19","BSD-3-Clause , URL: /wiki/BSD_licenses
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "DOS Shell , URL: /wiki/DOS_Shell
 ","Microsoft , URL: /wiki/Microsoft
 IBM , URL: /wiki/IBM
-","1988","1998","MS-DOS , URL: /wiki/MS-DOS
-PC DOS , URL: /wiki/PC_DOS
-OS , URL: /wiki/Operating_system
-","Proprietary , URL: /wiki/Proprietary_software
+","","1988","DOS","","1998","Proprietary , URL: /wiki/Proprietary_software
+","Bundled[b]"
+"Double Commander , URL: /wiki/Double_Commander
+","Alexander Koblov[c]","","2007","BSD","
+URL: https://www.wikidata.org/wiki/Q4037550?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-02-05","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Double Commander , URL: /wiki/Double_Commander
-","Alexander Koblov (alexx2000) and others","2007","January 10, 2021; 13 months ago (2021-01-10) (0.9.10)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Alexander Koblov[c]","","2007","GNU/Linux","
+URL: https://www.wikidata.org/wiki/Q4037550?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-02-05","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"Double Commander , URL: /wiki/Double_Commander
+","Alexander Koblov[c]","","2007","macOS","
+URL: https://www.wikidata.org/wiki/Q4037550?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-02-05","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"Double Commander , URL: /wiki/Double_Commander
+","Alexander Koblov[c]","","2007","Unix","
+URL: https://www.wikidata.org/wiki/Q4037550?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-02-05","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"Double Commander , URL: /wiki/Double_Commander
+","Alexander Koblov[c]","","2007","Windows","
+URL: https://www.wikidata.org/wiki/Q4037550?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-02-05","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "emelFM2 , URL: /wiki/EmelFM2
-","tooar","September 6, 2003 (2003-09-06)","February 18, 2014; 8 years ago (2014-02-18) (0.9.1)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","tooar","","2003-09-06","BSD","
+URL: https://www.wikidata.org/wiki/Q248253?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2014-02-18","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"emelFM2 , URL: /wiki/EmelFM2
+","tooar","","2003-09-06","GNU/Linux","
+URL: https://www.wikidata.org/wiki/Q248253?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2014-02-18","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"emelFM2 , URL: /wiki/EmelFM2
+","tooar","","2003-09-06","Unix","
+URL: https://www.wikidata.org/wiki/Q248253?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2014-02-18","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Explorer++ , URL: /wiki/Explorer%2B%2B
-","David Ercig","January 8, 2008 (2008-01-08)","February 3, 2013; 9 years ago (2013-02-03) (1.3.5)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-3.0-only , URL: /wiki/GNU_General_Public_License
+","David Ercig","","2008-01-08","Windows","
+URL: https://www.wikidata.org/wiki/Q16250135?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2013-02-03","GPL-3.0-only , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Far Manager , URL: /wiki/Far_Manager
-","Eugene Roshal (original); Far Group","1996","3.0 build 5665 (12 September 2020; 17 months ago (2020-09-12)) [±]","No cost , URL: /wiki/Gratis_versus_libre
-","BSD-3-Clause , URL: /wiki/BSD_licenses
+","Eugene Roshal Far Group","","1996","Windows","
+URL: https://www.wikidata.org/wiki/Q1386527?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-03-10","BSD-3-Clause , URL: /wiki/BSD_licenses
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "File Commander , URL: /wiki/File_Commander
-","Brian Havard","1993","March 3, 2011; 11 years ago (2011-03-03) (2.40)","A$35.00","Proprietary , URL: /wiki/Proprietary_software
-"
+","Brian Havard","","1993","GNU/Linux","
+URL: https://www.wikidata.org/wiki/Q1412589?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2011-03-03","Proprietary , URL: /wiki/Proprietary_software
+","A$35.00"
+"File Commander , URL: /wiki/File_Commander
+","Brian Havard","","1993","OS/2","
+URL: https://www.wikidata.org/wiki/Q1412589?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2011-03-03","Proprietary , URL: /wiki/Proprietary_software
+","A$35.00"
+"File Commander , URL: /wiki/File_Commander
+","Brian Havard","","1993","Windows","
+URL: https://www.wikidata.org/wiki/Q1412589?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2011-03-03","Proprietary , URL: /wiki/Proprietary_software
+","A$35.00"
 "File Explorer , URL: /wiki/File_Explorer
 ","Microsoft , URL: /wiki/Microsoft
-","August 24, 1995 (1995-08-24)","July 29, 2015; 6 years ago (2015-07-29)","Windows , URL: /wiki/Windows
-OS , URL: /wiki/Operating_system
-","Proprietary , URL: /wiki/Proprietary_software
-"
+","","1995-08-24","Windows","","2015-07-29","Proprietary , URL: /wiki/Proprietary_software
+","Bundled[e]"
 "File Manager , URL: /wiki/File_Manager_(Windows)
 ","Microsoft , URL: /wiki/Microsoft
-","1990","January 7, 2019; 3 years ago (2019-01-07) (10.0.1901.1)[4]","Windows , URL: /wiki/Windows
-OS , URL: /wiki/Operating_system
-","MIT , URL: /wiki/MIT_License
-"
+","","1990","Windows","
+URL: https://www.wikidata.org/wiki/Q1172307?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2020-06-16","MIT , URL: /wiki/MIT_License
+","Bundled[e]"
 "Files (Apple) , URL: /wiki/Files_(Apple)
 ","Apple Inc. , URL: /wiki/Apple_Inc.
-","September 19, 2017; 4 years ago (2017-09-19)","","iOS , URL: /wiki/IOS
-OS , URL: /wiki/Operating_system
-","Proprietary , URL: /wiki/Proprietary_software
-"
+","","2017-09-19","macOS","
+URL: https://www.wikidata.org/wiki/Q30612706?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2019-09-19","Proprietary , URL: /wiki/Proprietary_software
+","Bundled[f]"
 "Files by Google , URL: /wiki/Files_by_Google
 ","Google LLC , URL: /wiki/Google_LLC
-","5 December 2017; 4 years ago (2017-12-05)","","No cost , URL: /wiki/Gratis_versus_libre
-","Proprietary , URL: /wiki/Proprietary_software
+","","2017-12-05","","","","Proprietary , URL: /wiki/Proprietary_software
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "GeoManager , URL: /wiki/GeoManager
 ","Berkeley Softworks , URL: /w/index.php?title=Berkeley_Softworks&action=edit&redlink=1
 Breadbox Ensemble , URL: /wiki/Breadbox_Ensemble
-","1990","2009","PC/GEOS , URL: /wiki/PC/GEOS
-OS , URL: /wiki/Operating_system
-","Proprietary , URL: /wiki/Proprietary_software
-"
+","","1990","GEOS","","2009","Proprietary , URL: /wiki/Proprietary_software
+","Bundled[i]"
 "Finder , URL: /wiki/Macintosh_Finder
 ","Apple Inc. , URL: /wiki/Apple_Inc.
-","January 1984 (1984-01)","August 13, 2015; 6 years ago (2015-08-13) (10.10.5)","macOS , URL: /wiki/MacOS
-OS , URL: /wiki/Operating_system
-","Proprietary , URL: /wiki/Proprietary_software
-"
+","","1984-01","macOS","10.10.5","2015-08-13","Proprietary , URL: /wiki/Proprietary_software
+","Bundled[j]"
 "fman , URL: /wiki/Fman
-","Michael Herrmann","July 18, 2016 (2016-07-18)","April 22, 2019; 2 years ago (2019-04-22) (1.5.8)","US$18[1]","Proprietary , URL: /wiki/Proprietary_software
-"
+","Michael Herrmann","","2016-07-18","","1.5.8","2019-04-22","Proprietary , URL: /wiki/Proprietary_software
+","US$18[a]"
 "ForkLift , URL: /wiki/ForkLift_(File_Manager)
-","BinaryNights","June 1, 2007 (2007-06-01)","November 24, 2020; 15 months ago (2020-11-24) (3.4.4)","US$29.95[1]","Proprietary , URL: /wiki/Proprietary_software
-"
+","BinaryNights","","2007-06-01","macOS","
+URL: https://www.wikidata.org/wiki/Q30603625?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-09-21","Proprietary , URL: /wiki/Proprietary_software
+","US$29.95[a]"
 "gentoo , URL: /wiki/Gentoo_(file_manager)
-","Emil Brink","?","March 18, 2012; 9 years ago (2012-03-18) (0.19.13)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-2.0-only , URL: /wiki/GNU_General_Public_License
+","Emil Brink","","?","","
+URL: https://www.wikidata.org/wiki/Q288753?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2016-06-16","GPL-2.0-only , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "GNOME Commander , URL: /wiki/GNOME_Commander
-","GNOME Commander","September 2001 (2001-09)","June 19, 2020; 20 months ago (2020-06-19) (1.10.3)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","GNOME Commander","","2001-09","","
+URL: https://www.wikidata.org/wiki/Q1533264?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-02-05","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "GNOME Files , URL: /wiki/GNOME_Files
 ","Eazel , URL: /wiki/Eazel
-","April 11, 2001 (2001-04-11)","
+","","2001-04-11","","
 URL: https://www.wikidata.org/wiki/Q240298?uselang=en#P348
 //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-10-30","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
 ","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
 "
 "Konqueror , URL: /wiki/Konqueror
-","KDE","October 2000 (2000-10)","4.14.38 (November 7, 2017; 4 years ago (2017-11-07)) [±][9]","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","KDE","","2000-10","","
+URL: https://www.wikidata.org/wiki/Q178565?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-01-28","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Krusader , URL: /wiki/Krusader
-","Krusader Krew","July 11, 2000 (2000-07-11)","2.7.2 "Peace of Mind" (August 25, 2019; 2 years ago (2019-08-25)[10]) [±]","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Krusader Krew","","2000-07-11","","
+URL: https://www.wikidata.org/wiki/Q1342934?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2019-08-25","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Midnight Commander , URL: /wiki/Midnight_Commander
-","GNU Midnight Commander","< May 1994[12]","July 18, 2020; 19 months ago (2020-07-18) (4.8.25)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Miguel de Icaza GNU","","1994-05[m]","","
+URL: https://www.wikidata.org/wiki/Q1340000?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-08-15","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "muCommander , URL: /wiki/MuCommander
-","Maxence Bernard","February 17, 2002 (2002-02-17)","May 8, 2021; 10 months ago (2021-05-08) (0.9.7)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","Maxence Bernard","","2002-02-17","","
+URL: https://www.wikidata.org/wiki/Q1943898?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-05-08","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Nemo , URL: /wiki/Nemo_(file_manager)
 ","Linux Mint , URL: /wiki/Linux_Mint
-","July 2012 (2012-07) (1.0.0)","December 11, 2018 (4.0.5)[13]","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","1.0.0","2012-07","","
+URL: https://www.wikidata.org/wiki/Q6991197?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-01-11","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"nnn , URL: /wiki/Nnn_(file_manager)
+","Arun Prakash Jana","","2017-04-13","","
+URL: https://www.wikidata.org/wiki/Q69904311?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-11-23","BSD-2-Clause , URL: /wiki/BSD_licenses
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Nomad.NET , URL: /wiki/Nomad.NET
-","Eugene Sichkar","August 14, 2008 (2008-08-14) (2.2.0.537 beta)","June 13, 2016; 5 years ago (2016-06-13) (3.2.0.2890)","No cost , URL: /wiki/Gratis_versus_libre
-","Proprietary , URL: /wiki/Proprietary_software
+","Eugene Sichkar","2.2.0.537 beta","2008-08-14","","3.2.0.2890","2016-06-13","Proprietary , URL: /wiki/Proprietary_software
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Norton Commander , URL: /wiki/Norton_Commander
 ","Peter Norton Computing , URL: /wiki/Peter_Norton_Computing
 Symantec , URL: /wiki/NortonLifeLock
-","1986","DOS , URL: /wiki/DOS
-","?","Proprietary , URL: /wiki/Proprietary_software
-"
+","","1986","DOS","5.51","1998-07-01","Proprietary , URL: /wiki/Proprietary_software
+","?"
+"Norton Commander , URL: /wiki/Norton_Commander
+","Peter Norton Computing , URL: /wiki/Peter_Norton_Computing
+Symantec , URL: /wiki/NortonLifeLock
+","","1986","Windows","2.01","1999-02-01","Proprietary , URL: /wiki/Proprietary_software
+","?"
 "Path Finder , URL: /wiki/Path_Finder
-","Cocoatech","April 2001 (2001-04)","March 24, 2020; 23 months ago (2020-03-24) (9.1)","US$36.00","Proprietary , URL: /wiki/Proprietary_software
-"
+","Cocoatech","","2001-04","macOS","9.1","2020-03-24","Proprietary , URL: /wiki/Proprietary_software
+","US$36.00"
 "PathMinder , URL: /wiki/PathMinder
-","Albert Nurick and Brittain Fraley","1984","1988 (4.11)","US$39.95","Proprietary , URL: /wiki/Proprietary_software
-"
+","Albert Nurick Brittain Fraley","","1984","DOS","4.11","1988","Proprietary , URL: /wiki/Proprietary_software
+","US$39.95"
 "PCManFM , URL: /wiki/PCMan_File_Manager
-","Hong Jen Yee","January 9, 2006 (2006-01-09)","February 21, 2016; 6 years ago (2016-02-21) (1.2.4)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Hong Jen Yee","","2006-01-09","","1.2.4","2016-02-21","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "PC Shell , URL: /wiki/PC_Shell
 ","Central Point Software , URL: /wiki/Central_Point_Software
-","1986","","paid[16]","Proprietary , URL: /wiki/Proprietary_software
+","","1986","","","","Proprietary , URL: /wiki/Proprietary_software
+","?[p]"
+"ranger , URL: /wiki/Ranger_(file_manager)
+","Roman Zimbelmann","","2010-06-09","BSD","
+URL: https://www.wikidata.org/wiki/Q18215973?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2019-12-31","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
-"Ranger , URL: /wiki/Ranger_(file_manager)
-","Roman Zimbelmann","June 9, 2010 (2010-06-09)","December 31, 2019; 2 years ago (2019-12-31) (1.9.3)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+"ranger , URL: /wiki/Ranger_(file_manager)
+","Roman Zimbelmann","","2010-06-09","GNU/Linux","
+URL: https://www.wikidata.org/wiki/Q18215973?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2019-12-31","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
+"
+"ranger , URL: /wiki/Ranger_(file_manager)
+","Roman Zimbelmann","","2010-06-09","macOS","
+URL: https://www.wikidata.org/wiki/Q18215973?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2019-12-31","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "ROX-Filer , URL: /wiki/ROX-Filer
-","Thomas Leonard et al.","Before March 10, 2000 (2000-03-10)","October 9, 2011; 10 years ago (2011-10-09) (2.11)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Thomas Leonard et al.","","2000-03-10","","
+URL: https://www.wikidata.org/wiki/Q2466393?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2011-10-09","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "SpaceFM , URL: /wiki/SpaceFM
-","IgnorantGuru","January 13, 2012 (2012-01-13) (0.5.0)","January 20, 2016; 6 years ago (2016-01-20) (1.0.5)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","IgnorantGuru","0.5.0","2012-01-13","","
+URL: https://www.wikidata.org/wiki/Q17082538?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2018-03-04","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "STDU Explorer , URL: /wiki/STDU_Explorer
-","STDUtility","March 23, 2009 (2009-03-23)","May 24, 2012; 9 years ago (2012-05-24) (1.0.465)","No cost , URL: /wiki/Gratis_versus_libre
-","Proprietary , URL: /wiki/Proprietary_software
+","STDUtility","","2009-03-23","Windows","1.0.465","2012-05-24","Proprietary , URL: /wiki/Proprietary_software
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Tabbles , URL: /wiki/Tabbles
-","Yellow blue soft UAB","August 1, 2009 (2009-08-01)","August 12, 2016; 5 years ago (2016-08-12) (3.1.29)","US$29.95[1]","Proprietary , URL: /wiki/Proprietary_software
-"
+","Yellow blue soft UAB","","2009-08-01","Windows","3.1.29","2016-08-12","Proprietary , URL: /wiki/Proprietary_software
+","US$29.95[a]"
 "Thunar , URL: /wiki/Thunar
 ","Xfce , URL: /wiki/Xfce
-","January 22, 2006 (2006-01-22)","[when?](4.15.2)[17]","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","","2006-01-22","","
+URL: https://www.wikidata.org/wiki/Q757834?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-07-18","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Total Commander , URL: /wiki/Total_Commander
-","Christian Ghisler","September 25, 1993; 28 years ago (1993-09-25) (1.00d)","June 10, 2021; 8 months ago (2021-06-10) (10.00)","CHF , URL: /wiki/Swiss_franc
-","Proprietary , URL: /wiki/Proprietary_software
+","Christian Ghisler","1.00d","1993-09-25","Android","
+URL: https://www.wikidata.org/wiki/Q80201?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-10-18","Proprietary , URL: /wiki/Proprietary_software
+","CHF , URL: /wiki/Swiss_franc
+"
+"Total Commander , URL: /wiki/Total_Commander
+","Christian Ghisler","1.00d","1993-09-25","Windows","
+URL: https://www.wikidata.org/wiki/Q80201?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-06-10","Proprietary , URL: /wiki/Proprietary_software
+","CHF , URL: /wiki/Swiss_franc
 "
 "ViewMAX , URL: /wiki/ViewMAX
 ","Digital Research , URL: /wiki/Digital_Research
 Novell , URL: /wiki/Novell
-","1990 (1.0)","1993 (3.0)","DR-DOS , URL: /wiki/DR-DOS
-OS , URL: /wiki/Operating_system
-","GPL[19]"
+","1.0","1990","DR-DOS","3.0","1993","GPL-2.0-only , URL: /wiki/GNU_General_Public_License
+","Bundled[s]"
 "Volkov Commander , URL: /wiki/Volkov_Commander
-","Vsevolod Volkov","circa 1992","4.05 (February 21, 2001; 21 years ago (2001-02-21)) [±]","shareware / freeware","Proprietary , URL: /wiki/Proprietary_software
-"
+","Vsevolod Volkov","","1992","DOS","
+URL: https://www.wikidata.org/wiki/Q1431723?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2000-06-16","Proprietary , URL: /wiki/Proprietary_software
+","Depends[t]"
 "WinSCP , URL: /wiki/WinSCP
 ","WinSCP , URL: /wiki/WinSCP
-","September 30, 2000 (2000-09-30)","
+","","2000-09-30","Windows","
 URL: https://www.wikidata.org/wiki/Q1160381?uselang=en#P348
 //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2022-02-22","GPL-3.0-only , URL: /wiki/GNU_General_Public_License
 ","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-3.0-only , URL: /wiki/GNU_General_Public_License
 "
 "Xandros File Manager , URL: /wiki/Xandros_File_Manager
 ","Xandros Corporation , URL: /wiki/Xandros_Corporation
-","?","July 26, 2007; 14 years ago (2007-07-26) (4.2)","Part of Xandros Desktop","Proprietary , URL: /wiki/Proprietary_software
-"
+","","?","","4.2","2007-07-26","Proprietary , URL: /wiki/Proprietary_software
+","Bundled[u]"
 "Xfe , URL: /wiki/Xfe
-","Roland Baudin","2002","September 16, 2018; 3 years ago (2018-09-16) (1.43.1)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL , URL: /wiki/GNU_General_Public_License
+","Roland Baudin","","2002","","
+URL: https://www.wikidata.org/wiki/Q2787343?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2021-03-14","GPL , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "Xfile , URL: /wiki/Xfile
-","Rixstep","March 2, 2003 (2003-03-02)","February 19, 2007; 15 years ago (2007-02-19) (1.8.0)","US$79.00[21]","Proprietary , URL: /wiki/Proprietary_software
-"
+","Rixstep","","2003-03-02","macOS","2.1.0.10","2010-02-14","Proprietary , URL: /wiki/Proprietary_software
+","US$79.00[v]"
 "Xfm , URL: /wiki/Xfm_(file_manager)
-","Simon Marlow, Albert Gräf, Till Straumann, Robert Vogelgesang, Juan D. Martin","1992","September 2001; 20 years ago (2001-09) (1.4.3)","No cost , URL: /wiki/Gratis_versus_libre
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","Simon Marlow Albert Gräf Till Straumann Robert Vogelgesang Juan D. Martin","","1992","","
+URL: https://www.wikidata.org/wiki/Q3570943?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+","2001-09-03","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
+","No cost , URL: /wiki/Gratis_versus_libre
 "
 "xplorer² , URL: /wiki/Xplorer%C2%B2
-","Nikos Bozinis","June 10, 2004 (2004-06-10)","February 28, 2021; 12 months ago (2021-02-28) (5.0.0.0)","pro US$29.95, ultimate: US$49.95[1]","Proprietary , URL: /wiki/Proprietary_software
-"
+","Nikos Bozinis","","2004-06-10","Windows","5.0.0.0","2021-02-28","Proprietary , URL: /wiki/Proprietary_software
+","US$29.95 - 49.95[w]"
 "XTree , URL: /wiki/XTree
-","Jeffery C. Johnson","April 1, 1985 (1985-04-01)","1992; 30 years ago (1992) (Xtree for Windows)","US$39.95","Proprietary , URL: /wiki/Proprietary_software
-"
+","Jeffery C. Johnson","","1985-04-01","DOS","","1992","Proprietary , URL: /wiki/Proprietary_software
+","US$39.95"
+"XTree , URL: /wiki/XTree
+","Jeffery C. Johnson","","1992","Windows","","1992","Proprietary , URL: /wiki/Proprietary_software
+","US$39.95"
 "XYplorer , URL: /wiki/XYplorer
-","Donald Lessau","1997","February 13, 2020; 2 years ago (2020-02-13) (20.80.0100)","Standard License Pro US$39.95, Lifetime License Pro $79.95[1][22]","Proprietary , URL: /wiki/Proprietary_software
-"
+","Donald Lessau","","1997","Windows","20.80.0100","2020-02-13","Proprietary , URL: /wiki/Proprietary_software
+","US$39.95 - 79.95[x]"
 "ZTreeWin , URL: /wiki/ZTreeWin
-","Kim Henkel","1996","May 27, 2012; 9 years ago (2012-05-27) (2.1.19) May 26, 2013; 8 years ago (2013-05-26) (2.4.121 beta) May 31, 2017; 4 years ago (2017-05-31) (2.4.172 zeta)","US$29.95 (1-4)","Proprietary , URL: /wiki/Proprietary_software
-"
+","Kim Henkel","","1996","Windows","2.2.19","2011-05-27","Proprietary , URL: /wiki/Proprietary_software
+","US$29.95 (1-4)"
+"Name","Developer","Initial release","Initial release","Platform","Latest release","Latest release","License , URL: /wiki/Software_license
+","Cost"
+"Name","Developer","Version","Date","Platform","Version","Date","License , URL: /wiki/Software_license
+","Cost"

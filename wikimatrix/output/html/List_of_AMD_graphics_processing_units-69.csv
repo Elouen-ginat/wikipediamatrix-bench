@@ -1,29 +1,30 @@
 "Codename , URL: /wiki/Codename
-","Launch","Architecture , URL: /wiki/Microarchitecture
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
 Fab , URL: /wiki/Semiconductor_device_fabrication
-","Transistors Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Transistors & Die Size","Core","Core","Core","Fillrate , URL: /wiki/Fillrate
 ","Fillrate , URL: /wiki/Fillrate
-","TFLOPS , URL: /wiki/TFLOPS
-","TFLOPS , URL: /wiki/TFLOPS
-","TFLOPS , URL: /wiki/TFLOPS
-","Memory","Memory","Memory","Memory","W , URL: /wiki/Watt
-","Bus interface","Graphic output Port","Release Price (USD)"
+","GFLOPS , URL: /wiki/GFLOPS
+","GFLOPS , URL: /wiki/GFLOPS
+","Memory","Memory","Memory","Memory","TDP , URL: /wiki/Thermal_Design_Power
+","Bus interface","Graphic output ports"
 "Codename , URL: /wiki/Codename
-","Launch","Architecture , URL: /wiki/Microarchitecture
+","Release Date & Price","Architecture , URL: /wiki/Microarchitecture
 Fab , URL: /wiki/Semiconductor_device_fabrication
-","Transistors Die Size","Config[e]","MHz , URL: /wiki/Hertz
+","Transistors & Die Size","Config[e]","Config[e]","MHz , URL: /wiki/Hertz
 ","GT , URL: /wiki/Texel_(graphics)
 ","GP , URL: /wiki/Pixel
-","Half , URL: /wiki/Half-precision_floating-point_format
 ","Single , URL: /wiki/Single_precision_floating-point_format
 ","Double , URL: /wiki/Double_precision_floating-point_format
-","bit , URL: /wiki/Bit
-","GiB , URL: /wiki/Gibibyte
+","Bus type & width","GiB , URL: /wiki/Gibibyte
 ","MT/s , URL: /wiki/Transfer_(computing)
 ","GB , URL: /wiki/Gigabyte
-","W , URL: /wiki/Watt
-","Bus interface","Graphic output Port","Release Price (USD)"
-"Radeon Pro WX 3200 (Polaris)[329]","July 2019","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
-","","640:40:? (10)","","","","SP","1.66","0.104","GDDR5 128","4","6000","96","50","PCIe 3.0 ×8","4x mini-DP 1.4","$200"
-"Radeon Pro WX 8200 (Vega) [330]","August 2018","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
-","12500×106 484mm2","3584:224:64 (56)","1200 1530","342.7","97.92","2x SP","10.967","1/16 SP","HBM2 2048","8","2000","512","<230","PCIe 3.0 ×16","4x mini-DP 1.4","$999"
+","TDP , URL: /wiki/Thermal_Design_Power
+","Bus interface","Graphic output ports"
+"Radeon Pro Vega II (Vega 20)[331]","November 2019$2,800 USD","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
+","0.0×109 ? mm2","4096:256:64 64 CU","4096:256:64 64 CU","1700","435","109","14200","880","HBM2 , URL: /wiki/High_Bandwidth_Memory#HBM2
+","32","2000","1000","Unknown","PCIe 3.0 , URL: /wiki/PCIe#PCI_Express_3.0
+","4× Thunderbolt 3 1× HDMI 2.0"
+"Radeon Pro Vega II Duo (Vega 20)[331]","November 2019$5,600 USD","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
+","0.0×109 ? mm2","2×","4096:256:64 64 CU","1700","2× 435","2× 109","2× 14200","2× 880","HBM2 , URL: /wiki/High_Bandwidth_Memory#HBM2
+","2× 32","2000","1000","Unknown","PCIe 3.0 , URL: /wiki/PCIe#PCI_Express_3.0
+","4× Thunderbolt 3 1× HDMI 2.0"

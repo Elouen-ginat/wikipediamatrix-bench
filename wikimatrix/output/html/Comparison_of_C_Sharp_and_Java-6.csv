@@ -1,22 +1,12 @@
-"Arrays , URL: /wiki/Array_data_type
-Collections , URL: /wiki/Collection_(abstract_data_type)
-","Java","C#"
-"Abstract data types , URL: /wiki/Abstract_data_type
+"Statements","Java","C#"
+"Loops , URL: /wiki/Loop_(computing)
 ","Yes","Yes"
-"One-dimensional, zero-based index arrays","Yes","Yes"
-"Multidimensional arrays, rectangular (single array)","Yes","Yes"
-"Multidimensional arrays, jagged (arrays of arrays)","Yes","Yes"
-"Non-zero based arrays","No","Some"
-"Unified arrays and collections","No","Yes"
-"Maps/dictionaries , URL: /wiki/Associative_array
+"Conditionals , URL: /wiki/Conditional_(programming)
 ","Yes","Yes"
-"Sorted dictionaries","Yes","Yes[30]"
-"Sets","Yes","Yes"
-"Sorted sets","Yes","Yes[31]"
-"Lists/vectors","Yes","Yes"
-"Queues/stacks , URL: /wiki/Queue_(data_structure)
+"Flow control","Yes","Yes"
+"Assignment , URL: /wiki/Assignment_(computer_science)
 ","Yes","Yes"
-"Priority queue , URL: /wiki/Priority_queue
-","Yes","Yes[32][33]"
-"Bags/multisets","Third-party library","Yes"
-"Concurrency optimized collections","Yes","Yes[34]"
+"Exception control","Yes","Yes"
+"Variable declaration","Yes","Yes"
+"Variable type inference","Yes[43]","Yes"
+"Deterministic disposal (ARM-blocks)","Yes","Yes"

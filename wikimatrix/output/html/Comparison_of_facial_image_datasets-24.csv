@@ -1,21 +1,8 @@
 "Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
-"Synthetic Fundus Dataset[382]","Photorealistic retinal images and vessel segmentations. Public domain.","2500 images with 1500*1152 pixels useful for segmentation and classification of veins and arteries on a single background.","2500","Images","Classification, Segmentation","2020","[383]","C. Valenti et al."
-"EEG Database","Study to examine EEG correlates of genetic predisposition to alcoholism.","Measurements from 64 electrodes placed on the scalp sampled at 256 Hz (3.9 ms epoch) for 1 second.","122","Text","Classification","1999","[384]","H. Begleiter"
-"P300 Interface Dataset","Data from nine subjects collected using P300-based brain-computer interface for disabled subjects.","MATLAB , URL: /wiki/MATLAB
-","1,224","Text","Classification","2008","[385][386]","U. Hoffman et al."
-"Heart Disease Data Set","Attributed of patients with and without heart disease.","75 attributes given for each patient with some missing values.","303","Text","Classification","1988","[387][388]","A. Janosi et al."
-"Breast Cancer Wisconsin (Diagnostic) Dataset","Dataset of features of breast masses. Diagnoses by physician is given.","10 features for each sample are given.","569","Text","Classification","1995","[389][390]","W. Wolberg et al."
-"National Survey on Drug Use and Health","Large scale survey on health and drug use in the United States.","None.","55,268","Text","Classification, regression","2012","[391]","United States Department of Health and Human Services , URL: /wiki/United_States_Department_of_Health_and_Human_Services
-"
-"Lung Cancer Dataset","Lung cancer dataset without attribute definitions","56 features are given for each case","32","Text","Classification","1992","[392][393]","Z. Hong et al."
-"Arrhythmia Dataset","Data for a group of patients, of which some have cardiac arrhythmia.","276 features for each instance.","452","Text","Classification","1998","[394][395]","H. Altay et al."
-"Diabetes 130-US hospitals for years 1999–2008 Dataset","9 years of readmission data across 130 US hospitals for patients with diabetes.","Many features of each readmission are given.","100,000","Text","Classification, clustering","2014","[396][397]","J. Clore et al."
-"Diabetic Retinopathy Debrecen Dataset","Features extracted from images of eyes with and without diabetic retinopathy.","Features extracted and conditions diagnosed.","1151","Text","Classification","2014","[398][399]","B. Antal et al."
-"Diabetic Retinopathy Messidor Dataset","Methods to evaluate segmentation and indexing techniques in the field of retinal ophthalmology (MESSIDOR)","Features retinopathy grade and risk of macular edema","1200","Images, Text","Classification, Segmentation","2008","[400][401]","Messidor Project"
-"Liver Disorders Dataset","Data for people with liver disorders.","Seven biological features given for each patient.","345","Text","Classification","1990","[402][403]","Bupa Medical Research Ltd."
-"Thyroid Disease Dataset","10 databases of thyroid disease patient data.","None.","7200","Text","Classification","1987","[404][405]","R. Quinlan"
-"Mesothelioma Dataset","Mesothelioma patient data.","Large number of features, including asbestos exposure, are given.","324","Text","Classification","2016","[406][407]","A. Tanrikulu et al."
-"Parkinson's Vision-Based Pose Estimation Dataset","2D human pose estimates of Parkinson's patients performing a variety of tasks.","Camera shake has been removed from trajectories.","134","Text","Classification, regression","2017","[408][409][410]","M. Li et al."
-"KEGG Metabolic Reaction Network (Undirected) Dataset","relation network , URL: /wiki/Relation_network
-","Detailed features for each network node and pathway are given.","65,554","Text","Classification, clustering, regression","2011","[411]","M. Naeem et al."
-"Modified Human Sperm Morphology Analysis Dataset (MHSMA)","Human sperm images from 235 patients with male factor infertility, labeled for normal or abnormal sperm acrosome, head, vacuole, and tail.","Cropped around single sperm head. Magnification normalized. Training, validation, and test set splits created.","1,540",".npy files","Classification","2019","[412][413]","S. Javadi and S.A. Mirroshandel"
+"Abalone Dataset","Physical measurements of Abalone. Weather patterns and location are also given.","None.","4177","Text","Regression","1995","[414]","Marine Research Laboratories – Taroona"
+"Zoo Dataset","Artificial dataset covering 7 classes of animals.","Animals are classed into 7 categories and features are given for each.","101","Text","Classification","1990","[415]","R. Forsyth"
+"Demospongiae Dataset","Data about marine sponges.","Demosponge , URL: /wiki/Demosponge
+","503","Text","Classification","2010","[416]","E. Armengol et al."
+"Farm animals data","PLF data inventory (cows, pigs; location, acceleration, etc.).","Labeled datasets.","List is constantly updated","Text","Classification","2020","[417]","V. Bloch"
+"Splice-junction Gene Sequences Dataset","Primate splice-junction gene sequences (DNA) with associated imperfect domain theory.","None.","3190","Text","Classification","1992","[393]","G. Towell et al."
+"Mice Protein Expression Dataset","Expression levels of 77 proteins measured in the cerebral cortex of mice.","None.","1080","Text","Classification, Clustering","2015","[418][419]","C. Higuera et al."

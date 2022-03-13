@@ -1,12 +1,18 @@
-"Software","Hosted Platform","On-Premises Platform","Encryption level","Multi-user support","Access permissions","LDAP , URL: /wiki/LDAP
-","Information-level permissions","Workspace-level permissions","Role-level permissions","Notes"
+"Software","Windows , URL: /wiki/Microsoft_Windows
+","Mac OS X , URL: /wiki/Mac_OS_X
+","Linux , URL: /wiki/Linux
+","BSD , URL: /wiki/BSD
+","Unix , URL: /wiki/Unix
+","IIS , URL: /wiki/Internet_Information_Services
+","Apache , URL: /wiki/Apache_HTTP_Server
+","Notes"
 "Connectbeam , URL: /wiki/Connectbeam
-","Yes","Yes","?","Yes","Yes","No","?","?","?","none"
+","Yes","No","No","No","No","Yes","No","none"
 "Dogear , URL: /wiki/Enterprise_bookmarking#History
-","No","Yes","?","Yes","Yes","Yes","?","?","?","The Lotus Connection Suite with Dogear runs on the AIX (Unix) operating system"
+","Yes","Yes","Yes","No","Yes","No","No","requires IBM WebSphere Application Server 6.1.0.13 for the web server"
 "Jumper 2.0 , URL: /wiki/Jumper_2.0
-","No","Yes","HTTPS optionally available","Yes","Yes","Yes","Yes","Yes","Yes","LDAP integration is available"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","none"
 "Knowledge Plaza , URL: /wiki/Knowledge_Plaza
-","Yes","Yes","HTTPS with high-grade 256-bit AES","Yes","Yes","Yes","Yes","Yes","Yes","none"
+","No","No","Yes","No","No","No","No","No OS management required. Infrastructure-as-a-Service for on-premises installation."
 "Scuttle , URL: /wiki/Scuttle_(software)
-","No","Yes","HTTPS optionally available [1]","No","Yes","No","Yes","?","","none"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","none"

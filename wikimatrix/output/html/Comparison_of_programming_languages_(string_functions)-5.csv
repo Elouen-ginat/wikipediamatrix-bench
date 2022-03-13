@@ -1,74 +1,63 @@
 "Format","Languages"
-"IF string1<string2 THEN -1 ELSE ABS (string1>string2) FI","ALGOL 68 , URL: /wiki/ALGOL_68
-"
-"cmp(string1, string2)","Python 2 , URL: /wiki/Python_2
-"
-"(string1 > string2) - (string1 < string2)","Python , URL: /wiki/Python_(programming_language)
-"
-"strcmp(string1, string2)","C , URL: /wiki/C_(programming_language)
-PHP , URL: /wiki/PHP
-"
-"std.string.cmp(string1, string2)","D , URL: /wiki/D_(programming_language)
-"
-"StrComp(string1, string2)","VB , URL: /wiki/Visual_Basic_(classic)
+"string1 OP string2, where OP can be any of =, <>, <, >, <= and >=","Pascal , URL: /wiki/Pascal_(programming_language)
 Object Pascal , URL: /wiki/Object_Pascal
 Delphi , URL: /wiki/Delphi_(programming_language)
-"
-"string1 cmp string2","Perl , URL: /wiki/Perl
-Raku , URL: /wiki/Raku_(programming_language)
-"
-"string1 compare: string2","Smalltalk , URL: /wiki/Smalltalk
-Squeak , URL: /wiki/Squeak
-Pharo , URL: /wiki/Pharo
-"
-"string1 <=> string2","Ruby , URL: /wiki/Ruby_(programming_language)
-C++ , URL: /wiki/C%2B%2B
-C++20 , URL: /wiki/C%2B%2B20
-"
-"string1.compare(string2)","C++ , URL: /wiki/C%2B%2B
-Swift , URL: /wiki/Swift_(programming_language)
-"
-"compare(string1, string2)","Rexx , URL: /wiki/Rexx
+OCaml , URL: /wiki/OCaml
 Seed7 , URL: /wiki/Seed7
-"
-"CompareStr(string1, string2)","Pascal , URL: /wiki/Pascal_(programming_language)
-Object Pascal , URL: /wiki/Object_Pascal
-Delphi , URL: /wiki/Delphi_(programming_language)
-"
-"string1.compareTo(string2)","Cobra , URL: /wiki/Cobra_(programming_language)
-Java , URL: /wiki/Java_(programming_language)
-"
-"string1.CompareTo(string2)","VB .NET , URL: /wiki/Visual_Basic_.Net
-C# , URL: /wiki/C_Sharp_(programming_language)
+Standard ML , URL: /wiki/Standard_ML
+BASIC , URL: /wiki/BASIC
+VB , URL: /wiki/Visual_Basic_(classic)
+VB .NET , URL: /wiki/Visual_Basic_.NET
 F# , URL: /wiki/F_Sharp_(programming_language)
 "
-"(compare string1 string2)","Clojure , URL: /wiki/Clojure
+"string1 OP string2, where OP can be any of =, /=, ≠, <, >, <=, ≤ and ≥; Also: EQ, NE, LT, LE, GE and GT","ALGOL 68 , URL: /wiki/ALGOL_68
 "
-"(string= string1 string2)","Common Lisp , URL: /wiki/Common_Lisp
+"(stringOP? string1 string2), where OP can be any of =, -ci=, <, -ci<, >, -ci>, <=, -ci<=, >= and -ci>= (operators starting with '-ci' are case-insensitive)","Scheme , URL: /wiki/Scheme_(programming_language)
 "
-"(string-compare string1 string2 p< p= p>)","Scheme , URL: /wiki/Scheme_(programming_language)
+"(stringOP string1 string2), where OP can be any of =, -ci=, <>, -ci<>, <, -ci<, >, -ci>, <=, -ci<=, >= and -ci>= (operators starting with '-ci' are case-insensitive)","Scheme , URL: /wiki/Scheme_(programming_language)
 "
-"(string= string1 string2)","ISLISP , URL: /wiki/ISLISP
+"(stringOP string1 string2), where OP can be any of =, -equal, /=, -not-equal, <, -lessp, >, -greaterp, <=, -not-greaterp, >= and -not-lessp (the verbal operators are case-insensitive)","Common Lisp , URL: /wiki/Common_Lisp
 "
-"compare string1 string2","OCaml , URL: /wiki/OCaml
+"(stringOP string1 string2), where OP can be any of =, /=, <, >, <=, and >=","ISLISP , URL: /wiki/ISLISP
 "
-"String.compare (string1, string2)","Standard ML , URL: /wiki/Standard_ML
+"string1 OP string2, where OP can be any of =, \=, <, >, <= and >=","Rexx , URL: /wiki/Rexx
 "
-"compare string1 string2","Haskell , URL: /wiki/Haskell_(programming_language)
+"string1 OP string2, where OP can be any of =, ¬=, <, >, <=, >=, ¬< and ¬>","PL/I , URL: /wiki/PL/I
 "
-"[string]::Compare(string1, string2)","Windows PowerShell , URL: /wiki/Windows_PowerShell
+"string1 OP string2, where OP can be any of =, /=, <, >, <= and >=","Ada , URL: /wiki/Ada_(programming_language)
 "
-"[string1 compare:string2]","Objective-C , URL: /wiki/Objective-C
+"string1 OP string2, where OP can be any of ==, /=, <, >, =< and >=","Erlang , URL: /wiki/Erlang_(programming_language)
 "
-"LLT(string1,string2) LLE(string1,string2) LGT(string1,string2) LGE(string1,string2)","Fortran , URL: /wiki/Fortran
+"string1 OP string2, where OP can be any of ==, /=, <, >, <= and >=","Haskell , URL: /wiki/Haskell_(programming_language)
 "
-"string1.localeCompare(string2)","JavaScript , URL: /wiki/JavaScript
+"string1 OP string2, where OP can be any of eq, ne, lt, gt, le and ge","Perl , URL: /wiki/Perl
+Raku , URL: /wiki/Raku_(programming_language)
 "
-"bytes.Compare([]byte(string1), []byte(string2))","Go , URL: /wiki/Go_(programming_language)
+"string1 OP string2, where OP can be any of ==, !=, <, >, <= and >=","C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+D , URL: /wiki/D_(programming_language)
+Go , URL: /wiki/Go_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+Python , URL: /wiki/Python_(programming_language)
+PHP , URL: /wiki/PHP
+Ruby , URL: /wiki/Ruby_(programming_language)
+Rust , URL: /wiki/Rust_(programming_language)
+Swift , URL: /wiki/Swift_(programming_language)
 "
-"string compare ?-nocase? ?-length int? string1 string2","Tcl , URL: /wiki/Tcl
+"string1 OP string2, where OP can be any of -eq, -ceq, -ne, -cne, -lt, -clt, -gt, -cgt, -le, -cle, -ge, and -cge (operators starting with 'c' are case-sensitive)","Windows PowerShell , URL: /wiki/Windows_PowerShell
 "
-"compare(string1,string2,count)","PL/I , URL: /wiki/PL/I
+"string1 OP string2, where OP can be any of ==, ~=, <, >, <= and >=","Lua , URL: /wiki/Lua_(programming_language)
 "
-"string1.cmp(string2)","Rust , URL: /wiki/Rust_(programming_language)
+"string1 OP string2, where OP can be any of =, ~=, <, >, <= and >=","Smalltalk , URL: /wiki/Smalltalk
+"
+"string1 OP string2, where OP can be any of ==, /=, <, >, <= and >=; Also: .EQ., .NE., .LT., .LE., .GT. and .GE.","Fortran , URL: /wiki/Fortran
+"
+"string1 OP string2 where OP can be any of =, <>, <, >, <=, >= as well as worded equivalents","COBOL , URL: /wiki/COBOL
+"
+"string1 OP string2 where OP can be any of ==, <>, <, >, <= and >=","Cobra , URL: /wiki/Cobra_(programming_language)
+"
+"string1 OP string2 is available in the syntax, but means comparison of the pointers pointing to the strings, not of the string contents. Use the Compare (integer result) function.","C , URL: /wiki/C_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+"
+"string1.METHOD(string2) where METHOD is any of eq, ne, gt, lt, ge, le","Rust , URL: /wiki/Rust_(programming_language)
 "

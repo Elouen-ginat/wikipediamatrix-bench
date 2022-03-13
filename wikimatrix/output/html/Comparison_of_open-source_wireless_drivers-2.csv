@@ -1,160 +1,56 @@
-"Driver","802.11 , URL: /wiki/802.11
-","802.11 , URL: /wiki/802.11
-","802.11 , URL: /wiki/802.11
-","802.11 , URL: /wiki/802.11
-","802.11 , URL: /wiki/802.11
-","802.11 , URL: /wiki/802.11
-","802.11 , URL: /wiki/802.11
-","Bus interface","Wireless Security","Wireless Security","Wireless Security","Monitor mode , URL: /wiki/Monitor_mode
-","AP , URL: /wiki/Wireless_access_point
-","Ad-Hoc mode , URL: /wiki/Wireless_ad_hoc_network
-","IEEE 802.11s"
-"Driver","a , URL: /wiki/802.11a
-","b , URL: /wiki/802.11b
-","g , URL: /wiki/802.11g
-","n , URL: /wiki/802.11n
-","ac , URL: /wiki/802.11ac
-","ad , URL: /wiki/802.11ad
-","ax , URL: /wiki/802.11ax
-","Bus interface","WEP , URL: /wiki/Wired_Equivalent_Privacy
-","WPA , URL: /wiki/Wi-Fi_Protected_Access
-","WPA2 , URL: /wiki/Wi-Fi_Protected_Access
-","Monitor mode , URL: /wiki/Monitor_mode
-","AP , URL: /wiki/Wireless_access_point
-","Ad-Hoc mode , URL: /wiki/Wireless_ad_hoc_network
-","IEEE 802.11s"
-"acx1xx , URL: http://acx100.sourceforge.net/
-","No","Yes","Yes","No","No","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-Mini PCI , URL: /wiki/Mini_PCI
-PC card , URL: /wiki/PC_card
-USB , URL: /wiki/USB
-","Yes","No","No","Yes","Yes","?",""
-"adm8211 , URL: https://web.archive.org/web/20080213051945/http://aluminum.sourmilk.net/adm8211/
-","No","Yes","No","No","No","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-","Yes","?","?","Yes","No","Yes",""
-"carl9170 , URL: https://wireless.wiki.kernel.org/en/users/Drivers/carl9170
-","Yes","Yes","Yes","Yes","No","?","?","USB , URL: /wiki/Universal_Serial_Bus
-","Yes","Yes","Yes","Yes","Yes","Yes",""
-"ath5k , URL: https://wireless.wiki.kernel.org/en/users/Drivers/ath5k
-","Yes","Yes","Yes","No","No","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-Mini PCI , URL: /wiki/Mini_PCI
-PC card , URL: /wiki/PC_card
-AHB , URL: /wiki/AMBA_High-performance_Bus
-","Yes","Yes","Yes","Yes","Yes (2.6.31)","Yes",""
-"ath9k , URL: https://wireless.wiki.kernel.org/en/users/Drivers/ath9k
-","Yes","Yes","Yes","Yes","No","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-Mini PCI , URL: /wiki/Mini_PCI
-Mini PCIe , URL: /wiki/PCI_Express_Mini_Card
-AHB , URL: /wiki/AMBA_High-performance_Bus
-","Yes","Yes","Yes","Yes","Yes","Yes",""
-"ath9k_htc , URL: https://wireless.wiki.kernel.org/en/users/Drivers/ath9k_htc
-","Yes","Yes","Yes","Yes","No","?","?","USB , URL: /wiki/USB
-","Yes","Yes","Yes","Yes","Yes","Yes",""
-"ath10k , URL: https://wireless.wiki.kernel.org/en/users/Drivers/ath10k
-","No","No","No","No","Yes","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-Mini PCI , URL: /wiki/Mini_PCI
-AHB , URL: /wiki/AMBA_High-performance_Bus
-Mini PCIe , URL: /wiki/PCI_Express_Mini_Card
-","Yes","Yes","Yes","Yes","Yes","Yes",""
-"b43 , URL: https://web.archive.org/web/20080409212922/http://linuxwireless.org/en/users/Drivers/b43
-","No","Yes","Yes","No","No","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-Mini PCI , URL: /wiki/Mini_PCI
-SDIO , URL: /wiki/Secure_Digital_card#SDIO
-","Yes","Yes","Yes","Yes","Yes","Yes",""
-"bcm43xx , URL: https://web.archive.org/web/20060522192624/http://bcm43xx.berlios.de/
-","No","Yes","Yes","No","No","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-Mini PCI , URL: /wiki/Mini_PCI
-Cardbus , URL: /wiki/Cardbus
-PC card , URL: /wiki/PC_card
-","Yes","Yes","Yes","Yes","No","?",""
-"brcmfmac , URL: https://web.archive.org/web/20121029101459/http://linuxwireless.org/en/users/Drivers/brcm80211
-","Yes","Yes","Yes","Yes","No","?","?","USB , URL: /wiki/USB
-SDIO , URL: /wiki/Secure_Digital_card#SDIO
-PCI Express , URL: /wiki/PCI_Express
-","Yes","Yes","Yes","Exp. [29]","Yes [30]","No",""
-"brcmsmac , URL: https://web.archive.org/web/20121029101459/http://linuxwireless.org/en/users/Drivers/brcm80211
-","Yes","Yes","Yes","Yes","No","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-Mini PCI , URL: /wiki/Mini_PCI
-Mini PCIe , URL: /wiki/PCI_Express_Mini_Card
-","Yes","Yes","Yes","Yes","Yes [31]","Yes [32]",""
-"hostap , URL: https://web.archive.org/web/20080221092622/http://hostap.epitest.fi/
-","No","Yes","No","No","No","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-Mini PCI , URL: /wiki/Mini_PCI
-PC card , URL: /wiki/PC_card
-","Yes","Yes [33]","Yes [33]","Yes","Yes","Yes",""
-"ipw2100 , URL: http://ipw2100.sourceforge.net/
-","No","Yes","No","No","No","?","?","Mini PCI , URL: /wiki/Mini_PCI
-","Yes","Yes","Yes","Yes","?","?",""
-"ipw2200 , URL: http://ipw2200.sourceforge.net/
-","Yes","Yes","Yes","No","No","?","?","Mini PCI , URL: /wiki/Mini_PCI
-","Yes","Yes","Yes","Yes","No","Yes",""
-"ipw2200-ap , URL: http://ipw2200-ap.sourceforge.net/
-","No","Yes","Yes","No","No","?","?","Mini PCI , URL: /wiki/Mini_PCI
-","?","?","?","Yes","Yes","?",""
-"ipw3945 , URL: http://ipw3945.sourceforge.net/
-","Yes","Yes","Yes","No","No","?","?","Mini PCI , URL: /wiki/Mini_PCI
-Mini PCIe , URL: /wiki/PCI_Express_Mini_Card
-","Yes","Yes","Yes","Yes","No","Yes",""
-"islsm , URL: http://www.prism54.org
-","?","?","?","?","?","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-USB , URL: /wiki/USB
-","No","No","No","?","No","?",""
-"iwlwifi , URL: https://web.archive.org/web/20120206221202/http://intellinuxwireless.org/?p=iwlwifi
-","Yes","Yes","Yes","Yes","Yes","?","?","Mini PCI , URL: /wiki/Mini_PCI
-Mini PCIe , URL: /wiki/PCI_Express_Mini_Card
-M.2 , URL: /wiki/M.2
-","Yes","Yes","Yes","Yes","2.4 GHz only Exp.[34][35]","Yes",""
-"libertas , URL: https://web.archive.org/web/20080411175117/http://linuxwireless.org/en/users/Drivers/libertas
-","No","Yes","Yes","No","No","?","?","USB , URL: /wiki/USB
-CF , URL: /wiki/CompactFlash
-SDIO , URL: /wiki/Secure_Digital_card#SDIO
-","?","?","?","?","No","?",""
-"madwifi , URL: http://madwifi-project.org/
-","Yes","Yes","Yes","No","No","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-PC card , URL: /wiki/PC_card
-Mini PCI , URL: /wiki/Mini_PCI
-","Yes","Yes","Yes","Yes","Yes","Yes",""
-"mt76 , URL: https://github.com/openwrt/mt76/issues
-","Yes","Yes","Yes","Yes","Yes","?","?","PCIe , URL: /wiki/PCI_Express
-USB , URL: /wiki/USB
-","Yes","Yes","Yes","Yes","Yes","Yes",""
-"mt7601u , URL: https://github.com/kuba-moo/mt7601u
-","No","Yes","Yes","Yes","No","?","?","USB , URL: /wiki/USB
-","Yes","Yes","Yes","Yes","?","?",""
-"orinoco , URL: http://www.nongnu.org/orinoco/
-","No","Yes","No","No","No","?","?","Mini PCI , URL: /wiki/Mini_PCI
-PC card , URL: /wiki/PC_card
-","Yes","Yes [36]","No","Yes","No","Yes",""
-"p54 , URL: https://web.archive.org/web/20090129114522/http://linuxwireless.org/en/users/Drivers/p54
-","No","Yes","Yes","No","No","?","?","Mini PCI , URL: /wiki/Mini_PCI
-USB , URL: /wiki/USB
-Cardbus , URL: /wiki/Cardbus
-","Yes","Yes","Yes","Yes","Yes","Yes",""
-"prism54 , URL: https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/tree/drivers/net/wireless/intersil/prism54
-","No","Yes","Yes","No","No","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-","Yes","No","?","Yes","Yes","?",""
-"rndis_wlan , URL: https://web.archive.org/web/20110325121008/http://linuxwireless.org/en/users/Drivers/rndis_wlan
-","No","Yes","Yes","No","No","?","?","USB , URL: /wiki/USB
-","Yes","Yes","Yes","No","No","Yes",""
-"rt2x00 , URL: https://web.archive.org/web/20141120043216/http://rt2x00.serialmonkey.com/
-","No","Yes","Yes","No","No","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-USB , URL: /wiki/USB
-Mini PCI , URL: /wiki/Mini_PCI
-","Yes","Yes [37]","Yes [38]","Yes","Yes [39]","Yes",""
-"rtl8180 , URL: http://rtl8180-sa2400.sourceforge.net/
-","Yes","Yes","Yes","No","No","?","?","PCI , URL: /wiki/Peripheral_Component_Interconnect
-PC card , URL: /wiki/PC_card
-Mini PCI , URL: /wiki/Mini_PCI
-","?","?","?","?","Yes","?",""
-"rtl8187 , URL: https://wireless.wiki.kernel.org/en/users/Drivers/rtl8187/
-","Yes","Yes","Yes","No","No","?","?","USB , URL: /wiki/USB
-","Yes","Yes","Yes","Yes","?","?",""
-"zd1201 , URL: http://linux-lc100020.sourceforge.net/
-","No","Yes","No","No","No","?","?","USB , URL: /wiki/USB
-","Yes","No [40]","No [40]","Yes","Yes","?",""
-"zd1211 , URL: https://archive.today/20121225160546/http://zd1211.wiki.sourceforge.net/VendorBasedDriver
-","Yes","Yes","Yes","No","No","?","?","USB , URL: /wiki/USB
-","Yes","Yes","Yes","Yes","Yes","?",""
-"zd1211rw , URL: https://web.archive.org/web/20070406154055/http://zd1211.ath.cx/wiki/DriverRewrite
-","No","Yes","Yes","No","No","?","?","USB , URL: /wiki/USB
-","Yes","Yes","Yes","Yes","Yes [41]","Yes",""
+"Driver name","Chipset","Integration","Non-free firmware required","License","Original/Primary developer","Development"
+"acx , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=acx
+","Texas Instruments , URL: /wiki/Texas_Instruments
+","Integrated since 1.5","Yes","BSD , URL: /wiki/BSD
+","","Reverse engineering"
+"an , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=an
+","Aironet , URL: /wiki/Cisco_Systems
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","Bill Paul (FreeBSD)",""
+"ath , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=ath
+","Atheros , URL: /wiki/Atheros
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","",""
+"bwi , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=bwi
+","Broadcom , URL: /wiki/Broadcom
+","Integrated","Yes","BSD , URL: /wiki/BSD
+","Sepherosa Ziehau","Reverse engineering"
+"iwi , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=iwi
+","Intel , URL: /wiki/Intel
+","Integrated","Yes","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Reverse engineering"
+"iwl , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=iwl&section=4
+","Intel , URL: /wiki/Intel
+","Integrated","Yes","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Reverse engineering"
+"iwm , URL: https://man.dragonflybsd.org/?command=iwm
+","Intel Dual Band Wireless AC 3160/7260/8260/9260/9270/9560","Integrated","Yes","BSD , URL: /wiki/BSD
+","OpenBSD",""
+"iwn , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=iwn&section=4
+","Intel , URL: /wiki/Intel
+","Integrated","Yes","BSD , URL: /wiki/BSD
+","Damien Bergamini (OpenBSD)","Reverse engineering"
+"ral , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=ral&section=ANY
+","Ralink , URL: /wiki/Ralink
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","Damien Bergamini","Ported from FreeBSD"
+"rtw , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=rtw&section=ANY
+","Realtek , URL: /wiki/Realtek
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","","Ported from NetBSD"
+"rum , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=rum&section=ANY
+","Ralink , URL: /wiki/Ralink
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","Damien Bergamini","Ported from FreeBSD"
+"wi , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=wi
+","Lucent , URL: /wiki/Lucent
+ORiNOCO , URL: /wiki/ORiNOCO
+Intersil , URL: /wiki/Intersil
+PRISM , URL: /wiki/PRISM_(chipset)
+Symbol , URL: /wiki/Symbol_Technologies
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","Bill Paul (FreeBSD)","Documentation based"
+"wpi , URL: http://leaf.dragonflybsd.org/cgi/web-man?command=wpi&section=ANY
+","Intel , URL: /wiki/Intel
+","Integrated","On Device","BSD , URL: /wiki/BSD
+","Damien Bergamini","Ported from OpenBSD"

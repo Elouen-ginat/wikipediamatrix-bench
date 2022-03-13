@@ -1,26 +1,14 @@
 "Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
-"Artificial Characters Dataset","Artificially generated data describing the structure of 10 capital English letters.","Coordinates of lines drawn given as integers. Various other features.","6000","Text","Handwriting recognition , URL: /wiki/Handwriting_recognition
-","1992","[91]","H. Guvenir et al."
-"Letter Dataset","Upper case printed letters.","17 features are extracted from all images.","20,000","Text","OCR, classification","1991","[92][93]","D. Slate et al."
-"CASIA-HWDB","Chinese character , URL: /wiki/Chinese_characters
-GB 2312 , URL: /wiki/GB_2312
-","Gray-scaled images with background pixels labeled as 255.","1,172,907","Images, Text","Handwriting recognition, classification","2009","[94]","CASIA , URL: /wiki/Institute_of_Automation,_Chinese_Academy_of_Sciences
+"iSAID: Instance Segmentation in Aerial Images Dataset","","Precise instance-level annotatio carried out by professional annotators, cross-checked and validated by expert annotators complying with well-defined guidelines.","655,451 (15 classes)","Images, jpg, json","Aerial Classification, Object Detection, Instance Segmentation","2019","[113][114]","Syed Waqas Zamir, Aditya Arora, Akshita Gupta, Salman Khan, Guolei Sun, Fahad Shahbaz Khan, Fan Zhu, Ling Shao, Gui-Song Xia, Xiang Bai"
+"Aerial Image Segmentation Dataset","80 high-resolution aerial images with spatial resolution ranging from 0.3 to 1.0.","Images manually segmented.","80","Images","Aerial Classification, object detection","2013","[115][116]","J. Yuan et al."
+"KIT AIS Data Set","Multiple labeled training and evaluation datasets of aerial images of crowds.","Images manually labeled to show paths of individuals through crowds.","~ 150","Images with paths","People tracking, aerial tracking","2012","[117][118]","M. Butenuth et al."
+"Wilt Dataset","Remote sensing data of diseased trees and other land cover.","Various features extracted.","4899","Images","Classification, aerial object detection","2014","[119][120]","B. Johnson"
+"MASATI dataset","Maritime scenes of optical aerial images from the visible spectrum. It contains color images in dynamic marine environments, each image may contain one or multiple targets in different weather and illumination conditions.","Object bounding boxes and labeling.","7389","Images","Classification, aerial object detection","2018","[121][122]","A.-J. Gallego et al."
+"Forest Type Mapping Dataset","Satellite imagery of forests in Japan.","Image wavelength bands extracted.","326","Text","Classification","2015","[123][124]","B. Johnson"
+"Overhead Imagery Research Data Set , URL: /wiki/Overhead_Imagery_Research_Data_Set
+","Annotated overhead imagery. Images with multiple objects.","Over 30 annotations and over 60 statistics that describe the target within the context of the image.","1000","Images, text","Classification","2009","[125][126]","F. Tanner et al."
+"SpaceNet","SpaceNet is a corpus of commercial satellite imagery and labeled training data.","GeoTiff and GeoJSON files containing building footprints.",">17533","Images","Classification, Object Identification","2017","[127][128][129]","DigitalGlobe, Inc. , URL: /wiki/DigitalGlobe
 "
-"CASIA-OLHWDB","GB 2312 , URL: /wiki/GB_2312
-","Provides the sequences of coordinates of strokes.","1,174,364","Images, Text","Handwriting recognition, classification","2009","[95][94]","CASIA"
-"Character Trajectories Dataset","Labeled samples of pen tip trajectories for people writing simple characters.","3-dimensional pen tip velocity trajectory matrix for each sample","2858","Text","Handwriting recognition, classification","2008","[96][97]","B. Williams"
-"Chars74K Dataset","Kannada , URL: /wiki/Kannada_alphabet
-","","74,107","","Character recognition, handwriting recognition, OCR, classification","2009","[98]","T. de Campos"
-"UJI Pen Characters Dataset","Isolated handwritten characters","Coordinates of pen position as characters were written given.","11,640","Text","Handwriting recognition, classification","2009","[99][100]","F. Prat et al."
-"Gisette Dataset","Handwriting samples from the often-confused 4 and 9 characters.","Features extracted from images, split into train/test, handwriting images size-normalized.","13,500","Images, text","Handwriting recognition, classification","2003","[101]","Yann LeCun et al."
-"Omniglot dataset","1623 different handwritten characters from 50 different alphabets.","Hand-labeled.","38,300","Images, text, strokes","one-shot learning , URL: /wiki/One-shot_learning_(software)
-","2015","[102][103]","American Association for the Advancement of Science , URL: /wiki/American_Association_for_the_Advancement_of_Science
-"
-"MNIST database , URL: /wiki/MNIST_database
-","Database of handwritten digits.","Hand-labeled.","60,000","Images, text","Classification","1998","[104][105]","National Institute of Standards and Technology , URL: /wiki/National_Institute_of_Standards_and_Technology
-"
-"Optical Recognition of Handwritten Digits Dataset","Normalized bitmaps of handwritten data.","Size normalized and mapped to bitmaps.","5620","Images, text","Handwriting recognition, classification","1998","[106]","E. Alpaydin et al."
-"Pen-Based Recognition of Handwritten Digits Dataset","Handwritten digits on electronic pen-tablet.","Feature vectors extracted to be uniformly spaced.","10,992","Images, text","Handwriting recognition, classification","1998","[107][108]","E. Alpaydin et al."
-"Semeion Handwritten Digit Dataset","Handwritten digits from 80 people.","All handwritten digits have been normalized for size and mapped to the same grid.","1593","Images, text","Handwriting recognition, classification","2008","[109]","T. Srl"
-"HASYv2","Handwritten mathematical symbols","All symbols are centered and of size 32px x 32px.","168233","Images, text","Classification","2017","[110]","Martin Thoma"
-"Noisy Handwritten Bangla Dataset","Includes Handwritten Numeral Dataset (10 classes) and Basic Character Dataset (50 classes), each dataset has three types of noise: white gaussian, motion blur, and reduced contrast.","All images are centered and of size 32x32.","Numeral Dataset: 23330, Character Dataset: 76000","Images, text","Handwriting recognition, classification","2017","[111][112]","M. Karki et al."
+"UC Merced Land Use Dataset","These images were manually extracted from large images from the USGS National Map Urban Area Imagery collection for various urban areas around the US.","This is a 21 class land use image dataset meant for research purposes. There are 100 images for each class.","2,100","Image chips of 256x256, 30 cm (1 foot) GSD","Land cover classification","2010","[130]","Yi Yang and Shawn Newsam"
+"SAT-4 Airborne Dataset","Images were extracted from the National Agriculture Imagery Program (NAIP) dataset.","SAT-4 has four broad land cover classes, includes barren land, trees, grassland and a class that consists of all land cover classes other than the above three.","500,000","Images","Classification","2015","[131][132]","S. Basu et al."
+"SAT-6 Airborne Dataset","Images were extracted from the National Agriculture Imagery Program (NAIP) dataset.","SAT-6 has six broad land cover classes, includes barren land, trees, grassland, roads, buildings and water bodies.","405,000","Images","Classification","2015","[131][132]","S. Basu et al."

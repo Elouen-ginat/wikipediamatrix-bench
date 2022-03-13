@@ -1,3 +1,4 @@
-"Column header 1","Column header 2","Column header 3"
-"Row header 1","Cell 2","Cell 3"
-"Row header A","Cell B","Cell C"
+"Left","Center","Right"
+"Top left cell","Top center cell","Top right cell"
+"Middle left cell","Middle center cell","Middle right cell"
+"Bottom left cell","Bottom center cell","Bottom right cell"

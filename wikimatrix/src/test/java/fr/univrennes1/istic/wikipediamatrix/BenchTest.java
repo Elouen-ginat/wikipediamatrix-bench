@@ -47,14 +47,13 @@ public class BenchTest {
 	    int nurl = 0;
 	    while ((url = br.readLine()) != null) {
 	       String wurl = BASE_WIKIPEDIA_URL + url; 
-	       System.out.println("Wikipedia url: " + wurl);
+	       App.LOGGER.info("Wikipedia url: " + wurl);
 	       // (ie extract relevant tables for correct URL, with the two extractors)
 			Extractor extractor = new WikipediaHTMLExtractor();
 			Document doc = null;
 			try {
 				doc = extractor.getDocument(wurl);
 			} catch (IOException e) {
-				e.printStackTrace();
 				String message = "Unable to connect to the URL: " + wurl;
 				App.LOGGER.error(message);
 				//fail("Verify that you have internet access or try an other URL");
@@ -63,7 +62,7 @@ public class BenchTest {
 
 			Elements tables = null;
 			try {
-				tables = extractor.getAllFirstTable(doc);
+				tables = extractor.getAllFirstWikiTable(doc);
 			}catch (NoTableException e) {
 				App.LOGGER.info(e.getMessage());
 				continue;
@@ -77,12 +76,16 @@ public class BenchTest {
 			// "Comparison_of_operating_system_kernels-1.csv"
 	    	Serializer serializer = new WikipediaHTMLSerializer();
 			for (int i = 0; i < string_tables.size(); i++) {
-				String csvFileName = mkCSVFileName(url, i);
+				String csvFileName = Serializer.mkCSVFileName(url, i);
 				App.LOGGER.info("CSV file name: " + csvFileName);
 
 				String[][] string_table = string_tables.get(i);
 
-				serializer.saveToCSV(string_table, csvFileName);
+				try {
+					serializer.saveToCSV(string_table, csvFileName);
+				} catch (IOException e) {
+					App.LOGGER.error(e.getMessage());
+				}
 			}
 	       
 	       // the Wikitext extractor should save CSV files into output/wikitext
@@ -92,11 +95,7 @@ public class BenchTest {
 	    }
 	    
 	    br.close();	    
-	    assertEquals(300, nurl);
-	}
-
-	private String mkCSVFileName(String url, int n) {
-		return url.trim() + "-" + n + ".csv";
+	    assertEquals(291, nurl);
 	}
 
 }

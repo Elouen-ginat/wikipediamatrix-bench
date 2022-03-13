@@ -1,60 +1,25 @@
-"Name","Creator","Primary Purpose(s)","First release date","Most recent update","Most recent version","Cost","License","Main user interface type","Development status"
+"Name","Textual/graphical","Object-oriented , URL: /wiki/Object-oriented
+","Type system , URL: /wiki/Type_system
+"
 "Bidule , URL: /wiki/Bidule
-","Plogue , URL: /wiki/Plogue_Art_et_Technologie,_Inc.
-","live coding , URL: /wiki/Live_coding
-algorithmic composition , URL: /wiki/Algorithmic_composition
-acoustic research , URL: /wiki/Acoustics
-","2002","2017-06","0.9757","Non-free","Proprietary","Graphical","Mature"
+","Graphical","No",""
 "ChucK , URL: /wiki/ChucK
-","Ge Wang and Perry Cook","live coding , URL: /wiki/Live_coding
-pedagogy , URL: /wiki/Pedagogy
-acoustic research , URL: /wiki/Acoustics
-algorithmic composition , URL: /wiki/Algorithmic_composition
-","2004","2018-02-09","v1.4.0.0","Free","GPL , URL: /wiki/GNU_General_Public_License
-","Document","Immature"
+","Textual","Yes","Static"
 "Csound , URL: /wiki/Csound
-","Barry Vercoe , URL: /wiki/Barry_Vercoe
-","algorithmic composition , URL: /wiki/Algorithmic_composition
-acoustic research , URL: /wiki/Acoustics
-","1986","2020-01-27","v6.14.0","Free","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
-","Document, graphical","Mature"
+","Textual/Graphical (FLTK/Qt/HTML5)","No","In development"
 "Impromptu , URL: /wiki/Impromptu_(programming_environment)
-","Andrew Sorensen","Live coding , URL: /wiki/Live_coding
-algorithmic composition , URL: /wiki/Algorithmic_composition
-","2006","2010-10","v2.5","Free","Proprietary","Document","Stable"
-"Keykit , URL: /wiki/Keykit
-","Tim Thompson","MIDI , URL: /wiki/MIDI
-algorithmic composition , URL: /wiki/Algorithmic_composition
-","1995","2021-03-15","v7.7e","Free","GPL , URL: /wiki/GNU_General_Public_License
-","Graphical","Mature"
+","Mostly textual","-","Dynamic & static"
 "Kyma , URL: /wiki/Kyma_(sound_design_language)
-","Carla Scaletti , URL: /wiki/Carla_Scaletti
-","acoustic research , URL: /wiki/Acoustic_Research
-algorithmic composition , URL: /wiki/Algorithmic_composition
-","1986","2018-9-03","v7.23","Non-free","Proprietary","Graphical","Mature"
+","Mostly Graphical","Yes","Dynamic"
 "Max/MSP , URL: /wiki/Max/MSP
-","Miller Puckette , URL: /wiki/Miller_Puckette
-","Realtime audio + video synthesis, hardware control, GUI design","1980s (mid)","2019-09-24","v8.1.0","Non-free","Proprietary","Graphical","Mature"
+","Graphical","No",""
 "Pure Data , URL: /wiki/Pure_Data
-","Miller Puckette , URL: /wiki/Miller_Puckette
-","acoustic research , URL: /wiki/Acoustics
-","1990s","2020-08-16","v0.51-1","Free","BSD , URL: /wiki/BSD_licenses
-","Graphical","Mature"
+","Graphical","No",""
 "Reaktor , URL: /wiki/Reaktor
-","Native Instruments , URL: /wiki/Native_Instruments
-","GUI , URL: /wiki/GUI
-","1996","2017-08-16","6.2","Non-free","Proprietary","Graphical","Mature"
+","Graphical","No",""
 "SuperCollider , URL: /wiki/SuperCollider
-","James McCartney","live coding , URL: /wiki/Live_coding
-algorithmic composition , URL: /wiki/Algorithmic_composition
-acoustic research , URL: /wiki/Acoustics
-","1996-03","2020-03-10","v3.11.0","Free","GPL , URL: /wiki/GNU_General_Public_License
-","Document","Mature"
-"Sporth , URL: /w/index.php?title=Sporth&action=edit&redlink=1
-","Paul Batchelor","Sound design, algorithmic composition, live coding, embedded systems","2015","2016-05","-","Free","MIT , URL: /wiki/MIT
-","Document","Immature"
+","Textual/Graphical (Cocoa/Swing/Qt)","Yes","Dynamic"
 "SynthEdit , URL: /wiki/SynthEdit
-","Jeff McClintock","Realtime synthesis, live coding, effects coding, GUI design","1999","2021","1.4","Non-free","Proprietary/BSD","Graphical","Mature"
-"VCV Rack , URL: /wiki/VCV_Rack
-","Andrew Belt","Realtime audio synthesis","2017-09","2022-01-15","2.0.6","Free","BSD , URL: /wiki/BSD_licenses
-","Graphical","Immature"
+","Graphical","Yes","Static"
+"MPEG-4/SA , URL: /wiki/MPEG-4_Structured_Audio
+","Textual","No","No"

@@ -1,4 +1,2 @@
-"Definition","find_character(string,char) returns integer"
-"Description","#Find , URL: #Find
-"
-"Related","find"
+"Definition","format(formatstring, items) returns string"
+"Description","Returns the formatted string representation of one or more items."

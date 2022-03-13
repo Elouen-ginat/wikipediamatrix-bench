@@ -1,5 +1,3 @@
-"Definition","left(string,n) returns string"
-"Description","UTF-8 , URL: /wiki/UTF-8
-UTF-16 , URL: /wiki/UTF-16
-Shift-JIS , URL: /wiki/Shift-JIS
+"Definition","length(string) returns an integer number"
+"Description","null terminator , URL: /wiki/Null_character
 "

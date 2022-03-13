@@ -43,7 +43,7 @@ Unicode , URL: /wiki/Unicode
 "MariaDB , URL: /wiki/MariaDB
 ","Unlimited","MyISAM storage limits: 256 TB; Innodb storage limits: 64 TB; Aria storage limits: ???","64 KB3","4,0964","4 GB (longtext, longblob)","64 KB (text)","64 bits","1000","9999","64[69]"
 "Microsoft Access , URL: /wiki/Microsoft_Access
-","2 GB","2 GB","16 MB","255","64 KB (memo field), 1 GB ("OLE Object" field)","255 B (text field)","32 bits","0100","9999","64"
+","2 GB","2 GB","16 MB","255","64 KB (memo field), 1 GB (""OLE Object"" field)","255 B (text field)","32 bits","0100","9999","64"
 "Microsoft Visual Foxpro , URL: /wiki/Microsoft_Visual_Foxpro
 ","Unlimited","2 GB","65,500 B","255","2 GB","16 MB","32 bits","0001","9999","10"
 "Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server

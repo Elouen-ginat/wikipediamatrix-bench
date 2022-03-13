@@ -1,1 +1,318 @@
-"","This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of disc image software" – news · newspapers · books · scholar · JSTOR (December 2011) (Learn how and when to remove this template message)"
+"Name","Creates?","Modifies?","Mounts?","Writes/Burns?","Extracts?","Input format","Output format","OS , URL: /wiki/Operating_system
+","License , URL: /wiki/Software_license
+"
+"7-Zip , URL: /wiki/7-Zip
+","Yes","No","No","No","Yes","CramFS , URL: /wiki/CramFS
+DMG , URL: /wiki/Apple_Disk_Image
+FAT , URL: /wiki/File_Allocation_Table
+HFS , URL: /wiki/Hierarchical_File_System
+MBR , URL: /wiki/Master_boot_record
+NTFS , URL: /wiki/NTFS
+ISO , URL: /wiki/ISO_image
+SquashFS , URL: /wiki/SquashFS
+UDF , URL: /wiki/Universal_Disk_Format
+VHD , URL: /wiki/Virtual_Hard_Disk
+WIM , URL: /wiki/Windows_Imaging_Format
+","WIM","Windows , URL: /wiki/Windows
+Linux , URL: /wiki/Linux
+Classic Mac OS , URL: /wiki/Classic_Mac_OS
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"AcetoneISO , URL: /wiki/AcetoneISO
+","Yes","No","Yes","Yes","Yes","ISO , URL: /wiki/ISO_image
+MDF+MDS , URL: /wiki/Media_Descriptor_File
+","CD, DVD, ISO, BIN","Linux , URL: /wiki/Linux
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"Acronis True Image , URL: /wiki/Acronis_True_Image
+","Yes","No","Yes","Yes","Yes","TIB, VHD","TIB, VHD","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"Alcohol 120% , URL: /wiki/Alcohol_120%25
+","Yes","No","Yes","Yes","No","ISO , URL: /wiki/ISO_image
+","MDF+MDS , URL: /wiki/Media_Descriptor_File
+","Windows , URL: /wiki/Windows
+","Trialware , URL: /wiki/Trialware
+"
+"Alcohol 52% FE , URL: /wiki/Alcohol_120%25#Alcohol_52%
+","Yes","No","Yes","No","No","ISO , URL: /wiki/ISO_image
+","N/A","Windows , URL: /wiki/Windows
+","Adware , URL: /wiki/Adware
+"
+"AnyDVD , URL: /wiki/AnyDVD
+","Yes","No","No","No","No","N/A","ISO","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"Archive Manager , URL: /wiki/Archive_Manager
+","No","No","No","No","Yes","ISO , URL: /wiki/ISO_image
+","N/A","Unix-like , URL: /wiki/Unix-like
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"Ashampoo Burning Studio , URL: /wiki/Ashampoo_Burning_Studio
+","Yes","No","No","Yes","No","ISO , URL: /wiki/ISO_image
+","ISO, BIN+CUE","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"BlindWrite , URL: /wiki/BlindWrite
+","Yes","No","No","Yes","No","ISO , URL: /wiki/ISO_image
+","B5T, B6T, BWA, BWI, BWS, BWT, BIN+CUE, ISO, MDF+MDS","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"Brasero , URL: /wiki/Brasero_(software)
+","No","No","No","Yes","No","ISO , URL: /wiki/ISO_image
+","CD, DVD","Linux , URL: /wiki/Linux
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"Burnatonce , URL: /wiki/Burnatonce
+","No","No","No","Yes","No","ISO , URL: /wiki/ISO_image
+","N/A","Windows , URL: /wiki/Windows
+","Freeware , URL: /wiki/Freeware
+"
+"CDBurnerXP , URL: /wiki/CDBurnerXP
+","Yes","No","No","Yes","No","ISO , URL: /wiki/ISO_image
+","ISO, MDF+MDS","Windows , URL: /wiki/Windows
+","Freeware , URL: /wiki/Freeware
+"
+"CDemu , URL: /wiki/CDemu
+","Yes","No","Yes","Yes","Yes","ISO , URL: /wiki/ISO_image
+","ISO , URL: /wiki/ISO_image
+","Linux , URL: /wiki/Linux
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"genisoimage , URL: /wiki/Cdrkit
+","Yes","No","No","No","No","N/A","?","Linux , URL: /wiki/Linux
+Unix , URL: /wiki/Unix
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"isoinfo , URL: /wiki/Cdrtools
+","No","No","No","No","Yes","?","N/A","Unix , URL: /wiki/Unix
+Linux , URL: /wiki/Linux
+Amiga , URL: /wiki/Amiga
+Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"mkisofs , URL: /wiki/Cdrtools
+","Yes","No","No","No","No","N/A","?","Unix , URL: /wiki/Unix
+Linux , URL: /wiki/Linux
+Amiga , URL: /wiki/Amiga
+Windows , URL: /wiki/Windows
+macOS , URL: /wiki/MacOS
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"CDRoller , URL: /wiki/CDRoller
+","Yes","No","No","Yes","Yes","ISO , URL: /wiki/ISO_image
+","ISO","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"CDRWIN , URL: /wiki/CDRWIN
+","Yes","Yes","No","Yes","Yes","ISO , URL: /wiki/ISO_image
+ISO , URL: /wiki/ISO_image
+ISO , URL: /wiki/ISO_image
+ISO , URL: /wiki/ISO_image
+","BIN+CUE","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"CloneCD , URL: /wiki/CloneCD
+","Yes","No","No","Yes","No","N/A","IMG , URL: /wiki/.img#.IMG
+","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"CloneDVD , URL: /wiki/CloneDVD
+","Yes","No","No","Yes","Yes","ISO , URL: /wiki/ISO_image
+","ISO","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"Daemon Tools , URL: /wiki/Daemon_Tools
+","Yes","All editions except Lite","Yes","Yes[b]","All editions except Lite","ISO , URL: /wiki/ISO_image
+VHD , URL: /wiki/VHD_(file_format)
+VMDK , URL: /wiki/VMDK
+TrueCrypt , URL: /wiki/TrueCrypt
+","VHD , URL: /wiki/VHD_(file_format)
+TrueCrypt , URL: /wiki/TrueCrypt
+","Windows , URL: /wiki/Windows
+","Freemium , URL: /wiki/Freemium
+"
+"DeepBurner , URL: /wiki/DeepBurner
+","Yes","No","No","Yes","No","ISO , URL: /wiki/ISO_image
+","ISO","Windows , URL: /wiki/Windows
+","Freemium , URL: /wiki/Freemium
+"
+"Disco , URL: /wiki/Disco_(software)
+","Yes","No","No","Yes","No","ISO , URL: /wiki/ISO_image
+","CDR, ISO, DMG","macOS , URL: /wiki/MacOS
+","Freeware , URL: /wiki/Freeware
+"
+"DiscJuggler , URL: /wiki/DiscJuggler
+","?","?","?","?","?","ISO , URL: /wiki/ISO_image
+","CDI","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"Disk Utility , URL: /wiki/Disk_Utility
+","Yes","Yes","Yes","Yes","Yes","ISO , URL: /wiki/ISO_image
+","DMG, ISO","macOS , URL: /wiki/MacOS
+","Part of macOS"
+"DiskImageMounter , URL: /wiki/DiskImageMounter
+","No","Yes","Yes","Yes","No","ISO , URL: /wiki/ISO_image
+","DMG, ISO","macOS , URL: /wiki/MacOS
+","Part of macOS"
+"DVD Shrink , URL: /wiki/DVD_Shrink
+","Yes","No","No","No","Yes[e]","ISO , URL: /wiki/ISO_image
+","ISO","Windows , URL: /wiki/Windows
+","Freeware , URL: /wiki/Freeware
+"
+"Furius ISO Mount , URL: /wiki/Furius_ISO_Mount
+","No","No","Yes","Yes","No","ISO, IMG, BIN, MDF+MDS, NRG","?","Linux , URL: /wiki/Linux
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"Image for Windows , URL: /wiki/Image_for_Windows_(disk_imaging)
+","Yes","No","Yes","Yes","Yes","TBI, VHD, VMDK","TBI, VHD, VMDK","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"ImgBurn , URL: /wiki/ImgBurn
+","Yes","No","No","Yes","No","APE+CUE, BIN+CUE, CDI, CDR, DI, FLAC+CUE, GCM, GI, IBQ, IMG, ISO, LST, MDF+MDS, NRG, PDI, UDI, WV","ISO, IMG, BIN+CUE","Windows , URL: /wiki/Windows
+","Freeware , URL: /wiki/Freeware
+"
+"InfraRecorder , URL: /wiki/InfraRecorder
+","Yes","No","No","Yes","No","ISO","ISO","Windows , URL: /wiki/Windows
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"ISO Recorder , URL: /wiki/ISO_Recorder_Power_Toy
+","Yes","No","No","Yes","No","ISO","ISO","Windows , URL: /wiki/Windows
+","Free software , URL: /wiki/Free_software
+BSD license , URL: /wiki/BSD_license
+"
+"IsoBuster , URL: /wiki/IsoBuster
+","Yes","No","No","Yes","Yes","DAO, TAO, ISO, BIN, IMG, CCD, CIF, FCD, NRG, GCD, P01, 2D, CUE, CDI, CD, GI, PXI, MDS, MDF, VC4, 000, B5T, B5I, B6T, B6I, DMG, HFV, DC42, IBP, IBQ, IBDAT, IBADR, NCD, FLP, E01, Ex01, S01, RMG, VMDK, UDF, DD, VHD, VHDX, VDI, WBFS, XISO, XBX, ST, GDI, DCM, VMU, DDF, GME, MCD, MCI, MCR, MEM, PS, PSM, SAVERAM, SRM, VCD, VGS, VM1, VMP, APA, DAT, PS2, VM2, VMC, RAW, DSK, IMAGE, IMA, ADF, HDF, 1Kn, 2Kn, 4Kn, 8Kn, 16Kn, 32Kn, 64Kn, 512e, 512, 128, 256, 2056, 2324, 2332, 2336, 2352, 2368, 2448[7][8][9]","ISO, TAO, BIN, CUE, IBADR+IBDAT, DSK, 1KN, 2KN, 4KN, 8KN, 16KN, 32KN, 64KN, IBR, IBP and IBQ[9]","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"K3b , URL: /wiki/K3b
+","Yes","No","No","Yes","Yes","ISO","N/A","Unix-like , URL: /wiki/Unix-like
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"libguestfs , URL: /wiki/Libguestfs
+","Yes","Yes","Yes","No","Yes","raw, qcow2, VMDK, VHD","raw, qcow2, VMDK, VHD","Linux , URL: /wiki/Linux
+","Free software , URL: /wiki/Free_software
+LGPL , URL: /wiki/LGPL
+"
+"Loop device , URL: /wiki/Loop_device
+","No","No","Yes","No","No","Raw image","N/A","Linux , URL: /wiki/Linux
+FreeBSD , URL: /wiki/FreeBSD
+","Free software , URL: /wiki/Free_software
+"
+"MagicISO , URL: /wiki/MagicISO
+","Yes","Yes","MagicDisc , URL: /wiki/MagicDisc
+","Yes","Yes","Both MagicISO and MagicDisc: ISO, BIN+CUE, IMA, IMG, CIF, NRG, IMG+CCD, MDF+MDS, VCD, VaporCD, P01, MD1, XA, VC4/000, VDI, C2D, BWI+BWT, CDI, TAO/DAO, PDI.[11][12] MagicISO only: DMG, FLP, DSK, BFI, BIF, WBT[11]","ISO, BIN+CUE, UIF, NRG, DMG[13]","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"mount , URL: /wiki/Mount_(Unix)
+","No","No","Yes","No","No","ISO","N/A","Linux , URL: /wiki/Linux
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"Nero Multimedia Suite , URL: /wiki/Nero_Multimedia_Suite
+","Yes","No","No","Yes","No","ISO, NRG","ISO, NRG","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"Nero Burning ROM , URL: /wiki/Nero_Burning_ROM
+","Yes","No","No","Yes","No","ISO, NRG","ISO, NRG","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"Nero Linux , URL: /wiki/Nero_Linux
+","Yes","No","No","Yes","No","ISO, NRG","ISO, NRG","Linux , URL: /wiki/Linux
+","Shareware , URL: /wiki/Shareware
+"
+"Norton Ghost , URL: /wiki/Ghost_(software)
+","Yes","No","Yes","Yes","?","GHO, GHS, VMDK, V2I, IV2I, PQI","GHO, GHS, VMDK","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"Partimage , URL: /wiki/Partimage
+","Yes","No","No","Yes","No","Compressed , URL: /wiki/Data_compression
+file system , URL: /wiki/File_system
+Ext2 , URL: /wiki/Ext2
+Ext3 , URL: /wiki/Ext3
+Reiserfs , URL: /wiki/Reiserfs
+FAT16 , URL: /wiki/FAT16
+FAT32 , URL: /wiki/FAT32
+HPFS , URL: /wiki/High_Performance_File_System
+JFS , URL: /wiki/JFS_(file_system)
+Xfs , URL: /wiki/Xfs
+UFS , URL: /wiki/Unix_file_system
+HFS , URL: /wiki/Hierarchical_File_System
+NTFS , URL: /wiki/NTFS
+","Ext2, Ext3, Reiserfs, FAT16, FAT32, HPFS, JFS, Xfs, UFS, HFS and NTFS","Linux , URL: /wiki/Linux
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"PeaZip , URL: /wiki/PeaZip
+","No","No","No","No","Yes","DMG, ISO, VHD, WIM[15]","N/A","Windows , URL: /wiki/Windows
+Linux , URL: /wiki/Linux
+","Free software , URL: /wiki/Free_software
+LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+"
+"Roxio Creator , URL: /wiki/Roxio_Creator
+","Yes","No","No","Yes","No","ISO, C2D, BIN+CUE, GI","ISO, GI","Windows , URL: /wiki/Windows
+","Proprietary , URL: /wiki/Proprietary_software
+commercial , URL: /wiki/Commercial_software
+"
+"Roxio Toast , URL: /wiki/Roxio_Toast
+","No","No","No","Yes","No","ISO, BIN+CUE, IMG, DMG, CDR, NRG","N/A","macOS , URL: /wiki/MacOS
+","Proprietary , URL: /wiki/Proprietary_software
+commercial , URL: /wiki/Commercial_software
+"
+"UltraISO , URL: /wiki/UltraISO
+","Yes","Yes","Yes","Yes","Yes","BIN+CUE, BWI+BWT, B5T+B5I, B6T+B6I, C2D, CDI, CIF, DAA, DMG, FCD, G2D, GCD, GI, IMA, IMG+CCD, IML, ISO, ISZ, LCD, MDF+MDS, NCD, NRG, P01+MD1+XA, PDI, PXI, TAO, DAO, UIF, VaporCD, VC4/000, VCD, VDI, XMD+XMF[18]","BIN+CUE, CCD+IMG+SUB, ISO, ISZ, MDF+MDS, NRG","Windows , URL: /wiki/Windows
+","Trialware , URL: /wiki/Trialware
+"
+"Virtual CloneDrive , URL: /wiki/SlySoft#Products
+","No","No","Yes","No","No","ISO, BIN, IMG, UDF, DVD, CCD","N/A","Windows , URL: /wiki/Windows
+","Freeware , URL: /wiki/Freeware
+"
+"Virtual CD-ROM Control Panel , URL: /wiki/Virtual_CD-ROM_Control_Panel
+","No","No","Yes","No","No","ISO","N/A","Windows , URL: /wiki/Windows
+","Freeware , URL: /wiki/Freeware
+"
+"WADK , URL: /wiki/Windows_Assessment_and_Deployment_Kit
+","Yes","Yes","Yes","Yes","No","WIM, WSM , URL: /wiki/Windows_Imaging_Format
+","WIM, WSM , URL: /wiki/Windows_Imaging_Format
+","Windows NT , URL: /wiki/Windows_NT
+","Freeware , URL: /wiki/Freeware
+"
+"WinCDEmu , URL: /wiki/WinCDEmu
+","Yes","No","Yes","No","No","ISO, BIN, NRG, MDF+MDS, CCD, IMG","N/A","Windows , URL: /wiki/Windows
+","Free software , URL: /wiki/Free_software
+LGPL , URL: /wiki/LGPL
+"
+"File Explorer , URL: /wiki/File_Explorer
+","VHD only","No","Yes","ISO only","No","ISO,[19][20] VHD[21]","VHD","Windows NT , URL: /wiki/Windows_NT
+","Part of Windows"
+"WinRAR , URL: /wiki/WinRAR
+","No","No","No","No","Yes","ISO","N/A","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"WinZip , URL: /wiki/WinZip
+","No","No","No","No","Yes","ISO","N/A","Windows , URL: /wiki/Windows
+","Shareware , URL: /wiki/Shareware
+"
+"xorriso , URL: /wiki/Libburnia
+","Yes","Yes","Linux FreeBSD","Linux, BSD, Solaris","Yes","ISO","ISO","Unix , URL: /wiki/Unix
+Linux , URL: /wiki/Linux
+Cygwin , URL: /wiki/Cygwin
+macOS , URL: /wiki/MacOS
+","Free software , URL: /wiki/Free_software
+GPL , URL: /wiki/GPL
+"
+"Name","Creates?","Modifies?","Mounts?","Writes/Burns?","Extracts?","Input format","Output format","OS , URL: /wiki/Operating_system
+","License , URL: /wiki/Software_license
+"

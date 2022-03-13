@@ -1,60 +1,47 @@
-"Name","MP3 , URL: /wiki/MP3
-","FairPlay , URL: /wiki/FairPlay
-","ALAC , URL: /wiki/Apple_Lossless
-","AAC , URL: /wiki/Advanced_Audio_Coding
-","WMA-DRM , URL: /wiki/Windows_Media_Audio#Digital_rights_management
-","WMA Lossless , URL: /wiki/Windows_Media_Audio_9_Lossless
-","WMA , URL: /wiki/Windows_Media_Audio
-","WAV , URL: /wiki/WAV
-","Audible , URL: /wiki/Audible.com
-","Ogg Vorbis , URL: /wiki/Vorbis
-","FLAC , URL: /wiki/FLAC
-","Others"
-"Archos 105","Yes","No","No","No","Yes","No","Yes","Yes","No","No","No","No"
-"Archos 405","Yes","No","No","No[90]","Yes","No","Yes","Yes","No","No","No","AC3 , URL: /wiki/Dolby_Digital
+"Name","H.264 , URL: /wiki/H.264/MPEG-4_AVC
+","ASF , URL: /wiki/Advanced_Systems_Format
+","WMV , URL: /wiki/Windows_Media_Video
+","DivX , URL: /wiki/DivX
+Xvid , URL: /wiki/Xvid
+","MPEG-4 , URL: /wiki/MPEG-4_Part_2
+","AVI , URL: /wiki/Audio_Video_Interleave
+","QuickTime , URL: /wiki/QuickTime_Video
+","Other formats"
+"Archos 105","No","No","Yes","No","No","No","No","No"
+"Archos 405","No[90]","No","Yes","No","Yes","Yes","No[90]","MPEG-2 , URL: /wiki/MPEG-2
 "
-"Archos 5","Yes","No","No","No[90]","Yes","No","Yes","Yes","No","Yes","Yes","AC3 , URL: /wiki/Dolby_Digital
+"Archos 5","No[90]","No","Yes","Yes","Yes","Yes","No[90]","MPEG-2 , URL: /wiki/MPEG-2
+MKV , URL: /wiki/Matroska
 "
-"Archos 605 WiFi / GPS","Yes","No","No","No[90]","Yes","No","Yes","Yes","No","No","No","AC3 , URL: /wiki/Dolby_Digital
+"Archos 605 WiFi / GPS","No[90]","No","Yes","Yes","Yes","Yes","No[90]","MPEG-2 , URL: /wiki/MPEG-2
 "
-"Archos 705 WiFi","Yes","No","No","No[90]","Yes","No","Yes","Yes","No","No","No","AC3 , URL: /wiki/Dolby_Digital
+"Archos 705 WiFi","No[90]","No","Yes","Yes","Yes","Yes","No[90]","MPEG-2 , URL: /wiki/MPEG-2
 "
-"Cowon A3","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","APE , URL: /wiki/Monkey%27s_Audio
-MPC , URL: /wiki/Musepack
-PCM , URL: /wiki/Pulse-code_modulation
-TTA , URL: /wiki/TTA_(codec)
-WV , URL: /wiki/WavPack
+"Cowon A3","Yes","Yes","Yes","Yes","Yes","Yes","No","MKV , URL: /wiki/Matroska
+MTV , URL: /wiki/MP4_player#MTV
+OGM , URL: /wiki/OGM
+VOB , URL: /wiki/VOB
+AMV , URL: /wiki/AMV_video_format
+MJPEG , URL: /wiki/MJPEG
+MPEG-1 , URL: /wiki/MPEG-1_Part_2
 "
-"Cowon D2","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","APE"
-"Cowon Q5W","Yes","No","No","No","Yes","Yes","Yes","Yes","No","Yes","Yes","APE, MPC"
-"Gigabeat T-Series","Yes","No","No","No","Yes","Yes","Yes","Yes","No","No","No","No"
-"GP2X F-200","Yes","No","No","No","No","No","No[91]","No","No","Yes","No[92]","MP2 , URL: /wiki/MPEG-1_Audio_Layer_II
+"Cowon D2","No","No","Yes","No[95]","No","Yes","No","No"
+"Cowon Q5W","No","Yes","Yes","Yes","Yes","Yes","No","OGM"
+"Gigabeat T-Series","No","Yes","Yes","No[96]","No[96]","No[96]","No[96]","No"
+"GP2X F-200","No","No","No[91]","Yes","Yes","Yes","No","No"
+"iPod (before Nano 6G; iPod 6G does)","Yes","No","No","with plugin","Yes","with plugin","Yes","No"
+"iriver clix 2G","No","Yes","Yes","Yes","Yes","Yes","No","No"
+"PSP Slim & Lite","Yes","No","No","No","Yes","No","No","MJPEG"
+"Rio PMP300","No","No","No","No","Yes","No","No","No"
+"Samsung Galaxy Player","Yes","Yes","Yes","Yes","Yes","Yes","No","MKV"
+"Samsung T10","No","No","Yes",".svi only","Yes","No","No","No"
+"Samsung P2","No","No","Yes",".svi only","Yes","No","No","No"
+"Sansa Fuze","No","No","No","No","No","Yes","No","No"
+"Sansa Fuze+","Yes[97]","No","Yes","No","No","No","No","MPEG-4 Part 14 , URL: /wiki/MPEG-4_Part_14
 "
-"iPod","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","No","No","AIFF , URL: /wiki/Audio_Interchange_File_Format
+"Walkman NWZ-A810 series","Yes","No","No","No","Yes","No","No","No"
+"ZEN","No[96]","No","Yes","Yes","No[96]","Yes","No","MJPEG"
+"ZEN Vision W","No[96]","No","Yes","Yes","No[96]","Yes","No","MJPEG"
+"Zune","Yes","No","Yes","Yes","Yes","Yes","No","DVR-MS , URL: /wiki/DVR-MS
 "
-"iriver clix 2G","Yes","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
-"PSP Slim & Lite","Yes","No","No","Yes","No","No","Yes","Yes","No","No","No","ATRAC , URL: /wiki/ATRAC
-"
-"Samsung Galaxy Player","Yes","No","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","No"
-"Samsung T10","Yes","No","No","No","Yes","No","Yes","No","No","Yes","No","No"
-"Samsung P2","Yes","No","No","Yes","Yes","No","Yes","No","No","Yes","No","No"
-"Sansa Fuze","Yes","No","No","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Unknown"
-"Sansa Fuze+","Yes","No","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Unknown"
-"Walkman NWZ-A810 series","Yes","No","No","Yes","Yes","No","Yes","Yes","No","No","No","No"
-"ZEN","Yes","No","Yes","Yes","Yes","No","Yes","Yes","Yes","No","No","No"
-"ZEN Vision W","Yes","No","No","No","Yes","No[94]","Yes","Yes","Yes","No","No","No"
-"Zune","Yes","No","No","Yes","Yes","Yes","Yes","No","Yes","No","No","WMA Pro Stereo , URL: /wiki/WMA_Pro
-"
-"ZVUE 260","Yes","No","No","No","Yes","No","Yes","Yes","No","Yes","No","MP2"
-"","MP3 , URL: /wiki/MP3
-","AAC-DRM , URL: /wiki/FairPlay
-","ALAC , URL: /wiki/Apple_Lossless
-","AAC , URL: /wiki/Advanced_Audio_Coding
-","WMA-DRM , URL: /wiki/Windows_Media_Audio#Digital_rights_management
-","WMA Lossless , URL: /wiki/Windows_Media_Audio_9_Lossless
-","WMA , URL: /wiki/Windows_Media_Audio
-","WAV , URL: /wiki/WAV
-","Audible , URL: /wiki/Audible.com
-","Ogg Vorbis , URL: /wiki/Vorbis
-","FLAC , URL: /wiki/FLAC
-","Others"
+"ZVUE 260","No","Yes","Yes","Xvid only","Yes","Yes","No","No"

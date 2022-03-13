@@ -1,93 +1,92 @@
-"System","Git , URL: /wiki/Git_(software)
-","Mercurial , URL: /wiki/Mercurial
-","Bazaar , URL: /wiki/Bazaar_(software)
-","Monotone , URL: /wiki/Monotone_(software)
-","Darcs , URL: /wiki/Darcs
-","CVS , URL: /wiki/Concurrent_Versions_System
-","Subversion , URL: /wiki/Subversion_(software)
-","Perforce , URL: /wiki/Perforce
-","AccuRev , URL: /wiki/AccuRev
-","ClearCase , URL: /wiki/IBM_Rational_ClearCase
+"System","Form based , URL: /w/index.php?title=HTTP%2BHTML_Form_based_authentication&action=edit&redlink=1
+","Public key cryptography , URL: /wiki/Transport_Layer_Security#Client-authenticated_TLS_handshake
+","Two-factor , URL: /wiki/Two-factor_authentication
+","OpenID , URL: /wiki/OpenID
+","OAuth , URL: /wiki/OAuth
+","LDAP , URL: /wiki/LDAP
+","Shibboleth , URL: /wiki/Shibboleth_(Internet2)
 ","Others"
 "Apache Bloodhound , URL: /wiki/Apache_Bloodhound
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Optional[75]","Yes","No","No"
+","Yes","Optional[91]","No","Optional[92]","No","Yes","Unknown","No"
 "Assembla , URL: /wiki/Assembla
-","Yes","Yes","No","No","No","No","Yes","Yes","No","No","No"
+","Yes","No","No","Yes","Yes","Yes (private version)","Unknown","Unknown"
 "Axosoft , URL: /wiki/Axosoft
-","Yes","Yes[76]","No","No","No","No","Yes","Yes","No","No","VSS , URL: /wiki/Microsoft_Visual_SourceSafe
-Vault Sourcegear , URL: /wiki/Vault_(revision_control_system)
-"
+","Yes","No","No","No","No","Yes","No","No"
 "Bugzilla , URL: /wiki/Bugzilla
-","Yes[77]","Yes[78]","Yes","No","No","Yes","Yes","Yes","Yes","No","No"
+","Yes","No","No","Optional[93]","No","Yes","Unknown","No"
 "Debbugs , URL: /wiki/Debbugs
-","No","No","No","No","No","No","No","No","No","No","No"
+","No","No","No","No","No","No","No","No"
 "Faveo Helpdesk , URL: /wiki/Faveo
-","No","No","No","No","No","No","No","No","No","No","No"
+","Yes","No","No","No","Yes","Yes","No","No"
 "FogBugz , URL: /wiki/FogBugz
-","Yes","Yes","No","No","No","Yes","Yes","Yes","No","No","2[79]"
+","Yes","Unknown","Unknown","Unknown","Unknown","Yes","Unknown","Unknown"
 "Fossil , URL: /wiki/Fossil_(software)
-","No","No","No","No","No","No","No","No","Yes","No","1[80]"
+","Unknown","Unknown","Unknown","Unknown","Unknown","No","Unknown","Unknown"
 "FusionForge , URL: /wiki/FusionForge
-","Yes","Yes","Yes","No","No","Yes","Yes","No","No","No","No"
+","Yes","No","No","Yes","No","Yes","No","CAS , URL: /wiki/Central_Authentication_Service
+"
+"GLPI , URL: /wiki/GLPI
+","Yes","No","Yes","No","No","Yes","No","No"
 "GNATS , URL: /wiki/GNATS
-","No","No","No","No","No","Yes","No","No","No","No","No"
+","Unknown","Unknown","Unknown","Unknown","Unknown","No","Unknown","Unknown"
 "Helix ALM , URL: /wiki/Helix_ALM
-","Yes","No","No","No","No","Yes","Yes","Yes","No","No","Surround SCM , URL: /wiki/Surround_SCM
-"
-"HP Application Lifecycle Management , URL: /wiki/HP_Application_Lifecycle_Management
-","No","No","No","No","No","Yes","Yes","Yes[81]","Yes","No","No"
+","Yes","Optional","No","Optional","No","Yes","No","Yes - custom DLL, SAML"
+"HP Quality Center , URL: /wiki/HP_Quality_Center
+","No","No","No","No","No","Yes","No","Unknown"
 "Jira , URL: /wiki/Jira_(software)
-","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes[82]","No[83]","Yes[84]"
+","Yes","No","No","Yes","Yes","Yes","Yes, via plugin[94][95]","Yes, via Crowd[96]"
 "MantisBT , URL: /wiki/Mantis_Bug_Tracker
-","Yes","Yes[85]","No","No","No","Yes","Yes","No","No","No","No"
+","Yes","No","No","Yes[97]","Yes[98]","Yes","Unknown","No"
 "Microsoft Dynamics CRM , URL: /wiki/Microsoft_Dynamics_CRM
-","No","No","No","No","No","No","No","No","No","No","No"
+","Unknown","Unknown","Unknown","Unknown","Unknown","Yes","Unknown","Unknown"
 "org-mode , URL: /wiki/Org-mode
-","No","No","No","No","No","No","No","No","No","No","No"
+","Unknown","Unknown","Unknown","Unknown","Unknown","No","Unknown","Unknown"
 "OTRS , URL: /wiki/OTRS
-","No","No","No","No","No","No","No","No","No","No","No"
+","Yes","Yes","Yes","Unknown","Unknown","Yes","Unknown","Unknown"
 "Phabricator , URL: /wiki/Phabricator
-","Yes","Yes","No","No","No","No","Yes","No","No","No","No"
+","Yes","No","Yes","No","Yes","Yes","No","No"
 "Pivotal Tracker , URL: /wiki/Pivotal_Tracker
-","Yes","No","No","No","No","Yes","Yes","No","No","No","No"
+","Yes","No","No","Google Account , URL: /wiki/Google_Account
+","No","No","No","No"
 "Redmine , URL: /wiki/Redmine
-","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes[81]","No","No","No"
+","Yes","Yes[99]","Yes","Yes[100]","No","Yes","Yes, via Apache (using mod_rails)","No"
 "Request Tracker , URL: /wiki/Request_Tracker
-","No","No","No","No","No","Yes","Yes","No","No","No","No"
+","Yes","Unknown","Unknown","Yes[101]","Unknown","Yes[102]","Unknown","Yes[103]"
 "Roundup , URL: /wiki/Roundup_(issue_tracker)
-","No","Yes","No","No","Yes","No","Yes","No","No","No","Yes can be implemented for any RCS at tracker level"
+","Yes","Unknown","Unknown","Yes[104]","Unknown","Yes","Yes[105]","Yes[106]"
 "StarTeam , URL: /wiki/StarTeam
-","No","No","No","No","No","No","No","No","No","No","StarTeam , URL: /wiki/StarTeam
-"
+","Unknown","Unknown","Unknown","Unknown","Unknown","No","Unknown","Unknown"
 "Supportworks , URL: /wiki/Supportworks
-","No","No","No","No","No","No","No","No","No","No","No"
+","Unknown","Unknown","Unknown","Unknown","Unknown","Yes","Unknown","Unknown"
 "SysAid , URL: /wiki/SysAid_Technologies
-","No","No","No","No","No","No","Yes","No","No","No","No"
-"Team Foundation Server , URL: /wiki/Team_Foundation_Server
-","Yes[86]","No","Yes[87]","No","No","No","Yes[88]","No","No","No","TFS , URL: /wiki/Team_Foundation_Server
+","Yes","No","No","No","No","Yes","No","CAS , URL: /wiki/Central_Authentication_Service
 "
+"Team Foundation Server , URL: /wiki/Team_Foundation_Server
+","Unknown","Unknown","Unknown","Unknown","Unknown","Yes","Unknown","Unknown"
 "Trac , URL: /wiki/Trac
-","Yes","Yes","Yes","Yes","Yes","No","Yes","Optional[75]","Yes","No","No"
+","Yes","Optional[91]","No","Optional[92]","No","Yes","Unknown","No"
 "TrackerSuite.Net , URL: /wiki/Tracker_(business_software)
-","No","No","No","No","No","No","No","No","No","No","No"
+","Yes","No","No","No","No","Yes","No","No"
 "Tuleap , URL: /wiki/Tuleap
-","Yes","No","No","No","No","Yes","Yes","No","No","No","No"
+","Yes","No","No","Yes","Yes","Yes","No","No"
 "Twproject , URL: /wiki/Twproject
-","No","No","No","No","No","No","Yes","No","No","No","No"
+","Yes","Unknown","Unknown","Unknown","Unknown","Yes","Unknown","Yes, Simple container auth."
 "Wrike , URL: /wiki/Wrike_(software)
-","No","No","No","No","No","No","Yes","No","No","No","No"
+","Unknown","Unknown","Unknown","Unknown","Unknown","Yes","Unknown","Unknown"
 "YouTrack , URL: /wiki/YouTrack
-","Yes[89]","Yes[89]","No","No","No","Yes[89]","Yes[89]","Yes[89]","No","Yes[89]","3[89][90]"
+","Yes","No","Yes","Yes","Yes","Yes","Unknown","JIRA , URL: /wiki/Jira_(software)
+"
 "Zammad , URL: /wiki/Zammad
-","No","No","No","No","No","No","No","No","No","No","No"
-"System","Git , URL: /wiki/Git_(software)
-","Mercurial , URL: /wiki/Mercurial
-","Bazaar , URL: /wiki/Bazaar_(software)
-","Monotone , URL: /wiki/Monotone_(software)
-","Darcs , URL: /wiki/Darcs
-","CVS , URL: /wiki/Concurrent_Versions_System
-","Subversion , URL: /wiki/Subversion_(software)
-","Perforce , URL: /wiki/Perforce
-","AccuRev , URL: /wiki/AccuRev
-","ClearCase , URL: /wiki/IBM_Rational_ClearCase
+","Yes","No","No","No","Yes","Yes","Yes","Twitter , URL: /wiki/Twitter
+Facebook , URL: /wiki/Facebook
+Google , URL: /wiki/Google
+Microsoft 365 , URL: /wiki/Microsoft_365
+"
+"System","Form based , URL: /w/index.php?title=HTTP%2BHTML_Form_based_authentication&action=edit&redlink=1
+","Public key cryptography , URL: /wiki/Transport_Layer_Security#Client-authenticated_TLS_handshake
+","Two-factor , URL: /wiki/Two-factor_authentication
+","OpenID , URL: /wiki/OpenID
+","OAuth , URL: /wiki/OAuth
+","LDAP , URL: /wiki/LDAP
+","Shibboleth , URL: /wiki/Shibboleth_(Internet2)
 ","Others"

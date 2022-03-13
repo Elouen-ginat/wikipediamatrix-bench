@@ -1,2 +1,3 @@
-"Definition","<string>.rpartition(separator) Searches for the separator from right-to-left within the string then returns the sub-string before the separator; the separator; then the sub-string after the separator."
-"Description","Splits the given string by the right-most separator and returns the three substrings that together make the original."
+"Definition","<string>.split(separator[, limit]) splits a string on separator, optionally only up to a limited number of substrings"
+"Description","See the example here , URL: https://www.w3schools.com/jsref/jsref_split.asp
+"

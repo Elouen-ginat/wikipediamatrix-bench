@@ -1,46 +1,52 @@
-"Manager","Podcasts , URL: /wiki/Podcasting
-","Rebuild iPod Database","Portable , URL: /wiki/Portable_application
-","6th Gen. , URL: /wiki/IPod#Models
-","5th Gen. nano , URL: /wiki/IPod#Models
-","shuffle3G , URL: /wiki/IPod#Models
+"Manager","iPod touch , URL: /wiki/IPod_touch
+iPhone , URL: /wiki/IPhone
 ","iPod touch , URL: /wiki/IPod_touch
 iPhone , URL: /wiki/IPhone
-","Photo support","Gapless , URL: /wiki/Gapless_playback
-Metadata , URL: /wiki/Metadata
+","iPod touch , URL: /wiki/IPod_touch
+iPhone , URL: /wiki/IPhone
+","iPod touch , URL: /wiki/IPod_touch
+iPhone , URL: /wiki/IPhone
+","iPod touch , URL: /wiki/IPod_touch
+iPhone , URL: /wiki/IPhone
+","iPod touch , URL: /wiki/IPod_touch
+iPhone , URL: /wiki/IPhone
 "
 "Amarok , URL: /wiki/Amarok_(audio)
-","Yes","Yes","?","Yes","?","No","Yes[a]","?","?"
+","Yes","No","Yes","Yes","Yes, Read-only","Yes, Read-only"
 "Banshee , URL: /wiki/Banshee_(music_player)
-","Yes","Yes","?","No","Yes","Yes","Yes","?","?"
+","Yes","Yes","Yes","Yes","Yes, Read-only","Yes, Read-only"
 "Clementine , URL: /wiki/Clementine_(software)
-","Yes","No","?","No","No","?","Yes","?","?"
+","Yes, limited","Yes, limited","Yes, limited","Yes, limited","No","No"
 "EphPod , URL: /wiki/EphPod
-","No","Yes","?","?","No","No","No","No","No"
+","No","No","No","No","No","No"
 "gtkpod , URL: /wiki/Gtkpod
-","No","?","?","Yes[b]","Yes[a]","Yes[a]","Yes, jailbroken only","?","Yes"
+","Yes","Yes","Yes","Yes","?","?"
 "iRip , URL: /wiki/IRip
-","Yes","?","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes, Read-only"
 "iTunes , URL: /wiki/ITunes
-","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes"
 "JRiver Media Center , URL: /wiki/JRiver_Media_Center
-","Yes","?","?","?","?","?","?","?","?"
+","No","No","No","No","No","No"
 "MediaMonkey , URL: /wiki/MediaMonkey
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes"
 "Rhythmbox , URL: /wiki/Rhythmbox
-","Yes","?","?","?","Yes","No","Yes[a]","No","No"
+","Yes","Yes","Yes","Yes","Yes","No"
 "Senuti , URL: /wiki/Senuti
-","No","?","?","?","?","?","Yes","?","?"
+","Yes","Yes","No","No","No","?"
 "Winamp , URL: /wiki/Winamp
-","Yes","?","?","?","?","?","?","?","Yes"
+","No","No","No","No","No","No"
 "XPlay , URL: /wiki/XPlay
-","No","Yes","No","?","?","?","?","Yes","?"
-"Manager","Podcasts , URL: /wiki/Podcasting
-","Rebuild iPod Database","Portable , URL: /wiki/Portable_application
-","6th Gen. , URL: /wiki/IPod#Models
-","5th Gen. nano , URL: /wiki/IPod#Models
-","shuffle3G , URL: /wiki/IPod#Models
+","Yes","Yes, Read only","Yes, Read only","Yes, Read only","Yes, Read only","Yes, Read only"
+"Manager","iPod touch , URL: /wiki/IPod_touch
+iPhone , URL: /wiki/IPhone
 ","iPod touch , URL: /wiki/IPod_touch
 iPhone , URL: /wiki/IPhone
-","Photo support","Gapless , URL: /wiki/Gapless_playback
-Metadata , URL: /wiki/Metadata
+","iPod touch , URL: /wiki/IPod_touch
+iPhone , URL: /wiki/IPhone
+","iPod touch , URL: /wiki/IPod_touch
+iPhone , URL: /wiki/IPhone
+","iPod touch , URL: /wiki/IPod_touch
+iPhone , URL: /wiki/IPhone
+","iPod touch , URL: /wiki/IPod_touch
+iPhone , URL: /wiki/IPhone
 "

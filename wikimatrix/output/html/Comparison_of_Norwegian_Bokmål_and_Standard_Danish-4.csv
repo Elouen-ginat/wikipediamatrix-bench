@@ -1,13 +1,9 @@
-"Letter","Danish","Danish","Danish","Norwegian","Norwegian","Swedish","Swedish"
-"Letter","onset , URL: /wiki/Syllable_onset
-","Elsewhere (single)","Elsewhere (double)","onset , URL: /wiki/Syllable_onset
-","Elsewhere","onset , URL: /wiki/Syllable_onset
-","Elsewhere"
-"v","[v]","[w]","[w]","[ʋ]","[ʋ]","[v]","[v]"
-"b","[p]","[p, w]","[p]","[b]","[b]","[b]","[b]"
-"p","[pʰ]","[p]","[p]","[pʰ]","[p]","[pʰ]","[p]"
-"d","[t]","[ð]","[ð]","[d]","[d]","[d]","[d]"
-"t","[tsʰ]","[t]","[t]","[tʰ]","[t]","[tʰ]","[t]"
-"g","[k]","[-, j, w]","[k]","[ɡ]","[ɡ]","[ɡ]","[ɡ]"
-"k","[kʰ]","[k]","[k]","[kʰ]","[k]","[kʰ]","[k]"
-"r","[ʁ]","[ɐ̯, -]","[ɐ̯]","[r]","[r]","[r]","[r]"
+"Danish","Bokmål","Nynorsk","Swedish","Meaning"
+"en gade – gaden gader – gaderne","en/ei gate – gaten/gata gater – gatene","ei gate – gata gater – gatene","en gata – gatan gator – gatorna","street"
+"en dag – dagen dage – dagene","en dag – dagen dager – dagene","ein dag – dagen dagar – dagane","en dag – dagen dagar – dagarna","day"
+"en sol – solen sole – solene","en/ei sol – solen/sola soler – solene","ei sol – sola soler – solene","en sol – solen soler – solarna","sun"
+"en soldat – soldaten soldater – soldaterne","en soldat – soldaten soldater – soldatene","ein soldat – soldaten soldatar – soldatane","en soldat – soldaten soldater – soldaterna","soldier"
+"en mus – musen mus – musene","en/ei mus – musen/musa mus – musene","ei mus – musa mus/myser – musene/mysene","en mus – musen möss – mössen","mouse"
+"et hus – huset huse – husene","et hus – huset hus – husene/husa","eit hus – huset hus – husa","ett hus – huset hus – husen","house"
+"et barn – barnet børn – børnene","et barn – barnet barn – barna/barnene","eit barn – barnet born/barn – borna/barna","ett barn – barnet barn – barnen","child"
+"et æble – æblet æbler – æblerne","et eple – eplet epler – eplene/epla","eit eple – eplet eple – epla","ett äpple – äpplet äpplen – äpplena","apple"

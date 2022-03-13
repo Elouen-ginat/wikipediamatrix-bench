@@ -1,19 +1,24 @@
-"Java","C#"
-"Arrays are implicitly direct specializations of Object. They are not unified with collection types.","interfaces , URL: /wiki/Interface_(object-oriented_programming)
+"keyword","feature, example usage"
+"checked, unchecked","arithmetic overflow , URL: /wiki/Arithmetic_overflow
 "
-"Arrays and collections are completely separate with no unification. Arrays cannot be passed where sequences or collections are expected (though they can be wrapped using Arrays.asList).","interfaces , URL: /wiki/Interface_(object-oriented_programming)
+"get, set","properties , URL: /wiki/Property_(programming)
+accessor methods , URL: /wiki/Accessor_method
 "
-"The for statement accepts either arrays or Iterables. All collections implement Iterable. This means that the same short syntax can be used in for-loops.","interface , URL: /wiki/Interface_(object-oriented_programming)
-interfaces , URL: /wiki/Interface_(object-oriented_programming)
+"goto","finite state machines , URL: /wiki/Finite_state_machine
+generated code , URL: /wiki/Code_generation_(compiler)
+control flow , URL: /wiki/Control_flow
+criticism of the goto statement , URL: /wiki/Goto#Criticism
 "
-"In both languages arrays of reference types are covariant. This means that a String[] array is assignable to variables of Object[], as String is a specialization of (assignable to) Object. In both languages, the arrays will perform a type check when inserting new values, because type safety would otherwise be compromised. This is in contrast to how generic collections have been implemented in both languages.","In both languages arrays of reference types are covariant. This means that a String[] array is assignable to variables of Object[], as String is a specialization of (assignable to) Object. In both languages, the arrays will perform a type check when inserting new values, because type safety would otherwise be compromised. This is in contrast to how generic collections have been implemented in both languages."
-"multidimensional arrays , URL: /wiki/Two-dimensional_array
-jagged arrays , URL: /wiki/Jagged_array
-","Multidimensional arrays , URL: /wiki/Two-dimensional_array
-jagged arrays , URL: /wiki/Jagged_array
+"lock","In C#, the lock keyword is a shorthand for synchronizing access to a block of code across threads (using a Monitor), wrapped in a try ... finally block."
+"out, ref","parameters , URL: /wiki/Parameter_(computer_science)
 "
-"Arrays cannot be resized (though use of the System.arraycopy() method can allow for multi-step array resizing)","Arrays can be resized while preserving existing values using the Array.Resize() static array method (but this may return a new array)."
-"retrofit , URL: /wiki/Retrofit
-","interfaces , URL: /wiki/Interface_(object-oriented_programming)
-Language Integrated Query , URL: /wiki/Language_Integrated_Query
+"strictfp","Java uses strictfp to guarantee the results of floating point operations remain the same across platforms."
+"switch","switch statement , URL: /wiki/Switch_statement
+Java 7 , URL: /wiki/Java_7
+"
+"synchronized","In Java, the synchronized keyword is a shorthand for synchronizing access to a block of code across threads (using a Monitor), wrapped in a try ... finally block."
+"throws","Java requires every method to declare the checked exceptions or superclasses of the checked exceptions that it can throw. Any method can also optionally declare the unchecked exception that it throws. C# has no such syntax. public int readItem() throws java.io.IOException {
+    // ...
+}"
+"using","interface , URL: /wiki/Interface_(object-oriented_programming)
 "

@@ -1,6 +1,2 @@
-"Column 1 (row 1 cell 1)","Column 2 (row 1 cell 2)","Column 3 (row 1 cell 3)"
-"A (row 2 cell 1) rowspan=2","B (row 2 cell 2) colspan=2","B (row 2 cell 2) colspan=2"
-"A (row 2 cell 1) rowspan=2","C (row 3 cell 1)","D (row 3 cell 2)"
-"E (row 4 cell 1)","F (row 4 cell 2) rowspan=2 colspan=2","F (row 4 cell 2) rowspan=2 colspan=2"
-"G (row 5 cell 1)","F (row 4 cell 2) rowspan=2 colspan=2","F (row 4 cell 2) rowspan=2 colspan=2"
-"H (row 6 cell 1) colspan=3","H (row 6 cell 1) colspan=3","H (row 6 cell 1) colspan=3"
+"row one, column one","row one, column two"
+"row three, column one","row three, column two"

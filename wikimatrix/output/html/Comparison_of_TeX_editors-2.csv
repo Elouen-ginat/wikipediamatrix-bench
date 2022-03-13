@@ -1,50 +1,49 @@
-"Name","Inverse search[Note 7]","DDE , URL: /wiki/Dynamic_Data_Exchange
-","Organises Projects","Menu for inserting symbols","Document comparison","Spell-checking","Multiple undo-redo"
+"Name","Collapsible sections","Find and replace using RegEx","Intelligent error handling","Autocompletion of LaTeX commands","Parenthesis matching","Starts up to previous state[Note 13]","Unicode support","RTL Support[Note 14]"
 "AUCTeX , URL: /wiki/AUCTeX
-","Yes","No","Partial (master file)","Yes","Yes","Yes[Note 9]","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes[Note 15]","Yes","Yes"
 "Authorea , URL: /wiki/Authorea
-","Yes","N/A","Yes","No","No","Yes","Yes"
-"Auto-Latex Equations for Google Docs","Yes","N/A","Yes","No","No","Yes","Yes"
+","No","Yes","No","No","Yes","Yes","Yes","?"
+"Auto-Latex Equations for Google Docs","No","Yes","No","No","No","Yes","Yes","?"
 "CoCalc , URL: /wiki/CoCalc
-","Yes","N/A","No","No","No","Yes","Yes"
+","Yes","Yes","No","Yes","Yes","Yes","Yes","?"
 "GNOME LaTeX , URL: /wiki/GNOME_LaTeX
-","Yes","N/A","Yes","Yes","No","Yes","Yes"
+","Planned","Yes","Yes","Yes","Yes","(just same files)","Yes","Yes"
 "Gummi , URL: /wiki/Gummi_(software)
-","Yes","N/A","Yes","No","No","Yes","Yes"
+","No","No","No","No","Yes","No","Yes","?"
 "Kile , URL: /wiki/Kile
-","Yes","No","Yes","Yes","No","Yes","Yes"
+","Yes[Note 16]","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
 "LEd , URL: /wiki/LEd
-","Yes","?","Yes","Yes","No","Yes","Yes"
+","Yes","Yes","?","Yes","Yes","No (just same files)","No","?"
 "LyX , URL: /wiki/LyX
-","Yes","?","No","Yes","Yes","Yes","Yes"
+","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
 "MeWa , URL: /wiki/MeWa
-","No","No","No","Yes","No","Yes","Yes"
+","No","Yes","No","No","No","No","Yes","?"
 "Notepad++ , URL: /wiki/Notepad%2B%2B
-","Yes, with SumatraPDF","Yes, with a DDE client","Yes","Partial[Note 10]","Yes","Yes","Yes"
+","Yes","Yes","No","Partial[Note 17]","Yes","Yes","Yes","Yes"
 "Overleaf , URL: /wiki/Overleaf
-","Yes","No","Yes","No","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?"
 "Scientific WorkPlace , URL: /wiki/Scientific_WorkPlace
-","N/A","?","?","Yes","No","Yes","No (one level)"
+","No","?","?","N/A","Yes","No","Yes","?"
 "TexLab , URL: /wiki/TexLab
-","Yes","N/A","Yes","Yes","No","Yes","Yes"
+","No","No","Yes","Yes","Yes","Yes","Yes","No"
 "TeXmacs , URL: /wiki/GNU_TeXmacs
-","N/A","Yes","Partial (shows document parts)","Yes","Partial (for own format only)","Yes","Yes"
+","No","Yes","N/A","N/A","N/A","N/A","Yes","?"
 "Texmaker , URL: /wiki/Texmaker
-","Yes","No","Partial (master file)","Yes","No","Yes","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
 "TeXnicCenter , URL: /wiki/TeXnicCenter
-","Yes","Yes","Yes","Yes","No","Yes","Yes"
+","since v2.0","since v2.0","Yes","Yes","Yes","Yes","since v2.0","?"
 "TeXShop , URL: /wiki/TeXShop
-","Yes","No","No","Yes[Note 11]","No","Yes","Yes"
+","No","Yes","Yes","Yes","Yes","Yes","Yes","?"
 "TeXstudio , URL: /wiki/TeXstudio
-","Yes","Yes","Partial (master file)","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
 "TeXworks , URL: /wiki/TeXworks
-","Yes","No","No","No","No","Yes[Note 12]","Yes"
+","No","Yes[Note 18]","No","Yes[Note 19]","Yes","No","Yes","Yes"
 "Verbosus , URL: /wiki/Verbosus
-","No","No","Yes","Yes","No","No","Yes"
+","No","No","Yes","Yes","Yes","No","Yes","?"
 "Visual Studio Code , URL: /wiki/Visual_Studio_Code
-","Yes","?","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
 "WinEdt , URL: /wiki/WinEdt
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes (modified)","Yes","Yes","Yes","Yes","Yes","Yes"
 "WinShell , URL: /wiki/WinShell
-","Yes","No","Yes","Yes","No","Yes","Yes"
-"Name","Inverse search","DDE Support","Organises Projects","Menu for inserting symbols","Document comparison","Spell-checking","Multiple undo-redo"
+","Yes","Yes","Yes","Yes","Yes","No (just same files)","Yes","?"
+"Name","Collapsible sections","Find and replace using RegEx","Intelligent error handling","Autocompletion of LaTeX commands","Parenthesis matching","Starts up to previous state[Note 20]","Unicode support","RTL Support[Note 21]"

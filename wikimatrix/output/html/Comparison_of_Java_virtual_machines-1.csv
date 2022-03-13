@@ -1,59 +1,36 @@
-"Name","Creator","First public release","Latest stable version","Latest release date","Cost, availability","License"
-"OpenJ9 , URL: /wiki/OpenJ9
-IBM , URL: /wiki/IBM
-","IBM , URL: /wiki/IBM
-","?","0.25.0[1]","16 March 2021[2]","Free","Apache License , URL: /wiki/Apache_License
-Eclipse Public License , URL: /wiki/Eclipse_Public_License
+"JVM","Status","Latest supported Java version","Supported class libraries","Supported class libraries","Supported class libraries","Performance","Performance","Performance"
+"JVM","Status","Latest supported Java version","GNU Classpath , URL: /wiki/GNU_Classpath
+","OpenJDK , URL: /wiki/OpenJDK
+","Other","Interpretation","AOT , URL: /wiki/AOT_compiler
+","JIT , URL: /wiki/Just-in-time_compilation
 "
 "GCJ , URL: /wiki/GNU_Compiler_for_Java
-","GNU , URL: /wiki/GNU
-","6 September 1998","6.4 (Terminal)","4 July 2017","Free","GPL , URL: /wiki/GPL
-"
-"GraalVM , URL: /wiki/GraalVM
-","Oracle , URL: /wiki/Oracle_Corporation
-","May 2019","21.3.0","19 October 2021","Free","GPL , URL: /wiki/GPL
-"
+","No longer maintained or distributed by GNU as of GCC 7 [15]","?","Yes","No","","Yes","Yes","No"
 "HotSpot , URL: /wiki/HotSpot_(virtual_machine)
 OpenJDK , URL: /wiki/OpenJDK
-","Sun Microsystems , URL: /wiki/Sun_Microsystems
-Oracle , URL: /wiki/Oracle_Corporation
-","27 April 1999","jdk-16","16 March 2021","Free","GPL , URL: /wiki/GPL
-"
+","Reference implementation.","1.8","No","Yes","","Yes","No","Yes"
 "HotSpot , URL: /wiki/HotSpot_(virtual_machine)
-","Sun Microsystems , URL: /wiki/Sun_Microsystems
 Oracle , URL: /wiki/Oracle_Corporation
-","27 April 1999","jdk 16","16 March 2021","Free","Proprietary , URL: /wiki/Proprietary_software
-"
+","Reference implementation.","1.8","No","Yes","","Yes","No","Yes"
 "HotSpot , URL: /wiki/HotSpot_(virtual_machine)
-","Sun Microsystems , URL: /wiki/Sun_Microsystems
-Oracle , URL: /wiki/Oracle_Corporation
-","27 April 1999","?","?","Commercial","Proprietary , URL: /wiki/Proprietary_software
-"
+","","?","No","Yes","","Yes","No","Yes"
 "HotSpot , URL: /wiki/HotSpot_(virtual_machine)
-","Gary Benson[5]","?","?","?","Free","GPL , URL: /wiki/GPL
-"
-"IKVM.NET","Jeroen Frijters","28 June 2004","7.0.4335.0","5 December 2011","Free","zlib License , URL: /wiki/Zlib_License
-"
+","Interpreter-only port of OpenJDK using almost no assembly language and designed to be very portable.","1.7","No","Yes","","Yes","No","No"
+"IKVM.NET , URL: /wiki/IKVM.NET
+","","?","?","?","","Whatever the .NET runtime uses","Whatever the .NET runtime uses","Whatever the .NET runtime uses"
 "JAmiga , URL: /w/index.php?title=JAmiga&action=edit&redlink=1
-","Peter Werno, Joakim Nordström","19 May 2005[7]","1.2","6 January 2014","Free","GPL , URL: /wiki/GPL
-"
+","","1.4[16]","Yes[17]","No","","Yes[18]","No","No"
 "JamVM , URL: /wiki/JamVM
-","Robert Lougher","13 March 2003","2.0.0","30 July 2014","Free","GPL , URL: /wiki/GPL
-"
+","","1.8[19]","Yes[20]","Yes[20]","","Yes[20]","No","Yes[20]"
 "Jato VM , URL: /w/index.php?title=Jato_VM&action=edit&redlink=1
-","Pekka Enberg and contributors[8]","?","0.3[9]","4 January 2012[9]","Free","GPL , URL: /wiki/GPL
-"
-"JC virtual machine","Archie L. Cobbs","?","1.4.7","13 November 2005","Free","LGPL , URL: /wiki/LGPL
-"
+","","1.6[21]","Yes[9]","No[22]","","No[22]","No[22]","Yes[9]"
+"JC virtual machine , URL: /w/index.php?title=JC_virtual_machine&action=edit&redlink=1
+","Translates Java to C and compiles it with a C compiler.","1.4[23]","Yes[24]","No","","Yes[25]","Yes[25]","Yes[25]"
 "Jikes RVM , URL: /wiki/Jikes_RVM
-","IBM , URL: /wiki/IBM
-","14 October 2001","3.1.4[10]","18 February 2016[10]","Free","Eclipse Public License , URL: /wiki/Eclipse_Public_License
-"
-"Kaffe","Transvirtual Technologies","1996","1.1.9","22 February 2008","Free","GPL , URL: /wiki/GPL
-"
+","","1.6[26]","Yes[27]","Port[28][29]","Apache Harmony[27]","No[30]","?","Yes"
+"Kaffe , URL: /wiki/Kaffe
+","","1.4[12]","Yes[12]","No","","Yes[12]","No[12]","Yes[12]"
 "Mysaifu JVM , URL: /w/index.php?title=Mysaifu_JVM&action=edit&redlink=1
-","?","16 April 2005[13]","0.4.8[13]","5 March 2010[13]","Free","GPL , URL: /wiki/GPL
-"
-"SableVM","Sable Research Group , URL: /w/index.php?title=Sable_Research_Group&action=edit&redlink=1
-","?","1.13","30 March 2007[14]","Free","LGPL , URL: /wiki/LGPL
-"
+","","?","Yes[31]","No","","Yes[32]","No[32]","No[32]"
+"SableVM , URL: /wiki/SableVM
+","Unmaintained","1.4","Yes","No","","Yes","No","No"

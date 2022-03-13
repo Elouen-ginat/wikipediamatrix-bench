@@ -1,1 +1,59 @@
-"","This article needs to be updated. Please help update this article to reflect recent events or newly available information. (March 2019)"
+"Name","Creator","First public release","Latest stable version","Latest release date","Cost, availability","License"
+"OpenJ9 , URL: /wiki/OpenJ9
+IBM , URL: /wiki/IBM
+","IBM , URL: /wiki/IBM
+","?","0.25.0[1]","16 March 2021[2]","Free","Apache License , URL: /wiki/Apache_License
+Eclipse Public License , URL: /wiki/Eclipse_Public_License
+"
+"GCJ , URL: /wiki/GNU_Compiler_for_Java
+","GNU , URL: /wiki/GNU
+","6 September 1998","6.4 (Terminal)","4 July 2017","Free","GPL , URL: /wiki/GPL
+"
+"GraalVM , URL: /wiki/GraalVM
+","Oracle , URL: /wiki/Oracle_Corporation
+","May 2019","21.3.0","19 October 2021","Free","GPL , URL: /wiki/GPL
+"
+"HotSpot , URL: /wiki/HotSpot_(virtual_machine)
+OpenJDK , URL: /wiki/OpenJDK
+","Sun Microsystems , URL: /wiki/Sun_Microsystems
+Oracle , URL: /wiki/Oracle_Corporation
+","27 April 1999","jdk-16","16 March 2021","Free","GPL , URL: /wiki/GPL
+"
+"HotSpot , URL: /wiki/HotSpot_(virtual_machine)
+","Sun Microsystems , URL: /wiki/Sun_Microsystems
+Oracle , URL: /wiki/Oracle_Corporation
+","27 April 1999","jdk 16","16 March 2021","Free","Proprietary , URL: /wiki/Proprietary_software
+"
+"HotSpot , URL: /wiki/HotSpot_(virtual_machine)
+","Sun Microsystems , URL: /wiki/Sun_Microsystems
+Oracle , URL: /wiki/Oracle_Corporation
+","27 April 1999","?","?","Commercial","Proprietary , URL: /wiki/Proprietary_software
+"
+"HotSpot , URL: /wiki/HotSpot_(virtual_machine)
+","Gary Benson[5]","?","?","?","Free","GPL , URL: /wiki/GPL
+"
+"IKVM.NET","Jeroen Frijters","28 June 2004","7.0.4335.0","5 December 2011","Free","zlib License , URL: /wiki/Zlib_License
+"
+"JAmiga , URL: /w/index.php?title=JAmiga&action=edit&redlink=1
+","Peter Werno, Joakim Nordström","19 May 2005[7]","1.2","6 January 2014","Free","GPL , URL: /wiki/GPL
+"
+"JamVM , URL: /wiki/JamVM
+","Robert Lougher","13 March 2003","2.0.0","30 July 2014","Free","GPL , URL: /wiki/GPL
+"
+"Jato VM , URL: /w/index.php?title=Jato_VM&action=edit&redlink=1
+","Pekka Enberg and contributors[8]","?","0.3[9]","4 January 2012[9]","Free","GPL , URL: /wiki/GPL
+"
+"JC virtual machine","Archie L. Cobbs","?","1.4.7","13 November 2005","Free","LGPL , URL: /wiki/LGPL
+"
+"Jikes RVM , URL: /wiki/Jikes_RVM
+","IBM , URL: /wiki/IBM
+","14 October 2001","3.1.4[10]","18 February 2016[10]","Free","Eclipse Public License , URL: /wiki/Eclipse_Public_License
+"
+"Kaffe","Transvirtual Technologies","1996","1.1.9","22 February 2008","Free","GPL , URL: /wiki/GPL
+"
+"Mysaifu JVM , URL: /w/index.php?title=Mysaifu_JVM&action=edit&redlink=1
+","?","16 April 2005[13]","0.4.8[13]","5 March 2010[13]","Free","GPL , URL: /wiki/GPL
+"
+"SableVM","Sable Research Group , URL: /w/index.php?title=Sable_Research_Group&action=edit&redlink=1
+","?","1.13","30 March 2007[14]","Free","LGPL , URL: /wiki/LGPL
+"

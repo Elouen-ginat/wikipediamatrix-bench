@@ -3,10 +3,11 @@
 Fab , URL: /wiki/Semiconductor_device_fabrication
 ","Transistors Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
 ","Fillrate , URL: /wiki/Fillrate
-","GFLOPS , URL: /wiki/GFLOPS
-","GFLOPS , URL: /wiki/GFLOPS
-","GFLOPS , URL: /wiki/GFLOPS
-","Memory","Memory","Memory","Memory","TBP","Bus interface","Release Price (USD)"
+","TFLOPS , URL: /wiki/TFLOPS
+","TFLOPS , URL: /wiki/TFLOPS
+","TFLOPS , URL: /wiki/TFLOPS
+","Memory","Memory","Memory","Memory","W , URL: /wiki/Watt
+","Bus interface","Graphic output Port","Release Price (USD)"
 "Codename , URL: /wiki/Codename
 ","Launch","Architecture , URL: /wiki/Microarchitecture
 Fab , URL: /wiki/Semiconductor_device_fabrication
@@ -16,11 +17,13 @@ Fab , URL: /wiki/Semiconductor_device_fabrication
 ","Half , URL: /wiki/Half-precision_floating-point_format
 ","Single , URL: /wiki/Single_precision_floating-point_format
 ","Double , URL: /wiki/Double_precision_floating-point_format
-","Bus type & width","GiB , URL: /wiki/Gibibyte
+","bit , URL: /wiki/Bit
+","GiB , URL: /wiki/Gibibyte
 ","MT/s , URL: /wiki/Transfer_(computing)
 ","GB , URL: /wiki/Gigabyte
-","TBP","Bus interface","Release Price (USD)"
-"Radeon Vega Frontier Edition (Air Cooled)[327][328]","27 June 2017","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
-","12.5×109 484 mm2","4096:256:64","1382","409.6","102.4","22643","11321","707.6","HBM2 2048-bit","16","1890","483.8","300 W","PCIe 3.0 ×16","$999"
-"Radeon Vega Frontier Edition (Liquid Cooled)[327][328]","27 June 2017","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
-","12.5×109 484 mm2","4096:256:64","1600","409.6","102.4","26214","13107","819.2","HBM2 2048-bit","16","1890","483.8","350 W","PCIe 3.0 ×16","$1499"
+","W , URL: /wiki/Watt
+","Bus interface","Graphic output Port","Release Price (USD)"
+"Radeon Pro WX 3200 (Polaris)[329]","July 2019","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","","640:40:? (10)","","","","SP","1.66","0.104","GDDR5 128","4","6000","96","50","PCIe 3.0 ×8","4x mini-DP 1.4","$200"
+"Radeon Pro WX 8200 (Vega) [330]","August 2018","GCN 5th gen , URL: /wiki/Graphics_Core_Next#fifth
+","12500×106 484mm2","3584:224:64 (56)","1200 1530","342.7","97.92","2x SP","10.967","1/16 SP","HBM2 2048","8","2000","512","<230","PCIe 3.0 ×16","4x mini-DP 1.4","$999"

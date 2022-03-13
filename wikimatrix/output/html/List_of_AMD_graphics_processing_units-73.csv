@@ -1,35 +1,28 @@
 "Codename , URL: /wiki/Codename
-","Launch","Architecture , URL: /wiki/Microarchitecture
+","Release Date","Architecture , URL: /wiki/Microarchitecture
 Fab , URL: /wiki/Semiconductor_device_fabrication
-","Transistors Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
+","Transistors & Die Size","Core","Core","Fillrate , URL: /wiki/Fillrate
 ","Fillrate , URL: /wiki/Fillrate
 ","GFLOPS , URL: /wiki/GFLOPS
 ","GFLOPS , URL: /wiki/GFLOPS
-","Memory","Memory","Memory","Memory","W , URL: /wiki/Watt
-","Bus interface","Release Price (USD)"
+","Memory","Memory","Memory","Memory","TDP , URL: /wiki/Thermal_Design_Power
+","Bus interface"
 "Codename , URL: /wiki/Codename
-","Launch","Architecture , URL: /wiki/Microarchitecture
+","Release Date","Architecture , URL: /wiki/Microarchitecture
 Fab , URL: /wiki/Semiconductor_device_fabrication
-","Transistors Die Size","Config[e]","MHz , URL: /wiki/Hertz
+","Transistors & Die Size","Config[e]","MHz , URL: /wiki/Hertz
 ","GT , URL: /wiki/Texel_(graphics)
 ","GP , URL: /wiki/Pixel
 ","Single , URL: /wiki/Single_precision_floating-point_format
 ","Double , URL: /wiki/Double_precision_floating-point_format
-","bit , URL: /wiki/Bit
-","GiB , URL: /wiki/Gibibyte
+","Bus type & width","GiB , URL: /wiki/Gibibyte
 ","MT/s , URL: /wiki/Transfer_(computing)
 ","GB , URL: /wiki/Gigabyte
-","W , URL: /wiki/Watt
-","Bus interface","Release Price (USD)"
-"Radeon Pro WX 2100 (Mobile) (Polaris 12)[369]","March 2017","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
-","2.2×109 101 mm2","512:32:16:8","?","?","?","1250","78 1/16 SP","GDDR5 64-bit","2","6000","48","35","PCIe 3.0 ×16","$149"
-"Radeon Pro WX 3100 (Mobile) (Polaris 12)[371][372]","March 2017","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
-","2.2×109 101 mm2","512:32:16:8","?","?","?","1250","78 1/16 SP","GDDR5 128-bit","4","6000","96","50","PCIe 3.0 ×16","$199"
-"Radeon Pro WX 4130 Mobile (Polaris 11)[373]","March 2017","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
-","3.0×109 123 mm2","640:40:16:10","1000 1050","16.85","42.12","1348","84.24 1/16 SP","GDDR5 128-bit","4","6000","96","50","PCIe 3.0 ×16","Unknown"
-"Radeon Pro WX 4150 Mobile (Polaris 11)[374]","March 2017","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
-","3.0×109 123 mm2","896:56:16:14","1000 1050","16.85","58.97","1887","118 1/16 SP","GDDR5 128-bit","4","6000","96","50","PCIe 3.0 ×16","Unknown"
-"Radeon Pro WX 4170 Mobile (Polaris 11)[375]","March 2017","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
-","3.0×109 123 mm2","1024:64:16:16","1000 1050","16.85","67.39","2157","135 1/16 SP","GDDR5 128-bit","4","7000","112","50","PCIe 3.0 ×16","$399"
-"Radeon Pro WX 7100 Mobile (Polaris 10)[376]","March 2017","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
-","5.7×109 232 mm2","2304:144:32:36","1188","39.78","179.0","5728","358 1/16 SP","GDDR5 256-bit","8","5000","160","130","PCIe 3.0 ×16","$799"
+","TDP , URL: /wiki/Thermal_Design_Power
+","Bus interface"
+"Radeon Pro 450 [377][378][379][380][381]","October 2016","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","3.0×109 123 mm2","640:40:16 10 CU","725 775","29 31","11.6 12.4","928 992","1/16 SP","GDDR5 128-bit","2","5000","80","35 W","PCIe 3.0 ×16"
+"Radeon Pro 455 [377][378][379][382]","October 2016","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","3.0×109 123 mm2","768:48:16 12 CU","850","40.8","13.6","1305.6","1/16 SP","GDDR5 128-bit","2","5000","80","35 W","PCIe 3.0 ×16"
+"Radeon Pro 460 [377][378][379][383]","October 2016","GCN 4th gen , URL: /wiki/Graphics_Core_Next#fourth
+","3.0×109 123 mm2","1024:64:16 16 CU","850 910","54.4 58.2","13.6 14.56","1740.8 1863.7","1/16 SP","GDDR5 128-bit","4","5000","80","35 W","PCIe 3.0 ×16"

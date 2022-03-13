@@ -1,60 +1,11 @@
-"","Imports , URL: /wiki/Imports
-","Imports , URL: /wiki/Imports
-","Imports , URL: /wiki/Imports
-","Imports , URL: /wiki/Imports
-","Imports , URL: /wiki/Imports
-","Imports , URL: /wiki/Imports
-","Imports , URL: /wiki/Imports
-","Exports , URL: /wiki/Exports
-"
-"","USGS DEM , URL: /wiki/USGS_DEM
-","USGS SDTS , URL: /wiki/Spatial_Data_Transfer_Standard
-","LandXML","GeoTIFF , URL: /wiki/GeoTIFF
-","Shapefile , URL: /wiki/Shapefile
-","OSM , URL: /wiki/OpenStreetMap
-","others","Exports , URL: /wiki/Exports
-"
-"3ds Max , URL: /wiki/3ds_Max
-","Yes[21]","Yes[21]","Yes[21]","?","?","?","",""
-"AC3D , URL: /wiki/AC3D
-","?","?","?","?","?","?","",""
-"Blender , URL: /wiki/Blender_(software)
-","?","?","?","(Blender GIS addon)","(Blender GIS addon)","?","",""
-"Bryce","Yes","Yes","?","?","?","?","VistaPro DEM","USDS DEM"
-"Electric Image Animation System , URL: /wiki/Electric_Image_Animation_System
-","?","?","?","?","?","?","",""
-"Cinema 4D , URL: /wiki/Cinema_4D
-","Yes","?","?","?","?","?","VistaPro DEM",""
-"Clara.io , URL: /wiki/Clara.io
-","?","?","?","?","?","?","",""
-"Cobalt , URL: /wiki/Cobalt_(CAD_program)
-","?","?","?","?","?","?","",""
-"Houdini , URL: /wiki/Houdini_(software)
-","?","?","?","?","?","Yes[io 11][22]","",""
-"IClone , URL: /wiki/IClone
-","?","?","?","?","?","?","",""
-"Lightwave 3D , URL: /wiki/Lightwave_3D
-","(Ground Control plugin)","?","?","?","?","?","",""
-"MakeHuman , URL: /wiki/MakeHuman
-","?","?","?","?","?","?","",""
-"Maya , URL: /wiki/Maya_(software)
-","?","?","?","?","?","?","",""
-"Metasequoia , URL: /wiki/Metasequoia_(software)
-","?","?","?","?","?","?","",""
-"Modo , URL: /wiki/Modo_(software)
-","?","?","?","?","?","?","",""
-"Remo 3D , URL: /wiki/Remo_3D
-","?","?","?","?","?","?","",""
-"Shade , URL: /wiki/Shade_3D
-","?","?","?","?","?","?","",""
-"Solid Edge , URL: /wiki/Solid_Edge
-","?","?","?","?","?","?","",""
-"SketchUp Make , URL: /wiki/SketchUp
-","Yes[10]","Yes[10]","?","?","?","?","SKP+KMZ","SKP+KMZ[10]"
-"SketchUp , URL: /wiki/SketchUp
-","Yes[10]","Yes[10]","?","?","?","?","SKP+KMZ","SKP+KMZ"
-"E-on Vue , URL: /wiki/E-on_Vue
-","Yes[23]","Yes[23]","?","Yes[23]","?","?","DTED , URL: /wiki/DTED
-",""
-"Wings3D , URL: /wiki/Wings3D
-","?","?","?","?","?","?","",""
+"Application","Curves","Curves","Curves","Curves","Curves","Curves","Curves","Curves","Curves","Curves","Bone","Text","Camera","Light","Speaker"
+"Application","Linear","Quadratic Bézier","Cubic Bézier","B-spline","Cardinal spline","Hermite spline","TCB spline , URL: /wiki/Kochanek%E2%80%93Bartels_spline
+","Smooth-step , URL: /wiki/Smoothstep
+","Akima spline , URL: /wiki/Akima_spline
+","NURBS","Bone","Text","Camera","Light","Speaker"
+"Blender","Bézier curve without subdivision","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes"
+"Maya","Yes","?","?","?","?","?","No","No","No","Yes","Yes","Yes","Yes","Yes","No"
+"3ds Max","Yes","?","Yes","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No"
+"Cinema 4D","Yes","No","Yes","Yes","No","?","No","No","Yes","?","Yes","Yes","Yes","Yes","dropped in R23[26]"
+"LightWave","?","?","?","Yes","?","only in Graph Editor","only in Graph Editor","?","No","?","Yes","Yes","Yes","Yes","?"
+"Shade 3D","?","?","Yes","?","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Sound Object"

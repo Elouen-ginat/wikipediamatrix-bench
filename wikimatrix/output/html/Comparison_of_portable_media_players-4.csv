@@ -1,61 +1,60 @@
-"Product","Manufacturer","Web browser","Wireless synching","Ad hoc","On-demand","Web radio/TV"
-"Archos 5, 7 , URL: /wiki/Archos_Generation_6
-","Archos , URL: /wiki/Archos
-","Opera , URL: /wiki/Opera_(web_browser)#Other_versions
-","","","",""
-"Archos 604 WiFi, 704 WiFi , URL: /wiki/Archos_Generation_4
-","Archos","Opera 8.5","file browsing","No","No",""
-"Archos 605 WiFi, 705 WiFi , URL: /wiki/Archos_Generation_5
-","Archos","Opera 9","file browsing","No","Content Portals , URL: /wiki/Archos#Content_portals
-","Yes"
-"Archos PMA400 , URL: /wiki/Archos_PMA400
-","Archos","Opera","via FTP","Yes","No",""
-"Cowon Q5W , URL: /wiki/Cowon#Cowon_Q5(W)
-","Cowon , URL: /wiki/Cowon
-","IE Mobile , URL: /wiki/Internet_Explorer_Mobile
-","","","","Yes (using Flash-based Internet Radio sites)"
-"Ibiza Rhapsody","Haier , URL: /wiki/Haier
-","Minimo , URL: /wiki/Minimo
-","Yes","No","Rhapsody , URL: /wiki/Rhapsody_(online_music_service)
-","radio only"
-"iPod Touch , URL: /wiki/IPod_Touch
-","Apple Inc. , URL: /wiki/Apple_Inc.
-","Webkit , URL: /wiki/Webkit
-","Yes","Yes","iTunes , URL: /wiki/ITunes
-Spotify , URL: /wiki/Spotify
-","Yes"
-"Samsung Galaxy Player , URL: /wiki/Samsung_Galaxy_Player
-","Samsung , URL: /wiki/Samsung
-","Webkit , URL: /wiki/Webkit
-","","","Android Marketplace , URL: /wiki/Android_Marketplace
-",""
-"Sansa Connect , URL: /wiki/Sansa_Connect
-","SanDisk , URL: /wiki/SanDisk
-","No","","","Yahoo! Music , URL: /wiki/Yahoo!_Music
-",""
-"Sony PSP , URL: /wiki/Sony_PSP
-","Sony , URL: /wiki/Sony
-","NetFront , URL: /wiki/NetFront
-","Yes","Yes","PlayStation Store , URL: /wiki/PlayStation_Store
-","Yes"
-"Sony Walkman X Series , URL: /wiki/Walkman_X_Series
-","Sony , URL: /wiki/Sony
-","NetFront , URL: /wiki/NetFront
-","No","Yes","","Yes"
-"ZEN X-Fi , URL: /wiki/Creative_Zen_X-FI
-","Creative , URL: /wiki/Creative_Technology
-","No","media server","No","Creative MediaBox","No"
-"Zune 4, 8 , URL: /wiki/Zune_4,_8
-","Microsoft , URL: /wiki/Microsoft
-","No","Yes","Yes","Zune Marketplace , URL: /wiki/Zune_Marketplace
-",""
-"Zune 30 , URL: /wiki/Zune_30
-","Microsoft","No","Yes","Yes","Zune Marketplace , URL: /wiki/Zune_Marketplace
-",""
-"Zune 80, 120 , URL: /wiki/Zune_80,_120
-","Microsoft","No","Yes","Yes","Zune Marketplace , URL: /wiki/Zune_Marketplace
-",""
-"Zune HD , URL: /wiki/Zune_HD
-","Microsoft","IE Mobile , URL: /wiki/Internet_Explorer_Mobile
-","Yes","Yes","Zune Marketplace , URL: /wiki/Zune_Marketplace
-",""
+"Name","MP3 , URL: /wiki/MP3
+","FairPlay , URL: /wiki/FairPlay
+","ALAC , URL: /wiki/Apple_Lossless
+","AAC , URL: /wiki/Advanced_Audio_Coding
+","WMA-DRM , URL: /wiki/Windows_Media_Audio#Digital_rights_management
+","WMA Lossless , URL: /wiki/Windows_Media_Audio_9_Lossless
+","WMA , URL: /wiki/Windows_Media_Audio
+","WAV , URL: /wiki/WAV
+","Audible , URL: /wiki/Audible.com
+","Ogg Vorbis , URL: /wiki/Vorbis
+","FLAC , URL: /wiki/FLAC
+","Others"
+"Archos 105","Yes","No","No","No","Yes","No","Yes","Yes","No","No","No","No"
+"Archos 405","Yes","No","No","No[90]","Yes","No","Yes","Yes","No","No","No","AC3 , URL: /wiki/Dolby_Digital
+"
+"Archos 5","Yes","No","No","No[90]","Yes","No","Yes","Yes","No","Yes","Yes","AC3 , URL: /wiki/Dolby_Digital
+"
+"Archos 605 WiFi / GPS","Yes","No","No","No[90]","Yes","No","Yes","Yes","No","No","No","AC3 , URL: /wiki/Dolby_Digital
+"
+"Archos 705 WiFi","Yes","No","No","No[90]","Yes","No","Yes","Yes","No","No","No","AC3 , URL: /wiki/Dolby_Digital
+"
+"Cowon A3","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","APE , URL: /wiki/Monkey%27s_Audio
+MPC , URL: /wiki/Musepack
+PCM , URL: /wiki/Pulse-code_modulation
+TTA , URL: /wiki/TTA_(codec)
+WV , URL: /wiki/WavPack
+"
+"Cowon D2","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","APE"
+"Cowon Q5W","Yes","No","No","No","Yes","Yes","Yes","Yes","No","Yes","Yes","APE, MPC"
+"Gigabeat T-Series","Yes","No","No","No","Yes","Yes","Yes","Yes","No","No","No","No"
+"GP2X F-200","Yes","No","No","No","No","No","No[91]","No","No","Yes","No[92]","MP2 , URL: /wiki/MPEG-1_Audio_Layer_II
+"
+"iPod","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","No","No","AIFF , URL: /wiki/Audio_Interchange_File_Format
+"
+"iriver clix 2G","Yes","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"PSP Slim & Lite","Yes","No","No","Yes","No","No","Yes","Yes","No","No","No","ATRAC , URL: /wiki/ATRAC
+"
+"Samsung Galaxy Player","Yes","No","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","No"
+"Samsung T10","Yes","No","No","No","Yes","No","Yes","No","No","Yes","No","No"
+"Samsung P2","Yes","No","No","Yes","Yes","No","Yes","No","No","Yes","No","No"
+"Sansa Fuze","Yes","No","No","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Unknown"
+"Sansa Fuze+","Yes","No","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Unknown"
+"Walkman NWZ-A810 series","Yes","No","No","Yes","Yes","No","Yes","Yes","No","No","No","No"
+"ZEN","Yes","No","Yes","Yes","Yes","No","Yes","Yes","Yes","No","No","No"
+"ZEN Vision W","Yes","No","No","No","Yes","No[94]","Yes","Yes","Yes","No","No","No"
+"Zune","Yes","No","No","Yes","Yes","Yes","Yes","No","Yes","No","No","WMA Pro Stereo , URL: /wiki/WMA_Pro
+"
+"ZVUE 260","Yes","No","No","No","Yes","No","Yes","Yes","No","Yes","No","MP2"
+"","MP3 , URL: /wiki/MP3
+","AAC-DRM , URL: /wiki/FairPlay
+","ALAC , URL: /wiki/Apple_Lossless
+","AAC , URL: /wiki/Advanced_Audio_Coding
+","WMA-DRM , URL: /wiki/Windows_Media_Audio#Digital_rights_management
+","WMA Lossless , URL: /wiki/Windows_Media_Audio_9_Lossless
+","WMA , URL: /wiki/Windows_Media_Audio
+","WAV , URL: /wiki/WAV
+","Audible , URL: /wiki/Audible.com
+","Ogg Vorbis , URL: /wiki/Vorbis
+","FLAC , URL: /wiki/FLAC
+","Others"

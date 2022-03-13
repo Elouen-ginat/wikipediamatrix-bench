@@ -1,126 +1,166 @@
-"File system","Sparse files , URL: /wiki/Sparse_file
-","Block suballocation , URL: /wiki/Block_suballocation
-","Tail packing , URL: /wiki/Tail_packing
-","Extents , URL: /wiki/Extent_(file_systems)
-","Variable file block size[ch]","Allocate-on-flush , URL: /wiki/Allocate-on-flush
-","Copy on write , URL: /wiki/Copy_on_write
-","Trim , URL: /wiki/Trim_(computing)
+"File system","DOS , URL: /wiki/DOS
+","Linux , URL: /wiki/Linux
+","macOS , URL: /wiki/MacOS
+","Windows 9x , URL: /wiki/Windows_9x
+","Windows NT , URL: /wiki/Windows_NT
+","""classic"" Mac OS , URL: /wiki/%22classic%22_Mac_OS
+","FreeBSD , URL: /wiki/FreeBSD
+","OS/2 , URL: /wiki/OS/2
+","BeOS , URL: /wiki/BeOS
+","Minix , URL: /wiki/Minix
+","Solaris , URL: /wiki/Solaris_(operating_system)
+","z/OS , URL: /wiki/Z/OS
 "
-"DECtape , URL: /wiki/DECtape
-","No","No","No","No","No","No","No","No"
-"BeeGFS , URL: /wiki/BeeGFS
-","Yes","No","No","Yes","Yes","Yes","Yes","?"
-"Level-D","No","No","No","Yes","No","No","No","?"
 "APFS , URL: /wiki/APFS
-","Yes","?","?","Yes","?","Yes","Yes","Yes[74][75]"
-"Version 6 Unix file system (V6FS)","Yes","No","No","No","No","No","?","No"
-"Version 7 Unix file system (V7FS)","Yes","No","No","No","No","No","?","No"
+","No","Partial (read-only with apfs-fuse[83] or linux-apfs[84])","Yes (Since macOS Sierra)","No","No","No","No","No","No","No","No","No"
+"BeeGFS , URL: /wiki/BeeGFS
+","No","Yes","?","No","No","No","No","No","?","?","?","No"
+"DECtape , URL: /wiki/DECtape
+","No","No","No","No","No","No","No","No","No","No","No","No"
+"Level-D","No","?","?","No","No","No","No","No","No","No","?","?"
+"RT-11 , URL: /wiki/RT-11
+","No","No","No","No","No","No","No","No","No","No","No","No"
+"Version 6 Unix file system (V6FS)","No","?","No","No","No","No","No","No","No","No","No","No"
+"Version 7 Unix file system (V7FS)","No","Yes","?","No","No","No","No","No","?","?","?","?"
 "exFAT , URL: /wiki/ExFAT
-","No","No","No","Partial (only if the file fits into one contiguous block range)","No","No","No","Yes (Linux)"
+","No","FUSE , URL: /wiki/Filesystem_in_Userspace
+","Yes","No","Windows XP , URL: /wiki/Windows_XP
+2003 , URL: /wiki/Windows_Server_2003
+Windows Vista , URL: /wiki/Windows_Vista
+","No","FUSE , URL: /wiki/Filesystem_in_Userspace
+","No","No","No","FUSE , URL: /wiki/Filesystem_in_Userspace
+","No"
 "FAT12 , URL: /wiki/FAT12
-","Partial (only inside of compressed volumes)[76]","Stacker 3 , URL: /wiki/Stacker_3
-4 , URL: /wiki/Stacker_4
-DriveSpace 3 , URL: /wiki/DriveSpace_3
-","No","Partial (only inside of compressed volumes)[77]","No","No","No","Yes (Linux)"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Partial (via dosdir, dosread, doswrite)","Yes","?"
 "FAT16 , URL: /wiki/FAT16
 FAT16B , URL: /wiki/FAT16B
 FAT16X , URL: /wiki/FAT16X
-","Partial (only inside of compressed volumes)[76]","Stacker 3 , URL: /wiki/Stacker_3
-4 , URL: /wiki/Stacker_4
-DriveSpace 3 , URL: /wiki/DriveSpace_3
-","No","Partial (only inside of compressed volumes)[77]","No","No","No","Yes (Linux)"
+","Yes (FAT16 from DOS 3.0, FAT16B from DOS 3.31, FAT16X from DOS 7.0)","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Partial (via dosdir, dosread, doswrite, not FAT16X)","Yes","?"
 "FAT32 , URL: /wiki/FAT32
 FAT32X , URL: /wiki/FAT32X
-","No","No","No","No","No","No","No","Yes (Linux)"
+","Yes (from DOS 7.10)","Yes","Yes","Windows 95 OSR2 , URL: /wiki/Windows_95_OSR2
+","Windows 2000 , URL: /wiki/Windows_2000
+","Yes?","Yes","Yes","Yes","No","Yes","?"
 "GFS , URL: /wiki/Global_File_System
-","Yes","No","Partial[ci]","No","No","No","?","Yes"
+","No","Yes","?","No","No","No","No","?","?","?","?","?"
 "HPFS , URL: /wiki/High_Performance_File_System
-","No","No","No","Yes","No","No","?","Yes (Linux)"
+","Partial (with third-party drivers)","Yes","?","No","NT 3.1 , URL: /wiki/Windows_NT_3.1
+4.0 , URL: /wiki/Windows_NT_4
+","?","Yes","OS/2 1.2 , URL: /wiki/OS/2_1.2
+","?","No","?","?"
 "NTFS , URL: /wiki/NTFS
-","Yes","Partial","No","Yes","No","No","?","Yes (NT 6.1+; Linux)"
+","Partial (with third-party drivers)","ntfs-3g , URL: /wiki/Ntfs-3g
+","Paragon NTFS , URL: /w/index.php?title=Paragon_NTFS&action=edit&redlink=1
+ntfs-3g , URL: /wiki/Ntfs-3g
+","Paragon NTFS for Win98 , URL: /w/index.php?title=Paragon_NTFS_for_Win98&action=edit&redlink=1
+DiskInternals NTFS Reader , URL: /w/index.php?title=DiskInternals_NTFS_Reader&action=edit&redlink=1
+","Yes","No","ntfs-3g , URL: /wiki/Ntfs-3g
+","?","ntfs-3g , URL: /wiki/Ntfs-3g
+","No","ntfs-3g , URL: /wiki/Ntfs-3g
+","?"
+"HFS , URL: /wiki/Hierarchical_File_System
+","No","Yes","No write support since Mac OS X 10.6 and no support at all since macOS 10.15","No","Yes with Paragon HFS+ [86]","Yes","No","?","Yes","No","?","No"
 "HFS Plus , URL: /wiki/HFS_Plus
-","No","No","No","Yes","No","No","?","Yes (macOS)"
+","No","Partial - writing support only to unjournalled FS","Yes","No","Yes with Paragon HFS+ [86]","Mac OS 8.1 , URL: /wiki/Mac_OS_8.1
+","No","?","with addon","No","?","No"
 "FFS , URL: /wiki/Berkeley_Fast_File_System
-","Yes","8:1[cj]","No","No","No","No","?","No"
+","No","?","Yes","No","?","?","Yes","?","?","?","?","?"
 "UFS1 , URL: /wiki/UFS1_(file_system)
-","Yes","8:1[cj]","No","No","No","No","?","No"
+","No","Partial - read only","Yes","No","ufs2tools , URL: /w/index.php?title=Ufs2tools&action=edit&redlink=1
+","?","Yes","No","?","?","Yes","?"
 "UFS2 , URL: /wiki/UFS2_(file_system)
-","Yes","8:1[cj]","No","No","Yes","No","?","Yes[78][79]"
+","No","Yes","Yes","No","ufs2tools , URL: /w/index.php?title=Ufs2tools&action=edit&redlink=1
+","?","Yes","No","?","?","?","?"
 "LFS , URL: /wiki/Log-structured_File_System_(BSD)
-","Yes","8:1[cj]","No","No","No","No","Yes","?"
+","No","?","?","No","No","?","No","No","?","?","?","?"
 "ext , URL: /wiki/Extended_file_system
-","Yes","No","No","No","No","No","No","No"
+","No","Yes - until 2.1.20","No","No","No","No","No","No","No","No","No","No"
 "Xiafs , URL: /wiki/Xiafs
-","Yes","No","No","No","No","No","?","?"
+","No","Yes - until 2.1.20 Experimental port available to 2.6.32 and later [87][88]","No","No","No","No","No","No","No","No","No","No"
 "ext2 , URL: /wiki/Ext2
-","Yes","No[ck]","No","No","No","No","No","Yes"
+","No","Yes","ext2fsx , URL: /w/index.php?title=Ext2fsx&action=edit&redlink=1
+","Partial (read-only, with explore2fs)[90]","Yes with Paragon ExtFS [91] or partial with Ext2 IFS[92] or ext2fsd[93]","No","Yes","No","Yes","?","?","?"
 "ext3 , URL: /wiki/Ext3
-","Yes","No[ck]","No","No","No","No","No","Yes"
+","No","Yes","ext2fsx , URL: /w/index.php?title=Ext2fsx&action=edit&redlink=1
+","Partial (read-only, with explore2fs)[90]","Yes with Paragon ExtFS [91] or partial with Ext2 IFS[92] or ext2fsd[93]","Partial (read only)[citation needed]","Yes[94]","No","with addon","?","Yes","?"
 "ext4 , URL: /wiki/Ext4
-","Yes","No[ck]","No","Yes","No","Yes","No","Yes"
+","No","Yes","Yes with Paragon ExtFS [89]","No","Yes with Paragon ExtFS [91] or partial with Ext2 IFS[92] or ext2fsd[93]","?","Yes since FreeBSD 12.0[94]","No","with addon","?","?","?"
 "NOVA , URL: /wiki/NOVA_(filesystem)
-","Yes","No","No","Yes","No","No","Yes","?"
-"F2FS , URL: /wiki/F2FS
-","Yes","No","No","Partial[cl]","No","Yes","Yes","Yes[80]"
+","No","Yes","No","No","No","No","No","No","No","No","No","No"
 "Lustre , URL: /wiki/Lustre_(file_system)
-","Yes","No","No","Yes","No","Yes","?","?"
+","No","Yes[95]","?","No","No","?","No","?","?","?","Yes","?"
 "NILFS , URL: /wiki/NILFS
-","Yes","No","No","No","No","Yes","Yes","Yes (Linux NILFS2)"
+","No","Yes as an external kernel module","?","No","?","?","No","?","?","?","?","?"
+"F2FS , URL: /wiki/F2FS
+","No","Yes","No","No","No","No","No","No","No","No","No","No"
 "ReiserFS , URL: /wiki/ReiserFS
-","Yes","Yes[cm]","Yes","No","No","No","?","?"
+","No","Yes","?","No","No","?","Partial - Read Only from 6.0 to 10.x[96] and dropped in 11.0[97][98]","?","with addon","?","?","?"
 "Reiser4 , URL: /wiki/Reiser4
-","Yes","Yes[cm]","Yes","Yes[cn]","No","Yes","?","Testing[81]"
+","No","Yes with a kernel patch","?","No","No","?","No","?","?","?","?","?"
+"SpadFS","No","Yes","No","No","No","No","?","No","No","No","No","No"
 "OCFS , URL: /wiki/OCFS
-","?","No","No","Yes","No","No","?","?"
+","No","Yes","?","No","No","?","No","No","?","?","?","?"
 "OCFS2 , URL: /wiki/OCFS2
-","Yes","No","No","Yes","No","No","?","Yes (Linux)"
+","No","Yes","?","No","No","?","No","No","?","?","?","?"
 "XFS , URL: /wiki/XFS
-","Yes","No","No","Yes","No","Yes","Yes, on request[82]","Yes (Linux)"
+","No","Yes","?","No","No","?","Partial","?","with addon (read only)","?","?","?"
 "JFS , URL: /wiki/JFS_(file_system)
-","Yes","Yes","No","Yes","No","No","?","Yes (Linux)"
+","No","Yes","?","No","No","?","No","Yes","?","?","?","?"
 "QFS , URL: /wiki/QFS
-","?","Yes","No","No","No","No","?","?"
-"BFS , URL: /wiki/Be_File_System
-","?","No","No","Yes","No","No","?","Haiku , URL: /wiki/Haiku_(operating_system)
-"
+","No","Partial - client only[99]","?","No","No","?","No","No","?","?","Yes","?"
+"Be File System , URL: /wiki/Be_File_System
+","No","Partial - read-only","?","No","No","?","No","No","Yes","?","?","?"
 "NSS , URL: /wiki/Novell_Storage_Services
-","?","No","No","Yes","No","Yes","?","?"
+","No","Yes via EVMS[cr]","?","No","No","?","No","No","?","?","?","?"
 "NWFS , URL: /wiki/NetWare_File_System
-","?","Yes[co]","No","No","No","No","?","?"
+","Partial (with Novell drivers)","?","?","No","No","?","Yes","No","?","?","?","?"
+"ODS-2 , URL: /wiki/ODS-2
+","No","?","?","No","No","?","No","No","?","?","?","?"
 "ODS-5 , URL: /wiki/ODS-5
-","?","No","No","Yes","No","No","?","?"
-"VxFS , URL: /wiki/Veritas_File_System
-","Yes","?","No","Yes","No","No","?","?"
+","No","?","?","No","No","?","No","No","?","?","?","?"
 "UDF , URL: /wiki/Universal_Disk_Format
-","Yes","No","No","Yes","No","?[cp]","write once read many , URL: /wiki/Write_once_read_many
-","No"
+","No","Yes","Yes","?","Yes","?","Yes","?","?","?","Yes","?"
+"VxFS , URL: /wiki/Veritas_File_System
+","No","Yes","?","No","No","?","No","No","?","?","Yes","?"
 "Fossil , URL: /wiki/Fossil_(file_system)
-","?","No","No","No","No","No","?","?"
+","No","Yes[cs]","Yes[cs]","No","No","No","Yes[cs]","No","No","No","Yes[cs]","?"
 "ZFS , URL: /wiki/ZFS
-","Yes","Yes","No","No","Yes","Yes","Yes","Yes"
+","No","FUSE , URL: /wiki/Filesystem_in_Userspace
+","Yes with Read/Write Developer Preview[102]","No","Yes[103]","No","Yes","No","No","No","Yes","No"
 "Btrfs , URL: /wiki/Btrfs
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","No","Yes","?","No","Yes with WinBtrfs[104]","?","?","?","?","?","?","?"
 "VMFS2 , URL: /wiki/VMFS2
-","Yes","Yes","No","No","No","No","?","?"
+","No","?","?","No","No","?","No","No","?","?","?","?"
 "VMFS3 , URL: /wiki/VMFS3
-","Yes","Yes","No","No","No","No","?","?"
+","No","?","?","No","No","?","No","No","?","?","?","?"
+"IBM HFS , URL: /wiki/IBM_HFS
+","No","No","No","No","No","No","No","No","No","No","No","Yes"
+"IBM zFS , URL: /wiki/IBM_zFS
+","No","No","No","No","No","No","No","No","No","No","No","Yes"
 "ReFS , URL: /wiki/ReFS
-","Yes","?","?","?","No","?","Yes","Yes (NT 6.1+)"
+","No","Partial - with Paragon ReFS for Linux","?","No","Windows Server 2012 , URL: /wiki/Windows_Server_2012
+Windows 8.1 , URL: /wiki/Windows_8.1
+","?","?","?","?","?","?","?"
 "ISO 9660 , URL: /wiki/ISO_9660
-","No","No","No","Yes[cq]","No","No","No","No"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
 "Rock Ridge , URL: /wiki/Rock_Ridge
-","No","No","No","Yes[cq]","No","No","No","No"
-"Joliet ("CDFS") , URL: /wiki/Joliet_(file_system)
-","No","No","No","Yes[cq]","No","No","No","No"
+","No","Yes","Yes","No","No","No","Yes","No","No","Yes","Yes","?"
+"Joliet (""CDFS"") , URL: /wiki/Joliet_(file_system)
+","No","Yes","Yes","Yes","Yes","?","Yes","Yes","Yes","?","Yes","?"
 "SquashFS , URL: /wiki/SquashFS
-","Yes","No","Yes","No","No","No","No","No"
+","No","Yes","Partial (There are ports of unsquashfs and mksquashfs.)","No","Partial (There are ports of unsquashfs and mksquashfs.)","No","Partial (There are ports of unsquashfs and mksquashfs and fusefs-port.[105][106])","No","No","No","No","No"
 "BlueStore/Cephfs , URL: /wiki/Ceph_(software)
-","Yes","?","?","?","?","No","Yes","Yes"
-"File system","Sparse files , URL: /wiki/Sparse_file
-","Block suballocation , URL: /wiki/Block_suballocation
-","Tail packing , URL: /wiki/Tail_packing
-","Extents , URL: /wiki/Extent_(file_systems)
-","Variable file block size[ch]","Allocate-on-flush , URL: /wiki/Allocate-on-flush
-","Copy on write , URL: /wiki/Copy_on_write
-","Trim , URL: /wiki/Trim_(computing)
+","No","Yes","No[ct]","No","No[cu]","No","No[ct]","No","No","No","No","No"
+"File system","DOS , URL: /wiki/DOS
+","Linux , URL: /wiki/Linux
+","macOS , URL: /wiki/MacOS
+","Windows 9x , URL: /wiki/Windows_9x
+","Windows NT , URL: /wiki/Windows_NT
+","""classic"" Mac OS , URL: /wiki/%22classic%22_Mac_OS
+","FreeBSD , URL: /wiki/FreeBSD
+","OS/2 , URL: /wiki/OS/2
+","BeOS , URL: /wiki/BeOS
+","Minix , URL: /wiki/Minix
+","Solaris , URL: /wiki/Solaris_(operating_system)
+","z/OS , URL: /wiki/Z/OS
 "

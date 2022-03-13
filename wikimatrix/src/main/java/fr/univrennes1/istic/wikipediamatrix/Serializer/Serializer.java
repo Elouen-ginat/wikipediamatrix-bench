@@ -23,7 +23,7 @@ public abstract class Serializer {
         this.save_path = Paths.get(save_path);
     }
 
-    private Path getPath(String file_name) {
+    public Path getPath(String file_name) {
         // Remove invalid characters
         String file_name_norm = file_name.replaceAll(invalid_char, "");
         // Check if the name has been changed
@@ -42,7 +42,7 @@ public abstract class Serializer {
         return csv_path;
     }
 
-    public void saveToCSV(String[][] string_table, String file_name) {
+    public void saveToCSV(String[][] string_table, String file_name) throws IOException{
         Path csv_path = this.getPath(file_name);
         Writer writer = null;
         // Open the csv file to write in
@@ -53,15 +53,16 @@ public abstract class Serializer {
             writer = new BufferedWriter(stream_writer);
         } catch (IOException e) {
             String message = "Error opening file: " + csv_path.toString();
-            App.LOGGER.error(message, e);
-            return;
+            throw new IOException(message);
         }
         // Init the string builder being the content of the csv
         StringBuilder content = new StringBuilder();
         for (int i = 0; i < string_table.length; i++) {
             for (String st : string_table[i]) {
+                // Escape doubles quotes by adding a double quote see (https://datatracker.ietf.org/doc/html/rfc4180)
+                String st_quotes = st.replace("\"", "\"\"");
                 // Encapsulate data in quotes "" to prevent comma in data
-                content.append('"'+st+'"');
+                content.append('"'+st_quotes+'"');
                 content.append(",");
             }
             int length = content.length();
@@ -81,9 +82,12 @@ public abstract class Serializer {
             writer.close();
         } catch (IOException e) {
             String message = "Error writing to file: " + csv_path.toString();
-            App.LOGGER.error(message, e);
-            return;
+            throw new IOException(message);
         }
     }
+
+    public static String mkCSVFileName(String url, int n) {
+		return url.trim() + "-" + n + ".csv";
+	}
     
 }

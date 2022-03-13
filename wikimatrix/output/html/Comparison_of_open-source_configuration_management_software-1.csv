@@ -1,80 +1,58 @@
-"","Language","License","Mutual auth , URL: /wiki/Mutual_authentication
-","Encryption , URL: /wiki/Encryption
-","Verify mode","Agent-less","Has a GUI","First release","Latest stable release"
+"","AIX , URL: /wiki/IBM_AIX
+","*BSD , URL: /wiki/Berkeley_Software_Distribution
+","HP-UX , URL: /wiki/HP-UX
+","Linux , URL: /wiki/Linux
+","OS X , URL: /wiki/OS_X
+","Solaris , URL: /wiki/Solaris_(operating_system)
+","Windows , URL: /wiki/Microsoft_Windows
+","Others"
 "Ansible , URL: /wiki/Ansible_(software)
-","Python , URL: /wiki/Python_(programming_language)
-","GPLv3+ , URL: /wiki/GNU_General_Public_License#Version_3
-","Yes[1]","Yes[2]","Yes","Yes","Yes[3]","2012-03-08","2020-03-05 2.9.6[4][5][6][7]"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes (Need linux control machine)","Yes[103]"
 "Bcfg2 , URL: /wiki/Bcfg2
-","Python","BSD 2-clause , URL: /wiki/SIBSD#2-clause_license_.28.22Simplified_BSD_License.22_or_.22FreeBSD_License.22.29
-","Yes[9]","Yes[10]","Yes[11]","No","Yes[12]","2004-08-11[13]","2015-06-11 1.3.6[13]"
-"Capistrano , URL: /wiki/Capistrano_(software)
-","Ruby , URL: /wiki/Ruby_(programming_language)
-","MIT License , URL: /wiki/MIT_License
-","","Yes[2]","","Yes[2]","No","2005","2017-03-08 4.4.2"
-"cdist , URL: /wiki/Cdist
-","Python","GPLv3+ , URL: /wiki/GNU_General_Public_License#Version_3
-","Yes[1]","Yes[2]","","Yes","","2010","2021-08-24 6.9.8[14]"
-"Chef , URL: /wiki/Chef_(software)
-","Erlang , URL: /wiki/Erlang_(programming_language)
-","Apache 2.0 , URL: /wiki/Apache_License#Version_2.0
-","Yes[15]","Yes[16]","Yes[17][18]","No","Yes","2009-01-15 0.5.0","2019-01-28 14.10.9 (client),[19] 2018-02-13 12.17.33 (server)[20]"
+","Partial[104]","Yes[105]","No","Yes[106]","Partial[107]","Yes","No","No"
 "CFEngine , URL: /wiki/CFEngine
-","C , URL: /wiki/C_(programming_language)
-","GPLv3 , URL: /wiki/GNU_General_Public_License#Version_3
-","Yes[1]","Yes[23]","Yes[24][25][26][27]","No","Yes[28]","1993","2021-12-10 3.19.0,[29] 2021-11-29 3.18.1,[30] 2021-11-29 3.15.5,[31]"
+","Yes","Yes[105]","Yes","Yes","Yes","Yes","Yes (Enterprise version only)","Yes[108]"
+"cdist , URL: /wiki/Cdist
+","","Yes","","Yes","Yes","","No",""
+"Chef , URL: /wiki/Chef_(software)
+","Yes[109]","Yes","Yes","Yes","Yes","Yes","Yes[110]","Yes"
 "ISconf , URL: /wiki/ISconf
-","Python","GPL[32]","Yes[33]","No[34]","","","","1998","2006-08-13 4.2.8.233"
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
 "Juju , URL: /wiki/Juju_(software)
-","Go , URL: /wiki/Go_(programming_language)
-","Affero General Public License , URL: /wiki/Affero_General_Public_License
-","Yes[1]","Yes[10]","No","No","Yes[36]","2010-09-17[37]","2021-06-23 2.9.5[38]"
+","","","","Yes","","","Yes[111]",""
 "LCFG , URL: /wiki/LCFG
-","Perl","GPL","Partial[39]","Partial[40]","No","No","No","1994","Weekly Releases"
-"NOC , URL: /wiki/NOC_(software)
-","Python , URL: /wiki/Python_(programming_language)
-","BSD License 2.0 , URL: /wiki/BSD_Licenses
-","Yes[1]","Yes[2]","Yes","Yes","Yes","2012-03-08","2015-05-20 15.05.1[41]"
-"OCS Inventory , URL: /wiki/OCS_Inventory
-","C++ , URL: /wiki/C%2B%2B
-","GPL","No[42]","Yes[10]","","No","","2003","2014-07-13[43]"
+","No","No","No","Partial[112]","Partial[113]","Partial[114]","No","No"
+"OCS Inventory NG , URL: /wiki/OCS_Inventory_NG
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
 "Opsi , URL: /wiki/Opsi
-","Python, Java","GPL","No","Yes[10]","","No","","2004","2013-03-01 4.0.3"
-"PIKT","C","GPLv2+ , URL: /wiki/GNU_General_Public_License#Version_2
-","Yes[45]","Yes[46]","","No","","1998[47]","2007-09-10 1.19.0"
+","No","No","No","Yes","No","No","Yes","No"
+"PIKT","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes[115]"
 "Puppet , URL: /wiki/Puppet_(software)
-","C++ , URL: /wiki/C%2B%2B
-Clojure , URL: /wiki/Clojure
-","Apache since 2.7.0, GPL before then","Yes[49]","Yes[10]","Yes[50][51]","No","Yes[52]","2005-08-30[53]","2020-06-03 6.16.0 (client),[54] 2020-06-03 6.12.0 (server)[55]"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes[116]","Yes"
 "Quattor , URL: /wiki/Quattor
-","Perl, Python","Apache 2.0[56][57]","Yes[58]","Yes[59]","","","","2005-04-01[60]","2018-07-3 18.6.0[61]"
+","No","No","No","Yes","Partial[117]","Yes","No","No"
 "Radmind , URL: /wiki/Radmind
-","C","BSD[62]","Yes[63]","Yes[64]","","No","","2002-03-26[65]","2008-10-08 1.13.0[66]"
+","Yes","Yes[105][118][119]","No","Yes","Yes","Yes","Yes","No"
 "Rex , URL: /wiki/Rex_(software)
-","Perl , URL: /wiki/Perl_(programming_language)
-","Apache , URL: /wiki/Apache_License
-","Yes[1]","Yes[2]","","Yes","","2010-11-05 0.9.0[67]","2017-12-03 1.6.0[68]"
+","","Yes","","Yes","Yes[120]","Yes","Yes[120]","No"
 "Rudder , URL: /wiki/Rudder_(software)
-","C , URL: /wiki/C_(programming_language)
-Scala , URL: /wiki/Scala_(programming_language)
-Rust , URL: /wiki/Rust_(programming_language)
-","GPLv3 and Apache 2.0[69]","Yes[1]","Yes[10]","Yes[70][71]","No","Yes","2011-10-31","2020-10-28 5.0.20[72]"
+","Yes","Partial[121]","No","Yes","Partial[121]","Partial[122]","Yes","Yes[123]"
 "SmartFrog , URL: /wiki/SmartFrog
-","Java","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
-","Yes[73]","Yes[73]","","No","","2004-02-11","2009-01-26 3.16.004[74][75]"
-"Salt , URL: /wiki/Salt_(software)
-","Python[77]","Apache 2.0[78]","Yes[79]","Yes[79]","Yes","Both[80][81]","Yes[82][83]","2011-03-17 0.6.0[84]","2021-03-31 v3003[85]"
+","No[124]","No[124]","Yes","Yes","Yes","Yes","Yes","No[124]"
+"Salt , URL: /wiki/Salt_(Software)
+","Yes","Yes","Partial[125]","Yes[126]","Yes","Yes[127]","Yes","Partial[125]"
 "Spacewalk , URL: /wiki/Spacewalk_(software)
-","PL/SQL , URL: /wiki/PL/SQL
-","GPLv2","Yes","Yes","","No","","2008-06[86]","2019-01-14 2.9[87]"
+","No[128]","No","No","Yes[129]","No","No[130]","No","No"
 "STAF , URL: /wiki/STAF
-","C++ , URL: /wiki/C%2B%2B
-","CPL , URL: /wiki/Common_Public_License
-","No[89][90]","Partial[91]","","No","","1998-02-16[92]","2012-12-16 3.4.16 [93]"
+","Yes[131]","Yes[132]","Yes[133]","Yes[134]","Yes[135]","Yes[136]","Yes[137]","Yes[138]"
 "Synctool , URL: /wiki/Synctool
-","Python[95]","GPLv2[96]","Yes[97]","Yes[2]","Yes[98]","Yes[99]","","2003[100]","2019-08-11 6.3[101]"
-"Uyuni","PL/SQL , URL: /wiki/PL/SQL
-","GPLv2/Apache 2.0","Yes","Yes","Yes","Both","Yes","2018-06[102]","2020-11-26 2020.11[103]"
-"","Language","License","Mutual auth , URL: /wiki/Mutual_authentication
-","Encrypts , URL: /wiki/Encryption
-","Verify mode","Agent-less","Have a GUI","First release","Latest stable release"
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes[139]"
+"Uyuni","No","No","No","Yes","No","No","No","No"
+"","AIX , URL: /wiki/IBM_AIX
+","*BSD , URL: /wiki/Berkeley_Software_Distribution
+","HP-UX , URL: /wiki/HP-UX
+","Linux , URL: /wiki/Linux
+","OS X , URL: /wiki/OS_X
+","Solaris , URL: /wiki/Solaris_(operating_system)
+","Windows , URL: /wiki/Microsoft_Windows
+","Others"

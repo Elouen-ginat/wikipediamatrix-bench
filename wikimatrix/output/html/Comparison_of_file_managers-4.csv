@@ -1,7 +1,7 @@
-"File Manager","Undo/redo file operation","File compression","File encryption","Rename busy files","File preview","File coloring filter [46]","File selection filter","Paste clipboard as file","File and folder reports","Access control list , URL: /wiki/Access_control_list
-","Mass rename [47]","Run executable files"
+"File Manager","Undo/redo file operation","File compression","File encryption","Rename busy files","File preview","File coloring filter [65]","File selection filter","Paste clipboard as file","File and folder reports","Access control list , URL: /wiki/Access_control_list
+","Mass rename [66]","Run executable files"
 "Altap Salamander , URL: /wiki/Altap_Salamander
-","?","Yes","Yes","?","Yes","Yes","Yes, multiple [48]","?","Yes","Yes [49]","Yes","Yes"
+","?","Yes","Yes","?","Yes","Yes","Yes, multiple [67]","?","Yes","Yes [68]","Yes","Yes"
 "Commander One , URL: /wiki/Commander_One
 ","?","Yes","Yes","Yes","Yes","Yes","Yes","?","No","?","?","?"
 "Directory Opus , URL: /wiki/Directory_Opus
@@ -15,7 +15,7 @@
 "emelFM2 , URL: /wiki/EmelFM2
 ","?","Yes","Yes","Yes","No","?","Yes","No","?","Yes","?","?"
 "FAR Manager , URL: /wiki/FAR_Manager
-","?","Yes","Yes","Yes","Yes","Yes","Yes","Partial [50]","Yes","Plugin","Plugin","?"
+","?","Yes","Yes","Yes","Yes","Yes","Yes","Partial [69]","Yes","Plugin","Plugin","?"
 "File Commander , URL: /wiki/File_Commander
 ","?","Yes","No","No","Yes","Yes","Yes","No","No","No","Yes","?"
 "File Manager , URL: /wiki/File_Manager_(Windows)
@@ -31,19 +31,19 @@
 "GNOME Commander , URL: /wiki/GNOME_Commander
 ","?","Yes","?","?","Yes","Yes","?","?","?","No","Yes","?"
 "Konqueror , URL: /wiki/Konqueror
-","Partial [51]","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[52]","Yes"
+","Partial [70]","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[71]","Yes"
 "Krusader , URL: /wiki/Krusader
-","?","Yes","Yes","Yes","Yes","No","Yes","Yes","?","Yes","Yes[52]","Yes"
+","?","Yes","Yes","Yes","Yes","No","Yes","Yes","?","Yes","Yes[71]","Yes"
 "Midnight Commander , URL: /wiki/Midnight_Commander
-","?","Yes","?","?","?","Yes","Yes","Partial[53]","?","?","Yes","Yes"
+","?","Yes","?","?","?","Yes","Yes","Partial[72]","?","?","Yes","Yes"
 "GNOME Files (Nautilus) , URL: /wiki/GNOME_Files
-","Yes","Yes","No","Yes","Yes","No","No","Partial [54]","No","Yes","No","No [55]"
+","Yes","Yes","No","Yes","Yes","No","No","Partial [73]","No","Yes","No","No [74]"
 "Nemo , URL: /wiki/Nemo_(file_manager)
 ","Yes","Yes","Yes","?","Yes","Yes","?","Yes","?","?","No","Yes"
 "Nomad.NET , URL: /wiki/Nomad.NET
 ","?","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Partial","?"
 "Path Finder , URL: /wiki/Path_Finder
-","?","Yes","No [56]","No","Yes","No","Yes","No","Yes","No","No","?"
+","?","Yes","No [75]","No","Yes","No","Yes","No","Yes","No","No","?"
 "PCManFM , URL: /wiki/PCMan_File_Manager
 ","No","Yes","?","Yes","No","?","?","?","?","?","?","Yes"
 "ROX-Filer , URL: /wiki/ROX-Filer
@@ -55,7 +55,7 @@
 "Total Commander , URL: /wiki/Total_Commander
 ","?","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Log file","Yes","Yes"
 "Windows Explorer , URL: /wiki/Windows_Explorer
-","Yes","Yes","Partial[57]","No","Yes","No","No","Partial [58]","No","Yes [59]","Partial","Yes"
+","Yes","Yes","Partial[76]","No","Yes","No","No","Partial [77]","No","Yes [78]","Partial","Yes"
 "Xandros File Manager , URL: /wiki/Xandros_File_Manager
 ","?","?","?","?","?","?","?","?","?","?","?","?"
 "Xfe , URL: /wiki/Xfe
@@ -63,10 +63,10 @@
 "Xfm , URL: /wiki/Xfm_(file_manager)
 ","?","?","?","?","?","?","?","?","?","?","?","?"
 "xplorer² , URL: /wiki/Xplorer%C2%B2
-","No","Yes","Partial [57]","Partial","Yes","Yes","Yes","Yes","Yes","Yes [60]","Yes","Yes"
+","No","Yes","Partial [76]","Partial","Yes","Yes","Yes","Yes","Yes","Yes [79]","Yes","Yes"
 "XYplorer , URL: /wiki/XYplorer
-","Yes","Yes","Partial [57]","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?"
+","Yes","Yes","Partial [76]","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?"
 "ZTreeWin , URL: /wiki/ZTreeWin
-","?","Yes","Partial [61]","Yes","Yes","Yes","Yes","No","Yes","No","Yes","?"
+","?","Yes","Partial [80]","Yes","Yes","Yes","Yes","No","Yes","No","Yes","?"
 "File Manager","Undo/redo file operation","File compression","File encryption","Rename busy files","File preview","File coloring filter","File selection filter","Paste clipboard as file","File and folder reports","Access control list , URL: /wiki/Access_control_list
 ","Mass rename","Run executable files"

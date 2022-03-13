@@ -1,99 +1,65 @@
-"Languages","Size","First","Last"
-"Ada , URL: /wiki/Ada_(programming_language)
-","name'Length","name'First","name'Last"
-"ALGOL 68 , URL: /wiki/ALGOL_68
-","UPB name - LWB name+1 2 UPB name - 2 LWB name+1 etc.","LWB name 2 LWB name etc.","UPB name 2 UPB name etc."
-"APL , URL: /wiki/APL_(programming_language)
-","⍴ name (⍴ name)[index]","⎕IO","(⍴ name)-~⎕IO (⍴ name)[index]-~⎕IO"
-"AWK , URL: /wiki/AWK
-","length","1","asorti"
-"C# , URL: /wiki/C_Sharp_(programming_language)
-Visual Basic .NET , URL: /wiki/Visual_Basic_.NET
-Windows PowerShell , URL: /wiki/Windows_PowerShell
-F# , URL: /wiki/F_Sharp_(programming_language)
-","name.Length","name.GetLowerBound(dimension)","name.GetUpperBound(dimension)"
-"CFML , URL: /wiki/CFML
-","arrayLen(name) name.len()","1","name.len()"
-"Ch , URL: /wiki/Ch_(computer_programming)
-","max(shape(name))","0","max(shape(name))-1"
-"Common Lisp , URL: /wiki/Common_Lisp
-","(length name)","0","(1- (length name))"
-"D , URL: /wiki/D_(programming_language)
-","name.length","0","name.length-1 $-1"
-"Fortran , URL: /wiki/Fortran
-","SIZE(name)","LBOUND(name)","UBOUND(name)"
-"Go , URL: /wiki/Go_(programming_language)
-","len(name)","0","len(name) - 1"
-"Haskell , URL: /wiki/Haskell_(programming_language)
-","rangeSize (bounds name)","fst (bounds name)","snd (bounds name)"
-"ISLISP , URL: /wiki/ISLISP
-","(length name)","0","(1- (length name))"
-"Icon , URL: /wiki/Icon_(programming_language)
-","*name","1","*name"
-"Cobra , URL: /wiki/Cobra_(programming_language)
-D , URL: /wiki/D_(programming_language)
-Haxe , URL: /wiki/Haxe
-Java , URL: /wiki/Java_(programming_language)
+"Format","Languages"
+"name[first:last]","ALGOL 68 , URL: /wiki/ALGOL_68
+Julia , URL: /wiki/Julia_(programming_language)
+"
+"name[first+(⍳len)-⎕IO]","APL , URL: /wiki/APL_(programming_language)
+"
+"name[first:end:step]","Python , URL: /wiki/Python_(programming_language)
+"
+"name[first:end]","Go , URL: /wiki/Go_(programming_language)
+"
+"name[first..last]","Pascal , URL: /wiki/Pascal_(programming_language)
+Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
+Nim , URL: /wiki/Nim_(programming_language)
+"
+"$name[first..last]","Windows PowerShell , URL: /wiki/Windows_PowerShell
+"
+"@name[first..last]","Perl , URL: /wiki/Perl
+"
+"name[first..last] name[first...end] name[first, len]","Ruby , URL: /wiki/Ruby_(programming_language)
+"
+"copy/part skip name first len","Red , URL: /wiki/Red_(programming_language)
+"
+"name(first..last)","Ada , URL: /wiki/Ada_(programming_language)
+"
+"name(first:last)","Fortran , URL: /wiki/Fortran
+GNU Octave , URL: /wiki/GNU_Octave
+MATLAB , URL: /wiki/MATLAB
+"
+"name[[first;;last;;step]]","Mathematica , URL: /wiki/Mathematica
+Wolfram Language , URL: /wiki/Wolfram_Language
+"
+"name[[first:last]]","S-Lang , URL: /wiki/S-Lang_(programming_library)
+"
+"name.[first..step..last]","F# , URL: /wiki/F_Sharp_(programming_language)
+"
+"name.slice(first, end)","Haxe , URL: /wiki/Haxe
 JavaScript , URL: /wiki/JavaScript
 Scala , URL: /wiki/Scala_(programming_language)
-","name.length","0","name.length - 1"
-"J , URL: /wiki/J_(programming_language)
-","#name","0","<:@#name"
-"Julia , URL: /wiki/Julia_(programming_language)
-","length(name) size(name)","1 first.(axes(name))","end last.(axes(name))"
-"Lingo , URL: /wiki/Lingo_(programming_language)
-","count(name)","1","getLast(name)"
-"LiveCode , URL: /wiki/LiveCode
-","length(name)","1 first","-1 last"
-"Lua , URL: /wiki/Lua_(programming_language)
-","#name","1 by convention; any integer[2]","#name"
-"Mathematica , URL: /wiki/Mathematica
-","Length[name]","1 First[name]","-1 Last[name]"
-"MATLAB , URL: /wiki/MATLAB
-GNU Octave , URL: /wiki/GNU_Octave
-","length(name)","1","end"
-"Nim , URL: /wiki/Nim_(programming_language)
-","name.len","name.low[3]","name.high"
-"Oberon , URL: /wiki/Oberon_(programming_language)
-","LEN(name)","0","LEN(name) - 1"
-"Object Pascal , URL: /wiki/Object_Pascal
-","Length(name)","0 low(name)","Length(name)-1 high(name)"
-"Objective-C , URL: /wiki/Objective-C
-","[name count]","0","[name count] - 1"
-"OCaml , URL: /wiki/OCaml
-","Array.length name","0","Array.length name - 1"
-"Perl , URL: /wiki/Perl
-","scalar(@name)","$[","$#name"
-"PHP , URL: /wiki/PHP
-","count(name)","0","count(name) - 1"
-"Python , URL: /wiki/Python_(programming_language)
-","len(name)","0","-1 len(name) - 1"
-"R , URL: /wiki/R_(programming_language)
-","length(name)","1","length(name)"
-"Raku , URL: /wiki/Raku_(programming_language)
-","@ name.elems","0","@name.end"
-"Red , URL: /wiki/Red_(programming_language)
-","length? name","name/1 first name","last name"
-"Ruby , URL: /wiki/Ruby_(programming_language)
-","name.size","0 name.first","-1 name.size - 1 name.last"
-"Rust , URL: /wiki/Rust_(programming_language)
-","name.len()","0","name.len() - 1"
-"S-Lang , URL: /wiki/S-Lang_(programming_library)
-","length(name)","0","-1 length(name)-1"
-"Scheme , URL: /wiki/Scheme_(programming_language)
-","(vector-length vector)","0","(- (vector-length vector) 1)"
-"Smalltalk , URL: /wiki/Smalltalk
-","name size","1 name first","name size name last"
-"Swift , URL: /wiki/Swift_(programming_language)
-","name.count","0","name.count - 1"
-"Unicon , URL: /wiki/Unicon_(programming_language)
-","*name","1","*name"
-"Visual Basic , URL: /wiki/Visual_Basic
-","UBound(name)-LBound(name)+1","LBound(name)","UBound(name)"
-"Wolfram Language , URL: /wiki/Wolfram_Language
-","Length[name]","1 First[name]","-1 Last[name]"
-"Xojo , URL: /wiki/Xojo
-","UBound(name)","0","UBound(name)"
-"XPath , URL: /wiki/XPath
-XQuery , URL: /wiki/XQuery
-","count($name)","1","count($name) last() array:size(name)[4]"
+"
+"name.slice(first, len)","CFML , URL: /wiki/CFML
+"
+"array_slice(name, first, len)","PHP , URL: /wiki/PHP
+"
+"(subseq name first end)","Common Lisp , URL: /wiki/Common_Lisp
+"
+"(subseq name first end)","ISLISP , URL: /wiki/ISLISP
+"
+"Array.sub name first len","OCaml , URL: /wiki/OCaml
+"
+"[name subarrayWithRange:NSMakeRange(first, len)]","Objective-C , URL: /wiki/Objective-C
+"
+"(first([+i.@(-~)end){name","J , URL: /wiki/J_(programming_language)
+"
+"name[first..<end] name[first...last]","Swift , URL: /wiki/Swift_(programming_language)
+"
+"name copyFrom: first to:last name copyFrom: first count:len","Smalltalk , URL: /wiki/Smalltalk
+"
+"name[first..end]","D , URL: /wiki/D_(programming_language)
+C# , URL: /wiki/C_sharp_(programming_language)
+"
+"name[first..end] name[first..=last]","Rust , URL: /wiki/Rust_(programming_language)
+"
+"name[first:end]","Cobra , URL: /wiki/Cobra_(programming_language)
+"

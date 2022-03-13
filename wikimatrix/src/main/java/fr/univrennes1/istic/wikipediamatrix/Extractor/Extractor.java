@@ -10,9 +10,9 @@ public interface Extractor {
 
     Document getDocument(String url) throws Exception;
 
-    Element getTable(Document doc, int index) throws NoTableException, IndexOutOfBoundsException;
+    Elements getAllWikiTable(Document doc)  throws NoTableException;
 
-    Elements getAllTable(Document doc)  throws NoTableException;
+    Element getWikiTable(Document doc, int index) throws NoTableException, IndexOutOfBoundsException;
     
-    Elements getAllFirstTable(Document doc) throws NoTableException;
+    Elements getAllFirstWikiTable(Document doc) throws NoTableException;
 }

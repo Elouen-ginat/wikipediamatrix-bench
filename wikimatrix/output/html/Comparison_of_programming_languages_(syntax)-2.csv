@@ -1,4 +1,71 @@
+"Symbol","Languages"
+"comment ~ ;","ALGOL 60 , URL: /wiki/ALGOL_60
+SIMULA , URL: /wiki/SIMULA
 "
-URL: /wiki/File:Wiki_letter_w_cropped.svg
-//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png
-","This section needs expansion. You can help by adding to it. (December 2009)"
+"¢ ~ ¢, # ~ #, co ~ co, comment ~ comment","ALGOL 68 , URL: /wiki/ALGOL_68
+"
+"/* ~ */","AutoHotkey , URL: /wiki/AutoHotkey
+Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+kotlin , URL: /wiki/Kotlin_(programming_language)
+Objective-C , URL: /wiki/Objective-C
+PHP , URL: /wiki/PHP
+PL/I , URL: /wiki/PL/I
+Prolog , URL: /wiki/Prolog
+Rexx , URL: /wiki/Rexx
+Rust , URL: /wiki/Rust_(programming_language)
+SAS , URL: /wiki/SAS_language
+Visual Prolog , URL: /wiki/Visual_Prolog
+CSS , URL: /wiki/CSS
+"
+"#cs ~ #ce","AutoIt , URL: /wiki/AutoIt
+"
+"/+ ~ +/","D (can be nested)[15]"
+"/# ~ #/","Cobra , URL: /wiki/Cobra_(programming_language)
+"
+"<# ~ #>","Powershell , URL: /wiki/Powershell
+"
+"<!-- ~ -->","HTML , URL: /wiki/HTML
+XML , URL: /wiki/XML
+"
+"=begin ~ =cut","Perl"
+"#`( ~ )","Raku , URL: /wiki/Raku_(programming_language)
+"
+"=begin ~ =end","Ruby"
+"#<TAG> ~ #</TAG>, #stop ~ EOF, #iffalse ~ #endif, #ifntrue ~ #endif, #if false ~ #endif, #if !true ~ #endif","S-Lang , URL: /wiki/S-Lang_(programming_language)
+"
+"{- ~ -}","Haskell , URL: /wiki/Haskell_(programming_language)
+"
+"(* ~ *)","Delphi , URL: /wiki/Delphi_(programming_language)
+Pascal , URL: /wiki/Pascal_(programming_language)
+Seed7 , URL: /wiki/Seed7
+Applescript , URL: /wiki/Applescript
+OCaml , URL: /wiki/OCaml
+Newspeak , URL: /wiki/Newspeak_(programming_language)
+F# , URL: /wiki/F_Sharp_(programming_language)
+"
+"{ ~ }","Red , URL: /wiki/Red_(programming_language)
+"
+"{# ~ #}","Twig , URL: /wiki/Twig_(template_engine)
+"
+"{{! ~ }}","Mustache , URL: /wiki/Mustache_(template_system)
+Handlebars , URL: /wiki/Mustache_(template_system)#Handlebars
+"
+"{{!-- ~ --}}","Handlebars (cannot be nested, but may contain {{ and }})"
+"|# ~ #|","Curl"
+"%{ ~ %}","MATLAB , URL: /wiki/MATLAB
+"
+"#| ~ |#","Lisp , URL: /wiki/Lisp_(programming_language)
+Scheme , URL: /wiki/Scheme_(programming_language)
+Racket , URL: /wiki/Racket_(programming_language)
+"
+"#= ~ =#","Julia , URL: /wiki/Julia_(programming_language)
+"
+"#[ ~ ]#","Nim , URL: /wiki/Nim_(programming_language)
+"
+"--[[ ~ ]], --[=[ ~ ]=], --[=...=[ ~ ]=...=]","Lua , URL: /wiki/Lua_(programming_language)
+"
+""" ~ ""","Smalltalk , URL: /wiki/Smalltalk
+"
+"(comment ~ )","Clojure , URL: /wiki/Clojure
+"

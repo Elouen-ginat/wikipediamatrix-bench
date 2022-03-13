@@ -1,2 +1,6 @@
-"Row header","A longer piece of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.","Short text"
-"Row header","Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Imagine someone scrolling down the page, seeing the tops of "empty" columns, and wondering why they're empty.","Short text"
+"Column 1 (row 1 cell 1)","Column 2 (row 1 cell 2)","Column 3 (row 1 cell 3)"
+"A (row 2 cell 1) rowspan=2","B (row 2 cell 2) colspan=2","B (row 2 cell 2) colspan=2"
+"A (row 2 cell 1) rowspan=2","C (row 3 cell 1)","D (row 3 cell 2)"
+"E (row 4 cell 1)","F (row 4 cell 2) rowspan=2 colspan=2","F (row 4 cell 2) rowspan=2 colspan=2"
+"G (row 5 cell 1)","F (row 4 cell 2) rowspan=2 colspan=2","F (row 4 cell 2) rowspan=2 colspan=2"
+"H (row 6 cell 1) colspan=3","H (row 6 cell 1) colspan=3","H (row 6 cell 1) colspan=3"

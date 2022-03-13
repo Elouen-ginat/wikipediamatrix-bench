@@ -30,7 +30,7 @@ IRIX , URL: /wiki/IRIX
 "XCOFF , URL: /wiki/XCOFF
 ","IBM AIX , URL: /wiki/IBM_AIX
 BeOS , URL: /wiki/BeOS
-"classic" Mac OS , URL: /wiki/Classic_Mac_OS
+""classic"" Mac OS , URL: /wiki/Classic_Mac_OS
 ","none","Yes by file","Yes","No","No","Yes","Yes[2]","Yes","No","No"
 "ELF , URL: /wiki/Executable_and_Linkable_Format
 ","Unix-like , URL: /wiki/Unix-like
@@ -54,7 +54,7 @@ MPE/ix , URL: /wiki/MPE/ix
 ","AmigaOS , URL: /wiki/AmigaOS
 ","none","No","Yes","Yes","No","No","Yes","No","Yes","No"
 "PEF , URL: /wiki/Preferred_Executable_Format
-",""classic" Mac OS , URL: /wiki/Classic_Mac_OS
+","""classic"" Mac OS , URL: /wiki/Classic_Mac_OS
 BeOS , URL: /wiki/BeOS
 ","none","Yes by file","No","No","No","Yes","Yes","No","No","No"
 "CMD , URL: /wiki/CMD_file_(CP/M)

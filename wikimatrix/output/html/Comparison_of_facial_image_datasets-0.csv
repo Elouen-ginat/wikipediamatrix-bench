@@ -1,20 +1,32 @@
-"Part of a series on"
-"Machine learning , URL: /wiki/Machine_learning
-data mining , URL: /wiki/Data_mining
+"Dataset name","Brief description","Preprocessing","Instances","Format","Default task","Created (updated)","Reference","Creator"
+"Aff-Wild","298 videos of 200 individuals, ~1,250,000 manually annotated images: annotated in terms of dimensional affect (valence-arousal); in-the-wild setting; color database; various resolutions (average = 640x360)","the detected faces, facial landmarks and valence-arousal annotations","~1,250,000 manually annotated images","video (visual + audio modalities)","affect recognition (valence-arousal estimation)","2017","CVPR[6] IJCV[7]","D.Kollias et al."
+"Aff-Wild2","558 videos of 458 individuals, ~2,800,000 manually annotated images: annotated in terms of i) categorical affect (7 basic expressions: neutral, happiness, sadness, surprise, fear, disgust, anger); ii) dimensional affect (valence-arousal); iii) action units (AUs 1,2,4,6,12,15,20,25); in-the-wild setting; color database; various resolutions (average = 1030x630)","the detected faces, detected and aligned faces and annotations","~2,800,000 manually annotated images","video (visual + audio modalities)","affect recognition (valence-arousal estimation, basic expression classification, action unit detection)","2019","BMVC[8] FG[9]","D.Kollias et al."
+"FERET (facial recognition technology) , URL: /wiki/FERET_(facial_recognition_technology)
+","11338 images of 1199 individuals in different positions and at different times.","None.","11,338","Images","Classification, face recognition","2003","[10][11]","United States Department of Defense , URL: /wiki/United_States_Department_of_Defense
 "
+"Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS)","7,356 video and audio recordings of 24 professional actors. 8 emotions each at two intensities.","Files labelled with expression. Perceptual validation ratings provided by 319 raters.","7,356","Video, sound files","Classification, face recognition, voice recognition","2018","[12][13]","S.R. Livingstone and F.A. Russo"
+"SCFace","Color images of faces at various angles.","Location of facial features extracted. Coordinates of features given.","4,160","Images, text","Classification , URL: /wiki/Statistical_classification
+","2011","[14][15]","M. Grgic et al."
+"Yale Face Database","Faces of 15 individuals in 11 different expressions.","Labels of expressions.","165","Images","Face recognition","1997","[16][17]","J. Yang et al."
+"Cohn-Kanade AU-Coded Expression Database","Large database of images with labels for expressions.","Tracking of certain facial features.","500+ sequences","Images, text","Facial expression analysis","2000","[18][19]","T. Kanade et al."
+"JAFFE Facial Expression Database","213 images of 7 facial expressions (6 basic facial expressions + 1 neutral) posed by 10 Japanese female models.","Images are cropped to the facial region. Includes semantic ratings data on emotion labels.","213","Images, text","Facial expression cognition","1998","[20][21]","Lyons, Kamachi, Gyoba"
+"FaceScrub","Images of public figures scrubbed from image searching.","Name and m/f annotation.","107,818","Images, text","Face recognition","2014","[22][23]","H. Ng et al."
+"BioID Face Database","Images of faces with eye positions marked.","Manually set eye positions.","1521","Images, text","Face recognition","2001","[24][25]","BioID"
+"Skin Segmentation Dataset","Randomly sampled color values from face images.","B, G, R, values extracted.","245,057","Text","Segmentation, classification","2012","[26][27]","R. Bhatt."
+"Bosphorus","3D Face image database.","34 action units and 6 expressions labeled; 24 facial landmarks labeled.","4652","Images, text","Face recognition, classification","2008","[28][29]","A Savran et al."
+"UOY 3D-Face","neutral face, 5 expressions: anger, happiness, sadness, eyes closed, eyebrows raised.","labeling.","5250","Images, text","Face recognition, classification","2004","[30][31]","University of York , URL: /wiki/University_of_York
 "
-URL: /wiki/File:Kernel_Machine.svg
-//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/220px-Kernel_Machine.svg.png
+"CASIA 3D Face Database","Expressions: Anger, smile, laugh, surprise, closed eyes.","None.","4624","Images, text","Face recognition, classification","2007","[32][33]","Institute of Automation, Chinese Academy of Sciences , URL: /wiki/Institute_of_Automation,_Chinese_Academy_of_Sciences
 "
-"Problems Classification Clustering Regression Anomaly detection Data Cleaning AutoML Association rules Reinforcement learning Structured prediction Feature engineering Feature learning Online learning Semi-supervised learning Unsupervised learning Learning to rank Grammar induction"
-"Supervised learning (classification • regression) Decision trees Ensembles Bagging Boosting Random forest k-NN Linear regression Naive Bayes Artificial neural networks Logistic regression Perceptron Relevance vector machine (RVM) Support vector machine (SVM)"
-"Clustering BIRCH CURE Hierarchical k-means Expectation–maximization (EM) DBSCAN OPTICS Mean shift"
-"Dimensionality reduction Factor analysis CCA ICA LDA NMF PCA PGD t-SNE"
-"Structured prediction Graphical models Bayes net Conditional random field Hidden Markov"
-"Anomaly detection k-NN Local outlier factor"
-"Artificial neural network Autoencoder Cognitive computing Deep learning DeepDream Multilayer perceptron RNN LSTM GRU ESN Restricted Boltzmann machine GAN SOM Convolutional neural network U-Net Transformer Vision Spiking neural network Memtransistor Electrochemical RAM (ECRAM)"
-"Reinforcement learning Q-learning SARSA Temporal difference (TD)"
-"Theory Kernel machines Bias–variance tradeoff Computational learning theory Empirical risk minimization Occam learning PAC learning Statistical learning VC theory"
-"Machine-learning venues NeurIPS ICML ML JMLR ArXiv:cs.LG"
-"Related articles Glossary of artificial intelligence List of datasets for machine-learning research Outline of machine learning"
-"v t e"
+"CASIA NIR","Expressions: Anger Disgust Fear Happiness Sadness Surprise","None.","480","Annotated Visible Spectrum and Near Infrared Video captures at 25 frames per second","Face recognition, classification","2011","[34]","Zhao, G. et al."
+"BU-3DFE","neutral face, and 6 expressions: anger, happiness, sadness, surprise, disgust, fear (4 levels). 3D images extracted.","None.","2500","Images, text","Facial expression recognition, classification","2006","[35]","Binghamton University , URL: /wiki/Binghamton_University
+"
+"Face Recognition Grand Challenge , URL: /wiki/Face_Recognition_Grand_Challenge
+","Up to 22 samples for each subject. Expressions: anger, happiness, sadness, surprise, disgust, puffy. 3D Data.","None.","4007","Images, text","Face recognition, classification","2004","[36][37]","National Institute of Standards and Technology , URL: /wiki/National_Institute_of_Standards_and_Technology
+"
+"Gavabdb","Up to 61 samples for each subject. Expressions neutral face, smile, frontal accentuated laugh, frontal random gesture. 3D images.","None.","549","Images, text","Face recognition, classification","2008","[38][39]","King Juan Carlos University , URL: /wiki/King_Juan_Carlos_University
+"
+"3D-RMA","Up to 100 subjects, expressions mostly neutral. Several poses as well.","None.","9971","Images, text","Face recognition, classification","2004","[40][41]","Royal Military Academy (Belgium) , URL: /wiki/Royal_Military_Academy_(Belgium)
+"
+"SoF","112 persons (66 males and 46 females) wear glasses under different illumination conditions.","A set of synthetic filters (blur, occlusions, noise, and posterization ) with different level of difficulty.","42,592 (2,662 original image × 16 synthetic image)","Images, Mat file","Gender classification, face detection, face recognition, age estimation, and glasses detection","2017","[42][43]","Afifi, M. et al."
+"IMDB-WIKI","IMDB and Wikipedia face images with gender and age labels.","None","523,051","Images","Gender classification, face detection, face recognition, age estimation","2015","[44]","R. Rothe, R. Timofte, L. V. Gool"

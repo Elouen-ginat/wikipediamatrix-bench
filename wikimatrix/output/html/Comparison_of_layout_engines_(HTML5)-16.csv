@@ -1,16 +1,29 @@
-"","MSHTML , URL: /wiki/MSHTML
+"Attribute","Element","Alternative solution","MSHTML , URL: /wiki/MSHTML
 ","Gecko , URL: /wiki/Gecko_(software)
 ","WebKit , URL: /wiki/WebKit
 ","KHTML , URL: /wiki/KHTML
 ","Presto , URL: /wiki/Presto_(browser_engine)
 "
-"Element identifiers","Element identifiers","Element identifiers","Element identifiers","Element identifiers","Element identifiers"
-"id","<3.1[IE 3.0]","1.0","Yes","Yes","1.0"
-"class","<3.1[IE 3.0]","1.0","Yes","Yes","1.0"
-"Inline styles","Inline styles","Inline styles","Inline styles","Inline styles","Inline styles"
-"style","<3.1[IE 3.0]","1.0","Yes","Yes","1.0"
-"Advisory information","Advisory information","Advisory information","Advisory information","Advisory information","Advisory information"
-"title","<3.1[IE 4.0]","1.0","Yes","Yes","1.0"
-"Language information","Language information","Language information","Language information","Language information","Language information"
-"lang","<3.1[IE 4.0]","1.0","Yes","Yes","1.0"
-"dir","<3.1[IE 5.0]","1.0","Yes","Yes","1.0"
+"align","caption, div, fieldset, h1, h2, h3, h4, h5, h6, hr, img, input, legend, p, object, table","CSS","3.1","Yes","Yes","Yes","Yes"
+"alink","body","CSS","3.1","Yes","No","Yes","Yes"
+"background","body","CSS","3.1","Yes","Yes","Yes","Yes"
+"bgcolor","body, table, tr, td, th","CSS","3.1","Yes","Yes","Yes","Yes"
+"border","img, object","CSS","3.1","Yes","Partial[note 8]","Yes","Yes"
+"clear","br","CSS","3.1","Yes","No","Yes","Yes"
+"compact","dl, ul, ol","CSS","No","No","No","Yes","Yes"
+"color","basefont, font","CSS","3.1","Partial[note 9][8]","Partial[note 9]","Yes","Yes"
+"height","td, th","CSS","3.1","Yes","Yes","Yes","Yes"
+"hspace","img, object","CSS","3.1","Yes","Yes","Yes","Yes"
+"language","script","The type attribute","3.1","No[citation needed]","Yes","Yes","Yes"
+"link","body","CSS","3.1","Yes","Yes","Yes","Yes"
+"noshade","hr","CSS","3.1","Yes","Yes","Yes","Yes"
+"nowrap","td, th","CSS","3.1","Yes","Yes","Yes","Yes"
+"size","basefont, font, hr","CSS","3.1","Yes","Yes","Yes","Yes"
+"start","ol","None","3.1","Yes","Yes","Yes","Yes"
+"text","body","CSS","3.1","Yes","Yes","Yes","Yes"
+"type","li, ul, ol","CSS","3.1","Yes","Yes","Yes","Yes"
+"version","html","DTD , URL: /wiki/Document_Type_Declaration
+","No","No","No","No","No"
+"vlink","body","CSS","Yes","Yes","Yes","Yes","Yes"
+"width","hr, pre, td, th","CSS","Yes","Yes","Yes","Yes","Yes"
+"vspace","img, object","CSS","Yes","Yes","Yes","Yes","Yes"

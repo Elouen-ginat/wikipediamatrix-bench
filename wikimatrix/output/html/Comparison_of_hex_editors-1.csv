@@ -1,56 +1,74 @@
-"","GUI , URL: /wiki/GUI
-","Console , URL: /wiki/Command-line_interface
-","Software license , URL: /wiki/Software_license
-","Latest stable version","Latest release date","Windows","Macintosh","Linux"
+"","Maximum file size","Partial file loading","Disk sector editing","Process memory editing","Data inspector","Bit editing , URL: /wiki/Bitwise_operation
+","Insert/delete bytes","Character encodings , URL: /wiki/Character_encodings
+","Unicode , URL: /wiki/Unicode
+","File structure view , URL: /wiki/File_format
+","Disassembler , URL: /wiki/Disassembler
+","File compare","Find in files","Bookmarks","Macro","Text editor , URL: /wiki/Text_editor
+"
 "HxD , URL: /wiki/HxD
-","Yes","No","Proprietary , URL: /wiki/Proprietary_software
-","2.5.0.0","February 11, 2021","Win95 , URL: /wiki/Windows_95
-WinNT4 , URL: /wiki/Windows_NT_4.0
-","No","No"
+","EiB , URL: /wiki/EiB
+","Yes","Windows 9x/NT and up","Yes","Yes","Yes","Yes","EBCDIC , URL: /wiki/EBCDIC
+","Yes","No","Individual instructions only","Yes","No","Yes","No","No"
 "010 Editor , URL: /wiki/010_Editor
-","Yes","No","Proprietary , URL: /wiki/Proprietary_software
-","12.0","September 17, 2021","Yes","Yes","Yes"
+","EiB , URL: /wiki/EiB
+","Yes","Yes","WinNT only","Yes","Yes","Yes","Unicode , URL: /wiki/Unicode
+UTF-8 , URL: /wiki/UTF-8
+EBCDIC , URL: /wiki/EBCDIC
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
 "beye , URL: /wiki/Beye
-","No","Yes","GPL-2.0-only , URL: /wiki/GNU_General_Public_License
-GPL-3.0-only , URL: /wiki/GNU_General_Public_License
-","6.1.0","December 12, 2009","Yes","Yes","Yes"
+","PiB , URL: /wiki/Pebibyte
+","Yes","No","","","Yes","Yes","EBCDIC , URL: /wiki/EBCDIC
+ASCII , URL: /wiki/ASCII
+","Yes","","AVR , URL: /wiki/Atmel_AVR
+Java , URL: /wiki/Java_Virtual_Machine
+x86 , URL: /wiki/X86
+i386 , URL: /wiki/I386
+x86-64 , URL: /wiki/X86-64
+ARM , URL: /wiki/ARM_architecture
+XScale , URL: /wiki/XScale
+PowerPC , URL: /wiki/PowerPC
+PPC64 , URL: /wiki/PPC64
+","","","Yes","No",""
 "bvi , URL: /w/index.php?title=Bvi&action=edit&redlink=1
-","No","Yes","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
-","1.4.0","October 7, 2014","DOS , URL: /wiki/DOS
-Win95 , URL: /wiki/Windows_95
-","Yes","Yes"
-"Cheat Engine , URL: /wiki/Cheat_Engine
-","Yes","No","Proprietary , URL: /wiki/Proprietary_software
-","7.2","August 14, 2021","Yes","Yes, ver. 6.2","No"
-"GNU Emacs , URL: /wiki/GNU_Emacs
-","Yes","Yes","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
-","26.2[1]","April 12, 2019","Yes","Yes","Yes"
+","Limited by RAM","Yes","","","","Yes","Yes","ASCII , URL: /wiki/ASCII
+","","No","No","","Yes and replace","","Yes",""
+"Emacs , URL: /wiki/Emacs
+","Limited by RAM","","No","No","No","No","Yes","","","No","No","","","","Yes","Yes"
 "FlexHex , URL: /wiki/FlexHex
-","Yes","No","Proprietary , URL: /wiki/Proprietary_software
-","2.7","October 12, 2018","Windows XP , URL: /wiki/Windows_XP
-","No","No"
+","Unlimited[citation needed]","Yes","Yes","","Yes","Yes","Yes","ANSI, OEM, UTF-16","Yes","Yes","No","Yes","No","Yes","","No"
 "Frhed , URL: /w/index.php?title=Frhed&action=edit&redlink=1
-","Yes","No","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
-","1.7.1","July 30, 2009","Win98 , URL: /wiki/Windows_98
-","No","No"
+","Limited by RAM","Yes","No(read only)","","","Yes","Yes","ANSI, OEM","Yes","Yes","No","Yes","No","Yes","No",""
 "Hiew , URL: /wiki/Hiew
-","No","Yes","Proprietary , URL: /wiki/Proprietary_software
-","8.68","August 1, 2019","Yes","No","No"
-"ImHex , URL: /w/index.php?title=ImHex&action=edit&redlink=1
-","Yes","No","GPL-2.0-only , URL: /wiki/GNU_General_Public_License
-","1.12.1","December 16, 2021","Yes","Yes","Yes"
+","Unlimited[citation needed]","Yes","WinNT only","","Yes","Yes","Yes","ASCII , URL: /wiki/ASCII
+Unicode , URL: /wiki/Unicode
+","Yes","Yes","x86 , URL: /wiki/X86
+x86-64 , URL: /wiki/X86-64
+MMX , URL: /wiki/MMX_(instruction_set)
+3DNow! , URL: /wiki/3DNow!
+ARM , URL: /wiki/ARM_architecture
+","","Yes","Yes","Yes",""
 "VEDIT , URL: /wiki/VEDIT
-","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","6.24.2","Jan 1, 2015","Yes","No","No"
+","Standard, 2 GiB, Pro 64, unlimited[citation needed]","Yes","DOS version only","","No","Yes","Yes","EBCDIC , URL: /wiki/EBCDIC
+ASCII , URL: /wiki/ASCII
+","No","No","No","Yes","Yes","Yes","Yes","Yes"
 "UltraEdit , URL: /wiki/UltraEdit
-","Yes","No","Proprietary , URL: /wiki/Proprietary_software
-","26.10 (Windows) 18.0 (Linux / Mac OS X)","May 7, 2019 January 2, 2018","Yes","Yes","Yes"
+",">4 GiB","Yes","No","No","No","No","Yes","EBCDIC , URL: /wiki/EBCDIC
+ASCII , URL: /wiki/ASCII
+","Yes","Yes","No","Yes","Yes","Yes","",""
 "WinHex , URL: /wiki/WinHex
-","Yes","No","Proprietary , URL: /wiki/Proprietary_software
-","20.4","November 23, 2021","Win95 , URL: /wiki/Windows_95
-","No","No"
-"Vim , URL: /wiki/Vim_(text_editor)
-","Yes","Yes","Vim","8.1.0000","May 17, 2018","Yes","Yes","Yes"
+","Unlimited[citation needed]","Yes","Yes","","Yes","Yes","Yes","UTF-8 , URL: /wiki/UTF-8
+UTF-16 , URL: /wiki/UTF-16
+EBCDIC , URL: /wiki/EBCDIC
+ASCII , URL: /wiki/ASCII
+","Yes","Yes","Only x86 Intel opcodes","Yes","Yes and replace","","Yes[4]","No"
+"vim , URL: /wiki/Vim_(text_editor)
+","Limited by RAM","No","No","No","No","Yes[5]","Yes","ASCII, ISO-8859, DOS (OEM), UTF-8, UTF-16, partial EBCDIC (compilation required), unicode","Yes","No","No","Yes[6]","No","Plug-in[7]","Yes","Yes"
 "Binary Ninja , URL: /wiki/Binary_Ninja
-","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","2.2.2487[2]","October 22, 2020","Yes","Yes","Yes"
+","Limited by RAM","Yes","No","Yes","No","Yes","Yes","","Yes","Plugins","Yes","No","Yes","Official plugin","Official plugins","No"
+"","Maximum file size","Partial file loading","Disk sector editing","Process memory editing","Data inspector","Bit editing , URL: /wiki/Bitwise_operation
+","Insert/delete bytes","Character encodings , URL: /wiki/Character_encodings
+","Unicode , URL: /wiki/Unicode
+","File structure view , URL: /wiki/File_format
+","Disassembler , URL: /wiki/Disassembler
+","File compare","Find in files","Bookmarks","Macro","Text editor , URL: /wiki/Text_editor
+"

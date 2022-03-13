@@ -3,88 +3,85 @@
 ","SVG , URL: /wiki/Scalable_Vector_Graphics
 ","TeX , URL: /wiki/TeX
 LaTeX , URL: /wiki/LaTeX
-","RTF , URL: /wiki/Rich_Text_Format
 ","HTML , URL: /wiki/HTML
-","Word , URL: /wiki/Microsoft_Word
-.doc , URL: /wiki/DOC_(computing)
-","OOXML , URL: /wiki/Office_Open_XML
 ","Other"
 "Apache OpenOffice Writer , URL: /wiki/Apache_OpenOffice_Writer
-","Yes","Yes","No","No","Yes","Yes","Yes","Yes","PSD , URL: /wiki/Adobe_Photoshop#features
-WPD , URL: /wiki/WordPerfect
-XLS , URL: /wiki/Microsoft_Excel_file_format
+","Yes","Yes","Yes","No","Yes","RTF , URL: /wiki/Rich_Text_Format
 "
 "Collabora Online , URL: /wiki/Collabora_Online
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","ODF , URL: /wiki/ODF
-PSD , URL: /wiki/Adobe_Photoshop#features
-WPD , URL: /wiki/WordPerfect
-XLSX , URL: /wiki/Microsoft_Excel_file_format
+","Yes","No","No","No","No","ODF , URL: /wiki/ODF
+PDF , URL: /wiki/PDF
+PNG , URL: /wiki/Portable_Network_Graphics
 "
 "CorelDRAW , URL: /wiki/CorelDRAW
-","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","PSD , URL: /wiki/Adobe_Photoshop#features
+","Yes","Yes","Yes","No","Yes","PSD , URL: /wiki/Adobe_Photoshop#features
 AI , URL: /wiki/Adobe_Illustrator_Artwork
 SWF , URL: /wiki/SWF
 WPD , URL: /wiki/WordPerfect
 "
 "Fatpaint , URL: /wiki/Fatpaint
-","No","No","No","No","No","No","No","No","JPG , URL: /wiki/Jpg
+","No","No","No","No","No","JPG , URL: /wiki/Jpg
 PNG , URL: /wiki/Portable_Network_Graphics
 "
 "Flare , URL: /wiki/Flare
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","XLS , URL: /wiki/Microsoft_Excel_file_format
-Adobe Framemaker , URL: /wiki/Adobe_Framemaker
-Adobe RoboHelp , URL: /wiki/Adobe_RoboHelp
-Microsoft Compiled HTML Help , URL: /wiki/Microsoft_Compiled_HTML_Help
-DITA , URL: /wiki/Darwin_Information_Typing_Architecture
+","Yes","No","No","No","Yes","DOC , URL: /wiki/DOC_(computing)
+EPUB , URL: /wiki/EPUB
+HTML5 , URL: /wiki/HTML5
 "
 "FrameMaker , URL: /wiki/FrameMaker
-","Yes","Yes","Yes","No","Yes","No","Yes","No","WPD , URL: /wiki/WordPerfect
+","Yes","Yes","No","No","Yes","DOC , URL: /wiki/DOC_(computing)
+WPD , URL: /wiki/WordPerfect
 "
 "InDesign , URL: /wiki/InDesign
-","Yes","Yes","No","No","Yes","No","Yes","Yes","PSD , URL: /wiki/Adobe_Photoshop#features
-AI , URL: /wiki/Adobe_Illustrator_Artwork
+","Yes","Yes","No","No","Yes","EPUB , URL: /wiki/EPUB
 SWF , URL: /wiki/SWF
-WPD , URL: /wiki/WordPerfect
-XLS , URL: /wiki/Microsoft_Excel_file_format
+XML , URL: /wiki/XML
+RTF , URL: /wiki/Rich_Text_Format
 "
 "InPage , URL: /wiki/InPage
-","No","Yes","No","No","No","No","No","No","No"
+","No","Yes","No","No","No","GIF , URL: /wiki/GIF
+"
 "iStudio Publisher , URL: /wiki/IStudio_Publisher
-","Yes","No","No","No","No","No","No","No","PSD , URL: /wiki/Adobe_Photoshop#features
-AI , URL: /wiki/Adobe_Illustrator_Artwork
+","Yes","No","No","No","No","EPUB , URL: /wiki/EPUB
+RTF , URL: /wiki/Rich_Text_Format
 "
 "LibreOffice , URL: /wiki/LibreOffice
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","ODF , URL: /wiki/ODF
-PSD , URL: /wiki/Adobe_Photoshop#features
-WPD , URL: /wiki/WordPerfect
-XLSX , URL: /wiki/Microsoft_Excel_file_format
+","Yes","Yes","Yes","No","Yes","ODF , URL: /wiki/ODF
+PDF , URL: /wiki/PDF
+PNG , URL: /wiki/Portable_Network_Graphics
+RTF , URL: /wiki/Rich_Text_Format
 "
 "LyX , URL: /wiki/LyX
-","No","No","No","Yes","No","Yes","No","No","No"
+","Yes","No","No","Yes","Yes","PS , URL: /wiki/PostScript
+ODF , URL: /wiki/OpenDocument
+"
 "Microsoft Publisher , URL: /wiki/Microsoft_Publisher
-","No","No","No","No","Yes","Yes","Yes","Yes","No"
-"PageMaker , URL: /wiki/PageMaker
-","Yes","Yes","No","No","Yes","No","Yes","No","No"
-"PagePlus , URL: /wiki/PagePlus
-","Yes","Yes","No","No","Yes","No","Yes","Yes","No"
-"Pages , URL: /wiki/Pages_(iWork)
-","No","No","No","No","Yes","No","Yes","Yes","No"
-"QuarkXPress , URL: /wiki/QuarkXPress
-","Yes","Yes","No","No","Yes","Yes","Yes","No","PSD , URL: /wiki/Adobe_Photoshop#features
-AI , URL: /wiki/Adobe_Illustrator_Artwork
-SWF , URL: /wiki/SWF
-XLS , URL: /wiki/Microsoft_Excel_file_format
-JPG , URL: /wiki/Jpg
+","Yes","No","No","No","Yes","JPG , URL: /wiki/Jpg
 PNG , URL: /wiki/Portable_Network_Graphics
-PDF , URL: /wiki/PDF
+"
+"PageMaker , URL: /wiki/PageMaker
+","Distiller , URL: /wiki/Adobe_Distiller
+","Yes","No","No","No","No"
+"PagePlus , URL: /wiki/PagePlus
+","Yes","Yes","No","No","Yes","No"
+"Pages , URL: /wiki/Pages_(iWork)
+","Yes","No","No","No","Yes","EPUB , URL: /wiki/EPUB
+RTF , URL: /wiki/Rich_Text_Format
+"
+"QuarkXPress , URL: /wiki/QuarkXPress
+","Yes","Yes","No","No","Yes","EPUB , URL: /wiki/EPUB
+Kindle , URL: /wiki/Kindle_Direct_Publishing
+iOS , URL: /wiki/IOS
+HTML5 , URL: /wiki/HTML5
 "
 "Scribus , URL: /wiki/Scribus
-","Yes","Yes","Yes","Yes","No","Yes","Yes","No","List , URL: http://wiki.scribus.net/index.php/Export/Import_capabilities_of_Scribus,_OpenOffice.org,_Inkscape,_GIMP,_and_Krita
+","Yes","Yes","Yes","Yes","Yes","List , URL: http://wiki.scribus.net/index.php/Export/Import_capabilities_of_Scribus,_OpenOffice.org,_Inkscape,_GIMP,_and_Krita
 "
 "The Print Shop , URL: /wiki/The_Print_Shop
-","No","No","No","No","No","No","No","No","No"
+","Yes","No","No","No","No","No"
 "Ventura , URL: /wiki/Corel_Ventura
-","Yes","Yes","No","No","Yes","No","Yes","No","PSD , URL: /wiki/Adobe_Photoshop#features
+","Yes","Yes","No","No","No","RTF , URL: /wiki/Rich_Text_Format
+PSD , URL: /wiki/Adobe_Photoshop#features
 AI , URL: /wiki/Adobe_Illustrator_Artwork
 WPD , URL: /wiki/WordPerfect
 "
@@ -93,9 +90,5 @@ WPD , URL: /wiki/WordPerfect
 ","SVG , URL: /wiki/Scalable_Vector_Graphics
 ","TeX , URL: /wiki/TeX
 LaTeX , URL: /wiki/LaTeX
-","RTF , URL: /wiki/Rich_Text_Format
 ","HTML , URL: /wiki/HTML
-","Word , URL: /wiki/Microsoft_Word
-.doc , URL: /wiki/DOC_(computing)
-","OOXML , URL: /wiki/Office_Open_XML
 ","Other"

@@ -1,1 +1,84 @@
-"","This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2013) (Learn how and when to remove this template message)"
+"Format","Languages","Base index"
+"string[i]","ALGOL 68 , URL: /wiki/ALGOL_68
+APL , URL: /wiki/APL_(programming_language)
+Julia , URL: /wiki/Julia_(programming_language)
+Pascal , URL: /wiki/Pascal_(programming_language)
+Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
+Seed7 , URL: /wiki/Seed7
+","1"
+"string[i]","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+Cobra , URL: /wiki/Cobra_(programming_language)
+D , URL: /wiki/D_(programming_language)
+FreeBASIC , URL: /wiki/FreeBASIC
+Go , URL: /wiki/Go_(programming_language)
+Python , URL: /wiki/Python_(programming_language)
+PHP , URL: /wiki/PHP
+Ruby , URL: /wiki/Ruby_(programming_language)
+Windows PowerShell , URL: /wiki/Windows_PowerShell
+JavaScript , URL: /wiki/JavaScript
+APL , URL: /wiki/APL_(programming_language)
+","0"
+"string{i}","PHP , URL: /wiki/PHP
+","0"
+"string(i)","Ada , URL: /wiki/Ada_(programming_language)
+","≥1"
+"Mid(string,i,1)","VB , URL: /wiki/Visual_Basic_(classic)
+","1"
+"MID$(string,i,1)","BASIC , URL: /wiki/BASIC
+","1"
+"string.Chars(i)","VB.NET , URL: /wiki/Visual_Basic_.NET
+","0"
+"string(i:i)","Fortran , URL: /wiki/Fortran
+","1"
+"string.charAt(i)","Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+","0"
+"string.[i]","OCaml , URL: /wiki/OCaml
+F# , URL: /wiki/F_Sharp_(programming_language)
+","0"
+"string.chars().nth(i)","Rust , URL: /wiki/Rust_(programming_language)
+","0"
+"string[i,1]","Pick Basic , URL: /wiki/Pick_Basic
+","1"
+"String.sub (string, i)","Standard ML , URL: /wiki/Standard_ML
+","0"
+"string !! i","Haskell , URL: /wiki/Haskell_(programming_language)
+","0"
+"(string-ref string i)","Scheme , URL: /wiki/Scheme_(programming_language)
+","0"
+"(char string i)","Common Lisp , URL: /wiki/Common_Lisp
+","0"
+"(elt string i)","ISLISP , URL: /wiki/ISLISP
+","0"
+"(get string i)","Clojure , URL: /wiki/Clojure
+","0"
+"substr(string, i, 1)","Perl 5 , URL: /wiki/Perl_5
+","0"
+"substr(string, i, 1) string.substr(i, 1)","Raku , URL: /wiki/Raku_(programming_language)
+","0"
+"substr(string, i, 1)","PL/I , URL: /wiki/PL/I
+","1"
+"string.at(i)","C++ , URL: /wiki/C%2B%2B
+","0"
+"lists:nth(i, string)","Erlang , URL: /wiki/Erlang_(programming_language)
+","1"
+"[string characterAtIndex:i]","Objective-C , URL: /wiki/Objective-C
+","0"
+"string.sub(string, i, i) (string):sub(i, i)","Lua , URL: /wiki/Lua_(programming_language)
+","1"
+"string at: i","Smalltalk , URL: /wiki/Smalltalk
+","1"
+"string index string i","Tcl , URL: /wiki/Tcl
+","0"
+"StringTake[string, {i}]","Mathematica , URL: /wiki/Mathematica
+Wolfram Language , URL: /wiki/Wolfram_Language
+","1"
+"string@i","Eiffel , URL: /wiki/Eiffel_(programming_language)
+","1"
+"string (i:1)","COBOL , URL: /wiki/COBOL
+","1"
+"i⌷string","APL , URL: /wiki/APL_(programming_language)
+","0 or 1"

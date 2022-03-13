@@ -1,21 +1,17 @@
-"Methods and properties","Java","C#"
-"Static imports","Yes","Yes[53]"
-"Virtual methods","Virtual by default","Non-Virtual by default"
-"Abstract , URL: /wiki/Abstraction_(computer_science)
+"Generics","Java","C#"
+"Implementation","Type erasure , URL: /wiki/Type_erasure
+","Reification , URL: /wiki/Reification_(computer_science)
+"
+"Runtime realization","No","Yes"
+"Type variance , URL: /wiki/Covariance_and_contravariance_(computer_science)
+","Use-site , URL: /wiki/Covariance_and_contravariance_(computer_science)#Use-site_variance_annotations_(wildcards)
+","Declaration-site , URL: /wiki/Covariance_and_contravariance_(computer_science)#Declaration-site_variance_annotations
+"
+"Reference type constraint","Yes; implicit","Yes"
+"Value/primitive type constraint","No","Yes"
+"Constructor constraint","No","Yes (only for parameterless constructor)"
+"Subtype constraint , URL: /wiki/Bounded_quantification
 ","Yes","Yes"
-"Sealing","Yes","Yes"
-"Explicit interface implementation","Default methods","Yes[54]"
-"Value (input) parameters","Yes","Yes"
-"Reference (input/output) parameters","No","Yes"
-"Output (output) parameters","No","Yes"
-"Constant (immutable) parameters","final , URL: #Constant/immutable_parameters
-","Yes[55]"
-"Variadic methods , URL: /wiki/Variadic_function
-","Yes","Yes"
-"Optional arguments","No;[56] Instead method overloading or varargs","Yes"
-"Named arguments","Yes; with annotations","Yes"
-"Generator methods , URL: /wiki/Generator_(computer_programming)
-","No","Yes"
-"Extension/default methods","Yes","Yes"
-"Conditional methods","No","Yes"
-"Partial methods","No","Yes"
+"Supertype constraint , URL: /wiki/Wildcard_(Java)#Bounded_Wildcards
+","Yes","No"
+"Migration compatibility","Yes","No"

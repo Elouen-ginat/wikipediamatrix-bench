@@ -44,7 +44,7 @@
 "CodedColor PhotoStudio Pro , URL: /wiki/CodedColor_PhotoStudio_Pro
 ","Yes","Yes","Yes","Yes","Yes","",""
 "Corel PaintShop Pro , URL: /wiki/Corel_PaintShop_Pro
-","Yes","Yes","Yes","Yes","Yes","Partial[32]","Partial[32]"
+","Yes","Yes","Yes","Yes","Yes","Partial[34]","Partial[34]"
 "Corel Painter , URL: /wiki/Corel_Painter
 ","Yes","?","No","No","Yes","",""
 "Corel Photo-Paint , URL: /wiki/Corel_Photo-Paint
@@ -60,9 +60,9 @@
 "Fotografix , URL: /wiki/Fotografix
 ","Yes","No","Import only","Import only","Import only","No","No"
 "GIMP , URL: /wiki/GIMP
-","Yes","Yes","Yes","Yes","Partial[33]","2.10+","Yes"
+","Yes","Yes","Yes","Yes","Partial[35]","2.10+","Yes"
 "GIMPshop , URL: /wiki/GIMPshop
-","Yes","Yes","Yes","Yes","Partial[33]","No","Yes"
+","Yes","Yes","Yes","Yes","Partial[35]","No","Yes"
 "GrafX2 , URL: /wiki/GrafX2
 ","No","No","Yes","No","No","No","No"
 "GraphicConverter , URL: /wiki/GraphicConverter

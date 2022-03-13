@@ -1,8 +1,12 @@
 "Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
-"Geographic Origin of Music Data Set","Audio features of music samples from different locations.","Audio features extracted using MARSYAS software.","1,059","Text","Geographic classification, clustering","2014","[281][282]","F. Zhou et al."
-"Million Song Dataset","Audio features from one million different songs.","Audio features extracted.","1M","Text","Classification, clustering","2011","[283][284]","T. Bertin-Mahieux et al."
-"MUSDB18","Multi-track popular music recordings","Raw audio","150","MP4, WAV","Source Separation","2017","[285]","Z. Rafii et al."
-"Free Music Archive , URL: /wiki/Free_Music_Archive
-","Creative Commons , URL: /wiki/Creative_Commons_license
-","Raw audio and audio features.","106,574","Text, MP3","Classification, recommendation","2017","[286]","M. Defferrard et al."
-"Bach Choral Harmony Dataset","Bach chorale chords.","Audio features extracted.","5665","Text","Classification","2014","[287][288]","D. Radicioni et al."
+"UrbanSound","Labeled sound recordings of sounds like air conditioners, car horns and children playing.","Sorted into folders by class of events as well as metadata in a JSON file and annotations in a CSV file.","1,059","Sound (WAV)","Classification","2014","[289][290]","J. Salamon et al."
+"AudioSet","10-second sound snippets from YouTube videos, and an ontology of over 500 labels.","128-d PCA'd VGG-ish features every 1 second.","2,084,320","Text (CSV) and TensorFlow Record files","Classification","2017","[291]","J. Gemmeke et al., Google"
+"Bird Audio Detection challenge","Audio from environmental monitoring stations, plus crowdsourced recordings","","17,000+","","Classification","2016 (2018)","[292][293]","Queen Mary University , URL: /wiki/Queen_Mary_University
+IEEE Signal Processing Society , URL: /wiki/IEEE_Signal_Processing_Society
+"
+"WSJ0 Hipster Ambient Mixtures","San Francisco Bay Area , URL: /wiki/San_Francisco_Bay_Area
+","Noise clips matched to WSJ0 clips","28,000","WAV , URL: /wiki/WAV
+","Audio source separation","2019","[294]","Wichern, G., et al., Whisper and MERL"
+"Clotho","4,981 audio samples of 15 to 30 seconds long, each audio sample having five different captions of eight to 20 words long.","","24,905","WAV , URL: /wiki/WAV
+CSV , URL: /wiki/Comma-separated_values
+","Automated audio captioning","2020","[295][296]","K. Drossos, S. Lipping, and T. Virtanen"

@@ -1,15 +1,17 @@
 "Country","Resolution","Satellite","Year launched"
-"China , URL: /wiki/China
-","0.1 meter","Gaofen 11","2020"
 "India , URL: /wiki/India
-","0.25 meter","Cartosat-3 , URL: /wiki/Cartosat-3
+","0.35 meter","RISAT-2BR1 , URL: /wiki/RISAT-2BR1
 ","2019"
-"Japan , URL: /wiki/Japan
-","0.4 meter","IGS Optical 5V","2013"
+"India , URL: /wiki/India
+","0.5 meter x 0.3 meter","RISAT-2B , URL: /wiki/RISAT-2B
+","2019"
 "Israel , URL: /wiki/Israel
-","0.5 meter","Ofeq 9","2010"
+","0.5 meter","TecSAR , URL: /wiki/TecSAR
+","2008"
+"China , URL: /wiki/China
+","0.3 meter","Yaogan 30","2018"
+"Japan , URL: /wiki/Japan
+","0.5 meter","IGS , URL: /wiki/Information_Gathering_Satellite
+","2017"
 "South Korea , URL: /wiki/South_Korea
-","0.7 meter","KOMPSAT-3","2012"
-"Iran , URL: /wiki/Iran
-","150 meters","Rasad 1 , URL: /wiki/Rasad_1
-","2011"
+","1 meter","KOMPSat-5","2013"

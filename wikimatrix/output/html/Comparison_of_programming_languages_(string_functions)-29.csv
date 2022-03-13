@@ -1,10 +1,60 @@
-"Format","Languages","Comments"
-"string.partition(separator)","Python , URL: /wiki/Python_(programming_language)
-Ruby , URL: /wiki/Ruby_(programming_language)
-",""
-"lists:partition(pred, string)","Erlang , URL: /wiki/Erlang_(programming_language)
-",""
-"split /(separator)/, string, 2","Perl 5 , URL: /wiki/Perl_5
-",""
-"split separator, string, 2 string.split( separator, 2 )","Raku , URL: /wiki/Raku_(programming_language)
-","Separator does not have to be a regular expression"
+"Format","Languages"
+"changestr(find, string, replace)","Rexx , URL: /wiki/Rexx
+"
+"std.string.replace(string, find, replace)","D , URL: /wiki/D_(programming_language)
+"
+"Replace(string, find, replace)","VB , URL: /wiki/Visual_Basic_(classic)
+"
+"replace(string, find, replace)","Seed7 , URL: /wiki/Seed7
+"
+"change(string, find, replace)","Pick Basic , URL: /wiki/Pick_Basic
+"
+"string.Replace(find, replace)","C# , URL: /wiki/C_Sharp_(programming_language)
+F# , URL: /wiki/F_Sharp_(programming_language)
+VB .NET , URL: /wiki/Visual_Basic_.NET
+"
+"str_replace(find, replace, string)","PHP , URL: /wiki/PHP
+"
+"re:replace(string, find, replace, «{return, list}»)","Erlang , URL: /wiki/Erlang_(programming_language)
+"
+"string.replace(find, replace)","Cobra , URL: /wiki/Cobra_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+Python , URL: /wiki/Python_(programming_language)
+Rust , URL: /wiki/Rust_(programming_language)
+"
+"string.replaceAll(find_regex, replace)[38]","Java , URL: /wiki/Java_(programming_language)
+"
+"string.gsub(find, replace)","Ruby , URL: /wiki/Ruby_(programming_language)
+"
+"string =~ s/find_regex/replace/g[38]","Perl 5 , URL: /wiki/Perl_5
+"
+"string.subst(find, replace, :g)","Raku , URL: /wiki/Raku_(programming_language)
+"
+"string.replace(find, replace, ""g"") [39] or string.replace(/find_regex/g, replace)[38]","JavaScript , URL: /wiki/JavaScript
+"
+"echo ""string"" | sed 's/find_regex/replace/g'[38]","Unix , URL: /wiki/Unix
+"
+"string.replace(find, replace), or string -replace find_regex, replace[38]","Windows PowerShell , URL: /wiki/Windows_PowerShell
+"
+"Str.global_replace (Str.regexp_string find) replace string","OCaml , URL: /wiki/OCaml
+"
+"[string stringByReplacingOccurrencesOfString:find withString:replace]","Objective-C , URL: /wiki/Objective-C
+"
+"string.stringByReplacingOccurrencesOfString(find, withString:replace)","Swift , URL: /wiki/Swift_(programming_language)
+"
+"string.gsub(string, find, replace) (string):gsub(find, replace)","Lua , URL: /wiki/Lua_(programming_language)
+"
+"string copyReplaceAll: find with: replace","Smalltalk , URL: /wiki/Smalltalk
+Squeak , URL: /wiki/Squeak
+Pharo , URL: /wiki/Pharo
+"
+"string map {find replace} string","Tcl , URL: /wiki/Tcl_(programming_language)
+"
+"StringReplace[string, find -> replace]","Mathematica , URL: /wiki/Mathematica
+"
+"strings.Replace(string, find, replace, -1)","Go , URL: /wiki/Go_(programming_language)
+"
+"INSPECT string REPLACING ALL/LEADING/FIRST find BY replace","COBOL , URL: /wiki/COBOL
+"
+"find_regex ⎕R replace_regex ⊢ string","APL , URL: /wiki/APL_(programming_language)
+"

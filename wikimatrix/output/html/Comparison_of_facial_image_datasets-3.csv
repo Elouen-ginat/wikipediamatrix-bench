@@ -1,38 +1,26 @@
 "Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
-"Visual Genome","Images and their description","","108,000","images, text","Image captioning","2016","[50]","R. Krishna et al."
-"Berkeley 3-D Object Dataset","849 images taken in 75 different scenes. About 50 different object classes are labeled.","Object bounding boxes and labeling.","849","labeled images, text","Object recognition","2014","[51][52]","A. Janoch et al."
-"Berkeley Segmentation Data Set and Benchmarks 500 (BSDS500)","500 natural images, explicitly separated into disjoint train, validation and test subsets + benchmarking code. Based on BSDS300.","Each image segmented by five different subjects on average.","500","Segmented images","Contour detection and hierarchical image segmentation","2011","[53]","University of California, Berkeley , URL: /wiki/University_of_California,_Berkeley
+"Artificial Characters Dataset","Artificially generated data describing the structure of 10 capital English letters.","Coordinates of lines drawn given as integers. Various other features.","6000","Text","Handwriting recognition , URL: /wiki/Handwriting_recognition
+","1992","[91]","H. Guvenir et al."
+"Letter Dataset","Upper case printed letters.","17 features are extracted from all images.","20,000","Text","OCR, classification","1991","[92][93]","D. Slate et al."
+"CASIA-HWDB","Chinese character , URL: /wiki/Chinese_characters
+GB 2312 , URL: /wiki/GB_2312
+","Gray-scaled images with background pixels labeled as 255.","1,172,907","Images, Text","Handwriting recognition, classification","2009","[94]","CASIA , URL: /wiki/Institute_of_Automation,_Chinese_Academy_of_Sciences
 "
-"Microsoft Common Objects in Context (COCO)","complex everyday scenes of common objects in their natural context.","Object highlighting, labeling, and classification into 91 object types.","2,500,000","Labeled images, text","Object recognition","2015","[54][55][56]","T. Lin et al."
-"SUN Database","Very large scene and object recognition database.","Places and objects are labeled. Objects are segmented.","131,067","Images, text","Object recognition, scene recognition","2014","[57][58]","J. Xiao et al."
-"ImageNet , URL: /wiki/ImageNet
-","ImageNet Large Scale Visual Recognition Challenge , URL: /wiki/ImageNet_Large_Scale_Visual_Recognition_Challenge
-","Labeled objects, bounding boxes, descriptive words, SIFT features","14,197,122","Images, text","Object recognition, scene recognition","2009 (2014)","[59][60][61]","J. Deng et al."
-"Open Images","A Large set of images listed as having CC BY 2.0 license with image-level labels and bounding boxes spanning thousands of classes.","Image-level labels, Bounding boxes","9,178,275","Images, text","Classification, Object recognition","2017","[62]",""
-"TV News Channel Commercial Detection Dataset","TV commercials and news broadcasts.","Audio and video features extracted from still images.","129,685","Text","Clustering, classification","2015","[63][64]","P. Guha et al."
-"Statlog (Image Segmentation) Dataset","The instances were drawn randomly from a database of 7 outdoor images and hand-segmented to create a classification for every pixel.","Many features calculated.","2310","Text","Classification","1990","[65]","University of Massachusetts , URL: /wiki/University_of_Massachusetts
+"CASIA-OLHWDB","GB 2312 , URL: /wiki/GB_2312
+","Provides the sequences of coordinates of strokes.","1,174,364","Images, Text","Handwriting recognition, classification","2009","[95][94]","CASIA"
+"Character Trajectories Dataset","Labeled samples of pen tip trajectories for people writing simple characters.","3-dimensional pen tip velocity trajectory matrix for each sample","2858","Text","Handwriting recognition, classification","2008","[96][97]","B. Williams"
+"Chars74K Dataset","Kannada , URL: /wiki/Kannada_alphabet
+","","74,107","","Character recognition, handwriting recognition, OCR, classification","2009","[98]","T. de Campos"
+"UJI Pen Characters Dataset","Isolated handwritten characters","Coordinates of pen position as characters were written given.","11,640","Text","Handwriting recognition, classification","2009","[99][100]","F. Prat et al."
+"Gisette Dataset","Handwriting samples from the often-confused 4 and 9 characters.","Features extracted from images, split into train/test, handwriting images size-normalized.","13,500","Images, text","Handwriting recognition, classification","2003","[101]","Yann LeCun et al."
+"Omniglot dataset","1623 different handwritten characters from 50 different alphabets.","Hand-labeled.","38,300","Images, text, strokes","one-shot learning , URL: /wiki/One-shot_learning_(software)
+","2015","[102][103]","American Association for the Advancement of Science , URL: /wiki/American_Association_for_the_Advancement_of_Science
 "
-"Caltech 101 , URL: /wiki/Caltech_101
-","Pictures of objects.","Detailed object outlines marked.","9146","Images","Classification, object recognition.","2003","[66][67]","F. Li et al."
-"Caltech-256","Large dataset of images for object classification.","Images categorized and hand-sorted.","30,607","Images, Text","Classification, object detection","2007","[68][69]","G. Griffin et al."
-"SIFT10M Dataset","SIFT features of Caltech-256 dataset.","Extensive SIFT feature extraction.","11,164,866","Text","Classification, object detection","2016","[70]","X. Fu et al."
-"LabelMe","Annotated pictures of scenes.","Objects outlined.","187,240","Images, text","Classification, object detection","2005","[71]","MIT Computer Science and Artificial Intelligence Laboratory , URL: /wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory
+"MNIST database , URL: /wiki/MNIST_database
+","Database of handwritten digits.","Hand-labeled.","60,000","Images, text","Classification","1998","[104][105]","National Institute of Standards and Technology , URL: /wiki/National_Institute_of_Standards_and_Technology
 "
-"Cityscapes Dataset","Stereo video sequences recorded in street scenes, with pixel-level annotations. Metadata also included.","Pixel-level segmentation and labeling","25,000","Images, text","Classification, object detection","2016","[72]","Daimler AG , URL: /wiki/Daimler_AG
-"
-"PASCAL VOC Dataset","Large number of images for classification tasks.","Labeling, bounding box included","500,000","Images, text","Classification, object detection","2010","[73][74]","M. Everingham et al."
-"CIFAR-10 , URL: /wiki/CIFAR-10
-","Many small, low-resolution, images of 10 classes of objects.","Classes labelled, training set splits created.","60,000","Images","Classification","2009","[60][75]","A. Krizhevsky , URL: /wiki/Alex_Krizhevsky
-"
-"CIFAR-100 Dataset","Like CIFAR-10, above, but 100 classes of objects are given.","Classes labelled, training set splits created.","60,000","Images","Classification","2009","[60][75]","A. Krizhevsky et al."
-"CINIC-10 Dataset","A unified contribution of CIFAR-10 and Imagenet with 10 classes, and 3 splits. Larger than CIFAR-10.","Classes labelled, training, validation, test set splits created.","270,000","Images","Classification","2018","[76]","Luke N. Darlow, Elliot J. Crowley, Antreas Antoniou, Amos J. Storkey"
-"Fashion-MNIST","A MNIST-like fashion product database","Classes labelled, training set splits created.","60,000","Images","Classification","2017","[77]","Zalando SE"
-"notMNIST","Some publicly available fonts and extracted glyphs from them to make a dataset similar to MNIST. There are 10 classes, with letters A-J taken from different fonts.","Classes labelled, training set splits created.","500,000","Images","Classification","2011","[78]","Yaroslav Bulatov"
-"German Traffic Sign Detection Benchmark Dataset","Images from vehicles of traffic signs on German roads. These signs comply with UN standards and therefore are the same as in other countries.","Signs manually labeled","900","Images","Classification","2013","[79][80]","S Houben et al."
-"KITTI Vision Benchmark Dataset","Autonomous vehicles driving through a mid-size city captured images of various areas using cameras and laser scanners.","Many benchmarks extracted from data.",">100 GB of data","Images, text","Classification, object detection","2012","[81][82][83]","A Geiger et al."
-"Linnaeus 5 dataset","Images of 5 classes of objects.","Classes labelled, training set splits created.","8000","Images","Classification","2017","[84]","Chaladze & Kalatozishvili"
-"FieldSAFE","Multi-modal dataset for obstacle detection in agriculture including stereo camera, thermal camera, web camera, 360-degree camera, lidar, radar, and precise localization.","Classes labelled geographically.",">400 GB of data","Images and 3D point clouds","Classification, object detection, object localization","2017","[85]","M. Kragh et al."
-"11K Hands","11,076 hand images (1600 x 1200 pixels) of 190 subjects, of varying ages between 18 – 75 years old, for gender recognition and biometric identification.","None","11,076 hand images","Images and (.mat, .txt, and .csv) label files","Gender recognition and biometric identification","2017","[86]","M Afifi"
-"CORe50","Specifically designed for Continuous/Lifelong Learning and Object Recognition, is a collection of more than 500 videos (30fps) of 50 domestic objects belonging to 10 different categories.","Classes labelled, training set splits created based on a 3-way, multi-runs benchmark.","164,866 RBG-D images","images (.png or .pkl) and (.pkl, .txt, .tsv) label files","Classification, Object recognition","2017","[87]","V. Lomonaco and D. Maltoni"
-"OpenLORIS-Object","Lifelong/Continual Robotic Vision dataset (OpenLORIS-Object) collected by real robots mounted with multiple high-resolution sensors, includes a collection of 121 object instances (1st version of dataset, 40 categories daily necessities objects under 20 scenes). The dataset has rigorously considered 4 environment factors under different scenes, including illumination, occlusion, object pixel size and clutter, and defines the difficulty levels of each factor explicitly.","Classes labelled, training/validation/testing set splits created by benchmark scripts.","1,106,424 RBG-D images","images (.png and .pkl) and (.pkl) label files","Classification, Lifelong object recognition, Robotic Vision","2019","[88]","Q. She et al."
-"THz and thermal video data set","This multispectral data set includes terahertz, thermal, visual, near infrared, and three-dimensional videos of objects hidden under people's clothes.","3D lookup tables are provided that allow you to project images onto 3D point clouds.","More than 20 videos. The duration of each video is about 85 seconds (about 345 frames).","AP2J","Experiments with hidden object detection","2019","[89][90]","Alexei A. Morozov and Olga S. Sushkova"
+"Optical Recognition of Handwritten Digits Dataset","Normalized bitmaps of handwritten data.","Size normalized and mapped to bitmaps.","5620","Images, text","Handwriting recognition, classification","1998","[106]","E. Alpaydin et al."
+"Pen-Based Recognition of Handwritten Digits Dataset","Handwritten digits on electronic pen-tablet.","Feature vectors extracted to be uniformly spaced.","10,992","Images, text","Handwriting recognition, classification","1998","[107][108]","E. Alpaydin et al."
+"Semeion Handwritten Digit Dataset","Handwritten digits from 80 people.","All handwritten digits have been normalized for size and mapped to the same grid.","1593","Images, text","Handwriting recognition, classification","2008","[109]","T. Srl"
+"HASYv2","Handwritten mathematical symbols","All symbols are centered and of size 32px x 32px.","168233","Images, text","Classification","2017","[110]","Martin Thoma"
+"Noisy Handwritten Bangla Dataset","Includes Handwritten Numeral Dataset (10 classes) and Basic Character Dataset (50 classes), each dataset has three types of noise: white gaussian, motion blur, and reduced contrast.","All images are centered and of size 32x32.","Numeral Dataset: 23330, Character Dataset: 76000","Images, text","Handwriting recognition, classification","2017","[111][112]","M. Karki et al."

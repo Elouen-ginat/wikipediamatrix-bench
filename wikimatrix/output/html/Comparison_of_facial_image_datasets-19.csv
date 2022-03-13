@@ -1,3 +1,12 @@
 "Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
-"HIGGS Dataset","Monte Carlo simulations of particle accelerator collisions.","28 features of each collision are given.","11M","Text","Classification","2014","[343][344][345]","D. Whiteson"
-"HEPMASS Dataset","Monte Carlo simulations of particle accelerator collisions. Goal is to separate the signal from noise.","28 features of each collision are given.","10,500,000","Text","Classification","2016","[344][345][346]","D. Whiteson"
+"Yacht Hydrodynamics Dataset","Yacht performance based on dimensions.","Six features are given for each yacht.","308","Text","Regression","2013","[347][348]","R. Lopez"
+"Robot Execution Failures Dataset","5 data sets that center around robotic failure to execute common tasks.","Integer valued features such as torque and other sensor measurements.","463","Text","Classification","1999","[349]","L. Seabra et al."
+"Pittsburgh Bridges Dataset","Design description is given in terms of several properties of various bridges.","Various bridge features are given.","108","Text","Classification","1990","[350][351]","Y. Reich et al."
+"Automobile Dataset","Data about automobiles, their insurance risk, and their normalized losses.","Car features extracted.","205","Text","Regression","1987","[352][353]","J. Schimmer et al."
+"Auto MPG Dataset","MPG data for cars.","Eight features of each car given.","398","Text","Regression","1993","[354]","Carnegie Mellon University , URL: /wiki/Carnegie_Mellon_University
+"
+"Energy Efficiency Dataset","Heating and cooling requirements given as a function of building parameters.","Building parameters given.","768","Text","Classification, regression","2012","[355][356]","A. Xifara et al."
+"Airfoil Self-Noise Dataset","A series of aerodynamic and acoustic tests of two and three-dimensional airfoil blade sections.","Data about frequency, angle of attack, etc., are given.","1503","Text","Regression","2014","[357]","R. Lopez"
+"Challenger USA Space Shuttle O-Ring Dataset","Attempt to predict O-ring problems given past Challenger data.","Several features of each flight, such as launch temperature, are given.","23","Text","Regression","1993","[358][359]","D. Draper et al."
+"Statlog (Shuttle) Dataset","NASA space shuttle datasets.","Nine features given.","58,000","Text","Classification","2002","[360]","NASA , URL: /wiki/NASA
+"

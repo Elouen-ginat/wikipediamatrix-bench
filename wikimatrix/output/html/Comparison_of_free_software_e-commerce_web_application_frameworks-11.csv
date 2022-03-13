@@ -1,35 +1,36 @@
-"","Authorize.Net AIM , URL: /wiki/Authorize.Net
-","Authorize.Net SIM , URL: /wiki/Authorize.Net
-","Barclaycard CPI , URL: /wiki/Barclaycard
-","Barclaycard MPI , URL: /wiki/Barclaycard
-","HSBC API , URL: /wiki/HSBC
-","HSBC CPI , URL: /wiki/HSBC
+"","Skrill , URL: /wiki/Skrill
+","Stripe , URL: /wiki/Stripe_(company)
 ","PayPal , URL: /wiki/PayPal
-"
+","PayPal , URL: /wiki/PayPal
+","PayPal , URL: /wiki/PayPal
+","Sage Pay , URL: /wiki/Sage_Pay
+","Sage Pay , URL: /wiki/Sage_Pay
+","USAePay","WorldPay , URL: /wiki/Worldpay_Group_plc
+","Offline processing","Offline methods"
 "Apache OFBiz , URL: /wiki/Apache_OFBiz
-","Yes","No","No","No","No","No","Yes"
+","No","No","No","No","No","No","No","No","Yes","Yes","Yes"
 "Batavi , URL: /wiki/Batavi_(software)
-","No","No","No","No","No","No","No"
+","No","No","No","No","No","No","No","No","No","Yes","Yes"
 "BigCommerce , URL: /wiki/BigCommerce
-","Yes","Yes","No","No","No","No","Yes"
+","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
 "Drupal Commerce , URL: /wiki/Drupal_Commerce
-","Yes","No","No","No","No","No","Yes"
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","No"
 "KonaKart , URL: /wiki/KonaKart
-","Yes","Yes","No","No","No","No","Yes"
+","Yes","No","No","No","Yes","No","No","Yes","Yes","Yes","Yes"
 "Magento , URL: /wiki/Magento
-","Yes","3rd party","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","3rd party","Yes","Yes","Yes"
 "nopCommerce , URL: /wiki/NopCommerce
-","Yes","Yes","No","No","No","No","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","3rd party","Yes","Yes","Yes"
 "osCommerce , URL: /wiki/OsCommerce
-","Yes","Yes","No","No","No","No","Yes"
+","Yes","Yes","Yes","No","No","Yes","Yes","No","No","Yes","Yes"
 "pimcore , URL: /wiki/Pimcore
-","No","No","No","No","No","No","No"
+","No","No","No","No","No","No","No","No","No","No","No"
 "PrestaShop , URL: /wiki/PrestaShop
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","No","No","No","No","No","Yes","Yes","Yes"
 "Shopify , URL: /wiki/Shopify
-","Yes","Yes","No","Yes","No","No","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
 "WooCommerce , URL: /wiki/WooCommerce
-","Yes","Yes","No","No","No","No","Yes"
+","No","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes"
 "Zen Cart , URL: /wiki/Zen_Cart
-","Yes","Yes","No","No","No","No","Yes"
-"","Authorize.Net AIM","Authorize.Net SIM","Barclaycard CPI","Barclaycard MPI","HSBC API","HSBC CPI","PayPal Standard"
+","Yes","Yes","Yes","No","add-on","No","Yes","Yes","Yes","add-on","Yes"
+"","Skrill","Stripe","PayPal Pro","PayPal Payflow Link","PayPal Payflow Pro","Sage Pay Form","Sage Pay Direct","USAePay","WorldPay","Offline processing","Offline methods"

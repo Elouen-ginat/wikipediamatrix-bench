@@ -1,9 +1,11 @@
 "Country","Spacecraft","Power","Thrust","Specific impulse","Year launched"
-"Japan , URL: /wiki/Japan
-","Hayabusa , URL: /wiki/Hayabusa
-","350 W","8 mN","3200s","2003"
+"South Korea , URL: /wiki/South_Korea
+","DubaiSat-2 , URL: /wiki/DubaiSat-2
+","0.3 kW","7 mN","1000s","2013"
 "China , URL: /wiki/China
-","Shijian 9A (LIPS-200, ring-cusp magnetic field ion thruster)","1 kW","40 mN","3000s","2012"
-"India , URL: /wiki/India
-","GSAT-20 , URL: /wiki/GSAT-20
-","","","","2022 (Planned)"
+","Shijian 17 (HEP-100MF, magnetic focusing hall thruster)","1.4 kW","","1850s","2016"
+"China , URL: /wiki/China
+","Shijian 17 (LHT-100)","1.536 kW","83 mN","1600s","2016"
+"China , URL: /wiki/China
+","Tiangong space station , URL: /wiki/Tiangong_space_station
+","1.35 kW","80 mN","1600s","2021"

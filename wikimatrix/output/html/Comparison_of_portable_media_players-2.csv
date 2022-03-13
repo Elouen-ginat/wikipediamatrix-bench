@@ -1,61 +1,63 @@
-"Name","Navigation","Audio out","Speaker","Screen size (in)","Screen type","px , URL: /wiki/Pixel
-","Frame rate , URL: /wiki/Frame_rate
-","Color depth , URL: /wiki/Color_depth
-bpp , URL: /wiki/Pixel#Bits_per_pixel
-","Video out","Video battery life (hr)","Audio battery life (hr)"
-"Archos 105[54]","D-pad , URL: /wiki/D-pad
-","Headphone jack , URL: /wiki/Jack_(connector)
-","No","1.8","OLED , URL: /wiki/Organic_light-emitting_diode
-","160 × 128","30","18 , URL: /wiki/Color_depth#LCD_displays
-","Component , URL: /wiki/Component_video
-Composite , URL: /wiki/Composite_video
-","Unknown","18"
-"Archos 405[55][56]","D-pad , URL: /wiki/D-pad
-","Headphone jack , URL: /wiki/Jack_(connector)
-dock connector , URL: /wiki/Dock_connector
-","No","3.5","TFT LCD , URL: /wiki/Thin_film_transistor_liquid_crystal_display
-","320 × 240","30","24 , URL: /wiki/24-bit_color
-","Component , URL: /wiki/Component_video
-Composite , URL: /wiki/Composite_video
-","5","16"
-"Archos 5[57]","Touchscreen , URL: /wiki/Touchscreen
-","Headphone jack","Yes","4.8","TFT LCD","800 × 480","30","24","S-Video, composite via docking","7","22"
-"Archos 605 WiFi/GPS[58][59]","touchscreen , URL: /wiki/Touchscreen
-","Headphone jack","Yes","4.3","TFT LCD","800 × 480","30","24","Component, composite","5.5","15"
-"Archos 705 WiFi[60]","touchscreen , URL: /wiki/Touchscreen
-","Headphone jack","Yes","7","TFT LCD","800 × 480","30","18","Component, composite","5.5","15"
-"Cowon A3[61]","D-pad, 4 buttons","Headphone jack","Yes","4","TFT LCD","800 × 480","30","24","Component, composite, S-video","10","18"
-"Cowon D2[62]","Touchscreen, 3 buttons","Headphone jack","No","2.5","TFT LCD","320 × 240","30","24","Component, composite","10","52"
-"Cowon Q5W[63]","Touchscreen","Headphone jack","Yes","5","TFT LCD","800 × 480","30","24","Component, S-video, composite","7","13"
-"Gigabeat T-Series[64]","D-pad, 4 buttons","Headphone jack","No","2.4","TFT LCD","320 × 240","25","18","No","5","16"
-"GP2X F-200[65]","8-way d-pad/touchscreen, 9 buttons","Headphone jack","Yes","3.5","TFT LCD","320 × 240","30","16 , URL: /wiki/Highcolor
-","Component","3.5","6"
-"iPod classic[66]","Click wheel , URL: /wiki/Click_wheel
-","Headphone jack, dock connector","Clicker only","2.5","TFT LCD","320 × 240","30","16","Component, composite","6","36"
-"iPod nano 5G[67]","Click wheel, 1 center, 4 embedded buttons","Headphone jack, dock connector","Yes","2.25","TFT LCD","320 × 240","30","16","Component, composite","4","24"
-"iPod nano 6G[67]","Multi-touch screen","Headphone jack, dock connector","No","1.54","TFT LCD","240 × 240","","","Component, composite","No video support","24"
-"iPod touch[68]","Multi-touch screen, 3 buttons","Headphone jack, dock connector","Yes (ex. 1st and 2nd gen.)","3.5","TFT LCD","480 × 320 (4th gen. 960 × 640)","30","24 (4th gen.) 18 (1st. - 3rd gen.)","Component, composite","6","40 (4th gen), 30 (3rd gen), 36 (2nd gen), 24 (1st gen)"
-"iriver clix 2G[69]","D-pad, 4 embedded buttons","Headphone jack","No","2.2","AM , URL: /wiki/Active_matrix_addressing
-","320 × 240","30","18","No","5","25"
-"PSP Slim/Lite[70]","Analog stick/d-pad, 15 buttons","Headphone jack, dock connector","Yes","4.3","TFT LCD","480 × 272","30","24","d-terminal , URL: /wiki/D-terminal
-","4","10"
-"Samsung Galaxy Player 4.0 & 5.0[71]","Touchscreen, 3 buttons","Headphone jack","Yes","4.0/5.0","TFT LCD","800 × 480","","","","5 (4.0), 8 (5.0)","36 (4.0), 60 (5.0)"
-"Samsung T10[72]","D-pad, 5 buttons","Headphone jack","No","2","TFT LCD","320 × 240","30","18","No","4","30"
-"Samsung P2[72]","Touchscreen, 4 buttons","Headphone jack","No","3","TFT LCD","480 × 272","30","18","No","5","35"
-"Sansa Fuze[73]","Scroll ring , URL: /wiki/Scroll_wheel
-","Headphone jack, dock connector","No","1.9","TFT LCD","224 × 176","20","16","Composite","5","24"
-"Sansa Fuze+[74]","Touchpad , URL: /wiki/Touchpad
-","Headphone jack","No","2.4","TFT LCD","320 × 240","30","16","","5","24"
-"Sansa View[75][76]","Scroll wheel , URL: /wiki/Scroll_wheel
-","Headphone jack, dock connector","No","2.4","TFT LCD","320 × 240","30","16","Composite","7","35"
-"Walkman NWZ-A810 series[77]","D-pad, 7 buttons","Headphone jack","No","2","TFT LCD","320 × 240","30","16","Composite","8","33"
-"ZEN[78]","D-pad, 9 buttons","Headphone jack","No","2.5","TFT LCD","320 × 240","30","24","No","5","30"
-"ZEN Vision W[79]","D-pad, 12 buttons","Headphone jack, dock connector","Yes","4.3","TFT LCD","480 × 272","30","18","Composite","4.5","13"
-"Zune 4/8/16[80][81][82]","Zune pad , URL: /wiki/Zune_pad
-","Headphone jack, dock connector","No","1.8","TFT LCD","320 × 240","30","16","No","4","23 (Wi-Fi)/24"
-"Zune 80/120[83][84]","Zune pad, 2 buttons","Headphone jack, dock connector","No","3.2","TFT LCD","320 × 240","30","16","Component, composite","4","29 (Wi-Fi)/30"
-"Zune HD[85]","Touchscreen, 3 buttons","Headphone jack, dock connector","No","3.3","OLED","480 × 272","30","Unknown","HDMI, composite","8.5","33 (Wi-Fi off)"
-"ZVUE 260[86]","D-pad, 9 buttons","Headphone jack","Yes","2.5","AM , URL: /wiki/Active-matrix_liquid_crystal_display
-TFT , URL: /wiki/Thin_film_transistor
-LCD , URL: /wiki/Active-matrix_liquid_crystal_display
-","234 × 160","30","24","No","Unknown","6"
+"Name","Connectivity","Connectivity","Connectivity","Connectivity","OS compatibility","OS compatibility","OS compatibility","OS compatibility","OS compatibility","OS compatibility","OS compatibility","Integrated software","Protocol compliancy","Protocol compliancy"
+"Name","USB , URL: /wiki/Universal_Serial_Bus
+","USB , URL: /wiki/Universal_Serial_Bus
+","Wi-Fi , URL: /wiki/Wi-Fi
+","Bluetooth , URL: /wiki/Bluetooth
+","Linux , URL: /wiki/Linux
+","Macintosh , URL: /wiki/Mac_OS
+","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","Windows , URL: /wiki/Microsoft_Windows
+","MSC , URL: /wiki/USB_mass_storage_device_class
+","Integrated software","MTP , URL: /wiki/Media_Transfer_Protocol
+",""
+"Name","Mini-B port","2.0","Wi-Fi , URL: /wiki/Wi-Fi
+","Bluetooth , URL: /wiki/Bluetooth
+","Linux , URL: /wiki/Linux
+","Mac OS X , URL: /wiki/Mac_OS_X
+","Vista , URL: /wiki/Windows_Vista
+","XP , URL: /wiki/Windows_XP
+","2000 , URL: /wiki/Windows_2000
+","9x , URL: /wiki/Windows_9x
+","MSC , URL: /wiki/USB_mass_storage_device_class
+","Integrated software","MTP , URL: /wiki/Media_Transfer_Protocol
+",""
+"Archos 105","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","WMP , URL: /wiki/Windows_Media_Player
+MTP , URL: /wiki/Media_Transfer_Protocol
+","Yes","Yes",""
+"Archos 405","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","WMP through MTP","Yes","Yes",""
+"Archos 5","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Me , URL: /wiki/Windows_Me
+","WMP through MTP","Yes","Yes",""
+"Archos 605 WiFi / GPS","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","WMP through MTP","Yes","Yes",""
+"Archos 705 WiFi","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","WMP through MTP","Yes","Yes",""
+"Cowon A3","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Me , URL: /wiki/Windows_Me
+","jetAudio , URL: /wiki/JetAudio
+","Yes","Yes",""
+"Cowon D2","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","jetAudio","Yes","Yes",""
+"Cowon Q5W","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Me , URL: /wiki/Windows_Me
+","jetAudio , URL: /wiki/JetAudio
+","Yes","Yes",""
+"Gigabeat T400","Yes","Yes","No","No","No[87]","No","Yes","Yes","No","No","WMP through MTP","No","Yes",""
+"GP2X F-200","Unknown","Yes","No","No","Yes","Yes","Yes","Yes","Yes","No","N/A","N/A","N/A",""
+"iPod classic","No","Yes","No","No","No[88]","Yes","Yes","Yes","Yes","No","iTunes , URL: /wiki/ITunes
+","No","No",""
+"iPod nano 4G","No","Yes","No","No","No[88]","Yes","Yes","Yes","Yes","No","iTunes","No","No",""
+"iPod touch 1G","No","Yes","Yes","No","No","Yes","Yes","Yes","Yes","No","iTunes","No","No",""
+"iPod touch 2G - 5G","No","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","No","iTunes","No","No",""
+"iriver clix 2G","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","iriver plus Rhapsody[89]","Yes","Yes",""
+"PSP Slim & Lite","Yes","Yes","Yes","PSP Go , URL: /wiki/PSP_Go
+","Yes","Yes","Yes","Yes","Yes","No","Media Go , URL: /wiki/Media_Go
+","Yes","No",""
+"Samsung Galaxy Player","No","Yes","Yes","Yes","No","No","Yes","Yes","No","No","WMP through MTP","No","Yes",""
+"Samsung T10","Yes","Yes","No","Yes","No[87]","No","Yes","Yes","No","No","EmoDio","No","Yes",""
+"Samsung P2","Yes","Yes","No","Yes","No[87]","No","Yes","Yes","No","No","EmoDio","Yes","Yes",""
+"Sansa Fuze","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","MSC","WMP through MTP","Yes","Yes",""
+"Sansa Fuze+","micro B","Yes","No","No","Yes","Yes","Yes","Yes","Yes","MSC","WMP through MTP","Yes","Yes",""
+"Walkman NWZ-A810 series","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","No","WMP through MTP","Yes","Yes",""
+"ZEN","Yes","Yes","No","No","No[87]","No","Yes","Yes","No","No","Creative MediaSource , URL: /wiki/Creative_MediaSource
+","No","Yes",""
+"ZEN Vision W","Yes","Yes","No","No","No[87]","No","Yes","Yes","No","No","Creative MediaSource","No","Yes",""
+"Zune","No","Yes","Yes","No","No","No","Yes","Yes","No","No","Zune Software , URL: /wiki/Zune_Software
+","No","Yes",""
+"ZVUE 260","Unknown","Yes","No","No","No","Yes","No","Yes","No","No","ZAPP","No","No",""

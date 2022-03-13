@@ -1,60 +1,54 @@
 "Format","Languages"
-"changestr(find, string, replace)","Rexx , URL: /wiki/Rexx
+"reverse string","Perl 5 , URL: /wiki/Perl_5
+Haskell , URL: /wiki/Haskell_(programming_language)
 "
-"std.string.replace(string, find, replace)","D , URL: /wiki/D_(programming_language)
+"flip string string.flip","Raku , URL: /wiki/Raku_(programming_language)
 "
-"Replace(string, find, replace)","VB , URL: /wiki/Visual_Basic_(classic)
+"lists:reverse(string)","Erlang , URL: /wiki/Erlang_(programming_language)
 "
-"replace(string, find, replace)","Seed7 , URL: /wiki/Seed7
+"strrev(string)","PHP , URL: /wiki/PHP
 "
-"change(string, find, replace)","Pick Basic , URL: /wiki/Pick_Basic
+"string[::-1]","Python , URL: /wiki/Python_(programming_language)
 "
-"string.Replace(find, replace)","C# , URL: /wiki/C_Sharp_(programming_language)
-F# , URL: /wiki/F_Sharp_(programming_language)
-VB .NET , URL: /wiki/Visual_Basic_.NET
+"(string-reverse string)","Scheme , URL: /wiki/Scheme_(programming_language)
 "
-"str_replace(find, replace, string)","PHP , URL: /wiki/PHP
+"(reverse string)","Common Lisp , URL: /wiki/Common_Lisp
 "
-"re:replace(string, find, replace, «{return, list}»)","Erlang , URL: /wiki/Erlang_(programming_language)
+"string.reverse","Ruby , URL: /wiki/Ruby_(programming_language)
+D , URL: /wiki/D_(programming_language)
 "
-"string.replace(find, replace)","Cobra , URL: /wiki/Cobra_(programming_language)
-Java , URL: /wiki/Java_(programming_language)
-Python , URL: /wiki/Python_(programming_language)
-Rust , URL: /wiki/Rust_(programming_language)
+"new StringBuilder(string).reverse().toString()","Java , URL: /wiki/Java_(programming_language)
 "
-"string.replaceAll(find_regex, replace)[38]","Java , URL: /wiki/Java_(programming_language)
+"std::reverse(string.begin(), string.end());","C++ , URL: /wiki/C%2B%2B
 "
-"string.gsub(find, replace)","Ruby , URL: /wiki/Ruby_(programming_language)
+"StrReverse(string)","VB , URL: /wiki/Visual_Basic_(classic)
 "
-"string =~ s/find_regex/replace/g[38]","Perl 5 , URL: /wiki/Perl_5
+"string.Reverse().ToString()","VB .NET , URL: /wiki/Visual_Basic_.NET
+C# , URL: /wiki/C_Sharp_(programming_language)
 "
-"string.subst(find, replace, :g)","Raku , URL: /wiki/Raku_(programming_language)
+"implode (rev (explode string))","Standard ML , URL: /wiki/Standard_ML
 "
-"string.replace(find, replace, "g") [39] or string.replace(/find_regex/g, replace)[38]","JavaScript , URL: /wiki/JavaScript
+"string.split("""").reverse().join("""")","JavaScript , URL: /wiki/JavaScript
 "
-"echo "string" | sed 's/find_regex/replace/g'[38]","Unix , URL: /wiki/Unix
+"string.reverse(string) (string):reverse()","Lua , URL: /wiki/Lua_(programming_language)
 "
-"string.replace(find, replace), or string -replace find_regex, replace[38]","Windows PowerShell , URL: /wiki/Windows_PowerShell
+"string reverse","Smalltalk , URL: /wiki/Smalltalk
 "
-"Str.global_replace (Str.regexp_string find) replace string","OCaml , URL: /wiki/OCaml
+"StringReverse[string]","Mathematica , URL: /wiki/Mathematica
 "
-"[string stringByReplacingOccurrencesOfString:find withString:replace]","Objective-C , URL: /wiki/Objective-C
+"reverse(string)","PL/I , URL: /wiki/PL/I
 "
-"string.stringByReplacingOccurrencesOfString(find, withString:replace)","Swift , URL: /wiki/Swift_(programming_language)
+"«FUNCTION» REVERSE(string)","COBOL , URL: /wiki/COBOL
 "
-"string.gsub(string, find, replace) (string):gsub(find, replace)","Lua , URL: /wiki/Lua_(programming_language)
+"string.toCharArray.toList.reversed.join()","Cobra , URL: /wiki/Cobra_(programming_language)
 "
-"string copyReplaceAll: find with: replace","Smalltalk , URL: /wiki/Smalltalk
-Squeak , URL: /wiki/Squeak
-Pharo , URL: /wiki/Pharo
+"String(string.characters.reverse())","Swift , URL: /wiki/Swift_(programming_language)
 "
-"string map {find replace} string","Tcl , URL: /wiki/Tcl_(programming_language)
+"String(reverse(string))","Swift , URL: /wiki/Swift_(programming_language)
 "
-"StringReplace[string, find -> replace]","Mathematica , URL: /wiki/Mathematica
+"string reverse string","Tcl , URL: /wiki/Tcl
 "
-"strings.Replace(string, find, replace, -1)","Go , URL: /wiki/Go_(programming_language)
+"⌽string","APL , URL: /wiki/APL_(programming_language)
 "
-"INSPECT string REPLACING ALL/LEADING/FIRST find BY replace","COBOL , URL: /wiki/COBOL
-"
-"find_regex ⎕R replace_regex ⊢ string","APL , URL: /wiki/APL_(programming_language)
+"string.chars().rev().collect::<String>()","Rust , URL: /wiki/Rust_(programming_language)
 "

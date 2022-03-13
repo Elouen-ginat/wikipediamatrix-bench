@@ -10,9 +10,9 @@
 "Curvita Profile Manager","Unknown","Unknown","No"
 "CUSP - Columbia University Scientific Profiles","Unknown","Unknown","Yes"
 "Digital Vita","Unknown","Unknown","No (but can be done manually by authors)"
-"Elsevier's Pure (now integrated with SciVal Experts)",""Elsevier Fingerprinting Engine" , URL: http://www.elsevier.com/online-tools/research-intelligence/products-and-services/elsevier-fingerprint-engine
+"Elsevier's Pure (now integrated with SciVal Experts)","""Elsevier Fingerprinting Engine"" , URL: http://www.elsevier.com/online-tools/research-intelligence/products-and-services/elsevier-fingerprint-engine
 ","Maps to VIVO ontology","Yes"
-"Elsevier's SciVal",""Elsevier Fingerprinting Engine" , URL: http://www.elsevier.com/online-tools/research-intelligence/products-and-services/elsevier-fingerprint-engine
+"Elsevier's SciVal","""Elsevier Fingerprinting Engine"" , URL: http://www.elsevier.com/online-tools/research-intelligence/products-and-services/elsevier-fingerprint-engine
 ","Maps to VIVO ontology","Yes"
 "Epernicus Solutions & Epernicus Network","Unknown","Unknown","No (can be done manually by authors)"
 "ERIM Member Profile System (ERIM MIS)","Unknown","Unknown","Yes (uses author ID numbers)"
@@ -24,7 +24,7 @@
 "Faculty Scholarly Productivity Index","Unknown","Unknown","Unknown"
 "GENIUS","Unknown","Unknown","No"
 "Google , URL: /wiki/Google
-","None (Google uses generic keywords)","Unknown","No (but can be done manually through Google Scholar "My Citations" functionality)"
+","None (Google uses generic keywords)","Unknown","No (but can be done manually through Google Scholar ""My Citations"" functionality)"
 "HUBzero","Unknown","Unknown","No"
 "iamResearcher","Unknown","Unknown","No"
 "iAMscientist","Unknown","Unknown","No"
@@ -46,7 +46,7 @@
 "Pivot","Unknown","Unknown","Yes"
 "Portfolio & Showroom","Yes","ontology's vocabulary , URL: https://voc.uni-ak.ac.at/
 ","Yes (users can also differentiate manually)"
-"Profiles","MeSH, others are being developed to go beyond the life and biomedical sciences","VIVO RDF ontology with additional Profiles RDF classes and properties","Yes Harvard Profiles uses an XML-based "disambiguation service" to import Medline publications and uses configurable heuristics in its disambiguation algorithm"
+"Profiles","MeSH, others are being developed to go beyond the life and biomedical sciences","VIVO RDF ontology with additional Profiles RDF classes and properties","Yes Harvard Profiles uses an XML-based ""disambiguation service"" to import Medline publications and uses configurable heuristics in its disambiguation algorithm"
 "ReachNC","Scopus taxonomy uses MeSH and general keywords","Maps to VIVO ontology","Yes"
 "Research Accelerator","Unknown","Unknown","No"
 "ResearcherID","Unknown","Unknown","No (although authors can build their publication list and manually disambiguate)"

@@ -1,16 +1,3 @@
-"Fields and initialization","Java","C#"
-"Fields , URL: /wiki/Field_(computer_science)
-","Yes","Yes"
-"Constants , URL: /wiki/Constant_(programming)
-","Yes","Yes; but no support for constant passed parameters[52]"
-"constructors , URL: /wiki/Constructor_(object-oriented_programming)
-","Yes","Yes"
-"Instance constructors","Yes","Yes"
-"Finalizers/destructors , URL: /wiki/Destructor_(computer_science)
-","Yes","Yes"
-"Instance initializers","Yes","No; can be simulated with instance constructor"
-"initialization , URL: /wiki/Initialization_(programming)
-","Bottom-up (fields and constructors)","Top-down (fields); bottom-up (constructors)"
-"Object initializers","Yes","Yes"
-"Collection initializers","Static varargs methods","Yes"
-"Array initializers","Yes","Yes"
+"Exceptions","Java","C#"
+"Checked exceptions","Yes","No"
+"Try-catch-finally","Yes","Yes"

@@ -25,7 +25,7 @@
 "Math Kernel Library , URL: /wiki/Math_Kernel_Library
 ","C++, Fortran","11.1 / October 2013","No","Yes","Proprietary","Numerical library from Intel. MKL is specialized on linear algebra, but contains some optimization-related functionality."
 "Wolfram Mathematica , URL: /wiki/Wolfram_Mathematica
-","C++, Wolfram Language","13.0.1 (February 17, 2022; 21 days ago (2022-02-17)) [±][3]","No","Yes","Proprietary","Constrained nonlinear optimization, interior point methods, convex optimization and integer programming-as well as original symbolic methods integrated with general computational capabilities."
+","C++, Wolfram Language","13.0.1 (February 17, 2022; 23 days ago (2022-02-17)) [±][3]","No","Yes","Proprietary","Constrained nonlinear optimization, interior point methods, convex optimization and integer programming-as well as original symbolic methods integrated with general computational capabilities."
 "MIDACO , URL: /wiki/MIDACO
 ","C++, C#, Python, Matlab, Octave, Fortran, R, Java, Excel, VBA, Julia","6.0 / Mar 2018","Yes","Yes","Dual (Commercial, academic)","Lightweight software tool for single- and multi-objective optimization. Supporting MINLP and parallelization."
 "NAG Numerical Libraries , URL: /wiki/NAG_Numerical_Libraries

@@ -8,7 +8,7 @@ toolkit , URL: /wiki/Toolkit
 SharpSvn , URL: /w/index.php?title=SharpSvn&action=edit&redlink=1
 ","Microsoft Windows , URL: /wiki/Microsoft_Windows
 ","Apache License , URL: /wiki/Apache_License
-","Microsoft Visual Studio (all editions except Express)","English","http, https, svn, svn+ssh, file","2.9.87","November 9, 2021; 3 months ago (2021-11-09)[3]","No","Diff, blame, history, properties"
+","Microsoft Visual Studio (all editions except Express)","English","http, https, svn, svn+ssh, file","2.9.87","November 9, 2021; 4 months ago (2021-11-09)[3]","No","Diff, blame, history, properties"
 "eSvn , URL: /wiki/ESvn
 ","Qt , URL: /wiki/Qt_(framework)
 ","Unix-like operating systems (Linux distributions, FreeBSD, Sun Solaris and others), Mac OS X and Windows","GPL , URL: /wiki/GNU_General_Public_License
@@ -42,16 +42,16 @@ Apache License , URL: /wiki/Apache_License
 ","GPL","GUI, standalone. It needs TortoiseSVN installed.","English","http, https, svn, svn+ssh, file","1.9.3","June 25, 2012; 9 years ago (2012-06-25)[11]","?","?"
 "TortoiseSVN , URL: /wiki/TortoiseSVN
 ","C++, MFC","Microsoft Windows , URL: /wiki/Microsoft_Windows
-","GPL","Windows Shell (Explorer)","54 languages (including english)[12]","http, https, svn, svn+ssh, file, svn+XXX","1.14.1","February 10, 2021; 12 months ago (2021-02-10)[13]","Yes","Diff, merge, Revision Tree, blame"
+","GPL","Windows Shell (Explorer)","54 languages (including english)[12]","http, https, svn, svn+ssh, file, svn+XXX","1.14.1","February 10, 2021; 13 months ago (2021-02-10)[13]","Yes","Diff, merge, Revision Tree, blame"
 "Trac , URL: /wiki/Trac
 ","Python","Microsoft Windows , URL: /wiki/Microsoft_Windows
 ","Modified BSD , URL: /wiki/Modified_BSD_License
 ","web-based","33 languages (including english)[14]","file","1.2.4[15]","July 17, 2019; 2 years ago (2019-07-17)[16]","Yes","Log"
 "ViewVC , URL: /wiki/ViewVC
-","Python","http, https",""two-clause Berkeley-style"","web-based","English","http, https, svn, svn+ssh, file","1.2.1","March 26, 2020; 23 months ago (2020-03-26)[17]","?","Diff, annotation, blame, revision graph"
+","Python","http, https","""two-clause Berkeley-style""","web-based","English","http, https, svn, svn+ssh, file","1.2.1","March 26, 2020; 23 months ago (2020-03-26)[17]","?","Diff, annotation, blame, revision graph"
 "VisualSVN , URL: /wiki/VisualSVN
 ","","Microsoft Windows , URL: /wiki/Microsoft_Windows
-","proprietary","Microsoft Visual Studio (all editions except Express)","English","http, https, svn, svn+ssh, file","7.3.0","October 6, 2020; 16 months ago (2020-10-06)[18]","Yes","?"
+","proprietary","Microsoft Visual Studio (all editions except Express)","English","http, https, svn, svn+ssh, file","7.3.0","October 6, 2020; 17 months ago (2020-10-06)[18]","Yes","?"
 "Xcode , URL: /wiki/Xcode
 ","Objective-C , URL: /wiki/Objective-C
 Cocoa , URL: /wiki/Cocoa_(API)

@@ -1,86 +1,92 @@
-"Format","Languages"
-"string (string'First .. string'First + n - 1)","Ada , URL: /wiki/Ada_(programming_language)
+"Format","Returns","Languages"
+"string'Length","","Ada , URL: /wiki/Ada_(programming_language)
 "
-"substr(string, 0, n)","AWK , URL: /wiki/AWK
-Perl , URL: /wiki/Perl
-PHP , URL: /wiki/PHP
-Raku , URL: /wiki/Raku_(programming_language)
+"UPB string","","ALGOL 68 , URL: /wiki/ALGOL_68
 "
-"LEFT$(string,n)","BASIC , URL: /wiki/BASIC
-VB , URL: /wiki/Visual_Basic_(classic)
+"length(string)","","Ingres , URL: /wiki/Ingres_(database)
+Perl 5 , URL: /wiki/Perl_5
+Pascal , URL: /wiki/Pascal_(programming_language)
+Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
+Rexx , URL: /wiki/Rexx
+Seed7 , URL: /wiki/Seed7
+SQL , URL: /wiki/SQL
+PL/I , URL: /wiki/PL/I
 "
-"left(string,n)","VB , URL: /wiki/Visual_Basic_(classic)
+"len(string)","","BASIC , URL: /wiki/BASIC
 FreeBASIC , URL: /wiki/FreeBASIC
-Ingres , URL: /wiki/Ingres_(database)
+Python , URL: /wiki/Python_(programming_language)
+Go , URL: /wiki/Go_(programming_language)
 Pick Basic , URL: /wiki/Pick_Basic
 "
-"strncpy(string2, string, n)","C standard library , URL: /wiki/C_(programming_language)
+"length(string), string:len(string)","","Erlang , URL: /wiki/Erlang_(programming_language)
 "
-"string.substr(0,n)","C++ , URL: /wiki/C%2B%2B
-Raku , URL: /wiki/Raku_(programming_language)
+"Len(string)","","VB , URL: /wiki/Visual_Basic_(classic)
+Pick Basic , URL: /wiki/Pick_Basic
 "
-"[string substringToIndex:n]","Objective-C , URL: /wiki/Objective-C
-"
-"(apply str (take n string))","Clojure , URL: /wiki/Clojure
-"
-"string[0 .. n]","D , URL: /wiki/D_(programming_language)
-"
-"string:substr(string, start, length)","Erlang , URL: /wiki/Erlang_(programming_language)
-"
-"(subseq string 0 n)","Common Lisp , URL: /wiki/Common_Lisp
-"
-"string[:n]","Cobra , URL: /wiki/Cobra_(programming_language)
-Go , URL: /wiki/Go_(programming_language)
-Python , URL: /wiki/Python_(programming_language)
-"
-"left(string,n «,padchar»)","Rexx , URL: /wiki/Rexx
-Erlang , URL: /wiki/Erlang_(programming_language)
-"
-"string[0, n] string[0..n - 1]","Ruby , URL: /wiki/Ruby_(programming_language)
-"
-"string[1, n]","Pick Basic , URL: /wiki/Pick_Basic
-"
-"string[ .. n]","Seed7 , URL: /wiki/Seed7
-"
-"string.Substring(0,n)","VB .NET , URL: /wiki/Visual_Basic_.NET
+"string.Length","UTF-16 , URL: /wiki/UTF-16
+code units , URL: /wiki/Code_unit
+","VB .NET , URL: /wiki/Visual_Basic_.NET
 C# , URL: /wiki/C_Sharp_(programming_language)
 Windows PowerShell , URL: /wiki/Windows_PowerShell
 F# , URL: /wiki/F_Sharp_(programming_language)
 "
-"leftstr(string, n)","Pascal , URL: /wiki/Pascal_(programming_language)
-Object Pascal , URL: /wiki/Object_Pascal
-Delphi , URL: /wiki/Delphi_(programming_language)
+"chars(string) string.chars","Number of graphemes (NFG)","Raku , URL: /wiki/Raku_(programming_language)
 "
-"copy (string,1,n)","Turbo Pascal , URL: /wiki/Turbo_Pascal
+"codes(string) string.codes","Number of Unicode code points","Raku , URL: /wiki/Raku_(programming_language)
 "
-"string.substring(0,n)","Java , URL: /wiki/Java_(programming_language)
+"string.size OR string.length","Number of bytes[29]","Ruby , URL: /wiki/Ruby_(programming_language)
+"
+"strlen(string)","Number of bytes","C , URL: /wiki/C_(programming_language)
+PHP , URL: /wiki/PHP
+"
+"string.length()","","C++ , URL: /wiki/C%2B%2B
+"
+"string.length","","Cobra , URL: /wiki/Cobra_(programming_language)
+D , URL: /wiki/D_(programming_language)
 JavaScript , URL: /wiki/JavaScript
 "
-"(string-take string n)","Scheme , URL: /wiki/Scheme_(programming_language)
+"string.length()","UTF-16 , URL: /wiki/UTF-16
+code units , URL: /wiki/Code_unit
+","Java , URL: /wiki/Java_(programming_language)
 "
-"take n string","Haskell , URL: /wiki/Haskell_(programming_language)
+"(string-length string)","","Scheme , URL: /wiki/Scheme_(programming_language)
 "
-"String.extract (string, n, NONE)","Standard ML , URL: /wiki/Standard_ML
+"(length string)","","Common Lisp , URL: /wiki/Common_Lisp
+ISLISP , URL: /wiki/ISLISP
 "
-"String.sub string 0 n","OCaml , URL: /wiki/OCaml
+"(count string)","","Clojure , URL: /wiki/Clojure
 "
-"string.[..n]","F# , URL: /wiki/F_Sharp_(programming_language)
+"String.length string","","OCaml , URL: /wiki/OCaml
 "
-"string.sub(string, 1, n) (string):sub(1, n)","Lua , URL: /wiki/Lua_(programming_language)
+"size string","","Standard ML , URL: /wiki/Standard_ML
 "
-"string first: n","Smalltalk , URL: /wiki/Smalltalk
-Squeak , URL: /wiki/Squeak
-Pharo , URL: /wiki/Pharo
+"length string","Number of Unicode code points","Haskell , URL: /wiki/Haskell_(programming_language)
 "
-"string(:n)","Fortran , URL: /wiki/Fortran
+"string.length","UTF-16 , URL: /wiki/UTF-16
+","Objective-C , URL: /wiki/Objective-C
 "
-"StringTake[string, n]","Mathematica , URL: /wiki/Mathematica
+"string.characters.count","Number of characters","Swift , URL: /wiki/Swift_(programming_language)
 "
-"string («FUNCTION» LENGTH(string) - n:n)","COBOL , URL: /wiki/COBOL
+"count(string)","Number of characters","Swift , URL: /wiki/Swift_(programming_language)
 "
-"string.substring(0, n)","Cobra , URL: /wiki/Cobra_(programming_language)
+"countElements(string)","Number of characters","Swift , URL: /wiki/Swift_(programming_language)
 "
-"n↑string.","APL , URL: /wiki/APL_(programming_language)
+"string.len(string) (string):len() #string","","Lua , URL: /wiki/Lua_(programming_language)
 "
-"string[0..n] string[..n] string.get(0..n) string.get(..n)","Rust , URL: /wiki/Rust_(programming_language)
+"string size","","Smalltalk , URL: /wiki/Smalltalk
+"
+"LEN(string), or LEN_TRIM(string)","","Fortran , URL: /wiki/Fortran
+"
+"StringLength[string]","","Mathematica , URL: /wiki/Mathematica
+"
+"«FUNCTION» LENGTH(string) or «FUNCTION» BYTE-LENGTH(string)","number of characters and number of bytes, respectively","COBOL , URL: /wiki/COBOL
+"
+"string length string","a decimal string giving the number of characters","Tcl , URL: /wiki/Tcl
+"
+"≢ string","","APL , URL: /wiki/APL_(programming_language)
+"
+"string.len()","Number of bytes","Rust , URL: /wiki/Rust_(programming_language)
+"
+"string.chars().count()","Number of Unicode code points","Rust , URL: /wiki/Rust_(programming_language)
 "

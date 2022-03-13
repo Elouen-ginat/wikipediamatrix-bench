@@ -1,65 +1,68 @@
 "","Imports , URL: /wiki/Imports
 ","Imports , URL: /wiki/Imports
 ","Imports , URL: /wiki/Imports
+","Imports , URL: /wiki/Imports
 ","Exports , URL: /wiki/Exports
 ","Exports , URL: /wiki/Exports
 ","Exports , URL: /wiki/Exports
 ","Exports , URL: /wiki/Exports
 "
-"","OpenFlight , URL: /wiki/OpenFlight
-","other 3D game files","3D renderer files","OpenFlight , URL: /wiki/OpenFlight
-","OGRE , URL: /wiki/OGRE
-","other 3D game files","3D renderer files"
+"","STL , URL: /wiki/STL_(file_format)
+","DXF , URL: /wiki/AutoCAD_DXF
+","DWG , URL: /wiki/.dwg
+","others","STL","DXF","DWG","others"
 "3ds Max , URL: /wiki/3ds_Max
-","Yes","","","Yes","No","",""
+","Yes","Yes","Yes","IGE, IGS, IGES, IPT, WIRE, IAM, LS, VW, LP, SAT, Catia V4/V5, JT, ProE, RVT, PRT, SolidWorks,[io 9] STEP, WIRE","Yes","Yes","Yes","ATR, BLK, DF, IGS, LAY, LP, SAT, VW"
 "AC3D , URL: /wiki/AC3D
-","No","Irrlicht , URL: /wiki/Irrlicht_Engine
-SMF , URL: /wiki/4x4_Evolution
-","","No","Yes","DirectX X , URL: /wiki/.x
-Second Life , URL: /wiki/Second_Life
-","POV-Ray , URL: /wiki/POV-Ray
-RenderMan , URL: /wiki/RenderMan_Interface_Specification
-"
+","Yes","Yes","No","LDraw (Lego), SOF Airfoil","Yes","Yes","No","Inventor, LDraw (Lego)"
 "Blender , URL: /wiki/Blender_(software)
-","dropped","","","dropped","(blender2ogre addon)","","POV-Ray POV"
+","Yes","Yes[io 10]","No","","Yes","Yes[io 10]","No",""
 "Electric Image Animation System , URL: /wiki/Electric_Image_Animation_System
-","?","","","?","?","",""
+","?","Yes","?","","?","Yes","?",""
 "Cinema 4D , URL: /wiki/Cinema_4D
-","?","","","?","?","",""
+","Yes","Yes","Yes","","Yes","Yes","?",""
 "Clara.io , URL: /wiki/Clara.io
-","?","DirectX X, Irrlicht irrmesh","POV-Ray POV","?","?","Quake II (MD2), Quake III Mesh (MD3), Doom 3 (MD5)",""
+","Yes","Yes","?","","Yes","?","?",""
 "Cobalt , URL: /wiki/Cobalt_(CAD_program)
-","?","","","?","?","",""
-"Houdini , URL: /wiki/Houdini_(software)
-","?","","","?","?","",""
-"IClone , URL: /wiki/IClone
-","?","","","?","?","",""
-"Lightwave 3D , URL: /wiki/Lightwave_3D
-","?","Quake II (MD2)","","?","?","Quake II (MD2)",""
-"MakeHuman , URL: /wiki/MakeHuman
-","No","","","?","Yes","Doom 3 (MD5)",""
-"Maya , URL: /wiki/Maya_(software)
-","Yes","","","Yes","No","","Mental Ray , URL: /wiki/Mental_Ray
+","?","Yes","Yes","ACIS SAT , URL: /wiki/ACIS
+CATIA v4 , URL: /wiki/CATIA
+CCAD , URL: /wiki/Claris_CAD
+CGM , URL: /wiki/Computer_Graphics_Metafile
+IGS , URL: /wiki/IGES
+Pro/E , URL: /wiki/Pro/ENGINEER
+Rhino 3DM , URL: /wiki/JSLEE
+STP , URL: /wiki/ISO_10303
+","?","Yes","Yes","ACIS SAT , URL: /wiki/ACIS
+CATIA v4 , URL: /wiki/CATIA
+CGM , URL: /wiki/Computer_Graphics_Metafile
+IGS , URL: /wiki/IGES
+PDF , URL: /wiki/Portable_Document_Format
+Pro/E , URL: /wiki/Pro/ENGINEER
+STP , URL: /wiki/ISO_10303
 "
+"Houdini , URL: /wiki/Houdini_(software)
+","External[18]","External[18]","No","","External[18]","External[18]","No",""
+"IClone , URL: /wiki/IClone
+","?","?","?","","?","?","?",""
+"Lightwave 3D , URL: /wiki/Lightwave_3D
+","Yes","Yes","No","","Yes","Yes","No",""
+"Maya , URL: /wiki/Maya_(software)
+","Windows and Mac only[19]","Windows only[19]","Windows only[19]","IGES, StudioTools Wire","Windows and Mac only[20]","Windows only[20]","Windows only[20]","IGES, StudioTools Wire, Open Inventor2"
 "Metasequoia , URL: /wiki/Metasequoia_(software)
-","No","[io 6]","","No","No","DirectX X[io 6]","RenderMan RIB[io 7]"
+","Yes","Yes","No","","Yes","Yes","No",""
 "Modo , URL: /wiki/Modo_(software)
-","?","","","?","?","",""
+","Yes","Yes","No","SolidWorks[io 9]","Yes","Yes","No",""
 "Remo 3D , URL: /wiki/Remo_3D
-","?","DirectX X, Quake II (MD2)","","?","","",""
+","Yes","Yes","No","DW (Designer Workshop)","Yes","No","No",""
 "Shade , URL: /wiki/Shade_3D
-","?","","","?","?","Blue Mars , URL: /wiki/Blue_Mars_(video_game)
-","RenderMan RIB"
-"Softimage , URL: /wiki/Softimage
-","?","","","?","?","",""
+","Yes","Yes","No","","Yes","Yes","No",""
 "Solid Edge , URL: /wiki/Solid_Edge
-","?","","","?","?","",""
+","Yes","Yes","Yes","IGES, STEP, JT, ACIS (SAT), ProE, SolidWorks,[io 9] NX, SDRC, Microstation, Inventor, CATIA (V4/V5), Parasolid, XML, MDS","Yes","Yes","Yes","IGES, STEP, EMS, JT, XGL, XML, Parasolid, CATIA (V4/V5), ACIS (SAT), Microstation"
 "SketchUp Make , URL: /wiki/SketchUp
-","?","","","?","?","",""
+","?","?","?","","?","?","?",""
 "SketchUp , URL: /wiki/SketchUp
-","?","","","?","?","dotXSI , URL: /wiki/DotXSI
-",""
+","Yes","Yes[10]","Yes[10]","","Yes","Yes[10]","Yes[10]",""
 "E-on Vue , URL: /wiki/E-on_Vue
-","?","?","?","?","?","?","?"
+","?","?","?","","?","?","?",""
 "Wings3D , URL: /wiki/Wings3D
-","?","","","?","?","BZFlag, DirectX X, Renderware","Kerkythea, POV-Ray POV"
+","Yes","?","?","","Yes","?","?",""

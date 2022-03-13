@@ -1,3 +1,4 @@
-"Left","Center","Right"
-"","",""
-"Bronze star","Gold star","Green star"
+"To From","Solid","Liquid","Gas"
+"Solid","Solid-solid transformation","Melting","Sublimation"
+"Liquid","Freezing","—","Boiling/evaporation"
+"Gas","Deposition","Condensation","—"

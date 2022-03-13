@@ -1,1 +1,196 @@
-"","This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of disk cloning software" – news · newspapers · books · scholar · JSTOR (December 2012) (Learn how and when to remove this template message)"
+"Name","Operating system","User interface , URL: /wiki/User_interface
+","Sector by sector[a]","File by file[b]","Hot transfer[c]","Mount or extract[d]","Operation model","Operation model","Operation model","License , URL: /wiki/Software_license
+","Purchase/subscription"
+"Name","Operating system","User interface , URL: /wiki/User_interface
+","Sector by sector[a]","File by file[b]","Hot transfer[c]","Mount or extract[d]","Standalone","Client–server , URL: /wiki/Client%E2%80%93server
+","Live OS , URL: /wiki/Live_OS
+","License , URL: /wiki/Software_license
+","Purchase/subscription"
+"Acronis Cyber Protect Home Office , URL: /wiki/Acronis_Cyber_Protect_Home_Office
+","Windows , URL: /wiki/Windows
+","Graphical , URL: /wiki/Graphical_user_interface
+","Yes[e]","FAT32 , URL: /wiki/FAT32
+NTFS , URL: /wiki/NTFS
+HFS+ , URL: /wiki/HFS%2B
+APFS , URL: /wiki/APFS
+ext2 , URL: /wiki/Ext2
+ext3 , URL: /wiki/Ext3
+ext4 , URL: /wiki/Ext4
+ReiserFS , URL: /wiki/ReiserFS
+","Yes","Yes","Yes","Yes","Yes (64 MB)","Trialware , URL: /wiki/Trialware
+","$49.99/yr and up"
+"Apple Software Restore , URL: /wiki/Apple_Software_Restore
+","macOS , URL: /wiki/MacOS
+","Command-line , URL: /wiki/Command-line
+","Yes","HFS+ , URL: /wiki/HFS%2B
+","No","via hdiutil","Yes","Yes","No","macOS , URL: /wiki/MacOS
+",""
+"Clonezilla , URL: /wiki/Clonezilla
+","Linux , URL: /wiki/Linux
+","Text-based , URL: /wiki/Text-based_user_interface
+","Yes","FAT12 , URL: /wiki/FAT12
+FAT16 , URL: /wiki/FAT16
+FAT32 , URL: /wiki/FAT32
+NTFS , URL: /wiki/NTFS
+ext2 , URL: /wiki/Ext2
+ext3 , URL: /wiki/Ext3
+ext4 , URL: /wiki/Ext4
+reiserfs , URL: /wiki/Reiserfs
+reiser4 , URL: /wiki/Reiser4
+xfs , URL: /wiki/Xfs
+jfs , URL: /wiki/JFS_(file_system)
+btrfs , URL: /wiki/Btrfs
+f2fs , URL: /wiki/F2fs
+NILFS2 , URL: /wiki/NILFS
+HFS+ , URL: /wiki/HFS%2B
+UFS , URL: /wiki/Unix_File_System
+minix , URL: /wiki/Minix
+VMFS3 , URL: /wiki/VMFS3
+","No","hack , URL: /wiki/Hack_(computer_science)
+","Yes","Yes (Clonezilla server edition)","Yes (210 MB)","GPL , URL: /wiki/GNU_General_Public_License
+",""
+"dcfldd , URL: /wiki/Dcfldd
+","Linux , URL: /wiki/Linux
+","Command-line , URL: /wiki/Command-line
+","Yes","No","No","Yes","Yes","No","?","GPL , URL: /wiki/GPL
+",""
+"dd (Unix) , URL: /wiki/Dd_(Unix)
+","Unix , URL: /wiki/Unix
+","Command-line , URL: /wiki/Command-line
+","Yes","No","No","Yes[g]","Yes","No","Yes[h]","GPLv3 , URL: /wiki/GPLv3
+",""
+"Disks (gnome-disk-utility) , URL: /wiki/GNOME_Disks
+","Linux , URL: /wiki/Linux
+","Graphical , URL: /wiki/Graphical_user_interface
+","UI only","UI only","UI only","UI only","UI only","UI only","UI only","Gnome , URL: /wiki/Gnome
+",""
+"Disk Utility , URL: /wiki/Disk_Utility
+","macOS , URL: /wiki/MacOS
+","Graphical , URL: /wiki/Graphical_user_interface
+","Yes","HFS+ , URL: /wiki/HFS%2B
+","Yes","Yes","Yes","No","Yes","macOS , URL: /wiki/MacOS
+",""
+"FSArchiver , URL: /wiki/FSArchiver
+","Linux , URL: /wiki/Linux
+","Text-based , URL: /wiki/Text-based_user_interface
+","No","FAT32 , URL: /wiki/FAT32
+btrfs , URL: /wiki/Btrfs
+ext2 , URL: /wiki/Ext2
+ext3 , URL: /wiki/Ext3
+ext4 , URL: /wiki/Ext4
+ReiserFS , URL: /wiki/ReiserFS
+HPFS , URL: /wiki/High_Performance_File_System
+JFS , URL: /wiki/JFS_(file_system)
+XFS , URL: /wiki/XFS
+","?","?","Yes","No","?","GPL , URL: /wiki/GPL
+",""
+"Ghost , URL: /wiki/Ghost_(software)
+","Windows , URL: /wiki/Windows
+","Graphical , URL: /wiki/Graphical_user_interface
+Command-line , URL: /wiki/Command-line
+","Yes","FAT32 , URL: /wiki/FAT32
+NTFS , URL: /wiki/NTFS
+HPFS , URL: /wiki/High_Performance_File_System
+ext2 , URL: /wiki/Ext2
+ext3 , URL: /wiki/Ext3
+","Yes","Yes","Yes","Yes","Yes","Trialware , URL: /wiki/Trialware
+",""
+"GParted Live CD , URL: /wiki/GParted
+","Linux , URL: /wiki/Linux
+","Graphical , URL: /wiki/Graphical_user_interface
+","No","ext2 , URL: /wiki/Ext2
+ext3 , URL: /wiki/Ext3
+","No","No","Yes","No","Yes","GPL , URL: /wiki/GPL
+",""
+"Image for Windows , URL: /wiki/Image_for_Windows_(disk_imaging)
+","Windows , URL: /wiki/Windows
+","Graphical , URL: /wiki/Graphical_user_interface
+","Yes","FAT32 , URL: /wiki/FAT32
+NTFS , URL: /wiki/NTFS
+ext2 , URL: /wiki/Ext2
+ext3 , URL: /wiki/Ext3
+","Yes","Yes","Yes","No","Yes","Trialware , URL: /wiki/Trialware
+",""
+"IsoBuster , URL: /wiki/IsoBuster
+","Windows , URL: /wiki/Windows
+","Graphical , URL: /wiki/Graphical_user_interface
+","Yes","FAT12 , URL: /wiki/FAT12
+FAT16 , URL: /wiki/FAT16
+FAT32 , URL: /wiki/FAT32
+ExFAT , URL: /wiki/ExFAT
+NTFS , URL: /wiki/NTFS
+ext2 , URL: /wiki/Ext2
+ext3 , URL: /wiki/Ext3
+ext4 , URL: /wiki/Ext4
+MFS , URL: /wiki/Macintosh_File_System
+HFS , URL: /wiki/Hierarchical_File_System
+HFS+ , URL: /wiki/HFS_Plus
+UDF , URL: /wiki/Universal_Disk_Format
+XFS , URL: /wiki/XFS
+ReFS , URL: /wiki/ReFS
+","No","Yes","Yes","No","Yes","Trialware , URL: /wiki/Trialware
+",""
+"Kleo Bare Metal Backup , URL: /wiki/Kleo_Bare_Metal_Backup
+","Live OS , URL: /wiki/Live_OS
+","Graphical , URL: /wiki/Graphical_user_interface
+","Yes","FAT32 , URL: /wiki/FAT32
+NTFS , URL: /wiki/NTFS
+ext2 , URL: /wiki/Ext2
+ext3 , URL: /wiki/Ext3
+HFS+ , URL: /wiki/HFS%2B
+","No","?","No","Yes","Yes (570 MB)","Freeware , URL: /wiki/Freeware
+",""
+"Macrium Reflect Workstation , URL: /w/index.php?title=Macrium_Reflect_Workstation&action=edit&redlink=1
+","Windows , URL: /wiki/Windows
+","Graphical , URL: /wiki/Graphical_user_interface
+","Yes","?","No","Yes","No","No","Yes","Trialware , URL: /wiki/Trialware
+","$75 perpetual"
+"Mondo Rescue , URL: /wiki/Mondo_Rescue
+","Linux , URL: /wiki/Linux
+","Text-based , URL: /wiki/Text-based_user_interface
+","Yes","FAT32 , URL: /wiki/FAT32
+NTFS , URL: /wiki/NTFS
+ext2 , URL: /wiki/Ext2
+ext3 , URL: /wiki/Ext3
+","Yes","?","Yes","?","Yes *[i]","GPL , URL: /wiki/GNU_General_Public_License
+",""
+"ntfsclone , URL: /wiki/Ntfsclone
+","Linux , URL: /wiki/Linux
+","Command-line , URL: /wiki/Command-line
+","No","NTFS , URL: /wiki/NTFS
+","?","?","Yes","No","No[j]","GPL , URL: /wiki/GNU_General_Public_License
+",""
+"partimage , URL: /wiki/Partimage
+","Linux , URL: /wiki/Linux
+","Text-based , URL: /wiki/Text-based_user_interface
+","No","FAT32 , URL: /wiki/FAT32
+ext2 , URL: /wiki/Ext2
+ext3 , URL: /wiki/Ext3
+ReiserFS , URL: /wiki/ReiserFS
+HPFS , URL: /wiki/High_Performance_File_System
+JFS , URL: /wiki/JFS_(file_system)
+XFS , URL: /wiki/XFS
+","?","?","Yes","Yes","No[j]","GPL , URL: /wiki/GNU_General_Public_License
+",""
+"Partition-Saving , URL: /wiki/Partition-Saving
+","Windows , URL: /wiki/Windows
+Linux , URL: /wiki/Linux
+DOS , URL: /wiki/DOS
+","Text-based , URL: /wiki/Text-based_user_interface
+Command-line , URL: /wiki/Command-line
+","Yes","FAT32 , URL: /wiki/FAT32
+NTFS , URL: /wiki/NTFS
+ext2 , URL: /wiki/Ext2
+ext3 , URL: /wiki/Ext3
+","No","Yes","Yes","No","Yes","Freeware , URL: /wiki/Freeware
+",""
+"Redo Rescue , URL: /wiki/Redo_Rescue
+","Live OS , URL: /wiki/Live_OS
+","Graphical , URL: /wiki/Graphical_user_interface
+","Yes","FAT32 , URL: /wiki/FAT32
+NTFS , URL: /wiki/NTFS
+ext2 , URL: /wiki/Ext2
+ext3 , URL: /wiki/Ext3
+ext4 , URL: /wiki/Ext4
+","No","No","No","Can access networked drives","Yes (225 MB)","GPL , URL: /wiki/GNU_General_Public_License
+",""

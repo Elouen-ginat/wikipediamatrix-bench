@@ -1,234 +1,75 @@
+"","First public release","First public release","First stable release","First stable release","Latest stable release"
 "Client , URL: /wiki/Client_(computing)
-","Primary developers , URL: /wiki/Software_developer
-","Distribution model","Software license , URL: /wiki/Software_license
-","User interface , URL: /wiki/User_interface
-","Programming language , URL: /wiki/Programming_language
-"
-"AdiIRC[1]","Per Amundsen","Freeware , URL: /wiki/Freeware
-","Proprietary , URL: /wiki/Proprietary_software
-","GUI",".NET Framework , URL: /wiki/.NET_Framework
-C# , URL: /wiki/C_Sharp_(programming_language)
-"
-"Adium , URL: /wiki/Adium
-","Thijs Alkemade","Free software , URL: /wiki/Free_software
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
-","GUI","Objective-C , URL: /wiki/Objective-C
-C , URL: /wiki/C_(programming_language)
-"
-"Ambassador[2]","Isengrim","Free software , URL: /wiki/Free_software
-","MPL , URL: /wiki/Mozilla_Public_License
-","GUI[Note 1]","JavaScript , URL: /wiki/JavaScript
-XUL , URL: /wiki/XUL
-"
-"AndroIRC[3]","Madalynn","Freeware , URL: /wiki/Freeware
-","Proprietary , URL: /wiki/Proprietary_software
-","GUI","?"
+","Date","Version","Date","Version","Latest stable release"
+"AdiIRC","2005","1.0","","","3.5 (June 30, 2019; 2 years ago (2019-06-30)[22]) [±]"
 "Bersirc , URL: /wiki/Bersirc
-","Jamie Frater, Nicholas Copeland","Free software , URL: /wiki/Free_software
-","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
-","GUI","C , URL: /wiki/C_(programming_language)
-Delphi , URL: /wiki/Delphi_(programming_language)
-"
+","1999","","","","2.2.14 (12 August 2005; 16 years ago (2005-08-12)) [±]"
 "BitchX , URL: /wiki/BitchX
-","Colten Edwards","Free software , URL: /wiki/Free_software
-","BSD , URL: /wiki/BSD_licenses
-","TUI , URL: /wiki/Text_user_interface
-","C , URL: /wiki/C_(programming_language)
-"
+","1996","","","","1.2.1 (November 14, 2014; 7 years ago (2014-11-14)) [±]"
 "ChatZilla , URL: /wiki/ChatZilla
-","James Ross, Robert Ginda, Samuel Sieb, Gijs Kruitbosch","Free software , URL: /wiki/Free_software
-","MPL , URL: /wiki/Mozilla_Public_License
-GPL , URL: /wiki/GNU_General_Public_License
-tri-license , URL: /wiki/Tri-license
-","GUI[Note 2]","JavaScript , URL: /wiki/JavaScript
-XUL , URL: /wiki/XUL
-"
+","2001","","","","0.9.93 (November 8, 2016; 5 years ago (2016-11-08)[23]) [±]"
 "Colloquy , URL: /wiki/Colloquy_(IRC_client)
-","Timothy Hatcher, Kiji Roshi","Free software , URL: /wiki/Free_software
-","GPL , URL: /wiki/GNU_General_Public_License
-BSD , URL: /wiki/BSD_licenses
-","GUI","Objective-C , URL: /wiki/Objective-C
-"
+","2005","","","","2.4.3 (6011) (March 22, 2014; 7 years ago (2014-03-22)) [±]"
+"degesch","2015","0.9","2015","0.9",""
+"DMDirc , URL: /wiki/DMDirc
+","2007","","","","0.7 (January 5, 2013; 9 years ago (2013-01-05)[24]) [±]"
 "ERC , URL: /wiki/ERC_(software)
-","Alexander L. Belikoff, Sergey Berezin","Free software , URL: /wiki/Free_software
-","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
-","TUI, GUI","Emacs Lisp , URL: /wiki/Emacs_Lisp
-"
-"F-IRC","Folkert van Heusden","Free software , URL: /wiki/Free_software
-","GPL , URL: /wiki/GNU_General_Public_License
-","TUI","C++ , URL: /wiki/C%2B%2B
-"
-"GrumpyChat[5]","Petr Bena","Free software , URL: /wiki/Free_software
-","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
-","GUI","C++ , URL: /wiki/C%2B%2B
-"
+","1999?","","","","ERC improvements are now released as part of Emacs. [±]"
+"F-IRC","2006?","0.1","","","1.36 (February 23, 2014)"
 "HexChat , URL: /wiki/HexChat
-","Berke Viktor","Free software , URL: /wiki/Free_software
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
-","TUI, GUI","C , URL: /wiki/C_(programming_language)
-"
+","2009-10-04","r249","2009-10-09","2.86.0","2.14.3 (December 20, 2019; 2 years ago (2019-12-20)) [±]"
+"HydraIRC","2002","","","","0.3.165 (December 12, 2008; 13 years ago (2008-12-12)) [±]"
 "IceChat , URL: /wiki/IceChat
-","Paul Vanderzee","Free software , URL: /wiki/Free_software
-","GPL , URL: /wiki/GNU_General_Public_License
-","GUI","C# , URL: /wiki/C_Sharp_(programming_language)
-Visual Basic , URL: /wiki/Visual_Basic
-"
-"Igloo[10]","Jordan Koch","Commercial","Proprietary , URL: /wiki/Proprietary_software
-","GUI","Swift , URL: /wiki/Swift_(programming_language)
-"
-"Instantbird , URL: /wiki/Instantbird
-","Florian Quèze","Free software , URL: /wiki/Free_software
-","GPL , URL: /wiki/GNU_General_Public_License
-","GUI , URL: /wiki/Graphical_user_interface
-","C/C++ , URL: /wiki/C/C%2B%2B
-JavaScript , URL: /wiki/JavaScript
-CSS , URL: /wiki/CSS
-XUL , URL: /wiki/XUL
-"
-"IRCCloud[11]","IRCCloud Ltd.","Freemium , URL: /wiki/Freemium
-","Proprietary , URL: /wiki/Proprietary_software
-","Web , URL: /wiki/Web_application
-","JavaScript , URL: /wiki/JavaScript
-Erlang , URL: /wiki/Erlang_(programming_language)
-"
+","2002","3.0","2002-04-08","3.0","9.53 (February 4, 2022; 35 days ago (2022-02-04)) [±]"
 "ircII , URL: /wiki/IrcII
-","Michael Sandrof","Free software , URL: /wiki/Free_software
-","BSD , URL: /wiki/BSD_licenses
-","TUI","C , URL: /wiki/C_(programming_language)
-"
-"IRCjr","Michael Brutman","Free software , URL: /wiki/Free_software
-","GPLv3 , URL: /wiki/GNU_General_Public_License
-","TUI","C++ , URL: /wiki/C_(programming_language)
-"
+","1990","","","","20190117 (January 17, 2019; 3 years ago (2019-01-17)) [±]"
+"IRCjr","2008","","2008","","mTCP_2020-03-07 (March 7, 2020; 2 years ago (2020-03-07)[25]) [±]"
 "Ircle , URL: /wiki/Ircle
-","Onno Tijdgat","Commercial, 30-day trial","Proprietary , URL: /wiki/Proprietary_software
-","GUI","C , URL: /wiki/C_(programming_language)
-"
+","1995","","","","3.5a6 (November 17, 2007; 14 years ago (2007-11-17)) [±]"
 "Irssi , URL: /wiki/Irssi
-","Timo Sirainen , URL: /wiki/Timo_Sirainen
-","Free software , URL: /wiki/Free_software
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
-","TUI","C , URL: /wiki/C_(programming_language)
-"
-"Kiwi IRC , URL: /wiki/Kiwi_IRC
-","Darren Whitlen","Free software , URL: /wiki/Free_software
-","Apache-2.0 , URL: /wiki/Apache_license
-","Web , URL: /wiki/Web_application
-","JavaScript , URL: /wiki/JavaScript
-Node.js , URL: /wiki/Node.js
-"
+","1999","","","","1.2.3 (April 11, 2021; 11 months ago (2021-04-11)) [±][26]"
+"jIRCii","?","?","","","?"
 "kirc , URL: /w/index.php?title=Kirc&action=edit&redlink=1
-","Michael Czigler","Free software , URL: /wiki/Free_software
-","GPL , URL: /wiki/GNU_General_Public_License
-","TUI","C , URL: /wiki/C_(programming_language)
-"
+","2020","0.0.1","","",""
 "KVIrc , URL: /wiki/KVIrc
-","Szymon Stefanek","Free software , URL: /wiki/Free_software
-","GPL , URL: /wiki/GNU_General_Public_License
-","GUI","C++ , URL: /wiki/C%2B%2B
-"
+","1998","0.6.0","1999-12-21","1.0.0","5.0.0 (January 1, 2019; 3 years ago (2019-01-01)[27]) [±]"
 "Konversation , URL: /wiki/Konversation
-","KDE , URL: /wiki/KDE
-","Free software , URL: /wiki/Free_software
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
-","GUI","C++ , URL: /wiki/C%2B%2B
+","2002","","","","
+URL: https://www.wikidata.org/wiki/Q379066?uselang=en#P348
+//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
 "
 "LeafChat , URL: /wiki/LeafChat
-","Samuel Marshall","Free software , URL: /wiki/Free_software
-","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
-","GUI","Java , URL: /wiki/Java_(programming_language)
-"
-"LimeChat[13][14][15]","Satoshi Nakagawa","Free software , URL: /wiki/Free_software
-","GPL-2.0-only , URL: /wiki/GNU_General_Public_License
-","GUI","RubyCocoa , URL: /wiki/RubyCocoa
-Objective-C , URL: /wiki/Objective-C
-"
+","?","1.0","","","2.5 (July 29, 2012; 9 years ago (2012-07-29)) [±]"
+"LimeChat","2007","","","","Mavericks / Mountain Lion 2.43 (January 26, 2018; 4 years ago (2018-01-26)[29]) [±] Lion 2.38 (September 12, 2013; 8 years ago (2013-09-12)) [±]"
 "Linkinus , URL: /wiki/Linkinus
-","Conceited Software","Commercial, 15-day trial","Proprietary , URL: /wiki/Proprietary_software
-","GUI","Objective-C , URL: /wiki/Objective-C
-"
+","2007","","","","2.4.3 (August 23, 2011; 10 years ago (2011-08-23)[30]) [±]"
 "Mibbit , URL: /wiki/Mibbit
-","Jimmy Moore","Textual Adbar , URL: /wiki/Web_banner
-","Proprietary , URL: /wiki/Proprietary_software
-","Web , URL: /wiki/Web_application
-","JavaScript , URL: /wiki/JavaScript
-Java , URL: /wiki/Java_(programming_language)
+","2008","","","","web application , URL: /wiki/Web_application
 "
 "mIRC , URL: /wiki/MIRC
-","Khaled Mardam-Bey","Shareware , URL: /wiki/Shareware
-","Proprietary , URL: /wiki/Proprietary_software
-","GUI","C , URL: /wiki/C_(programming_language)
-C++ , URL: /wiki/C%2B%2B
-"
-"Monochrome[20]","Peter Pawlowski","Free software , URL: /wiki/Free_software
-","GPL-2.0-only , URL: /wiki/GNU_General_Public_License
-","GUI","C# , URL: /wiki/C_Sharp_(programming_language)
-"
+","1995","","","","7.67 (2 October 2021; 5 months ago (2021-10-02)[31]) [±]"
 "Nettalk , URL: /wiki/Nettalk_(IRC_client)
-","Nicolas Kruse","Free software , URL: /wiki/Free_software
-","Apache-2.0 , URL: /wiki/Apache_license
-","GUI","Visual Basic , URL: /wiki/Visual_Basic
-"
-"Pidgin , URL: /wiki/Pidgin_(software)
-","","Free software , URL: /wiki/Free_software
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
-","GUI","C , URL: /wiki/C_(programming_language)
-"
+","2004","","","","6.7.16 (October 30, 2012; 9 years ago (2012-10-30)[32]) [±]"
 "PIRCH , URL: /wiki/PIRCH_(IRC_client)
-","Northwest Computer Services","Shareware , URL: /wiki/Shareware
-","Proprietary , URL: /wiki/Proprietary_software
-","GUI","Delphi , URL: /wiki/Delphi_(programming_language)
-"
+","1995","","","","1.0.1.1190 (January 1, 2001; 21 years ago (2001-01-01)) [±]"
 "PJIRC , URL: /wiki/PJIRC
-","Philippe Detournay","Free software , URL: /wiki/Free_software
-","GPL , URL: /wiki/GNU_General_Public_License
-","GUI","Java , URL: /wiki/Java_(programming_language)
-"
+","2002","","","","2.2.1 (November 29, 2004; 17 years ago (2004-11-29)) [±]"
 "Quassel , URL: /wiki/Quassel_IRC
-","Manuel Nickschas, Marcus Eggenberger, Alexander von Renteln","Free software , URL: /wiki/Free_software
-","GPL-2.0-or-3.0 , URL: /wiki/GNU_General_Public_License
-","TUI[Note 3], GUI[Note 4]","C++ , URL: /wiki/C%2B%2B
-"
-"qwebirc","Chris Porter","Free software , URL: /wiki/Free_software
-","GPL-2.0-only , URL: /wiki/GNU_General_Public_License
-","Web , URL: /wiki/Web_application
-","JavaScript , URL: /wiki/JavaScript
-Python , URL: /wiki/Python_(programming_language)
-"
+","2008-08-27","0.3.0","","","0.14.0 (January 1, 2022; 2 months ago (2022-01-01)) [±]"
+"qwebirc","2009","0.81","","","0.92 (February 13, 2012; 10 years ago (2012-02-13)) [±]"
+"rIRC","2010","Preview Release 1","2012","1.44","1.4.4 (January 16, 2012)"
+"Scrollback","2013","","2013","",""
 "rcirc , URL: /wiki/Rcirc
-","Ryan Yeske","Free software , URL: /wiki/Free_software
-","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
-","TUI","Emacs Lisp , URL: /wiki/Emacs_Lisp
-"
+","?","?","","","rcirc improvements are now released as part of Emacs. [±]"
 "Smuxi , URL: /wiki/Smuxi
-","Mirco Bauer","Free software , URL: /wiki/Free_software
-","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
-","GUI, TUI, server[Note 4]","C# , URL: /wiki/C_Sharp_(programming_language)
-"
+","2008-07-29","0.6","2010-09-03","0.8","1.1 (February 12, 2021; 12 months ago (2021-02-12)) [±]"
 "Snak , URL: /wiki/Snak
-","Kent Sorensen","Commercial","Proprietary , URL: /wiki/Proprietary_software
-","GUI","?"
-"Thunderbird , URL: /wiki/Mozilla_Thunderbird
-","Mozilla Foundation , URL: /wiki/Mozilla_Foundation
-","Free software , URL: /wiki/Free_software
-","MPL-2.0 , URL: /wiki/Mozilla_Public_License
-","GUI","C , URL: /wiki/C_(programming_language)
-C++ , URL: /wiki/C%2B%2B
-JavaScript , URL: /wiki/JavaScript
-"
-"Tiny , URL: https://github.com/osa1/tiny
-","Ömer Sinan Ağacan[21]","Free software , URL: /wiki/Free_software
-","MIT License , URL: /wiki/MIT_License
-","TUI","Rust , URL: /wiki/Rust_(programming_language)
-"
+","1997","","","","5.3.4 (March 11, 2012; 10 years ago (2012-03-11)[33]) [±]"
 "Visual IRC , URL: /wiki/Visual_IRC
-","Jesse McGrew","Free software , URL: /wiki/Free_software
-","GPL , URL: /wiki/GNU_General_Public_License
-","GUI","Delphi , URL: /wiki/Delphi_(programming_language)
-"
+","1995","","","","2.0pl2 (December 30, 2007; 14 years ago (2007-12-30)) [±][34]"
 "WeeChat , URL: /wiki/WeeChat
-","Sebastien Helleu","Free software , URL: /wiki/Free_software
-","GPL-3.0-or-later , URL: /wiki/GNU_General_Public_License
-","TUI, GUI[Note 5]","C , URL: /wiki/C_(programming_language)
-"
-"Client","Primary developers","Distribution model","Software license","User interface","Programming language"
+","2003","","","","3.4 (December 18, 2021; 2 months ago (2021-12-18)[35]) [±]"
+"Client , URL: /wiki/Client_(computing)
+","Date","Version","Date","Version","Latest stable release"
+"Client , URL: /wiki/Client_(computing)
+","First public release","First public release","First stable release","First stable release","Latest stable release"

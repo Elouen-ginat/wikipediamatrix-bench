@@ -2,67 +2,59 @@
 ","Imports , URL: /wiki/Imports
 ","Imports , URL: /wiki/Imports
 ","Imports , URL: /wiki/Imports
-","Exports , URL: /wiki/Exports
-","Exports , URL: /wiki/Exports
-","Exports , URL: /wiki/Exports
+","Imports , URL: /wiki/Imports
+","Imports , URL: /wiki/Imports
+","Imports , URL: /wiki/Imports
 ","Exports , URL: /wiki/Exports
 "
-"","STL , URL: /wiki/STL_(file_format)
-","DXF , URL: /wiki/AutoCAD_DXF
-","DWG , URL: /wiki/.dwg
-","others","STL","DXF","DWG","others"
+"","USGS DEM , URL: /wiki/USGS_DEM
+","USGS SDTS , URL: /wiki/Spatial_Data_Transfer_Standard
+","LandXML","GeoTIFF , URL: /wiki/GeoTIFF
+","Shapefile , URL: /wiki/Shapefile
+","OSM , URL: /wiki/OpenStreetMap
+","others","Exports , URL: /wiki/Exports
+"
 "3ds Max , URL: /wiki/3ds_Max
-","Yes","Yes","Yes","IGE, IGS, IGES, IPT, WIRE, IAM, LS, VW, LP, SAT, Catia V4/V5, JT, ProE, RVT, PRT, SolidWorks,[io 9] STEP, WIRE","Yes","Yes","Yes","ATR, BLK, DF, IGS, LAY, LP, SAT, VW"
+","Yes[21]","Yes[21]","Yes[21]","?","?","?","",""
 "AC3D , URL: /wiki/AC3D
-","Yes","Yes","No","LDraw (Lego), SOF Airfoil","Yes","Yes","No","Inventor, LDraw (Lego)"
+","?","?","?","?","?","?","",""
 "Blender , URL: /wiki/Blender_(software)
-","Yes","Yes[io 10]","No","","Yes","Yes[io 10]","No",""
+","?","?","?","(Blender GIS addon)","(Blender GIS addon)","?","",""
+"Bryce","Yes","Yes","?","?","?","?","VistaPro DEM","USDS DEM"
 "Electric Image Animation System , URL: /wiki/Electric_Image_Animation_System
-","?","Yes","?","","?","Yes","?",""
+","?","?","?","?","?","?","",""
 "Cinema 4D , URL: /wiki/Cinema_4D
-","Yes","Yes","Yes","","Yes","Yes","?",""
+","Yes","?","?","?","?","?","VistaPro DEM",""
 "Clara.io , URL: /wiki/Clara.io
-","Yes","Yes","?","","Yes","?","?",""
+","?","?","?","?","?","?","",""
 "Cobalt , URL: /wiki/Cobalt_(CAD_program)
-","?","Yes","Yes","ACIS SAT , URL: /wiki/ACIS
-CATIA v4 , URL: /wiki/CATIA
-CCAD , URL: /wiki/Claris_CAD
-CGM , URL: /wiki/Computer_Graphics_Metafile
-IGS , URL: /wiki/IGES
-Pro/E , URL: /wiki/Pro/ENGINEER
-Rhino 3DM , URL: /wiki/JSLEE
-STP , URL: /wiki/ISO_10303
-","?","Yes","Yes","ACIS SAT , URL: /wiki/ACIS
-CATIA v4 , URL: /wiki/CATIA
-CGM , URL: /wiki/Computer_Graphics_Metafile
-IGS , URL: /wiki/IGES
-PDF , URL: /wiki/Portable_Document_Format
-Pro/E , URL: /wiki/Pro/ENGINEER
-STP , URL: /wiki/ISO_10303
-"
+","?","?","?","?","?","?","",""
 "Houdini , URL: /wiki/Houdini_(software)
-","External[18]","External[18]","No","","External[18]","External[18]","No",""
+","?","?","?","?","?","Yes[io 11][22]","",""
 "IClone , URL: /wiki/IClone
-","?","?","?","","?","?","?",""
+","?","?","?","?","?","?","",""
 "Lightwave 3D , URL: /wiki/Lightwave_3D
-","Yes","Yes","No","","Yes","Yes","No",""
+","(Ground Control plugin)","?","?","?","?","?","",""
+"MakeHuman , URL: /wiki/MakeHuman
+","?","?","?","?","?","?","",""
 "Maya , URL: /wiki/Maya_(software)
-","Windows and Mac only[19]","Windows only[19]","Windows only[19]","IGES, StudioTools Wire","Windows and Mac only[20]","Windows only[20]","Windows only[20]","IGES, StudioTools Wire, Open Inventor2"
+","?","?","?","?","?","?","",""
 "Metasequoia , URL: /wiki/Metasequoia_(software)
-","Yes","Yes","No","","Yes","Yes","No",""
+","?","?","?","?","?","?","",""
 "Modo , URL: /wiki/Modo_(software)
-","Yes","Yes","No","SolidWorks[io 9]","Yes","Yes","No",""
+","?","?","?","?","?","?","",""
 "Remo 3D , URL: /wiki/Remo_3D
-","Yes","Yes","No","DW (Designer Workshop)","Yes","No","No",""
+","?","?","?","?","?","?","",""
 "Shade , URL: /wiki/Shade_3D
-","Yes","Yes","No","","Yes","Yes","No",""
+","?","?","?","?","?","?","",""
 "Solid Edge , URL: /wiki/Solid_Edge
-","Yes","Yes","Yes","IGES, STEP, JT, ACIS (SAT), ProE, SolidWorks,[io 9] NX, SDRC, Microstation, Inventor, CATIA (V4/V5), Parasolid, XML, MDS","Yes","Yes","Yes","IGES, STEP, EMS, JT, XGL, XML, Parasolid, CATIA (V4/V5), ACIS (SAT), Microstation"
+","?","?","?","?","?","?","",""
 "SketchUp Make , URL: /wiki/SketchUp
-","?","?","?","","?","?","?",""
+","Yes[10]","Yes[10]","?","?","?","?","SKP+KMZ","SKP+KMZ[10]"
 "SketchUp , URL: /wiki/SketchUp
-","Yes","Yes[10]","Yes[10]","","Yes","Yes[10]","Yes[10]",""
+","Yes[10]","Yes[10]","?","?","?","?","SKP+KMZ","SKP+KMZ"
 "E-on Vue , URL: /wiki/E-on_Vue
-","?","?","?","","?","?","?",""
+","Yes[23]","Yes[23]","?","Yes[23]","?","?","DTED , URL: /wiki/DTED
+",""
 "Wings3D , URL: /wiki/Wings3D
-","Yes","?","?","","Yes","?","?",""
+","?","?","?","?","?","?","",""

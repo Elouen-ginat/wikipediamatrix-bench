@@ -1,3 +1,5 @@
-"Top_Left","Top_Center","Top_Right"
-"Middle_Left","Middle_Center","Middle_Right"
-"Bottom_Left","Bottom_Center","Bottom_Right"
+"","","To","To","To"
+"","","Solid","Liquid","Gas"
+"From","Solid","Solid-solid transformation","Melting","Sublimation"
+"From","Liquid","Freezing","—","Boiling/evaporation"
+"From","Gas","Deposition","Condensation","—"

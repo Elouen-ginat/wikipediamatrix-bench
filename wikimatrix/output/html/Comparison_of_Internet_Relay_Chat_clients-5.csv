@@ -1,71 +1,74 @@
 "Client , URL: /wiki/Client_(computing)
-","CTCP , URL: /wiki/Client-to-client_protocol
-","DCC , URL: /wiki/Direct_Client-to-Client
-","IPv6 , URL: /wiki/IPv6
-","SSL , URL: /wiki/Secure_Sockets_Layer
-","TLS , URL: /wiki/Transport_Layer_Security
-","DANE , URL: /wiki/DNS-based_Authentication_of_Named_Entities
-","OCSP , URL: /wiki/Online_Certificate_Status_Protocol
-","CRL , URL: /wiki/Certificate_revocation_list
-","SASL , URL: /wiki/Simple_Authentication_and_Security_Layer
-","OTR , URL: /wiki/Off-the-Record_Messaging
+","CHAT , URL: /wiki/Direct_Client-to-Client#DCC_CHAT
+","Whiteboard , URL: /wiki/Direct_Client-to-Client#DCC_Whiteboard
+","SEND , URL: /wiki/Dcc_send
+","RESUME , URL: /wiki/Direct_Client-to-Client#DCC_RESUME
+","TSEND , URL: /wiki/Direct_Client-to-Client#DCC_TSEND
+","SEND T , URL: /wiki/Direct_Client-to-Client#DCC_SEND_T
+","XMIT , URL: /wiki/Direct_Client-to-Client#DCC_XMIT
+","Passive DCC , URL: /wiki/Direct_Client-to-Client#Passive_DCC
+","Server , URL: /wiki/Direct_Client-to-Client#DCC_Server
+","RDCC , URL: /wiki/Direct_Client-to-Client#RDCC
+","REVERSE , URL: /wiki/Direct_Client-to-Client#DCC_REVERSE
+","RSEND , URL: /wiki/Direct_Client-to-Client#DCC_RSEND
+","Reverse / Firewall DCC , URL: /wiki/Direct_Client-to-Client#Reverse_/_Firewall_DCC
+","File servers (FSERVs) , URL: /wiki/Direct_Client-to-Client#File_servers_(FSERVs)
+","XDCC , URL: /wiki/XDCC
+","VOICE , URL: /wiki/Direct_Client-to-Client#DCC_VOICE
 "
 "Bersirc , URL: /wiki/Bersirc
-","?","Partial","No","No","?","?","?","?","?","No"
+","?","?","?","?","?","?","?","No","No","?","?","?","?","?","?","?"
 "BitchX , URL: /wiki/BitchX
-","Yes","Yes","Yes","Yes","Yes","?","?","?","?","No"
+","Yes","No","Yes","Yes","Yes","Yes","?","No","No","?","?","?","?","?","Yes","?"
 "ChatZilla , URL: /wiki/ChatZilla
-","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes","script","No"
+","Yes","No","Yes","No[49]","?","?","No","No[Note 1]","No","No","No","No","No","No","?","?"
 "Colloquy , URL: /wiki/Colloquy_(IRC_client)
-","Yes","Yes","Yes","Yes","?","?","?","?","Yes","No[43]"
-"degesch","Yes","Yes","Yes","No","Yes","?","?","?","?","No"
-"DMDirc","Yes","Yes","Yes","Yes","?","?","?","?","?","No"
+","Yes","?","Yes","Yes","?","?","?","Yes","No","?","?","?","?","?","Yes","?"
+"degesch","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"DMDirc","Yes","No","Yes","Yes","?","?","No","Yes","No","No","No","No","Yes","No","No","?"
 "ERC , URL: /wiki/ERC_(software)
-","Yes","Yes","Yes","Yes","Yes","?","?","?","Yes[Note 1]","No"
+","Yes","?","Yes","?","?","?","?","?","?","?","?","?","?","?","?","?"
 "HexChat , URL: /wiki/HexChat
-","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes[Note 2]"
-"HydraIRC","Yes","Yes","?","No","No","?","No","No","?","No"
+","Yes","No","Yes","Yes","?","?","?","Yes","?","?","?","?","?","?","Yes","?"
+"HydraIRC","Yes","No","Yes","Yes","?","?","No","?","?","?","?","?","?","No","No","?"
 "IceChat , URL: /wiki/IceChat
-","Yes","Yes","Yes","Yes","Yes","?","?","?","Yes","No"
-"IRCCloud","Yes","No","Yes","Yes","Yes","No","No","No","Yes","No"
+","Yes","No","Yes","?","?","?","No","?","?","?","?","?","?","No","No","?"
+"IRCCloud","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "ircII , URL: /wiki/IrcII
-","Yes","Yes","Yes","Yes","Yes","?","?","?","?","No"
-"IRCjr","Yes","No","No","No","No","?","No","No","No","No"
+","?","?","?","?","?","?","?","No","No","?","?","?","?","?","?","?"
+"IRCjr","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","?"
 "Ircle , URL: /wiki/Ircle
-","Yes","Yes","?","Yes","?","?","?","?","?","No"
+","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?","?"
 "Irssi , URL: /wiki/Irssi
-","Yes","Yes","Yes","Yes","Yes","Yes","No","?","Yes","Yes[44]"
-"jIRCii","Yes","Yes","Yes","Yes","?","?","?","?","?","No"
-"KiwiIRC","Yes","No","Yes","Yes","Yes","?","No","No","Yes","No"
+","Yes","No","Yes","Yes","?","?","?","Yes","Yes","?","?","?","?","?","?","?"
+"KiwiIRC","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","?"
 "Konversation , URL: /wiki/Konversation
-","Yes","Yes","Yes","Yes","Yes","?","?","?","Yes","No"
+","Yes","Yes","Yes","Yes","?","?","?","Yes","No","?","?","?","Yes","?","Yes","?"
 "KVIrc , URL: /wiki/KVIrc
-","Yes","Yes","Yes","Yes","Yes","?","No","No","Yes","No"
-"LimeChat","?","Yes","Yes","Yes","?","?","?","?","Yes","No"
+","Yes","No","Yes","Yes","Yes","No","No","Yes","No","No","Yes","Yes","Yes","Yes[Note 2]","Yes[Note 2]","Yes[Note 3]"
+"LimeChat","?","?","?","?","?","?","?","Yes","Yes","?","?","?","?","?","?","?"
 "Linkinus , URL: /wiki/Linkinus
-","Yes","Yes","No","Yes","?","?","?","?","No","No"
+","?","?","?","?","?","?","?","Yes","No","?","?","?","?","?","?","?"
 "Mibbit , URL: /wiki/Mibbit
-","?","Partial[Note 3][Note 4]","No","Yes","?","?","?","?","Yes","No"
+","No","?","?","?","?","?","?","No","No","?","?","?","?","?","?","?"
 "mIRC , URL: /wiki/MIRC
-","Yes","Yes","Yes","Yes","Yes","?","?","?","Yes","No"
+","Yes","?","Yes","Yes[Note 4]","?","?","?","Yes","Yes","Yes[Note 5]","?","?","Yes","Yes","Yes[Note 5]","?"
 "Nettalk , URL: /wiki/Nettalk_(IRC_client)
-","Yes","Yes","No","No","?","?","?","?","?","No"
+","Yes","No","Yes","Yes","No","No","No","No","Partial","No","No","No","No","?","?","?"
 "PIRCH , URL: /wiki/PIRCH_(IRC_client)
-","Yes","Yes","No","No","?","?","?","?","?","No"
+","Yes","No","Yes","Yes[Note 4]","?","?","No","No","No","No","No","No","No","No","No","?"
 "PJIRC , URL: /wiki/PJIRC
-","?","Yes","No","No","?","?","?","?","?","No"
+","Yes","No","Yes","Yes","?","?","?","?","?","?","?","?","?","?","?","?"
 "Quassel , URL: /wiki/Quassel_IRC
-","Yes","No","Yes","Yes","Yes","?","No","No","Yes","No[45]"
-"qwebirc","Yes","No","No","Yes","No","?","No","No","No","No"
+","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","?"
+"qwebirc","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","?"
 "rcirc , URL: /wiki/Rcirc
-","Partial","No","No","Yes","Yes","?","?","?","?","No"
-"Scrollback","Partial","No","Yes","Yes","?","?","?","?","No","No"
+","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","?"
 "Smuxi , URL: /wiki/Smuxi
-","Yes","No","Yes","Yes","?","?","?","?","No","No[46]"
+","?","?","?","?","?","?","?","No","No","?","?","?","?","?","?","?"
 "Snak , URL: /wiki/Snak
-","Yes","Yes","Yes","Yes","?","?","?","?","?","No"
+","Yes","?","Yes","Yes","?","Yes","?","No","No","?","?","?","?","?","?","?"
 "Visual IRC , URL: /wiki/Visual_IRC
-","Yes","Yes","No","No","?","?","?","?","?","No"
+","?","Yes","?","Yes[Note 4]","?","?","?","Yes","No","?","?","?","Yes","?","?","Yes[Note 3]"
 "WeeChat , URL: /wiki/WeeChat
-","Yes","Yes","Yes","Yes","Yes","?","?","?","Yes","Yes[47][48][Note 2]"
-"Client","CTCP","DCC","IPv6","SSL","TLS","DANE","OCSP","CRL","SASL","OTR"
+","Yes","?","Yes","?","?","?","?","No","No","?","?","?","?","?","Yes","?"

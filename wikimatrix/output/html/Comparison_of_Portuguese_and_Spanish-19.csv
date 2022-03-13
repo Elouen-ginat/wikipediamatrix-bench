@@ -1,7 +1,9 @@
-"Spanish","Brazilian Portuguese","Brazilian Portuguese","Brazilian Portuguese","Brazilian Portuguese","European Portuguese","European Portuguese","European Portuguese","European Portuguese"
-"Spanish","Stressed","coda , URL: /wiki/Syllable_coda
-","Unstressed and non-terminal","Unstressed and terminal","Stressed","diphthong , URL: /wiki/Diphthong
-","Unstressed and non-terminal","Unstressed and terminal"
-"/a/","/a/ or /ɐ ~ ə/ 1","/a/ or /a ~ ɐ/","/a/","/a ~ ɐ ~ ə/","/a/ or /ɐ/","/a ~ ɐ/ or /ə/","/ə/ or /a/","/ə/"
-"/e̞/","/e/ or /ɛ/","/e ~ e̞/ or /ɛ ~ e̞/ 2","/e ~ e̞ ~ ɛ/ or /ɪ ~ i/","/ɪ ~ i/","/e/ or /ɛ/","/e/ (/ej ~ ɐj/ 3)","/ɨ/ or /ɛ/","/ɨ/"
-"/o̞/","/o/ or /ɔ/","/o ~ o̞/ or /ɔ ~ o̞/ 2","/o ~ o̞ ~ ɔ/ or /ʊ ~ u/","/ʊ ~ u/","/o/ or /ɔ/","/o/ (/ow ~ ɐw/ 3)","/u/ or /ɔ/","/u/"
+"Medieval Spanish and Portuguese","Medieval Spanish and Portuguese","Modern Portuguese1,2","Modern Portuguese1,2","Modern Spanish1","Modern Spanish1","Modern Spanish1"
+"Spelling","Pronunciation","Pronunciation","Examples","Spelling","Pronunciation","Examples"
+"s-, -ss-","/s/","/s/","saber 'to know', passar 'to pass'","s","/s/","saber, pasar"
+"-s-","/z/","/z/","casa 'house'","s","/s/","casa"
+"ç/c","/ts/","/s/","açor 'hawk', cego 'blind'","z/c","/θ/ or /s/","azor, ciego"
+"z","/dz/","/z/","fazer 'to do'","z/c","/θ/ or /s/","hacer"
+"x","/ʃ/","/ʃ/","oxalá 'I hope; God grant'","j/g","/x/","ojalá"
+"j/g","/dʒ ~ ʒ/","/ʒ/","jogar 'to play', gente 'people'","j/g","/x/","jugar, gente"
+"ch","/tʃ/","/ʃ/","chuva 'rain'","ch","/tʃ/","chubasco 'cloudburst' (from Port. chuvasco)"

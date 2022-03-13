@@ -1,10 +1,10 @@
 "Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
-"Dow Jones Index","Weekly data of stocks from the first and second quarters of 2011.","Calculated values included such as percentage change and a lags.","750","Comma separated values","Time series , URL: /wiki/Time_series
-","2014","[456][457]","M. Brown et al."
-"Statlog (Australian Credit Approval)","Credit card applications either accepted or rejected and attributes about the application.","Attribute names are removed as well as identifying information. Factors have been relabeled.","690","Comma separated values","Classification","1987","[458][459]","R. Quinlan"
-"eBay auction data","Auction data from various eBay.com objects over various length auctions","Contains all bids, bidderID, bid times, and opening prices.","~ 550","Text","Regression, classification","2012","[460][461]","G. Shmueli , URL: /wiki/Galit_Shmueli
+"Cloud DataSet","Data about 1024 different clouds.","Image features extracted.","1024","Text","Classification, clustering","1989","[469]","P. Collard"
+"El Nino Dataset","Oceanographic and surface meteorological readings taken from a series of buoys positioned throughout the equatorial Pacific.","12 weather attributes are measured at each buoy.","178080","Text","Regression","1999","[470]","Pacific Marine Environmental Laboratory , URL: /wiki/Pacific_Marine_Environmental_Laboratory
 "
-"Statlog (German Credit Data)","Binary credit classification into "good" or "bad" with many features","Various financial features of each person are given.","690","Text","Classification","1994","[462]","H. Hofmann"
-"Bank Marketing Dataset","Data from a large marketing campaign carried out by a large bank .","Many attributes of the clients contacted are given. If the client subscribed to the bank is also given.","45,211","Text","Classification","2012","[463][464]","S. Moro et al."
-"Istanbul Stock Exchange Dataset","Several stock indexes tracked for almost two years.","None.","536","Text","Classification, regression","2013","[465][466]","O. Akbilgic"
-"Default of Credit Card Clients","Credit default data for Taiwanese creditors.","Various features about each account are given.","30,000","Text","Classification","2016","[467][468]","I. Yeh"
+"Greenhouse Gas Observing Network Dataset","Time-series of greenhouse gas concentrations at 2921 grid cells in California created using simulations of the weather.","None.","2921","Text","Regression","2015","[471]","D. Lucas"
+"Atmospheric CO2 from Continuous Air Samples at Mauna Loa Observatory","Continuous air samples in Hawaii, USA. 44 years of records.","None.","44 years","Text","Regression","2001","[472]","Mauna Loa Observatory , URL: /wiki/Mauna_Loa_Observatory
+"
+"Ionosphere Dataset","Radar data from the ionosphere. Task is to classify into good and bad radar returns.","Many radar features given.","351","Text","Classification","1989","[405][473]","Johns Hopkins University , URL: /wiki/Johns_Hopkins_University
+"
+"Ozone Level Detection Dataset","Two ground ozone level datasets.","Many features given, including weather conditions at time of measurement.","2536","Text","Classification","2008","[474][475]","K. Zhang et al."

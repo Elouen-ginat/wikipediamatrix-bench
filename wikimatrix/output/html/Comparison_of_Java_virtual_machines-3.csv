@@ -1,43 +1,49 @@
-"JVM","x86 , URL: /wiki/X86
-","x86-64 , URL: /wiki/X86-64
-","SPARC , URL: /wiki/SPARC
-","MIPS , URL: /wiki/MIPS_architecture
-","Itanium , URL: /wiki/Itanium
-","Power ISA , URL: /wiki/Power_ISA
-","ARM , URL: /wiki/ARM_architecture
-","Alpha , URL: /wiki/DEC_Alpha
-","S/390 , URL: /wiki/IBM_System/390
-","z/Architecture , URL: /wiki/Z/Architecture
-","m68k , URL: /wiki/M68k
-"
+"JVM","Windows , URL: /wiki/Windows
+","Linux , URL: /wiki/Linux
+","FreeBSD , URL: /wiki/FreeBSD
+","NetBSD , URL: /wiki/NetBSD
+","OpenBSD , URL: /wiki/OpenBSD
+","Solaris , URL: /wiki/Solaris_(operating_system)
+","OpenSolaris , URL: /wiki/OpenSolaris
+","Darwin , URL: /wiki/Darwin_(operating_system)
+","macOS , URL: /wiki/MacOS
+","iOS , URL: /wiki/IOS
+","BeOS , URL: /wiki/BeOS
+","Haiku , URL: /wiki/Haiku_(operating_system)
+","AIX , URL: /wiki/IBM_AIX
+","IRIX , URL: /wiki/IRIX
+","OS/2 , URL: /wiki/OS/2
+","Windows Mobile , URL: /wiki/Windows_Mobile
+","AmigaOS , URL: /wiki/AmigaOS
+","Other"
 "GCJ , URL: /wiki/GNU_Compiler_for_Java
-","Yes[33]","Yes[33]","Yes[33]","Yes[33]","Yes[33]","Yes[33]","Yes[33]","Yes[33]","Yes[33]","No[33]","No[33]"
+","Yes[33]","Yes[33]","Yes[33]","?","?","Yes[33]","?","Yes[33]","Yes[33]","?","?","?","?","Yes[33]","?","No[33]","No[33]","DEC OSF 4.0f and 5.1, Hitachi SH-3/4 micro-controller[33]"
 "HotSpot , URL: /wiki/HotSpot_(virtual_machine)
 OpenJDK , URL: /wiki/OpenJDK
-","Yes[34]","Yes[34]","Solaris only[34]","Port[35][36]","No[34]","PowerPC , URL: /wiki/PowerPC
-AIX , URL: /wiki/IBM_AIX
-","Yes[34]","No[34]","No[34]","No[34]","No[34]"
+","Yes[44] (distributed as source code)","Yes","Port[45]","Port[45]","Port[45]","Yes","Yes[46]","?","Yes[47]","No","No","Port[48]","Port[37]","No","Port[49]","No","No",""
 "HotSpot , URL: /wiki/HotSpot_(virtual_machine)
-","Yes[34]","Yes[34]","Solaris only[34]","No[34]","Java 1.6[38]","No[34]","Yes[34]","No[34]","No[34]","No[34]","No[34]"
+","Yes[34]","Yes[34]","No","No","No","Yes[34]","?","?","Yes[34]","No","No","No","No","No","No","No","No",""
 "HotSpot , URL: /wiki/HotSpot_(virtual_machine)
-","Yes[4]","Yes[4]","Yes[4]","?","?","Yes[4]","Yes[4]","?","?","?","?"
+","Yes[4]","Yes[4]","No[4]","No[4]","No[4]","Yes[4]","?[4]","No[4]","No[4]","No[4]","No[4]","No[4]","No[4]","No[4]","No[4]","No[4]","No[4]",""
 "HotSpot , URL: /wiki/HotSpot_(virtual_machine)
-","Yes[39]","Yes[39]","No[39]","Yes[39]","Yes[39]","Yes[39]","Yes[39]","Yes[39]","No[39]","Yes[39]","No[39]"
+","No[39][50]","Yes[39][50]","No[39][50]","No[39][50]","No[39][50]","No[39][50]","No[39][50]","No[39][50]","No[39][50]","No[39][50]","No[39][50]","No[39][50]","No[39][50]","No[39][50]","No[39][50]","No[39][50]","No[39][50]",""
 "IKVM.NET , URL: /wiki/IKVM.NET
-","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework."
+","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework","Any operating system with a .NET framework"
 "JAmiga , URL: /w/index.php?title=JAmiga&action=edit&redlink=1
-","?","?","No","No","No","Yes","No","No","No","No","Yes"
+","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes",""
 "JamVM , URL: /wiki/JamVM
-","Yes[20]","Yes[20]","Yes[20]","Yes[20]","No[20]","Yes[20]","Yes[20]","No[20]","No[20]","No[20]","No[20]"
+","No[20]","Yes[20]","Yes[20]","No[20]","Yes[20]","Yes[20]","Yes[20]","Yes[20]","Yes[20]","On Jailbroken iPhone[20]","No[20]","No[20]","No[20]","No[20]","No[20]","No[20]","No[20]","kFreeBSD"
 "Jato VM , URL: /w/index.php?title=Jato_VM&action=edit&redlink=1
-","Yes[9]","Under development[40]","No","No","No","Under development[40]","Preliminary ARMv5 support[22]","No","No","No","No"
+","No[40]","Yes[40]","No[40]","No[40]","No[40]","No[40]","No[40]","Under development[40]","?[40]","No[40]","No[40]","No[40]","No[40]","No[40]","No[40]","No[40]","No[40]",""
 "JC virtual machine , URL: /w/index.php?title=JC_virtual_machine&action=edit&redlink=1
-","Yes","No","No","No","No","No","No","No","No","No","No"
+","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No",""
 "Jikes RVM , URL: /wiki/Jikes_RVM
-","Yes[41]","No[41]","No[41]","No[41]","No[41]","Yes[41]","No[41]","No[41]","No[41]","No[41]","No[41]"
+","No[41]","Yes[41]","No[41]","No[41]","No[41]","No[41]","No[41]","No[41]","Yes[41]","No[41]","No[41]","No[41]","Yes[41]","No[41]","No[41]","No[41]","No[41]",""
 "Kaffe , URL: /wiki/Kaffe
-","Yes[12]","Yes[12]","Yes[12]","Yes[12]","Yes[12]","Yes[12]","Yes[12]","Yes[12]","Yes[12]","No[12]","Yes[12]"
+","Cygwin , URL: /wiki/Cygwin
+","Yes[12]","Yes[12]","Yes[12]","Yes[12]","Yes[12]","?","Yes[12]","Yes[12]","No[12]","Yes[12]","No[12]","Yes[12]","Yes[12]","No[12]","No[12]","Yes","Many others[12]"
 "Mysaifu JVM , URL: /w/index.php?title=Mysaifu_JVM&action=edit&redlink=1
-","No[42]","No[42]","No[42]","No[42]","No[42]","No[42]","Yes[42]","No[42]","No[42]","No[42]","No[42]"
+","No[42]","No[42]","No[42]","No[42]","No[42]","No[42]","No[42]","No[42]","No[42]","No[42]","No[42]","No[42]","No[42]","No[42]","No[42]","Yes[42]","No[42]",""
 "SableVM , URL: /wiki/SableVM
-","Yes[43]","Yes","Yes[43]","Yes","Yes[43]","Yes[43]","Yes[43]","Yes[43]","Yes[43]","No[43]","Yes[43]"
+","Cygwin , URL: /wiki/Cygwin
+","Yes[43]","Yes[43]","?","?","?","?","?","Yes[43]","?","?","?","?","?","?","?","?",""

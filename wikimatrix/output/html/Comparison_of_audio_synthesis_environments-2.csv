@@ -1,25 +1,34 @@
-"Name","Textual/graphical","Object-oriented , URL: /wiki/Object-oriented
-","Type system , URL: /wiki/Type_system
-"
+"Name","Shell scripting","Shell scripting","MIDI , URL: /wiki/MIDI
+","MIDI , URL: /wiki/MIDI
+","OSC , URL: /wiki/Open_Sound_Control
+","OSC , URL: /wiki/Open_Sound_Control
+","HID , URL: /wiki/Human_interface_device
+","VST , URL: /wiki/Virtual_Studio_Technology
+","Audio Units , URL: /wiki/Audio_Units
+","Audio Units , URL: /wiki/Audio_Units
+","Other"
+"Name","In","Out","In","Out","In","Out","HID , URL: /wiki/Human_interface_device
+","VST , URL: /wiki/Virtual_Studio_Technology
+","As host","As unit","Other"
 "Bidule , URL: /wiki/Bidule
-","Graphical","No",""
+","","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes",""
 "ChucK , URL: /wiki/ChucK
-","Textual","Yes","Static"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","","","","Chunity allows to run ChucK in the Unity game engine"
 "Csound , URL: /wiki/Csound
-","Textual/Graphical (FLTK/Qt/HTML5)","No","In development"
+","Yes","Yes","Yes","Yes","Yes","Yes","","No","","","binding from Haskell (hCsound), C, C++, Python, Java, Lua, Lisp, JavaScript"
 "Impromptu , URL: /wiki/Impromptu_(programming_environment)
-","Mostly textual","-","Dynamic & static"
+","","","Yes","Yes","Yes","Yes","","","Yes","No","Bidirectional Scheme to Objective-C bridge"
 "Kyma , URL: /wiki/Kyma_(sound_design_language)
-","Mostly Graphical","Yes","Dynamic"
+","","","Yes","Yes","Yes","Yes","Yes","","","",""
 "Max/MSP , URL: /wiki/Max/MSP
-","Graphical","No",""
+","","","Yes","Yes","Yes","Yes","Yes","Yes","Yes","",""
 "Pure Data , URL: /wiki/Pure_Data
-","Graphical","No",""
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Some","Some","bindings for Python, Lua, Java, GStreamer. the Camomile plugin may host PD as plugin within DAW. PD-extended presently has multiple options to host LADSPA plugins within PD environment."
 "Reaktor , URL: /wiki/Reaktor
-","Graphical","No",""
+","","","Yes","Yes","Yes","Yes","","Yes","No","Yes",""
 "SuperCollider , URL: /wiki/SuperCollider
-","Textual/Graphical (Cocoa/Swing/Qt)","Yes","Dynamic"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","","No","Yes","LADSPA Host, scsynth can be controlled by OSC messages (Haskell, Scala, Python, Ruby, Scheme etc.)"
 "SynthEdit , URL: /wiki/SynthEdit
-","Graphical","Yes","Static"
-"MPEG-4/SA , URL: /wiki/MPEG-4_Structured_Audio
-","Textual","No","No"
+","","","Yes","Yes","No","No","","Yes","No","Yes",""
+"VCV Rack , URL: https://vcvrack.com/
+","","","Yes","Yes","Yes","Yes","","Yes","","",""

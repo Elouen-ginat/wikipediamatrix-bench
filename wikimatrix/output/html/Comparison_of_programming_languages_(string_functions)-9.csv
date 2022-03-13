@@ -1,73 +1,67 @@
 "Format","Languages"
-"string1 & string2","Ada , URL: /wiki/Ada_(programming_language)
-FreeBASIC , URL: /wiki/FreeBASIC
-Seed7 , URL: /wiki/Seed7
-BASIC , URL: /wiki/BASIC
-VB , URL: /wiki/Visual_Basic_(classic)
-VB .NET , URL: /wiki/Visual_Basic_.NET
-COBOL , URL: /wiki/COBOL
+"string_in_string(string, loc int, substring)","ALGOL 68 , URL: /wiki/ALGOL_68
 "
-"strcat(string1, string2)","C , URL: /wiki/C_(programming_language)
-C++ , URL: /wiki/C%2B%2B
-"
-"string1 . string2","Perl , URL: /wiki/Perl
-PHP , URL: /wiki/PHP
-"
-"string1 + string2","ALGOL 68 , URL: /wiki/ALGOL_68
-C++ , URL: /wiki/C%2B%2B
-C# , URL: /wiki/C_Sharp_(programming_language)
-Cobra , URL: /wiki/Cobra_(programming_language)
-FreeBASIC , URL: /wiki/FreeBASIC
-Go , URL: /wiki/Go_(programming_language)
-Pascal , URL: /wiki/Pascal_(programming_language)
-Object Pascal , URL: /wiki/Object_Pascal
+"ContainsStr(string, substring)","Object Pascal , URL: /wiki/Object_Pascal
 Delphi , URL: /wiki/Delphi_(programming_language)
-Java , URL: /wiki/Java_(programming_language)
-JavaScript , URL: /wiki/JavaScript
+"
+"strstr(string, substring) != NULL","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+"
+"string.Contains(substring)","C# , URL: /wiki/C_Sharp_(programming_language)
+VB .NET , URL: /wiki/Visual_Basic_.NET
 Windows PowerShell , URL: /wiki/Windows_PowerShell
-Python , URL: /wiki/Python_(programming_language)
-Ruby , URL: /wiki/Ruby_(programming_language)
-Rust , URL: /wiki/Rust_(programming_language)
 F# , URL: /wiki/F_Sharp_(programming_language)
-Swift , URL: /wiki/Swift_(programming_language)
-Turing , URL: /wiki/Turing_(programming_language)
-VB , URL: /wiki/Visual_Basic_(classic)
 "
-"string1 ~ string2","D , URL: /wiki/D_(programming_language)
+"string.contains(substring)","Cobra , URL: /wiki/Cobra_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
 Raku , URL: /wiki/Raku_(programming_language)
+Rust , URL: /wiki/Rust_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+C++23 , URL: /wiki/C%2B%2B23
 "
-"(string-append string1 string2)","Scheme , URL: /wiki/Scheme_(programming_language)
-ISLISP , URL: /wiki/ISLISP
+"string.indexOf(substring) >= 0","JavaScript , URL: /wiki/JavaScript
 "
-"(concatenate 'string string1 string2)","Common Lisp , URL: /wiki/Common_Lisp
+"strpos(string, substring) !== false","PHP , URL: /wiki/PHP
 "
-"(str string1 string2)","Clojure , URL: /wiki/Clojure
+"str_contains(string, substring)","PHP , URL: /wiki/PHP
 "
-"string1 || string2","Rexx , URL: /wiki/Rexx
-SQL , URL: /wiki/SQL
-PL/I , URL: /wiki/PL/I
+"pos(string, substring) <> 0","Seed7 , URL: /wiki/Seed7
 "
-"string1 // string2","Fortran , URL: /wiki/Fortran
+"substring in string","Cobra , URL: /wiki/Cobra_(programming_language)
+Python , URL: /wiki/Python_(programming_language)
 "
-"string1 ++ string2","Erlang , URL: /wiki/Erlang_(programming_language)
-Haskell , URL: /wiki/Haskell_(programming_language)
+"string.find(string, substring) ~= nil","Lua , URL: /wiki/Lua_(programming_language)
 "
-"string1 ^ string2","OCaml , URL: /wiki/OCaml
-Standard ML , URL: /wiki/Standard_ML
-F# , URL: /wiki/F_Sharp_(programming_language)
+"string.include?(substring)","Ruby , URL: /wiki/Ruby_(programming_language)
 "
-"[string1 stringByAppendingString:string2]","Objective-C , URL: /wiki/Objective-C
+"Data.List.isInfixOf substring string","Haskell , URL: /wiki/Haskell_(programming_language)
 "
-"string1 .. string2","Lua , URL: /wiki/Lua_(programming_language)
+"string includesSubstring: substring","Smalltalk , URL: /wiki/Smalltalk
+Squeak , URL: /wiki/Squeak
+Pharo , URL: /wiki/Pharo
+Smalltalk/X , URL: /w/index.php?title=Smalltalk/X&action=edit&redlink=1
 "
-"string1 , string2","Smalltalk , URL: /wiki/Smalltalk
-APL , URL: /wiki/APL_(programming_language)
+"String.isSubstring substring string","Standard ML , URL: /wiki/Standard_ML
 "
-"string1 string2","SNOBOL , URL: /wiki/SNOBOL
+"(search substring string)","Common Lisp , URL: /wiki/Common_Lisp
 "
-"string1string2","Bash shell , URL: /wiki/Bash_shell
+"(not (null (string-index substring string)))","ISLISP , URL: /wiki/ISLISP
 "
-"string1 <> string2","Mathematica , URL: /wiki/Mathematica
+"(substring? substring string)","Clojure , URL: /wiki/Clojure
 "
-"concat string1 string2","Tcl , URL: /wiki/Tcl
+"! StringFreeQ[string, substring]","Mathematica , URL: /wiki/Mathematica
+"
+"index(string, substring, startpos)>0","Fortran, PL/I , URL: /w/index.php?title=Fortran,_PL/I&action=edit&redlink=1
+"
+"index(string, substring, occurrence)>0","Pick Basic , URL: /wiki/Pick_Basic
+"
+"strings.Contains(string, substring)","Go , URL: /wiki/Go_(programming_language)
+"
+"string.find(substring) != string::npos","C++ , URL: /wiki/C%2B%2B
+"
+"[string containsString:substring]","Objective-C , URL: /wiki/Objective-C
+"
+"string.rangeOfString(substring) != nil","Swift , URL: /wiki/Swift_(programming_language)
+"
+"∨/substring⍷string","APL , URL: /wiki/APL_(programming_language)
 "

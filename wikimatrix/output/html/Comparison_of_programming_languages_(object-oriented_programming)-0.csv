@@ -1,1 +1,61 @@
-"","This article may require cleanup to meet Wikipedia's quality standards. The specific problem is: This article's reference section contains many footnotes, but lists no external references or sources. Please help improve this article if you can. (June 2013) (Learn how and when to remove this template message)"
+"","construction","destruction"
+"ABAP Objects , URL: /wiki/ABAP_Objects
+","data variable type ref to class . create object variable «exporting parameter = argument».[1]","[2][3]"
+"APL , URL: /wiki/APL_(programming_language)
+","variable←⎕NEW class «parameters»","⎕EX 'variable'"
+"C++ , URL: /wiki/C%2B%2B
+STL , URL: /wiki/Standard_Template_Library
+","class variable«(parameters)»; or class *variable = new class«(parameters)»;","delete pointer;"
+"C# , URL: /wiki/C_Sharp_(programming_language)
+","class variable = new class(parameters);","variable.Dispose();[3]"
+"Java , URL: /wiki/Java_(programming_language)
+","class variable = new class(parameters);","[3]"
+"D , URL: /wiki/D_(programming_language)
+","class variable = new class(parameters);","destroy(variable);"
+"eC , URL: /wiki/EC_(programming_language)
+","class «instance handle» { «properties/data members assignments, instance method overrides» }","delete instance handle;"
+"Objective-C , URL: /wiki/Objective-C
+Cocoa , URL: /wiki/Cocoa_(API)
+","class *variable = [[class alloc ] init]; or class *variable = [[class alloc ] initWithFoo:parameter «bar:parameter ...»];","[variable release];"
+"Swift , URL: /wiki/Swift_(programming_language)
+","let variable = class(parameters)",""
+"Python , URL: /wiki/Python_(programming_language)
+","variable = class(parameters)","del variable[3] (Normally not needed)"
+"Visual Basic .NET , URL: /wiki/Visual_Basic_.NET
+","Dim variable As New class(parameters)","variable.Dispose()[3]"
+"Xojo , URL: /wiki/Xojo
+","Dim variable As New class(parameters)","variable = Nil"
+"Eiffel , URL: /wiki/Eiffel_(programming_language)
+","create variable or create «{TYPE}» variable.make_foo «(parameters)» or variable := create {TYPE} or variable := create {TYPE}.make_foo «(parameters)»","[3]"
+"PHP , URL: /wiki/PHP
+","$variable = new class«(parameters)»;","unset($variable);[3]"
+"Perl , URL: /wiki/Perl
+","«my »$variable = class->new«(parameters)»;","undef($variable);"
+"Raku , URL: /wiki/Raku_(programming_language)
+","«my »$variable = class.new«(parameters)»;","$variable.undefine;"
+"Ruby , URL: /wiki/Ruby_(programming_language)
+","variable = class.new«(parameters)»","[3]"
+"Windows PowerShell , URL: /wiki/Windows_PowerShell
+","$variable = New-Object «-TypeName» class ««-ArgumentList» parameters»","Remove-Variable «-Name» variable"
+"OCaml , URL: /wiki/OCaml
+","let variable = new class «parameters» or let variable = object members end[4]","[3]"
+"F# , URL: /wiki/F_Sharp_(programming_language)
+","let variable = «new »class(«parameters»)","[3]"
+"Smalltalk , URL: /wiki/Smalltalk
+","The class is an Object. Just send a message to a class, usually #new or #new:, and many others, for example: Point x: 10 y: 20.
+Array with: -1 with: 3 with: 2.",""
+"JavaScript , URL: /wiki/JavaScript
+","var variable = new class«(parameters)» or var variable = { «key1: value1«, key2: value2 ...»»}","[3]"
+"Delphi , URL: /wiki/Delphi_(programming_language)
+","ClassVar := ClassType.ConstructorName(parameters);","ClassVar.Free;"
+"Scala , URL: /wiki/Scala_(programming_language)
+","val obj = new Object // no parameters
+val obj = new Object(arg0, arg1, arg2...)
+val obj = Object(arg0, arg1, arg2...) // case class
+val obj = new Object(arg0, arg1, param1 = value1, ...) // named parameters","[3]"
+"COBOL , URL: /wiki/COBOL
+","INVOKE class ""NEW"" RETURNING variable or MOVE class::""NEW"" TO variable",""
+"Cobra , URL: /wiki/Cobra_(programming_language)
+","variable «as class» = class(parameters)","variable.dispose"
+"ISLISP , URL: /wiki/ISLISP
+","(setq variable (create (class <some-class> [:field-1 value-1 [:field-2 value-2] ..])))","[3]"

@@ -1,1 +1,80 @@
-"","This article needs to be updated. The reason given is: Does not reflect newer libraries or versions made available in the last several years. Please help update this article to reflect recent events or newly available information. (April 2017)"
+"Framework","Version compared","Size","License","Source language"
+"Angular , URL: /wiki/Angular_(application_platform)
+","7 18 Oct 2018","563 kB (minified & compressed)","MIT , URL: /wiki/MIT_License
+","TypeScript"
+"AngularJS , URL: /wiki/AngularJS
+","1.5.0 5 Feb 2016","144 kB (minified & compressed)","MIT , URL: /wiki/MIT_License
+","JavaScript"
+"Apache Royale , URL: /wiki/Apache_Royale
+","0.9.4 5 Nov 2018","19 kB (zipped)","Apache , URL: /wiki/Apache_License
+","ActionScript 3, MXML, CSS"
+"Backbone.js , URL: /wiki/Backbone.js
+","1.2.1 June 2015","7.3 kB (Packed and gzipped)","MIT , URL: /wiki/MIT_License
+","JavaScript"
+"Dojo , URL: /wiki/Dojo_Toolkit
+","1.10.4 18 Jan 2015","Variable. Base size: 41 kB (minified & gzipped), 155 kB (minified), 598 kB (uncompressed)[1]","BSD , URL: /wiki/BSD_License
+AFL , URL: /wiki/Academic_Free_License
+","JavaScript , URL: /wiki/JavaScript
+"
+"Ember.js , URL: /wiki/Ember.js
+","1.7.0 19 Aug 2014","95 kB (minified & gzipped), 340 kB (minified), 1.5 MB (uncompressed)","MIT , URL: /wiki/MIT_License
+","JavaScript"
+"Enyo , URL: /wiki/Enyo_(software)
+","2.0.1 30 Aug 2012","<25 kB (core gzipped)","Apache 2 , URL: /wiki/Apache_2_License
+","JavaScript"
+"Ext JS , URL: /wiki/Ext_(JavaScript_library)
+","7.3 15 Sept, 2020","84–502 kB","GPL , URL: /wiki/GPL_v3
+","JavaScript"
+"Google Web Toolkit , URL: /wiki/Google_Web_Toolkit
+","2.7.0 November 2014","Variable","Apache , URL: /wiki/Apache_License
+","Java"
+"jQuery , URL: /wiki/JQuery
+","3.6.0 03 Mar 2021","70.7KB (slim, minified), 87.4KB (minified),[4] 282 KiB (uncompressed)[4]","MIT , URL: /wiki/MIT_License
+","JavaScript"
+"jQWidgets , URL: /wiki/JQWidgets
+","3.9.1 29 Oct 2015","3102 KB (minified), 7486 KB (uncompressed)","Creative Commons Attribution-NonCommercial 3.0 , URL: /wiki/Creative_Commons_license
+","JavaScript, HTML, CSS"
+"Knockout , URL: /wiki/Knockout_(web_framework)
+","3.5.0 22 February 2019","66.4 KB minified / 309 KB (development mode)","MIT , URL: /wiki/MIT_License
+","JavaScript"
+"MooTools , URL: /wiki/MooTools
+","1.6.0 14 Jan 2016","Variable; 7.3–65 KiB (YUI Compressor),[6] Variable; 7.3–65 KiB (YUI Compressor),[7] 101 KiB (uncompressed)[8]","MIT , URL: /wiki/MIT_License
+","JavaScript"
+"React (JavaScript library) , URL: /wiki/React_(JavaScript_library)
+","16.1.1 28 November 2017","react.production.min.js , URL: https://github.com/facebook/react/releases/download/v16.1.1/react.production.min.js
+","MIT , URL: /wiki/MIT_License
+","JavaScript"
+"OpenUI5 , URL: /wiki/OpenUI5
+","1.87.3 17 Mar 2021","787KB (core, minified) 59.8MB (runtime, minified, zipped) 28.3MB (mobile runtime, minified, zipped) 205MB (SDK, zipped)","Apache 2 , URL: /wiki/Apache_2_License
+","JavaScript"
+"Prototype , URL: /wiki/Prototype_JavaScript_Framework
+script. aculo.us , URL: /wiki/Script.aculo.us
+","Prototype: 1.7.3 22 Sep 2015 script.aculo.us: 1.9.0 23 Dec 2010","46–278 kB","MIT , URL: /wiki/MIT_License
+","JavaScript"
+"qooxdoo , URL: /wiki/Qooxdoo
+","5.0.1 15 Sep 2015","Variable, starting at 6 kB (gzipped)","LGPL , URL: /wiki/LGPL
+EPL , URL: /wiki/Eclipse_Public_License
+","JavaScript"
+"SproutCore , URL: /wiki/SproutCore
+","1.11.2 2 May 2016","250–700 kB (gzipped).","MIT , URL: /wiki/MIT_License
+","JavaScript"
+"Svelte , URL: /wiki/Svelte
+","3.12.1 14 Oct 2019","Variable","MIT , URL: /wiki/MIT_License
+","JavaScript"
+"Vue.js , URL: /wiki/Vue.js
+","2.6.10 20 Mar 2019","33.5 KB (minified & gzipped) 91.48 KB (minified) [11] 333.46 KB (uncompressed) [11]","MIT , URL: /wiki/MIT_License
+","JavaScript / TypeScript"
+"Wakanda , URL: /wiki/Wakanda_(software)
+","9 14 Nov 2014","Variable","GPL3 , URL: /wiki/GPL3
+AGPL , URL: /wiki/Affero_General_Public_License
+Commercial , URL: https://web.archive.org/web/20141210051445/http://www.wakanda.org/licensing-pricing
+","JavaScript + HTML + CSS"
+"Webix , URL: /wiki/Webix
+","4.1 November 2016","188 kB (gzipped)","GPL , URL: /wiki/GPL
+Commercial , URL: https://webix.com/licenses/
+","JavaScript"
+"ZK , URL: /wiki/ZK_Framework
+","8.0.1 19 Jan 2016","Variable","LGPL , URL: /wiki/LGPL
+GPL , URL: /wiki/GPL
+ZOL , URL: http://www.zkoss.org/license/
+","XML + Java (JavaScript optional)"

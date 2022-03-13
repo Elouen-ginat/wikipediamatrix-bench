@@ -1,29 +1,33 @@
-"ADC hub","FOSS , URL: /wiki/Free_and_open_source_software
-","Software license , URL: /wiki/Software_license
-","Active","Last Update","Notes"
-"ADCH++","Yes","GPL , URL: /wiki/GNU_General_Public_License
-","Yes","2021-10-08 / 3.0.0",""
-"ADCH++ GUI","Yes","GPL , URL: /wiki/GNU_General_Public_License
-","No","",""
-"DSHub","Yes","GPL , URL: /wiki/GNU_General_Public_License
-","No","2008-10-09 / RC1",""
-"FlexHub","Yes","AGPL , URL: /wiki/Affero_General_Public_License
-","No","2013-10-20 / 0.2 svn 1469",""
-"Luadch","Yes","GPLv2 , URL: /wiki/GNU_General_Public_License
-","Yes","2021-09-16 / 2.22",""
-"Nexthub","Yes","MIT License , URL: /wiki/MIT_License
-","No","",""
-"uhub","Yes","GPL , URL: /wiki/GNU_General_Public_License
-","No","2019-12-13 / 0.5.1-git-35d8088","Debian , URL: /wiki/Debian
-OpenWrt , URL: /wiki/OpenWrt
+"ADC hub","Windows , URL: /wiki/Microsoft_Windows
+","Linux , URL: /wiki/Linux
+","OS X , URL: /wiki/OS_X
+","Other"
+"ADCH++","Yes","Yes","No","No"
+"ADCH++ GUI","Yes","Yes","No","Python , URL: /wiki/Python_(programming_language)
 "
-"ErlHub","Yes","GPL , URL: /wiki/GNU_General_Public_License
-","?","",""
-"Qhub","Yes","GPL , URL: /wiki/GNU_General_Public_License
-","No","2006-07-09 / 0.10",""
-"Starlet ADC Hub","No","Proprietary , URL: /wiki/Proprietary_software
-","No","",""
-"Starhub","No","source code available","No","",""
-"RusHub","Yes","GPL , URL: /wiki/GNU_General_Public_License
-","No","2012-07-10 / 2.3.10",""
-"ADC hub","FOSS","Software license","Active","",""
+"DSHub","Yes","Yes","Yes","Java , URL: /wiki/Java_(programming_language)
+"
+"FlexHub","Yes","Yes","No","No"
+"Luadch","Yes","Yes","Yes","Raspberry Pi , URL: /wiki/Raspberry_Pi
+Synology , URL: /wiki/Synology_Inc.
+NAS , URL: /wiki/Network-attached_storage
+GCC , URL: /wiki/GNU_Compiler_Collection
+"
+"Nexthub","Yes","?","No","C# , URL: /wiki/C_Sharp_(programming_language)
+"
+"uhub","Yes","Yes","Yes","BSD , URL: /wiki/BSD
+Haiku , URL: /wiki/Haiku_(operating_system)
+OpenWrt , URL: /wiki/OpenWrt
+Solaris , URL: /wiki/Solaris_(operating_system)
+"
+"Erlhub","Yes","Yes","Yes","Erlang , URL: /wiki/Erlang_(programming_language)
+"
+"Qhub","?","?","?","?"
+"Starlet ADC Hub","No","No","No","OpenVMS , URL: /wiki/OpenVMS
+"
+"Starhub","Yes","Yes","Yes","Java , URL: /wiki/Java_(programming_language)
+"
+"RusHub","Yes","Yes","Yes","FreeBSD , URL: /wiki/FreeBSD
+Solaris , URL: /wiki/Solaris_(operating_system)
+"
+"ADC hub","Windows","Linux","OS X","Other"

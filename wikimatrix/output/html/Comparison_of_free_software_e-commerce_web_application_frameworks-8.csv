@@ -1,31 +1,32 @@
-"","HTML catalog","Meta tagging","RSS feeds","SEO URLs","Site map, XML","GoodRelations , URL: /wiki/GoodRelations
-"
+"","Access control list","Form CAPTCHA","Staff action logging","PA/DSS certified"
 "Apache OFBiz , URL: /wiki/Apache_OFBiz
-","Yes","Yes","No","Yes","Yes","No"
+","Yes","Yes","Yes","No"
 "Batavi , URL: /wiki/Batavi_(software)
-","Yes","Yes","No","Yes","No","No"
+","Yes","No","Yes","No"
 "BigCommerce , URL: /wiki/BigCommerce
-","Yes","Yes","Yes","Yes","Yes","No"
+","Yes","Yes","Yes","No"
 "Drupal Commerce , URL: /wiki/Drupal_Commerce
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","add-on","Yes","No"
 "KonaKart , URL: /wiki/KonaKart
-","Yes","Yes","Yes","Yes","No","No"
+","Yes","No","Yes","No"
 "Magento , URL: /wiki/Magento
-","Yes","Yes","Yes","Yes[34]","Yes","No"
+","Yes","Yes","enterprise","No"
+"Miva Merchant , URL: /wiki/Miva_Merchant
+","No","Yes","No","Yes"
 "nopCommerce , URL: /wiki/NopCommerce
-","Yes","Yes","Yes","Yes","Yes","No"
+","Yes","Yes","Yes","No"
 "osCommerce , URL: /wiki/OsCommerce
-","No","No","add-on","Yes","add-on","Yes"
+","Yes","No","No","No"
 "pimcore , URL: /wiki/Pimcore
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","No","No","No"
 "PrestaShop , URL: /wiki/PrestaShop
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","No","No"
 "Shopify , URL: /wiki/Shopify
-","Yes","Yes","Yes","Yes","Yes","No"
+","Yes","Yes","Yes","No"
 "SupaDupa , URL: /wiki/SupaDupa
-","Yes","Yes","No","Yes","Yes","No"
+","Yes","No","No","No"
 "WooCommerce , URL: /wiki/WooCommerce
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","No","add-on","No","No"
 "Zen Cart , URL: /wiki/Zen_Cart
-","add-on","Yes","add-on[35]","add-on","add-on","No"
-"","HTML catalog","Meta tagging","RSS feeds","SEO URLs","Site map, XML","GoodRelations RDFa"
+","Yes","add-on","Yes","No"
+"","Access control list","Form CAPTCHA","Staff action logging","PA/DSS certified"

@@ -8,7 +8,8 @@ Fab , URL: /wiki/Semiconductor_device_fabrication
 "Codename , URL: /wiki/Codename
 ","Launch","Architecture , URL: /wiki/Microarchitecture
 Fab , URL: /wiki/Semiconductor_device_fabrication
-","Config","MHz , URL: /wiki/Hertz
+","CU , URL: /wiki/Graphics_Core_Next#Compute_Units
+","MHz , URL: /wiki/Hertz
 ","GT , URL: /wiki/Texel_(graphics)
 ","GP , URL: /wiki/Pixel
 ","GFLOPS , URL: /wiki/GFLOPS
@@ -17,16 +18,37 @@ Fab , URL: /wiki/Semiconductor_device_fabrication
 ","MHz , URL: /wiki/Hertz
 ","GB , URL: /wiki/Gigabyte
 ","Bus interface","Notes"
-"Mobility FireGL 7800 [332] (M7-GL)","2001-09-29","R100 (150 nm)","0:2:2:2[d]","280","0.56","0.56","Unknown","64","DDR 128-bit","200","6.4","AGP","27 Watt TDP"
-"Mobility FireGL 9000 [333] (M7-GL)","2002-01-01","R200 (150 nm)","1:4:4:4[d]","250","1.0","1.0","Unknown","64","DDR 128-bit","200","6.4","AGP 4x",""
-"Mobility FireGL T2 [334] (M7-GL)","2003-11-01","R300 (130 nm)","2:4:4:4[d]","320","1.28","1.28","Unknown","128","DDR 128-bit","200","6.5","AGP 4x",""
-"Mobility FireGL T2e [335] (M7-GL)","2004-08-01","R300 (130 nm)","2:4:4:4[d]","450","1.8","1.8","Unknown","128","DDR 128-bit","225","7.2","AGP",""
-"Mobility FireGL V3100 [336] (M7-GL)","2004-06-01","R300 (110 nm)","2:4:4:4[d]","350","1.4","1.4","Unknown","128","DDR 128-bit","200","6.4","PCIe x16",""
-"Mobility FireGL V3200 [337] (M7-GL)","2004-06-01","R300 (130 nm)","2:4:4:4[d]","400","1.6","1.6","Unknown","128","DDR2 128-bit","250","12.8","PCIe x16",""
-"Mobility FireGL V5000 [338] (M7-GL)","2005-02-03","R420 (110 nm)","6:8:8:8[d]","350","2.8","2.8","Unknown","128","GDDR3 128-bit","425","13.6","PCIe x16",""
-"Mobility FireGL V5200 [339] (M7-GL)","2006-02-01","R520 (90 nm)","5:12:12:12[d]","425","5.1","5.1","Unknown","256","GDDR3 128-bit","475","15.2","PCIe x16",""
-"Mobility FireGL V5250 [340] (M7-GL)","2007-01-01","R520 (90 nm)","5:12:12:12[d]","450","5.4","5.4","Unknown","256","GDDR3 128-bit","350","11.2","PCIe x16",""
-"Mobility FireGL V5600 [341] (M7-GL)","2007-05-14","TeraScale 1 (65 nm)","120:8:4[e]","500","4.0","2.0","120.0","256","GDDR3 128-bit","400","12.8","PCIe 2.0 x16",""
-"Mobility FireGL V5700 [342] (M7-GL)","2008-01-07","Terascale 2 (55 nm)","120:8:4[e]","600","4.8","2.4","144","512","GDDR3 128-bit","700","22.4","PCIe 2.0 x16","ThinkPad W500 , URL: /wiki/ThinkPad_W_Series#W500
+"FirePro M5725 [344] (M96 GL)","2009-01-01","Terascale 2 (55 nm)","320:32:8 (3)","680","21.6","5.4","432","256","GDDR3 128-bit","800","25.6","PCIe 2.0 x16",""
+"FirePro M5800 [345] (Madison XT GL)","2010-03-01","Terascale 2 (40 nm)","400:20:8 (5)","650","13","5.2","520","1024","GDDR5 128-bit","800","25.6","PCIe 2.0 x16","HP EliteBook , URL: /wiki/HP_EliteBook
 "
-"Mobility FireGL V5725 [343] (M7-GL)","2009-01-01","Terascale 2 (55 nm)","120:8:4[e]","680","5.44","2.72","163.2","256","GDDR3 128-bit","800","25.6","PCIe 2.0 x16",""
+"FirePro M3900 [346] (Seymour XT)","2011-04-13","Terascale 2 (40 nm)","160:8:4 (2)","700","6.0","3.0","224","1024","DDR3 64-bit","900","14.4","PCIe 2.1 x16","HP Elitebook 8460w"
+"FirePro M5950 [347] (Whistler XT)","2011-01-04","Terascale 2 (40 nm)","480:24:8 (6)","725","17.4","5.8","696","1024","GDDR5 128-bit","900","57.6","PCIe 2.1 x16","Dell Precision , URL: /wiki/Dell_Precision
+"
+"FirePro M7740 [348] (M97XT GL)","2009-08-04","Terascale 1 (40 nm)","640:32:16 (8)","650","20.8","10.4","832","1024","GDDR5 128-bit","1000","64","PCIe 2.0 x16","Dell Precision M6400 and M6500"
+"FirePro M7820 [349] (Juniper XT)","2010-05-01","Terascale 2 (40 nm)","800:40:16 (10)","700","28","11.2","1120","1024","GDDR5 128-bit","1000","64","PCIe 2.0 x16","Dell Precision M6500, HP EliteBook 8740w"
+"FirePro M8900 [350] (Blackcomb XT GL)","2011-04-12","Terascale 2 (40 nm)","960:48:32 (12)","680","32.64","21.76","1310","2048","GDDR5 256-bit","900","115.2","PCIe 2.1 x16","Dell Precision M6600"
+"FirePro M2000 [351] (Turks GL)","2012-07-01","Terascale 2 (40 nm)","480:24:8 (6)","500","12","4","480","1024","GDDR5 64-bit","800","25.6","PCIe 2.1 x16","HP EliteBook 8470w"
+"FirePro M4000 [352] (Chelsea XT GL)","2012-06-27","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","512:32:16 (8)","600","19.2","9.6","614","2048","GDDR5 128-bit","1000","51.2","PCIe 2.1 x16","HP EliteBook 8570w, HP EliteBook 8770w, Dell Precision M4700 (e.g. Consumer HD7700M Serie DevID 682D)"
+"FirePro M6000 [353] (Heathrow XT GL)","2012-06-27","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","640:40:16 (10)","800","30","12","960","2048","GDDR5 128-bit","1000","64","PCIe 3.0 x16","Dell Precision M6700"
+"FirePro M4100 [354] (Mars)","2013-10-16","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","384:24:8 (6)","670","16.1","5.4","514","2048","GDDR5 128-bit","1000","64","PCIe 3.0 x16","HP ZBook 14"
+"FirePro W4170M [355] (Mars XTX)","2014-04-28","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","384:24:8 (6)","825","19.8","6.6","691.2","2048","GDDR5 128-bit","1125","72","PCIe 3.0 x16","Dell Precision M2800, HP ZBook 15u G2"
+"FirePro W4190M [356] (Opal)","2015-11-12","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","384:24:8 (6)","825","19.8","6.6","634","2048","GDDR5 128-bit","900","72","PCIe 3.0 x16","HP ZBook 15u G3, MXM-3-A, OpenGL 4.6, OpenCL 2.0, TDP 25W [357]"
+"FirePro M5100 [358] (Venus XT)","2013-10-16","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","640:40:16 (10)","775","31","12.4","992","2048","GDDR5 128-bit","1125","72","PCIe 3.0 x16","Dell Precision M4800, Panasonic Toughbook 54, HP ZBook 15 G2 (e.g. R9 M200X Serie DevID 6821)"
+"FirePro W5130M [359] (Tropo LE)","2015-10-02","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","512:32:16 (8)","up to 925","28.8","14.4","up to 950","up to 2048","GDDR5 128-bit","1000","64","PCIe 3.0 x16","Dell Precision 3510 (e.g. Consumer R7 M465X DevID 682B) MXM-3-A, DirectX 12.0 (feature level 11_1), OpenGL 4.6, OpenCL 2.0, Vulkan 1.0, TDP 35W [360]"
+"FirePro W5170M [361] (Tropo XT)","2014-08-25","GCN 1st gen , URL: /wiki/Graphics_Core_Next#first
+","640:40:16 (10)","up to 925","36.0","14.4","up to 1180","up to 2048","GDDR5 128-bit","1125","72","PCIe 3.0 x16","Dell Precision 7510, Dell Precision 7710, HP ZBook 15 G3 (e.g. Consumer R9 M375X DevID 6820 REV 083) MXM-3-A, DirectX 12.0 (feature level 11_1), OpenGL 4.6, OpenCL 2.0, Vulkan 1.0, TDP 45W [362]"
+"FirePro M6100 [363] (Saturn XT GL)","2013-10-16","GCN 2nd gen , URL: /wiki/Graphics_Core_Next#second
+","768: 48:16 (12)","up to 1100","51.6","17.2","1651.2","2048","GDDR5 128-bit","1375/1500","88/96","PCIe 3.0 x16","Dell Precision M6600 / M6800, HP Zbook 17 G2"
+"FirePro W6150M [364] (Saturn XT GL)","2015-11-12","GCN 2nd gen , URL: /wiki/Graphics_Core_Next#second
+","768:48:16 (12)","1075","51.6","17.2","1651","4096","GDDR5 128-bit","1375","88","PCIe 3.0 x16","HP Zbook 17 G3, MXM-3-B, OpenGL 4.6, OpenCL 2.0, TDP 100W [365]"
+"FirePro W6170M [366] (Saturn XT GL)","2014-08-25","GCN 2nd gen , URL: /wiki/Graphics_Core_Next#second
+","768:48:16 (12)","1075","51.6","17.2","1651","4096","GDDR5 128-bit","1375","88","PCIe 3.0 x16","HP ZBook 17 G2"
+"FirePro W7170M [367] (Amethyst XT)","2015-10-02","GCN 3rd gen , URL: /wiki/Graphics_Core_Next#third
+","2048:128:32 (32)","723","92.5","23.1","2960","4096","GDDR5 256-bit","1250","160","PCIe 3.0 x16","Dell Precision 7710, MXM-3-B, DirectX 12.0 (feature level 11_1), OpenGL 4.6, OpenCL 2.0, Vulkan 1.0, TDP 100W [368]"

@@ -1,36 +1,43 @@
-"JVM","Status","Latest supported Java version","Supported class libraries","Supported class libraries","Supported class libraries","Performance","Performance","Performance"
-"JVM","Status","Latest supported Java version","GNU Classpath , URL: /wiki/GNU_Classpath
-","OpenJDK , URL: /wiki/OpenJDK
-","Other","Interpretation","AOT , URL: /wiki/AOT_compiler
-","JIT , URL: /wiki/Just-in-time_compilation
+"JVM","x86 , URL: /wiki/X86
+","x86-64 , URL: /wiki/X86-64
+","SPARC , URL: /wiki/SPARC
+","MIPS , URL: /wiki/MIPS_architecture
+","Itanium , URL: /wiki/Itanium
+","Power ISA , URL: /wiki/Power_ISA
+","ARM , URL: /wiki/ARM_architecture
+","Alpha , URL: /wiki/DEC_Alpha
+","S/390 , URL: /wiki/IBM_System/390
+","z/Architecture , URL: /wiki/Z/Architecture
+","m68k , URL: /wiki/M68k
 "
 "GCJ , URL: /wiki/GNU_Compiler_for_Java
-","No longer maintained or distributed by GNU as of GCC 7 [15]","?","Yes","No","","Yes","Yes","No"
+","Yes[33]","Yes[33]","Yes[33]","Yes[33]","Yes[33]","Yes[33]","Yes[33]","Yes[33]","Yes[33]","No[33]","No[33]"
 "HotSpot , URL: /wiki/HotSpot_(virtual_machine)
 OpenJDK , URL: /wiki/OpenJDK
-","Reference implementation.","1.8","No","Yes","","Yes","No","Yes"
+","Yes[34]","Yes[34]","Solaris only[34]","Port[35][36]","No[34]","PowerPC , URL: /wiki/PowerPC
+AIX , URL: /wiki/IBM_AIX
+","Yes[34]","No[34]","No[34]","No[34]","No[34]"
 "HotSpot , URL: /wiki/HotSpot_(virtual_machine)
-Oracle , URL: /wiki/Oracle_Corporation
-","Reference implementation.","1.8","No","Yes","","Yes","No","Yes"
+","Yes[34]","Yes[34]","Solaris only[34]","No[34]","Java 1.6[38]","No[34]","Yes[34]","No[34]","No[34]","No[34]","No[34]"
 "HotSpot , URL: /wiki/HotSpot_(virtual_machine)
-","","?","No","Yes","","Yes","No","Yes"
+","Yes[4]","Yes[4]","Yes[4]","?","?","Yes[4]","Yes[4]","?","?","?","?"
 "HotSpot , URL: /wiki/HotSpot_(virtual_machine)
-","Interpreter-only port of OpenJDK using almost no assembly language and designed to be very portable.","1.7","No","Yes","","Yes","No","No"
+","Yes[39]","Yes[39]","No[39]","Yes[39]","Yes[39]","Yes[39]","Yes[39]","Yes[39]","No[39]","Yes[39]","No[39]"
 "IKVM.NET , URL: /wiki/IKVM.NET
-","","?","?","?","","Whatever the .NET runtime uses","Whatever the .NET runtime uses","Whatever the .NET runtime uses"
+","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework.","Any architecture with a .NET framework."
 "JAmiga , URL: /w/index.php?title=JAmiga&action=edit&redlink=1
-","","1.4[16]","Yes[17]","No","","Yes[18]","No","No"
+","?","?","No","No","No","Yes","No","No","No","No","Yes"
 "JamVM , URL: /wiki/JamVM
-","","1.8[19]","Yes[20]","Yes[20]","","Yes[20]","No","Yes[20]"
+","Yes[20]","Yes[20]","Yes[20]","Yes[20]","No[20]","Yes[20]","Yes[20]","No[20]","No[20]","No[20]","No[20]"
 "Jato VM , URL: /w/index.php?title=Jato_VM&action=edit&redlink=1
-","","1.6[21]","Yes[9]","No[22]","","No[22]","No[22]","Yes[9]"
+","Yes[9]","Under development[40]","No","No","No","Under development[40]","Preliminary ARMv5 support[22]","No","No","No","No"
 "JC virtual machine , URL: /w/index.php?title=JC_virtual_machine&action=edit&redlink=1
-","Translates Java to C and compiles it with a C compiler.","1.4[23]","Yes[24]","No","","Yes[25]","Yes[25]","Yes[25]"
+","Yes","No","No","No","No","No","No","No","No","No","No"
 "Jikes RVM , URL: /wiki/Jikes_RVM
-","","1.6[26]","Yes[27]","Port[28][29]","Apache Harmony[27]","No[30]","?","Yes"
+","Yes[41]","No[41]","No[41]","No[41]","No[41]","Yes[41]","No[41]","No[41]","No[41]","No[41]","No[41]"
 "Kaffe , URL: /wiki/Kaffe
-","","1.4[12]","Yes[12]","No","","Yes[12]","No[12]","Yes[12]"
+","Yes[12]","Yes[12]","Yes[12]","Yes[12]","Yes[12]","Yes[12]","Yes[12]","Yes[12]","Yes[12]","No[12]","Yes[12]"
 "Mysaifu JVM , URL: /w/index.php?title=Mysaifu_JVM&action=edit&redlink=1
-","","?","Yes[31]","No","","Yes[32]","No[32]","No[32]"
+","No[42]","No[42]","No[42]","No[42]","No[42]","No[42]","Yes[42]","No[42]","No[42]","No[42]","No[42]"
 "SableVM , URL: /wiki/SableVM
-","Unmaintained","1.4","Yes","No","","Yes","No","No"
+","Yes[43]","Yes","Yes[43]","Yes","Yes[43]","Yes[43]","Yes[43]","Yes[43]","Yes[43]","No[43]","Yes[43]"

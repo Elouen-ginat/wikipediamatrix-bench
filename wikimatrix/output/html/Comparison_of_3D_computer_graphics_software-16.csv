@@ -1,9 +1,18 @@
-"Application","PBR viewport","Viewport effects","GI , URL: /wiki/Global_illumination
-","Integrated Compositing","Text editor for shader writing","Material Nodes","Turntable Rendering"
-"Maya","Yes","Some","Arnold","No","?","Hypershade, Node Editor, ShaderFX","Yes[27]"
-"3ds Max","Yes","Some","Arnold","(State Set)","OSL Map[28]","Slate Material Editor, ShaderFX","Easy Turntable script"
-"MODO","Yes","?","Yes","No","?","Nodal Shading","Render Turntable[29]"
-"Blender","Eevee (2.80 and later)","Eevee (2.80 and later)","Cycles","Yes","Text Editor","Yes","Turnaround Camera addon"
-"Gaffer","No","No","external renderers","Yes","OSLCode Node","No","No"
-"Marmoset Toolbag","Yes","Yes","No","No","?","Uber PBR shaders only","Yes[30]"
-"Substance Designer","Yes","YEBIS","NVIDIA Iray","?","?","MDL graph","?"
+"Application","CPU rendering","GPU rendering","GPU rendering","GPU rendering","GPU rendering","GPU rendering","GPU rendering"
+"Application","CPU rendering","OpenCL , URL: /wiki/OpenCL
+","CUDA , URL: /wiki/CUDA
+OptiX , URL: /wiki/OptiX
+","HIP , URL: /wiki/GPUOpen#Radeon_Open_Compute_(ROCm)
+","SYCL , URL: /wiki/SYCL
+DPC++ , URL: /wiki/OneAPI_(compute_acceleration)#Data_Parallel_C++
+","Metal , URL: /wiki/Metal_(API)
+","Out-of-Core , URL: /wiki/External_memory_algorithm
+"
+"V-Ray","Yes","V-Ray GPU (formerly V-Ray RT)","V-Ray GPU (formerly V-Ray RT)","No","No","No","Yes[42]"
+"RenderMan","Yes","No","24 and later[43]","No","No","No","?"
+"Arnold","Yes","No","Yes","No","No","No","Yes"
+"Redshift , URL: /wiki/Redshift_(renderer)
+","No","No","Yes","No","No","Yes","?"
+"Modo mPath","Yes","No","Yes","No","No","No","?"
+"Houdini Karma","Yes","No","19 and later","No","No","No","No"
+"Blender Cycles","Yes","dropped in 3.0","Yes","3.0 and later","No","3.1 and later","2.80 and later[44]"

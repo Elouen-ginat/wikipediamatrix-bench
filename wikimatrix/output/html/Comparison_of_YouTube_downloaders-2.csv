@@ -1,32 +1,17 @@
-"YouTube Downloader","MP3 , URL: /wiki/MP3
-","MPEG4 , URL: /wiki/MPEG4
-","WMV , URL: /wiki/WMV
-","AVI , URL: /wiki/Audio_Video_Interleave
-","FLV , URL: /wiki/FLV
-","Ogg Theora , URL: /wiki/Ogg_Theora
-","Ogg Vorbis , URL: /wiki/Ogg_Vorbis
-","Matroska , URL: /wiki/Matroska
-","3GP , URL: /wiki/3GP
-","SWF , URL: /wiki/SWF
-","iPhone , URL: /wiki/IPhone
-","M4A , URL: /wiki/MPEG-4_Part_14#.MP4_versus_.M4A
-","WebM , URL: /wiki/WebM
-"
+"YouTube Downloader","Online","Windows","Mac OS X","Linux","Android"
 "4KDownload , URL: /wiki/4KDownload
-","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","No","Yes","?","?"
+","No","Yes","Yes","Yes","No"
 "ClipGrab , URL: /wiki/ClipGrab
-","Yes","Yes","Yes","No","No","Yes","Yes","No","No","No","No","?","?"
+","No","Yes","Yes","Yes","No"
 "Airy , URL: /wiki/Airy_(software)
-","Yes","Yes","No","No","No","No","No","No","No","No","No","?","?"
+","No","Yes","Yes","No","No"
 "Free Studio , URL: /wiki/Free_Studio
-","Yes","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","?","?"
-"JDownloader , URL: /wiki/JDownloader
-","Yes","Yes","No","No","Yes","No","No","No","No","No","No","?","?"
+","No","Yes","Yes","No","No"
 "Video DownloadHelper , URL: /wiki/Video_DownloadHelper
-","Yes","Yes","Yes","Yes","Yes","?","?","?","?","?","?","?","?"
+","Yes","Yes","Yes","Yes","No"
 "Freemake Video Downloader , URL: /wiki/Freemake_Video_Downloader
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","No","Yes","No","No","No"
 "NewPipe , URL: /wiki/NewPipe
-","No","Yes","No","No","No","Yes","Yes","Yes","No","No","No","Yes","Yes"
+","No","No","No","No","Yes"
 "youtube-dl , URL: /wiki/Youtube-dl
-","Yes[a]","Yes[a]","No","Yes[a]","Yes[a]","Yes[a]","Yes[a]","Yes[a]","No","No","Yes[a]","Yes","Yes"
+","No","Yes","Yes","Yes","Yes"

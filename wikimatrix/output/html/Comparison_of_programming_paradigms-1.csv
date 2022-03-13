@@ -1,4 +1,74 @@
-"Programming paradigms , URL: /wiki/Programming_paradigm
+"Imperative , URL: /wiki/Imperative_programming
+","Procedural , URL: /wiki/Procedural_programming
+","Object-oriented , URL: /wiki/Object-oriented_programming
 "
-"Action Agent-oriented Array-oriented Automata-based Concurrent computing Choreographic programming Relativistic programming Data-driven Declarative (contrast: Imperative) Functional Functional logic Purely functional Logic Abductive logic Answer set Concurrent logic Functional logic Inductive logic Constraint Constraint logic Concurrent constraint logic Dataflow Flow-based Reactive Functional reactive Ontology Query language Differentiable Dynamic/scripting Event-driven Function-level (contrast: Value-level) Point-free style Concatenative Generic Imperative (contrast: Declarative) Procedural Object-oriented Polymorphic Intentional Language-oriented Domain-specific Literate Natural-language programming Metaprogramming Automatic Inductive programming Reflective Attribute-oriented Macro Template Non-structured (contrast: Structured) Array Nondeterministic Parallel computing Process-oriented Probabilistic Quantum Set-theoretic Stack-based Structured (contrast: Non-structured) Block-structured Structured concurrency Object-oriented Actor-based Class-based Concurrent Prototype-based By separation of concerns: Aspect-oriented Role-oriented Subject-oriented Recursive Symbolic Value-level (contrast: Function-level)"
-"v t e"
+"load r;                      1
+ r2 = r * r;                  2
+ result = r2 * ""3.142"";       3
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.... storage .............
+result variable
+constant ""3.142""","area proc(r2,res):
+   push stack                                 5
+   load r2;                                   6
+   r3 = r2 * r2;                              7
+   res = r3 * ""3.142"";                        8
+   pop stack                                  9
+   return;                                   10
+...............................................
+main proc:
+   load r;                                    1
+   call area(r,result);
+    +load p = address of parameter list;      2
+    +load v = address of subroutine 'area';   3
+    +goto v with return;                      4
+.
+.
+.
+.
+.... storage .............
+result variable
+constant ""3.142""
+parameter list variable
+function pointer (==>area)
+stack storage","circle.area method(r2):
+   push stack                                 7
+   load r2;                                   8
+   r3 = r2 * r2;                              9
+   res = r3 * ""3.142"";                       10
+   pop stack                                 11
+   return(res);                           12,13
+...............................................
+main proc:
+   load r;                                    1
+   result = circle.area(r);
+      +allocate heap storage;                 2[See 1]
+      +copy r to message;                     3
+      +load p = address of message;           4
+      +load v = addr. of method 'circle.area' 5
+      +goto v with return;                    6
+.
+.
+.... storage .............
+result variable (assumed pre-allocated)
+immutable variable ""3.142"" (final)
+(heap) message variable for circle method call
+vtable(==>area)
+stack storage"

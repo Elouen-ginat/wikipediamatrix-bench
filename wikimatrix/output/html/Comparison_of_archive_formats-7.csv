@@ -1,8 +1,0 @@
-"v t e Archive formats","v t e Archive formats"
-"Archiving only","ar cpio shar tar LBR"
-"Compression only","Brotli bzip2 compress gzip Zopfli LZMA LZ4 lzip lzop SQ xz Zstandard"
-"Archiving and compression","7z ACE ARC ARJ B1 Cabinet cfs cpt dar DGCA .dmg .egg kgb LHA LZX MPQ PEA RAR rzip sit sitx SQX UDA Xar zoo ZIP ZPAQ"
-"Software packaging and distribution , URL: /wiki/Package_format
-","apk APPX deb Package (macOS) RPM MSI ipa JAR WAR Java RAR EAR XAP XBAP"
-"Document packaging and distribution","OEB Package Format OEBPS Container Format Open Packaging Conventions PAQ"
-"Comparison List Category","Comparison List Category"

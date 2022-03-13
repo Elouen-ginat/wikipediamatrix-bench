@@ -1,85 +1,80 @@
 "Format","Languages"
-"string[startpos:endpos]","ALGOL 68 , URL: /wiki/ALGOL_68
+"UCase(string)","VB , URL: /wiki/Visual_Basic_(classic)
 "
-"string (startpos .. endpos)","Ada , URL: /wiki/Ada_(programming_language)
+"ucase(string)","FreeBASIC , URL: /wiki/FreeBASIC
 "
-"Mid(string, startpos, numChars)","VB , URL: /wiki/Visual_Basic_(classic)
+"toupper(string)","AWK , URL: /wiki/AWK
 "
-"mid(string, startpos, numChars)","FreeBASIC , URL: /wiki/FreeBASIC
+"uc(string)","Perl , URL: /wiki/Perl
+Raku , URL: /wiki/Raku_(programming_language)
 "
-"string[startpos+(⍳numChars)-~⎕IO]","APL , URL: /wiki/APL_(programming_language)
+"string.uc","Raku , URL: /wiki/Raku_(programming_language)
 "
-"MID$(string, startpos, numChars)","BASIC , URL: /wiki/BASIC
+"toupper(char)","C , URL: /wiki/C_(programming_language)
 "
-"substr(string, startpos, numChars)","AWK , URL: /wiki/AWK
-Perl 5 , URL: /wiki/Perl_5
-PHP , URL: /wiki/PHP
+"for(size_t i = 0, len = strlen(string); i< len; i++) string[i] = toupper(string[i]); for (char *c = string; *c != '\0'; c++) *c = toupper(*c);","C , URL: /wiki/C_(programming_language)
 "
-"substr(string, startpos, numChars) string.substr(startpos, numChars)","Raku , URL: /wiki/Raku_(programming_language)
+"std.string.toUpper(string)","D , URL: /wiki/D_(programming_language)
 "
-"substr(string, startpos «,numChars, padChar»)","Rexx , URL: /wiki/Rexx
+"transform(string.begin(), string.end(), result.begin(), toupper)[33]","C++ , URL: /wiki/C%2B%2B
 "
-"string[startpos:endpos]","Cobra , URL: /wiki/Cobra_(programming_language)
-Python , URL: /wiki/Python_(programming_language)
-Go , URL: /wiki/Go_(programming_language)
+"uppercase(string)","Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
 "
-"string[startpos, numChars]","Pick Basic , URL: /wiki/Pick_Basic
+"upcase(char)","Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
 "
-"string[startpos, numChars] string[startpos .. endpos-1] string[startpos ... endpos]","Ruby , URL: /wiki/Ruby_(programming_language)
+"strtoupper(string)","PHP , URL: /wiki/PHP
 "
-"string[startpos .. endpos] string[startpos len numChars]","Seed7 , URL: /wiki/Seed7
+"upper(string)","Seed7 , URL: /wiki/Seed7
 "
-"string.slice(startpos«, endpos»)","JavaScript , URL: /wiki/JavaScript
+"echo ""string"" | tr 'a-z' 'A-Z'","Unix , URL: /wiki/Unix
 "
-"string.substr(startpos«, numChars»)","C++ , URL: /wiki/C%2B%2B
+"translate(string), or UPPER variables, or PARSE UPPER VAR SrcVar DstVar","Rexx , URL: /wiki/Rexx
+"
+"string.upper()","Python , URL: /wiki/Python_(programming_language)
+"
+"upcase(string)","Pick Basic , URL: /wiki/Pick_Basic
+"
+"string.upcase","Ruby , URL: /wiki/Ruby_(programming_language)
+"
+"strings.ToUpper(string)","Go , URL: /wiki/Go_(programming_language)
+"
+"(string-upcase string)","Scheme , URL: /wiki/Scheme_(programming_language)
+Common Lisp , URL: /wiki/Common_Lisp
+"
+"String.uppercase string","OCaml , URL: /wiki/OCaml
+"
+"String.map Char.toUpper string","Standard ML , URL: /wiki/Standard_ML
+"
+"map Char.toUpper string","Haskell , URL: /wiki/Haskell_(programming_language)
+"
+"string.toUpperCase()","Java , URL: /wiki/Java_(programming_language)
 JavaScript , URL: /wiki/JavaScript
 "
-"string.Substring(startpos, numChars)","VB .NET , URL: /wiki/Visual_Basic_.NET
+"to_upper(string)","Erlang , URL: /wiki/Erlang_(programming_language)
+"
+"string.ToUpper()","VB .NET , URL: /wiki/Visual_Basic_.NET
 C# , URL: /wiki/C_Sharp_(programming_language)
 Windows PowerShell , URL: /wiki/Windows_PowerShell
 F# , URL: /wiki/F_Sharp_(programming_language)
 "
-"string.substring(startpos«, endpos»)","Java , URL: /wiki/Java_(programming_language)
-JavaScript , URL: /wiki/JavaScript
+"string.uppercaseString","Objective-C , URL: /wiki/Objective-C
+Swift , URL: /wiki/Swift_(programming_language)
 "
-"copy(string, startpos, numChars)","Object Pascal , URL: /wiki/Object_Pascal
-Delphi , URL: /wiki/Delphi_(programming_language)
+"string.upper(string) (string):upper()","Lua , URL: /wiki/Lua_(programming_language)
 "
-"(substring string startpos endpos)","Scheme , URL: /wiki/Scheme_(programming_language)
+"string asUppercase","Smalltalk , URL: /wiki/Smalltalk
 "
-"(subseq string startpos endpos)","Common Lisp , URL: /wiki/Common_Lisp
+"UPPER(string)","SQL , URL: /wiki/SQL
 "
-"(subseq string startpos endpos)","ISLISP , URL: /wiki/ISLISP
+"ToUpperCase[string]","Mathematica , URL: /wiki/Mathematica
 "
-"String.sub string startpos numChars","OCaml , URL: /wiki/OCaml
+"«FUNCTION» UPPER-CASE(string)","COBOL , URL: /wiki/COBOL
 "
-"substring (string, startpos, numChars)","Standard ML , URL: /wiki/Standard_ML
+"string.toUpper","Cobra , URL: /wiki/Cobra_(programming_language)
 "
-"string:sub_string(string, startpos, endpos) string:substr(string, startpos, numChars)","Erlang , URL: /wiki/Erlang_(programming_language)
+"string toupper string","Tcl , URL: /wiki/Tcl
 "
-"strncpy(result, string + startpos, numChars);","C , URL: /wiki/C_(programming_language)
-"
-"string[startpos .. endpos+1]","D , URL: /wiki/D_(programming_language)
-"
-"take numChars $ drop startpos string","Haskell , URL: /wiki/Haskell_(programming_language)
-"
-"[string substringWithRange:NSMakeRange(startpos, numChars)]","Objective-C , URL: /wiki/Objective-C
-"
-"string.[startpos..endpos]","F# , URL: /wiki/F_Sharp_(programming_language)
-"
-"string.sub(string, startpos, endpos) (string):sub(startpos, endpos)","Lua , URL: /wiki/Lua_(programming_language)
-"
-"string copyFrom: startpos to: endpos","Smalltalk , URL: /wiki/Smalltalk
-"
-"string(startpos:endpos)","Fortran , URL: /wiki/Fortran
-"
-"SUBSTRING(string FROM startpos «FOR numChars»)","SQL , URL: /wiki/SQL
-"
-"StringTake[string, {startpos, endpos}]","Mathematica , URL: /wiki/Mathematica
-"
-"string (startpos:numChars)","COBOL , URL: /wiki/COBOL
-"
-"string range string startpos endpos","Tcl , URL: /wiki/Tcl
-"
-"string[startpos..endpos] string.get(startpos..endpos)","Rust , URL: /wiki/Rust_(programming_language)
+"string.to_uppercase()","Rust , URL: /wiki/Rust_(programming_language)
 "

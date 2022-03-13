@@ -34,6 +34,6 @@ C , URL: /wiki/DVB-C
 "Video Disk Recorder , URL: /wiki/Video_Disk_Recorder
 ","Yes","Yes","Yes","No","Yes","Yes","No","Using Plugin","Yes","Using Plugin","No","Yes","Using Plugin","No","Using Plugin"
 "Windows Media Center , URL: /wiki/Windows_Media_Center
-","Yes","Yes","Yes[f 20]","Yes[f 21]","?","Yes","External add-on[f 22]","Yes","Yes","Yes[f 23]","Yes; also respects "do not record" flag","Supports DVB-T/T2 and DVB-S/S2; does not support DVB-C[f 24]","Yes","Yes","Yes"
+","Yes","Yes","Yes[f 20]","Yes[f 21]","?","Yes","External add-on[f 22]","Yes","Yes","Yes[f 23]","Yes; also respects ""do not record"" flag","Supports DVB-T/T2 and DVB-S/S2; does not support DVB-C[f 24]","Yes","Yes","Yes"
 "VBox@TV , URL: /wiki/VBox_Home_TV_Gateway
 ","DVB Guide info varies by broadcaster and TV service provider","No","Yes","No","Yes","Yes","?","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes"

@@ -1,21 +1,26 @@
-"Service","Tagging , URL: /wiki/Tag_(metadata)
-","Groups","Conversation[Note 2]","Private[Note 3]","Private following list","RSS , URL: /wiki/RSS
-","Atom , URL: /wiki/Atom_(standard)
-","Bookmarklet , URL: /wiki/Bookmarklet
+"Service","Post via","Post via","Post via","Post via","Post via","Post via","Read via","Read via","Read via","Read via","Read via","Read via"
+"Service","Web , URL: /wiki/Web_interface
+","XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+","E-Mail , URL: /wiki/E-Mail
+","SMS , URL: /wiki/SMS
+","API , URL: /wiki/API
+","Micropub , URL: /wiki/Micropub_(protocol)
+","Web , URL: /wiki/Web_interface
+","XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
+","E-Mail , URL: /wiki/E-Mail
+","SMS , URL: /wiki/SMS
+","API , URL: /wiki/API
+","Feed , URL: /wiki/Web_feed
 "
-"Tumblr , URL: /wiki/Tumblr
-","Yes","No","No","Yes","Yes","Yes","No","?"
 "Facebook , URL: /wiki/Facebook
-","Yes","Yes","Yes","Yes","?","Yes","No","?"
+","Yes","No","Yes","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes"
 "GNU social , URL: /wiki/GNU_social
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[7]"
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes"
 "Twitter , URL: /wiki/Twitter
-","Yes","No","Yes","Yes","Yes","No[8]","No[8]","No"
-"Mastodon , URL: /wiki/Mastodon_Social
-","Yes","No","Yes","Yes","?","No","Yes","No"
+","Yes","No","No","Yes","Yes","No","Yes","No","?","Yes","Yes","Yes"
+"Mastodon , URL: /wiki/Mastodon_(software)
+","Yes","No","No","No","Yes","No","Yes","No","No","No","Yes","Yes"
 "Movim , URL: /wiki/Movim
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","No","No","Yes","?","Yes","Yes","No","No","Yes","?"
 "micro.blog , URL: /wiki/Micro.blog
-","Yes","No","Yes","No","?","Yes","No","No"
-"Steam , URL: /wiki/Steam_(service)
-","Yes","Yes","Yes","Yes","Yes","","",""
+","Yes","Yes","No","No","Yes","Yes","Yes","Yes","No","No","Yes","Yes"

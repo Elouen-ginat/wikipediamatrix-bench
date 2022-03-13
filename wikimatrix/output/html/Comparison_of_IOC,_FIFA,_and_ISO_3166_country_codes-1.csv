@@ -1,12 +1,47 @@
-"*","3OFI","IOC, FIFA and ISO codes exist and are identical"
-"*","3OFï","IOC, FIFA and ISO codes exist, but only IOC and FIFA codes are identical"
-"*","3OƒI","IOC, FIFA and ISO codes exist, but only IOC and ISO codes are identical"
-"*","3öFI","IOC, FIFA and ISO codes exist, but only FIFA and ISO codes are identical"
-"*","3öƒï","IOC, FIFA and ISO codes exist and are different"
-"*","2öƒ-","Only IOC and FIFA codes exist and are different"
-"*","2O-I","Only IOC and ISO codes exist and are identical"
-"*","2ö-ï","Only IOC and ISO codes exist and are different"
-"*","2-FI","Only FIFA and ISO codes exist and are identical"
-"*","2-ƒï","Only FIFA and ISO codes exist and are different"
-"*","1-ƒ-","Only FIFA codes exist"
-"*","1--ï","Only ISO codes exist"
+"Flag","Country","IOC","FIFA","ISO"
+"","British Honduras , URL: /wiki/British_Honduras
+","HBR 1972","BHO",""
+"","Burma , URL: /wiki/Burma
+","BIR 1988","BUR 1989","BUR 1989"
+"","Ceylon , URL: /wiki/Ceylon
+","CEY 1972","CEY 1972",""
+"","Dahomey , URL: /wiki/Republic_of_Dahomey
+","DAH 1972","DAH 1975","DHY 1977"
+"","Czechoslovakia , URL: /wiki/Czechoslovakia
+","TCH 1992","TCH 1993","CSK 1993"
+"","East Germany , URL: /wiki/East_Germany
+","GDR 1988","GDR 1990","DDR 1990"
+"","Khmer Republic , URL: /wiki/Khmer_Republic
+","KHM 1976","? 1975",""
+"","Malaya , URL: /wiki/Federation_of_Malaya
+","MAL 1960","? 1963",""
+"","Netherlands Antilles , URL: /wiki/Netherlands_Antilles
+","AHO 2010","ANT 2010","ANT 2010"
+"","North Borneo , URL: /wiki/North_Borneo
+","NBO 1956","NBO 1963",""
+"","North Yemen , URL: /wiki/Yemen_Arab_Republic
+","YAR 1988","NYE 1990","YEM 1990"
+"","Northern Rhodesia , URL: /wiki/Northern_Rhodesia
+","NRH 1964","NRH 1964",""
+"","Rhodesia , URL: /wiki/Rhodesia
+","RHO 1972","RHO 1980","RHO 1980"
+"","Serbia and Montenegro , URL: /wiki/Serbia_and_Montenegro
+","SCG 2006","SCG 2006","SCG 2006"
+"","South Yemen , URL: /wiki/South_Yemen
+","YMD 1988","SYE 1990","YMD 1990"
+"","Soviet Union , URL: /wiki/Soviet_Union
+","URS 1988","URS 1991","SUN 1992"
+"","Upper Volta , URL: /wiki/Republic_of_Upper_Volta
+","VOL 1984","UPV 1984","HVO 1984"
+"","Viet-Nam, Democratic Republic of , URL: /wiki/North_Vietnam
+","","VNO 1975","VDR 1977"
+"","Viet Nam, Republic of , URL: /wiki/South_Vietnam
+","VNM 1976","VSO 1975","VNM 1977"
+"","West Germany , URL: /wiki/West_Germany
+","FRG 1988","FRG 1989","DEU 1989"
+"","Yugoslavia, Federal Republic of , URL: /wiki/Serbia_and_Montenegro
+","YUG 2002","YUG 2003","YUG 2003"
+"","Yugoslavia, Socialist Federal Republic of , URL: /wiki/Socialist_Federal_Republic_of_Yugoslavia
+","YUG 1992","YUG 1992","YUG 1992"
+"","Zaire , URL: /wiki/Zaire
+","ZAI 1996","ZAI 1997","ZAR 1997"

@@ -1,2 +1,46 @@
-"//upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/20px-Information_icon4.svg.png
-","This list is incomplete; you can help by adding missing items. (June 2018)"
+"Name","AccuRev , URL: /wiki/AccuRev_SCM
+","BitKeeper , URL: /wiki/BitKeeper
+","CA Harvest , URL: /wiki/CA_Software_Change_Manager
+","ClearCase , URL: /wiki/IBM_Rational_ClearCase
+","CVS , URL: /wiki/Concurrent_Versions_System
+","Darcs , URL: /wiki/Darcs
+","Git , URL: /wiki/Git_(software)
+","GNU Bazaar , URL: /wiki/GNU_Bazaar
+","Integrity , URL: /wiki/PTC_Integrity
+","Mercurial , URL: /wiki/Mercurial
+","Perforce , URL: /wiki/Perforce
+","Plastic , URL: /wiki/Plastic_SCM
+","PVCS , URL: /wiki/PVCS
+","StarTeam , URL: /wiki/StarTeam
+","Subversion , URL: /wiki/Apache_Subversion
+","Surround , URL: /wiki/Surround_SCM
+","Synergy , URL: /wiki/Rational_Synergy
+","Team Concert , URL: /wiki/IBM_Rational_Team_Concert
+","TFVC , URL: /wiki/Team_Foundation_Version_Control
+","Vault , URL: /wiki/Vault_(revision_control_system)
+","Visual SourceSafe , URL: /wiki/Microsoft_Visual_SourceSafe
+"
+"Apache Gump , URL: /wiki/Apache_Gump
+","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No"
+"AppVeyor , URL: /wiki/AppVeyor
+","No","No","No","No","No","No","Yes","No","No","Yes","No","No","No","No","Yes[21]","No","No","No","No","No","No"
+"Azure DevOps Server , URL: /wiki/Azure_DevOps_Server
+","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","No","No","No","Yes","No","No"
+"Bamboo , URL: /wiki/Bamboo_(software)
+","Yes[22]","No","No","Yes","Yes","No","Yes","No","No","Yes","Yes","No","No","No","Yes","No","No","No","Yes[23]","No","No"
+"Buddy , URL: /wiki/Buddy_(software)
+","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"BuildBot , URL: /wiki/BuildBot
+","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","Yes","No","No","No","Yes","No","No","No","No","No","No"
+"BuildMaster , URL: /wiki/BuildMaster
+","Yes","No","No","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","No","No","Yes","Yes","Yes"
+"Jenkins , URL: /wiki/Jenkins_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes[24]","Yes","Yes","Yes[25]","Yes","Yes","Yes[26]","Yes","Yes","Yes","Yes[27]","Yes[28]","Yes[29]","Yes","Yes[30]","Yes"
+"OpenMake Software , URL: /wiki/OpenMake_Software
+","Yes","No","Yes","Yes","Yes","No","Yes","No","Yes","No","Yes","No","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes"
+"Semaphore (software) , URL: /wiki/Semaphore_(software)
+","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"TeamCity , URL: /wiki/TeamCity
+","Yes","No","No","Yes","Yes","No","Yes","Yes[31]","No","Yes","Yes","No","No","Yes","Yes","No","No","No","Yes","Yes","Yes"
+"Vexor , URL: /wiki/Vexor
+","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"

@@ -1,137 +1,139 @@
-"File system","Stores file owner","POSIX , URL: /wiki/POSIX
-","Creation timestamps","Last access/ read timestamps","Last metadata change timestamps","Last archive timestamps","Access control lists , URL: /wiki/Access_control_list
-","MAC , URL: /wiki/Mandatory_access_control
-","Extended attributes , URL: /wiki/Extended_attribute
-Alternate data streams/ forks , URL: /wiki/Fork_(filesystem)
-","checksum , URL: /wiki/Checksum
-ECC , URL: /wiki/Error_correction_code
+"File system","Hard links , URL: /wiki/Hard_link
+","Symbolic links , URL: /wiki/Symbolic_link
+","Block journaling , URL: /wiki/Journaling_file_system
+","Metadata-only journaling , URL: /wiki/Journaling_file_system
+","Case-sensitive , URL: /wiki/Case-sensitive
+","Case-preserving , URL: /wiki/Case-preserving
+","File Change Log , URL: /wiki/File_Change_Log
+","XIP , URL: /wiki/Execute_in_place
 "
-"BeeGFS , URL: /wiki/BeeGFS
-","Yes","Yes","No","Yes","Yes","No","Yes","?","Yes","Yes"
-"CP/M file system , URL: /wiki/CP/M_file_system
-","No","No","Yes[ag]","No","No","No","No","No","No","No"
 "DECtape , URL: /wiki/DECtape
-","No","No","Yes","No","No","No","No","No","No","No"
-"Elektronika BK , URL: /wiki/Elektronika_BK
-","No","No","No","No","No","No","No","No","No","Yes"
-"Level-D","Yes","Yes","Yes","Yes (date only)","Yes","Yes","Yes (FILDAE)","No","No","No"
+","No","No","No","No","No","No","No","No"
+"BeeGFS , URL: /wiki/BeeGFS
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"Level-D","No","No","No","No","No","No","No","No"
 "RT-11 , URL: /wiki/RT-11
-","No","No","Yes (date only)","No","No","No","No","No","No","Yes"
-"Version 6 Unix file system (V6FS)[34]","Yes","Yes","No","Yes","No","No","No","No","No","No"
-"Version 7 Unix file system (V7FS)[35]","Yes","Yes","No","Yes","No","No","No","No","No","No"
-"exFAT , URL: /wiki/ExFAT
-","No","No","Yes","Yes","No","No","No","No","No","No"
-"FAT12 , URL: /wiki/FAT12
-FAT16 , URL: /wiki/FAT16
-FAT32 , URL: /wiki/FAT32
-","No","No","Yes","Yes","No[ah]","No","No","No","No[ai]","No"
-"HPFS , URL: /wiki/High_Performance_File_System
-","Yes[aj]","No","Yes","Yes","No","No","No","?","Yes","No"
-"NTFS , URL: /wiki/NTFS
-","Yes","Yes[ak]","Yes","Yes","Yes","No","Yes","Yes[al]","Yes","No"
-"ReFS , URL: /wiki/ReFS
-","Yes","Yes","Yes","Yes","Yes","No","Yes","?","Yes[am]","Yes"
-"HFS , URL: /wiki/Hierarchical_File_System
-","No","No","Yes","No","No","Yes","No","No","Yes","No"
-"HFS Plus , URL: /wiki/HFS_Plus
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","No"
-"FFS , URL: /wiki/Berkeley_Fast_File_System
-","Yes","Yes","No","Yes","Yes","No","No","No","No","No"
-"UFS1 , URL: /wiki/UFS1_(file_system)
-","Yes","Yes","No","Yes","Yes","No","Yes[an]","Yes[an]","No[ao]","No"
-"UFS2 , URL: /wiki/UFS2_(file_system)
-","Yes","Yes","Yes","Yes","Yes","No","Yes[an]","Yes[an]","Yes","Partial"
-"HAMMER , URL: /wiki/HAMMER_(file_system)
-","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes","No","Yes"
-"LFS , URL: /wiki/Log-structured_File_System_(BSD)
-","Yes","Yes","No","Yes","Yes","No","No","No","No","No"
-"ext , URL: /wiki/Extended_file_system
-","Yes","Yes","No","No","No","No","No","No","No","No"
-"Xiafs , URL: /wiki/Xiafs
-","Yes","Yes","No","Yes","Yes","No","No","No","No","No"
-"ext2 , URL: /wiki/Ext2
-","Yes","Yes","No","Yes","Yes","No","Yes[ap]","Yes[ap]","Yes","No"
-"ext3 , URL: /wiki/Ext3
-","Yes","Yes","No","Yes","Yes","No","Yes[ap]","Yes[ap]","Yes","No"
-"ext4 , URL: /wiki/Ext4
-","Yes","Yes","Yes","Yes","Yes","No","Yes[ap]","Yes[ap]","Yes","Partial[aq]"
-"NOVA , URL: /wiki/NOVA_(filesystem)
-","Yes","Yes","Yes","Yes","Yes","No","No","No","No","Yes"
-"Lustre , URL: /wiki/Lustre_(file_system)
-","Yes","Yes","No","Yes","Yes","No","Yes","Yes","Yes","No"
-"F2FS , URL: /wiki/F2FS
-","Yes","Yes","Yes","Yes","Yes","No","Yes[ap]","Yes[ap]","Yes","No"
-"GPFS , URL: /wiki/GPFS
-","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes"
-"GFS , URL: /wiki/Global_File_System
-","Yes","Yes","No","Yes","Yes","No","Yes[ap]","Yes[ap]","Yes","No"
-"NILFS , URL: /wiki/NILFS
-","Yes","Yes","Yes","No","Yes","No","No","No","No","Yes"
-"ReiserFS , URL: /wiki/ReiserFS
-","Yes","Yes","No","Yes","Yes","No","Yes[ap]","Yes[ap]","Yes","No"
-"Reiser4 , URL: /wiki/Reiser4
-","Yes","Yes","No","Yes","Yes","No","No","No","No","No"
-"OCFS , URL: /wiki/OCFS
-","No","Yes","No","No","Yes","Yes","No","No","No","No"
-"OCFS2 , URL: /wiki/OCFS2
-","Yes","Yes","No","Yes","Yes","No","No","No","No","No"
-"XFS , URL: /wiki/XFS
-","Yes","Yes","Partial[ar]","Yes","Yes","No","Yes","Yes[ap]","Yes","Yes"
-"JFS , URL: /wiki/JFS_file_system
-","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","No"
-"QFS , URL: /wiki/QFS
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","No"
-"BFS , URL: /wiki/Be_File_System
-","Yes","Yes","Yes","No","No","No","No","No","Yes","No"
-"AdvFS , URL: /wiki/AdvFS
-","Yes","Yes","No","Yes","Yes","No","Yes","No","Yes","No"
-"NSS , URL: /wiki/Novell_Storage_Services
-","Yes","Yes","Yes[as]","Yes[as]","Yes","Yes[as]","Yes","?","Yes[at][au]","No"
-"NWFS , URL: /wiki/NetWare_File_System
-","Yes","?","Yes[as]","Yes[as]","Yes","Yes[as]","Yes","?","Yes[at][au]","No"
-"ODS-5 , URL: /wiki/ODS-5
-","Yes","Yes","Yes","?","?","Yes","Yes","?","Yes[av]","No"
+","No","No","No","No","No","No","No","No"
 "APFS , URL: /wiki/APFS
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","Yes","Yes"
-"VxFS , URL: /wiki/Veritas_File_System
-","Yes","Yes","Yes","Yes","Yes","No","Yes","?","Yes[ap]","No"
+","Yes","Yes","?","?","Partial","Yes","?","?"
+"Version 6 Unix file system (V6FS)","Yes","No","No","No","Yes","Yes","No","No"
+"Version 7 Unix file system (V7FS)","Yes","No[bc]","No","No","Yes","Yes","No","No"
+"exFAT , URL: /wiki/ExFAT
+","No","No","No","TexFAT , URL: /wiki/Transaction-Safe_FAT_File_System
+","No","Yes","No","No"
+"FAT12 , URL: /wiki/FAT12
+","No","No","No","TFAT12 , URL: /wiki/TFAT12
+","No","VFAT , URL: /wiki/VFAT
+","No","No"
+"FAT16 , URL: /wiki/FAT16
+FAT16B , URL: /wiki/FAT16B
+FAT16X , URL: /wiki/FAT16X
+","No","No","No","TFAT16 , URL: /wiki/TFAT16
+","No","VFAT , URL: /wiki/VFAT
+","No","No"
+"FAT32 , URL: /wiki/FAT32
+FAT32X , URL: /wiki/FAT32X
+","No","No","No?","TFAT32 , URL: /wiki/TFAT32
+","No","VFAT , URL: /wiki/VFAT
+","No","No"
+"GFS , URL: /wiki/Global_File_System
+","Yes","Yes[bd]","Yes","Yes[be]","Yes","Yes","No","No"
+"HPFS , URL: /wiki/High_Performance_File_System
+","No","No","No","No","No","Yes","No","No"
+"NTFS , URL: /wiki/NTFS
+","Yes","Yes[bf]","No[bg]","Yes[bg] (2000)","Yes[bh]","Yes","Yes","?"
+"HFS Plus , URL: /wiki/HFS_Plus
+","Yes[40]","Yes","No","Yes[bi]","Partial[bj]","Yes","Yes[bk]","No"
+"FFS , URL: /wiki/Berkeley_Fast_File_System
+","Yes","Yes","No","No","Yes","Yes","No","No"
+"UFS1 , URL: /wiki/UFS1_(file_system)
+","Yes","Yes","No","No","Yes","Yes","No","No"
+"UFS2 , URL: /wiki/UFS2_(file_system)
+","Yes","Yes","No","Yes[bl] [45] [bm]","Yes","Yes","No","?"
+"HAMMER , URL: /wiki/HAMMER_(file_system)
+","Yes","Yes","Yes","Yes","Yes","Yes","?","No"
+"LFS , URL: /wiki/Log-structured_File_System_(BSD)
+","Yes","Yes","Yes[bn]","No","Yes","Yes","No","No"
+"ext , URL: /wiki/Extended_file_system
+","Yes","Yes","No","No","Yes","Yes","No","No"
+"Xiafs , URL: /wiki/Xiafs
+","Yes","Yes","No","No","Yes","Yes","No","No"
+"ext2 , URL: /wiki/Ext2
+","Yes","Yes","No","No","Yes","Yes","No","Yes[bo]"
+"ext3 , URL: /wiki/Ext3
+","Yes","Yes","Yes (2001) [bp]","Yes (2001)","Yes","Yes","No","Yes"
+"ext4 , URL: /wiki/Ext4
+","Yes","Yes","Yes[bp]","Yes","Yes, optional [48]","Yes","No","Yes"
+"NOVA , URL: /wiki/NOVA_(filesystem)
+","Yes","Yes","No","Yes","Yes","Yes","No","Yes"
+"F2FS , URL: /wiki/F2FS
+","Yes","Yes","Yes[bn]","No","Yes","Yes","No","No"
+"Lustre , URL: /wiki/Lustre_(file_system)
+","Yes","Yes","Yes[bp]","Yes","Yes","Yes","Yes","No"
+"NILFS , URL: /wiki/NILFS
+","Yes","Yes","Yes[bn]","No","Yes","Yes","No","No"
+"ReiserFS , URL: /wiki/ReiserFS
+","Yes","Yes","Yes[bq]","Yes","Yes","Yes","No","?"
+"Reiser4 , URL: /wiki/Reiser4
+","Yes","Yes","Yes","No","Yes","Yes","No","?"
+"OCFS , URL: /wiki/OCFS
+","No","Yes","No","No","Yes","Yes","No","No"
+"OCFS2 , URL: /wiki/OCFS2
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"XFS , URL: /wiki/XFS
+","Yes","Yes","Yes","Yes","Yes[br]","Yes","Yes","?"
+"JFS , URL: /wiki/JFS_file_system
+","Yes","Yes","Yes","Yes (1990)","Yes[bs]","Yes","No","?"
+"QFS , URL: /wiki/QFS
+","Yes","Yes","No","Yes","Yes","Yes","No","No"
+"BFS , URL: /wiki/Be_File_System
+","Yes","Yes","No","Yes","Yes","Yes","?","No"
+"NSS , URL: /wiki/Novell_Storage_Services
+","Yes","Yes","?","Yes","Yes[bt]","Yes[bt]","Yes[bu]","No"
+"NWFS , URL: /wiki/NetWare_File_System
+","Yes[bv]","Yes[bv]","No","No","Yes[bt]","Yes[bt]","Yes[bu]","No"
+"ODS-2 , URL: /wiki/ODS-2
+","Yes","Yes[bw]","No","Yes","No","No","Yes","No"
+"ODS-5 , URL: /wiki/ODS-5
+","Yes","Yes[bw]","No","Yes","No","Yes","Yes","?"
 "UDF , URL: /wiki/Universal_Disk_Format
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes"
+","Yes","Yes","Yes[bn]","Yes[bn]","Yes","Yes","No","Yes"
+"VxFS , URL: /wiki/Veritas_File_System
+","Yes","Yes","Yes","No","Yes","Yes","Yes","?"
 "Fossil , URL: /wiki/Fossil_(file_system)
-","Yes","Yes[aw]","No","Yes","Yes","No","No","No","No","No"
+","No","No","No","No","Yes","Yes","Yes","No"
 "ZFS , URL: /wiki/ZFS
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes[ax]","Yes[ay]","Yes"
+","Yes","Yes","Yes[bx]","No[bx]","Yes","Yes","No","No"
 "Btrfs , URL: /wiki/Btrfs
-","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes[by]","No","Yes","Yes","?","?"
 "Minix V1 , URL: /wiki/MINIX_file_system
-","Yes","Yes","No","No","No","No","No","No","No","No"
+","Yes","Yes","No","No","Yes","Yes","No","No"
 "Minix V2 , URL: /wiki/MINIX_file_system
-","Yes","Yes","No","Yes","Yes","No","No","No","No","No"
+","Yes","Yes","No","No","Yes","Yes","No","No"
 "Minix V3 , URL: /wiki/MINIX_file_system
-","Yes","Yes","No","Yes","Yes","No","No","No","No","No"
+","Yes","Yes","No","No","Yes","Yes","No","No"
 "VMFS2 , URL: /wiki/VMFS2
-","Yes","Yes","No","Yes","Yes","No","No","No","No","No"
+","Yes","Yes","No","Yes","Yes","Yes","No","No"
 "VMFS3 , URL: /wiki/VMFS3
-","Yes","Yes","No","Yes","Yes","No","No","No","No","No"
-"ISO 9660:1988 , URL: /wiki/ISO_9660:1988
-","No","No","Yes","No","No","No","No","No","No","No"
+","Yes","Yes","No","Yes","Yes","Yes","No","No"
+"ReFS , URL: /wiki/ReFS
+","No","Yes","?","?","Yes[bh]","Yes","?","?"
+"ISO 9660 , URL: /wiki/ISO_9660
+","No","No","No","No","No","No","No","No"
 "Rock Ridge , URL: /wiki/Rock_Ridge
-","Yes","Yes","No","Yes[az]","Yes","No","No[ba]","No[bb]","No[bb]","No"
-"Joliet ("CDFS") , URL: /wiki/Joliet_(file_system)
-","No","No","Yes","No","No","No","No","No","No","No"
-"ISO 9660:1999 , URL: /wiki/ISO_9660:1999
-","No","No","Yes","No","No","No","No","No","No","No"
-"High Sierra , URL: /wiki/High_Sierra_Format
-","No","No","Yes","No","No","No","No","No","No","No"
+","Yes","Yes","No","No","Yes","Yes","No","No"
+"Joliet (""CDFS"") , URL: /wiki/Joliet_(file_system)
+","No","No","No","No","No","Yes","No","No"
 "SquashFS , URL: /wiki/SquashFS
-","Yes","Yes","No","No","Yes","No","No","Yes","Yes","No"
+","Yes","Yes","No","No","Yes","Yes","No","No"
 "BlueStore/Cephfs , URL: /wiki/Ceph_(software)
-","Yes","Yes","Yes","Yes","?","No","Yes","Yes","Yes","Yes"
-"File system","Stores file owner","POSIX , URL: /wiki/POSIX
-","Creation timestamps","Last access/read timestamps","Last metadata change timestamps","Last archive timestamps","Access control lists , URL: /wiki/Access_control_list
-","MAC , URL: /wiki/Mandatory_access_control
-","Extended attributes , URL: /wiki/Extended_attribute
-Alternate data streams/ forks , URL: /wiki/Fork_(filesystem)
-","checksum , URL: /wiki/Checksum
-ECC , URL: /wiki/Error_correction_code
+","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"File system","Hard links , URL: /wiki/Hard_link
+","Symbolic links , URL: /wiki/Symbolic_link
+","Block journaling , URL: /wiki/Journaling_file_system
+","Metadata-only journaling , URL: /wiki/Journaling_file_system
+","Case-sensitive , URL: /wiki/Case-sensitive
+","Case-preserving , URL: /wiki/Case-preserving
+","File Change Log , URL: /wiki/File_Change_Log
+","XIP , URL: /wiki/Execute_in_place
 "

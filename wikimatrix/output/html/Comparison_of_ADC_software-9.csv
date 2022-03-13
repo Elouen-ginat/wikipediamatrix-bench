@@ -1,16 +1,18 @@
-"Other software","Software type","FOSS , URL: /wiki/Free_and_open_source_software
-","Software license , URL: /wiki/Software_license
-","Active","Last Update"
-"ADCCore","General library","Yes","GNU GPL , URL: /wiki/GNU_GPL
-","Yes",""
-"DCBouncer","Relay","Yes","GNU GPL , URL: /wiki/GNU_GPL
-","Yes",""
-"DC-Hublink","Hub linker","Yes","GNU GPL","No",""
-"DCWatch","Hub operator helper","Yes","GNU GPL","No",""
-"Embla","General library","Yes","GNU GPL","?",""
-"FlowLib","General library","Yes","GNU GPL","Yes",""
-"NetChatLink","Hub linker","Yes","GNU GPL","Yes",""
-"Announcer Bot","Announce new Releases","Yes","GNU GPLv2","Yes",""
-"Certmanager","Manage SSL Certificates","Yes","GNU GPLv2","Yes",""
-"SerieBot","SerieBot","Yes","GNU GPL","Yes",""
-"Other software","Software type","FOSS","Software license","Active",""
+"Other software","Windows , URL: /wiki/Microsoft_Windows
+","Linux , URL: /wiki/Linux
+","OS X , URL: /wiki/OS_X
+","Other"
+"ADCCore","Yes","?","?","Any .NET4 enabled platform"
+"DCBouncer","Yes","Yes","No","No"
+"DC-Hublink","Yes","No","No","No"
+"DCWatch","Yes","Yes","No","No"
+"Embla","Yes","Yes","Yes","Java , URL: /wiki/Java_(programming_language)
+"
+"FlowLib","Yes","Yes","Yes","C# , URL: /wiki/C_Sharp_(programming_language)
+"
+"NetChatLink","Yes","No","No","Wine , URL: /wiki/Wine_(software)
+"
+"Announcer Bot","Yes","No","No","No"
+"Certmanager","Yes","No","No","No"
+"SerieBot","Yes","Yes","Yes","Any C# enabled platform"
+"Other software","Windows","Linux","OS X","Other"

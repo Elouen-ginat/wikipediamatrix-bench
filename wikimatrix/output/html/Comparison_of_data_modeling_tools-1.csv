@@ -1,178 +1,25 @@
-"Tool","Creator","Target Business Size","License , URL: /wiki/Software_license
-","Supported Database Platforms","Supported OSs","Standalone or bundled into a larger toolkit","Launch Date"
-"Astah , URL: /wiki/Astah
-","Change Vision , URL: /w/index.php?title=Change_Vision&action=edit&redlink=1
-","Enterprises","Proprietary , URL: /wiki/Proprietary_software
-","MySQL , URL: /wiki/MySQL
-Oracle , URL: /wiki/Oracle_database
-","Windows, macOS, Linux","Standalone","2006"
+"Tool","Supported data models (conceptual, logical, physical)","Supported notations","Forward engineering","Reverse engineering","Model/database comparison and synchronization","Teamwork/repository"
 "Database Workbench , URL: /wiki/Database_Workbench
-","Upscene Productions","SMBs and enterprises","Proprietary , URL: /wiki/Proprietary_software
-","MS SQL Server , URL: /wiki/MS_SQL_Server
-MySQL , URL: /wiki/MySQL
-Oracle , URL: /wiki/Oracle_database
-Firebird , URL: /wiki/Firebird_(database_server)
-InterBase , URL: /wiki/InterBase
-SQL Anywhere , URL: /wiki/SQL_Anywhere
-NexusDB , URL: /wiki/NexusDB
-MariaDB , URL: /wiki/MariaDB
-","Windows, Linux and FreeBSD (both through Wine)","Standalone","2001"
+","Conceptual, logical, physical","IE (Crows feet)","Yes","Yes","Update database and/or update model","No"
 "Enterprise Architect , URL: /wiki/Enterprise_Architect_(software)
-","Sparx Systems , URL: /wiki/Sparx_Systems
-","SMBs and enterprises","Proprietary , URL: /wiki/Proprietary_software
-","IBM DB2 , URL: /wiki/IBM_DB2
-Firebird , URL: /wiki/Firebird_(database_server)
-InterBase , URL: /wiki/InterBase
-Informix , URL: /wiki/Informix
-Ingres , URL: /wiki/Ingres_(database)
-Access , URL: /wiki/Microsoft_Access
-MS SQL Server , URL: /wiki/MS_SQL_Server
-MySQL , URL: /wiki/MySQL
-SQLite , URL: /wiki/SQLite
-Oracle , URL: /wiki/Oracle_database
-PostgreSQL , URL: /wiki/PostgreSQL
-Sybase , URL: /wiki/Sybase
-","CrossOver , URL: /wiki/CrossOver_(software)
-","Data modeling is supported as part of a complete modeling platform.","2000"
+","Conceptual, Logical & Physical + MDA Transform of Logical to Physical","IDEF1X, UML DDL, Information Engineering & ERD","Yes","Yes","Update database and/or update model","Multi-user collaboration using File, DBMS or Cloud Repository (or transfer via XMI, CVS/TFS or Difference Merge)."
 "ER/Studio , URL: /wiki/ER/Studio
-","Embarcadero (acquired by IDERA) , URL: /wiki/Embarcadero_Technologies
-","SMBs and enterprises","Proprietary , URL: /wiki/Proprietary_software
-","Access , URL: /wiki/Microsoft_Access
-Snowflake , URL: /wiki/Snowflake_Inc.
-Microsoft Azure , URL: /wiki/Microsoft_Azure
-IBM DB2 , URL: /wiki/IBM_DB2
-Informix , URL: /wiki/Informix
-Firebird , URL: /wiki/Firebird_(database_server)
-Interbase , URL: /wiki/Interbase
-MySQL , URL: /wiki/MySQL
-MS SQL Server , URL: /wiki/MS_SQL_Server
-Netezza , URL: /wiki/Netezza
-Oracle , URL: /wiki/Oracle_database
-PostgreSQL , URL: /wiki/PostgreSQL
-Sybase , URL: /wiki/Sybase
-Teradata , URL: /wiki/Teradata
-Visual Foxpro , URL: /wiki/Visual_FoxPro
-","Windows","Standalone","1998"
-"Erwin Data Modeler , URL: /wiki/Erwin_Data_Modeler
-","Logic Works (now Quest)","SMBs and enterprises","Proprietary , URL: /wiki/Proprietary_software
-","Access , URL: /wiki/Microsoft_Access
-IBM DB2 , URL: /wiki/IBM_DB2
-Informix , URL: /wiki/Informix
-MySQL , URL: /wiki/MySQL
-MS SQL Server , URL: /wiki/MS_SQL_Server
-Netezza , URL: /wiki/Netezza
-Oracle , URL: /wiki/Oracle_database
-PostgreSQL , URL: /wiki/PostgreSQL
-Sybase , URL: /wiki/Sybase
-","Windows","Standalone","1998"
+","Logical, physical, ETL","IDEF1X, IE (Crows feet)","Yes","Yes","Update database and/or update model","ER/Studio Repository and Team Server (formerly Portal/CONNECT) for web based publishing collaboration and model management, with Business Glossary as standard."
 "MagicDraw , URL: /wiki/MagicDraw
-","No Magic , URL: /wiki/No_Magic
-","Enterprises, SMBs, personal","Proprietary , URL: /wiki/Proprietary_software
-","MS SQL Server , URL: /wiki/MS_SQL_Server
-Oracle , URL: /wiki/Oracle_database
-MySQL , URL: /wiki/MySQL
-PostgreSQL , URL: /wiki/PostgreSQL
-IBM DB2 , URL: /wiki/IBM_DB2
-","Windows, Linux, macOS","Standalone","1995"
-"SQL Server Management Studio , URL: /wiki/SQL_Server_Management_Studio
-","Microsoft , URL: /wiki/Microsoft
-","Unknown","Proprietary , URL: /wiki/Proprietary_software
-","MS SQL Server , URL: /wiki/MS_SQL_Server
-","Windows","Standalone","2005"
-"ModelRight , URL: /wiki/ModelRight
-","ModelRight , URL: /wiki/ModelRight
-","Enterprises, SMBs, personal","Proprietary , URL: /wiki/Proprietary_software
-","Access , URL: /wiki/Microsoft_Access
-MS SQL Server , URL: /wiki/MS_SQL_Server
-Oracle , URL: /wiki/Oracle_database
-MySQL , URL: /wiki/MySQL
-PostgreSQL , URL: /wiki/PostgreSQL
-IBM DB2 , URL: /wiki/IBM_DB2
-","Windows","Standalone","2005"
+","Conceptual, Logical & Physical + MDA Transform of Logical to Physical","IDEF1X, UML DDL, Information Engineering & ERD","Yes","Yes","Update database and/or update model","Multi-user collaboration using File, DBMS or (transfer via XMI, CVS/TFS or Difference Merge)."
 "MySQL Workbench , URL: /wiki/MySQL_Workbench
-","MySQL , URL: /wiki/MySQL
-Oracle , URL: /wiki/Oracle_Corporation
-","SMBs - personal","Proprietary , URL: /wiki/Proprietary_software
-GPL , URL: /wiki/GNU_General_Public_License
-","MySQL , URL: /wiki/MySQL
-","Linux, Windows, macOS","Standalone","2006"
+","Physical","IDEF1X, IE (Crows feet), UML, and more","Yes","Yes","Update database and/or update model","No"
 "Navicat , URL: /wiki/Navicat
-","PremiumSoft","SMBs and enterprises","Proprietary , URL: /wiki/Proprietary_software
-","MySQL , URL: /wiki/MySQL
-MS SQL Server , URL: /wiki/MS_SQL_Server
-PostgreSQL , URL: /wiki/PostgreSQL
-Oracle , URL: /wiki/Oracle_database
-SQLite , URL: /wiki/SQLite
-","Windows, macOS, Linux","Standalone","2012"
+","Conceptual, Logical & Physical","IE (Crows feet)","Yes","Yes","Update database and/or update model","No"
 "NORMA , URL: /wiki/NORMA_(software_modeling_tool)
-","Terry Halpin","SMBs and enterprises","CPL , URL: /wiki/Open_Source
-","MySQL , URL: /wiki/MySQL
-MS SQL Server , URL: /wiki/MS_SQL_Server
-PostgreSQL , URL: /wiki/PostgreSQL
-Oracle , URL: /wiki/Oracle_Database
-DB2 , URL: /wiki/IBM_Db2
-","Windows","Visual Studio Extension","2005"
+","Conceptual (ORM), Logical, Physical","ORM, Relational(Crows feet option), Barker","Yes","Yes","Update database and/or update model","No"
 "Open ModelSphere , URL: /wiki/Open_ModelSphere
-","Grandite","Enterprises - SMBs - personal","GNU GPL3 , URL: /wiki/Open_source
-","MS SQL Server , URL: /wiki/MS_SQL_Server
-MySQL , URL: /wiki/MySQL
-PostgreSQL , URL: /wiki/PostgreSQL
-Oracle , URL: /wiki/Oracle_Database
-DB2 , URL: /wiki/IBM_DB2
-","Windows, macOS, Linux","Standalone with Data, UML, and process modeling","2008"
+","Conceptual, Logical, physical","IDEF1X, IE (Crows feet), and more","Yes","Yes","Update database and/or update model","No"
 "Oracle SQL Developer , URL: /wiki/Oracle_SQL_Developer
-","Oracle , URL: /wiki/Oracle_Corporation
-","Enterprises","Proprietary , URL: /wiki/Proprietary_software
-","Oracle , URL: /wiki/Oracle_database
-MS SQL Server , URL: /wiki/MS_SQL_Server
-IBM DB2 , URL: /wiki/IBM_DB2
-","Cross-platform","Standalone","2009"
+","Logical, physical","Barker, IE (Crows feet), and Bachman","Yes","Yes","Update database and/or update model","Yes"
 "PowerDesigner , URL: /wiki/PowerDesigner
-","SAP , URL: /wiki/SAP_SE
-","SMBs and enterprises","Proprietary , URL: /wiki/Proprietary_software
-","Access , URL: /wiki/Microsoft_Access
-Greenplum , URL: /wiki/Pivotal_Greenplum_Database
-Apache Hive , URL: /wiki/Apache_Hive
-HP Neoview , URL: /wiki/HP_Neoview
-IBM DB2 , URL: /wiki/IBM_DB2
-Informix , URL: /wiki/Informix
-Ingres , URL: /wiki/Ingres_(database)
-Interbase , URL: /wiki/InterBase
-MySQL , URL: /wiki/MySQL
-Netezza , URL: /wiki/Netezza
-NonStop SQL , URL: /wiki/NonStop_SQL
-Oracle , URL: /wiki/Oracle_Database
-PostgreSQL , URL: /wiki/PostgreSQL
-SAP business Suite , URL: /wiki/SAP_Business_Suite
-SAP Hana , URL: /wiki/SAP_HANA
-SAP Adaptive Server Enterprise , URL: /wiki/Adaptive_Server_Enterprise
-SAP IQ , URL: /wiki/SAP_IQ
-SAP SQL Anywhere , URL: /wiki/SQL_Anywhere
-MS SQL Server , URL: /wiki/MS_SQL_Server
-Teradata , URL: /wiki/Teradata
-","Windows","Standalone","1989"
+","Conceptual, logical, physical","IDEF1X, IE (Crows feet), and more","Yes","Yes","Update database and/or update model","Yes"
 "Software Ideas Modeler , URL: /wiki/Software_Ideas_Modeler
-","Dusan Rodina","Enterprises, SMBs, personal","Proprietary , URL: /wiki/Proprietary_software
-","MS SQL Server , URL: /wiki/MS_SQL_Server
-MySQL , URL: /wiki/MySQL
-","Windows","Standalone","2009"
-"SQLyog , URL: /wiki/SQLyog
-","Webyog, Inc.","Enterprises, SMBs, personal","Proprietary , URL: /wiki/Proprietary_software
-","MySQL , URL: /wiki/MySQL
-MariaDB , URL: /wiki/MariaDB
-","Windows and Linux (using Wine)","Standalone","2001"
+","Conceptual, logical, physical","IDEF1X, IE (Crows feet), UML and more","Yes","Yes","Update database and/or update model","Yes"
 "Toad Data Modeler , URL: /wiki/Toad_Data_Modeler
-","Quest Software , URL: /wiki/Quest_Software
-","SMBs and enterprises","Proprietary , URL: /wiki/Proprietary_software
-","Access , URL: /wiki/Microsoft_Access
-IBM DB2 , URL: /wiki/IBM_DB2
-Informix , URL: /wiki/Informix
-MySQL , URL: /wiki/MySQL
-MariaDB , URL: /wiki/MariaDB
-PostgreSQL , URL: /wiki/PostgreSQL
-MS SQL Server , URL: /wiki/MS_SQL_Server
-SQLite , URL: /wiki/SQLite
-Oracle , URL: /wiki/Oracle_Database
-","Windows","Standalone","2005 (before this date known as CaseStudio)"
-"Tool","Creator","Target Business Size","License , URL: /wiki/Software_license
-","Supported Database Platforms","Supported OSs","Standalone or bundled into a larger toolkit","Launch Date"
+","Logical, physical","IDEF1X, IE (Crows feet), and more","Yes","Yes","Update database and/or update model","Yes"

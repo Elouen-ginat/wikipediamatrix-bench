@@ -1,50 +1,32 @@
-"Manager","Creator(s)","First public release date","Latest stable version","Downloadable without paying?","Software license , URL: /wiki/Software_license
-","Windows , URL: /wiki/Microsoft_Windows
-","Mac OS X , URL: /wiki/Mac_OS_X
-","Linux , URL: /wiki/Linux
-"
+"Manager","Copy Music","Copy Videos","Copy Smart Playlists","Copy Album Artwork","DRM , URL: /wiki/Digital_rights_management
+","DRM , URL: /wiki/Digital_rights_management
+","Extract Playcounts","Extract Playlists","Copy Content to iPod"
 "Amarok , URL: /wiki/Amarok_(audio)
-","Mark Kretschmann","2003-06-23","2.9.71 (January 31, 2021; 13 months ago (2021-01-31)) [±]","Yes","GPL , URL: /wiki/GNU_General_Public_License
-","Yes","Experimental (leopard)","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","No"
 "Banshee , URL: /wiki/Banshee_(music_player)
-","Aaron Bockover","2005-08","2.6.2 (February 18, 2014; 8 years ago (2014-02-18)[1]) [±]","Yes","MIT , URL: /wiki/MIT_License
-","Experimental","Experimental","Yes"
+","Yes","?","Yes","Yes","Yes","No","Yes","?","Yes"
 "Clementine , URL: /wiki/Clementine_(software)
-","David Sansome, John Maguire","February 2010","1.3.1 (April 19, 2016; 5 years ago (2016-04-19)) [±]","Yes","GPL , URL: /wiki/GPL
-","no iPod support","Yes","Yes"
-"ephPod , URL: /wiki/EphPod
-","ephpod","?","2.77 (January 16, 2009)","Yes","?","Yes (XP, NT, 2k)","No","No"
+","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes"
+"EphPod , URL: /wiki/EphPod
+","Yes","?","Yes","No","Yes","No","?","?","?"
 "gtkpod , URL: /wiki/Gtkpod
-","Jorg Schuler","?","2.1.5 (Jun 2, 2015)","Yes","GPL , URL: /wiki/GNU_General_Public_License
-","No","No","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
 "iRip , URL: /wiki/IRip
-","The Little App Factory","2003-09","2.1 (Mac) (May 6, 2011; 10 years ago (2011-05-06)[2]) [±] 1.0.1.25 (Windows) (8 April 2010; 11 years ago (2010-04-08)[3]) [±]","No","Proprietary , URL: /wiki/Proprietary_software
-","Yes","Yes","No"
+","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","No"
 "iTunes , URL: /wiki/ITunes
-","Apple Inc. , URL: /wiki/Apple_Inc.
-","2001-01-08","","Yes","Proprietary , URL: /wiki/Proprietary_Software
-","Yes","Yes","No"
+","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes"
 "JRiver Media Center , URL: /wiki/JRiver_Media_Center
-","J. River","2003-07","28.0.63 (September 10, 2021; 5 months ago (2021-09-10)) [±]","Yes (trial)","Proprietary , URL: /wiki/Proprietary_software
-","Yes","Yes","No"
+","Yes","?","Yes","Yes","No","Yes","?","?","?"
 "MediaMonkey , URL: /wiki/MediaMonkey
-","Ventis Media Inc.","2003-08-25","5.0.2.2531 (December 22, 2021; 2 months ago (2021-12-22)) [±]","Yes (Standard)","Proprietary , URL: /wiki/Proprietary_software
-","Yes","No","No"
+","Yes","No","No","Yes","Yes","No","Yes","Yes","Yes"
 "Rhythmbox , URL: /wiki/Rhythmbox
-","Colin Walters","2004-04","3.4.4 (January 4, 2020; 2 years ago (2020-01-04)) [±]","Yes","GPL , URL: /wiki/GNU_General_Public_License
-","No","No","Yes"
+","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes"
 "Senuti , URL: /wiki/Senuti
-","FadingRed","2006-04-26","1.1.7 (Oct 6, 2009)[4]","Yes (limited trial)","Proprietary , URL: /wiki/Proprietary_software
-","No","Yes","No"
+","Yes","Yes","No","No","Yes","Yes","Yes","?","?"
 "Winamp , URL: /wiki/Winamp
-","Nullsoft , URL: /wiki/Nullsoft
-","1997-06","5.666.3516 (December 12, 2013; 8 years ago (2013-12-12)) [±]","Yes (Bundle & Full)","Proprietary , URL: /wiki/Proprietary_software
-","Yes","No","No"
+","Yes","Yes","No","Yes","Yes","Yes","?","Yes","Yes"
 "XPlay , URL: /wiki/XPlay
-","Mediafour","2002-06-24","3.5.0 (Dec 30, 2009)[5]","No","Proprietary , URL: /wiki/Proprietary_software
-","Yes","No","No"
-"Manager","Creator(s)","First public release date","Latest stable version","Downloadable without paying?","Software license , URL: /wiki/Software_license
-","Windows , URL: /wiki/Microsoft_Windows
-","Mac OS X , URL: /wiki/Mac_OS_X
-","Linux , URL: /wiki/Linux
-"
+","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes"
+"Manager","Copy Music","Copy Videos","Copy Smart Playlists","Copy Album Artwork","DRM , URL: /wiki/Digital_rights_management
+","DRM , URL: /wiki/Digital_rights_management
+","Extract Playcounts","Extract Playlists","Copy Content to iPod"

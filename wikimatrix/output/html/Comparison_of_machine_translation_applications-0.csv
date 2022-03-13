@@ -1,21 +1,112 @@
-"a series , URL: /wiki/Category:Translation
+"Name","Platform","License","Price","Latest stable release","Source availability","Translation via website","Number of supported languages","Notes"
+"Anusaaraka , URL: /wiki/Anusaaraka
+","Unix , URL: /wiki/Unix
+","GPL , URL: /wiki/GNU_General_Public_License
+","No fee required","0.50","Yes","","","Rule-based, deep parser based, paninian framework based; all programs and language data are free and open-source"
+"Apertium , URL: /wiki/Apertium
+","Cross-platform , URL: /wiki/Cross-platform
+Unix , URL: /wiki/Unix
+Debian , URL: /wiki/Debian
+","GPL , URL: /wiki/GNU_General_Public_License
+","No fee required","3.4.2","Yes","[1] , URL: https://www.apertium.org/
+","","Rule-based , URL: /wiki/Rule-based_machine_translation
 "
-"Translation , URL: /wiki/Translation
+"Babylon , URL: /wiki/Babylon_(program)
+","Windows , URL: /wiki/Microsoft_Windows
+Mac , URL: /wiki/Apple_Inc.
+","Proprietary software , URL: /wiki/Proprietary_software
+","Depends on license ($9.90–$89 for one license)","10.3","No","","","browser hijacker , URL: /wiki/Browser_hijacker
 "
+"DeepL , URL: /wiki/DeepL_Translator
+","Cross-platform , URL: /wiki/Cross-platform
+","SaaS , URL: /wiki/SaaS
+","","","No","[2] , URL: https://www.deepl.com/translator
+","20+","Neural machine translation , URL: /wiki/Neural_machine_translation
 "
-URL: /wiki/File:%C3%86toms_-_Translation.svg
-//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%C3%86toms_-_Translation.svg/100px-%C3%86toms_-_Translation.svg.png
+"Google Translate , URL: /wiki/Google_Translate
+","Cross-platform , URL: /wiki/Cross-platform
+","SaaS , URL: /wiki/SaaS
+","No fee required","Beta , URL: /wiki/Software_release_life_cycle#Beta
+","No","[3] , URL: https://translate.google.com/
+","100+","Statistical , URL: /wiki/Statistical_machine_translation
+neural machine translation , URL: /wiki/Neural_machine_translation
 "
-"Types"
-"Legal Literary Bible Quran Kural Linguistic validation Medical Regulatory Technical Interpretation Cultural Word-for-word Sense-for-sense Homophonic"
-"Theory"
-"Translation studies Skopos theory Translation project Translation criticism Dynamic and formal equivalence Contrastive linguistics"
-"Technologies"
-"CAT Machine translation Mobile translation Translation management system Dubbing Subtitling Pre-editing Postediting Multimedia translation"
-"Localization"
-"Glocalization Internationalization and localization Language localization Video game localization Dub localization Website localization Software localization"
-"Institutional"
-"Associations Awards Organizations Schools"
-"Related topics"
-"Transcription Transliteration Video relay service (VRS) Telephone interpreting Language barrier Fan translation Fansub Fandub Scanlation Journalistic translation Books and magazines on translation Bible translations by language Translated books List of most translated works Translators Kural translations by language"
-"v t e"
+"GramTrans , URL: /wiki/GramTrans
+","Cross-platform , URL: /wiki/Cross-platform
+","Freeware , URL: /wiki/Freeware
+","No fee required","?","No","[4] , URL: https://gramtrans.com/
+","","Rule-based , URL: /wiki/Rule-based_machine_translation
+constraint grammar , URL: /wiki/Constraint_grammar
+"
+"IBM Watson , URL: /wiki/Watson_(computer)
+","Cross-platform , URL: /wiki/Cross-platform
+","SaaS , URL: /wiki/SaaS
+","Free, commercial (varies by plan)","3.0","No","","50+","rule-based , URL: /wiki/Rule-based_machine_translation
+statistical , URL: /wiki/Statistical_machine_translation
+IBM Research , URL: /wiki/IBM_Research
+Neural machine translation , URL: /wiki/Neural_machine_translation
+"
+"IdiomaX , URL: /wiki/IdiomaX
+","Windows , URL: /wiki/Microsoft_Windows
+Symbian , URL: /wiki/Symbian
+S60 , URL: /wiki/S60_(software_platform)
+Windows Mobile , URL: /wiki/Windows_Mobile
+","Proprietary software , URL: /wiki/Proprietary_software
+","Depends on configuration","6.0","No","","","Rule-based , URL: /wiki/Rule-based_machine_translation
+"
+"Microsoft Translator , URL: /wiki/Microsoft_Translator
+","Cross-platform , URL: /wiki/Cross-platform
+","SaaS , URL: /wiki/SaaS
+","No fee required","Final","No","[5] , URL: https://www.bing.com/translator
+","100+","Statistical , URL: /wiki/Statistical_machine_translation
+neural machine translation , URL: /wiki/Neural_machine_translation
+"
+"Moses , URL: /wiki/Moses_(machine_translation)
+","Cross-platform , URL: /wiki/Cross-platform
+","LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","No fee required","4.0[6]","Yes","","","Pharaoh , URL: https://www.isi.edu/licensed-sw/pharaoh/
+"
+"Moses for Mere Mortals , URL: /wiki/Moses_for_Mere_Mortals
+","Ubuntu , URL: /wiki/Ubuntu
+Linux , URL: /wiki/Linux
+","GPL , URL: /wiki/GPL
+","No fee required","2014-11-16","Yes","","","Moses , URL: http://www.statmt.org/moses/
+translation memories , URL: /wiki/Translation_memory
+"
+"NiuTrans , URL: /wiki/NiuTrans
+","Cross-platform , URL: /wiki/Cross-platform
+","GPL , URL: /wiki/GNU_General_Public_License
+","No fee required","1.1.0","Yes","","300+","statistical machine translation , URL: /wiki/Statistical_machine_translation
+phrase-based , URL: /wiki/Example-based_machine_translation
+"
+"OpenLogos , URL: /wiki/OpenLogos
+","Linux , URL: /wiki/Linux
+","GPL , URL: /wiki/GNU_General_Public_License
+","No fee required","1.0.3","Yes","","","Rule-based , URL: /wiki/Rule-based_machine_translation
+deep transfer , URL: /wiki/Transfer-based_machine_translation
+"
+"PROMT , URL: /wiki/PROMT
+","Cross-platform , URL: /wiki/Cross-platform
+","Proprietary software , URL: /wiki/Proprietary_software
+","Commercial","12.5","No","[6] , URL: https://www.online-translator.com/translation?prmtlang=en
+","20+","Hybrid , URL: /wiki/Hybrid_machine_translation
+rule-based , URL: /wiki/Rule-based_machine_translation
+statistical , URL: /wiki/Statistical_machine_translation
+neural machine translation , URL: /wiki/Neural_machine_translation
+"
+"SYSTRAN , URL: /wiki/SYSTRAN
+","Cross-platform , URL: /wiki/Cross-platform
+","Proprietary software , URL: /wiki/Proprietary_software
+","$200 (desktop) – $15,000 and up (enterprise server)","Version 7","No","[7] , URL: https://www.systransoft.com/lp/free-online-translation/
+","50+","Hybrid , URL: /wiki/Hybrid_machine_translation
+rule-based , URL: /wiki/Rule-based_machine_translation
+statistical machine translation , URL: /wiki/Statistical_machine_translation
+neural machine translation , URL: /wiki/Neural_machine_translation
+"
+"Yandex.Translate , URL: /wiki/Yandex.Translate
+","Cross-platform , URL: /wiki/Cross-platform
+","SaaS , URL: /wiki/SaaS
+","No fee required","","No","[8] , URL: https://translate.yandex.ru/
+","90+","Statistical , URL: /wiki/Statistical_machine_translation
+neural machine translation , URL: /wiki/Neural_machine_translation
+"

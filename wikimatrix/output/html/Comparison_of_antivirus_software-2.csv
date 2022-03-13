@@ -4,148 +4,76 @@
 ","Firewall , URL: /wiki/Firewall_(computing)
 ","IDS , URL: /wiki/Intrusion_Detection_System
 ","IPS , URL: /wiki/Intrusion_prevention_system
-","Email Security , URL: /wiki/Email_security#Privacy_concerns
-","AntiSpam , URL: /wiki/Antispam
-","Web protection , URL: /wiki/Web_filter
-","Live-Update","Support","License , URL: /wiki/Software_license
+","Email security","AntiSpam , URL: /wiki/Antispam
+","Web protection","Live-Update","Support","License , URL: /wiki/Software_license
 ","Price","First release","Country of origin","Notes"
-"Avast , URL: /wiki/Avast_Software
-","Avast Mac Security , URL: /wiki/Avast_Antivirus
-","Yes","Yes","Yes","No","No","No","No","Yes","No","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Free","2012","Czech Republic , URL: /wiki/Czech_Republic
-",""
-"Avira Operations , URL: /wiki/Avira
-","Avira Free Mac Security , URL: /wiki/Avira
-","Yes","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","Yes","No","Proprietary , URL: /wiki/Proprietary_software
-","Free","2011","Germany , URL: /wiki/Germany
-",""
-"Bitdefender , URL: /wiki/Bitdefender
-","Bitdefender Antivirus for Mac , URL: /wiki/BitDefender
-","Yes","Yes","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","2011","Romania , URL: /wiki/Romania
+"AVG Technologies , URL: /wiki/AVG_Technologies
+","AVG Linux Server Edition , URL: /wiki/AVG_(software)
+","Yes","Yes","Yes","No","No","No","No","Yes","Yes","No","Yes","No","Proprietary , URL: /wiki/Proprietary_software
+","Non-free","2008","Czech Republic , URL: /wiki/Czech_Republic
 ",""
 "Cisco , URL: /wiki/Cisco
 ","Clam AntiVirus , URL: /wiki/Clam_AntiVirus
-","Yes","Yes","No","No","No","No","No","Yes","No","No","Yes","No","GPL-2.0-only , URL: /wiki/GNU_General_Public_License
-","Free","2000","United States , URL: /wiki/United_States
+","Yes","Yes","No","No","No","No","No","No","No","No","Yes","No","GPL-2.0-only , URL: /wiki/GNU_General_Public_License
+","Free","1998","United States , URL: /wiki/United_States
 ",""
-"Clario Tech","MacKeeper , URL: /wiki/MacKeeper
-","Yes","Yes","Yes","No","No","No","No","No","No","No","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","2010","",""
 "Comodo Group , URL: /wiki/Comodo_Group
-","Comodo Mac Security , URL: /wiki/Comodo_Internet_Security
-","Yes","Yes","Yes","No","No","No","No","No","No","No","Yes","No","Proprietary , URL: /wiki/Proprietary_software
-","Free","2012","United States , URL: /wiki/United_States
-",""
+","Comodo Internet Security Linux , URL: /wiki/Comodo_Internet_Security
+","Yes","Yes","Yes","No","No","No","No","Yes","No","No","Yes","No","Proprietary , URL: /wiki/Proprietary_software
+","Free","2008","United States , URL: /wiki/United_States
+","Very difficult to install, needing extensive system hacks/edits."
 "Dr. Web , URL: /wiki/Dr._Web
-","Dr. Web Anti-virus for Mac OS X , URL: /wiki/Dr._Web
+","Dr. Web Anti-virus for Linux , URL: /wiki/Dr._Web
 ","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
 ","Trialware , URL: /wiki/Trialware
-","2012","Russia , URL: /wiki/Russia
+","1992","Russia , URL: /wiki/Russia
 ",""
 "ESET , URL: /wiki/ESET
-","ESET Cyber Security , URL: /wiki/ESET
-","Yes","Yes","Yes","Yes","No","No","No","Yes","No","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","2011","Slovakia , URL: /wiki/Slovakia
+","ESET File Security for Linux","Yes","Yes","Yes","Yes","No","No","No","No","No","No","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+","Non-free","2008","Slovakia , URL: /wiki/Slovakia
 ",""
 "ESET , URL: /wiki/ESET
-","ESET Cyber Security Pro , URL: /wiki/ESET
-","Yes","Yes","Yes","Yes","Yes[9]","No","No","Yes","No","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","2013","Slovakia , URL: /wiki/Slovakia
-",""
+","ESET Endpoint Antivirus for Linux","Yes","Yes","Yes","Yes","No","No","No","No","No","No","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+","Non-free","2020","Slovakia , URL: /wiki/Slovakia
+","Currently in 'Limited Support' doesn't have all functions available via GUI interface"
+"FRISK Software , URL: /wiki/FRISK_Software_International
+","F-PROT Antivirus , URL: /wiki/FRISK_Software_International
+","Yes","Yes","Yes","No","No","No","No","Yes","No","No","Yes","No","Proprietary , URL: /wiki/Proprietary_software
+","Trialware , URL: /wiki/Trialware
+","1989","Iceland , URL: /wiki/Iceland
+","EOL 2021"
 "F-Secure , URL: /wiki/F-Secure
-","F-Secure Anti-Virus for Mac , URL: /wiki/F-Secure
-","Yes","Yes","Yes","Yes","No","Yes","No","Yes","No","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+","F-Secure Linux Security , URL: /wiki/F-Secure
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
 ","Non-free","2008","Finland , URL: /wiki/Finland
-","Bitdefender , URL: /wiki/Bitdefender
-F-PROT , URL: /wiki/FRISK_Software_International
-"
-"G Data CyberDefense , URL: /wiki/G_Data_CyberDefense
-","G DATA AntiVirus , URL: /wiki/G_Data_CyberDefense
-","Yes","Yes","Yes","Yes","No","No","No","No","No","No","No","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","1987","Germany , URL: /wiki/Germany
-","Bitdefender , URL: /wiki/Bitdefender
-"
-"G Data CyberDefense , URL: /wiki/G_Data_CyberDefense
-","G DATA Internet Security , URL: /wiki/G_Data_CyberDefense
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","2004","Germany , URL: /wiki/Germany
-","Bitdefender , URL: /wiki/Bitdefender
-"
-"G Data CyberDefense , URL: /wiki/G_Data_CyberDefense
-","G DATA Total Security , URL: /wiki/G_Data_CyberDefense
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","2004","Germany , URL: /wiki/Germany
-","Bitdefender , URL: /wiki/Bitdefender
-"
-"Intego , URL: /wiki/Intego
-","VirusBarrier , URL: /wiki/VirusBarrier
-","Yes","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","1997","United States , URL: /wiki/United_States
 ",""
-"Intego , URL: /wiki/Intego
-","Mac Internet Security , URL: /wiki/Intego
-","Yes","Yes","No","No","Yes","No","No","No","No","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","2000","United States , URL: /wiki/United_States
+"Fortinet , URL: /wiki/Fortinet
+","Forticlient , URL: /w/index.php?title=Forticlient&action=edit&redlink=1
+","Yes","Yes","Yes","Yes","No","No","No","No","No","No","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+","Non-free","2009","United States , URL: /wiki/United_States
 ",""
 "Kaspersky Lab , URL: /wiki/Kaspersky_Lab
-","Kaspersky Internet Security , URL: /wiki/Kaspersky_Internet_Security
-","Yes","Yes","Yes","Yes","No","No","No","Yes","No","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","2010","Russia , URL: /wiki/Russia
+","Kaspersky Anti-Virus for Linux , URL: /wiki/Kaspersky_Anti-Virus
+","Yes","Yes","Yes","No","No","No","No","No","No","No","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+","Non-free","2012","Russia , URL: /wiki/Russia
 ","USG , URL: /wiki/Federal_government_of_the_United_States
 "
-"Quick Heal , URL: /wiki/Quick_Heal
-","Quick Heal Total Security for Mac , URL: /wiki/Quick_Heal
-","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","1995","India , URL: /wiki/India
-","GoDeep.AI engine"
-"Malwarebytes , URL: /wiki/Malwarebytes_(software)
-","[Malwarebytes for Mac]","Yes","No","Unknown","Unknown","No","No","No","No","Yes","No","Yes","Unknown","Unknown","Free","2006","United States , URL: /wiki/United_States
-","Project Zero , URL: /wiki/Project_Zero
-"
 "Panda Security , URL: /wiki/Panda_Security
-","Panda Antivirus for Mac , URL: /wiki/Panda_Security
-","Yes","Yes","Yes","Yes","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+","Panda DesktopSecure for Linux , URL: /wiki/Panda_Security
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
 ","Non-free","2008","Spain , URL: /wiki/Spain
 ",""
 "Sophos , URL: /wiki/Sophos
-","Sophos Anti-Virus for Mac , URL: /wiki/Sophos
-","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","No","Yes","Yes","No","Proprietary , URL: /wiki/Proprietary_software
-","Free","2010","United Kingdom , URL: /wiki/United_Kingdom
-",""
-"Symantec , URL: /wiki/NortonLifeLock
-","Symantec Endpoint Protection","Yes","Yes","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","2012","United States , URL: /wiki/United_States
-",""
-"NortonLifelock (formerly Symantec) , URL: /wiki/NortonLifeLock
-","Norton Security Standard for Mac","Yes","Yes","Yes","No","Yes","No","Yes","No","No","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","2012","United States , URL: /wiki/United_States
-",""
-"Trend Micro , URL: /wiki/Trend_Micro
-","Titanium Internet Security for Mac , URL: /wiki/Trend_Micro_Internet_Security
-","Yes","Yes","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Non-free","2011","Japan , URL: /wiki/Japan
-",""
-"Webroot , URL: /wiki/Webroot
-","SecureAnywhere AntiVirus","Yes","Yes","No","No","No","No","No","No","No","Apple Safari , URL: /wiki/Apple_Safari
-","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Trialware , URL: /wiki/Trialware
-","2012","United States , URL: /wiki/United_States
-",""
-"Webroot , URL: /wiki/Webroot
-","SecureAnywhere Internet Security Plus and Complete","Yes","Yes","No","No","No","No","No","No","No","Apple Safari , URL: /wiki/Apple_Safari
-","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
-","Trialware , URL: /wiki/Trialware
-","2012","United States , URL: /wiki/United_States
-",""
+","Sophos Anti-Virus for Linux , URL: /wiki/Sophos
+","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Proprietary , URL: /wiki/Proprietary_software
+","Non-free","2008","United Kingdom , URL: /wiki/United_Kingdom
+","Not for home users, only provide paid business version via resellers."
 "Company","Software","On-demand scan","On-access scan , URL: /wiki/Real-time_protection
 ","Heuristics , URL: /wiki/Heuristic_(computer_science)
 ","CloudAV , URL: /wiki/Cloud_computing
 ","Firewall , URL: /wiki/Firewall_(computing)
 ","IDS , URL: /wiki/Intrusion_Detection_System
 ","IPS , URL: /wiki/Intrusion_prevention_system
-","Email Security , URL: /wiki/Email_security#Privacy_concerns
-","AntiSpam , URL: /wiki/Antispam
-","Web protection , URL: /wiki/Web_filter
-","Live-Update","Support","License , URL: /wiki/Software_license
+","Email security","AntiSpam , URL: /wiki/Antispam
+","Web protection","Live-Update","Support","License , URL: /wiki/Software_license
 ","Price","First release","Country of origin","Notes"

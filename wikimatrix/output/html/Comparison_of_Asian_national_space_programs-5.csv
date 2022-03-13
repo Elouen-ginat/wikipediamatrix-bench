@@ -1,14 +1,58 @@
-"Country","Rocket","Burn time","Specific impulse (Vac.)","Thrust (Vac.)"
-"India , URL: /wiki/India
-","S200 booster rocket stage[84]","130s","274.5s","5,150 kN (1,160,000 lbf)"
+"Country","Engine","Thrust (vac.)","Stage","Cycle","Active","Status"
 "Japan , URL: /wiki/Japan
-","SRB-A series solid fueled rocket boosters","100s","280s","2,260 kN (510,000 lbf)"
-"Israel , URL: /wiki/Israel
-","Shavit , URL: /wiki/Shavit_2
-","82s","280s","1,650 kN (370,000 lbf)"
+","LE-5 , URL: /wiki/LE-5
+","LE-5 — 102.9 kN (23,100 lbf) ---------- LE-5A — 121.5 kN (27,300 lbf) ---------- LE-5B — 144.9 kN (32,600 lbf)","Upper stage","Gas generator , URL: /wiki/Gas-generator_cycle
+Expander , URL: /wiki/Expander_cycle
+","1986 — present","In service"
+"Japan , URL: /wiki/Japan
+","LE-7 , URL: /wiki/LE-7
+","LE-7 — 1,078 kN (242,000 lbf) ---------- LE-7A — 1,074 kN (241,000 lbf)","Booster","Staged combustion , URL: /wiki/Staged_combustion_cycle
+","1994 — present","In service"
 "China , URL: /wiki/China
-","Kuaizhou , URL: /wiki/Kuaizhou
-","","",""
+","YF-73 , URL: /wiki/YF-73
+","44.15 kN (9,930 lbf)","Upper stage","Gas generator , URL: /wiki/Gas-generator_cycle
+","1987–2000","Retired"
 "China , URL: /wiki/China
-","Long March 11 , URL: /wiki/Long_March_11
-","","248s (SL.)","1,188 kN (267,000 lbf) (SL.)"
+","YF-75 , URL: /wiki/YF-75
+","78.45 kN (17,640 lbf)","Upper stage","Gas generator , URL: /wiki/Gas-generator_cycle
+","1994 — present","In service"
+"China , URL: /wiki/China
+","YF-75D , URL: /wiki/YF-75D
+","88.36 kN (19,860 lbf)","Upper stage","Expander , URL: /wiki/Expander_cycle
+","2016 — present","In service"
+"China , URL: /wiki/China
+","YF-77 , URL: /wiki/YF-77
+","700 kN (160,000 lbf)","Booster","Gas generator , URL: /wiki/Gas-generator_cycle
+","2016 — present","In service"
+"China , URL: /wiki/China
+","YF-79 , URL: /wiki/YF-79
+","243.3 kN (54,700 lbf)","Upper stage","Expander , URL: /wiki/Expander_cycle
+","~2028","In service"
+"China , URL: /wiki/China
+","YF-90 , URL: /w/index.php?title=YF-90&action=edit&redlink=1
+","2,200 kN (490,000 lbf)","Upper stage","Staged combustion , URL: /wiki/Staged_combustion_cycle
+","~2028","Under development"
+"China , URL: /wiki/China
+","YF-100 , URL: /wiki/YF-100
+","1,340 kN (300,000 lbf)","Booster","Staged combustion , URL: /wiki/Staged_combustion_cycle
+","2015 — present","In service"
+"China , URL: /wiki/China
+","YF-115 , URL: /wiki/YF-115
+","180 kN (40,000 lbf)","Upper stage","Staged combustion , URL: /wiki/Staged_combustion_cycle
+","2015 — present","In service"
+"China , URL: /wiki/China
+","YF-130 , URL: /wiki/YF-130
+","4,800 kN (1,100,000 lbf) (SL.)","Booster","Staged combustion , URL: /wiki/Staged_combustion_cycle
+","~2028","Under development"
+"India , URL: /wiki/India
+","CE-7.5 , URL: /wiki/CE-7.5
+","73.5 kN (16,500 lbf)","Upper stage","Staged combustion , URL: /wiki/Staged_combustion_cycle
+","2014 — present","In service"
+"India , URL: /wiki/India
+","CE-20 , URL: /wiki/CE-20
+","200 kN (45,000 lbf)","Upper stage","Gas-generator , URL: /wiki/Gas-generator_cycle
+","2017 — present","In service"
+"India , URL: /wiki/India
+","SCE-200 , URL: /wiki/SCE-200
+","2,030 kN (460,000 lbf)","Booster","Staged combustion , URL: /wiki/Staged_combustion_cycle
+","After 2022","Under development"

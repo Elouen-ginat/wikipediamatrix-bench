@@ -1,5 +1,5 @@
 "File manager","Family","UI , URL: /wiki/User_interface
-","Icon view","List view","Column view","Thumbnails","Details + Thumbs","Grouping","Content dependent [37]","Twin panel","Favorites / Bookmark","Panel tabs"
+","Icon view","List view","Column view","Thumbnails","Details + Thumbs","Grouping","Content dependent [56]","Twin panel","Favorites / Bookmark","Panel tabs"
 "Altap Salamander , URL: /wiki/Altap_Salamander
 ","Orthodox , URL: /wiki/Orthodox_file_manager
 ","GUI , URL: /wiki/Graphical_user_interface
@@ -19,7 +19,7 @@
 "Dired , URL: /wiki/Dired
 ","Orthodox , URL: /wiki/Orthodox_file_manager
 ","Text , URL: /wiki/Text_user_interface
-","?","Yes","?","Yes, on GUI[38]","Yes, on GUI[38]","?","?","Yes, one or more","Partial (bookmarks)","Yes (show tab-bar optional) [39]"
+","?","Yes","?","Yes, on GUI[57]","Yes, on GUI[57]","?","?","Yes, one or more","Partial (bookmarks)","Yes (show tab-bar optional) [58]"
 "Dolphin , URL: /wiki/Dolphin_(file_manager)
 ","Navigational , URL: /wiki/Navigational_file_manager
 ","GUI , URL: /wiki/Graphical_user_interface
@@ -35,11 +35,11 @@
 "emelFM2 , URL: /wiki/EmelFM2
 ","Orthodox , URL: /wiki/Orthodox_file_manager
 ","GUI , URL: /wiki/Graphical_user_interface
-","No","Yes","No","Yes[40]","?","No","No","Yes","?","No"
+","No","Yes","No","Yes[59]","?","No","No","Yes","?","No"
 "FAR Manager , URL: /wiki/FAR_Manager
 ","Orthodox , URL: /wiki/Orthodox_file_manager
 ","Text , URL: /wiki/Text_user_interface
-","Partial[42]","Yes","Yes","Yes[43]","Partial[42]","Yes","Yes","Yes","Yes","Partial [m 1]"
+","Partial[61]","Yes","Yes","Yes[62]","Partial[61]","Yes","Yes","Yes","Yes","Partial [m 1]"
 "File Commander , URL: /wiki/File_Commander
 ","Orthodox , URL: /wiki/Orthodox_file_manager
 ","Text , URL: /wiki/Text_user_interface
@@ -148,7 +148,7 @@ Spatial , URL: /wiki/Spatial_file_manager
 ","Navigational , URL: /wiki/Navigational_file_manager
 Orthodox , URL: /wiki/Orthodox_file_manager
 ","GUI , URL: /wiki/Graphical_user_interface
-","Yes","Yes","Yes","Yes","Yes[44]","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes","Yes[63]","Yes","Yes","Yes","Yes","Yes"
 "XYplorer , URL: /wiki/XYplorer
 ","Navigational , URL: /wiki/Navigational_file_manager
 Orthodox , URL: /wiki/Orthodox_file_manager

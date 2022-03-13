@@ -1,7 +1,9 @@
-"Factors of comparison of programming languages , URL: /wiki/Comparison_of_programming_languages
+"","Java","C#"
+"Definition","class , URL: /wiki/Class_(computer_programming)
+objects , URL: /wiki/Object_(computer_science)
+fields , URL: /wiki/Member_variable
+methods , URL: /wiki/Method_(computer_programming)
+interfaces , URL: /wiki/Protocol_(object-oriented_programming)
+","Enumerations , URL: /wiki/Enumeration
 "
-"General comparison Assignment Basic syntax Basic instructions Comments Control flow Foreach loops While loops For loops Do-while Exception handling Enumerated types Algebraic data types Generators Anonymous functions Conditional expressions Functional instructions Arrays Associative arrays Scope String operations String functions Higher-order functions Filter Fold Map Type systems List comprehension Object-oriented programming Object-oriented constructors Operators ?: Null coalescing operators Safe navigation operators Modulo operators"
-"Evaluation strategy List of "Hello World" programs"
-"Languages with dependent types Comparison of type systems"
-"Comparison of individual languages Comparison of Java and .NET platforms ALGOL 58's influence on ALGOL 60 ALGOL 60: Comparisons with other languages Comparison of ALGOL 68 and C++ ALGOL 68: Comparisons with other languages Compatibility of C and C++ Comparison of Pascal and Borland Delphi Comparison of Object Pascal and C Comparison of Pascal and C Comparison of Java and C++ Comparison of C# and Java Comparison of C# and Visual Basic .NET Comparison of Visual Basic and Visual Basic .NET"
-"v t e"
+"Combining","Java enumeration set and map collections provide functionality to combine multiple enumeration values to a combined value. These special collections allows compiler optimization to minimize the overhead incurred by using collections as the combination mechanism.","C# supports bit-mapped enumerations where an actual value may be a combination of enumerated values bitwise or'ed together. The formatting and parsing methods implicitly defined by the type will attempt to use these values."

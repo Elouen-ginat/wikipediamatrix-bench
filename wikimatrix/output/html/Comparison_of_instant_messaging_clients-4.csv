@@ -1,92 +1,96 @@
-"Client","Self-destructing messages","Self-destructing messages","Self-destructing messages","Self-destructing messages","Self-destructing messages","Self-destructing messages","Read messages","Read messages","Read messages","Sent messages","Sent messages"
-"Client","Exists","Default setting","Receiver deletion","Setting receipts","Contact-based setting","Delete sent/read on read","Receipts","Deleting","Deleting request","Editing","Deleting"
+"Client","E2EE , URL: /wiki/End-to-end_encryption
+","E2EE , URL: /wiki/End-to-end_encryption
+","Encrypted local storage","File transfer","Voice messages","Voice chat","Video chat"
+"Client","Individual","Groups","Encrypted local storage","File transfer","Voice messages","Voice chat","Video chat"
 "Briar , URL: /wiki/Briar_(software)
-","No","-","","","","","Yes","","","",""
+","Yes","Yes","Yes","No","No","No","No"
 "Discord , URL: /wiki/Discord_(software)
-","No","-","","","","","No","","","Yes","Yes"
+","No","No","","Yes","No","Yes","Yes"
 "eBuddy , URL: /wiki/EBuddy
-","Yes","","","","","","Yes","","","No","Partial"
+","Yes","Yes","","Yes","Yes","Yes","Yes"
 "Element , URL: /wiki/Element_(software)
-","No","-","","","","","Yes","","","Partial","Yes"
+","Yes","Yes","","Yes","Yes","Yes","Yes"
 "Gadu-Gadu , URL: /wiki/Gadu-Gadu
-","","","","","","","","","","",""
+","No","No","","Yes","Yes","Yes",""
 "Gajim , URL: /wiki/Gajim
-","No","-","","","","","","","","Yes",""
+","Yes","Plug-in","","Yes","No","No","No[93]"
 "Google Messages (RCS) , URL: /wiki/Messages_(Google)
-","No","","","","","","Yes","","","","Yes"
+","Yes","No","","Yes","Yes","Yes","Yes"
 "ICQ , URL: /wiki/ICQ
-","","","","","","","","","","","Yes"
+","No","No","","Yes","No","Yes","Yes"
 "Jami , URL: /wiki/Jami_(software)
-","Yes","Disabled","","","","","","","","",""
+","Yes","","","Yes","Yes","Yes","Yes"
 "Jitsi , URL: /wiki/Jitsi
-","No","-","","","","","","","","",""
+","Yes","","","Yes","Yes","Yes","Yes"
 "Kadu , URL: /wiki/Kadu_(software)
-","","","","","","","","","","",""
+","No","No","","Yes","No","Yes","No"
 "KakaoTalk , URL: /wiki/KakaoTalk
-","","","","","","","","","","",""
+","Yes","Yes","","Yes","","",""
 "Keybase , URL: /wiki/Keybase
-","Yes","","","","","","Yes","","","Yes","Yes"
+","Yes","Yes","","Yes","No","No","No"
 "Kik Messenger , URL: /wiki/Kik_Messenger
-","","","","","","","","","","",""
+","No","No","","Yes","","",""
 "Line , URL: /wiki/Line_(software)
-","No","-","","","","","Yes","","","No","Partial"
+","Partial","Yes[94]","","Yes","Yes","Yes","Yes"
 "Linphone , URL: /wiki/Linphone
-","","","","","","","","","","",""
+","","","","","","",""
 "Mattermost , URL: /wiki/Mattermost
-","No","-","","","","","No","","","Yes","Yes"
+","No","No","","Yes","Plug-in","Plug-in","Plug-in"
 "MCabber , URL: /wiki/MCabber
-","","","","","","","","","","",""
+","No","No","","No","No","No","No"
 "Messages , URL: /wiki/Messages_(Apple)
-","No","-","","","","","","","","",""
+","Yes","Yes","","Yes","Yes","Yes","Yes"
 "Messenger , URL: /wiki/Messenger_(software)
-","Yes","","","","","","Yes","","","No","Yes"
+","Yes","No","","Yes","Yes","Yes","Yes"
 "Movim , URL: /wiki/Movim
-","No","-","","","","","","","","Yes","Yes"
+","Yes","For private group","","Yes","No","Yes","Yes"
 "Palringo , URL: /wiki/Palringo
-","","","","","","","","","","",""
+","No","No","","No","No","Yes","No"
 "Paltalk , URL: /wiki/Paltalk
-","","","","","","","","","","",""
+","No","No","","Yes","","Yes","Yes"
 "Pidgin , URL: /wiki/Pidgin_(software)
-","","","","","","","","","","Yes",""
+","Yes","","","No","No","Partial","Yes"
 "Psi , URL: /wiki/Psi_(instant_messaging_client)
-","","","","","","","","","","Yes",""
+","Yes","Yes","","Yes","Yes","Partial","Partial"
 "RetroShare , URL: /wiki/RetroShare
-","No","-","","","","","Yes","","","No","No"
+","Yes","Yes","","Yes","","",""
 "Ricochet , URL: /wiki/Ricochet_(software)
-","","","","","","","","","","",""
+","Yes","","","","","",""
 "Sicher , URL: /wiki/Sicher_(software)
-","Yes","","","","","","","","","",""
+","Yes","Yes","","Yes","","",""
 "Signal , URL: /wiki/Signal_(software)
-","Yes","Disabled","","","","","Yes","","","No","Partial"
+","Yes","Yes","Partial[95]","Yes","Yes","Yes","Yes"
 "Silent Phone , URL: /wiki/Silent_Circle_(software)
-","Yes","","","","","","","","","",""
+","Yes","Yes[96]","","Yes","","",""
 "Skype , URL: /wiki/Skype
-","","","","","","","Yes","","","Yes","Yes"
+","Yes","No","","Yes","Yes","Yes","Yes"
 "Slack , URL: /wiki/Slack_(software)
-","","","","","","","Yes","","","Yes","Yes"
+","No","No","","Yes","","",""
 "Snapchat , URL: /wiki/Snapchat
-","Yes","","","","","","Yes","","","No","Yes"
+","No","No","","No","Yes","Yes","Yes"
 "Surespot , URL: /wiki/Surespot
-","No","-","","","","","","","","",""
+","Yes","No groupchat","","Yes","Yes","Yes","No"
 "TeamNote , URL: /wiki/TeamNote
-","","","","","","","No","","","Yes","Yes"
+","","","","","Yes","","No"
 "Telegram , URL: /wiki/Telegram_(software)
-","Yes","Disabled","","","","","Yes","","","Yes","Yes"
+","Secret Chats","No","No[97]","Yes","Yes","Yes","Yes"
 "Tencent QQ , URL: /wiki/Tencent_QQ
-","","","","","","","","","","",""
+","No","No","","Yes","No","Yes","Yes"
 "Threema , URL: /wiki/Threema
-","No","-","","","","","Yes","","","No","Yes"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
 "Trillian , URL: /wiki/Trillian_(software)
-","","","","","","","Yes","","","",""
+","No","No","","Yes","Partial","Yes","Yes"
 "Viber , URL: /wiki/Viber
-","Yes","","","","","","Yes","","","Yes","Yes"
+","Yes","Yes","","Yes","Yes","Yes","Yes"
 "WeChat , URL: /wiki/WeChat
-","","","","","","","","","","",""
+","No","No","","Yes","Yes","Yes","Yes"
 "WhatsApp , URL: /wiki/WhatsApp
-","No","-","","","","","Yes","","","No","Partial"
+","Yes","Yes","No","Yes","Yes","Yes","Yes"
 "Wickr Me , URL: /wiki/Wickr
-","Yes","6 days","","","","","","","","","Yes"
+","Yes","Yes","","Yes","Yes","Yes","Yes"
 "Wire , URL: /wiki/Wire_(software)
-","Yes[92]","","","","","","Yes","","","Yes","Yes"
-"Client","Self-destructing messages","Self-destructing messages","Self-destructing messages","Self-destructing messages","Self-destructing messages","Self-destructing messages","Read messages","Read messages","Read messages","Sent messages","Sent messages"
-"Client","Exists","Default setting","Receiver deletion","Setting receipts","Contact-based setting","Delete sent/read on read","Receipts","Deleting","Deleting request","Editing","Deleting"
+","Yes","Yes","No","Yes","Yes","Yes","Yes"
+"Client","E2EE , URL: /wiki/End-to-end_encryption
+","E2EE , URL: /wiki/End-to-end_encryption
+","Encrypted local storage","File transfer","Voice messages","Voice chat","Video chat"
+"Client","Individual","Groups","Encrypted local storage","File transfer","Voice messages","Voice chat","Video chat"

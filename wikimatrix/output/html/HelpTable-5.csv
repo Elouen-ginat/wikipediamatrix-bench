@@ -1,8 +1,2 @@
-"Table element","Wikitext","Required","Usage notes"
-"Table start","{|","Required",""
-"Table caption","|+","Optional","Only between table start and first table row."
-"Table row","|-","Optional","Can be omitted before the first row."
-"Table header cell","!","Optional","Consecutive table header cells may be added on same line separated by double marks (!!); or start on new lines, each with its own single mark (!)."
-"Table data cell","| or ||","Optional","HTML attributes , URL: /wiki/HTML_attribute
-"
-"Table end","|}","Required",""
+"|Pipes34:||"
+"|Pipes34:||"

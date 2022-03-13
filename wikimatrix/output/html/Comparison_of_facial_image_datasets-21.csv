@@ -1,5 +1,11 @@
 "Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
-"Volcanoes on Venus – JARtool experiment Dataset","Venus images returned by the Magellan spacecraft.","Images are labeled by humans.","not given","Images","Classification","1991","[361][362]","M. Burl"
-"MAGIC Gamma Telescope Dataset","Monte Carlo generated high-energy gamma particle events.","Numerous features extracted from the simulations.","19,020","Text","Classification","2007","[362][363]","R. Bock"
-"Solar Flare Dataset","Measurements of the number of certain types of solar flare events occurring in a 24-hour period.","Many solar flare-specific features are given.","1389","Text","Regression, classification","1989","[364]","G. Bradshaw"
-"CAMELS Multifield Dataset","2D maps and 3D grids from thousands of N-body and state-of-the-art hydrodynamic simulations spanning a broad range in the value of the cosmological and astrophysical parameters","Each map and grid has 6 cosmological and astrophysical parameters associated to it","405,000 2D maps and 405,000 3D grids","2D maps and 3D grids","Regression","2021","[365]","Francisco Villaescusa-Navarro et al."
+"Volcanoes of the World","Volcanic eruption data for all known volcanic events on earth.","Details such as region, subregion, tectonic setting, dominant rock type are given.","1535","Text","Regression, classification","2013","[366]","E. Venzke et al."
+"Seismic-bumps Dataset","Seismic activities from a coal mine.","Seismic activity was classified as hazardous or not.","2584","Text","Classification","2013","[367][368]","M. Sikora et al."
+"CAMELS , URL: /w/index.php?title=CAMELS&action=edit&redlink=1
+","Catchment hydrology dataset with hydrometeorological timeseries and various attributes","see Reference","671","CSV, Text, Shapefile","Regression","2017","[369][370]","N. Addor et al. / A. Newman et al."
+"CAMELS-Chile","Catchment hydrology dataset with hydrometeorological timeseries and various attributes","see Reference","516","CSV, Text, Shapefile","Regression","2018","[371]","C. Alvarez-Garreton et al."
+"CAMELS-Brazil","Catchment hydrology dataset with hydrometeorological timeseries and various attributes","see Reference","897","CSV, Text, Shapefile","Regression","2020","[372]","V. Chagas et al."
+"CAMELS-GB","Catchment hydrology dataset with hydrometeorological timeseries and various attributes","see Reference","671","CSV, Text, Shapefile","Regression","2020","[373]","G. Coxon et al."
+"CAMELS-Australia","Catchment hydrology dataset with hydrometeorological timeseries and various attributes","see Reference","222","CSV, Text, Shapefile","Regression","2021","[374]","K. Fowler et al."
+"LamaH , URL: /wiki/LamaH
+","Catchment hydrology dataset with hydrometeorological timeseries and various attributes","see Reference","859","CSV, Text, Shapefile","Regression","2021","[375]","C. Klingler et al."

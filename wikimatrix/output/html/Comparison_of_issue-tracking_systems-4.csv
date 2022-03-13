@@ -1,80 +1,93 @@
-"System","Email , URL: /wiki/Email
-","RSS , URL: /wiki/RSS
-","Atom , URL: /wiki/Atom_(standard)
-","XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
-","Twitter , URL: /wiki/Twitter
-"
+"System","Git , URL: /wiki/Git_(software)
+","Mercurial , URL: /wiki/Mercurial
+","Bazaar , URL: /wiki/Bazaar_(software)
+","Monotone , URL: /wiki/Monotone_(software)
+","Darcs , URL: /wiki/Darcs
+","CVS , URL: /wiki/Concurrent_Versions_System
+","Subversion , URL: /wiki/Subversion_(software)
+","Perforce , URL: /wiki/Perforce
+","AccuRev , URL: /wiki/AccuRev
+","ClearCase , URL: /wiki/IBM_Rational_ClearCase
+","Others"
 "Apache Bloodhound , URL: /wiki/Apache_Bloodhound
-","Yes","Yes","No","No","No"
+","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Optional[75]","Yes","No","No"
 "Assembla , URL: /wiki/Assembla
-","Yes","Yes","No","No","Yes"
+","Yes","Yes","No","No","No","No","Yes","Yes","No","No","No"
 "Axosoft , URL: /wiki/Axosoft
-","Yes","Yes","No","No","No"
-"Bugzilla , URL: /wiki/Bugzilla
-","Yes","Yes","Yes","No","No"
-"Debbugs , URL: /wiki/Debbugs
-","Yes","No","No","No","No"
-"Dolibarr , URL: /wiki/Dolibarr
-","Yes","No","No","No","No"
-"Faveo Helpdesk , URL: /wiki/Faveo
-","Yes","No","No","No","No"
-"FogBugz , URL: /wiki/FogBugz
-","Yes","Yes","No","No","No"
-"Fossil , URL: /wiki/Fossil_(software)
-","Yes","Yes","No","No","No"
-"FusionForge , URL: /wiki/FusionForge
-","Yes","Yes","No","No","No"
-"GLPI , URL: /wiki/GLPI
-","Yes","No","No","Yes","No"
-"GNATS , URL: /wiki/GNATS
-","Yes","No","No","No","No"
-"Helix ALM , URL: /wiki/Helix_ALM
-","Yes","Yes","No","No","No"
-"HP Quality Center , URL: /wiki/HP_Quality_Center
-","Yes","No","No","No","No"
-"Jira , URL: /wiki/Jira_(software)
-","Yes","Yes","No","Yes","No"
-"MantisBT , URL: /wiki/Mantis_Bug_Tracker
-","Yes","Yes","No","No","Yes"
-"Microsoft Dynamics CRM , URL: /wiki/Microsoft_Dynamics_CRM
-","Yes","No","No","No","No"
-"org-mode , URL: /wiki/Org-mode
-","No","No","No","No","No"
-"OTRS , URL: /wiki/OTRS
-","Yes","No","No","No","No"
-"Phabricator , URL: /wiki/Phabricator
-","Yes","No","No","No","No"
-"Pivotal Tracker , URL: /wiki/Pivotal_Tracker
-","Yes","Yes","Yes","No","Yes"
-"Redmine , URL: /wiki/Redmine
-","Yes","Yes","Yes","Yes, via plugin","Yes"
-"Request Tracker , URL: /wiki/Request_Tracker
-","Yes","Yes[73]","No","No","No"
-"Roundup , URL: /wiki/Roundup_(issue_tracker)
-","Yes","Yes[74]","Yes[74]","No","No"
-"StarTeam , URL: /wiki/StarTeam
-","Yes","No","No","No","No"
-"Supportworks , URL: /wiki/Supportworks
-","Yes","No","No","No","No"
-"SysAid , URL: /wiki/SysAid_Technologies
-","Yes","No","No","No","No"
-"Team Foundation Server , URL: /wiki/Team_Foundation_Server
-","Yes","No","No","No","No"
-"Trac , URL: /wiki/Trac
-","Yes","Yes","No","No","No"
-"TrackerSuite.Net , URL: /wiki/Tracker_(business_software)
-","Yes","No","No","No","No"
-"Twproject , URL: /wiki/Twproject
-","Yes","Yes","No","No","Yes"
-"Wrike , URL: /wiki/Wrike_(software)
-","Yes","No","No","No","No"
-"YouTrack , URL: /wiki/YouTrack
-","Yes","Yes","No","Yes","No"
-"Zammad , URL: /wiki/Zammad
-","Yes","No","No","No","Yes"
-"System","Email , URL: /wiki/Email
-","RSS , URL: /wiki/RSS
-","Atom , URL: /wiki/Atom_(standard)
-","XMPP , URL: /wiki/Extensible_Messaging_and_Presence_Protocol
-","Twitter , URL: /wiki/Twitter
+","Yes","Yes[76]","No","No","No","No","Yes","Yes","No","No","VSS , URL: /wiki/Microsoft_Visual_SourceSafe
+Vault Sourcegear , URL: /wiki/Vault_(revision_control_system)
 "
+"Bugzilla , URL: /wiki/Bugzilla
+","Yes[77]","Yes[78]","Yes","No","No","Yes","Yes","Yes","Yes","No","No"
+"Debbugs , URL: /wiki/Debbugs
+","No","No","No","No","No","No","No","No","No","No","No"
+"Faveo Helpdesk , URL: /wiki/Faveo
+","No","No","No","No","No","No","No","No","No","No","No"
+"FogBugz , URL: /wiki/FogBugz
+","Yes","Yes","No","No","No","Yes","Yes","Yes","No","No","2[79]"
+"Fossil , URL: /wiki/Fossil_(software)
+","No","No","No","No","No","No","No","No","Yes","No","1[80]"
+"FusionForge , URL: /wiki/FusionForge
+","Yes","Yes","Yes","No","No","Yes","Yes","No","No","No","No"
+"GNATS , URL: /wiki/GNATS
+","No","No","No","No","No","Yes","No","No","No","No","No"
+"Helix ALM , URL: /wiki/Helix_ALM
+","Yes","No","No","No","No","Yes","Yes","Yes","No","No","Surround SCM , URL: /wiki/Surround_SCM
+"
+"HP Application Lifecycle Management , URL: /wiki/HP_Application_Lifecycle_Management
+","No","No","No","No","No","Yes","Yes","Yes[81]","Yes","No","No"
+"Jira , URL: /wiki/Jira_(software)
+","Yes","Yes","No","No","No","Yes","Yes","Yes","Yes[82]","No[83]","Yes[84]"
+"MantisBT , URL: /wiki/Mantis_Bug_Tracker
+","Yes","Yes[85]","No","No","No","Yes","Yes","No","No","No","No"
+"Microsoft Dynamics CRM , URL: /wiki/Microsoft_Dynamics_CRM
+","No","No","No","No","No","No","No","No","No","No","No"
+"org-mode , URL: /wiki/Org-mode
+","No","No","No","No","No","No","No","No","No","No","No"
+"OTRS , URL: /wiki/OTRS
+","No","No","No","No","No","No","No","No","No","No","No"
+"Phabricator , URL: /wiki/Phabricator
+","Yes","Yes","No","No","No","No","Yes","No","No","No","No"
+"Pivotal Tracker , URL: /wiki/Pivotal_Tracker
+","Yes","No","No","No","No","Yes","Yes","No","No","No","No"
+"Redmine , URL: /wiki/Redmine
+","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes[81]","No","No","No"
+"Request Tracker , URL: /wiki/Request_Tracker
+","No","No","No","No","No","Yes","Yes","No","No","No","No"
+"Roundup , URL: /wiki/Roundup_(issue_tracker)
+","No","Yes","No","No","Yes","No","Yes","No","No","No","Yes can be implemented for any RCS at tracker level"
+"StarTeam , URL: /wiki/StarTeam
+","No","No","No","No","No","No","No","No","No","No","StarTeam , URL: /wiki/StarTeam
+"
+"Supportworks , URL: /wiki/Supportworks
+","No","No","No","No","No","No","No","No","No","No","No"
+"SysAid , URL: /wiki/SysAid_Technologies
+","No","No","No","No","No","No","Yes","No","No","No","No"
+"Team Foundation Server , URL: /wiki/Team_Foundation_Server
+","Yes[86]","No","Yes[87]","No","No","No","Yes[88]","No","No","No","TFS , URL: /wiki/Team_Foundation_Server
+"
+"Trac , URL: /wiki/Trac
+","Yes","Yes","Yes","Yes","Yes","No","Yes","Optional[75]","Yes","No","No"
+"TrackerSuite.Net , URL: /wiki/Tracker_(business_software)
+","No","No","No","No","No","No","No","No","No","No","No"
+"Tuleap , URL: /wiki/Tuleap
+","Yes","No","No","No","No","Yes","Yes","No","No","No","No"
+"Twproject , URL: /wiki/Twproject
+","No","No","No","No","No","No","Yes","No","No","No","No"
+"Wrike , URL: /wiki/Wrike_(software)
+","No","No","No","No","No","No","Yes","No","No","No","No"
+"YouTrack , URL: /wiki/YouTrack
+","Yes[89]","Yes[89]","No","No","No","Yes[89]","Yes[89]","Yes[89]","No","Yes[89]","3[89][90]"
+"Zammad , URL: /wiki/Zammad
+","No","No","No","No","No","No","No","No","No","No","No"
+"System","Git , URL: /wiki/Git_(software)
+","Mercurial , URL: /wiki/Mercurial
+","Bazaar , URL: /wiki/Bazaar_(software)
+","Monotone , URL: /wiki/Monotone_(software)
+","Darcs , URL: /wiki/Darcs
+","CVS , URL: /wiki/Concurrent_Versions_System
+","Subversion , URL: /wiki/Subversion_(software)
+","Perforce , URL: /wiki/Perforce
+","AccuRev , URL: /wiki/AccuRev
+","ClearCase , URL: /wiki/IBM_Rational_ClearCase
+","Others"

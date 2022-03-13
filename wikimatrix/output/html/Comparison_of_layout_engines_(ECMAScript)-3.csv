@@ -1,1 +1,20 @@
-"","Parts of this article (those related to Several sections missing Blink) need to be updated. Please help update this article to reflect recent events or newly available information. (May 2020)"
+"Object object","MSHTML , URL: /wiki/MSHTML
+","Gecko , URL: /wiki/Gecko_(software)
+","WebKit , URL: /wiki/WebKit
+","Presto , URL: /wiki/Presto_(browser_engine)
+","Blink , URL: /wiki/Blink_(browser_engine)
+"
+"Called as function","Called as function","Called as function","Called as function","Called as function","Called as function"
+"Object([value])","Yes","Yes","Yes","Yes","Yes"
+"Called as constructor","Called as constructor","Called as constructor","Called as constructor","Called as constructor","Called as constructor"
+"new Object([value])","4.0","Yes","Yes","Yes","Yes"
+"Properties","Properties","Properties","Properties","Properties","Properties"
+"prototype","4.0","Yes","Yes","Yes","Yes"
+"Properties of prototype","Properties of prototype","Properties of prototype","Properties of prototype","Properties of prototype","Properties of prototype"
+"constructor","4.0","Yes","Yes","Yes","Yes"
+"toString()","4.0","Yes","Yes","Yes","Yes"
+"toLocaleString()","4.0","Yes","Yes","Yes","Yes"
+"valueOf()","4.0","Yes","Yes","Yes","Yes"
+"hasOwnProperty(V)","5.5","Yes","3","Yes","Yes"
+"isPrototypeOf(V)","5.5","Yes","3","Yes","Yes"
+"propertyIsEnumerable(V)","5.5","Yes","3","Yes","Yes"

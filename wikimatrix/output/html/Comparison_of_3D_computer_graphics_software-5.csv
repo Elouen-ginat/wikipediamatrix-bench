@@ -1,53 +1,92 @@
-"","Modeling , URL: /wiki/Computer_model
-","3D Painting , URL: /wiki/Glossary_of_computer_graphics#3D_paint_tool
-","Animation , URL: /wiki/Animation
-","Rendering , URL: /wiki/Rendering_(computer_graphics)
-","3D Tracking , URL: /wiki/Match_moving
-","Compositing , URL: /wiki/Compositing
+"","Imports , URL: /wiki/Imports
+","Imports , URL: /wiki/Imports
+","Imports , URL: /wiki/Imports
+","Exports , URL: /wiki/Exports
+","Exports , URL: /wiki/Exports
+","Exports , URL: /wiki/Exports
+","Exports , URL: /wiki/Exports
 "
+"","FBX , URL: /wiki/FBX
+","other 3D files","Web, mobile, and VR files[io 1]","FBX , URL: /wiki/FBX
+","other 3D files","glTF , URL: /wiki/GlTF
+","other web, mobile, and VR files[io 1]"
 "3ds Max , URL: /wiki/3ds_Max
-","Yes","Yes","Yes","Yes","No","Some"
-"AC3D , URL: /wiki/AC3D
-","Yes","?","?","No","No","No"
-"Blender , URL: /wiki/Blender_(software)
-","Yes","Yes","Yes","Yes","Yes","Yes"
-"Electric Image Animation System , URL: /wiki/Electric_Image_Animation_System
-","dropped[5]","?","Yes","Yes","No","?"
-"Cinema 4D , URL: /wiki/Cinema_4D
-","Yes","Yes","Yes","Yes","R16 or later","No"
-"Clara.io , URL: /wiki/Clara.io
-","Yes","?","Yes","Yes","No","?"
-"Cobalt , URL: /wiki/Cobalt_(CAD_program)
-","Yes","?","Yes","Yes","No","?"
-"HiCAD , URL: /wiki/HiCAD
-","Yes","Yes","Yes","Yes","No","No"
-"Houdini , URL: /wiki/Houdini_(software)
-","Yes","No","Yes","Yes","No","Yes"
-"IClone , URL: /wiki/IClone
-","Yes","?","Yes","Yes","?","?"
-"Lightwave 3D , URL: /wiki/Lightwave_3D
-","Yes","No","Yes","Yes","No","Yes"
-"MakeHuman , URL: /wiki/MakeHuman
-","parameter-based","No","No","No","No","No"
-"Maya , URL: /wiki/Maya_(software)
-","Yes","Yes","Yes","Yes","dropped (Maya Live)","Maya Fusion , URL: /wiki/Blackmagic_Fusion
-Maya Composite , URL: /wiki/Autodesk_Toxik
+","Yes","3DS , URL: /wiki/.3ds
+COLLADA , URL: /wiki/COLLADA
+OBJ , URL: /wiki/Wavefront_.obj_file
+","VRML","Yes","3DS , URL: /wiki/.3ds
+","?","M3G , URL: /wiki/Mobile_3D_Graphics_API
 "
+"AC3D , URL: /wiki/AC3D
+","Yes","3DS, AC3D, COLLADA, Lightwave, Massive, Milkshape Ascii, OBJ, OFF, Pointfield, Points, Terragen, Triangle, Vector","VRML 1.0, glTF","?","DXF , URL: /wiki/AutoCAD_DXF
+","?","VRML 1.0, VRML 2.0, X3D"
+"Blender , URL: /wiki/Blender_(software)
+","Yes","COLLADA, 3DS, PLY, OBJ, SVG","X3D, glTF","Yes","COLLADA, PLY, OBJ, SVG, PC2","Yes","X3D"
+"Electric Image Animation System , URL: /wiki/Electric_Image_Animation_System
+","Yes","3DS, OBJ, LWO, MDD","","?","3DS, OBJ, LWO","No",""
+"Cinema 4D , URL: /wiki/Cinema_4D
+","Yes","3DS , URL: /wiki/.3ds
+","VRML 1, VRML 2","Yes","3DS , URL: /wiki/.3ds
+","Yes","VRML 1, VRML 2"
+"Clara.io , URL: /wiki/Clara.io
+","Yes","3DS , URL: /wiki/.3ds
+","VRML, Three.js","Yes","OBJ, Collada","Yes","Three.js, Babylon.js"
+"Cobalt , URL: /wiki/Cobalt_(CAD_program)
+","?","3DS , URL: /wiki/.3ds
+AI , URL: /wiki/Adobe_Illustrator_Artwork
+ASCII Text , URL: /wiki/Text_file
+","VRML , URL: /wiki/VRML
+","?","AI , URL: /wiki/Adobe_Illustrator_Artwork
+ASCII Text , URL: /wiki/Text_file
+","?","Shockwave 3D , URL: /wiki/Adobe_Shockwave
+VRML , URL: /wiki/VRML
+"
+"Houdini , URL: /wiki/Houdini_(software)
+","Yes","?","","Yes","?","Yes",""
+"IClone , URL: /wiki/IClone
+","Yes","OBJ, SKP (via 3DXChange)","","Yes","OBJ (via 3DXChange)","?",""
+"Lightwave 3D , URL: /wiki/Lightwave_3D
+","Yes","3DS, COLLADA, OBJ, LWO, VideoScape","VRML, VRML97","Yes","3DS, COLLADA, OBJ, LWO","?","VRML, VRML97"
+"MakeHuman , URL: /wiki/MakeHuman
+","No","N/A","","Yes","COLLADA, MHX, OBJ, STL","?",""
+"Maya , URL: /wiki/Maya_(software)
+","Yes","Maya Ascii, Maya Binary, MEL, OBJ","VRML2","Yes","Maya Ascii, Maya Binary, Mel, OBJ, GE2, RTG","?","VRML2"
 "Metasequoia , URL: /wiki/Metasequoia_(software)
-","Yes","No","No","Yes","No","No"
+","EX version only","3DS , URL: /wiki/.3ds
+","glTF","EX version only","3DS , URL: /wiki/.3ds
+","Yes","[io 4]"
 "Modo , URL: /wiki/Modo_(software)
-","Yes","Yes","Yes","Yes","No","No"
+","Yes","3DS , URL: /wiki/.3ds
+","","Yes","LXO, LWO, PLT, GEO, OBJ, COLLADA","Yes","X3D"
 "Remo 3D , URL: /wiki/Remo_3D
-","Yes","No","Yes","Yes","No","No"
+","Yes","3DS , URL: /wiki/.3ds
+Collada , URL: /wiki/Collada
+","OSG , URL: /wiki/OpenSceneGraph
+","Yes","3DS , URL: /wiki/.3ds
+Collada , URL: /wiki/Collada
+","?","OSG , URL: /wiki/OpenSceneGraph
+"
 "Shade , URL: /wiki/Shade_3D
-","Yes","No","Yes","Yes","No","No"
+","Yes","3DS , URL: /wiki/.3ds
+","","Yes","DXF , URL: /wiki/AutoCAD_DXF
+3DS , URL: /wiki/.3ds
+","glTF Converter for Shade3D plugin","VRML 2.0, Flash (SWF)"
 "Softimage , URL: /wiki/Softimage
-","Yes","3.7 or later","Yes","Yes","No","Yes"
+","Yes","?","","Yes","?","No",""
 "Solid Edge , URL: /wiki/Solid_Edge
-","Yes","?","Yes","Yes","No","?"
+","?","","","?","","?","PDF , URL: /wiki/PDF
+"
 "SketchUp Make , URL: /wiki/SketchUp
-","Yes[6][7]","?","Yes[6]","Yes[6]","No","No"
+","?","3DS , URL: /wiki/.3ds
+","","?","COLLADA, SKP","?",""
 "SketchUp , URL: /wiki/SketchUp
-","Yes[6][7]","?","Yes[6]","Yes[6]","No","No"
+","?","3DS , URL: /wiki/.3ds
+","","Yes","3DS , URL: /wiki/.3ds
+","?","PDF , URL: /wiki/PDF
+"
+"E-on Vue , URL: /wiki/E-on_Vue
+","?","?","?","?","?","?","?"
 "Wings3D , URL: /wiki/Wings3D
-","Yes","?","No","Yes","No","?"
+","?","3DS , URL: /wiki/.3ds
+","","dropped in 1.3.1","3DS , URL: /wiki/.3ds
+","?","VRML 2.0"

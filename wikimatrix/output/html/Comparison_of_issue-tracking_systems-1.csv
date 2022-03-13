@@ -1,272 +1,109 @@
-"System","Creator","License , URL: /wiki/Software_license
-","Implementation language(s)","Back end","Launch date","Refs"
+"System","reporting , URL: /wiki/Business_reporting
+","Test planning integration","Customizable workflow","Unicode support","Custom fields","SLA[6]","Plugin API[7]","Multiple projects","Full-text search , URL: /wiki/Full-text_search
+","Indexed , URL: /wiki/Index_(search_engine)
+","Indexed , URL: /wiki/Index_(search_engine)
+","Edit conflict , URL: /wiki/Edit_conflict
+"
 "Apache Bloodhound , URL: /wiki/Apache_Bloodhound
-","Apache Software Foundation , URL: /wiki/Apache_Software_Foundation
-","Apache License , URL: /wiki/Apache_License
-","Python , URL: /wiki/Python_(programming_language)
-","MySQL , URL: /wiki/MySQL
-PostgreSQL , URL: /wiki/PostgreSQL
-SQLite , URL: /wiki/SQLite
-","2012","[1]"
+","Yes, integrated wiki","Yes","Yes","Yes","Yes","No","Yes","Yes (as of 0.6)","Yes","Yes[8] uses Whoosh","No","No"
 "Assembla , URL: /wiki/Assembla
-","Assembla , URL: /wiki/Assembla
-","Proprietary , URL: /wiki/Proprietary_software
-open source , URL: /wiki/Open-source_license
-","Ruby , URL: /wiki/Ruby_(programming_language)
-","MySQL , URL: /wiki/MySQL
-","2008",""
+","Yes, Wiki syntax, email notification, linking to Subversion commits, document manager, charts, reports, notifications","Yes","Yes","Yes","Yes","No","Yes","Yes","No","Unknown","No","No"
 "Axosoft , URL: /wiki/Axosoft
-","Axosoft LLC","Proprietary , URL: /wiki/Proprietary_software
-Saas , URL: /wiki/Software_as_a_service
-","C# , URL: /wiki/C_Sharp_(programming_language)
-.NET , URL: /wiki/.NET_Framework
-","SQL Server , URL: /wiki/Microsoft_SQL_Server
-","2002",""
+","Yes, Team Wiki, Burndown, GitHub and TortoiseSVN integration, dashboards, custom reports for OnPremises, e-mail notifications and alerts, customer portal, RSS","No","Yes","Yes","Yes","Yes","Yes","Yes","","","","No"
 "Azure DevOps Server (Team Foundation Server) , URL: /wiki/Azure_DevOps_Server
-","Microsoft , URL: /wiki/Microsoft
-","Proprietary, Commercial",".NET , URL: /wiki/.NET_Framework
-","MS SQL Server 2005 & 2008","2005",""
+","Yes - workflow definitions, process documentation","Yes","Yes","Yes","Yes","No","Yes","Yes","","","","No"
 "Bugzilla , URL: /wiki/Bugzilla
-","Mozilla Foundation , URL: /wiki/Mozilla_Foundation
-","MPL , URL: /wiki/Mozilla_Public_License
-","Perl , URL: /wiki/Perl
-","MySQL , URL: /wiki/MySQL
-Oracle , URL: /wiki/Oracle_Database
-PostgreSQL , URL: /wiki/PostgreSQL
-SQLite , URL: /wiki/SQLite
-","1998-09-19",""
+","Yes, reporting: integrated reports and charts, scheduled reports by mail","Yes[9]","Yes","Yes","Yes","No","Yes","Yes","Yes[10]","MySQL , URL: /wiki/MySQL
+Oracle Database , URL: /wiki/Oracle_Database
+","","Yes[14]"
 "Debbugs , URL: /wiki/Debbugs
-","Debian , URL: /wiki/Debian
-","GPL , URL: /wiki/GPL
-","Perl , URL: /wiki/Perl
-","Flat file , URL: /wiki/Flat_file_database
-Berkeley DB , URL: /wiki/Berkeley_DB
-","Between 1994 and 1999[notes 1]",""
-"Dolibarr , URL: /wiki/Dolibarr
-","Dolibarr community","GPL , URL: /wiki/GPL
-","PHP , URL: /wiki/PHP
-","MySQL , URL: /wiki/MySQL
-PostgreSQL , URL: /wiki/PostgreSQL
-","2018",""
+","No","No","No","Yes","No","No","No","Unknown","","","No","No"
 "Faveo Helpdesk , URL: /wiki/Faveo
-","Ladybird Web Solution","Open Software License , URL: /wiki/Open_Software_License
-","PHP , URL: /wiki/PHP
-","MySQL , URL: /wiki/MySQL
-","2015",""
+","Yes, Integrated Social Media, In-built Knowledge Base and Reporting","No","Yes","Yes","Yes","Yes","Yes","N/A","Yes","No","No","No"
 "FogBugz , URL: /wiki/FogBugz
-","Glitch , URL: /wiki/Glitch_(company)
-","Proprietary , URL: /wiki/Proprietary_software
-Saas , URL: /wiki/Software_as_a_service
-","ASP , URL: /wiki/Active_Server_Pages
-Windows , URL: /wiki/Microsoft_Windows
-PHP , URL: /wiki/PHP
-macOS , URL: /wiki/MacOS
-FreeBSD , URL: /wiki/FreeBSD
-Linux , URL: /wiki/Linux
-","SQL Server , URL: /wiki/Microsoft_SQL_Server
-MySQL , URL: /wiki/MySQL
-","2000","[2]"
+","Yes, Integrated wiki","No","Yes","Yes","Yes","No","Yes[15]","Yes","Yes[16]","Yes[17]","No[18]","Yes"
 "Fossil , URL: /wiki/Fossil_(software)
-","D. Richard Hipp","BSD , URL: /wiki/BSD_licenses
-","C , URL: /wiki/C_(programming_language)
-","SQLite , URL: /wiki/SQLite
-","2006",""
+","Yes, Integrated Wiki in addition to integrated versioned project documentation via web ui.","No","No","No","Yes","No","No","Yes[19]","No[20]","No","","No"
 "FusionForge , URL: /wiki/FusionForge
-","open source , URL: /wiki/Open-source_model
-","GPLv2 , URL: /wiki/GPLv2
-","PHP , URL: /wiki/PHP
-","PostgreSQL , URL: /wiki/PostgreSQL
-","2009-02",""
+","Yes, integrated Mediawiki, discussion forums, news blogs, email integration, export to CSV, reporting graphs","No","Yes","Yes","Yes","No","Yes","Yes","Yes","","","No"
 "GLPI , URL: /wiki/GLPI
-","INDEPNET","GPLv2 , URL: /wiki/GPLv2
-","PHP , URL: /wiki/PHP
-","MySQL , URL: /wiki/MySQL
-","2003-11-17",""
+","Yes, Contains a proprietary knowledge base of sorts","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No"
 "GNATS , URL: /wiki/GNATS
-","Free Software Foundation , URL: /wiki/Free_Software_Foundation
-","GPL , URL: /wiki/GPL
-","C , URL: /wiki/C_(programming_language)
-Perl , URL: /wiki/Perl
-","Text files with custom daemon/search engine","1992",""
-"Helix ALM (aka TestTrack) , URL: /wiki/Helix_ALM
-","Perforce Software , URL: /wiki/Perforce_Software
-","Proprietary","C++ , URL: /wiki/C%2B%2B
-Qt5 , URL: /wiki/Qt5
-JavaScript , URL: /wiki/JavaScript
-","Oracle , URL: /wiki/Oracle_database
-PostgreSQL , URL: /wiki/PostgreSQL
-SQL Server , URL: /wiki/Microsoft_SQL_Server
-SQLite , URL: /wiki/SQLite
-","1996",""
+","No","No","No","No","No","No","No","Unknown","","","","No"
+"Helix ALM , URL: /wiki/Helix_ALM
+","Yes - Advanced reporting, integrated charts, export to Excel, workflow with triggers","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","","No"
 "HP Quality Center , URL: /wiki/HP_Quality_Center
-","Hewlett-Packard , URL: /wiki/Hewlett-Packard
-Mercury Interactive , URL: /wiki/Mercury_Interactive
-","Proprietary , URL: /wiki/Proprietary_software
-",".NET , URL: /wiki/.NET_Framework
-Java , URL: /wiki/Java_(programming_language)
-","Oracle , URL: /wiki/Oracle_database
-SQL Server , URL: /wiki/Microsoft_SQL_Server
-","1995",""
+","Yes","Yes","Yes","No","Yes","No","Yes","Yes","No","No","No","No"
 "Jira , URL: /wiki/Jira_(software)
-","Atlassian , URL: /wiki/Atlassian
-","open source , URL: /wiki/Open-source_model
-","Java , URL: /wiki/Java_(programming_language)
-","MySQL , URL: /wiki/MySQL
-PostgreSQL , URL: /wiki/PostgreSQL
-Oracle , URL: /wiki/Oracle_Database
-SQL Server , URL: /wiki/Microsoft_SQL_Server
-","2002",""
+","Confluence (Enterprise wiki) , URL: /wiki/Confluence_(software)
+","Yes[21]","Yes","Yes","Yes","Yes","Yes[22]","Yes","Yes[23]","Lucene , URL: /wiki/Lucene
+","Optional[24]","No[25]"
 "Launchpad , URL: /wiki/Launchpad_(website)
-","Canonical Ltd. , URL: /wiki/Canonical_Ltd.
-","AGPL , URL: /wiki/Affero_General_Public_License
-","JavaScript , URL: /wiki/JavaScript
-Python , URL: /wiki/Python_(programming_language)
-","PostgreSQL , URL: /wiki/PostgreSQL
-","2004-01",""
+","Yes","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","Unknown","No"
 "MantisBT , URL: /wiki/Mantis_Bug_Tracker
-","open source , URL: /wiki/Open-source_model
-","GPL , URL: /wiki/GPL
-","PHP , URL: /wiki/PHP
-","MariaDB , URL: /wiki/MariaDB
-MySQL , URL: /wiki/MySQL
-PostgreSQL , URL: /wiki/PostgreSQL
-SQL Server , URL: /wiki/Microsoft_SQL_Server
-Oracle , URL: /wiki/Oracle_Database
-","2000",""
+","MediaWiki , URL: /wiki/MediaWiki
+DokuWiki , URL: /wiki/DokuWiki
+XWiki , URL: /wiki/XWiki
+","No","Yes","Yes","Yes","No","Yes","Yes","Yes[26]","Yes","No[27]","Yes"
 "Microsoft Dynamics CRM , URL: /wiki/Microsoft_Dynamics_CRM
-","Microsoft , URL: /wiki/Microsoft
-","Proprietary, Commercial",".NET , URL: /wiki/.NET_Framework
-","Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
-","2003",""
-"OpenProject , URL: /wiki/OpenProject
-","OpenProject Foundation e.V.","GPL , URL: /wiki/GPL
-","Ruby , URL: /wiki/Ruby_(programming_language)
-JavaScript , URL: /wiki/JavaScript
-","MySQL , URL: /wiki/MySQL
-PostgreSQL , URL: /wiki/PostgreSQL
-MariaDB , URL: /wiki/MariaDB
-","2010",""
+","Yes, reporting: integrated charts and reports, export to Excel, Mail Merge","No","Yes","Yes","Yes","No","Yes","Unknown","","","","No"
 "org-mode , URL: /wiki/Org-mode
-","Carsten Dominik","GPL , URL: /wiki/GPL
-","Emacs","Flat file","2003",""
+","Yes, org-mode has built-in export to HTML, Latex, .md and literate programming capabilities for multiple languages in a single document","No","Yes","Yes","Yes","No","No","Yes","Yes","","","No"
 "OTRS , URL: /wiki/OTRS
-","OTRS , URL: /wiki/OTRS
-","AGPL , URL: /wiki/Affero_General_Public_License
-","Perl , URL: /wiki/Perl
-JavaScript , URL: /wiki/JavaScript
-","MySQL , URL: /wiki/MySQL
-PostgreSQL , URL: /wiki/PostgreSQL
-Oracle , URL: /wiki/Oracle_Database
-SQL Server , URL: /wiki/Microsoft_SQL_Server
-","2002",""
+","Yes, Advanced reporting, configurable dashboards","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
 "Phabricator , URL: /wiki/Phabricator
-","Facebook , URL: /wiki/Facebook
-","Apache License , URL: /wiki/Apache_License
-","PHP , URL: /wiki/PHP
-","","2010",""
+","burn down charts , URL: /wiki/Burn_down_chart
+","Yes","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","No"
 "Pivotal Tracker , URL: /wiki/Pivotal_Tracker
-","Pivotal Labs , URL: /wiki/Pivotal_Labs
-","Proprietary , URL: /wiki/Proprietary_software
-","Ruby , URL: /wiki/Ruby_(programming_language)
-","Ruby on Rails , URL: /wiki/Ruby_on_Rails
-MySQL , URL: /wiki/MySQL
-Memcached , URL: /wiki/Memcached
-","2008",""
+","Yes, real time collaborative story backlog, integrated reports, email notification","Yes","No","Yes","No","No","Yes","Yes","","","","No"
 "Redmine , URL: /wiki/Redmine
-","Jean-Philippe Lang","GPLv2 , URL: /wiki/GPLv2
-","Ruby , URL: /wiki/Ruby_(programming_language)
-","MySQL , URL: /wiki/MySQL
-PostgreSQL , URL: /wiki/PostgreSQL
-SQLite , URL: /wiki/SQLite
-","2006",""
+","Yes, integrated wiki, discussion forums, news blogs, email integration, calendars, Gantt Charts, RSS, export to PDF, export to Excel/CSV","Yes[28]","Yes","Yes","Yes","Optional[29]","Yes","Yes","Yes[30]","Optional, when using PostgreSQL[31]","Optional[32]","Yes[33]"
 "Request Tracker , URL: /wiki/Request_Tracker
-","Best Practical Solutions, LLC","GPLv2 , URL: /wiki/GPLv2
-","Perl , URL: /wiki/Perl
-","MySQL , URL: /wiki/MySQL
-PostgreSQL , URL: /wiki/PostgreSQL
-Oracle , URL: /wiki/Oracle_Database
-SQLite , URL: /wiki/SQLite
-","1999-10-13",""
+","MediaWiki , URL: /wiki/MediaWiki
+","No","Yes","Yes","Yes","Yes[35]","Yes[36]","Yes","Yes[37]","Yes[37]","","No"
 "Roundup , URL: /wiki/Roundup_(issue_tracker)
-","Ka-Ping Yee, Richard Jones","MIT license , URL: /wiki/MIT_license
-","Python , URL: /wiki/Python_(programming_language)
-","SQLite , URL: /wiki/SQLite
-MySQL , URL: /wiki/MySQL
-PostgreSQL , URL: /wiki/PostgreSQL
-Berkeley DB , URL: /wiki/Berkeley_DB
-","2001",""
+","Yes, wiki can be integrated or linked","No, can be implemented at tracker level","Yes","Yes","Yes","No, can be implemented at tracker level","Yes[38]","Yes","Yes[39]","Yes with issues[40]","Yes","Yes"
 "StarTeam , URL: /wiki/StarTeam
-","Borland , URL: /wiki/Borland
-","Proprietary","C++ , URL: /wiki/C%2B%2B
-Java , URL: /wiki/Java_(programming_language)
-","SQL Server , URL: /wiki/Microsoft_SQL_Server
-Oracle , URL: /wiki/Oracle_database
-DB2 , URL: /wiki/IBM_DB2
-","Unknown",""
+","No","Yes[41]","Yes","No","Yes","No","No","Unknown","","","","No"
 "Supportworks , URL: /wiki/Supportworks
-","Hornbill Systems","Proprietary","C++ , URL: /wiki/C%2B%2B
+","wizard , URL: /wiki/Wizard_(software)
 PHP , URL: /wiki/PHP
-","SQL Server , URL: /wiki/Microsoft_SQL_Server
-MySQL , URL: /wiki/MySQL
-Oracle , URL: /wiki/Oracle_database
-Sybase , URL: /wiki/Adaptive_Server_Enterprise
-","1994[4]",""
+Crystal Reports , URL: /wiki/Crystal_Reports
+Microsoft Excel , URL: /wiki/Microsoft_Excel
+CSV , URL: /wiki/Comma-separated_values
+knowledge base , URL: /wiki/Knowledge_base
+asset management , URL: /wiki/IT_asset_management
+","No","Yes","No","Yes","Yes","Yes[42]","Unknown","","","","No"
 "SysAid , URL: /wiki/SysAid_Technologies
-","SysAid Technologies","Proprietary","C# , URL: /wiki/C_Sharp_(programming_language)
-Java , URL: /wiki/Java_(programming_language)
-","Derby , URL: /wiki/Apache_Derby
-Microsoft SQL Server , URL: /wiki/Microsoft_SQL_Server
-MySQL , URL: /wiki/MySQL
-Oracle , URL: /wiki/Oracle_Database
-","2002",""
+","LDAP , URL: /wiki/Lightweight_Directory_Access_Protocol
+Email , URL: /wiki/Email
+integrated Asset Management , URL: /wiki/Asset_management
+SSO , URL: /wiki/Single_sign-on
+CSV , URL: /wiki/Comma-separated_values
+PDF , URL: /wiki/Portable_Document_Format
+KB , URL: /wiki/Knowledge_base
+","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Unknown","No","No"
+"Teamwork , URL: /wiki/Teamwork_(software)
+","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes[43]","Lucene , URL: /wiki/Lucene
+","","No"
 "Trac , URL: /wiki/Trac
-","Edgewall Software","New BSD , URL: /wiki/New_BSD_License
-","Python , URL: /wiki/Python_(programming_language)
-","SQLite , URL: /wiki/SQLite
-PostgreSQL , URL: /wiki/PostgreSQL
-MySQL , URL: /wiki/MySQL
-","2006-10-01",""
-"TrackerSuite.Net , URL: /wiki/Tracker_(business_software)
-","Automation Centre , URL: /wiki/Automation_Centre
-","Proprietary","C# , URL: /wiki/C_Sharp_(programming_language)
-","SQL Server , URL: /wiki/Microsoft_SQL_Server
-SQL Server Express , URL: /wiki/SQL_Server_Express
-","2006",""
-"Trello , URL: /wiki/Trello
-","Atlassian , URL: /wiki/Atlassian
-","Saas , URL: /wiki/Software_as_a_service
-","Node.js , URL: /wiki/Node.js
-","MongoDB , URL: /wiki/MongoDB
-","2011",""
+","Yes, integrated wiki","Yes[44]","Yes","Yes","Yes","No","Yes[45]","Yes[46]","Yes","No[47]","","Yes[48]"
+"TrackerSuite.Net , URL: /wiki/Tracker_(Business_Software)
+","Crystal Reports , URL: /wiki/Crystal_Reports
+Microsoft Excel , URL: /wiki/Microsoft_Excel
+","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes","No","No","No"
 "Tuleap , URL: /wiki/Tuleap_(project_management)
-","enalean","GPLv2 , URL: /wiki/GPLv2
-","php , URL: /wiki/Php
-","LAMP , URL: /wiki/LAMP_(software_bundle)
-MySQL , URL: /wiki/MySQL
-","2011",""
-"Twproject , URL: /wiki/Twproject
-","Open Lab","Proprietary , URL: /wiki/Proprietary_software
-LGPL , URL: /wiki/LGPL
-","Java , URL: /wiki/Java_(programming_language)
-","Hibernate , URL: /wiki/Hibernate_(Java)
-","2003",""
+","Yes, Kanban boards, Scrum planning and burndown charts, pies, Gantt, barrs, cardwall, Document Manager with approval workflow and fine grained permissions, wikis","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes with plugin fulltext","Yes with plugin fulltext","No","No"
 "Wrike , URL: /wiki/Wrike_(software)
-","Wrike, Inc.","Proprietary, hosted","Java , URL: /wiki/Java_(programming_language)
-","PostgreSQL , URL: /wiki/PostgreSQL
-","2006",""
+","Gantt charts , URL: /wiki/Gantt_charts
+","No","Yes","Yes","Yes","No","Yes","Yes","Unknown","","","Yes"
 "YouTrack , URL: /wiki/YouTrack
-","JetBrains , URL: /wiki/JetBrains
-","Proprietary , URL: /wiki/Proprietary_software
-open source , URL: /wiki/Open-source_model
-","Java , URL: /wiki/Java_(programming_language)
-","JavaScript , URL: /wiki/JavaScript
-Kotlin , URL: /wiki/Kotlin_(programming_language)
-","2009",""
+","Yes: Wiki syntax, custom workflow, custom issue attributes, notifications (email, jabber, RSS, etc.), email integration, reports, export to HTML and CSV, integration with VCSs.","Yes[49]","Yes","Yes","Yes","Yes[50]","Yes[51]","Yes","Yes[52]","Lucene , URL: /wiki/Lucene
+","","No"
 "Zammad , URL: /wiki/Zammad
-","Zammad GmbH","AGPL , URL: /wiki/Affero_General_Public_License
-","Ruby , URL: /wiki/Ruby_(programming_language)
-","MySQL , URL: /wiki/MySQL
-PostgreSQL , URL: /wiki/PostgreSQL
-","2016[5]",""
-"System","Creator","License , URL: /wiki/Software_license
-","Implementation language(s)","Back end","Launch date","Refs"
+","Yes: Documentation integration/generation, reporting: integrated knowledge base, dashboard","No","No","Yes","Yes","Yes[53]","Yes","Yes","Yes[54]","Yes","Yes","Yes[55]"
+"System","Dynamic documentation integration/generation","Test planning integration","Customizable workflow","Unicode support","Custom fields","SLA[6]","Plugin API[7]","Multiple projects","Full-text search , URL: /wiki/Full-text_search
+","Indexed , URL: /wiki/Index_(search_engine)
+","Indexed , URL: /wiki/Index_(search_engine)
+","Edit conflict , URL: /wiki/Edit_conflict
+"

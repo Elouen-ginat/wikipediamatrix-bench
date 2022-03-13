@@ -172,7 +172,7 @@ public class Grid {
         // Recursive expends
         Set<Balise> tables_set = new HashSet<Balise>(tables);
         for (Balise table : tables_set) {
-            table.getGrid().expend();
+            table.setGrid(table.getGrid().expend());
         }
         // Squareup
         this.squareUp();
@@ -235,10 +235,11 @@ public class Grid {
     public String[][] toStringArray() {
         String[][] string_array = new String[this.getRowSize()][this.getMaxColSize()];
 
+        this.squareUp();
         for (int i = 0; i < this.getRowSize(); i++) {
-            for (int j = 0; j < this.getRow(i).size(); j++) {
-                Balise val = this.getValue(i, j);
-                string_array[i][j] = val.getInfo();
+            for (int j = 0; j < this.getMaxColSize(); j++) {
+                Balise value = this.getValue(i, j);
+                string_array[i][j] = value.getInfo();
             }
         }
         return string_array;

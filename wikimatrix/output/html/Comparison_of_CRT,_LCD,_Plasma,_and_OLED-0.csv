@@ -3,7 +3,7 @@
 ","Plasma , URL: /wiki/Plasma_display
 ","OLED , URL: /wiki/OLED
 "
-"Static contrast ratio","Typical 200–300:1[1][2]","150 to 8,100:1[3][4]","3,800:1[5]",""Between 0.0001 and 0.00001 nits" "Sony claims an OLED contrast range of 1,000,000:1. When I asked how the contrast could be so high I was told that the surface is SO black the contrast is almost infinite. If the number representing the dark end of the contrast scale is nearly zero then dividing that number into the brightest value results in a very, very high contrast ratio."[6] (1) Pixels can reset to black nearly instantaneously, so black levels remain consistently as black as they can be."
+"Static contrast ratio","Typical 200–300:1[1][2]","150 to 8,100:1[3][4]","3,800:1[5]","""Between 0.0001 and 0.00001 nits"" ""Sony claims an OLED contrast range of 1,000,000:1. When I asked how the contrast could be so high I was told that the surface is SO black the contrast is almost infinite. If the number representing the dark end of the contrast scale is nearly zero then dividing that number into the brightest value results in a very, very high contrast ratio.""[6] (1) Pixels can reset to black nearly instantaneously, so black levels remain consistently as black as they can be."
 "Peak luminosity","cd/m2 , URL: /wiki/Candela_per_square_metre
 ","200–4000 cd/m2[7][8]","50–200 cd/m2[1]","100–700 cd/m2[9]"
 "Color depth , URL: /wiki/Color_depth
@@ -27,7 +27,7 @@ burn-in , URL: /wiki/Screen_burn-in
 ","non-ionizing radiation , URL: /wiki/Non-ionizing_radiation
 ","radio frequency , URL: /wiki/Radio_frequency
 ","No, control circuitry may emit radio interference"
-"Size","Up to 43″ (1.09 m)[41]","Up to 120″ (3.04 m)[42]","Up to 150″ (3.8 m)[43] (152" experimental)[44]","Up to 88″ (2.24 m)[45]"
+"Size","Up to 43″ (1.09 m)[41]","Up to 120″ (3.04 m)[42]","Up to 150″ (3.8 m)[43] (152"" experimental)[44]","Up to 88″ (2.24 m)[45]"
 "Maintenance","Hazardous to repair or service due to high-voltage, requires skilled convergence calibration and adjustments for geographic location changes.[46] Glass display tube is evacuated and carries risk of implosion if improperly handled.","mercury , URL: /wiki/Mercury_(element)
 ","Screen itself cannot be repaired if the gas used to generate images leaks[49]",""
 "Other","native resolution , URL: /wiki/Native_resolution

@@ -1,30 +1,30 @@
-"","Amazon FPS , URL: /wiki/Amazon_Flexible_Payments_Service
-","Checkout by Amazon , URL: /wiki/Amazon_Payments#Checkout_by_Amazon
-","Google Checkout , URL: /wiki/Google_Checkout
-","PayPal , URL: /wiki/PayPal
+"","Australia Post , URL: /wiki/Australia_Post
+","Canada Post , URL: /wiki/Canada_Post
+","DHL , URL: /wiki/DHL_Express
+","FedEx , URL: /wiki/FedEx
+","OnTrac , URL: /wiki/OnTrac
+","United States Postal Service , URL: /wiki/United_States_Postal_Service
+","UPS , URL: /wiki/United_Parcel_Service
+","Purolator , URL: /wiki/Purolator_Courier
 "
 "Apache OFBiz , URL: /wiki/Apache_OFBiz
-","No","Yes","Yes","Yes"
-"Batavi , URL: /wiki/Batavi_(software)
-","No","No","No","No"
+","No","No","Yes","Yes","No","Yes","Yes","No"
 "BigCommerce , URL: /wiki/BigCommerce
-","No","No","No","Yes"
-"Drupal Commerce , URL: /wiki/Drupal_Commerce
-","Yes","add-on","Yes","Yes"
+","Yes","Yes","No","Yes","No","Yes","Yes","No"
+"KonaKart , URL: /wiki/KonaKart
+","No","No","No","Yes","No","Yes","Yes","No"
 "Magento , URL: /wiki/Magento
-","Yes","add-on","Yes","Yes"
+","No","Yes","Yes","Yes","No","Yes","Yes","Yes"
 "nopCommerce , URL: /wiki/NopCommerce
-","Yes","Yes","Yes","Yes"
+","Yes","Yes","No","Yes","No","Yes","Yes","No"
 "osCommerce , URL: /wiki/OsCommerce
-","No","add-on","No","Yes"
-"pimcore , URL: /wiki/Pimcore
-","No","No","No","No"
+","No","No","No","No","No","No","No","No"
 "PrestaShop , URL: /wiki/PrestaShop
-","Yes","Yes","Yes","Yes"
+","Yes","Yes","No","Yes","No","Yes","Yes","Yes"
 "Shopify , URL: /wiki/Shopify
-","No","No","Yes","Yes"
+","No","add-on","No","No","No","Yes","Yes","No"
 "WooCommerce , URL: /wiki/WooCommerce
-","No","Yes","Yes","Yes"
+","No","Yes","No","No","No","Yes","No","No"
 "Zen Cart , URL: /wiki/Zen_Cart
-","No","add-on","add-on","Yes"
-"","Amazon FPS","Checkout by Amazon","Google Checkout","PayPal Express"
+","add-on","add-on","add-on","add-on","Yes","add-on","Yes","Yes"
+"","Australia Post","Canada Post","DHL","FedEx","OnTrac","United States Postal Service","UPS","Purolator"

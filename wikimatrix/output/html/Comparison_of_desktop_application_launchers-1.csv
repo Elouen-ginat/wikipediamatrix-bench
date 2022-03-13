@@ -1,37 +1,37 @@
-"","Creator","Latest stable version","Release date","Software license , URL: /wiki/Software_license
+"","Creator","Latest stable version","Release date","OS","Software license , URL: /wiki/Software_license
 ","Open source , URL: /wiki/Open-source_software
 ","Programming language , URL: /wiki/Programming_language
 ","Plugin support"
-"Appetizer , URL: /wiki/Appetizer_(software)
-","Laurent Cozic","1.4.6.494","February 13, 2010","GPL , URL: /wiki/GPL
-","Yes","C++ , URL: /wiki/C%2B%2B
-wxWidgets , URL: /wiki/WxWidgets
+"9menu , URL: /wiki/Plan_9_from_User_Space
+","Arnold Robbins","1.8","June 1, 2004","Linux , URL: /wiki/Linux
+","GPL , URL: /wiki/GPL
+","Yes","C , URL: /wiki/C_(programming_language)
+","No"
+"Avant Window Navigator , URL: /wiki/Avant_Window_Navigator
+","Neil J. Patel","0.4.2 [3]","November 27, 2013","Linux , URL: /wiki/Linux
+","GPL , URL: /wiki/GPL
+","Yes","C , URL: /wiki/C_(programming_language)
 ","Yes"
-"ASuite , URL: /wiki/ASuite
-","SalvadorSoftware","2.0","April 20, 2020","GPL , URL: /wiki/GPL
-","Yes","Delphi , URL: /wiki/Delphi_(programming_language)
+"dmenu , URL: /wiki/Dmenu
+","dwm , URL: /wiki/Dwm
+","4.5[4]","December 19, 2011","Linux , URL: /wiki/Linux
+","MIT License , URL: /wiki/MIT_License
+","Yes","C , URL: /wiki/C_(programming_language)
 ","No"
-"Classic Shell , URL: /wiki/Classic_Shell
-","Ivo Beltchev","4.3.1","August 12, 2017","MIT , URL: /wiki/MIT_License
-","Yes","C++ , URL: /wiki/C%2B%2B
-","Yes (via shell namespace extensions inside the menu)"
-"LiberKey , URL: /wiki/LiberKey
-","Captel SARL","5.8.1129","November 30, 2015","Proprietary , URL: /wiki/Proprietary_software
-","No","?","No"
-"PortableApps.com Platform , URL: /wiki/PortableApps.com
-","Rare Ideas, LLC","15.0.2","May 17, 2018","GPL , URL: /wiki/GPL
-","Yes[note 1]","Delphi , URL: /wiki/Delphi_(programming_language)
-","No"
-"Quick Access Popup , URL: /w/index.php?title=Quick_Access_Popup&action=edit&redlink=1
-","Jean Lalonde","11.5.0.1","September 26, 2021","Freeware , URL: /wiki/Freeware
-","Yes","AutoHotkey , URL: /wiki/AutoHotkey
-","No"
-"SliderDock , URL: /wiki/SliderDock
-","Dimitri Roozendaal","1.21","October 11, 2010","Creative Commons , URL: /wiki/Creative_Commons_license
-","No","?","No"
-"SyMenu","Gianluca Negrelli","7.00.8038 [1]","January 3, 2022","Freeware , URL: /wiki/Freeware
-","No","C# , URL: /wiki/C_Sharp_(programming_language)
+"GNOME Do , URL: /wiki/GNOME_Do
+","GNOME Do Developers","0.95.1[5]","January 23, 2014","Linux , URL: /wiki/Linux
+","GPL , URL: /wiki/GPL
+","Yes","C# , URL: /wiki/C_Sharp_(programming_language)
 ","Yes"
-"XIA Links","CENTREL Solutions","4.2.12 [2]","July 1, 2021","Proprietary , URL: /wiki/Proprietary_software
-","No","C# , URL: /wiki/C_Sharp_(programming_language)
-","No"
+"Katapult , URL: /wiki/Katapult
+","TDE Developers","R14.0.6[6]","March 5, 2019","Linux , URL: /wiki/Linux
+TDE , URL: /wiki/Trinity_Desktop_Environment
+","GPL , URL: /wiki/GPL
+","Yes","C++ , URL: /wiki/C%2B%2B
+","Yes"
+"Unity Dash , URL: /wiki/Unity_Dash
+","Canonical Ltd. , URL: /wiki/Canonical_Ltd.
+","7.3.0[7]","June 19, 2014","Ubuntu , URL: /wiki/Ubuntu_(operating_system)
+","GPLv3 , URL: /wiki/GNU_GPL#Version_3
+","Yes","Vala , URL: /wiki/Vala_(programming_language)
+","Yes (""lenses"" and ""scopes"")"

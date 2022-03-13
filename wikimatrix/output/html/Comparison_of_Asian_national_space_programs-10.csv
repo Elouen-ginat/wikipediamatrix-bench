@@ -1,11 +1,15 @@
-"Country","Active","In orbit","Decayed","Total"
+"Country","Resolution","Satellite","Year launched"
 "China , URL: /wiki/China
-","352","407","84","491"
-"Japan , URL: /wiki/Japan
-","90","183","65","248"
+","0.1 meter","Gaofen 11","2020"
 "India , URL: /wiki/India
-","64","101","12","113"
+","0.25 meter","Cartosat-3 , URL: /wiki/Cartosat-3
+","2019"
+"Japan , URL: /wiki/Japan
+","0.4 meter","IGS Optical 5V","2013"
 "Israel , URL: /wiki/Israel
-","17","20","6","26"
+","0.5 meter","Ofeq 9","2010"
 "South Korea , URL: /wiki/South_Korea
-","15","22","5","27"
+","0.7 meter","KOMPSAT-3","2012"
+"Iran , URL: /wiki/Iran
+","150 meters","Rasad 1 , URL: /wiki/Rasad_1
+","2011"

@@ -47,7 +47,7 @@ public class App
 
         Elements tables = null;
         try {
-            tables = extractor.getAllFirstTable(doc);
+            tables = extractor.getAllFirstWikiTable(doc);
         } catch (NoTableException e) {
             App.LOGGER.info(e.getMessage());
             return;
@@ -59,17 +59,17 @@ public class App
 
         Serializer serializer = new WikipediaHTMLSerializer();
         for (int i = 0; i < string_tables.size(); i++) {
-            String csvFileName = App.mkCSVFileName(url, i);
+            String csvFileName = Serializer.mkCSVFileName(url, i);
             App.LOGGER.info("CSV file name: " + csvFileName);
 
             String[][] string_table = string_tables.get(i);
 
-            serializer.saveToCSV(string_table, csvFileName);
+            try {
+                serializer.saveToCSV(string_table, csvFileName);
+            } catch (IOException e) {
+                App.LOGGER.error(e.getMessage());
+            }
         }
 	    
     }
-    
-    private static String mkCSVFileName(String url, int n) {
-		return url.trim() + "-" + n + ".csv";
-	}
 }

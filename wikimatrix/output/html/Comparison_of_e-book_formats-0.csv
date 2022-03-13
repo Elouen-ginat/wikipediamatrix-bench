@@ -1,2 +1,47 @@
-"Format:","Sony media"
-"Published as:",".lrf; .lrx"
+"Format","Filename extension , URL: /wiki/Filename_extension
+","DRM , URL: /wiki/Digital_rights_management
+","Image support","Table support","Sound support","Interactivity support","Word wrap , URL: /wiki/Word_wrap
+","Open standard , URL: /wiki/Open_standard
+","Embedded annotation support","Book- marking","Video support"
+"Comic Book Archive , URL: /wiki/Comic_Book_Archive
+",".cbr, .cbz, .cb7, .cbt, .cba","?","Yes","No","No","No","No","Yes","No","No","No"
+"DjVu , URL: /wiki/DjVu
+",".djvu","?","Yes","Yes","No","No","No","Yes","Yes","Yes","No"
+"DOC , URL: /wiki/Doc_(computing)
+",".doc","?","Yes","Yes","Yes","?","Yes","No","?","?","Yes"
+"DOCX , URL: /wiki/DOCX
+",".docx","?","Yes","Yes","Yes","?","Yes","Yes","Yes","?","Yes"
+"EPUB , URL: /wiki/EPUB
+",".epub","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes/No[f 1]","Yes/No[f 1]","Yes[f 2]"
+"FictionBook , URL: /wiki/FictionBook
+",".fb2","No","Yes","Yes/No[f 3]","No","No","Yes","Yes","Yes","?","?"
+"HTML , URL: /wiki/HTML
+",".html","No","Yes","Yes","Yes[f 4]","No","Yes","Yes","No","No","Yes[f 4]"
+"Apple Books , URL: /wiki/Apple_Books
+",".ibook","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes"
+"INF , URL: /wiki/Information_Presentation_Facility
+",".inf","No","Yes","Yes","No","?","Yes","Yes","Yes/No[f 1]","Yes/No[f 1]","No"
+"Kindle , URL: /wiki/Kindle_File_Format
+",".azw","Yes","Yes","Yes[f 5][33]","Yes[f 6][34]","Yes","Yes","No","Yes","Yes","Yes[f 6][34]"
+"Microsoft Reader , URL: /wiki/Microsoft_Reader
+",".lit","Yes","Yes","?","No","No","Yes","No","?","Yes","?"
+"Mobipocket , URL: /wiki/Mobipocket
+",".prc, .mobi","Yes","Yes","Yes","No","Yes","Yes","No","Yes","Yes","?"
+"Multimedia EBook , URL: /w/index.php?title=Multimedia_EBook&action=edit&redlink=1
+",".exe","Yes","Yes","?","Yes","Yes","No","Yes","Yes","Yes","?"
+"Newton Book , URL: /w/index.php?title=Newton_Book&action=edit&redlink=1
+",".pkg","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","No"
+"eReader , URL: #eReader
+",".pdb","Yes","Yes","?","No","No","Yes","No","Yes","Yes","?"
+"Plain text , URL: /wiki/Plain_text
+",".txt","No","No","No","No","No","Yes","Yes","No","No","No"
+"Plucker , URL: /wiki/Plucker
+",".pdb","Yes","Yes","Yes","No","Yes","Yes","Yes","No","Yes","?"
+"Portable Document Format , URL: /wiki/Portable_Document_Format
+",".pdf","Yes","Yes","Yes","Yes","Yes","Yes/No[f 7][35]","Yes","Yes","Yes","Yes[f 8]"
+"PostScript , URL: /wiki/PostScript
+",".ps","No","Yes","?","No","No","Yes/No[f 9]","Yes","?","?","No"
+"Tome Raider , URL: /w/index.php?title=Tome_Raider&action=edit&redlink=1
+",".tr2, .tr3","Yes","Yes","?","No","No","Yes","No","?","?","?"
+"OpenXPS , URL: /wiki/OpenXPS
+",".oxps, .xps","?","Yes","Yes","?","No","No","Yes","?","?","?"

@@ -1,17 +1,13 @@
-"Country","Resolution","Satellite","Year launched"
-"India , URL: /wiki/India
-","0.35 meter","RISAT-2BR1 , URL: /wiki/RISAT-2BR1
-","2019"
-"India , URL: /wiki/India
-","0.5 meter x 0.3 meter","RISAT-2B , URL: /wiki/RISAT-2B
-","2019"
-"Israel , URL: /wiki/Israel
-","0.5 meter","TecSAR , URL: /wiki/TecSAR
-","2008"
+"Country","Satellite","Transponders","Mass","Power","Year launched"
 "China , URL: /wiki/China
-","0.3 meter","Yaogan 30","2018"
+","Shijian-20 , URL: /w/index.php?title=Shijian-20&action=edit&redlink=1
+","","8,000 kg (18,000 lb)","28 kW","2019"
 "Japan , URL: /wiki/Japan
-","0.5 meter","IGS , URL: /wiki/Information_Gathering_Satellite
-","2017"
-"South Korea , URL: /wiki/South_Korea
-","1 meter","KOMPSat-5","2013"
+","ST-2 , URL: /wiki/ST-2
+","51","5,090 kg (11,220 lb)","","2011"
+"India , URL: /wiki/India
+","GSAT-16 , URL: /wiki/GSAT-16
+","48","3,100 kg (6,800 lb)","5.6 kW","2014"
+"India , URL: /wiki/India
+","GSAT-11 , URL: /wiki/GSAT-11
+","40","5,854 kg (12,906 lb)","13.6 kW","2018"

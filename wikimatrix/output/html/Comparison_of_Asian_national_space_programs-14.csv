@@ -1,4 +1,11 @@
-"Country","Satellite","Type","Year launched"
+"Country","Spacecraft (engine)","Power","Thrust","Specific impulse","Year"
 "Japan , URL: /wiki/Japan
-","IKAROS , URL: /wiki/IKAROS
-","Extraterrestrial exploration","2010"
+","pulsed plasma thruster , URL: /wiki/Pulsed_plasma_thruster
+","20 W","","300s","1981"
+"Japan , URL: /wiki/Japan
+","Space Flyer Unit , URL: /wiki/Space_Flyer_Unit
+magnetoplasmadynamic thruster , URL: /wiki/Magnetoplasmadynamic_thruster
+","430 W","12.9 mN","600s","1995"
+"China , URL: /wiki/China
+","Dongfeng 5 ballistic rocket , URL: /wiki/Dongfeng_5
+","5 W","","280s","1981"

@@ -1,92 +1,28 @@
 "","Version","Operating systems","Office suite","Developer","License","ISO/IEC 26300:2006","Notes"
-"Calligra Stage , URL: /wiki/Calligra_Stage
-","2.4+","Windows , URL: /wiki/Microsoft_Windows
-Mac OS X , URL: /wiki/Mac_OS_X
+"Docvert , URL: https://web.archive.org/web/20080821102835/http://docvert.org/
+","4.0b1","GPLv3 , URL: /wiki/Gpl#Version_3
+","Many","Matthew Holloway , URL: http://holloway.co.nz/
+","GPLv3 , URL: /wiki/Gpl#Version_3
+","Yes",""
+"3BOpenDoc , URL: http://www.3bview.com/3bopendoc.html
+","2.1","Desktop , URL: /wiki/Desktop_computer
+Web-based , URL: /wiki/Web_application
+Server , URL: /wiki/Server_(computing)
+Linux , URL: /wiki/Linux
+Windows , URL: /wiki/Microsoft_Windows
+","Many","3BView , URL: http://www.3bview.com
+","Proprietary , URL: /wiki/Proprietary_software
+","Yes","Server based"
+"JODConverter , URL: https://github.com/sbraconnier/jodconverter
+","4.0.0","Windows , URL: /wiki/Microsoft_Windows
 Linux , URL: /wiki/Linux
 Unix-based systems , URL: /wiki/Unix
-","Calligra Suite , URL: /wiki/Calligra_Suite
-","KDE Project , URL: /wiki/KDE
-","GPL , URL: /wiki/GNU_General_Public_License
-LGPL , URL: /wiki/LGPL
+Mac OS X , URL: /wiki/Mac_OS_X
+","N/A","http://www.jodconverter.org , URL: http://www.jodconverter.org/
+","Apache 2.0 , URL: /wiki/Apache_2.0
 ","Yes",""
-"Collabora Office , URL: /wiki/Collabora_Online
-","All","Windows, Linux, macOS, Android, iOS, iPadOS, Chrome OS","Collabora Office , URL: /wiki/Collabora_Online
-","Collabora , URL: /wiki/Collabora
-","MPL2 , URL: /wiki/MPL2
-","Yes","enterprise-ready edition of LibreOffice"
 "Collabora Online , URL: /wiki/Collabora_Online
-","All","Web-based , URL: /wiki/Web_application
-","Collabora Online , URL: /wiki/Collabora_Online
-","Collabora , URL: /wiki/Collabora
-","MPL2 , URL: /wiki/MPL2
-","Yes","enterprise-ready edition of LibreOffice"
-"IBM Lotus Symphony , URL: /wiki/IBM_Lotus_Symphony
-","1.0+","Windows, Linux, Mac OS X","IBM Lotus Symphony , URL: /wiki/IBM_Lotus_Symphony
-","IBM , URL: /wiki/IBM
-","Proprietary , URL: /wiki/Proprietary_software
-","Yes",""
-"IBM Workplace , URL: /wiki/IBM_Workplace
-","2.5+","Web-based , URL: /wiki/Web_application
-","IBM Workplace , URL: /wiki/IBM_Workplace
-","IBM , URL: /wiki/IBM
-","Proprietary , URL: /wiki/Proprietary_software
-","","no longer being actively marketed"
-"KPresenter , URL: /wiki/KPresenter
-KOffice Showcase , URL: /wiki/KOffice_Showcase
-","1.4+","Linux , URL: /wiki/Linux
-Unix-based systems , URL: /wiki/Unix
-","KOffice , URL: /wiki/KOffice
-","KDE Project , URL: /wiki/KDE
-","LGPL , URL: /wiki/LGPL
-","no (not valid)",""
-"LibreOffice , URL: /wiki/LibreOffice
-","3.3.0","Windows , URL: /wiki/Microsoft_Windows
-Linux , URL: /wiki/Linux
-Unix-based systems , URL: /wiki/Unix
-Mac OS X , URL: /wiki/Mac_OS_X
-Solaris , URL: /wiki/Solaris_(operating_system)
-","LibreOffice , URL: /wiki/LibreOffice
-","LibreOffice , URL: /wiki/LibreOffice
+","6.4","Any modern browser. Or apps for Windows, Linux, macOS, Android, iOS, iPadOS, Chrome OS. Or it can be embedded as a daemon/service and scripted.","Many","Collabora , URL: /wiki/Collabora
 ","MPL2 , URL: /wiki/MPL2
 ","Yes",""
-"Microsoft Office PowerPoint , URL: /wiki/Microsoft_Office_PowerPoint
-","2007 SP2","Windows , URL: /wiki/Microsoft_Windows
-","Microsoft Office , URL: /wiki/Microsoft_Office
-","Microsoft , URL: /wiki/Microsoft
-","Proprietary , URL: /wiki/Proprietary_software
-","Yes",""
-"NeoOffice , URL: /wiki/NeoOffice
-","1.2","Mac OS X , URL: /wiki/Mac_OS_X
-","NeoOffice , URL: /wiki/NeoOffice
-","Patrick Luby and Edward Peterlin","GPL , URL: /wiki/GNU_General_Public_License
-","","Import only"
-"NeoOffice , URL: /wiki/NeoOffice
-","2.2.5","Mac OS X , URL: /wiki/Mac_OS_X
-","NeoOffice , URL: /wiki/NeoOffice
-","Patrick Luby and Edward Peterlin","GPL , URL: /wiki/GNU_General_Public_License
-","Yes","[2] , URL: http://neowiki.neooffice.org/index.php/NeoOffice_File_Formats
-"
-"OpenOffice.org Impress , URL: /wiki/OpenOffice.org_Impress
-","2.0+","Windows , URL: /wiki/Microsoft_Windows
-Linux , URL: /wiki/Linux
-Unix-based systems , URL: /wiki/Unix
-Mac OS X , URL: /wiki/Mac_OS_X
-Solaris , URL: /wiki/Solaris_(operating_system)
-","OpenOffice.org , URL: /wiki/OpenOffice.org
-","OpenOffice.org , URL: /wiki/OpenOffice.org
-","LGPL , URL: /wiki/LGPL
-","Yes",""
-"StarOffice , URL: /wiki/StarOffice
-","8","Windows , URL: /wiki/Microsoft_Windows
-Linux , URL: /wiki/Linux
-Solaris , URL: /wiki/Solaris_(operating_system)
-","StarOffice , URL: /wiki/StarOffice
-","Sun Microsystems , URL: /wiki/Sun_Microsystems
-","Proprietary , URL: /wiki/Proprietary_software
-","Yes",""
-"Zoho Show , URL: /wiki/Zoho_Office_Suite#Zoho_Show
-","2006","Web-based , URL: /wiki/Web_application
-","Standalone","AdventNet , URL: /w/index.php?title=AdventNet&action=edit&redlink=1
-","Proprietary , URL: /wiki/Proprietary_software
-","no (not valid)",""
 "","Version","Operating systems","Office suite","Developer","License","ISO/IEC 26300:2006","Notes"

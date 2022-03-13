@@ -1,75 +1,10 @@
-"Format","Languages"
-"LCase(string)","VB , URL: /wiki/Visual_Basic_(classic)
-"
-"lcase(string)","FreeBASIC , URL: /wiki/FreeBASIC
-"
-"lc(string)","Perl , URL: /wiki/Perl
-Raku , URL: /wiki/Raku_(programming_language)
-"
-"string.lc","Raku , URL: /wiki/Raku_(programming_language)
-"
-"tolower(char)","C , URL: /wiki/C_(programming_language)
-"
-"std.string.toLower(string)","D , URL: /wiki/D_(programming_language)
-"
-"transform(string.begin(), string.end(), result.begin(), ::tolower)[33]","C++ , URL: /wiki/C%2B%2B
-"
-"lowercase(string)","Object Pascal , URL: /wiki/Object_Pascal
-Delphi , URL: /wiki/Delphi_(programming_language)
-"
-"strtolower(string)","PHP , URL: /wiki/PHP
-"
-"lower(string)","Seed7 , URL: /wiki/Seed7
-"
-"echo "string" | tr 'A-Z' 'a-z'","Unix , URL: /wiki/Unix
-"
-"string.lower()","Python , URL: /wiki/Python_(programming_language)
-"
-"downcase(string)","Pick Basic , URL: /wiki/Pick_Basic
-"
-"string.downcase","Ruby , URL: /wiki/Ruby_(programming_language)
-"
-"strings.ToLower(string)","Go , URL: /wiki/Go_(programming_language)
-"
-"(string-downcase string)","Scheme , URL: /wiki/Scheme_(programming_language)
-Common Lisp , URL: /wiki/Common_Lisp
-"
-"(lower-case string)","Clojure , URL: /wiki/Clojure
-"
-"String.lowercase string","OCaml , URL: /wiki/OCaml
-"
-"String.map Char.toLower string","Standard ML , URL: /wiki/Standard_ML
-"
-"map Char.toLower string","Haskell , URL: /wiki/Haskell_(programming_language)
-"
-"string.toLowerCase()","Java , URL: /wiki/Java_(programming_language)
-JavaScript , URL: /wiki/JavaScript
-"
-"to_lower(string)","Erlang , URL: /wiki/Erlang_(programming_language)
-"
-"string.ToLower()","VB .NET , URL: /wiki/Visual_Basic_.NET
-C# , URL: /wiki/C_Sharp_(programming_language)
-Windows PowerShell , URL: /wiki/Windows_PowerShell
-F# , URL: /wiki/F_Sharp_(programming_language)
-"
-"string.lowercaseString","Objective-C , URL: /wiki/Objective-C
-Swift , URL: /wiki/Swift_(programming_language)
-"
-"string.lower(string) (string):lower()","Lua , URL: /wiki/Lua_(programming_language)
-"
-"string asLowercase","Smalltalk , URL: /wiki/Smalltalk
-"
-"LOWER(string)","SQL , URL: /wiki/SQL
-"
-"lowercase(string)","PL/I , URL: /wiki/PL/I
-"
-"ToLowerCase[string]","Mathematica , URL: /wiki/Mathematica
-"
-"«FUNCTION» LOWER-CASE(string)","COBOL , URL: /wiki/COBOL
-"
-"string.toLower","Cobra , URL: /wiki/Cobra_(programming_language)
-"
-"string tolower string","Tcl , URL: /wiki/Tcl
-"
-"string.to_lowercase()","Rust , URL: /wiki/Rust_(programming_language)
-"
+"Format","Languages","Comments"
+"string.partition(separator)","Python , URL: /wiki/Python_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+",""
+"lists:partition(pred, string)","Erlang , URL: /wiki/Erlang_(programming_language)
+",""
+"split /(separator)/, string, 2","Perl 5 , URL: /wiki/Perl_5
+",""
+"split separator, string, 2 string.split( separator, 2 )","Raku , URL: /wiki/Raku_(programming_language)
+","Separator does not have to be a regular expression"

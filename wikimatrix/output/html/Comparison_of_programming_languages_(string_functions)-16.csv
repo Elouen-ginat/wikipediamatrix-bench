@@ -1,49 +1,74 @@
-"Format","Languages","If not found"
-"char in string(char, pos, string[startpos:])","ALGOL 68 , URL: /wiki/ALGOL_68
-","returns BOOL: TRUE or FALSE, and position in REF INT pos."
-"instr(string, any char«,startpos») (char, can contain more them one char, in which case the position of the first appearance of any of them is returned.)","FreeBASIC , URL: /wiki/FreeBASIC
-","returns 0"
-"strchr(string,char)","C , URL: /wiki/C_(programming_language)
-C++ , URL: /wiki/C%2B%2B
-","returns NULL"
-"std.string.find(string, dchar)","D , URL: /wiki/D_(programming_language)
-","returns −1"
-"string.find(char«,startpos»)","C++ , URL: /wiki/C%2B%2B
-","returns std::string::npos"
-"pos(string, char«, startpos»)","Seed7 , URL: /wiki/Seed7
-","returns 0"
-"strings.IndexRune(string,char)","Go , URL: /wiki/Go_(programming_language)
-","returns −1"
-"string.indexOf(char«,startpos»)","Java , URL: /wiki/Java_(programming_language)
-JavaScript , URL: /wiki/JavaScript
-","returns −1"
-"string.IndexOf(char«,startpos«, charcount»»)","VB .NET , URL: /wiki/Visual_Basic_.NET
-C# , URL: /wiki/C_Sharp_(programming_language)
-Windows PowerShell , URL: /wiki/Windows_PowerShell
+"Format","","Languages","Format string syntax"
+"associate(file, string); putf(file, $formatstring$, items)","","ALGOL 68 , URL: /wiki/ALGOL_68
+","ALGOL"
+"Format(item, formatstring)","","VB , URL: /wiki/Visual_Basic_(classic)
+",""
+"sprintf(formatstring, items)","","Perl , URL: /wiki/Perl
+PHP , URL: /wiki/PHP
+Raku , URL: /wiki/Raku_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+","C"
+"item.fmt(formatstring)","","Raku , URL: /wiki/Raku_(programming_language)
+","C"
+"io_lib:format(formatstring, items)","","Erlang , URL: /wiki/Erlang_(programming_language)
+",""
+"sprintf(outputstring, formatstring, items)","","C , URL: /wiki/C_(programming_language)
+","C"
+"std::format(formatstring, items)","","C++ , URL: /wiki/C%2B%2B
+C++20 , URL: /wiki/C%2B%2B20
+","Python"
+"std.string.format(formatstring, items)","","D , URL: /wiki/D_(programming_language)
+","C"
+"Format(formatstring, items)","","Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
+",""
+"fmt.Sprintf(formatstring, items)","","Go , URL: /wiki/Go_(programming_language)
+","C"
+"printf -v outputstring formatstring items","","Bash shell , URL: /wiki/Bash_shell
+","C"
+"formatstring % (items)","","Python , URL: /wiki/Python_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+","C"
+"formatstring.format(items)","","Python , URL: /wiki/Python_scripting_language
+",".NET"
+"fformatstring","","Python 3 , URL: /wiki/Python_3
+",""
+"Printf.sprintf formatstring[21] items","","OCaml , URL: /wiki/OCaml
 F# , URL: /wiki/F_Sharp_(programming_language)
-","returns −1"
-"(position char string)","Common Lisp , URL: /wiki/Common_Lisp
-","returns NIL"
-"(char-index char string)","ISLISP , URL: /wiki/ISLISP
-","returns nil"
-"List.elemIndex char string","Haskell , URL: /wiki/Haskell_(programming_language)
-","returns Nothing"
-"String.index string char","OCaml , URL: /wiki/OCaml
-","raises Not_found"
-"position = SCAN (string, set «, back» «, kind») or position = VERIFY (string, set «, back» «, kind»)[a]","Fortran , URL: /wiki/Fortran
-","returns zero"
-"string indexOf: char ifAbsent: aBlock string indexOf: char string includes: char","Smalltalk , URL: /wiki/Smalltalk
-","evaluate aBlock which is a BlockClosure (or any object understanding value) returns 0 returns true or false"
-"index(string, char, startpos )","PL/I , URL: /wiki/PL/I
-","returns 0 (positions start at 1)"
-"string.index(?char)","Ruby , URL: /wiki/Ruby_(programming_language)
-","returns nil"
-"strpos(string,char,startpos)","PHP , URL: /wiki/PHP
-","returns false"
-"string.indexOf(char«,startpos«, charcount»»)","Cobra , URL: /wiki/Cobra_(programming_language)
-","returns −1"
-"string⍳char","APL , URL: /wiki/APL_(programming_language)
-","returns 1 + the last position in string"
-"string.find(substring)","Rust , URL: /wiki/Rust_(programming_language)
-","None , URL: /wiki/Option_type
-"
+","C"
+"Text.Printf.printf formatstring items","","Haskell , URL: /wiki/Haskell_(programming_language)
+","C"
+"formatstring printf: items","","Smalltalk , URL: /wiki/Smalltalk
+","C"
+"String.format(formatstring, items)","","Java , URL: /wiki/Java_(programming_language)
+","C"
+"String.Format(formatstring, items)","","VB .NET , URL: /wiki/Visual_Basic_.NET
+C# , URL: /wiki/C_Sharp_(programming_language)
+F# , URL: /wiki/F_Sharp_(programming_language)
+",".NET"
+"(format formatstring items)","","Scheme , URL: /wiki/Scheme_(programming_language)
+","Lisp"
+"(format nil formatstring items)","","Common Lisp , URL: /wiki/Common_Lisp
+","Lisp"
+"(format formatstring items)","","Clojure , URL: /wiki/Clojure
+","Lisp"
+"formatstring -f items","","Windows PowerShell , URL: /wiki/Windows_PowerShell
+",".NET"
+"[NSString stringWithFormat:formatstring, items]","","Objective-C , URL: /wiki/Objective-C
+","C"
+"String(format:formatstring, items)","","Swift , URL: /wiki/Swift_(programming_language)
+","C"
+"string.format(formatstring, items) (formatstring):format(items)","","Lua , URL: /wiki/Lua_(programming_language)
+","C"
+"WRITE (outputstring, formatstring) items","","Fortran , URL: /wiki/Fortran
+","Fortran"
+"put string(string) edit(items)(format)","","PL/I , URL: /wiki/PL/I
+","PL/I (similar to Fortran)"
+"String.format(formatstring, items)","","Cobra , URL: /wiki/Cobra_(programming_language)
+",".NET"
+"format formatstring items","","Tcl , URL: /wiki/Tcl
+","C"
+"formatnumbers ⍕ items or formatstring ⎕FMT items","","APL , URL: /wiki/APL_(programming_language)
+","APL"
+"format!(formatstring, items)","","Rust , URL: /wiki/Rust_(programming_language)
+","Python"

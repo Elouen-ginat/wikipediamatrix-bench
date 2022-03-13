@@ -12,7 +12,7 @@
 "CenterTools DriveLock","No","Yes","Yes","No","No","Yes","No","No","Any supported by OS","Yes"
 "Check Point Full Disk Encryption","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","NTFS, FAT32","Yes"
 "CipherShed , URL: /wiki/CipherShed
-","Yes (limited to one per "outer" container)","only on Windows[75]","?","No","yes with multiple keyfiles[76][77]","Yes","Yes","No[78]","Only Windows MBR volumes; no UEFI GPT drives, and dynamic drives discouraged[79]","Yes"
+","Yes (limited to one per ""outer"" container)","only on Windows[75]","?","No","yes with multiple keyfiles[76][77]","Yes","Yes","No[78]","Only Windows MBR volumes; no UEFI GPT drives, and dynamic drives discouraged[79]","Yes"
 "CryFS","No","No","N/A","No","No","Yes[80]","No","No","Any supported by OS","No"
 "CrossCrypt , URL: /wiki/CrossCrypt
 ","No","No","N/A","No","No","No","No","No","?","No"
@@ -85,8 +85,8 @@ LUKS , URL: /wiki/LUKS
 "Trend Micro , URL: /wiki/Trend_Micro
 ","No","Yes","Yes","Yes","Yes","Yes[108]","Yes[109]","No","Any supported by OS","Yes[110]"
 "TrueCrypt , URL: /wiki/TrueCrypt
-","Yes (limited to one per "outer" container)","only on Windows[111]","?","No","yes with multiple keyfiles[77][112]","Yes","Yes","No[78]","Only Windows MBR volumes; no UEFI GPT drives, and dynamic drives discouraged[79]","Yes"
+","Yes (limited to one per ""outer"" container)","only on Windows[111]","?","No","yes with multiple keyfiles[77][112]","Yes","Yes","No[78]","Only Windows MBR volumes; no UEFI GPT drives, and dynamic drives discouraged[79]","Yes"
 "VeraCrypt , URL: /wiki/VeraCrypt
-","Yes (limited to one per "outer" container)","only on Windows[113]","No","No","yes with multiple keyfiles","Yes","Yes","No","Windows on both MBR and UEFI GPT drives; dynamic drives discouraged","Yes"
+","Yes (limited to one per ""outer"" container)","only on Windows[113]","No","No","yes with multiple keyfiles","Yes","Yes","No","Windows on both MBR and UEFI GPT drives; dynamic drives discouraged","Yes"
 "CyberSafe Top Secret","Yes","No","No","No","Yes","Yes","Yes","No","Only Windows MBR volumes; no UEFI GPT drives, and dynamic drives discouraged","Yes"
 "Name","Hidden containers","Pre-boot authentication","Single sign-on","Custom authentication","Multiple keys","Passphrase strengthening","Hardware acceleration","TPM","Filesystems","Two-factor authentication"

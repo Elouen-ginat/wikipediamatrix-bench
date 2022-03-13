@@ -1,4 +1,4 @@
-"Model","Launch","Microarchitecture","Code name","Fab (nm)","Bus , URL: /wiki/Computer_bus
+"Model","Launch","Micro-archi-tecture","Code name","Fab (nm)","Bus , URL: /wiki/Computer_bus
 interface , URL: /wiki/I/O_interface
 ","Clock rate","Clock rate","Core config1","Fillrate , URL: /wiki/Fillrate
 ","Fillrate , URL: /wiki/Fillrate
@@ -9,7 +9,7 @@ interface , URL: /wiki/I/O_interface
 ","API , URL: /wiki/Application_programming_interface
 ","API , URL: /wiki/Application_programming_interface
 ","TDP (Watts)","Notes"
-"Model","Launch","Microarchitecture","Code name","Fab (nm)","Bus , URL: /wiki/Computer_bus
+"Model","Launch","Micro-archi-tecture","Code name","Fab (nm)","Bus , URL: /wiki/Computer_bus
 interface , URL: /wiki/I/O_interface
 ","Core (MHz)","Memory (MHz)","Core config1","GP , URL: /wiki/Pixel
 ","GT , URL: /wiki/Texel_(graphics)
@@ -23,6 +23,15 @@ interface , URL: /wiki/I/O_interface
 ","OpenCL , URL: /wiki/OpenCL
 ","Vulkan , URL: /wiki/Vulkan_(API)
 ","TDP (Watts)","Notes"
-"FirePro D300[286]","January 18, 2014","Southern Islands","Pitcairn XT GL","28","PCIe 3.0 x16","850","1270","1280:80:32:20","","","2","162.6","PCIe 3.0 x16","256","2176","136","11.1","4.6","1.2","1.1.101","150",""
-"FirePro D500[287]","January 18, 2014","Southern Islands","Tahiti LE GL","28","PCIe 3.0 x16","725","1270","1536:96:32:24","","","3","243.8","PCIe 3.0 x16","384","2227","556.8","11.1","4.6","1.2","1.1.101","274",""
-"FirePro D700[288]","January 18, 2014","Southern Islands","Tahiti XT GL","28","PCIe 3.0 x16","850","1370","2048:128:32:32","","","6","263","PCIe 3.0 x16","384","3482","870.4","11.1","4.6","1.2","1.1.101","274",""
+"FirePro W2100[290]","August 13, 2014","GCN 1st gen","Oland XT","28","PCIe 3.0 x8","630","900","320:20:8:5","5.04","12.6","2","28.8","DDR3 , URL: /wiki/DDR3
+","128","403.2","25.5","11.2a/12.0","4.5","2.0 (new)","1.0","<26","Two Standard DisplayPort DP 1.2a outputs"
+"FirePro W4100[291]","August 13, 2014","GCN 1st gen","Cape Verde","28","PCIe 3.0 x16","630","1125","512:32:16:8","10.08","20.16","2","72","GDDR5 , URL: /wiki/GDDR5
+","128","645.1","40.3","11.2a/12.0","4.5","2.0 (new)","1.0","<50","Four Standard Mini-DP 1.2a outputs"
+"FirePro W5100[292]","August 13, 2014","GCN 2nd gen","Bonaire Pro","28","PCIe 3.0 x16","930","1500","768:48:16:12","14.88","44.64","4","96","GDDR5 , URL: /wiki/GDDR5
+","128","1430","89.2","11.2b/12.0","4.5","2.0","1.0","<75","DirectGMA, GeometryBoost, 4 DP 1.2a, including Adaptive-Sync and HBR2"
+"FirePro W7100[293]","August 13, 2014","GCN 3rd gen","Tonga Pro GL","28","PCIe 3.0 x16","920","1400","1792:112:32:28","29.4","103","8","160","GDDR5 , URL: /wiki/GDDR5
+","256","3297","206","11.2b/12.0","4.5","2.0","1.1","<150","DirectGMA, GeometryBoost, 4 DP 1.2a, including Adaptive-Sync and HBR2"
+"FirePro W8100[294]","June 26, 2014","GCN 2nd gen","Hawaii Pro GL","28","PCIe 3.0 x16","824","1250","2560:160:64:40","52.7","145","8","320","GDDR5 , URL: /wiki/GDDR5
+","512","4218.9","2109.45","11.2b/12.0","4.5","2.0","1.0","220","ECC RAM, 4 DP + SDI-Link"
+"FirePro W9100[295]","March 26, 2014","GCN 2nd gen","Hawaii XT","28","PCIe 3.0 x16","930","1250","2816:176:64:44","59.5","163.7","16 32","320","GDDR5 , URL: /wiki/GDDR5
+","512","5237.8","2618.9","11.2b/12.0","4.5","2.0[296]","1.0","275","ECC RAM, Six Mini DP + SDI-Link"

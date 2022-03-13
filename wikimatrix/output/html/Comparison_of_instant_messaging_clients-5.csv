@@ -1,96 +1,100 @@
-"Client","E2EE , URL: /wiki/End-to-end_encryption
-","E2EE , URL: /wiki/End-to-end_encryption
-","Encrypted local storage","File transfer","Voice messages","Voice chat","Video chat"
-"Client","Individual","Groups","Encrypted local storage","File transfer","Voice messages","Voice chat","Video chat"
+"Client","emoji , URL: /wiki/Emoji
+","Stickers , URL: /wiki/Sticker_(messaging)
+","GIF , URL: /wiki/GIF
+","Themes , URL: /wiki/Theme_(computing)
+skins , URL: /wiki/Skin_(computing)
+"
 "Briar , URL: /wiki/Briar_(software)
-","Yes","Yes","Yes","No","No","No","No"
+","Yes","No","","No"
 "Discord , URL: /wiki/Discord_(software)
-","No","No","","Yes","No","Yes","Yes"
+","Yes","Yes","Yes","No"
 "eBuddy , URL: /wiki/EBuddy
-","Yes","Yes","","Yes","Yes","Yes","Yes"
+","No","No","","Yes"
 "Element , URL: /wiki/Element_(software)
-","Yes","Yes","","Yes","Yes","Yes","Yes"
+","Yes","Yes","No","Yes"
 "Gadu-Gadu , URL: /wiki/Gadu-Gadu
-","No","No","","Yes","Yes","Yes",""
+","No","","",""
 "Gajim , URL: /wiki/Gajim
-","Yes","Plug-in","","Yes","No","No","No[93]"
+","Yes","","","Yes"
 "Google Messages (RCS) , URL: /wiki/Messages_(Google)
-","Yes","No","","Yes","Yes","Yes","Yes"
+","","Yes","Yes","No"
 "ICQ , URL: /wiki/ICQ
-","No","No","","Yes","No","Yes","Yes"
+","Yes","Yes","","Yes"
 "Jami , URL: /wiki/Jami_(software)
-","Yes","","","Yes","Yes","Yes","Yes"
+","","","",""
 "Jitsi , URL: /wiki/Jitsi
-","Yes","","","Yes","Yes","Yes","Yes"
+","Yes","","",""
 "Kadu , URL: /wiki/Kadu_(software)
-","No","No","","Yes","No","Yes","No"
+","Yes","","","Yes"
 "KakaoTalk , URL: /wiki/KakaoTalk
-","Yes","Yes","","Yes","","",""
+","No","","",""
 "Keybase , URL: /wiki/Keybase
-","Yes","Yes","","Yes","No","No","No"
+","Yes","No","","Yes, only 2 official skins"
 "Kik Messenger , URL: /wiki/Kik_Messenger
-","No","No","","Yes","","",""
+","Yes","","","Yes"
 "Line , URL: /wiki/Line_(software)
-","Partial","Yes[94]","","Yes","Yes","Yes","Yes"
+","No","Yes","Yes","Yes"
 "Linphone , URL: /wiki/Linphone
-","","","","","","",""
+","","","",""
 "Mattermost , URL: /wiki/Mattermost
-","No","No","","Yes","Plug-in","Plug-in","Plug-in"
+","Yes","No","","Yes"
 "MCabber , URL: /wiki/MCabber
-","No","No","","No","No","No","No"
+","No","","",""
 "Messages , URL: /wiki/Messages_(Apple)
-","Yes","Yes","","Yes","Yes","Yes","Yes"
+","No","","","No"
 "Messenger , URL: /wiki/Messenger_(software)
-","Yes","No","","Yes","Yes","Yes","Yes"
+","No","Yes","Yes","Yes"
 "Movim , URL: /wiki/Movim
-","Yes","For private group","","Yes","No","Yes","Yes"
+","No","Yes","","No"
 "Palringo , URL: /wiki/Palringo
-","No","No","","No","No","Yes","No"
+","No","","","Yes"
 "Paltalk , URL: /wiki/Paltalk
-","No","No","","Yes","","Yes","Yes"
+","No","","","Yes"
 "Pidgin , URL: /wiki/Pidgin_(software)
-","Yes","","","No","No","Partial","Yes"
+","Yes","No","No","Yes"
 "Psi , URL: /wiki/Psi_(instant_messaging_client)
-","Yes","Yes","","Yes","Yes","Partial","Partial"
+","Yes","","","Yes"
 "RetroShare , URL: /wiki/RetroShare
-","Yes","Yes","","Yes","","",""
+","No","Yes","",""
 "Ricochet , URL: /wiki/Ricochet_(software)
-","Yes","","","","","",""
+","No","","",""
 "Sicher , URL: /wiki/Sicher_(software)
-","Yes","Yes","","Yes","","",""
+","No","","",""
 "Signal , URL: /wiki/Signal_(software)
-","Yes","Yes","Partial[95]","Yes","Yes","Yes","Yes"
+","No","Yes","Yes","Yes"
 "Silent Phone , URL: /wiki/Silent_Circle_(software)
-","Yes","Yes[96]","","Yes","","",""
+","No","","",""
 "Skype , URL: /wiki/Skype
-","Yes","No","","Yes","Yes","Yes","Yes"
+","No","Yes","Yes","No"
 "Slack , URL: /wiki/Slack_(software)
-","No","No","","Yes","","",""
+","Yes","","","Yes"
 "Snapchat , URL: /wiki/Snapchat
-","No","No","","No","Yes","Yes","Yes"
+","No","Yes","Yes","No"
 "Surespot , URL: /wiki/Surespot
-","Yes","No groupchat","","Yes","Yes","Yes","No"
+","No","","","Yes"
 "TeamNote , URL: /wiki/TeamNote
-","","","","","Yes","","No"
+","No","","",""
 "Telegram , URL: /wiki/Telegram_(software)
-","Secret Chats","No","No[97]","Yes","Yes","Yes","Yes"
+","No","Yes","Yes","Yes"
 "Tencent QQ , URL: /wiki/Tencent_QQ
-","No","No","","Yes","No","Yes","Yes"
+","No","","","Yes"
 "Threema , URL: /wiki/Threema
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","No","Yes","","Yes"
 "Trillian , URL: /wiki/Trillian_(software)
-","No","No","","Yes","Partial","Yes","Yes"
+","Yes","","","Yes"
 "Viber , URL: /wiki/Viber
-","Yes","Yes","","Yes","Yes","Yes","Yes"
+","No","Yes","Yes","Yes"
 "WeChat , URL: /wiki/WeChat
-","No","No","","Yes","Yes","Yes","Yes"
+","No","","",""
 "WhatsApp , URL: /wiki/WhatsApp
-","Yes","Yes","No","Yes","Yes","Yes","Yes"
+","No","Yes","Yes","No"
 "Wickr Me , URL: /wiki/Wickr
-","Yes","Yes","","Yes","Yes","Yes","Yes"
+","No","","","No"
 "Wire , URL: /wiki/Wire_(software)
-","Yes","Yes","No","Yes","Yes","Yes","Yes"
-"Client","E2EE , URL: /wiki/End-to-end_encryption
-","E2EE , URL: /wiki/End-to-end_encryption
-","Encrypted local storage","File transfer","Voice messages","Voice chat","Video chat"
-"Client","Individual","Groups","Encrypted local storage","File transfer","Voice messages","Voice chat","Video chat"
+","No","No","","No"
+"Client","emoji , URL: /wiki/Emoji
+","Stickers , URL: /wiki/Sticker_(messaging)
+","GIF , URL: /wiki/GIF
+","Themes , URL: /wiki/Theme_(computing)
+skins , URL: /wiki/Skin_(computing)
+"

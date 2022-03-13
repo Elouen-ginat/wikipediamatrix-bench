@@ -1,30 +1,30 @@
-"","Coupons","Gift certificates","Membership discounts","Membership-only categories","Membership-only products","Reward points","Special offers"
+"","Product import-export","Statistics","Stock control","WYSIWYG editor"
 "Apache OFBiz , URL: /wiki/Apache_OFBiz
-","Yes","Yes","Yes","No","Yes","No","Yes"
+","Yes","Yes","Yes","Yes"
 "Batavi , URL: /wiki/Batavi_(software)
-","No","No","Yes","No","No","No","Yes"
+","Yes","Yes","Yes","Yes"
 "BigCommerce , URL: /wiki/BigCommerce
-","Yes","Yes","Yes","Yes","Yes","3rd party","Yes"
+","Yes","Yes","Yes","Yes"
 "Drupal Commerce , URL: /wiki/Drupal_Commerce
-","Yes","Yes","Yes","Yes","Yes","No","Yes"
+","Yes","Yes","Yes","Yes"
 "KonaKart , URL: /wiki/KonaKart
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes"
 "Magento , URL: /wiki/Magento
-","Yes","Yes","Yes","Yes","Yes","Yes (Enterprise Edition)","Yes"
+","Yes","Yes","Yes","Yes"
 "nopCommerce , URL: /wiki/NopCommerce
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes"
 "osCommerce , URL: /wiki/OsCommerce
-","Add-on","Add-on","No","No","No","No","Yes"
+","add-on","Yes","Yes","add-on"
 "pimcore , URL: /wiki/Pimcore
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes"
 "PrestaShop , URL: /wiki/PrestaShop
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes"
 "Shopify , URL: /wiki/Shopify
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","No"
 "SupaDupa , URL: /wiki/SupaDupa
-","Yes","Yes","No","No","No","No","Yes"
+","Yes","Yes","Yes","No"
 "WooCommerce , URL: /wiki/WooCommerce
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes"
 "Zen Cart , URL: /wiki/Zen_Cart
-","Yes","Yes","Yes","Add-on[32]","Add-on[32]","Yes[33]","Yes"
-"","Coupons","Gift certificates","Membership discounts","Membership-only categories","Membership-only products","Reward points","Special offers"
+","add-on","Yes","Yes","add-on"
+"","Product import-export","Statistics","Stock control","WYSIWYG editor"

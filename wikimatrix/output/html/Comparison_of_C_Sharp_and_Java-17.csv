@@ -1,17 +1,12 @@
-"Generics","Java","C#"
-"Implementation","Type erasure , URL: /wiki/Type_erasure
-","Reification , URL: /wiki/Reification_(computer_science)
-"
-"Runtime realization","No","Yes"
-"Type variance , URL: /wiki/Covariance_and_contravariance_(computer_science)
-","Use-site , URL: /wiki/Covariance_and_contravariance_(computer_science)#Use-site_variance_annotations_(wildcards)
-","Declaration-site , URL: /wiki/Covariance_and_contravariance_(computer_science)#Declaration-site_variance_annotations
-"
-"Reference type constraint","Yes; implicit","Yes"
-"Value/primitive type constraint","No","Yes"
-"Constructor constraint","No","Yes (only for parameterless constructor)"
-"Subtype constraint , URL: /wiki/Bounded_quantification
-","Yes","Yes"
-"Supertype constraint , URL: /wiki/Wildcard_(Java)#Bounded_Wildcards
-","Yes","No"
-"Migration compatibility","Yes","No"
+"Preprocessing , URL: /wiki/Preprocessor
+Compilation , URL: /wiki/Compiler
+Packaging , URL: /wiki/Modular_programming
+","Java","C#"
+"Namespaces , URL: /wiki/Namespaces
+","Packages","Namespaces"
+"File contents","Restricted","Free"
+"Packaging","Package","public/internal visibility on namespace members, which the build system translates to modules and assemblies at the CLR-level"
+"Classes/assembly search path","ClassPath","Both compile-time and runtime[82][83]"
+"Conditional compilation","No; but see Apache Ant[84]","Yes"
+"Custom errors/warnings","Yes; AnnotationProcessor","Yes"
+"Explicit regions","No","Yes"

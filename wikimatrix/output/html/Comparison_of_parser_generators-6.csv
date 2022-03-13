@@ -1,7 +1,0 @@
-"v t e Parsing algorithms","v t e Parsing algorithms"
-"Top-down , URL: /wiki/Top-down_parsing
-","LL Recursive descent Tail recursive Pratt parser"
-"Bottom-up , URL: /wiki/Bottom-up_parsing
-","Precedence Simple Operator Shunting-yard Bounded-context LR Simple Look-ahead Canonical Generalized CYK Recursive ascent Shift-reduce"
-"Mixed, other","Combinator Chart Earley"
-"Related topics","PEG Definite clause grammar Deterministic parsing Dynamic programming Memoization Parser generator LALR Parse tree AST Scannerless parsing History of compiler construction Comparison of parser generators"

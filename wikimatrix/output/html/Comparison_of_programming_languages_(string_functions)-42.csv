@@ -1,5 +1,2 @@
-"Definition","substring(string, startpos, endpos) returns string substr(string, startpos, numChars) returns string"
-"Description","UTF-8 , URL: /wiki/UTF-8
-UTF-16 , URL: /wiki/UTF-16
-Shift-JIS , URL: /wiki/Shift-JIS
-"
+"Definition","uppercase(string) returns string"
+"Description","Returns the string in upper case."

@@ -1,11 +1,11 @@
 "Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
-"Enron Email Dataset","Enron , URL: /wiki/Enron
-","Attachments removed, invalid email addresses converted to user@enron.com or no_address@enron.com.","~ 500,000","Text","Network analysis , URL: /wiki/Social_network_analysis
-","2004 (2015)","[196][197]","Klimt, B. and Y. Yang"
-"Ling-Spam Dataset","spam , URL: /wiki/Email_spam
-","lemmatiser , URL: /wiki/Lemmatisation
-","2,412 Ham 481 Spam","Text","Classification","2000","[198][199]","Androutsopoulos, J. et al."
-"SMS Spam Collection Dataset","Collected SMS spam messages.","None.","5,574","Text","Classification","2011","[200][201]","T. Almeida et al."
-"Twenty Newsgroups Dataset","Messages from 20 different newsgroups.","None.","20,000","Text","Natural language processing","1999","[202]","T. Mitchell et al."
-"Spambase Dataset","Spam emails.","Many text features extracted.","4,601","Text","Spam detection, classification","1999","[203]","M. Hopkins et al."
-"ColBERT Dataset","Short jokes.","Outliers removed.","200,000","Text","Humor detection, classification","2020","[204]","I. Annamoradnejad."
+"MovieTweetings","Movie rating dataset based on public and well-structured tweets","","~710,000","Text","Classification, regression","2018","[205]","S. Dooms"
+"Twitter100k","Pairs of images and tweets","","100,000","Text and Images","Cross-media retrieval","2017","[206][207]","Y. Hu, et al."
+"Sentiment140","Tweet data from 2009 including original text, time stamp, user and sentiment.","Classified using distant supervision from presence of emoticon in tweet.","1,578,627","Tweets, comma, separated values","Sentiment analysis","2009","[208][209]","A. Go et al."
+"ASU Twitter Dataset","Twitter network data, not actual tweets. Shows connections between a large number of users.","None.","11,316,811 users, 85,331,846 connections","Text","Clustering, graph analysis","2009","[210][211]","R. Zafarani et al."
+"SNAP Social Circles: Twitter Database","Large Twitter network data.","Node features, circles, and ego networks.","1,768,149","Text","Clustering, graph analysis","2012","[212][213]","J. McAuley et al."
+"Twitter Dataset for Arabic Sentiment Analysis","Arabic tweets.","Samples hand-labeled as positive or negative.","2000","Text","Classification","2014","[214][215]","N. Abdulla"
+"Buzz in Social Media Dataset","Data from Twitter and Tom's Hardware. This dataset focuses on specific buzz topics being discussed on those sites.","Data is windowed so that the user can attempt to predict the events leading up to social media buzz.","140,000","Text","Regression, Classification","2013","[216][217]","F. Kawala et al."
+"Paraphrase and Semantic Similarity in Twitter (PIT)","This dataset focuses on whether tweets have (almost) same meaning/information or not. Manually labeled.","tokenization, part-of-speech and named entity tagging","18,762","Text","Regression, Classification","2015","[218][219]","Xu et al."
+"Geoparse Twitter benchmark dataset","This dataset contains tweets during different news events in different countries. Manually labeled location mentions.","location annotations added to JSON metadata","6,386","Tweets, JSON","Classification, Information Extraction","2014","[220][221]","S.E. Middleton et al."
+"Dutch Social media collection","This dataset contains COVID-19 tweets made by Dutch speakers or users from Netherlands. The data has been machine labeled","classified for sentiment, tweet text & user description translated to English. Industry mention are extracted","271,342","JSONL","Sentiment, multi-label classification, machine translation","2020","[222][223][224]","Aaaksh Gupta, CoronaWhy"

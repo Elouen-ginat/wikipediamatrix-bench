@@ -1,5 +1,4 @@
-"Internet media type , URL: /wiki/Internet_media_type
-","MSHTML , URL: /wiki/MSHTML
+"","MSHTML , URL: /wiki/MSHTML
 ","Tasman , URL: /wiki/Tasman_(browser_engine)
 ","Gecko , URL: /wiki/Gecko_(software)
 ","WebKit , URL: /wiki/WebKit
@@ -7,15 +6,11 @@
 ","Presto , URL: /wiki/Presto_(browser_engine)
 ","Prince , URL: /wiki/Prince_(software)
 "
-"application/atom+xml","?","?","?","?","?","8.00 beta 2[o 1][o 2]","?"
-"application/mathml+xml","No","No","2.0[g 1]","No","No","9.50 beta 2[o 3]","?"
-"application/rss+xml","?","?","?","?","?","7.50 beta 1[o 4][o 5]","?"
-"application/xhtml+xml","XHTML 5.0","Prompt for download","XHTML","XHTML 125","HTML , URL: #khtml_xhtml
-","XHTML 1.0","?"
-"application/xml","XHTML 5.0","Crash","XHTML","XHTML 125","XML , URL: #khtml_xml
-","XHTML 1.0","?"
-"application/xslt+xml","?","?","?","?","?","9.00 beta 1[o 6]","?"
-"image/svg+xml","?","?","1.0[g 2]","?","?","9.50[o 7][o 8]","?"
-"text/xml","XHTML 5.0","Crash","XHTML","XHTML 125","XML , URL: #khtml_xml
-","XHTML 1.0","?"
-"text/html","HTML","HTML","HTML","HTML","HTML","HTML","?"
+"MathML , URL: /wiki/MathML
+","No","No","1.0","No[w 1]","No","2.1","6.0"
+"SVG , URL: /wiki/Scalable_Vector_Graphics
+","5.0","No","1.8","522","3.2","1.0","5.1"
+"XForms , URL: /wiki/XForms
+","No","No","No[g 3]","No[w 2]","No","No","?"
+"VoiceXML , URL: /wiki/VoiceXML
+","No","No","No","No","No","1.0","No"

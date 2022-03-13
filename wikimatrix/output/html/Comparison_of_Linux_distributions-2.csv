@@ -1,206 +1,120 @@
-"Distribution","Linux kernel , URL: /wiki/Linux_kernel
-","file system , URL: /wiki/File_system
-","init system , URL: /wiki/Init
-","desktop environment , URL: /wiki/Desktop_environment
-window manager , URL: /wiki/Window_manager
-","Reproducible builds , URL: /wiki/Reproducible_builds
+"Distribution","x86 , URL: /wiki/X86
+","x86-64 , URL: /wiki/X86-64
+","arm , URL: /wiki/ARM_architecture
+","ia64 , URL: /wiki/Itanium
+","ppc , URL: /wiki/PowerPC
+","ppc64 , URL: /wiki/Ppc64
+","sparc32 , URL: /wiki/SPARC
+","sparc64 , URL: /wiki/SPARC
+","hppa , URL: /wiki/PA-RISC
+","loongson , URL: /wiki/Loongson#Linux
+","mips , URL: /wiki/MIPS_architecture
+","sh , URL: /wiki/SuperH
+","s390 , URL: /wiki/IBM_ESA/390
+","s390x , URL: /wiki/Z/Architecture
+","alpha , URL: /wiki/DEC_Alpha
+","m68k , URL: /wiki/Motorola_68000_family
+","riscv , URL: /wiki/RISC-V
 "
 "Alpine Linux , URL: /wiki/Alpine_Linux
-","Binary blobs","ext4","openrc , URL: /wiki/OpenRC
-","none","In progress[85]"
-"ALT Linux , URL: /wiki/ALT_Linux
-","Binary blobs","ext3","systemd , URL: /wiki/Systemd
-","Xfce , URL: /wiki/Xfce
-","No"
+","Yes","Yes","Yes","No","No","Yes","No","No","No","No","No","No","No","Yes","No","No","No"
 "Arch Linux , URL: /wiki/Arch_Linux
-","Binary blobs[86]","none[87]","systemd","Deepin , URL: /wiki/Deepin
-i3 , URL: /wiki/I3_(window_manager)
-LXQt , URL: /wiki/LXQt
-Sway , URL: /wiki/Sway_(window_manager)
-","In progress[89][90]"
+","Unofficial[124] Official discontinued 2017-11-08[125]","Yes","Unofficial[126]","No","Discontinued unofficial port","No","No","No","No","Discontinued. Unofficial port[127]","No","No","No","No","No","No","Unofficial[128]"
+"BackTrack , URL: /wiki/BackTrack
+","Discontinued from BackTrack 5 and superseded by Kali Linux[129]","Discontinued from BackTrack 5 and superseded by Kali Linux","Discontinued from BackTrack 5 and superseded by Kali Linux","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "BLAG , URL: /wiki/BLAG_Linux_and_GNU
-","Linux-libre , URL: /wiki/Linux-libre
-","ext3","sysvinit","GNOME","No"
+","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "Bodhi Linux , URL: /wiki/Bodhi_Linux
-","Binary blobs","ext4","systemd","Enlightenment , URL: /wiki/Enlightenment_(window_manager)
-","No"
-"Canaima , URL: /wiki/Canaima_(operating_system)
-","Binary blobs[86]","?","systemd","Cinnamon , URL: /wiki/Cinnamon_(software)
-MATE , URL: /wiki/MATE_(software)
-","No"
+","Yes","Yes","Discontinued 2013-10-23[130]","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"BOSS Linux , URL: /wiki/BOSS_Linux
+","Yes","Yes","?","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No"
 "CentOS , URL: /wiki/CentOS
-","Binary blobs[86]","xfs","systemd","GNOME","No"
+","AltArch","Yes","AltArch","Discontinued 3.5-3.8 4.1-4.7[131]","Beta, Discontinued 4.0","AltArch","Beta 4.2[131][132]","No","No","No","No","No","Discontinued 3.5-3.8 4.1-4.7[131][133]","Discontinued 3.5-3.8 4.1-4.7[131][133]","Discontinued 4.2-4.3[131][134][135]","No","No"
 "Chakra , URL: /wiki/Chakra_(operating_system)
-","Binary blobs","ext4","systemd","KDE Plasma Workspaces","No"
+","No","Yes","?","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "Clear Linux OS , URL: /wiki/Clear_Linux_OS
-","","","","",""
-"ClearOS , URL: /wiki/ClearOS
-","Binary blobs","ext3","systemd","none (Web based)","No"
-"CoreOS , URL: /wiki/CoreOS
-","Binary blobs","ext4","systemd","None","No"
-"CrunchBang Linux , URL: /wiki/CrunchBang_Linux
-","Binary blobs","ext4","sysvinit","Openbox , URL: /wiki/Openbox
-","No"
-"Damn Small Linux , URL: /wiki/Damn_Small_Linux
-","Binary blobs","ext3","sysvinit","JWM , URL: /wiki/JWM
-","No"
+","?","Yes","?","?","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"CRUX , URL: /wiki/CRUX
+","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "Debian , URL: /wiki/Debian
-","Linux-libre , URL: /wiki/Linux-libre
-","ext4","systemd","KDE , URL: /wiki/KDE
-Xfce , URL: /wiki/Xfce
-LXDE , URL: /wiki/LXDE
-","In progress[93][94]"
+","Yes","Yes 4.0+","Yes 2.2+","Discontinued 3.0-7.0[137]","Discontinued 2.2-8","Yes","Discontinued 2.1-4.0[138]","Discontinued -7[139]","Discontinued 3.0-5.0","Yes","Yes 3.0+","In progress","Discontinued 3.0-7","Yes 7+","Discontinued 2.1-5.0","Discontinued 2.0-3.1","In progress[140]"
 "Devuan , URL: /wiki/Devuan
-","Binary blobs","ext4 , URL: /wiki/Ext4
-","sysvinit , URL: /wiki/Sysvinit
-","Xfce , URL: /wiki/Xfce
-","No"
+","Yes","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "Dragora GNU/Linux-Libre , URL: /wiki/Dragora_GNU/Linux-Libre
-","Linux-libre , URL: /wiki/Linux-libre
-","ext4","runit , URL: /wiki/Runit
-","Xfce","No"
+","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "dyne:bolic , URL: /wiki/Dyne:bolic
-","Linux-libre , URL: /wiki/Linux-libre
-","?","systemd","GNOME","No"
+","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "Fedora , URL: /wiki/Fedora_(operating_system)
-","Binary blobs","btrfs[95]","systemd","Sugar on a Stick , URL: /wiki/Sugar_(software)#Sugar_on_a_Stick
-","In progress[96]"
-"Funtoo , URL: /wiki/Funtoo_Linux
-","Binary blobs","none","openrc","None","No"
+","Discontinued from Fedora 30","Yes","Yes[142]","Discontinued from Fedora 9 [143]","Discontinued from Fedora 17","Yes","No","Inactive from Fedora 12[144]","No","In progress","Inactive from Fedora 13 [145]","No","No","Yes","No","No","In progress[146]"
+"Finnix , URL: /wiki/Finnix
+","Yes","Yes","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No"
 "Gentoo , URL: /wiki/Gentoo_Linux
-","Binary blobs","none","openrc","Awesome , URL: /wiki/Awesome_(window_manager)
-","No"
+","Yes","Yes","Yes[148]","Yes","Yes","Yes","Yes","Yes","Yes","Yes[149]","Yes[150][151]","Yes","Yes","Yes","Yes","Yes","Test release[152]"
 "gNewSense , URL: /wiki/GNewSense
-","Debian Linux kernel, and (unlike Debian) blobs cannot be installed[91]","ext3","sysvinit","GNOME","No"
+","Yes","Yes","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No","No","No"
 "Guix System , URL: /wiki/GNU_Guix
-","Linux-libre , URL: /wiki/Linux-libre
-Hurd , URL: /wiki/GNU_Hurd
-","ext4","GNU Shepherd , URL: /wiki/GNU_Shepherd
-","GNOME, Xfce, MATE, Enlightenment, Openbox, awesome, i3, ratpoison, EXWM","In progress[100][101]"
+","Yes","Yes","limited support for armhf 32-bit and aarch64 64-bit","No","No","No","No","No","No","No","No","No","No","No","No","No","In progress[154]"
 "Hyperbola GNU/Linux-libre , URL: /wiki/Hyperbola_GNU/Linux-libre
-","Linux-libre , URL: /wiki/Linux-libre
-","none","openrc[102]","none","No"
+","Yes","Yes","No","No","No","In progress[155]","No","No","No","No","No","No","No","No","No","No","In progress[156]"
 "Kali Linux , URL: /wiki/Kali_Linux
-","Binary blobs","ext3","systemd","GNOME","No"
-"Knoppix , URL: /wiki/Knoppix
-","Binary blobs","xfs","microknoppix","LXDE","No"
+","Yes","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "LibreCMC , URL: /wiki/LibreCMC
-","Binary blobs","ext4","busybox-init","none","No"
-"Linux Mint , URL: /wiki/Linux_Mint
-","Binary blobs[86]","ext4","systemd , URL: /wiki/Systemd
-","MATE , URL: /wiki/MATE_(desktop_environment)
-Cinnamon , URL: /wiki/Cinnamon_(user_interface)
-KDE 4 , URL: /wiki/KDE_Software_Compilation_4
-XFCE , URL: /wiki/XFCE
-","No"
-"Mageia , URL: /wiki/Mageia
-","Binary blobs","ext4","systemd","KDE Plasma Workspaces, GNOME","No"
-"Mandriva Linux , URL: /wiki/Mandriva_Linux
-","Binary blobs","ext4","systemd","KDE Plasma Workspaces","No"
+","No","No","No","No","No","No","No","No","No","No","XBurst , URL: /wiki/XBurst
+","No","No","No","No","No","No"
 "Manjaro Linux , URL: /wiki/Manjaro_Linux
-","Binary blobs","none[105]","systemd","Xfce , URL: /wiki/Xfce
-KDE , URL: /wiki/KDE
-GNOME , URL: /wiki/GNOME
-","No"
+","Yes Unofficial[157]","Yes","Yes[158]","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "MEPIS , URL: /wiki/MEPIS
-","Binary blobs","ext3, ext4","sysvinit","KDE Plasma Workspaces","No"
+","Yes","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "Musix GNU+Linux , URL: /wiki/Musix_GNU%2BLinux
-","Linux-libre , URL: /wiki/Linux-libre
-","ext4","initscripts","LXDE","No"
+","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "OpenELEC , URL: /wiki/OpenELEC
-","Binary blobs","SquashFS","shell script","XBMC Media Center , URL: /wiki/XBMC_Media_Center
-","No"
+","Yes","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "openSUSE , URL: /wiki/OpenSUSE
-","Binary blobs","btrfs","systemd","KDE Plasma Workspaces, GNOME, Xfce","In progress[108]"
+","No","Yes","v7 64","No","No","ppc64le","No","No","No","No","No","No","No","No","No","No","No"
+"openSUSE , URL: /wiki/OpenSUSE
+","Yes","Yes","v6 v7 64","No","No","Yes","No","No","No","No","No","No","No","Yes","No","No","RV64G"
 "OpenWrt , URL: /wiki/OpenWrt
-","Binary blobs","overlayfs , URL: /wiki/Overlayfs
-SquashFS , URL: /wiki/SquashFS
-JFFS2 , URL: /wiki/JFFS2
-","procd[110]","none","In progress[111]"
+","Yes","Yes","Yes","No","Yes","No","No","No","No","No","Yes","Yes","No","No","No","No","No"
+"Oracle Linux , URL: /wiki/Oracle_Linux
+","Yes","Yes","No","Discontinued 5[161]","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "Parabola GNU/Linux-libre , URL: /wiki/Parabola_GNU/Linux-libre
-","Linux-libre , URL: /wiki/Linux-libre
-","none","openrc or systemd","none","No"
-"Pardus , URL: /wiki/Pardus_(operating_system)
-","Binary blobs","ext4","systemd","KDE Plasma Workspaces","No"
-"Parsix , URL: /wiki/Parsix
-","Binary blobs","ext4","systemd","GNOME","No"
-"PCLinuxOS , URL: /wiki/PCLinuxOS
-","Binary blobs","none","sysvinit","KDE Plasma Workspaces, GNOME, LXDE, Xfce, Enlightenment, Openbox","No"
-"Pentoo , URL: /wiki/Pentoo
-","Binary blobs","SquashFS","openrc","Enlightenment","No"
-"Porteus , URL: /wiki/Porteus_(operating_system)
-","Binary blobs","Squashfs, ext2, ext3, ext4, FAT32, reiser, xfs","sysvinit","KDE, LXDE, Xfce, Openbox, Razor-qt","No"
-"Puppy Linux , URL: /wiki/Puppy_Linux
-","Binary blobs","SquashFS containing ext2","busybox-init","JWM","No"
+","Yes","Yes","Yes, ARMv7[162][163]","No","No","Test release[164]","No","No","No","Discontinued[165]","Discontinued[165]","No","No","No","No","No","Test release[166]"
+"Red Flag Linux , URL: /wiki/Red_Flag_Linux
+","Discontinued 8.0[167]","Discontinued 8.0[167]","No","Discontinued 3[168]","No","Discontinued 3[168]","No","No","No","No","No","No","No","No","No","No","No"
+"Red Hat Linux , URL: /wiki/Red_Hat_Linux
+","Discontinued 9.0","No","No","Discontinued 7.1-7.2","Test release 5.1[170]","No","Discontinued 4.0-4.2 5.1-6.2","Test release 5.1[170]","No","No","Test release 5.1[170]","No","Discontinued 7.2","Yes","Discontinued 2.1-7.1","Test release 5.1[170]","No"
 "Red Hat Enterprise Linux , URL: /wiki/Red_Hat_Enterprise_Linux
-","Binary blobs","xfs","systemd","GNOME","No"
-"Rxart Desktop , URL: /wiki/Pixart
-","Binary blobs","ext3","?","KDE Plasma Workspaces","No"
+","Discontinued 2.1-6[172]","Yes 3+","Yes[173]","Discontinued 2.1-5[174]","Yes 3+","Yes 3+","No","No","No","No","No","No","Discontinued 3-4[175]","Yes 3+","No","No","No"
 "Sabayon Linux , URL: /wiki/Sabayon_Linux
-","Binary blobs","ext4[112]","systemd","KDE Plasma Workspaces, GNOME","No"
+","Discontinued","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "Scientific Linux , URL: /wiki/Scientific_Linux
-","Binary blobs","ext4","sysvinit, systemd[113]","GNOME","No"
+","Yes","Yes","No","Discontinued 3-4","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"SHR , URL: /wiki/SHR_(operating_system)
+","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "Slackware , URL: /wiki/Slackware
-","Binary blobs[86]","ext4, ext3, ext2, reiserfs, brtfs, xfs","RC.d and sysvinit compatible","Blackbox , URL: /wiki/Blackbox
-twm , URL: /wiki/Twm
-","No"
-"Slax , URL: /wiki/Slax
-","Binary blobs","SquashFS","sysvinit","KDE Plasma Workspaces","No"
-"SliTaz GNU/Linux , URL: /wiki/SliTaz_GNU/Linux
-","Binary blobs","ext3","busybox-init","Openbox","No"
+","Yes","Yes","Yes","No","No","No","Discontinued ?[176]","No","No","No","No","No","Discontinued ?[177]","Discontinued ?[177]","Discontinued 8.1[178]","No","No"
 "Solus , URL: /wiki/Solus_(operating_system)
-","Binary blobs","ext4","systemd","Budgie , URL: /wiki/Budgie_(desktop_environment)
-","No"
+","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "Source Mage GNU/Linux , URL: /wiki/Source_Mage_GNU/Linux
-","Binary blobs","ext2","simpleinit-msb","none","No"
-"SteamOS , URL: /wiki/SteamOS
-","Binary blobs","?","systemd","Steam , URL: /wiki/Steam_(service)
-","No"
-"SUSE Linux Enterprise Desktop , URL: /wiki/SUSE_Linux_Enterprise_Desktop
-","Binary blobs[86]","btrfs[114]","systemd","GNOME","No"
-"Tails , URL: /wiki/The_Amnesic_Incognito_Live_System
-","Vanilla Linux[86]","?","systemd","GNOME","Reproducible ISO and USB images[115][116]"
-"Trisquel , URL: /wiki/Trisquel
-","Linux-libre , URL: /wiki/Linux-libre
-","ext4, xfs","systemd , URL: /wiki/Systemd
-","GNOME , URL: /wiki/GNOME
-LXDE , URL: /wiki/LXDE
-","No"
+","Yes","Yes","No","No","Yes","No","No","No","No","?","No","No","No","No","No","No","No"
+"SUSE Linux Enterprise Server , URL: /wiki/SUSE_Linux_Enterprise_Server
+","Yes","Yes","AArch64 only[180]","Yes","Yes","Yes","No","No","No","No","No","No","No","Yes","No","No","No"
+"Trisquel GNU/Linux , URL: /wiki/Trisquel_GNU/Linux
+","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "TurnKey GNU/Linux , URL: /wiki/TurnKey_Linux_Virtual_Appliance_Library
-","Binary blobs","ext4","systemd","Webmin , URL: /wiki/Webmin
-","No"
+","Selected ISOs available","Yes","No - but under development by community","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
 "Ubuntu , URL: /wiki/Ubuntu_(operating_system)
-Edubuntu , URL: /wiki/Edubuntu
-","Binary blobs[86]","ext4[117]","systemd","GNOME , URL: /wiki/GNOME
-","No"
-"Ubuntu GNOME , URL: /wiki/Ubuntu_GNOME
-","Binary blobs","ext4","systemd","GNOME 3","No"
-"Ubuntu MATE , URL: /wiki/Ubuntu_MATE
-","Binary blobs","ext4","systemd","MATE","No"
-"Kubuntu , URL: /wiki/Kubuntu
-","Binary blobs","ext4[117]","systemd","KDE Plasma Workspaces","No"
-"Xubuntu , URL: /wiki/Xubuntu
-","Binary blobs","ext4[117]","systemd","Xfce","No"
-"Lubuntu , URL: /wiki/Lubuntu
-","Binary blobs","ext4","systemd","LXQt","No"
+Kubuntu , URL: /wiki/Kubuntu
+Xubuntu , URL: /wiki/Xubuntu
+Lubuntu , URL: /wiki/Lubuntu
+","Discontinued from Ubuntu 20.04","Yes","ARMv8-A , URL: /wiki/ARMv8-A
+","No","Yes","Yes","No","No","No","No","No","No","No","Ubuntu only, 16.04+[181]","No","No","No"
 "Ututo , URL: /wiki/Ututo
-","Linux-libre , URL: /wiki/Linux-libre
-Linux-libre , URL: /wiki/Linux-libre
-","ext3","systemd","GNOME","No"
-"VectorLinux , URL: /wiki/VectorLinux
-","Binary blobs","ReiserFS","sysvinit","KDE, Openbox, Fluxbox, IceWM, Xfce","No"
+","Yes","Yes","No","No","No","No","No","No","No","In progress","No","No","No","No","No","No","No"
 "Void Linux , URL: /wiki/Void_Linux
-","Binary blobs","none","runit","none","No"
-"Webconverger , URL: /wiki/Webconverger
-","Binary blobs","gitfs","sysvinit","dwm , URL: /wiki/Dwm
-","No"
-"XBMC Live , URL: /wiki/XBMC_Live
-","Binary blobs","ext3","systemd , URL: /wiki/Systemd
-","XBMC Media Center , URL: /wiki/XBMC_Media_Center
-","No"
-"Zentyal , URL: /wiki/Zentyal
-","Binary blobs","ext4","systemd","LXDE","No"
-"Zenwalk , URL: /wiki/Zenwalk
-","Binary blobs","ext4","sysvinit","Xfce","No"
-"Distribution","Default Linux kernel","Default file system","Default init system","Install-time desktop environment or window manager selection","Reproducible builds , URL: /wiki/Reproducible_builds
-"
+","Yes","Yes","Yes","No","Unofficial[182]","Unofficial[182]","No","No","No","No","No","No","No","No","No","No","No"
+"XBMCbuntu , URL: /wiki/XBMC#XBMCbuntu
+","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"Yellow Dog Linux , URL: /wiki/Yellow_Dog_Linux
+","No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No"
+"Distribution","x86","x86-64","arm","ia64","ppc","ppc64","sparc32","sparc64","hppa","loongson","mips","sh","s390","s390x","alpha","m68k","riscv"

@@ -1,31 +1,36 @@
-"ADC client","GUI , URL: /wiki/Graphical_user_interface
-","CLI , URL: /wiki/Command-line_interface
-","WebUI , URL: /wiki/Web_user_interface
-","Programming language , URL: /wiki/Programming_language
-","Based on"
-"AirDC++","Yes","No","Yes","C++ , URL: /wiki/C%2B%2B
-","StrongDC++"
-"AirDC++ Web Client","No","No","Yes","TypeScript , URL: /wiki/TypeScript
-","AirDC++"
-"ApexDC++","Yes","No","No","Lua , URL: /wiki/Lua_(programming_language)
-","StrongDC++"
+"ADC client","Magnet URI , URL: /wiki/Magnet_URI
+","UPnP , URL: /wiki/UPnP
+","NAT traversal , URL: /wiki/NAT_traversal
+","DHT , URL: /wiki/Distributed_hash_table
+","Encryption , URL: /wiki/Encryption
+","IPv6 , URL: /wiki/IPv6
+","Plugin , URL: /wiki/Plug-in_(computing)
+API , URL: /wiki/Application_programming_interface
+","Proxy , URL: /wiki/Proxy_server
+","Hash algorithms","Protocol support","NMDC compatible","Other"
+"AirDC++","Yes","Yes","Yes","No","Yes","Yes","Web API , URL: /wiki/Web_API
+","Yes","Tiger tree hash , URL: /wiki/Tiger_tree_hash
+","TIGR, ADCS, UCMD, BLOM, NATT, SEGA, PFSR, KEYP, PBD1, UBN1, MCN1, SUDP, QP, HBRI, ASCH","Yes",""
+"AirDC++ Web Client","Yes","Yes","Yes","No","Yes","Yes","Web API , URL: /wiki/Web_API
+","Yes","Tiger tree hash","Inherits from AirDC++","Yes",""
+"ApexDC++","Yes","Yes","Yes","Yes","Yes","No","C++ , URL: /wiki/C%2B%2B
+Lua , URL: /wiki/Lua_(programming_language)
+","Yes","Tiger tree hash","Inherits from StrongDC++","Yes",""
 "DC++ , URL: /wiki/DC%2B%2B
-","Yes","No","No","C++",""
-"Jucy","Yes","No","No","Java , URL: /wiki/Java_(programming_language)
-",""
-"LinuxDC++","Yes","No","No","C++","DC++ , URL: /wiki/DC%2B%2B
-"
-"EiskaltDC++","Yes","Yes","Yes","C++, Lua","DC++ , URL: /wiki/DC%2B%2B
-"
+","Yes","Yes","Yes","No","Yes","Yes","C++ , URL: /wiki/C%2B%2B
+Lua , URL: /wiki/Lua_(programming_language)
+","Yes","Tiger tree hash","TIGR, ADCS, UCMD, BLOM, NATT, SEGA","Yes",""
+"jucy","Yes","Yes","No","No","Yes","Yes","Eclipse RCP , URL: /wiki/Eclipse_RCP#RCP
+","Yes","Tiger tree hash","TIGR, ADCS, UCMD, BLOM, KEYP, SUDP","Yes",""
+"LinuxDC++","Yes","Yes","No","No","Yes","No","No","Yes","Tiger tree hash","Inherits from DC++","Yes",""
+"EiskaltDC++","Yes","Yes","Yes","Yes","Yes","No","Lua , URL: /wiki/Lua_(programming_language)
+QtScript , URL: /wiki/QtScript
+QML , URL: /wiki/QML
+","Yes","Tiger tree hash","TIGR, ADCS, UCMD, BLOM, NATT, SEGA, PFSR, KEYP, FS","Yes",""
 "FlylinkDC++ , URL: /wiki/FlylinkDC%2B%2B
-","Yes","No","Yes","C++","DC++ , URL: /wiki/DC%2B%2B
-"
-"RSX++","Yes","No","No","C++, Lua","StrongDC++"
-"TKDC++","Yes","No","No","C++, Lua","DC++ , URL: /wiki/DC%2B%2B
-"
-"StrongDC++","Yes","No","No","C++","DC++ , URL: /wiki/DC%2B%2B
-"
-"ncdc","No","Yes","No","C , URL: /wiki/C_(programming_language)
-",""
-"ADC client","GUI","CLI","WebUI , URL: /wiki/Web_user_interface
-","Programming language","Based on"
+","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Tiger tree hash","Inherits from StrongDC++","Yes",""
+"RSX++","Yes","Yes","No","Yes","Yes","No","C++, Lua","Yes","Tiger tree hash","Inherits from StrongDC++","Yes",""
+"TKDC++","Yes","Yes","Yes","No","Yes","No","C++, Lua","Yes","Tiger tree hash","TIGR, ADCS, UCMD, BLOM, NATT, SEGA, PFSR","Yes",""
+"StrongDC++","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Tiger tree hash","TIGR, ADCS, UCMD, BLOM, NATT, SEGA, PFSR, QP","Yes",""
+"ncdc","No","No","No","No","Yes","Yes","No","No","Tiger tree hash","TIGR, ADCS, KEYP, SUDP","Yes",""
+"ADC client","Magnet URI","UPnP","NAT traversal","DHT","Encryption","IPv6","Plugin","Proxy","Hash algorithms","Protocol support","NMDC compatible","Other"

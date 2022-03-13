@@ -1,65 +1,22 @@
-"Format","Languages"
-"name[first:last]","ALGOL 68 , URL: /wiki/ALGOL_68
-Julia , URL: /wiki/Julia_(programming_language)
+"Language/ Library","Create","Determinant , URL: /wiki/Determinant
+","Transpose , URL: /wiki/Transpose
+","Element","Column","Row","Eigenvalues , URL: /wiki/Eigenvalues
 "
-"name[first+(⍳len)-⎕IO]","APL , URL: /wiki/APL_(programming_language)
-"
-"name[first:end:step]","Python , URL: /wiki/Python_(programming_language)
-"
-"name[first:end]","Go , URL: /wiki/Go_(programming_language)
-"
-"name[first..last]","Pascal , URL: /wiki/Pascal_(programming_language)
-Object Pascal , URL: /wiki/Object_Pascal
-Delphi , URL: /wiki/Delphi_(programming_language)
-Nim , URL: /wiki/Nim_(programming_language)
-"
-"$name[first..last]","Windows PowerShell , URL: /wiki/Windows_PowerShell
-"
-"@name[first..last]","Perl , URL: /wiki/Perl
-"
-"name[first..last] name[first...end] name[first, len]","Ruby , URL: /wiki/Ruby_(programming_language)
-"
-"copy/part skip name first len","Red , URL: /wiki/Red_(programming_language)
-"
-"name(first..last)","Ada , URL: /wiki/Ada_(programming_language)
-"
-"name(first:last)","Fortran , URL: /wiki/Fortran
-GNU Octave , URL: /wiki/GNU_Octave
-MATLAB , URL: /wiki/MATLAB
-"
-"name[[first;;last;;step]]","Mathematica , URL: /wiki/Mathematica
+"APL , URL: /wiki/APL_(programming_language)
+","m←dims⍴x11 x12 ...","-.×m","⍉m","m[i;j] or i j⌷m","m[;j] or j⌷[2]m or j⌷⍤1⊢m or j⌷⍉m","m[i;] or i⌷m","⌹⍠1⊢m"
+"Fortran , URL: /wiki/Fortran
+","m = RESHAPE([x11, x12, ...], SHAPE(m))","","TRANSPOSE(m)","m(i,j)","m(:,j)","m(i,:)",""
+"Ch , URL: /wiki/Ch_(computer_programming)
+","m = {...}","determinant(m)","transpose(m)","m[i-1][j-1]","shape(m,0)","shape(m,1)","eigen(output, m, NULL)"
+"Mathematica , URL: /wiki/Mathematica
 Wolfram Language , URL: /wiki/Wolfram_Language
-"
-"name[[first:last]]","S-Lang , URL: /wiki/S-Lang_(programming_library)
-"
-"name.[first..step..last]","F# , URL: /wiki/F_Sharp_(programming_language)
-"
-"name.slice(first, end)","Haxe , URL: /wiki/Haxe
-JavaScript , URL: /wiki/JavaScript
-Scala , URL: /wiki/Scala_(programming_language)
-"
-"name.slice(first, len)","CFML , URL: /wiki/CFML
-"
-"array_slice(name, first, len)","PHP , URL: /wiki/PHP
-"
-"(subseq name first end)","Common Lisp , URL: /wiki/Common_Lisp
-"
-"(subseq name first end)","ISLISP , URL: /wiki/ISLISP
-"
-"Array.sub name first len","OCaml , URL: /wiki/OCaml
-"
-"[name subarrayWithRange:NSMakeRange(first, len)]","Objective-C , URL: /wiki/Objective-C
-"
-"(first([+i.@(-~)end){name","J , URL: /wiki/J_(programming_language)
-"
-"name[first..<end] name[first...last]","Swift , URL: /wiki/Swift_(programming_language)
-"
-"name copyFrom: first to:last name copyFrom: first count:len","Smalltalk , URL: /wiki/Smalltalk
-"
-"name[first..end]","D , URL: /wiki/D_(programming_language)
-C# , URL: /wiki/C_sharp_(programming_language)
-"
-"name[first..end] name[first..=last]","Rust , URL: /wiki/Rust_(programming_language)
-"
-"name[first:end]","Cobra , URL: /wiki/Cobra_(programming_language)
-"
+","{{x11, x12, ...}, ...}","Det[m]","Transpose[m]","m[[i,j]]","m[[;;,j]]","m[[i]]","Eigenvalues[m]"
+"MATLAB , URL: /wiki/MATLAB
+GNU Octave , URL: /wiki/GNU_Octave
+","m = [...]","det(m)","m.'","m(i,j)","m(:,j)","m(i,:)","eig(m)"
+"NumPy , URL: /wiki/NumPy
+","m = mat(...)","linalg.det(m)","m.T","m[i-1,j-1]","m[:,j-1]","m[i-1,:]","linalg.eigvals(m)"
+"S-Lang , URL: /wiki/S-Lang
+","m = reshape([x11, x12, ...], [new-dims])","","m = transpose(m)","m[i,j]","m[*,j]","m[j,*]",""
+"SymPy , URL: /wiki/SymPy
+","m = Matrix(...)","","m.T","m[i-1,j-1]","","",""

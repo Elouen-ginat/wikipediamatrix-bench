@@ -1,33 +1,88 @@
-"Engine","Status","Embedded in"
-"WebKit , URL: /wiki/WebKit
-","Active","Safari , URL: /wiki/Safari_(web_browser)
-iOS , URL: /wiki/IOS
-App Store , URL: /wiki/App_Store_(iOS)
-"
-"Blink , URL: /wiki/Blink_(browser_engine)
-","Active","Google Chrome , URL: /wiki/Google_Chrome
-Chromium , URL: /wiki/Chromium_(web_browser)
-Microsoft Edge , URL: /wiki/Microsoft_Edge
-Opera , URL: /wiki/Opera_(web_browser)
-Brave , URL: /wiki/Brave_(web_browser)
-"
-"EdgeHTML , URL: /wiki/EdgeHTML
-","Maintained","Universal Windows Platform , URL: /wiki/Universal_Windows_Platform
-"
-"Gecko , URL: /wiki/Gecko_(software)
-","Active","Firefox , URL: /wiki/Firefox
-Thunderbird , URL: /wiki/Mozilla_Thunderbird
-forks , URL: /wiki/Fork_(software_development)
-SeaMonkey , URL: /wiki/SeaMonkey
-Waterfox , URL: /wiki/Waterfox
-"
-"KHTML , URL: /wiki/KHTML
-","Active","Konqueror , URL: /wiki/Konqueror
-"
-"Presto , URL: /wiki/Presto_(browser_engine)
-","Discontinued","Opera , URL: /wiki/Opera_(web_browser)
-"
-"MSHTML , URL: /wiki/MSHTML
-","Maintained","Internet Explorer , URL: /wiki/Internet_Explorer
-Microsoft Outlook , URL: /wiki/Microsoft_Outlook
-"
+"","","","MSHTML , URL: /wiki/MSHTML
+","EdgeHTML , URL: /wiki/EdgeHTML
+","Gecko , URL: /wiki/Gecko_(software)
+","WebKit , URL: /wiki/WebKit
+","KHTML , URL: /wiki/KHTML
+","Presto , URL: /wiki/Presto_(browser_engine)
+","","",""
+"CSS2","!important","Weight increasing","7.0 , URL: #trident-important-bug
+","12","1.0","85","Yes","1.0","","",""
+"CSS2","/*Comment*/","Comments","3.0","12","1.0","85","Yes","1.0","","",""
+"CSS2","@import","Import stylesheet","8.0 , URL: #trident-import-bug
+","12","1.0","Yes","Yes","1.0 , URL: #presto_at-import
+","","",""
+"CSS2","@charset","Character set","5.5","12","1.0","Yes","4.2.3","1.0","","",""
+"CSS2","@media","Media-specific rules","5.5","12","1.0","Yes","Yes","1.0","","",""
+"css- namespace-3 , URL: https://www.w3.org/TR/css-namespaces-3/
+","@namespace","Namespace declaration","9.0[t 1]","12","1.0","Yes","Yes","1.0","","",""
+"css3- conditional , URL: https://www.w3.org/TR/2012/WD-css3-conditional-20120911/
+","@document","Restriction by URLs","No","No","6.0","No","No","No","","",""
+"css- animations-1 , URL: https://www.w3.org/TR/css-animations-1/
+","@keyframes","Animation key","10.0[t 2]","12","16.0","Experimental","No","2.12","","",""
+"css- conditional-3 , URL: https://www.w3.org/TR/css-conditional-3/
+","@supports","Conditional Rules","No","12","22.0[g 1]","28.0[w 1]","No","2.12","","",""
+"css-counter- styles-3 , URL: https://www.w3.org/TR/css-counter-styles-3/
+","@counter-style","Custom Counter Styles","No","No","33.0[g 2]","No","No","No","","",""
+"css-device- adapt-1 , URL: https://www.w3.org/TR/css-device-adapt-1/
+","@viewport","Viewport, Device Adaptation","10.0[t 3]","12.0","No[w 2]","No","No","2.7.62[p 1]","","",""
+"filter- effects-1 , URL: http://www.w3.org/TR/2013/WD-filter-effects-1-20131126/
+","@filter","Filter","No","No","35.0","Experimental","No","No","","",""
+"Page","Page","Page","Page","Page","Page","Page","Page","Page","Page","Page","Page"
+"CSS2","@page","For paged media","8.0","12","19.0[g 3]","Nightly Build , URL: #webcore_-webkit-
+","No","1.0","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@top-left-corner","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@top-left","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@top-center","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@top-right","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@top-right-corner","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@bottom-left-corner","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@bottom-left","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@bottom-center","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@bottom-right","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@bottom-right-corner","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@left-top","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@left-middle","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@left-bottom","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@right-top","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@right-middle","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"css-page-3 , URL: https://www.w3.org/TR/css-page-3/
+","@right-bottom","Margin boxes[spec 3]","No","No","No","No[w 4]","No","No","","",""
+"Font","Font","Font","Font","Font","Font","Font","Font","Font","Font","Font","Font"
+"css-fonts-3 , URL: https://www.w3.org/TR/css-fonts-3/
+","@font-face","Define font","9.0[t 4]","12","1.9.1","525","4.3","2.2","","",""
+"css-fonts-3 , URL: https://www.w3.org/TR/css-fonts-3/
+","@font-feature-values","Define font features","No","No","34.0","No","No","No","","",""
+"css-fonts-3 , URL: https://www.w3.org/TR/css-fonts-3/
+","@annotation","Font feature value block","No","No","34.0","No","No","No","","",""
+"css-fonts-3 , URL: https://www.w3.org/TR/css-fonts-3/
+","@styleset","Font feature value block","No","No","34.0","No","No","No","","",""
+"css-fonts-3 , URL: https://www.w3.org/TR/css-fonts-3/
+","@swash","Font feature value block","No","No","34.0","No","No","No","","",""
+"css-fonts-3 , URL: https://www.w3.org/TR/css-fonts-3/
+","@ornaments","Font feature value block","No","No","34.0","No","No","No","","",""
+"css-fonts-3 , URL: https://www.w3.org/TR/css-fonts-3/
+","@stylistic","Font feature value block","No","No","34.0","No","No","No","","",""
+"css-fonts-3 , URL: https://www.w3.org/TR/css-fonts-3/
+","@character-variant","Font feature value block","No","No","34.0","No","No","No","","",""
+"","","","MSHTML , URL: /wiki/MSHTML
+","EdgeHTML , URL: /wiki/EdgeHTML
+","Gecko , URL: /wiki/Gecko_(software)
+","WebKit , URL: /wiki/WebKit
+","KHTML , URL: /wiki/KHTML
+","Presto , URL: /wiki/Presto_(browser_engine)
+","","",""

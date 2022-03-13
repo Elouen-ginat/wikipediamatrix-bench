@@ -1,18 +1,34 @@
 "","MSHTML , URL: /wiki/MSHTML
+","EdgeHTML , URL: /wiki/EdgeHTML
 ","Gecko , URL: /wiki/Gecko_(software)
 ","WebKit , URL: /wiki/WebKit
 ","Presto , URL: /wiki/Presto_(browser_engine)
 "
-"Microdata , URL: /wiki/Microdata_(HTML5)
-","No","16.0[g 67]","No[w 53]","Yes[p 17]"
-"HTML5 Tokenizer","6.0[t 33]","2.0[g 68]","Yes[w 54]","2.10[p 18]"
-"HTML5 Tree Builder","6.0[t 33]","2.0[g 68]","","2.10[p 18]"
-"HTML5 Fragment Parser","6.0[t 33]","2.0[g 68]","","2.10[p 18]"
-"<a rel="noreferrer">","No","33.0[g 69]","Yes[w 55]","No"
-"window.onhashchange","4.0[t 34]","1.9.2[g 70]","528[w 56]","2.6[p 19]"
-"element.classList","No","1.9.2[g 71]","Yes[w 57]","2.8[p 11]"
-"dir="auto"","No","20.0[g 72]","528+[w 58]","No"
+"main element[30]","No","12","21.0[g 76]","Yes[w 60]","No"
+"template element[31]","No","13","No","Yes[w 61]","No"
+"Selectors API[32]","4.0[t 36]","12","1.9.1[g 77]","525[w 62]","2.2[p 20]"
+"Web Storage , URL: /wiki/Web_Storage
+","4.0","12","1.9.1[g 78]","525","2.5[p 21]"
+"Indexed Database API , URL: /wiki/Indexed_Database_API
+","5.0[t 37]","12","16.0[g 79]","Partial","No"
+"Web SQL Database , URL: /wiki/Web_SQL_Database
+","No","No","No[g 80]","Yes[w 63]","2.5[p 21]"
+"File API[36]","5.0","12","Yes[g 81]","Yes[w 64][w 65]","2.8[p 22]"
+"File API: Writer[37]","5.0","No","No[g 82]","Partial[w 66]","No"
+"File API: Directories and System[38]","No","No","No[g 83]","Yes[w 67]","No"
+"Media Capture API[39]","No","No","2.0[j]","No","2.10[p 23]"
+"Server-sent events , URL: /wiki/Server-sent_events
+","No","No","6.0[g 85]","Yes[w 68]","2.7[p 24][p 25]"
+"WebSocket , URL: /wiki/WebSocket
+","6.0[t 38]","12","11.0[g 86]","533","2.11[k]"
+"Web Workers , URL: /wiki/Web_Workers
+","6.0[t 39]","12","1.9.1[g 87]","Yes","2.6[p 8][p 9]"
+"Geolocation API , URL: /wiki/W3C_Geolocation_API
+","5.0[t 40]","12","1.9.1[g 88]","533[w 69]","2.6[l]"
+"Offline Web applications[45]","6.0[t 41]","12","1.9.1[g 89]","Yes","2.6[p 8][p 9]"
+"Web Notifications[46]","No","No","22.0[47][48]","only in Chrome[49]","25"
 "","MSHTML , URL: /wiki/MSHTML
+","EdgeHTML , URL: /wiki/EdgeHTML
 ","Gecko , URL: /wiki/Gecko_(software)
 ","WebKit , URL: /wiki/WebKit
 ","Presto , URL: /wiki/Presto_(browser_engine)

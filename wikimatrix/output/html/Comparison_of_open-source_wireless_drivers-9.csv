@@ -1,88 +1,17 @@
-"Driver","Chipset","Integration","Free firmware[note 2]","License","Development","Free software , URL: /wiki/Free_software
-"
-"ath , URL: https://archive.today/20051124094349/http://www.opensolaris.org/os/community/laptop/wireless/ath/
-","Atheros , URL: /wiki/Atheros
-","Integrated with Solaris Nevada build 29","No firmware required[3]","GPL , URL: /wiki/GPL
-BSD , URL: /wiki/BSD
-","Port of Madwifi","No"
-"ipw , URL: https://archive.today/20051214023112/http://www.opensolaris.org/os/community/laptop/wireless/ipw/
+"Driver","Chipset","Free firmware[note 2]","License","Development"
+"IWIDarwin , URL: https://code.google.com/p/iwidarwin
 ","Intel , URL: /wiki/Intel
-","Community project","No","BSD , URL: /wiki/BSD
-","OpenBSD , URL: /wiki/OpenBSD
-","Yes"
-"iwi , URL: https://archive.today/20060213195115/http://www.opensolaris.org/os/community/laptop/wireless/iwi/
-","Intel , URL: /wiki/Intel
-","Community project","No","BSD , URL: /wiki/BSD
-","OpenBSD , URL: /wiki/OpenBSD
-","Yes"
-"pcan , URL: https://web.archive.org/web/20060523022050/http://www.opensolaris.org/os/community/laptop/wireless/pcan/
-","Cisco , URL: /wiki/Cisco
-","Community project","N/A","BSD , URL: /wiki/BSD
-","FreeBSD , URL: /wiki/FreeBSD
-","Yes"
-"pcwl , URL: https://archive.today/20060523022104/http://www.opensolaris.org/os/community/laptop/wireless/pcwl/
+","No","GPL , URL: /wiki/GPL
+","Port from Linux"
+"WirelessDriver , URL: http://wirelessdriver.sourceforge.net/
 ","Lucent , URL: /wiki/Lucent
 Agere Systems , URL: /wiki/Agere_Systems
 ORiNOCO , URL: /wiki/ORiNOCO
 Intersil , URL: /wiki/Intersil
 PRISM , URL: /wiki/PRISM_(chipset)
-","Community project","N/A","BSD , URL: /wiki/BSD
-","FreeBSD , URL: /wiki/FreeBSD
-","Yes"
-"ral , URL: https://web.archive.org/web/20061013131629/http://opensolaris.org/os/community/laptop/wireless/ral/
-","Ralink , URL: /wiki/Ralink
-","Community project","N/A","BSD , URL: /wiki/BSD
-","OpenBSD , URL: /wiki/OpenBSD
-","Yes"
-"rtw , URL: https://archive.today/20070127022247/http://www.opensolaris.org/os/community/laptop/wireless/rtw/
-","Realtek , URL: /wiki/Realtek
-","Community project","N/A","BSD , URL: /wiki/BSD
-","NetBSD , URL: /wiki/NetBSD
-","Yes"
-"malo , URL: https://archive.today/20070422195703/http://www.opensolaris.org/os/community/laptop/wireless/malo/
-","Marvell , URL: /wiki/Marvell_Technology_Group
-","Community project","N/A","BSD , URL: /wiki/BSD
-","OpenBSD , URL: /wiki/OpenBSD
-","Yes"
-"wpi , URL: https://web.archive.org/web/20070616170447/http://www.opensolaris.org/os/community/laptop/wireless/wpi/
-","Intel , URL: /wiki/Intel
-","Community project","No","BSD , URL: /wiki/BSD
-","OpenBSD , URL: /wiki/OpenBSD
-","Yes"
-"iwk , URL: https://web.archive.org/web/20080420130600/http://opensolaris.org/os/community/laptop/wireless/iwk/
-","Intel , URL: /wiki/Intel
-","Community project","No","BSD , URL: /wiki/BSD
-","OpenBSD , URL: /wiki/OpenBSD
-","Yes"
-"arn , URL: https://archive.today/20090403214123/http://www.opensolaris.org/os/community/laptop/wireless/arn/
-","Atheros , URL: /wiki/Atheros
-","Community project","No","BSD , URL: /wiki/BSD
-","based on ath9k","Yes"
-"rwd , URL: https://archive.today/20090704031328/http://www.opensolaris.org/os/community/laptop/wireless/rwd/
-","Ralink , URL: /wiki/Ralink
-","Community project","No","BSD , URL: /wiki/BSD
-","","Yes"
-"rwn , URL: https://archive.today/20090226214405/http://www.opensolaris.org/os/community/laptop/wireless/rwn/
-","Ralink , URL: /wiki/Ralink
-","Community project","No","BSD , URL: /wiki/BSD
-","","Yes"
-"urtw , URL: https://web.archive.org/web/20090118183541/http://opensolaris.org/os/community/laptop/wireless/urtw/
-","Realtek , URL: /wiki/Realtek
-","Community project","No","BSD , URL: /wiki/BSD
-","","Yes"
-"atu , URL: https://archive.today/20090323055125/http://www.opensolaris.org/os/community/laptop/wireless/atu/
-","Atmel , URL: /wiki/Atmel
-","Community project","No","BSD , URL: /wiki/BSD
-","","Yes"
-"mwl , URL: https://archive.today/20091031021454/http://www.opensolaris.org/os/community/laptop/wireless/mwl/
-","Marvell , URL: /wiki/Marvell_Technology_Group
-","Community project","No","BSD , URL: /wiki/BSD
-","","Yes"
-"ural , URL: https://web.archive.org/web/20080420070154/http://opensolaris.org/os/community/laptop/wireless/ural/
-","Ralink , URL: /wiki/Ralink
-","Community project","No","BSD , URL: /wiki/BSD
-","","Yes"
-"zyd , URL: https://web.archive.org/web/20080420070427/http://opensolaris.org/os/community/laptop/wireless/zyd/
-","ZyDAS ZD1211 chipsets","Community project","Yes","BSD , URL: /wiki/BSD
-","OpenBSD , URL: /wiki/OpenBSD
-","Yes"
+","N/A","BSD , URL: /wiki/BSD
+",""
+"GTdriver , URL: http://gtdriver.binaervarianz.de/
+","PRISM , URL: /wiki/PRISM_(chipset)
+","N/A","GPL , URL: /wiki/GPL
+",""

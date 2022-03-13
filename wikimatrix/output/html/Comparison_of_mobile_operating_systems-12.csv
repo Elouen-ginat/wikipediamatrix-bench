@@ -23,7 +23,7 @@ Control Center , URL: /wiki/Control_Center_(iOS)
 "Search multiple internal apps at once","Yes","Yes","Yes","No[314]","Yes"
 "Settings search","LineageOS , URL: /wiki/LineageOS
 ","9+[316]","No","No","Yes"
-"Search all fields of internal objects","Only search Contacts name field but not any other field[317]","6+[318]","Only searches contacts by name","First name, last name, nickname, also the multiple field called "Details"[319]|?",""
+"Search all fields of internal objects","Only search Contacts name field but not any other field[317]","6+[318]","Only searches contacts by name","First name, last name, nickname, also the multiple field called ""Details""[319]|?",""
 "Core apps missing search","HTC Sense , URL: /wiki/HTC_Sense
 ","Bookmarks[321]","?","?","?"
 "Phone number links to dialer","Available in stock Android, but not all devices enable it.[322]","Yes","Yes, but not in browser","Yes","Yes"

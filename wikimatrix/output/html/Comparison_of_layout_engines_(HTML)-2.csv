@@ -1,33 +1,23 @@
-"Engine","Status","Embedded in"
-"WebKit , URL: /wiki/WebKit
-","Active","Safari , URL: /wiki/Safari_(web_browser)
-iOS , URL: /wiki/IOS
-App Store , URL: /wiki/App_Store_(iOS)
+"","MSHTML , URL: /wiki/MSHTML
+","Gecko , URL: /wiki/Gecko_(software)
+","WebKit , URL: /wiki/WebKit
+","KHTML , URL: /wiki/KHTML
+","Presto , URL: /wiki/Presto_(browser_engine)
 "
-"Blink , URL: /wiki/Blink_(browser_engine)
-","Active","Google Chrome , URL: /wiki/Google_Chrome
-Chromium , URL: /wiki/Chromium_(web_browser)
-Microsoft Edge , URL: /wiki/Microsoft_Edge
-Opera , URL: /wiki/Opera_(web_browser)
-Brave , URL: /wiki/Brave_(web_browser)
-"
-"EdgeHTML , URL: /wiki/EdgeHTML
-","Maintained","Universal Windows Platform , URL: /wiki/Universal_Windows_Platform
-"
-"Gecko , URL: /wiki/Gecko_(software)
-","Active","Firefox , URL: /wiki/Firefox
-Thunderbird , URL: /wiki/Mozilla_Thunderbird
-forks , URL: /wiki/Fork_(software_development)
-SeaMonkey , URL: /wiki/SeaMonkey
-Waterfox , URL: /wiki/Waterfox
-"
-"KHTML , URL: /wiki/KHTML
-","Active","Konqueror , URL: /wiki/Konqueror
-"
-"Presto , URL: /wiki/Presto_(browser_engine)
-","Discontinued","Opera , URL: /wiki/Opera_(web_browser)
-"
-"MSHTML , URL: /wiki/MSHTML
-","Maintained","Internet Explorer , URL: /wiki/Internet_Explorer
-Microsoft Outlook , URL: /wiki/Microsoft_Outlook
-"
+"Basic structure","Basic structure","Basic structure","Basic structure","Basic structure","Basic structure"
+"html","<3.1[IE 5.0]","Yes","Yes","Yes","1.0"
+"head","<3.1[IE 4.0]","Yes","Yes","Yes","1.0"
+"body","<3.1[IE 4.0]","Yes","Yes","Yes","1.0"
+"Metadata","Metadata","Metadata","Metadata","Metadata","Metadata"
+"title","<3.1[IE 4.0]","1.0","Yes","Yes","1.0"
+"meta","<3.1[IE 4.0]","1.0","Yes","Yes","1.0"
+"Headings","Headings","Headings","Headings","Headings","Headings"
+"h1","<3.1[IE 4.0]","1.0","Yes","Yes","1.0"
+"h2","<3.1[IE 4.0]","1.0","Yes","Yes","1.0"
+"h3","<3.1[IE 4.0]","1.0","Yes","Yes","1.0"
+"h4","<3.1[IE 4.0]","1.0","Yes","Yes","1.0"
+"h5","<3.1[IE 4.0]","1.0","Yes","Yes","1.0"
+"h6","<3.1[IE 4.0]","1.0","Yes","Yes","1.0"
+"Grouping elements","Grouping elements","Grouping elements","Grouping elements","Grouping elements","Grouping elements"
+"div","<3.1[IE 4.0]","1.0","Yes","Yes","1.0"
+"span","<3.1[IE 4.0]","1.0","Yes","Yes","1.0"

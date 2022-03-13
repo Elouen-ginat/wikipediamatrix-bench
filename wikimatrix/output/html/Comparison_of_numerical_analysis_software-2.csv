@@ -1,73 +1,238 @@
-"","Windows , URL: /wiki/Microsoft_Windows
-","macOS , URL: /wiki/MacOS
-","Linux , URL: /wiki/Linux
-","BSD , URL: /wiki/Berkeley_Software_Distribution
-","Unix , URL: /wiki/Unix
-","DOS , URL: /wiki/DOS
-","Android , URL: /wiki/Android_(operating_system)
-","SaaS , URL: /wiki/Software_as_a_service
-"
-"ADMB , URL: /wiki/ADMB
-","Yes","Yes","Yes","No","No","No","No","No"
+"","executables , URL: /wiki/Executable
+","Symbolic computation , URL: /wiki/Symbolic_computation
+","OOP , URL: /wiki/Object-oriented_programming
+","GUI , URL: /wiki/Graphical_user_interface
+","Multi-dimensional arrays , URL: /wiki/Array_data_type#Multi-dimensional_arrays
+primitive data type , URL: /wiki/Primitive_data_type
+","Centralized extension library website","Can call code in other languages","Can be called from other languages"
 "Analytica , URL: /wiki/Analytica_(software)
-","Yes","No","No","No","No","No","No","No"
-"Ch , URL: /wiki/Ch_(computer_programming)
-","Yes","Yes","Yes","Yes","Yes","No","No","No"
+","No","No","Yes","Yes","Yes","Yes","COM , URL: /wiki/Component_Object_Model
+Excel , URL: /wiki/Microsoft_Excel
+","Excel , URL: /wiki/Microsoft_Excel
+COM , URL: /wiki/Component_Object_Model
+.NET , URL: /wiki/.NET_Framework
+"
 "Dyalog APL , URL: /wiki/Dyalog_APL
-","Yes","Yes","Yes","No","Yes","No[Note 4]","No","No"
-"DADiSP , URL: /wiki/DADiSP
-","Yes","No","No","No","Yes","No","No","No"
-"Euler Math Toolbox , URL: /wiki/Euler_(software)
-","Yes","No","Yes","No","No","No","No","No"
-"FlexPro , URL: /wiki/FlexPro
-","Yes","No","No","No","No","No","No","No"
-"FreeMat , URL: /wiki/FreeMat
-","Yes","Yes","Yes","Yes","Yes","No","No","No"
-"GAUSS , URL: /wiki/GAUSS_(software)
-","Yes","Yes","Yes","No","Yes","No","No","No"
+","Yes[12]","Yes","Yes[13]","Win32 , URL: /wiki/Win32
+.NET , URL: /wiki/.NET_Framework
+WPF , URL: /wiki/Windows_Presentation_Foundation
+HTML/JS , URL: /wiki/JavaScript
+","Yes","Yes","COM , URL: /wiki/Component_Object_Model
+.NET , URL: /wiki/.NET_Framework
+WebServices , URL: /wiki/Web_service
+Shared Libraries , URL: /wiki/Library_(computing)
+DLLs , URL: /wiki/Dynamic-link_library
+NAG , URL: /wiki/NAG_Numerical_Library
+R , URL: /wiki/R_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+","COM , URL: /wiki/Component_Object_Model
+.NET , URL: /wiki/.NET_Framework
+WebServices , URL: /wiki/Web_service
+"
 "GNU Data Language , URL: /wiki/GNU_Data_Language
-","Yes","Yes","Yes","Yes","Yes","No","No","No"
+","No","No","Yes","GUI Widgets since v.0.9 but still incomplete","Yes","No","C , URL: /wiki/C_(programming_language)
+Python , URL: /wiki/Python_(programming_language)
+","Python , URL: /wiki/Python_(programming_language)
+"
 "GNU MCSim , URL: /wiki/MCSim
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","No","No","XMCSim with TCL/TK and wish","No","No","C , URL: /wiki/C_(programming_language)
+","R , URL: /wiki/R_(programming_language)
+"
 "GNU Octave , URL: /wiki/GNU_Octave
-","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
-"IGOR Pro , URL: /wiki/IGOR_Pro
-","Yes","Yes","No","No","No","No","No","No"
+","Yes with mkoctfile","GiNaC , URL: /wiki/GiNaC
+SymPy , URL: /wiki/SymPy
+","Yes[15]","Yes","Yes","Yes[16]","C++ , URL: /wiki/C%2B%2B
+Fortran , URL: /wiki/Fortran
+Perl , URL: /wiki/Perl
+Tcl , URL: /wiki/Tcl
+","Java , URL: /wiki/Java_(programming_language)
+Perl , URL: /wiki/Perl
+C++ , URL: /wiki/C%2B%2B
+"
+"J , URL: /wiki/J_(programming_language)
+","No","Yes","Yes","Yes","Yes","Yes","JavaScript , URL: /wiki/JavaScript
+","JavaScript , URL: /wiki/JavaScript
+"
 "Julia , URL: /wiki/Julia_(programming_language)
-","Yes","Yes","Yes","Yes","No","No","No","Yes"
-"LabPlot , URL: /wiki/LabPlot
-","Yes","Yes","Yes","Yes","Yes","No","No","No"
+","Yes","SymPy , URL: /wiki/SymPy
+SymEngine , URL: https://github.com/symengine/symengine
+","Yes","Yes","Yes","Yes","C , URL: /wiki/C_(programming_language)
+Fortran , URL: /wiki/Fortran
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Python , URL: /wiki/Python_(programming_language)
+R , URL: /wiki/R_(programming_language)
+"
+"Julia , URL: /wiki/Julia_(programming_language)
+","Yes","SymPy , URL: /wiki/SymPy
+SymEngine , URL: https://github.com/symengine/symengine
+","Yes","Yes","Yes","Yes","Python , URL: /wiki/Python_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Java , URL: /wiki/Java_(programming_language)
+MATLAB , URL: /wiki/MATLAB
+R , URL: /wiki/R_(programming_language)
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Python , URL: /wiki/Python_(programming_language)
+R , URL: /wiki/R_(programming_language)
+"
 "LabVIEW , URL: /wiki/LabVIEW
-","Yes","Yes","Yes","No","Yes","No","No","No"
+","Professional System version","No","Yes[23]","Yes","Yes","Yes[26]","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+DLLs , URL: /wiki/Dynamic-link_library
+Python , URL: /wiki/Python_(programming_language)
+Perl , URL: /wiki/Perl
+Tcl , URL: /wiki/Tcl
+MATLAB , URL: /wiki/MATLAB
+ActiveX , URL: /wiki/Dynamic-link_library
+C# , URL: /wiki/C_Sharp_(programming_language)
+.NET , URL: /wiki/.NET_Framework
+","Yes[31]"
+"LabVIEW , URL: /wiki/LabVIEW
+","With add-on[22]","No","GOOP[24]","Yes","Yes","Yes[26]","With add-ons. I.e.[30]","Yes[31]"
+"LabVIEW , URL: /wiki/LabVIEW
+","","No","G#[25]","Yes","Yes","Yes[26]","","Yes[31]"
 "Maple , URL: /wiki/Maple_(software)
-","Yes","Yes","Yes","No","Yes","No","No","No"
+","No","Yes","Yes[32]","Yes","Yes","Yes[33]","C , URL: /wiki/C_(programming_language)
+C# , URL: /wiki/C_Sharp_(programming_language)
+Fortran , URL: /wiki/Fortran
+","MATLAB , URL: /wiki/MATLAB
+Excel , URL: /wiki/Microsoft_Excel
+Visual Basic , URL: /wiki/Visual_Basic
+Java , URL: /wiki/Java_(programming_language)
+C , URL: /wiki/C_(programming_language)
+"
 "Mathematica , URL: /wiki/Mathematica
-","Yes","Yes","Yes","Yes","Yes","No","No","Yes"
+","Yes[37]","Yes","Yes","Yes","Yes","Yes[38]","Java , URL: /wiki/Java_(programming_language)
+.NET , URL: /wiki/.NET_Framework
+C++ , URL: /wiki/C%2B%2B
+Fortran , URL: /wiki/Fortran
+CUDA , URL: /wiki/CUDA
+OpenCL , URL: /wiki/OpenCL
+R , URL: /wiki/R_Statistics
+Python , URL: /wiki/Python_(programming_language)
+SQL , URL: /wiki/SQL
+SPARQL , URL: /wiki/SPARQL
+NodeJS , URL: /wiki/NodeJS
+Julia , URL: /wiki/Julia_(programming_language)
+","Java , URL: /wiki/Java_(programming_language)
+.NET , URL: /wiki/.NET_Framework
+C++ , URL: /wiki/C%2B%2B
+Python , URL: /wiki/Python_(programming_language)
+"
+"Mathematica , URL: /wiki/Mathematica
+","Yes[37]","Yes","Yes","Yes","Yes","Yes[38]","Java , URL: /wiki/Java_(programming_language)
+.NET , URL: /wiki/.NET_Framework
+C++ , URL: /wiki/C%2B%2B
+Fortran , URL: /wiki/Fortran
+CUDA , URL: /wiki/CUDA
+OpenCL , URL: /wiki/OpenCL
+R , URL: /wiki/R_Statistics
+Python , URL: /wiki/Python_(programming_language)
+SQL , URL: /wiki/SQL
+SPARQL , URL: /wiki/SPARQL
+NodeJS , URL: /wiki/NodeJS
+Julia , URL: /wiki/Julia_(programming_language)
+","Excel , URL: /wiki/Microsoft_Excel
+LabVIEW , URL: /wiki/LabVIEW
+"
+"Mathematica , URL: /wiki/Mathematica
+","Yes[37]","Yes","Yes","Yes","Yes","Yes[38]","Java , URL: /wiki/Java_(programming_language)
+.NET , URL: /wiki/.NET_Framework
+C++ , URL: /wiki/C%2B%2B
+Fortran , URL: /wiki/Fortran
+CUDA , URL: /wiki/CUDA
+OpenCL , URL: /wiki/OpenCL
+R , URL: /wiki/R_Statistics
+Python , URL: /wiki/Python_(programming_language)
+SQL , URL: /wiki/SQL
+SPARQL , URL: /wiki/SPARQL
+NodeJS , URL: /wiki/NodeJS
+Julia , URL: /wiki/Julia_(programming_language)
+","Haskell , URL: /wiki/Haskell_(programming_language)
+AppleScript , URL: /wiki/AppleScript
+Racket , URL: /wiki/Racket_(programming_language)
+Visual Basic , URL: /wiki/Visual_Basic
+Clojure , URL: /wiki/Clojure
+MATLAB , URL: /wiki/MATLAB
+"
 "MATLAB , URL: /wiki/MATLAB
-","Yes","Yes","Yes","Yes","Yes","No","No","No"
+","with extension[47]","with extension library[48]","Yes[49]","Yes","Yes","Yes[50]","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Fortran , URL: /wiki/Fortran
+Java , URL: /wiki/Java_(programming_language)
+ActiveX , URL: /wiki/ActiveX
+",".NET , URL: /wiki/.NET_Framework
+Java , URL: /wiki/Java_(programming_language)
+Excel , URL: /wiki/Microsoft_Excel
+"
+"MATLAB , URL: /wiki/MATLAB
+","with extension[47]","with extension library[48]","Yes[49]","Yes","Yes","Yes[50]","Mathematica , URL: /wiki/Mathematica
+",".NET , URL: /wiki/.NET_Framework
+Java , URL: /wiki/Java_(programming_language)
+Excel , URL: /wiki/Microsoft_Excel
+"
 "MLAB , URL: /wiki/MLAB
-","Yes","Yes","Yes","No","No","Yes","No","No"
-"Origin , URL: /wiki/Origin_(data_analysis_software)
-","Yes","No","No","No","No","No","No","No"
-"Perl Data Language , URL: /wiki/Perl_Data_Language
-","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+","No","Yes","No","Yes","Yes","No","No","No"
+"PDL , URL: /wiki/Perl_Data_Language
+","Yes[55]","No","Yes[56]","Yes[57]","Yes","Yes[58]","C via perlXS; C, Python, F77, etc. via Inline","Perl, C[59]"
+"Python , URL: /wiki/Python_(programming_language)
+","Py2exe , URL: /wiki/Py2exe
+","SymPy , URL: /wiki/SymPy
+","Yes Inherently Object Oriented","tkinter , URL: /wiki/Tkinter
+","Numpy , URL: /wiki/Numpy
+","PyPI , URL: /wiki/PyPI
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Fortran , URL: /wiki/Fortran
+many others , URL: https://wiki.python.org/moin/IntegratingPythonWithOtherLanguages
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Fortran , URL: /wiki/Fortran
+many others , URL: https://wiki.python.org/moin/IntegratingPythonWithOtherLanguages
+"
+"Python , URL: /wiki/Python_(programming_language)
+","Py2exe , URL: /wiki/Py2exe
+","SymPy , URL: /wiki/SymPy
+","Yes Inherently Object Oriented","wxPython , URL: /wiki/WxPython
+QT , URL: /wiki/Qt_(software)
+Kivy , URL: /wiki/Kivy_(framework)
+many others , URL: https://wiki.python.org/moin/GuiProgramming
+","Numpy , URL: /wiki/Numpy
+","PyPI , URL: /wiki/PyPI
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Fortran , URL: /wiki/Fortran
+many others , URL: https://wiki.python.org/moin/IntegratingPythonWithOtherLanguages
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Fortran , URL: /wiki/Fortran
+many others , URL: https://wiki.python.org/moin/IntegratingPythonWithOtherLanguages
+"
 "R , URL: /wiki/R_(programming_language)
-","Yes","Yes","Yes","Yes","Yes","No","No","No"
+","No","Yes and extended via Ryacas package","Yes[60]","Via the tcltk library","Yes","Yes[61]","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Fortran , URL: /wiki/Fortran
+","Excel , URL: /wiki/Microsoft_Excel
+"
+"R , URL: /wiki/R_(programming_language)
+","No","Yes and extended via Ryacas package","Yes[60]","Via the tcltk library","Yes","Yes[61]","MATLAB , URL: /wiki/MATLAB
+","Python , URL: /wiki/Python_(programming_language)
+"
+"R , URL: /wiki/R_(programming_language)
+","No","Yes and extended via Ryacas package","Yes[60]","Via the tcltk library","Yes","Yes[61]","Python , URL: /wiki/Python_(programming_language)
+","SAS , URL: /wiki/SAS_(software)
+"
 "SageMath , URL: /wiki/SageMath
-","Yes","Yes","Yes","No","Yes","No","No","Yes"
+","No","Yes","Yes","No","Yes","Yes[68]","Many languages[69][70][71]","Yes (any language that can call Python)"
 "SAS , URL: /wiki/SAS_(software)
-","Yes","No","Yes","No","Yes","No","No","No"
-"SequenceL , URL: /wiki/SequenceL
-","Yes","Yes","Yes","No","No","No","No","No"
-"S-Lang , URL: /wiki/S-Lang_(programming_library)
-","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
-"Scilab , URL: /wiki/Scilab
-","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
-"Sysquake , URL: /wiki/Sysquake
-","Yes","Yes","Yes","No","No","No","No","No"
+","No","No","DS2 and SCL","Yes","No","No","C , URL: /wiki/C_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+","No"
+"SAS , URL: /wiki/SAS_(software)
+","No","No","DS2 and SCL","Yes","No","No","R , URL: /wiki/R_(programming_language)
+","No"
 "TK Solver , URL: /wiki/TK_Solver
-","Yes","No","No","No","No","No","No","No"
-"The Unscrambler , URL: /wiki/The_Unscrambler
-","Yes","No","No","No","No","No","No","No"
-"VisSim , URL: /wiki/VisSim
-","Yes","Yes","Yes","No","Yes","No","No","No"
+","with extension","No","Yes","with extension","Yes","Yes",".NET , URL: /wiki/.NET_Framework
+Excel , URL: /wiki/Microsoft_Excel
+","Unknown"

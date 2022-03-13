@@ -1,63 +1,57 @@
-"","","Cerberus , URL: /wiki/Cerberus_FTP_Server
-","Complete , URL: /wiki/Complete_FTP_Server
-","CrushFTP Server , URL: /wiki/CrushFTP_Server
-","FileZilla , URL: /wiki/FileZilla_Server
-","IIS , URL: /wiki/Internet_Information_Services
-","Multi Server , URL: /wiki/Sysax_Multi_Server
+"","","CrushFTP , URL: /wiki/CrushFTP_Server
+","ProFTPD , URL: /wiki/ProFTPD
+","Pure-FTPd , URL: /wiki/Pure-FTPd
+","vsftpd , URL: /wiki/Vsftpd
 "
 "","License type","proprietary , URL: /wiki/Proprietary_software
-","proprietary , URL: /wiki/Proprietary_software
-","proprietary , URL: /wiki/Proprietary_software
+","FLOSS , URL: /wiki/FLOSS
+GPL , URL: /wiki/GPL
+","BSD , URL: /wiki/BSD
 ","FLOSS , URL: /wiki/FLOSS
 GPL2 , URL: /wiki/GPL2
-","proprietary , URL: /wiki/Proprietary_software
-","proprietary , URL: /wiki/Proprietary_software
 "
-"OS","Linux","No","No","Yes","No","No","No"
-"OS","Mac OS X","No","No","Yes","No","No","No"
-"OS","Unix","No","?","Yes","No","No","No"
-"OS","Windows","Yes","Yes","Yes","Yes","Yes","Yes"
+"OS","Linux","Yes","Yes","Yes","Yes"
+"OS","Mac OS X","Yes","Yes","Yes","Yes"
+"OS","Unix","Yes","Yes","Yes","Yes"
+"OS","Windows","Yes","No","No","No"
 "User Interface","CLI , URL: /wiki/Command-line_interface
-","?","?","Yes","?","PowerShell , URL: /wiki/PowerShell
-","?"
+","Yes","Yes","Yes","Yes"
 "User Interface","GUI , URL: /wiki/Graphical_user_interface
-","Yes","?","Yes","Yes","Yes","?"
+","Yes","No","No","No"
 "User Interface","GUI(s) , URL: /wiki/Graphical_user_interface
-","Yes","?","?","?","?","?"
+","Yes","Yes","No","No"
 "User Interface","Web-based GUI , URL: /wiki/Web_application
-","Yes","Yes","Yes","No","No","?"
+","Yes","No","No","No"
 "Services","FTP , URL: /wiki/FTP
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes"
 "Services","SFTP , URL: /wiki/SSH_File_Transfer_Protocol
-","Yes","Yes","Yes","No","No","Yes"
+","Yes","Yes","No","No"
 "Services","FTPS , URL: /wiki/FTPS
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","Yes","Yes","Yes","Yes"
 "Services","SCP , URL: /wiki/Secure_copy
-","Yes","Yes","Yes","No","No","Yes"
+","Yes","No","No","No"
 "Services","WebDAV , URL: /wiki/WebDAV
-","No","No","Yes","No","Yes","No"
+","Yes","No","No","No"
 "Services","HTTP/HTTPS , URL: /wiki/HTTP
-","Yes","Yes","Yes","No","Yes","Yes"
+","Yes","No","No","No"
 "Services","AS2 , URL: /wiki/AS2
-","No","No","Yes","No","No","No"
+","Yes","No","No","No"
 "Authentication","LDAP , URL: /wiki/LDAP
-","Yes","Yes","Yes","No","No","No"
+","Yes","Yes","Yes","?"
 "Authentication","Active Directory , URL: /wiki/Active_Directory
-","Yes","Yes","Yes","No","Yes","Yes"
-"Authentication","Local","Yes","Yes","Yes","Yes","Yes","Yes"
-"Authentication","Database","No","Yes","Yes","No","No","Yes"
+","Yes","No","No","No"
+"Authentication","Local","Yes","Yes","Yes","Yes"
+"Authentication","Database","Yes","Yes","Yes","No"
 "High Availability","Failover Cluster (active/passive) , URL: /wiki/Failover_Cluster
-","Yes","No","Yes","No","Yes","No"
+","Yes","No","No","No"
 "High Availability","Load Balancing (active/active) , URL: /wiki/Load_Balancer
-","Yes","?","Yes","No","Yes","?"
+","Yes","No","No","No"
 "Automation","Event-handling , URL: /wiki/Event-driven_programming
-","Yes","Yes","Yes","No","No","?"
+","Yes","Yes","?","?"
 "Automation","Scripting , URL: /wiki/Scripting_language
-","No","Yes","Yes","No","No","?"
-"","","Cerberus , URL: /wiki/Cerberus_FTP_Server
-","Complete , URL: /wiki/Complete_FTP_Server
-","CrushFTP Server , URL: /wiki/CrushFTP_Server
-","FileZilla , URL: /wiki/FileZilla_Server
-","IIS , URL: /wiki/Internet_Information_Services
-","Multi Server , URL: /wiki/Sysax_Multi_Server
+","Yes","Yes","No","No"
+"","","CrushFTP , URL: /wiki/CrushFTP_Server
+","ProFTPD , URL: /wiki/ProFTPD
+","Pure-FTPd , URL: /wiki/Pure-FTPd
+","vsftpd , URL: /wiki/Vsftpd
 "

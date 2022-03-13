@@ -1,19 +1,31 @@
-"ADC client","Windows , URL: /wiki/Microsoft_Windows
-","Linux , URL: /wiki/Linux
-","OS X , URL: /wiki/OS_X
-","BSD , URL: /wiki/Berkeley_Software_Distribution
-","Haiku , URL: /wiki/Haiku_(operating_system)
+"ADC client","GUI , URL: /wiki/Graphical_user_interface
+","CLI , URL: /wiki/Command-line_interface
+","WebUI , URL: /wiki/Web_user_interface
+","Programming language , URL: /wiki/Programming_language
+","Based on"
+"AirDC++","Yes","No","Yes","C++ , URL: /wiki/C%2B%2B
+","StrongDC++"
+"AirDC++ Web Client","No","No","Yes","TypeScript , URL: /wiki/TypeScript
+","AirDC++"
+"ApexDC++","Yes","No","No","Lua , URL: /wiki/Lua_(programming_language)
+","StrongDC++"
+"DC++ , URL: /wiki/DC%2B%2B
+","Yes","No","No","C++",""
+"Jucy","Yes","No","No","Java , URL: /wiki/Java_(programming_language)
+",""
+"LinuxDC++","Yes","No","No","C++","DC++ , URL: /wiki/DC%2B%2B
 "
-"AirDC++","Yes","No","No","No","No"
-"AirDC++ Web Client","No","Yes","No installable package[8]","Yes","?"
-"ApexDC++","Yes","No","No","No","No"
-"DC++","Yes","No","No","No","No"
-"jucy","Yes","Yes","Yes","No","No"
-"LinuxDC++","No","Yes","No","Yes","No"
-"EiskaltDC++","Yes","Yes","Yes","Yes","Yes"
-"FlylinkDC++","Yes","No","No","No","No"
-"RSX++","Yes","No","No","No","No"
-"TKDC++","Yes","No","No","No","No"
-"StrongDC++","Yes","No","No","No","No"
-"ncdc","No","Yes","Yes","Yes","?"
-"ADC client","Windows","Linux","OS X","BSD","Haiku"
+"EiskaltDC++","Yes","Yes","Yes","C++, Lua","DC++ , URL: /wiki/DC%2B%2B
+"
+"FlylinkDC++ , URL: /wiki/FlylinkDC%2B%2B
+","Yes","No","Yes","C++","DC++ , URL: /wiki/DC%2B%2B
+"
+"RSX++","Yes","No","No","C++, Lua","StrongDC++"
+"TKDC++","Yes","No","No","C++, Lua","DC++ , URL: /wiki/DC%2B%2B
+"
+"StrongDC++","Yes","No","No","C++","DC++ , URL: /wiki/DC%2B%2B
+"
+"ncdc","No","Yes","No","C , URL: /wiki/C_(programming_language)
+",""
+"ADC client","GUI","CLI","WebUI , URL: /wiki/Web_user_interface
+","Programming language","Based on"

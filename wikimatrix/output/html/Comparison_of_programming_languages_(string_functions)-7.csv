@@ -1,63 +1,73 @@
 "Format","Languages"
-"string1 OP string2, where OP can be any of =, <>, <, >, <= and >=","Pascal , URL: /wiki/Pascal_(programming_language)
-Object Pascal , URL: /wiki/Object_Pascal
-Delphi , URL: /wiki/Delphi_(programming_language)
-OCaml , URL: /wiki/OCaml
+"string1 & string2","Ada , URL: /wiki/Ada_(programming_language)
+FreeBASIC , URL: /wiki/FreeBASIC
 Seed7 , URL: /wiki/Seed7
-Standard ML , URL: /wiki/Standard_ML
 BASIC , URL: /wiki/BASIC
 VB , URL: /wiki/Visual_Basic_(classic)
 VB .NET , URL: /wiki/Visual_Basic_.NET
-F# , URL: /wiki/F_Sharp_(programming_language)
+COBOL , URL: /wiki/COBOL
 "
-"string1 OP string2, where OP can be any of =, /=, ≠, <, >, <=, ≤ and ≥; Also: EQ, NE, LT, LE, GE and GT","ALGOL 68 , URL: /wiki/ALGOL_68
+"strcat(string1, string2)","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
 "
-"(stringOP? string1 string2), where OP can be any of =, -ci=, <, -ci<, >, -ci>, <=, -ci<=, >= and -ci>= (operators starting with '-ci' are case-insensitive)","Scheme , URL: /wiki/Scheme_(programming_language)
-"
-"(stringOP string1 string2), where OP can be any of =, -ci=, <>, -ci<>, <, -ci<, >, -ci>, <=, -ci<=, >= and -ci>= (operators starting with '-ci' are case-insensitive)","Scheme , URL: /wiki/Scheme_(programming_language)
-"
-"(stringOP string1 string2), where OP can be any of =, -equal, /=, -not-equal, <, -lessp, >, -greaterp, <=, -not-greaterp, >= and -not-lessp (the verbal operators are case-insensitive)","Common Lisp , URL: /wiki/Common_Lisp
-"
-"(stringOP string1 string2), where OP can be any of =, /=, <, >, <=, and >=","ISLISP , URL: /wiki/ISLISP
-"
-"string1 OP string2, where OP can be any of =, \=, <, >, <= and >=","Rexx , URL: /wiki/Rexx
-"
-"string1 OP string2, where OP can be any of =, ¬=, <, >, <=, >=, ¬< and ¬>","PL/I , URL: /wiki/PL/I
-"
-"string1 OP string2, where OP can be any of =, /=, <, >, <= and >=","Ada , URL: /wiki/Ada_(programming_language)
-"
-"string1 OP string2, where OP can be any of ==, /=, <, >, =< and >=","Erlang , URL: /wiki/Erlang_(programming_language)
-"
-"string1 OP string2, where OP can be any of ==, /=, <, >, <= and >=","Haskell , URL: /wiki/Haskell_(programming_language)
-"
-"string1 OP string2, where OP can be any of eq, ne, lt, gt, le and ge","Perl , URL: /wiki/Perl
-Raku , URL: /wiki/Raku_(programming_language)
-"
-"string1 OP string2, where OP can be any of ==, !=, <, >, <= and >=","C++ , URL: /wiki/C%2B%2B
-C# , URL: /wiki/C_Sharp_(programming_language)
-D , URL: /wiki/D_(programming_language)
-Go , URL: /wiki/Go_(programming_language)
-JavaScript , URL: /wiki/JavaScript
-Python , URL: /wiki/Python_(programming_language)
+"string1 . string2","Perl , URL: /wiki/Perl
 PHP , URL: /wiki/PHP
+"
+"string1 + string2","ALGOL 68 , URL: /wiki/ALGOL_68
+C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_Sharp_(programming_language)
+Cobra , URL: /wiki/Cobra_(programming_language)
+FreeBASIC , URL: /wiki/FreeBASIC
+Go , URL: /wiki/Go_(programming_language)
+Pascal , URL: /wiki/Pascal_(programming_language)
+Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+Windows PowerShell , URL: /wiki/Windows_PowerShell
+Python , URL: /wiki/Python_(programming_language)
 Ruby , URL: /wiki/Ruby_(programming_language)
 Rust , URL: /wiki/Rust_(programming_language)
+F# , URL: /wiki/F_Sharp_(programming_language)
 Swift , URL: /wiki/Swift_(programming_language)
+Turing , URL: /wiki/Turing_(programming_language)
+VB , URL: /wiki/Visual_Basic_(classic)
 "
-"string1 OP string2, where OP can be any of -eq, -ceq, -ne, -cne, -lt, -clt, -gt, -cgt, -le, -cle, -ge, and -cge (operators starting with 'c' are case-sensitive)","Windows PowerShell , URL: /wiki/Windows_PowerShell
+"string1 ~ string2","D , URL: /wiki/D_(programming_language)
+Raku , URL: /wiki/Raku_(programming_language)
 "
-"string1 OP string2, where OP can be any of ==, ~=, <, >, <= and >=","Lua , URL: /wiki/Lua_(programming_language)
+"(string-append string1 string2)","Scheme , URL: /wiki/Scheme_(programming_language)
+ISLISP , URL: /wiki/ISLISP
 "
-"string1 OP string2, where OP can be any of =, ~=, <, >, <= and >=","Smalltalk , URL: /wiki/Smalltalk
+"(concatenate 'string string1 string2)","Common Lisp , URL: /wiki/Common_Lisp
 "
-"string1 OP string2, where OP can be any of ==, /=, <, >, <= and >=; Also: .EQ., .NE., .LT., .LE., .GT. and .GE.","Fortran , URL: /wiki/Fortran
+"(str string1 string2)","Clojure , URL: /wiki/Clojure
 "
-"string1 OP string2 where OP can be any of =, <>, <, >, <=, >= as well as worded equivalents","COBOL , URL: /wiki/COBOL
+"string1 || string2","Rexx , URL: /wiki/Rexx
+SQL , URL: /wiki/SQL
+PL/I , URL: /wiki/PL/I
 "
-"string1 OP string2 where OP can be any of ==, <>, <, >, <= and >=","Cobra , URL: /wiki/Cobra_(programming_language)
+"string1 // string2","Fortran , URL: /wiki/Fortran
 "
-"string1 OP string2 is available in the syntax, but means comparison of the pointers pointing to the strings, not of the string contents. Use the Compare (integer result) function.","C , URL: /wiki/C_(programming_language)
-Java , URL: /wiki/Java_(programming_language)
+"string1 ++ string2","Erlang , URL: /wiki/Erlang_(programming_language)
+Haskell , URL: /wiki/Haskell_(programming_language)
 "
-"string1.METHOD(string2) where METHOD is any of eq, ne, gt, lt, ge, le","Rust , URL: /wiki/Rust_(programming_language)
+"string1 ^ string2","OCaml , URL: /wiki/OCaml
+Standard ML , URL: /wiki/Standard_ML
+F# , URL: /wiki/F_Sharp_(programming_language)
+"
+"[string1 stringByAppendingString:string2]","Objective-C , URL: /wiki/Objective-C
+"
+"string1 .. string2","Lua , URL: /wiki/Lua_(programming_language)
+"
+"string1 , string2","Smalltalk , URL: /wiki/Smalltalk
+APL , URL: /wiki/APL_(programming_language)
+"
+"string1 string2","SNOBOL , URL: /wiki/SNOBOL
+"
+"string1string2","Bash shell , URL: /wiki/Bash_shell
+"
+"string1 <> string2","Mathematica , URL: /wiki/Mathematica
+"
+"concat string1 string2","Tcl , URL: /wiki/Tcl
 "

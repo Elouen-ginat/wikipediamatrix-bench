@@ -1,19 +1,10 @@
-"Aspect","Esperanto","Interlingua"
-"Type","schematic , URL: /wiki/Constructed_language#Schematic_languages
-","naturalistic , URL: /wiki/Constructed_language#Naturalistic_languages
-"
-"Alphabet","diacritics , URL: /wiki/Diacritics
-","does not use diacritics"
-"Orthography","invariable letter-to-phoneme correspondence","letters c, g, h, q, t, and w are variable"
-"Vocabulary sources","mostly Romance and Germanic languages","primary control languages: English, French, Italian, Spanish and Portuguese"
-"Gender","masculine by default; feminine optional","third-person pronouns , URL: /wiki/Third-person_pronoun
-"
-"Antonyms","formed by mal- prefix","dis- for verbs and words derived from verbs, in- for adjectives and words derived from adjectives in addition, certain roots can be prefixed, e.g. mal"
-"Infinitive suffix","-i (invariable)","-ar, -er, or -ir"
-"Imperative","-u suffix","same as indicative"
-"Plural noun","agglutinative , URL: /wiki/Agglutinative
-","-s (after vowels) -es (after consonants)"
-"Adjectives","agree with nouns","no declension"
-"Accusative form","mandatory, -n","personal pronouns , URL: /wiki/Personal_pronoun
-"
-"No of speakers","c. 100,000–2,000,000","c. 1,500"
+"Esperanto","Esperanto","Interlingua","Interlingua","English"
+"Preferred form","Alternative form","Preferred Form","Alternative form","English"
+"sana","sana","san","san","healthy"
+"sano","sano","sanitate","sanitate","health"
+"malsana","morba","malade","malsan","sick, unhealthy"
+"malsano","morbo","maladia, morbo","malsanitate","malady, illness, disease"
+"malsanulejo","hospitalo","hospital","malsanitario","hospital"
+"saniĝi","reakiri","recovrar","sanar","to become healthy, recover"
+"sanigi","kuraci","curar","sanar","to make healthy, cure"
+"malsaniĝi","malsaniĝi","cader malade","malsanar","to become sick, fall ill"

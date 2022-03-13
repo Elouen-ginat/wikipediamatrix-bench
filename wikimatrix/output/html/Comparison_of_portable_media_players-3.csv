@@ -1,63 +1,61 @@
-"Name","Connectivity","Connectivity","Connectivity","Connectivity","OS compatibility","OS compatibility","OS compatibility","OS compatibility","OS compatibility","OS compatibility","OS compatibility","Integrated software","Protocol compliancy","Protocol compliancy"
-"Name","USB , URL: /wiki/Universal_Serial_Bus
-","USB , URL: /wiki/Universal_Serial_Bus
-","Wi-Fi , URL: /wiki/Wi-Fi
-","Bluetooth , URL: /wiki/Bluetooth
-","Linux , URL: /wiki/Linux
-","Macintosh , URL: /wiki/Mac_OS
-","Windows , URL: /wiki/Microsoft_Windows
-","Windows , URL: /wiki/Microsoft_Windows
-","Windows , URL: /wiki/Microsoft_Windows
-","Windows , URL: /wiki/Microsoft_Windows
-","MSC , URL: /wiki/USB_mass_storage_device_class
-","Integrated software","MTP , URL: /wiki/Media_Transfer_Protocol
+"Product","Manufacturer","Web browser","Wireless synching","Ad hoc","On-demand","Web radio/TV"
+"Archos 5, 7 , URL: /wiki/Archos_Generation_6
+","Archos , URL: /wiki/Archos
+","Opera , URL: /wiki/Opera_(web_browser)#Other_versions
+","","","",""
+"Archos 604 WiFi, 704 WiFi , URL: /wiki/Archos_Generation_4
+","Archos","Opera 8.5","file browsing","No","No",""
+"Archos 605 WiFi, 705 WiFi , URL: /wiki/Archos_Generation_5
+","Archos","Opera 9","file browsing","No","Content Portals , URL: /wiki/Archos#Content_portals
+","Yes"
+"Archos PMA400 , URL: /wiki/Archos_PMA400
+","Archos","Opera","via FTP","Yes","No",""
+"Cowon Q5W , URL: /wiki/Cowon#Cowon_Q5(W)
+","Cowon , URL: /wiki/Cowon
+","IE Mobile , URL: /wiki/Internet_Explorer_Mobile
+","","","","Yes (using Flash-based Internet Radio sites)"
+"Ibiza Rhapsody","Haier , URL: /wiki/Haier
+","Minimo , URL: /wiki/Minimo
+","Yes","No","Rhapsody , URL: /wiki/Rhapsody_(online_music_service)
+","radio only"
+"iPod Touch , URL: /wiki/IPod_Touch
+","Apple Inc. , URL: /wiki/Apple_Inc.
+","Webkit , URL: /wiki/Webkit
+","Yes","Yes","iTunes , URL: /wiki/ITunes
+Spotify , URL: /wiki/Spotify
+","Yes"
+"Samsung Galaxy Player , URL: /wiki/Samsung_Galaxy_Player
+","Samsung , URL: /wiki/Samsung
+","Webkit , URL: /wiki/Webkit
+","","","Android Marketplace , URL: /wiki/Android_Marketplace
 ",""
-"Name","Mini-B port","2.0","Wi-Fi , URL: /wiki/Wi-Fi
-","Bluetooth , URL: /wiki/Bluetooth
-","Linux , URL: /wiki/Linux
-","Mac OS X , URL: /wiki/Mac_OS_X
-","Vista , URL: /wiki/Windows_Vista
-","XP , URL: /wiki/Windows_XP
-","2000 , URL: /wiki/Windows_2000
-","9x , URL: /wiki/Windows_9x
-","MSC , URL: /wiki/USB_mass_storage_device_class
-","Integrated software","MTP , URL: /wiki/Media_Transfer_Protocol
+"Sansa Connect , URL: /wiki/Sansa_Connect
+","SanDisk , URL: /wiki/SanDisk
+","No","","","Yahoo! Music , URL: /wiki/Yahoo!_Music
 ",""
-"Archos 105","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","WMP , URL: /wiki/Windows_Media_Player
-MTP , URL: /wiki/Media_Transfer_Protocol
-","Yes","Yes",""
-"Archos 405","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","WMP through MTP","Yes","Yes",""
-"Archos 5","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Me , URL: /wiki/Windows_Me
-","WMP through MTP","Yes","Yes",""
-"Archos 605 WiFi / GPS","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","WMP through MTP","Yes","Yes",""
-"Archos 705 WiFi","No","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","WMP through MTP","Yes","Yes",""
-"Cowon A3","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Me , URL: /wiki/Windows_Me
-","jetAudio , URL: /wiki/JetAudio
-","Yes","Yes",""
-"Cowon D2","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","jetAudio","Yes","Yes",""
-"Cowon Q5W","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Me , URL: /wiki/Windows_Me
-","jetAudio , URL: /wiki/JetAudio
-","Yes","Yes",""
-"Gigabeat T400","Yes","Yes","No","No","No[87]","No","Yes","Yes","No","No","WMP through MTP","No","Yes",""
-"GP2X F-200","Unknown","Yes","No","No","Yes","Yes","Yes","Yes","Yes","No","N/A","N/A","N/A",""
-"iPod classic","No","Yes","No","No","No[88]","Yes","Yes","Yes","Yes","No","iTunes , URL: /wiki/ITunes
-","No","No",""
-"iPod nano 4G","No","Yes","No","No","No[88]","Yes","Yes","Yes","Yes","No","iTunes","No","No",""
-"iPod touch 1G","No","Yes","Yes","No","No","Yes","Yes","Yes","Yes","No","iTunes","No","No",""
-"iPod touch 2G - 5G","No","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","No","iTunes","No","No",""
-"iriver clix 2G","Yes","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","iriver plus Rhapsody[89]","Yes","Yes",""
-"PSP Slim & Lite","Yes","Yes","Yes","PSP Go , URL: /wiki/PSP_Go
-","Yes","Yes","Yes","Yes","Yes","No","Media Go , URL: /wiki/Media_Go
-","Yes","No",""
-"Samsung Galaxy Player","No","Yes","Yes","Yes","No","No","Yes","Yes","No","No","WMP through MTP","No","Yes",""
-"Samsung T10","Yes","Yes","No","Yes","No[87]","No","Yes","Yes","No","No","EmoDio","No","Yes",""
-"Samsung P2","Yes","Yes","No","Yes","No[87]","No","Yes","Yes","No","No","EmoDio","Yes","Yes",""
-"Sansa Fuze","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","MSC","WMP through MTP","Yes","Yes",""
-"Sansa Fuze+","micro B","Yes","No","No","Yes","Yes","Yes","Yes","Yes","MSC","WMP through MTP","Yes","Yes",""
-"Walkman NWZ-A810 series","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","No","WMP through MTP","Yes","Yes",""
-"ZEN","Yes","Yes","No","No","No[87]","No","Yes","Yes","No","No","Creative MediaSource , URL: /wiki/Creative_MediaSource
-","No","Yes",""
-"ZEN Vision W","Yes","Yes","No","No","No[87]","No","Yes","Yes","No","No","Creative MediaSource","No","Yes",""
-"Zune","No","Yes","Yes","No","No","No","Yes","Yes","No","No","Zune Software , URL: /wiki/Zune_Software
-","No","Yes",""
-"ZVUE 260","Unknown","Yes","No","No","No","Yes","No","Yes","No","No","ZAPP","No","No",""
+"Sony PSP , URL: /wiki/Sony_PSP
+","Sony , URL: /wiki/Sony
+","NetFront , URL: /wiki/NetFront
+","Yes","Yes","PlayStation Store , URL: /wiki/PlayStation_Store
+","Yes"
+"Sony Walkman X Series , URL: /wiki/Walkman_X_Series
+","Sony , URL: /wiki/Sony
+","NetFront , URL: /wiki/NetFront
+","No","Yes","","Yes"
+"ZEN X-Fi , URL: /wiki/Creative_Zen_X-FI
+","Creative , URL: /wiki/Creative_Technology
+","No","media server","No","Creative MediaBox","No"
+"Zune 4, 8 , URL: /wiki/Zune_4,_8
+","Microsoft , URL: /wiki/Microsoft
+","No","Yes","Yes","Zune Marketplace , URL: /wiki/Zune_Marketplace
+",""
+"Zune 30 , URL: /wiki/Zune_30
+","Microsoft","No","Yes","Yes","Zune Marketplace , URL: /wiki/Zune_Marketplace
+",""
+"Zune 80, 120 , URL: /wiki/Zune_80,_120
+","Microsoft","No","Yes","Yes","Zune Marketplace , URL: /wiki/Zune_Marketplace
+",""
+"Zune HD , URL: /wiki/Zune_HD
+","Microsoft","IE Mobile , URL: /wiki/Internet_Explorer_Mobile
+","Yes","Yes","Zune Marketplace , URL: /wiki/Zune_Marketplace
+",""

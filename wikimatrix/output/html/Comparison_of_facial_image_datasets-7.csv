@@ -1,17 +1,25 @@
 "Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
-"Amazon reviews","Amazon.com , URL: /wiki/Amazon.com
-","None.","233.1 million","Text","Classification, sentiment analysis","2015 (2018)","[167][168]","McAuley et al."
-"OpinRank Review Dataset","Edmunds.com , URL: /wiki/Edmunds.com
-TripAdvisor , URL: /wiki/TripAdvisor
-","None.","42,230 / ~259,000 respectively","Text","Sentiment analysis, clustering","2011","[169][170]","K. Ganesan et al."
-"MovieLens","22,000,000 ratings and 580,000 tags applied to 33,000 movies by 240,000 users.","None.","~ 22M","Text","Regression, clustering, classification","2016","[171]","GroupLens Research , URL: /wiki/GroupLens_Research
+"NYSK Dataset","IMF , URL: /wiki/International_Monetary_Fund
+Dominique Strauss-Kahn , URL: /wiki/Dominique_Strauss-Kahn
+","Filtered and presented in XML format.","10,421","XML, text","Sentiment analysis, topic extraction","2013","[184]","Dermouche, M. et al."
+"The Reuters Corpus Volume 1","Reuters , URL: /wiki/Reuters
+","Fine-grain categorization and topic codes.","810,000","Text","summarization , URL: /wiki/Automatic_summarization
+","2002","[185]","Reuters , URL: /wiki/Reuters
 "
-"Yahoo! Music User Ratings of Musical Artists","Over 10M ratings of artists by Yahoo users.","None described.","~ 10M","Text","Clustering, regression","2004","[172][173]","Yahoo! , URL: /wiki/Yahoo!
+"The Reuters Corpus Volume 2","Reuters , URL: /wiki/Reuters
+","Fine-grain categorization and topic codes.","487,000","Text","Classification, clustering, summarization","2005","[186]","Reuters , URL: /wiki/Reuters
 "
-"Car Evaluation Data Set","Car properties and their overall acceptability.","Six categorical features given.","1728","Text","Classification","1997","[174][175]","M. Bohanec"
-"YouTube Comedy Slam Preference Dataset","User vote data for pairs of videos shown on YouTube. Users voted on funnier videos.","Video metadata given.","1,138,562","Text","Classification","2012","[176][177]","Google"
-"Skytrax User Reviews Dataset","User reviews of airlines, airports, seats, and lounges from Skytrax.","Ratings are fine-grain and include many aspects of airport experience.","41396","Text","Classification, regression","2015","[178]","Q. Nguyen"
-"Teaching Assistant Evaluation Dataset","Teaching assistant reviews.","Features of each instance such as class, class size, and instructor are given.","151","Text","Classification","1997","[179][180]","W. Loh et al."
-"Vietnamese Students’ Feedback Corpus (UIT-VSFC)","Students’ Feedback.","Comments","16,000","Text","Classification","1997","[181]","Nguyen et al."
-"Vietnamese Social Media Emotion Corpus (UIT-VSMEC)","Users’ Facebook Comments.","Comments","6,927","Text","Classification","1997","[182]","Nguyen et al."
-"Vietnamese Open-domain Complaint Detection dataset (ViOCD)","Customer product reviews","Comments","5,485","Text","Classification","2021","[183]","Nguyen et al."
+"Thomson Reuters Text Research Collection","Large corpus of news stories.","Details not described.","1,800,370","Text","Classification, clustering, summarization","2009","[187]","T. Rose et al."
+"Saudi Newspapers Corpus","31,030 Arabic newspaper articles.","Metadata extracted.","31,030","JSON","Summarization, clustering","2015","[188]","M. Alhagri"
+"RE3D (Relationship and Entity Extraction Evaluation Dataset)","Entity and Relation marked data from various news and government sources. Sponsored by Dstl","Filtered, categorisation using Baleen types","not known","JSON","Classification, Entity and Relation recognition","2017","[189]","Dstl"
+"Examiner , URL: /wiki/Examiner.com
+","Clickbait, spam, crowd-sourced headlines from 2010 to 2015","Publish date and headlines","3,089,781","CSV","Clustering, Events, Sentiment","2016","[190]","R. Kulkarni"
+"ABC , URL: /wiki/Australian_Broadcasting_Corporation
+","Entire news corpus of ABC Australia from 2003 to 2019","Publish date and headlines","1,186,018","CSV","Clustering, Events, Sentiment","2020","[191]","R. Kulkarni"
+"Feeds , URL: /wiki/Web_feed
+","One week snapshot of all online headlines in 20+ languages","Publish time, URL and headlines","1,398,431","CSV","Clustering, Events, Language Detection","2018","[192]","R. Kulkarni"
+"Reuters , URL: /wiki/Reuters
+","11 Years of timestamped events published on the news-wire","Publish time, Headline Text","16,121,310","CSV","NLP, Computational Linguistics, Events","2018","[193]","R. Kulkarni"
+"The Irish Times , URL: /wiki/The_Irish_Times
+","24 Years of Ireland News from 1996 to 2019","Publish time, Headline Category and Text","1,484,340","CSV","NLP, Computational Linguistics, Events","2020","[194]","R. Kulkarni"
+"News Headlines Dataset for Sarcasm Detection","High quality dataset with Sarcastic and Non-sarcastic news headlines.","Clean, normalized text","26,709","JSON","NLP, Classification, Linguistics","2018","[195]","Rishabh Misra"

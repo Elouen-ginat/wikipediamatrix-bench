@@ -1,2 +1,2 @@
-"Definition","<string>.partition(separator) returns the sub-string before the separator; the separator; then the sub-string after the separator."
-"Description","Splits the given string by the separator and returns the three substrings that together make the original."
+"Definition","replace(string, find, replace) returns string"
+"Description","Returns a string with find occurrences changed to replace."

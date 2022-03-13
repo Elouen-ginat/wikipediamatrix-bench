@@ -1,62 +1,12 @@
-"Java","C#"
-"class PassByRefTest {
-
-    static class Ref<T> {
-        T val;
-        Ref(T val) { this.val = val; }
-    }
-    
-    static void changeMe(Ref<String> s) {
-        s.val = "Changed";
-    }
-
-    static void swap(Ref<Integer> x, Ref<Integer> y) {
-        int temp = x.val;
-
-        x.val = y.val;
-        y.val = temp;
-    }
-
-    public static void main(String[] args) {
-        var a = new Ref(5);
-        var b = new Ref(10);
-        var s = new Ref("still unchanged");
-        
-        swap(a, b);
-        changeMe(s);
-
-        System.out.println( "a = " + a.val + ", " +
-                            "b = " + b.val + ", " +
-                            "s = " + s.val );
-    }
-}","class PassByRefTest 
-{
-
-    public static void ChangeMe(out string s) 
-    {
-        s = "Changed";
-    }
-
-    public static void Swap(ref int x, ref int y) 
-    {
-        int temp = x;
-
-        x = y;
-        y = temp;
-    }
-
-    public static void Main(string[] args) 
-    {
-        int a = 5;
-        int b = 10;
-        string s = "still unchanged";
-
-        Swap(ref a, ref b);
-        ChangeMe(out s);
-
-        System.Console.WriteLine("a = " + a + ", " +
-                                 "b = " + b + ", " +
-                                 "s = " + s);
-    }
-}"
-"a = 10, b = 5, s = Changed","a = 10, b = 5, s = Changed"
+"Functional programming , URL: #Functional_programming
+","Java","C#"
+"Method references","Yes[10]","Yes"
+"Closures , URL: /wiki/Closure_(computer_science)
+","All lambdas do not introduce a new level of scope. All referenced variables must be effectively final","Yes"
+"Lambda expressions , URL: /wiki/Anonymous_function
+","Yes[76]","Yes"
+"Expression trees , URL: /wiki/Abstract_syntax_tree
+","No","Yes"
+"Generic query language/API","(Monad) , URL: /wiki/Monad_(functional_programming)
+","Yes"
+"Tail recursion compiler optimizations","No[citation needed]","Only on x64[78]"

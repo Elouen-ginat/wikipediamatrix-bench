@@ -1,27 +1,19 @@
 "","MSHTML , URL: /wiki/MSHTML
+","edgeHTML , URL: /wiki/EdgeHTML
 ","Gecko , URL: /wiki/Gecko_(software)
 ","WebKit , URL: /wiki/WebKit
 ","Presto , URL: /wiki/Presto_(browser_engine)
 "
-"loadstart","5.0[t 44]","1.9.1","?","?"
-"progress","5.0[t 44]","1.9.1","?","?"
-"suspend","5.0[t 44]","1.9.2","?","?"
-"abort","5.0[t 44]","1.9.1","?","?"
-"error","5.0[t 44]","1.9.1","?","?"
-"emptied","5.0[t 44]","1.9.1","?","?"
-"stalled","5.0[t 44]","8.0[g 100]","?","?"
-"play","5.0[t 44]","1.9.1","?","?"
-"pause","5.0[t 44]","1.9.1","?","?"
-"loadedmetadata","5.0[t 44]","1.9.1","?","?"
-"loadeddata","5.0[t 44]","1.9.1","?","?"
-"waiting","5.0[t 44]","1.9.1","?","?"
-"playing","5.0[t 44]","No","?","?"
-"canplay","5.0[t 44]","1.9.1","?","?"
-"canplaythrough","5.0[t 44]","1.9.1","?","?"
-"seeking","5.0[t 44]","1.9.1","?","?"
-"seeked","5.0[t 44]","1.9.1","?","?"
-"timeupdate","5.0[t 44]","1.9.1","?","?"
-"ended","5.0[t 44]","1.9.1","?","?"
-"ratechange","5.0[t 44]","1.9.1","?","?"
-"durationchange","5.0[t 44]","1.9.1","?","?"
-"volumechange","5.0[t 44]","1.9.1","?","?"
+"Vorbis , URL: /wiki/Vorbis
+","Manual install[note 12]","","1.9.1[g 101]","Depends[note 13]","2.5"
+"WAV , URL: /wiki/WAV
+PCM , URL: /wiki/Pulse-code_modulation
+","Manual install[note 12]","","1.9.1[g 101]","525[note 13]","2.0"
+"MP3 , URL: /wiki/MP3
+","5.0[t 47]","","No[g 105]","525[note 13]","Depends[note 14]"
+"AAC , URL: /wiki/Advanced_Audio_Coding
+","5.0[t 47]","","No","525[note 13]","Depends[note 14]"
+"Speex , URL: /wiki/Speex
+","Manual install[note 12]","","No[g 106]","Depends[note 13]","No"
+"Opus , URL: /wiki/Opus_(codec)
+","No","Yes[51]","15.0[g 107]","Depends[note 13]","No"

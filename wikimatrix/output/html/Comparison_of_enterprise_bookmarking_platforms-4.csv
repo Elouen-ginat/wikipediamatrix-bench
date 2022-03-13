@@ -1,11 +1,12 @@
-"Software","Faceted classification","Restricted facets","Mandatory facets","Predefined tags","Related/synonym tags","Notes"
+"Software","Hosted Platform","On-Premises Platform","Encryption level","Multi-user support","Access permissions","LDAP , URL: /wiki/LDAP
+","Information-level permissions","Workspace-level permissions","Role-level permissions","Notes"
 "Connectbeam , URL: /wiki/Connectbeam
-","No","No","No","No","No","none"
-"Dogear , URL: /wiki/IBM_Lotus_Connections#Dogear
-","No","No","No","No","No","none"
+","Yes","Yes","?","Yes","Yes","No","?","?","?","none"
+"Dogear , URL: /wiki/Enterprise_bookmarking#History
+","No","Yes","?","Yes","Yes","Yes","?","?","?","The Lotus Connection Suite with Dogear runs on the AIX (Unix) operating system"
 "Jumper 2.0 , URL: /wiki/Jumper_2.0
-","Yes","Yes","Yes","Yes","No","none"
+","No","Yes","HTTPS optionally available","Yes","Yes","Yes","Yes","Yes","Yes","LDAP integration is available"
 "Knowledge Plaza , URL: /wiki/Knowledge_Plaza
-","Yes","Yes","Yes","Yes","Yes","none"
+","Yes","Yes","HTTPS with high-grade 256-bit AES","Yes","Yes","Yes","Yes","Yes","Yes","none"
 "Scuttle , URL: /wiki/Scuttle_(software)
-","No","No","No","No","No","none"
+","No","Yes","HTTPS optionally available [1]","No","Yes","No","Yes","?","","none"

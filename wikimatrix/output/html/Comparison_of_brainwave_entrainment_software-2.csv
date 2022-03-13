@@ -1,22 +1,40 @@
-"Software","Isochronic tones , URL: /wiki/Isochronic_tones
-","Monaural beats , URL: /wiki/Monaural_beats
-","Binaural beats , URL: /wiki/Binaural_beats
-","Photic"
-"BeeOne SMOD/HMS","Yes","Yes","Yes","No"
-"Binaural Beethoven","No","No","Yes","No"
-"Brain Equalizer","No","No","Yes","?"
-"BrainWave Generator","No","No","Yes","Yes"
-"BrainWaveProducer","Yes","Yes","Yes","?"
+"Software","Networkable","Headphone-free sessions","Background noise","Embed audio (sounds, music, hypnosis)","Volume modulation for embedded audio","Export as sound file","User-created sessions","Pre-made sessions"
+"BeeOne SMOD/HMS","Yes (via VST)","Yes","Yes (via VST)","Yes (via VST)","Yes (via VST)","Yes (via VST)","Yes","No"
+"Brain Equalizer","No","Yes","No","Yes (iPod or any sound app)","No","No","Yes","No"
+"Binaural Beethoven","No","Yes","Yes","Yes (iPod or any sound app)","No","No","No","Yes"
+"BrainWave Generator","No","Yes","white , URL: /wiki/White_noise
+pink , URL: /wiki/Pink_noise
+brown , URL: /wiki/Brown_noise
+","Yes","No","Yes (WAV)","Yes","Yes"
+"BrainWaveProducer","Yes (via VST)","Yes","white , URL: /wiki/White_noise
+pink , URL: /wiki/Pink_noise
+brown , URL: /wiki/Brown_noise
+","Yes","Yes","Yes (OGG, MP3, WAV)","Yes","Yes"
 "Gnaural , URL: /wiki/Gnaural
-","Yes","Yes","Yes","?"
-"BrainIgniter Player","Yes","Yes","Yes","No"
-"Neuro Entrainment","Yes","Yes","Yes","No"
-"Neuro-Programmer 3","Yes","Yes","Yes","Yes"
-"Mind WorkStation","Yes","Yes","Yes","Yes"
-"SBaGen","No","Yes","Yes","No"
-"Brainwave Studio","Yes","No","No","No"
-"Discord","Yes","Yes","Yes","?"
-"Isochronic Tone Generator","Yes","No","No","No"
-"Lux VST Brainwave Entrainment Instrument","Yes","Yes","Yes","Yes"
-"Neuro Sequencer Pro","Yes","No","Yes","No"
-"SHARM Studio 5","Yes (wide, narrow)","Yes","Yes","No"
+","Yes","Yes","pink , URL: /wiki/Pink_noise
+","Yes","Yes","Yes (OGG, MP3, WAV)","Yes","Yes"
+"BrainIgniter Player","No","Yes","white , URL: /wiki/White_noise
+pink , URL: /wiki/Pink_noise
+brown , URL: /wiki/Brown_noise
+","Yes","Yes","Yes (MP3)","No","Yes"
+"Neuro Entrainment","No","Yes","No","No","Yes","No","Yes","Yes"
+"Neuro-Programmer 3","No","Yes","white , URL: /wiki/White_noise
+pink , URL: /wiki/Pink_noise
+brown , URL: /wiki/Brown_noise
+","Yes","Yes","Yes (OGG, MP3 WAV)","Yes","Yes"
+"Mind WorkStation","Yes (with plugins)","Yes","white , URL: /wiki/White_noise
+pink , URL: /wiki/Pink_noise
+brown , URL: /wiki/Brown_noise
+","Yes","Yes","Yes (OGG, MP3 WAV)","Yes","Yes"
+"SBaGen","No","No","pink , URL: /wiki/Pink_noise
+","Yes (WAV, raw audio, OGG, MP3)","No","Yes (WAV, raw audio)","Yes","Yes"
+"Brainwave Studio","No","Yes","white , URL: /wiki/White_noise
+","Yes","Yes","No","Yes","Yes"
+"Discord","No","Yes","white , URL: /wiki/White_noise
+pink , URL: /wiki/Pink_noise
+brown , URL: /wiki/Brown_noise
+","Yes (WAV, raw audio, OGG, FLAC)","Yes","Yes (WAV, raw audio, OGG, FLAC)","Yes","Yes"
+"Isochronic Tone Generator","No","Yes","No","Yes (iPod or any sound app)","Yes","No","Yes (in real time)","Yes"
+"Lux VST Brainwave Entrainment Instrument","No","Yes","Yes","Yes","Yes","Yes (through DAW)","Yes","Yes"
+"Neuro Sequencer Pro","No","Yes","Yes","Yes","Yes","Yes (MP3, M4A, WAV)","Yes","Yes"
+"SHARM Studio 5","No","Yes","Yes (white, pink and brown)","Yes (WAV, OGG, MP3)","Yes","Yes (WAV, OGG, MP3)","Yes","Yes"

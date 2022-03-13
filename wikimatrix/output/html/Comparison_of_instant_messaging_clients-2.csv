@@ -1,103 +1,98 @@
-"Client","Windows , URL: /wiki/Microsoft_Windows
-","macOS , URL: /wiki/MacOS
-","Linux , URL: /wiki/Linux
-","Web , URL: /wiki/Web_application
-","Android , URL: /wiki/Android_(operating_system)
-","iOS , URL: /wiki/IOS
+"Client","Registration requirement","Lock screen","Screenshot detection[85]","Screenshot disabled (Android only)[86]","Voice changer","Plugins , URL: /wiki/Plug-in_(computing)
+","Peer-to-peer , URL: /wiki/Peer-to-peer
+","Open source , URL: /wiki/Open-source_software
+","Federated , URL: /wiki/Federation_(information_technology)
 "
 "Briar , URL: /wiki/Briar_(software)
-","No","No","Yes","No","Yes","No"
+","","","","","","","Yes","",""
 "Discord , URL: /wiki/Discord_(software)
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","Email","No","","","","No","No","No","No"
 "eBuddy , URL: /wiki/EBuddy
-","No","No","No","No","Yes","Yes"
+","Phone number","Yes","","","","No","No","No","No"
 "Element , URL: /wiki/Element_(software)
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","No","No","","","","Yes","No","Yes","Yes"
 "Gadu-Gadu , URL: /wiki/Gadu-Gadu
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","Email","","","","","No","No","No",""
 "Gajim , URL: /wiki/Gajim
-","Yes","No","Yes","No","No","No"
+","Email","","","","","Yes","No","Yes","Yes"
 "Google Messages (RCS) , URL: /wiki/Messages_(Google)
-","No[a]","No[a]","Needs third-party client[a][76]","Yes","Yes","No"
+","Phone number","","","","","","","",""
 "ICQ , URL: /wiki/ICQ
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","Phone number","","","","","Yes","No","",""
 "Jami , URL: /wiki/Jami_(software)
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","No","No","No","No","No","Yes","Yes","decentralised",""
 "Jitsi , URL: /wiki/Jitsi
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","","No","","","","Yes","No","Yes","Yes"
 "Kadu , URL: /wiki/Kadu_(software)
-","Yes","Yes","Yes","No","No","No"
+","","","","","","Yes","No","",""
 "KakaoTalk , URL: /wiki/KakaoTalk
-","Yes","Yes","No","No","Yes","Yes"
+","","","","","","","No","No","No"
 "Keybase , URL: /wiki/Keybase
-","Yes","Yes","Yes","No, partial","Yes","Yes"
+","No","","","","","No","No","No","No"
 "Kik Messenger , URL: /wiki/Kik_Messenger
-","No","No","No","No","Yes","Yes"
+","Email","","","","","","No","No","No"
 "Line , URL: /wiki/Line_(software)
-","Yes","Yes","browser extension , URL: /wiki/Browser_extension
-","No","Yes","Yes"
+","Phone number","No","","","","Yes","No","No","No"
 "Linphone , URL: /wiki/Linphone
-","","","","","",""
+","","","","","","","","",""
 "Mattermost , URL: /wiki/Mattermost
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","","No","","","","Yes","No","Yes","No"
 "MCabber , URL: /wiki/MCabber
-","No","Yes","Yes","No","No","No"
+","","","","","","","No","",""
 "Messages , URL: /wiki/Messages_(Apple)
-","No","Yes","No","No","No","Yes"
+","","No","","","","No","No","N/A","N/A"
 "Messenger , URL: /wiki/Messenger_(software)
-","Yes","Yes","Needs third-party client[a][78]","Yes","Yes","Yes"
+","Facebook account or Phone number","No","","","","Yes","No","No","No"
 "Movim , URL: /wiki/Movim
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","No","?","","","","No","No","Yes","Yes"
 "Palringo , URL: /wiki/Palringo
-","No","No","No","No","Yes","Yes"
+","No","","","","","No","No","No",""
 "Paltalk , URL: /wiki/Paltalk
-","Yes","Yes","No","No","Yes","Yes"
+","Email","","","","","No","No","No",""
 "Pidgin , URL: /wiki/Pidgin_(software)
-","Yes","Yes","Yes","No","No","No"
+","","","","","","Yes","Yes","Yes","Yes"
 "Psi , URL: /wiki/Psi_(instant_messaging_client)
-","Yes","Yes","Yes","No","No","No"
+","","","","","","Yes","No","",""
 "RetroShare , URL: /wiki/RetroShare
-","Yes","Yes","Yes","No","Yes","No"
+","","","","","","","Yes","N/A (P2P)","N/A"
 "Ricochet , URL: /wiki/Ricochet_(software)
-","Yes","Yes","Yes","No","No","No"
+","","","","","","","Yes","N/A","N/A"
 "Sicher , URL: /wiki/Sicher_(software)
-","No","No","No","No","Yes","Yes"
+","Phone number","","","","","","No","No","No"
 "Signal , URL: /wiki/Signal_(software)
-","Yes","Yes","Yes","No","Yes","Yes"
+","Phone number; iOS or Android device[87][88]","Yes","","","","No","No","Yes[89]","No"
 "Silent Phone , URL: /wiki/Silent_Circle_(software)
-","No","No","No","No","Yes","Yes"
+","No","Yes","","","","","No","No","No"
 "Skype , URL: /wiki/Skype
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","Email","","","","","Yes","No","No","No"
 "Slack , URL: /wiki/Slack_(software)
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","Email","","","","","Yes","No","No","No"
 "Snapchat , URL: /wiki/Snapchat
-","No","No","No","No","Yes","Yes"
+","Email or Phone number","Yes","","","","Yes","No","No","No"
 "Surespot , URL: /wiki/Surespot
-","No","No","No","No","Yes","Yes"
+","No","","","","","No","No","No","No"
 "TeamNote , URL: /wiki/TeamNote
-","No[a]","No[a]","No[a]","Yes","Yes","Yes"
+","","","","","","","","",""
 "Telegram , URL: /wiki/Telegram_(software)
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","Phone number; iOS or Android device[90]","Yes","","","","No","No","No","No"
 "Tencent QQ , URL: /wiki/Tencent_QQ
-","Yes","Yes","Partial[79][a]","Yes","Yes","Yes"
+","","","","","","No","No","No","No"
 "Threema , URL: /wiki/Threema
-","No[a]","No[a]","No[a]","Yes","Yes","Yes"
+","No","Yes","","","","No","No","No","No"
 "Trillian , URL: /wiki/Trillian_(software)
-","Yes","Yes","Yes","Yes","Yes","Yes"
+","No","","","","","Yes","No","No","Yes"
 "Viber , URL: /wiki/Viber
-","Yes","Yes","Yes","No","Yes","Yes"
+","Phone number","Yes","","","","Yes","No","No","No"
 "WeChat , URL: /wiki/WeChat
-","Yes","Yes","Needs third-party client[a][80]","Yes","Yes","Yes"
+","Phone number or QQ number","","","","","","No","No","No"
 "WhatsApp , URL: /wiki/WhatsApp
-","Yes","Yes","Needs third-party client[a][82][83][84]","Yes","Yes","Yes"
+","Phone number","No","","","","No","No","No","No"
 "Wickr Me , URL: /wiki/Wickr
-","Yes","Yes","Yes","No","Yes","Yes"
+","No","Yes","Yes[85]","Yes[86]","","Yes","No","No","No"
 "Wire , URL: /wiki/Wire_(software)
-","Yes","Yes","Yes","Yes","Yes","Yes"
-"Client","Windows , URL: /wiki/Microsoft_Windows
-","macOS , URL: /wiki/MacOS
-","Linux , URL: /wiki/Linux
-","Web , URL: /wiki/Web_application
-","Android , URL: /wiki/Android_(operating_system)
-","iOS , URL: /wiki/IOS
+","Email or Phone number","No","","","","No","No","Yes[91]","Yes"
+"Client","Registration requirement","Lock screen","Screenshot detection[85]","Screenshot disabled (Android only)[86]","Voice changer","Plugins , URL: /wiki/Plug-in_(computing)
+","Peer-to-peer , URL: /wiki/Peer-to-peer
+","Open source , URL: /wiki/Open-source_software
+","Federated , URL: /wiki/Federation_(information_technology)
 "

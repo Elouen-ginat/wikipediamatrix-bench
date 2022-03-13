@@ -1,59 +1,86 @@
 "Format","Languages"
-"std.string.join(array_of_strings, separator)","D , URL: /wiki/D_(programming_language)
+"string (string'First .. string'First + n - 1)","Ada , URL: /wiki/Ada_(programming_language)
 "
-"string:join(list_of_strings, separator)","Erlang , URL: /wiki/Erlang_(programming_language)
-"
-"join(separator, list_of_strings)","Perl , URL: /wiki/Perl
+"substr(string, 0, n)","AWK , URL: /wiki/AWK
+Perl , URL: /wiki/Perl
 PHP , URL: /wiki/PHP
 Raku , URL: /wiki/Raku_(programming_language)
 "
-"implode(separator, array_of_strings)","PHP , URL: /wiki/PHP
+"LEFT$(string,n)","BASIC , URL: /wiki/BASIC
+VB , URL: /wiki/Visual_Basic_(classic)
 "
-"separator.join(sequence_of_strings)","Python , URL: /wiki/Python_(programming_language)
-Swift , URL: /wiki/Swift_(programming_language)
+"left(string,n)","VB , URL: /wiki/Visual_Basic_(classic)
+FreeBASIC , URL: /wiki/FreeBASIC
+Ingres , URL: /wiki/Ingres_(database)
+Pick Basic , URL: /wiki/Pick_Basic
 "
-"array_of_strings.join(separator)","Ruby , URL: /wiki/Ruby_(programming_language)
-JavaScript , URL: /wiki/JavaScript
+"strncpy(string2, string, n)","C standard library , URL: /wiki/C_(programming_language)
+"
+"string.substr(0,n)","C++ , URL: /wiki/C%2B%2B
 Raku , URL: /wiki/Raku_(programming_language)
-Rust , URL: /wiki/Rust_(programming_language)
 "
-"(string-join array_of_strings separator)","Scheme , URL: /wiki/Scheme_(programming_language)
+"[string substringToIndex:n]","Objective-C , URL: /wiki/Objective-C
 "
-"(format nil "~{~a~^separator~}" array_of_strings)","Common Lisp , URL: /wiki/Common_Lisp
+"(apply str (take n string))","Clojure , URL: /wiki/Clojure
 "
-"(clojure.string/join separator list_of_strings) (apply str (interpose separator list_of_strings))","Clojure , URL: /wiki/Clojure
+"string[0 .. n]","D , URL: /wiki/D_(programming_language)
 "
-"strings.Join(array_of_strings, separator)","Go , URL: /wiki/Go_(programming_language)
+"string:substr(string, start, length)","Erlang , URL: /wiki/Erlang_(programming_language)
 "
-"join(array_of_strings, separator)","Seed7 , URL: /wiki/Seed7
+"(subseq string 0 n)","Common Lisp , URL: /wiki/Common_Lisp
 "
-"String.concat separator list_of_strings","OCaml , URL: /wiki/OCaml
+"string[:n]","Cobra , URL: /wiki/Cobra_(programming_language)
+Go , URL: /wiki/Go_(programming_language)
+Python , URL: /wiki/Python_(programming_language)
 "
-"String.concatWith separator list_of_strings","Standard ML , URL: /wiki/Standard_ML
+"left(string,n «,padchar»)","Rexx , URL: /wiki/Rexx
+Erlang , URL: /wiki/Erlang_(programming_language)
 "
-"Data.List.intercalate separator list_of_strings","Haskell , URL: /wiki/Haskell_(programming_language)
+"string[0, n] string[0..n - 1]","Ruby , URL: /wiki/Ruby_(programming_language)
 "
-"Join(array_of_strings, separator)","VB , URL: /wiki/Visual_Basic_(classic)
+"string[1, n]","Pick Basic , URL: /wiki/Pick_Basic
 "
-"String.Join(separator, array_of_strings)","VB .NET , URL: /wiki/Visual_Basic_.NET
+"string[ .. n]","Seed7 , URL: /wiki/Seed7
+"
+"string.Substring(0,n)","VB .NET , URL: /wiki/Visual_Basic_.NET
 C# , URL: /wiki/C_Sharp_(programming_language)
+Windows PowerShell , URL: /wiki/Windows_PowerShell
 F# , URL: /wiki/F_Sharp_(programming_language)
 "
-"String.join(separator, array_of_strings)","Java , URL: /wiki/Java_(programming_language)
+"leftstr(string, n)","Pascal , URL: /wiki/Pascal_(programming_language)
+Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
 "
-"&{$OFS=$separator; "$array_of_strings"}, or array_of_strings -join separator","Windows PowerShell , URL: /wiki/Windows_PowerShell
+"copy (string,1,n)","Turbo Pascal , URL: /wiki/Turbo_Pascal
 "
-"[array_of_strings componentsJoinedByString:separator]","Objective-C , URL: /wiki/Objective-C
+"string.substring(0,n)","Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
 "
-"table.concat(table_of_strings, separator)","Lua , URL: /wiki/Lua_(programming_language)
+"(string-take string n)","Scheme , URL: /wiki/Scheme_(programming_language)
 "
-"{|String streamContents: [ :stream | collectionOfAnything asStringOn: stream delimiter: separator ] collectionOfAnything joinUsing: separator","Smalltalk , URL: /wiki/Smalltalk
+"take n string","Haskell , URL: /wiki/Haskell_(programming_language)
+"
+"String.extract (string, n, NONE)","Standard ML , URL: /wiki/Standard_ML
+"
+"String.sub string 0 n","OCaml , URL: /wiki/OCaml
+"
+"string.[..n]","F# , URL: /wiki/F_Sharp_(programming_language)
+"
+"string.sub(string, 1, n) (string):sub(1, n)","Lua , URL: /wiki/Lua_(programming_language)
+"
+"string first: n","Smalltalk , URL: /wiki/Smalltalk
 Squeak , URL: /wiki/Squeak
 Pharo , URL: /wiki/Pharo
 "
-"array_of_strings.join(separator«, final_separator»)","Cobra , URL: /wiki/Cobra_(programming_language)
+"string(:n)","Fortran , URL: /wiki/Fortran
 "
-"sequence_of_strings.joinWithSeparator(separator)","Swift , URL: /wiki/Swift_(programming_language)
+"StringTake[string, n]","Mathematica , URL: /wiki/Mathematica
 "
-"1↓∊separator,¨list_of_strings","APL , URL: /wiki/APL_(programming_language)
+"string («FUNCTION» LENGTH(string) - n:n)","COBOL , URL: /wiki/COBOL
+"
+"string.substring(0, n)","Cobra , URL: /wiki/Cobra_(programming_language)
+"
+"n↑string.","APL , URL: /wiki/APL_(programming_language)
+"
+"string[0..n] string[..n] string.get(0..n) string.get(..n)","Rust , URL: /wiki/Rust_(programming_language)
 "

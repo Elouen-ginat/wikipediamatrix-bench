@@ -1,19 +1,8 @@
 "","MSHTML , URL: /wiki/MSHTML
-","edgeHTML , URL: /wiki/EdgeHTML
 ","Gecko , URL: /wiki/Gecko_(software)
 ","WebKit , URL: /wiki/WebKit
 ","Presto , URL: /wiki/Presto_(browser_engine)
 "
-"Vorbis , URL: /wiki/Vorbis
-","Manual install[note 12]","","1.9.1[g 101]","Depends[note 13]","2.5"
-"WAV , URL: /wiki/WAV
-PCM , URL: /wiki/Pulse-code_modulation
-","Manual install[note 12]","","1.9.1[g 101]","525[note 13]","2.0"
-"MP3 , URL: /wiki/MP3
-","5.0[t 47]","","No[g 105]","525[note 13]","Depends[note 14]"
-"AAC , URL: /wiki/Advanced_Audio_Coding
-","5.0[t 47]","","No","525[note 13]","Depends[note 14]"
-"Speex , URL: /wiki/Speex
-","Manual install[note 12]","","No[g 106]","Depends[note 13]","No"
-"Opus , URL: /wiki/Opus_(codec)
-","No","Yes[51]","15.0[g 107]","Depends[note 13]","No"
+"2d","5.0","1.9.1","Partial","2.6"
+"WebGL , URL: /wiki/WebGL
+","7.0[t 48]","Depends[g 109]","Depends[w 81]","2.9.220[p 36]"

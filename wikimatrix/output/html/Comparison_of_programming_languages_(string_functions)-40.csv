@@ -1,3 +1,5 @@
-"Definition","<string>.split(separator[, limit]) splits a string on separator, optionally only up to a limited number of substrings"
-"Description","See the example here , URL: https://www.w3schools.com/jsref/jsref_split.asp
+"Definition","substring(string, startpos, endpos) returns string substr(string, startpos, numChars) returns string"
+"Description","UTF-8 , URL: /wiki/UTF-8
+UTF-16 , URL: /wiki/UTF-16
+Shift-JIS , URL: /wiki/Shift-JIS
 "

@@ -1,64 +1,89 @@
-"Format","Languages"
-"string1 == string2","Python , URL: /wiki/Python_(programming_language)
+"Format","Languages","If not found"
+"string in string(substring, pos, string[startpos:])","ALGOL 68 , URL: /wiki/ALGOL_68
+","returns BOOL: TRUE or FALSE, and position in REF INT pos."
+"InStr(«startpos,»string,substring)","VB , URL: /wiki/Visual_Basic_(classic)
+","returns 0"
+"INSTR$(string,substring)","BASIC , URL: /wiki/BASIC
+","returns 0"
+"index(string,substring)","AWK , URL: /wiki/AWK
+","returns 0"
+"index(string,substring«,startpos»)","Perl 5 , URL: /wiki/Perl_5
+","returns −1"
+"index(string,substring«,startpos») string.index(substring,«,startpos»)","Raku , URL: /wiki/Raku_(programming_language)
+","returns Nil"
+"instr(«startpos,»string,substring)","FreeBASIC , URL: /wiki/FreeBASIC
+","returns 0"
+"strpos(string,substring«,startpos»)","PHP , URL: /wiki/PHP
+","returns FALSE"
+"locate(string, substring)","Ingres , URL: /wiki/Ingres_(database)
+","returns string length + 1"
+"strstr(string, substring)","C , URL: /wiki/C_(programming_language)
 C++ , URL: /wiki/C%2B%2B
-C# , URL: /wiki/C_Sharp_(programming_language)
-Cobra , URL: /wiki/Cobra_(programming_language)
-Go , URL: /wiki/Go_(programming_language)
-JavaScript , URL: /wiki/JavaScript
-PHP , URL: /wiki/PHP
-Ruby , URL: /wiki/Ruby_(programming_language)
-Rust , URL: /wiki/Rust_(programming_language)
-Erlang , URL: /wiki/Erlang_(programming_language)
-Haskell , URL: /wiki/Haskell_(programming_language)
-Lua , URL: /wiki/Lua_(programming_language)
-D , URL: /wiki/D_(programming_language)
-Mathematica , URL: /wiki/Mathematica
-Swift , URL: /wiki/Swift_(programming_language)
-"
-"string1 === string2","JavaScript , URL: /wiki/JavaScript
-PHP , URL: /wiki/PHP
-"
-"string1 == string2 or string1 .EQ. string2","Fortran , URL: /wiki/Fortran
-"
-"strcmp(string1, string2) == 0","C , URL: /wiki/C_(programming_language)
-"
-"(string=? string1 string2)","Scheme , URL: /wiki/Scheme_(programming_language)
-"
-"(string= string1 string2)","Common Lisp , URL: /wiki/Common_Lisp
-ISLISP , URL: /wiki/ISLISP
-"
-"string1 = string2","ALGOL 68 , URL: /wiki/ALGOL_68
-Ada , URL: /wiki/Ada_(programming_language)
+","returns NULL"
+"std.string.indexOf(string, substring)","D , URL: /wiki/D_(programming_language)
+","returns −1"
+"pos(string, substring«, startpos»)","Seed7 , URL: /wiki/Seed7
+","returns 0"
+"strings.Index(string, substring)","Go , URL: /wiki/Go_(programming_language)
+","returns −1"
+"pos(substring, string)","Pascal , URL: /wiki/Pascal_(programming_language)
 Object Pascal , URL: /wiki/Object_Pascal
 Delphi , URL: /wiki/Delphi_(programming_language)
-OCaml , URL: /wiki/OCaml
-Pascal , URL: /wiki/Pascal_(programming_language)
-Rexx , URL: /wiki/Rexx
-Seed7 , URL: /wiki/Seed7
-Standard ML , URL: /wiki/Standard_ML
-BASIC , URL: /wiki/BASIC
-VB , URL: /wiki/Visual_Basic_(classic)
-VB .NET , URL: /wiki/Visual_Basic_.NET
+","returns 0"
+"pos(substring, string«,startpos»)","Rexx , URL: /wiki/Rexx
+","returns 0"
+"string.find(substring«,startpos»)","C++ , URL: /wiki/C%2B%2B
+","returns std::string::npos"
+"string.find(substring«,startpos«,endpos»»)","Python , URL: /wiki/Python_(programming_language)
+","returns −1"
+"string.index(substring«,startpos«,endpos»»)","Python , URL: /wiki/Python_(programming_language)
+","raises ValueError"
+"string.index(substring«,startpos»)","Ruby , URL: /wiki/Ruby_(programming_language)
+","returns nil"
+"string.indexOf(substring«,startpos»)","Java , URL: /wiki/Java_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+","returns −1"
+"string.IndexOf(substring«,startpos«, charcount»»)","VB .NET , URL: /wiki/Visual_Basic_.NET
+C# , URL: /wiki/C_Sharp_(programming_language)
+Windows PowerShell , URL: /wiki/Windows_PowerShell
 F# , URL: /wiki/F_Sharp_(programming_language)
-Smalltalk , URL: /wiki/Smalltalk
-PL/I , URL: /wiki/PL/I
-COBOL , URL: /wiki/COBOL
-"
-"test string1 = string2, or [ string1 = string2 ]","Bourne Shell , URL: /wiki/Bourne_Shell
-"
-"string1 eq string2","Perl , URL: /wiki/Perl
-Raku , URL: /wiki/Raku_(programming_language)
-"
-"string1.equals(string2)","Cobra , URL: /wiki/Cobra_(programming_language)
-Java , URL: /wiki/Java_(programming_language)
-"
-"string1.Equals(string2)","C# , URL: /wiki/C_Sharp_(programming_language)
-"
-"string1 -eq string2, or [string]::Equals(string1, string2)","Windows PowerShell , URL: /wiki/Windows_PowerShell
-"
-"[string1 isEqualToString:string2], or [string1 isEqual:string2]","Objective-C , URL: /wiki/Objective-C
-"
-"string1 ≡ string2","APL , URL: /wiki/APL_(programming_language)
-"
-"string1.eq(string2)","Rust , URL: /wiki/Rust_(programming_language)
+","returns −1"
+"string:str(string, substring)","Erlang , URL: /wiki/Erlang_(programming_language)
+","returns 0"
+"(string-contains string substring)","Scheme , URL: /wiki/Scheme_(programming_language)
+","returns #f"
+"(search substring string)","Common Lisp , URL: /wiki/Common_Lisp
+","returns NIL"
+"(string-index substring string)","ISLISP , URL: /wiki/ISLISP
+","returns nil"
+"List.findIndex (List.isPrefixOf substring) (List.tails string)","Haskell , URL: /wiki/Haskell_(programming_language)
+","returns Nothing"
+"Str.search_forward (Str.regexp_string substring) string 0","OCaml , URL: /wiki/OCaml
+","raises Not_found"
+"Substring.size (#1 (Substring.position substring (Substring.full string)))","Standard ML , URL: /wiki/Standard_ML
+","returns string length"
+"[string rangeOfString:substring].location","Objective-C , URL: /wiki/Objective-C
+","returns NSNotFound"
+"string.find(string, substring) (string):find(substring)","Lua , URL: /wiki/Lua_(programming_language)
+","returns nil"
+"string indexOfSubCollection: substring startingAt: startpos ifAbsent: aBlock string findString: substring startingAt: startpos","Smalltalk , URL: /wiki/Smalltalk
+Squeak , URL: /wiki/Squeak
+Pharo , URL: /wiki/Pharo
+","evaluate aBlock which is a block closure (or any object understanding value) returns 0"
+"startpos = INDEX(string, substring «,back» «, kind»)","Fortran , URL: /wiki/Fortran
+","returns 0 if substring is not in string; returns LEN(string)+1 if substring is empty"
+"POSITION(substring IN string)","SQL , URL: /wiki/SQL
+","returns 0 (positions start at 1)"
+"index(string, substring, startpos )","PL/I , URL: /wiki/PL/I
+","returns 0 (positions start at 1)"
+"index(string, substring, occurrence )","Pick Basic , URL: /wiki/Pick_Basic
+","returns 0 if occurrence of substring is not in string; (positions start at 1)"
+"string.indexOf(substring«,startpos«, charcount»»)","Cobra , URL: /wiki/Cobra_(programming_language)
+","returns −1"
+"string first substring string startpos","Tcl , URL: /wiki/Tcl
+","returns −1"
+"(substring⍷string)⍳1","APL , URL: /wiki/APL_(programming_language)
+","returns 1 + the last position in string"
+"string.find(substring)","Rust , URL: /wiki/Rust_(programming_language)
+","None , URL: /wiki/Option_type
 "

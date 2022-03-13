@@ -1,1 +1,133 @@
-"","This article includes a list of general references, but it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations. (January 2021) (Learn how and when to remove this template message)"
+"Software","Creator","Edition","Release Date","USD , URL: /wiki/United_States_dollar
+","Open source , URL: /wiki/Open-source_software
+","Software license , URL: /wiki/Software_license
+","Implementation"
+"AdroitLogic UltraESB , URL: /wiki/UltraESB
+","AdroitLogic","17.01","January 2017","Subscription based licensing and support or perpetual licensing","No","Proprietary , URL: /wiki/Proprietary_software
+","Enterprise Service Bus"
+"Anypoint Platform , URL: /wiki/Mule_(software)
+","MuleSoft , URL: /wiki/MuleSoft
+","Mule 3.7","June 2015","Sold as software as a subscription with various packaged options to serve different use cases. The pricing scales with usage as measured by number of cores on-premises and virtual cores in the cloud.","No","Dual (CPAL or proprietary",""
+"Apache Camel , URL: /wiki/Apache_Camel
+","Apache Software Foundation , URL: /wiki/Apache_Software_Foundation
+","2.23.3","29 November 2018","Free/Commercial support available","Yes","Apache Software License , URL: /wiki/Apache_Software_License
+",""
+"Apache Kafka , URL: /wiki/Apache_Kafka
+","Apache Software Foundation , URL: /wiki/Apache_Software_Foundation
+","0.10.20","February 2017","Free / Commercial support available","Yes","Apache Software License , URL: /wiki/Apache_Software_License
+",""
+"Apache ServiceMix , URL: /wiki/Apache_ServiceMix
+","Apache Software Foundation , URL: /wiki/Apache_Software_Foundation
+","7.0","January 2017","Free / Commercial support available","Yes","Apache Software License , URL: /wiki/Apache_Software_License
+",""
+"Apache Synapse , URL: /wiki/Apache_Synapse
+","Apache Software Foundation , URL: /wiki/Apache_Software_Foundation
+","3.0","December 2016","Free / Commercial support available","Yes","Apache Software License , URL: /wiki/Apache_Software_License
+",""
+"Artix ESB , URL: /wiki/Artix_ESB
+","Progress Software , URL: /wiki/Progress_Software
+","5.x","2003","","No","Proprietary , URL: /wiki/Proprietary_software
+",""
+"Automation Anywhere , URL: /wiki/Automation_Anywhere
+","Automation Anywhere , URL: /wiki/Automation_Anywhere
+","6.1","Feb 2011","$5500","No","Proprietary , URL: /wiki/Proprietary_software
+",""
+"BizTalk Server , URL: /wiki/BizTalk_Server
+","Microsoft , URL: /wiki/Microsoft
+","2016","December 2016","Enterprise Edition: $10,835 per core; Standard Edition: $2,485 per core; Branch Edition: $620 per core (minimum 4 cores required); Developer Edition - per seat, available under Volume or MSDN licence.[1]","No","Proprietary , URL: /wiki/Proprietary_software
+","Enterprise Application Integration, Hub and Spoke architecture, Cloud ready"
+"Flow Software , URL: /wiki/Flow_(software)
+","Flow Software Ltd , URL: /wiki/Flow_(software)
+","2.3.0","May, 2010","Free Community Edition, and Enterprise licenses","No","Proprietary , URL: /wiki/Proprietary_software
+",""
+"Fuse , URL: /wiki/Fuse_ESB
+","Red Hat , URL: /wiki/Red_Hat
+","7.0","2018","","Yes","Apache Software License , URL: /wiki/Apache_Software_License
+",""
+"IBM Integration Bus , URL: /wiki/IBM_Integration_Bus
+WebSphere Message Broker , URL: /wiki/WebSphere_Message_Broker
+","IBM , URL: /wiki/IBM
+","10.0","March 2015[2]","Varies between approximately 100 and 850 per Value Unit[3]","No","Proprietary , URL: /wiki/Proprietary_software
+","Enterprise Service Bus"
+"Informatica Power Center , URL: /wiki/Informatica
+","Informatica , URL: /wiki/Informatica
+","8.5","October 2007","Varies: 50,000 - 100,000 generally","No","Proprietary , URL: /wiki/Proprietary_software
+",""
+"JBoss Enterprise Service Bus , URL: /wiki/JBoss_ESB
+","JBoss, a division of Red Hat, Inc. , URL: /wiki/Red_Hat
+","4.12","March 2013","Free / Commercial support available","Yes","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","Enterprise Service Bus, Replaced by JBoss Fuse"
+"JBoss Enterprise SOA Platform , URL: /wiki/JBoss_Enterprise_SOA_Platform
+","JBoss, a division of Red Hat, Inc. , URL: /wiki/Red_Hat
+","5.1","February 2011","Free / Commercial support available","Yes","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+","Replaced by JBoss Fuse"
+"Magic xpi Integration Platform , URL: /wiki/Magic_Software_Enterprises
+","Magic Software Enterprises , URL: /wiki/Magic_Software_Enterprises
+","4.0","May 2015","","No","Proprietary , URL: /wiki/Proprietary_software
+",""
+"Openadaptor , URL: /wiki/Openadaptor
+","The Software Conservancy","3.4.6","February 2011","Free","Yes","variant of MIT",""
+"OpenESB , URL: /wiki/OpenESB
+","OpenESB Community , URL: /w/index.php?title=OpenESB_Community&action=edit&redlink=1
+","3.2.2","December 2019","Free / Enterprise Edition with commercial support","Yes","CDDL , URL: /wiki/CDDL
+",""
+"OpenLink Virtuoso , URL: /wiki/Virtuoso_Universal_Server
+","OpenLink Software","7.2.5.1","2018-08-15","Varies[4]","Yes","GPL , URL: /wiki/GPL
+",""
+"Oracle BPEL Process Manager , URL: /wiki/Oracle_BPEL_Process_Manager
+","Oracle Corporation , URL: /wiki/Oracle_Corporation
+","12.1.3.0.0","June 2014","Varies[6]","No","Proprietary , URL: /wiki/Proprietary_software
+",""
+"Oracle Enterprise Service Bus , URL: /wiki/Oracle_Enterprise_Service_Bus
+","Oracle Corporation","12.1.3.0.0","June 2014","Varies[7]","No","Proprietary , URL: /wiki/Proprietary_software
+",""
+"PEtALS ESB , URL: /wiki/OW2_PEtALS
+","OW2 Consortium , URL: /wiki/OW2_Consortium
+","3.1.3","July 2011","Free / Commercial support available","Yes","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+",""
+"Sonic ESB , URL: /wiki/Progress_Software
+","Progress Software , URL: /wiki/Progress_Software
+","8.x","2011","","No","Proprietary , URL: /wiki/Proprietary_software
+","Enterprise Service Bus"
+"SAP NetWeaver Process Integration , URL: /wiki/SAP_NetWeaver_Process_Integration
+","SAP AG , URL: /wiki/SAP_AG
+","7.5","2011","Varies[8]","No","Proprietary , URL: /wiki/Proprietary_software
+",""
+"ServiceMix , URL: /wiki/ServiceMix
+","Apache Software Foundation , URL: /wiki/Apache_Software_Foundation
+","5.1.1","July 2014","free/commercial support available","Yes","Apache Software License , URL: /wiki/Apache_Software_License
+",""
+"Spagic , URL: /wiki/Spagic
+","Engineering group , URL: /w/index.php?title=Engineering_group&action=edit&redlink=1
+","3.0","May 2010","free / Commercial support","Yes","GNU LGPL , URL: /wiki/GNU_Lesser_General_Public_License
+",""
+"Sun Java Composite Application Platform Suite , URL: /wiki/Java_Enterprise_System#Sun_Java_Composite_Application_Platform_Suite
+","Sun Microsystems , URL: /wiki/Sun_Microsystems
+","6","June 2008","$100 per employee per year subscription, perpetual per socket licensing available[9]","No[10]","Proprietary , URL: /wiki/Proprietary_software
+",""
+"TrackerSuite.Net , URL: /wiki/Tracker_(Business_Software)
+","Automation Centre , URL: /wiki/Automation_Centre
+","4.0","June 2012","Based on number of users and modules utilized. Available as SaaS, or as a licensed installation.","No","Proprietary , URL: /wiki/Proprietary_software
+",""
+"Unify NXJ , URL: /wiki/Unify_NXJ
+","Unify Corporation , URL: /wiki/Unify_Corporation
+","11","","","No","Proprietary , URL: /wiki/Proprietary_software
+",""
+"webMethods Integration Server , URL: /wiki/WebMethods_Integration_Server
+","Software AG , URL: /wiki/Software_AG
+","9.0[11]","May 2013","varies","No","Proprietary , URL: /wiki/Proprietary_software
+","Enterprise Service Bus[12]"
+"WebSphere Message Broker , URL: /wiki/WebSphere_Message_Broker
+IBM Integration Bus , URL: #IIB
+","IBM , URL: /wiki/IBM
+","8.0","October 2011","IBM Integration Bus , URL: #IIB
+","No","Proprietary , URL: /wiki/Proprietary_software
+","Enterprise Service Bus"
+"WSO2 Enterprise Integrator , URL: /wiki/WSO2
+","WSO2 , URL: /wiki/WSO2
+","6.4","2018","Free / Commercial support available","Yes","Apache License 2.0 , URL: /wiki/Apache_License_2.0
+","Enterprise Service Bus, Message Broker, Application Server, Business Process Server, Data Services Server"
+"WSO2 Enterprise Service Bus (ESB) , URL: /wiki/WSO2_Enterprise_Service_Bus_(ESB)
+","WSO2 , URL: /wiki/WSO2
+","5.0.0","2016","Free / Commercial support available","Yes","Apache Software License , URL: /wiki/Apache_Software_License
+",""

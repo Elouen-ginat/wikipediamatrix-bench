@@ -1,120 +1,179 @@
-"Distribution","x86 , URL: /wiki/X86
-","x86-64 , URL: /wiki/X86-64
-","arm , URL: /wiki/ARM_architecture
-","ia64 , URL: /wiki/Itanium
-","ppc , URL: /wiki/PowerPC
-","ppc64 , URL: /wiki/Ppc64
-","sparc32 , URL: /wiki/SPARC
-","sparc64 , URL: /wiki/SPARC
-","hppa , URL: /wiki/PA-RISC
-","loongson , URL: /wiki/Loongson#Linux
-","mips , URL: /wiki/MIPS_architecture
-","sh , URL: /wiki/SuperH
-","s390 , URL: /wiki/IBM_ESA/390
-","s390x , URL: /wiki/Z/Architecture
-","alpha , URL: /wiki/DEC_Alpha
-","m68k , URL: /wiki/Motorola_68000_family
-","riscv , URL: /wiki/RISC-V
+"Distribution","Free software repositories","packages , URL: /wiki/Package_(package_management_system)
+","Approximate number of source packages","Default package management tool(s)","Package format","Default installer","Graphical , URL: /wiki/Graphical_user_interface
+","Netinstall , URL: /wiki/Installation_(computer_programs)#Network_installation
+","Netboot , URL: /wiki/Netboot
 "
 "Alpine Linux , URL: /wiki/Alpine_Linux
-","Yes","Yes","Yes","No","No","Yes","No","No","No","No","No","No","No","Yes","No","No","No"
+","Free, and nonfree","13,888[183][184]","?","apk",".apk","setup-alpine","No","?","?"
+"ALT Linux , URL: /wiki/ALT_Linux
+","Free, and nonfree","8,300[185]","?","APT-RPM , URL: /wiki/APT-RPM
+","RPM","","Yes","?","?"
 "Arch Linux , URL: /wiki/Arch_Linux
-","Unofficial[124] Official discontinued 2017-11-08[125]","Yes","Unofficial[126]","No","Discontinued unofficial port","No","No","No","No","Discontinued. Unofficial port[127]","No","No","No","No","No","No","Unofficial[128]"
-"BackTrack , URL: /wiki/BackTrack
-","Discontinued from BackTrack 5 and superseded by Kali Linux[129]","Discontinued from BackTrack 5 and superseded by Kali Linux","Discontinued from BackTrack 5 and superseded by Kali Linux","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free, and nonfree","12,588[186]","AUR , URL: /wiki/Arch_Linux#AUR
+","Pacman , URL: /wiki/Pacman_(package_manager)
+",".pkg.tar.zst , URL: /wiki/Zstandard
+","arch-install-scripts , URL: https://github.com/archlinux/arch-install-scripts
+archinstaller , URL: https://github.com/archlinux/archinstall
+","No","Yes","iPXE , URL: /wiki/IPXE
+"
 "BLAG , URL: /wiki/BLAG_Linux_and_GNU
-","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free only","10,000[191]","?","yum , URL: /wiki/Yellowdog_Updater,_Modified
+","RPM","","Yes","No","No"
 "Bodhi Linux , URL: /wiki/Bodhi_Linux
-","Yes","Yes","Discontinued 2013-10-23[130]","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
-"BOSS Linux , URL: /wiki/BOSS_Linux
-","Yes","Yes","?","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No"
+","Free, and nonfree","[a][192]","?","APT",".dpkg","Ubiquity","Yes","?","?"
 "CentOS , URL: /wiki/CentOS
-","AltArch","Yes","AltArch","Discontinued 3.5-3.8 4.1-4.7[131]","Beta, Discontinued 4.0","AltArch","Beta 4.2[131][132]","No","No","No","No","No","Discontinued 3.5-3.8 4.1-4.7[131][133]","Discontinued 3.5-3.8 4.1-4.7[131][133]","Discontinued 4.2-4.3[131][134][135]","No","No"
+","Free, and nonfree","6,813[b][193]","?","up2date , URL: /wiki/Up2date
+","RPM","Anaconda","Yes","Yes","?"
 "Chakra , URL: /wiki/Chakra_(operating_system)
-","No","Yes","?","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free, and nonfree","3,074[194]","CCR: 5,342[195]","Pacman (will be replaced by Akabei in future)",".pkg.tar.xz , URL: /wiki/Tar_(file_format)
+","","Package manager in development","?","?"
+"ClearOS , URL: /wiki/ClearOS
+","Free, and nonfree","[c]","?","RPM, yum","RPM","","No","?","?"
 "Clear Linux OS , URL: /wiki/Clear_Linux_OS
-","?","Yes","?","?","No","No","No","No","No","No","No","No","No","No","No","No","No"
-"CRUX , URL: /wiki/CRUX
-","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","?","?","?","?","?","?","?","?","?"
+"CrunchBang Linux , URL: /wiki/CrunchBang_Linux
+","Free, and nonfree","[d][192]","?","APT",".deb","","Yes","?","?"
 "Debian , URL: /wiki/Debian
-","Yes","Yes 4.0+","Yes 2.2+","Discontinued 3.0-7.0[137]","Discontinued 2.2-8","Yes","Discontinued 2.1-4.0[138]","Discontinued -7[139]","Discontinued 3.0-5.0","Yes","Yes 3.0+","In progress","Discontinued 3.0-7","Yes 7+","Discontinued 2.1-5.0","Discontinued 2.0-3.1","In progress[140]"
+","Free, and nonfree","148,000[192]","28,923[e]","APT",".deb","Debian-Installer , URL: /wiki/Debian-Installer
+","Yes","Yes","PXE , URL: /wiki/Preboot_Execution_Environment
+"
 "Devuan , URL: /wiki/Devuan
-","Yes","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free, and nonfree","[f][192]","?","APT",".deb","Debian-Installer , URL: /wiki/Debian-Installer
+","Yes","Yes","PXE , URL: /wiki/Preboot_Execution_Environment
+"
 "Dragora GNU/Linux-Libre , URL: /wiki/Dragora_GNU/Linux-Libre
-","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free only","484","?","pkgsystem",".tlz","?","No","No","No"
 "dyne:bolic , URL: /wiki/Dyne:bolic
-","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free only","?","?","APT",".deb","Debian-Installer , URL: /wiki/Debian-Installer
+","Yes","No","No"
 "Fedora , URL: /wiki/Fedora_(operating_system)
-","Discontinued from Fedora 30","Yes","Yes[142]","Discontinued from Fedora 9 [143]","Discontinued from Fedora 17","Yes","No","Inactive from Fedora 12[144]","No","In progress","Inactive from Fedora 13 [145]","No","No","Yes","No","No","In progress[146]"
-"Finnix , URL: /wiki/Finnix
-","Yes","Yes","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No"
+","Free, and nonfree","66,075[196]","30,681[197]","DNF , URL: /wiki/DNF_(software)
+PackageKit , URL: /wiki/PackageKit
+","RPM","Anaconda , URL: /wiki/Anaconda_(installer)
+","Yes","Yes","?"
 "Gentoo , URL: /wiki/Gentoo_Linux
-","Yes","Yes","Yes[148]","Yes","Yes","Yes","Yes","Yes","Yes","Yes[149]","Yes[150][151]","Yes","Yes","Yes","Yes","Yes","Test release[152]"
+","Free, and nonfree","10,000[198]","19,092[199][g]","Portage , URL: /wiki/Portage_(software)
+","ebuild , URL: /wiki/Ebuild
+","None (third-party install scripts only)","Yes[h]","Yes","PXE , URL: /wiki/Preboot_Execution_Environment
+"
 "gNewSense , URL: /wiki/GNewSense
-","Yes","Yes","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No","No","No"
+","Free only","?","?","APT",".deb","Debian-Installer , URL: /wiki/Debian-Installer
+","Yes","Yes","No"
 "Guix System , URL: /wiki/GNU_Guix
-","Yes","Yes","limited support for armhf 32-bit and aarch64 64-bit","No","No","No","No","No","No","No","No","No","No","No","No","No","In progress[154]"
+","Free only","18,921[200]","18,921","Guix , URL: /wiki/GNU_Guix
+",".scm , URL: /wiki/Scheme_(programming_language)
+.go , URL: /wiki/Guile_(programming_language)
+","guix system init[201]","Yes[202]","Yes[203]","No"
 "Hyperbola GNU/Linux-libre , URL: /wiki/Hyperbola_GNU/Linux-libre
-","Yes","Yes","No","No","No","In progress[155]","No","No","No","No","No","No","No","No","No","No","In progress[156]"
-"Kali Linux , URL: /wiki/Kali_Linux
-","Yes","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free only","5,257[204]","?","Pacman , URL: /wiki/Pacman_(package_manager)
+",".pkg.tar.lz , URL: /wiki/Tar_(file_format)
+","None (third-party install scripts only)","No","Yes","?"
+"Knoppix , URL: /wiki/Knoppix
+","Free, and nonfree","[i][192]","?","APT",".deb","","No","?","?"
 "LibreCMC , URL: /wiki/LibreCMC
-","No","No","No","No","No","No","No","No","No","No","XBurst , URL: /wiki/XBurst
-","No","No","No","No","No","No"
+","Free only","826","?","?","?","","No","No","No"
+"Linux Mint , URL: /wiki/Linux_Mint
+","Free, and nonfree","[j][192]","?","APT",".deb","Ubiquity , URL: /wiki/Ubiquity_(software)
+","Yes","?","?"
+"Mageia , URL: /wiki/Mageia
+","Free, and nonfree","17,283 (i586), 11,409 (x86-64)[205]","8,834[206]","urpmi , URL: /wiki/Urpmi
+rpmdrake , URL: /wiki/Rpmdrake
+","RPM","DrakX , URL: /wiki/DrakX
+","Yes","Yes","?"
+"Mandriva Linux , URL: /wiki/Mandriva_Linux
+","Free, and nonfree","22,600","?","urpmi, rpmdrake","RPM","DrakX","Yes","?","?"
 "Manjaro Linux , URL: /wiki/Manjaro_Linux
-","Yes Unofficial[157]","Yes","Yes[158]","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free, and nonfree","?","[k][187]","Pacman , URL: /wiki/Pacman_(package_manager)
+",".pkg.tar.xz , URL: /wiki/Tar_(file_format)
+","Calamares , URL: /wiki/Calamares_(software)
+","Yes[208]","Yes","iPXE , URL: /wiki/IPXE
+"
 "MEPIS , URL: /wiki/MEPIS
-","Yes","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free, and nonfree","[l][192]","?","APT",".deb","MEPIS Install","Yes","?","?"
 "Musix GNU+Linux , URL: /wiki/Musix_GNU%2BLinux
-","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free only","1,819","?","APT",".deb","Debian-Installer , URL: /wiki/Debian-Installer
+","Yes","No","No"
 "OpenELEC , URL: /wiki/OpenELEC
-","Yes","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free, and nonfree","140[209]","?","XBMCbuntu , URL: /wiki/XBMC#XBMCbuntu
+",".zip , URL: /wiki/ZIP_file_format
+","","Yes","?","?"
 "openSUSE , URL: /wiki/OpenSUSE
-","No","Yes","v7 64","No","No","ppc64le","No","No","No","No","No","No","No","No","No","No","No"
-"openSUSE , URL: /wiki/OpenSUSE
-","Yes","Yes","v6 v7 64","No","No","Yes","No","No","No","No","No","No","No","Yes","No","No","RV64G"
+","Free, and nonfree","42,236 with PackMan[210]","34,000","YaST , URL: /wiki/YaST
+Zypper , URL: /wiki/Zypper
+","RPM","YaST","Yes","Yes","?"
 "OpenWrt , URL: /wiki/OpenWrt
-","Yes","Yes","Yes","No","Yes","No","No","No","No","No","Yes","Yes","No","No","No","No","No"
-"Oracle Linux , URL: /wiki/Oracle_Linux
-","Yes","Yes","No","Discontinued 5[161]","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free, and nonfree","2,000","?","opkg , URL: /wiki/Opkg
+",".ipk","-","No","?","?"
 "Parabola GNU/Linux-libre , URL: /wiki/Parabola_GNU/Linux-libre
-","Yes","Yes","Yes, ARMv7[162][163]","No","No","Test release[164]","No","No","No","Discontinued[165]","Discontinued[165]","No","No","No","No","No","Test release[166]"
-"Red Flag Linux , URL: /wiki/Red_Flag_Linux
-","Discontinued 8.0[167]","Discontinued 8.0[167]","No","Discontinued 3[168]","No","Discontinued 3[168]","No","No","No","No","No","No","No","No","No","No","No"
-"Red Hat Linux , URL: /wiki/Red_Hat_Linux
-","Discontinued 9.0","No","No","Discontinued 7.1-7.2","Test release 5.1[170]","No","Discontinued 4.0-4.2 5.1-6.2","Test release 5.1[170]","No","No","Test release 5.1[170]","No","Discontinued 7.2","Yes","Discontinued 2.1-7.1","Test release 5.1[170]","No"
+","Free only","23,000[211]","?","Pacman , URL: /wiki/Pacman_(package_manager)
+",".pkg.tar.xz , URL: /wiki/Tar_(file_format)
+","Calamares , URL: /wiki/Calamares_(software)
+","Yes","Yes","?"
+"Pardus , URL: /wiki/Pardus_(operating_system)
+","Free, and nonfree","4,000","?","PiSi",".pisi","YALI","Yes","?","?"
+"Parsix , URL: /wiki/Parsix
+","Free, and nonfree","[m][192]","14,900","APT",".deb","","Yes","?","?"
+"PCLinuxOS , URL: /wiki/PCLinuxOS
+","Free, and nonfree","12,000","?","APT, RPM","RPM","","Yes","?","?"
+"Puppy , URL: /wiki/Puppy_Linux
+","Free, and nonfree","700","?","DotPup , URL: /wiki/DotPup
+",".pup, .pet","","Yes","?","?"
 "Red Hat Enterprise Linux , URL: /wiki/Red_Hat_Enterprise_Linux
-","Discontinued 2.1-6[172]","Yes 3+","Yes[173]","Discontinued 2.1-5[174]","Yes 3+","Yes 3+","No","No","No","No","No","No","Discontinued 3-4[175]","Yes 3+","No","No","No"
+","Free, and nonfree","3,000 (plus 9,155 from EPEL[212])","?","RPM, yum","RPM","Anaconda","Yes","?","?"
+"Rxart , URL: /wiki/Pixart
+","Free, and nonfree","[n][192]","?","APT",".deb","","Yes","?","?"
 "Sabayon Linux , URL: /wiki/Sabayon_Linux
-","Discontinued","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
-"Scientific Linux , URL: /wiki/Scientific_Linux
-","Yes","Yes","No","Discontinued 3-4","No","No","No","No","No","No","No","No","No","No","No","No","No"
-"SHR , URL: /wiki/SHR_(operating_system)
-","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free, and nonfree","[o]","?","Portage, Entropy","ebuild, .tbz2","Calamares , URL: /wiki/Calamares_(software)
+","Yes","?","?"
+"Scientific , URL: /wiki/Scientific_Linux
+","Free, and nonfree","[p]","?","APT/yum","RPM","","Yes","?","?"
 "Slackware , URL: /wiki/Slackware
-","Yes","Yes","Yes","No","No","No","Discontinued ?[176]","No","No","No","No","No","Discontinued ?[177]","Discontinued ?[177]","Discontinued 8.1[178]","No","No"
+","Free, and nonfree","2,292","7,705 from SlackBuilds[213]","slackpkg",".txz , URL: /wiki/Tar_(file_format)
+.tlz , URL: /wiki/Lzm_(file_format)
+","bash script , URL: http://ponce.cc/slackware/testing/slackware-setup-scripts/
+","No","Yes","Yes"
+"Slax , URL: /wiki/Slax
+","Free, and nonfree","2,050","?","none",".lzm","","","?","?"
+"SliTaz GNU/Linux , URL: /wiki/SliTaz_GNU/Linux
+","Free, and nonfree","3,381[215]","?","Tazpkg",".tazpkg","tazinst","Yes","iPXE , URL: /wiki/IPXE
+","iPXE , URL: /wiki/IPXE
+"
 "Solus , URL: /wiki/Solus_(operating_system)
-","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free, and nonfree","9,500","?","eopkg",".eopkg","os-installer","Yes","No","No"
 "Source Mage GNU/Linux , URL: /wiki/Source_Mage_GNU/Linux
-","Yes","Yes","No","No","Yes","No","No","No","No","?","No","No","No","No","No","No","No"
-"SUSE Linux Enterprise Server , URL: /wiki/SUSE_Linux_Enterprise_Server
-","Yes","Yes","AArch64 only[180]","Yes","Yes","Yes","No","No","No","No","No","No","No","Yes","No","No","No"
-"Trisquel GNU/Linux , URL: /wiki/Trisquel_GNU/Linux
-","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free, and nonfree","118","8,876","Sorcery Package Manager","src","","Yes","?","?"
+"SUSE Linux , URL: /wiki/SUSE_Linux
+","Free, and nonfree","24,094","11,385","YaST, Zypper","RPM","YaST","Yes","?","?"
+"Tiny Core Linux , URL: /wiki/Tiny_Core_Linux
+","Free, and nonfree","25,160","?","ab, tce-load","tcz","tc-install, core2usb","Yes","?","?"
+"Tiny SliTaz , URL: /wiki/Tiny_SliTaz
+","Free, and nonfree","50","?","Web site[216]","tazpkg","","No","?","iPXE , URL: /wiki/IPXE
+"
+"Trisquel , URL: /wiki/Trisquel
+","Free only","52,748[217]","?","APT",".deb","Ubiquity","Yes","Yes","?"
 "TurnKey GNU/Linux , URL: /wiki/TurnKey_Linux_Virtual_Appliance_Library
-","Selected ISOs available","Yes","No - but under development by community","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+","Free, and nonfree","[q][192] (plus ≈30 custom packages)","21,041[r] (currently TurnKey only supplies source code for custom packages)","APT",".deb","DI-Live (custom fork of Debian Installer)","No","No","No"
 "Ubuntu , URL: /wiki/Ubuntu_(operating_system)
 Kubuntu , URL: /wiki/Kubuntu
 Xubuntu , URL: /wiki/Xubuntu
-Lubuntu , URL: /wiki/Lubuntu
-","Discontinued from Ubuntu 20.04","Yes","ARMv8-A , URL: /wiki/ARMv8-A
-","No","Yes","Yes","No","No","No","No","No","No","No","Ubuntu only, 16.04+[181]","No","No","No"
+","Free, and nonfree","93,920[s][192][218]","24,474[t]","APT",".deb","Ubiquity","Yes","Yes","PXE , URL: /wiki/Preboot_Execution_Environment
+"
 "Ututo , URL: /wiki/Ututo
-","Yes","Yes","No","No","No","No","No","No","No","In progress","No","No","No","No","No","No","No"
+","Free only","5,000","?","UTUTO Package Manager","ebuild","?","?","No","No"
+"Vector Linux , URL: /wiki/Vector_Linux
+","Free, and nonfree","?","?","slapt-get , URL: /wiki/Slapt-get
+gslapt , URL: /wiki/Gslapt
+","tgz","","Yes","?","?"
 "Void Linux , URL: /wiki/Void_Linux
-","Yes","Yes","Yes","No","Unofficial[182]","Unofficial[182]","No","No","No","No","No","No","No","No","No","No","No"
-"XBMCbuntu , URL: /wiki/XBMC#XBMCbuntu
-","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
-"Yellow Dog Linux , URL: /wiki/Yellow_Dog_Linux
-","No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No"
-"Distribution","x86","x86-64","arm","ia64","ppc","ppc64","sparc32","sparc64","hppa","loongson","mips","sh","s390","s390x","alpha","m68k","riscv"
+","Free, nonfree and multilib","6,000","6,719","xbps",".xbps","ncurses script","Yes","Yes","No"
+"XBMC Live , URL: /wiki/XBMC_Live
+","Free, and nonfree","?","?","APT",".deb","","No","?","?"
+"Zentyal , URL: /wiki/Zentyal
+","Free, and nonfree","[u][192]","?","APT",".deb","dpkg","Yes","?","?"
+"Zenwalk , URL: /wiki/Zenwalk
+","Free, and nonfree","2,000","?","netpkg, installpkg, upgradepkg","tgz, txz","","Yes","?","?"
+"Distribution","Free software repositories","packages , URL: /wiki/Package_(package_management_system)
+","Approximate number of source packages","Default package management tools","Package format","Default installer","Graphical , URL: /wiki/Graphical_user_interface
+","Netinstall , URL: /wiki/Installation_(computer_programs)#Network_installation
+","Netboot , URL: /wiki/Netboot
+"

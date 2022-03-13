@@ -1,1 +1,134 @@
-"","This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages) This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. Find sources: "Comparison of programming paradigms" – news · newspapers · books · scholar · JSTOR (August 2015) (Learn how and when to remove this template message) This section possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (August 2015) (Learn how and when to remove this template message) (Learn how and when to remove this template message)"
+"Paradigm , URL: /wiki/Programming_paradigm
+","Description","Main traits","Related paradigm(s)","Critique , URL: /wiki/Critique
+","Examples"
+"Imperative , URL: /wiki/Imperative_programming
+","statements , URL: /wiki/Statement_(programming)
+state , URL: /wiki/State_(computer_science)
+datafields , URL: /wiki/Field_(computer_science)
+","assignments , URL: /wiki/Assignment_(computer_science)
+data structures , URL: /wiki/Data_structure
+global variables , URL: /wiki/Global_variable
+","","Edsger W. Dijkstra , URL: /wiki/Edsger_W._Dijkstra
+Michael A. Jackson , URL: /wiki/Michael_A._Jackson_(computer_scientist)
+","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Java , URL: /wiki/Java_(programming_language)
+Kotlin , URL: /wiki/Kotlin_(programming_language)
+PHP , URL: /wiki/PHP
+Python , URL: /wiki/Python_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+"
+"Structured , URL: /wiki/Structured_programming
+","imperative programming , URL: /wiki/Imperative_programming
+","Structograms , URL: /wiki/Structogram
+indentation , URL: /wiki/Indent_style
+goto , URL: /wiki/Goto
+","Imperative","","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Java , URL: /wiki/Java_(programming_language)
+Kotlin , URL: /wiki/Kotlin_(programming_language)
+Pascal , URL: /wiki/Pascal_(programming_language)
+PHP , URL: /wiki/PHP
+Python , URL: /wiki/Python_(programming_language)
+"
+"Procedural , URL: /wiki/Procedural_programming
+","modular programming , URL: /wiki/Modular_programming
+","Local variables , URL: /wiki/Local_variable
+iteration , URL: /wiki/Iteration
+modularization , URL: /wiki/Modular_programming
+","Structured, imperative","","C , URL: /wiki/C_(programming_language)
+C++ , URL: /wiki/C%2B%2B
+Lisp , URL: /wiki/Lisp_(programming_language)
+PHP , URL: /wiki/PHP
+Python , URL: /wiki/Python_(programming_language)
+"
+"Functional , URL: /wiki/Functional_programming
+","computation , URL: /wiki/Computation
+mathematical functions , URL: /wiki/Function_(mathematics)
+state , URL: /wiki/Program_state
+mutable , URL: /wiki/Immutable_object
+","Lambda calculus , URL: /wiki/Lambda_calculus
+compositionality , URL: /wiki/Denotational_semantics#Compositionality
+formula , URL: /wiki/Formula
+recursion , URL: /wiki/Recursion_(computer_science)
+referential transparency , URL: /wiki/Referential_transparency
+side effects , URL: /wiki/Side_effect_(computer_science)
+","Declarative","","C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_sharp_(programming_language)
+Clojure , URL: /wiki/Clojure
+CoffeeScript , URL: /wiki/CoffeeScript
+Elixir , URL: /wiki/Elixir_(programming_language)
+Erlang , URL: /wiki/Erlang_(programming_language)
+F# , URL: /wiki/F_Sharp_(programming_language)
+Haskell , URL: /wiki/Haskell_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+Kotlin , URL: /wiki/Kotlin_(programming_language)
+Lisp , URL: /wiki/Lisp_(programming_language)
+Python , URL: /wiki/Python_(programming_language)
+R , URL: /wiki/R_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+Scala , URL: /wiki/Scala_(programming_language)
+SequenceL , URL: /wiki/SequenceL
+Standard ML , URL: /wiki/Standard_ML
+JavaScript , URL: /wiki/JavaScript
+Elm , URL: /wiki/Elm_(programming_language)
+"
+"Event-driven , URL: /wiki/Event-driven_programming
+time-driven , URL: /wiki/Time-driven_programming
+","Control flow , URL: /wiki/Control_flow
+events , URL: /wiki/Event_(computing)
+mouse clicks , URL: /wiki/Mouse_click
+","Main loop , URL: /wiki/Main_loop
+asynchronous processes , URL: /wiki/Asynchronous_programming
+","dataflow , URL: /wiki/Dataflow
+","","JavaScript , URL: /wiki/JavaScript
+ActionScript , URL: /wiki/ActionScript
+Visual Basic , URL: /wiki/Visual_Basic
+Elm , URL: /wiki/Elm_(programming_language)
+"
+"Object-oriented , URL: /wiki/Object-oriented_programming
+","datafields , URL: /wiki/Field_(computer_science)
+methods , URL: /wiki/Method_(computer_science)
+","Objects , URL: /wiki/Object_(computer_science)
+message passing , URL: /wiki/Message_passing
+information hiding , URL: /wiki/Information_hiding
+data abstraction , URL: /wiki/Data_abstraction
+encapsulation , URL: /wiki/Encapsulation_(computer_programming)
+polymorphism , URL: /wiki/Polymorphism_(computer_science)
+inheritance , URL: /wiki/Inheritance_(computer_science)
+serialization , URL: /wiki/Serialization
+","Procedural","Wikipedia , URL: /wiki/Object-oriented_programming#Criticism
+","Common Lisp , URL: /wiki/Common_Lisp
+C++ , URL: /wiki/C%2B%2B
+C# , URL: /wiki/C_sharp_(programming_language)
+Eiffel , URL: /wiki/Eiffel_(programming_language)
+Java , URL: /wiki/Java_(programming_language)
+Kotlin , URL: /wiki/Kotlin_(programming_language)
+PHP , URL: /wiki/PHP
+Python , URL: /wiki/Python_(programming_language)
+Ruby , URL: /wiki/Ruby_(programming_language)
+Scala , URL: /wiki/Scala_(programming_language)
+JavaScript , URL: /wiki/JavaScript
+"
+"Declarative , URL: /wiki/Declarative_programming
+","control flow , URL: /wiki/Control_flow
+","Fourth-generation languages , URL: /wiki/Fourth-generation_programming_language
+spreadsheets , URL: /wiki/Spreadsheet
+report program generators , URL: /wiki/Report_program_generator
+","","","SQL , URL: /wiki/SQL
+regular expressions , URL: /wiki/Regular_expression
+Prolog , URL: /wiki/Prolog
+OWL , URL: /wiki/Web_Ontology_Language
+SPARQL , URL: /wiki/SPARQL
+Datalog , URL: /wiki/Datalog
+XSLT , URL: /wiki/XSLT
+"
+"Automata-based programming , URL: /wiki/Automata-based_programming
+","finite state machine , URL: /wiki/Finite_state_machine
+","enumeration , URL: /wiki/Enumeration
+control variable , URL: /wiki/Control_variable_(programming)
+state , URL: /wiki/State_(computer_science)
+isomorphism , URL: /wiki/Isomorphism
+state transition table , URL: /wiki/State_transition_table
+","Imperative, event-driven","","Abstract State Machine Language , URL: /wiki/Abstract_State_Machine_Language
+"

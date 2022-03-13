@@ -1,127 +1,61 @@
-"Name","Manufacturer","Release","Size","Type","Capacity (GB)[1]","Storage","External","Dimensions (mm × mm)","Depth (mm)","Weight (g)","Firmware"
-"Archos 105 , URL: /wiki/Archos_105
-","Archos , URL: /wiki/Archos
-","2007-08-31[2]","","DAP , URL: /wiki/Digital_audio_player
-","0002 2","Flash , URL: /wiki/Flash_memory
-","SDHC , URL: /wiki/Secure_Digital_card#SDHC
-","85 × 45","7","50[4]","1.6.07[5]"
-"Archos 405 , URL: /wiki/Archos_405
-","Archos , URL: /wiki/Archos
-","2007-09-01[6]","Mini","PMP , URL: /wiki/Portable_media_player
-","0002 2","Flash","SDHC[3]","99.6 × 78","13.2","119.07","1.8.03[7][8]"
-"Archos 405 , URL: /wiki/Archos_405
-","Archos , URL: /wiki/Archos
-","2008-02-07[9]","Mini","PMP , URL: /wiki/Portable_media_player
-","0030 30","HDD , URL: /wiki/Hard_disk
-","","100 × 78","15","191","1.8.03[7][8]"
-"Archos 5 , URL: /wiki/Archos_Generation_6
-","Archos , URL: /wiki/Archos
-","2008-08-19","Mid","PMP","0500 120/500","HDD","8–32 GB and Micro SD Slot (SDHC compatible)","127 × 78.8","19.4","300","1.6.53[10]"
-"Archos 605 WiFi , URL: /wiki/Archos_605_WiFi
-GPS , URL: /wiki/Archos_Generation_5#605_GPS
-","Archos , URL: /wiki/Archos
-","2007-09-01[11]","Mid","PMP","0004 4","Flash","SDHC[3]","122 × 81","15","150","1.8.03[12][13]"
-"Archos 605 WiFi , URL: /wiki/Archos_605_WiFi
-GPS , URL: /wiki/Archos_Generation_5#605_GPS
-","Archos , URL: /wiki/Archos
-","2007-09-01[11]","Mid","PMP","0160 30/80/160","HDD","","122 × 81","15","190","1.8.03[12][13]"
-"Archos 705 WiFi , URL: /wiki/Archos_705_WiFi
-","Archos , URL: /wiki/Archos
-","2007-11-27[14]","Mega","PMP","0160 80/160","HDD","","182 × 128","19.69","630","1.8.03[15]"
-"Cowon A3 , URL: /wiki/Cowon_A3
-","Cowon , URL: /wiki/Cowon
-","2007-11-14[16]","Mid","PMP","0080 30/60/80","HDD","","133.4 × 78.5","22","280","1.24[17]"
-"Cowon D2 , URL: /wiki/Cowon#Cowon_D2
-","Cowon , URL: /wiki/Cowon
-","2006-12-05[18]","Micro","PMP","0016 2/4/8/16","Flash","SDHC[3]","78.0 × 55.4","16.6","91.0","2.57[19]"
-"Cowon Q5W , URL: /wiki/Cowon#Cowon_Q5W
-","Cowon , URL: /wiki/Cowon
-","2007-11-30[20]","Mid","PMP","0080 40/60/80","HDD","","138.8 × 88.5","20","380","1.5[21]"
-"Cowon O2PMP , URL: /wiki/Cowon#Cowon_O2PMP
-","Cowon , URL: /wiki/Cowon
-","","Mid","PMP","0032 8/16/32","Flash","","119 × 73","18","205",""
-"Gigabeat T-Series , URL: /wiki/Toshiba_Gigabeat#Gigabeat_T
-","Toshiba , URL: /wiki/Toshiba
-","2007-09-25[22]","Micro","PMP","0004 4","Flash","","2.13 × 3.38","15","58.11","No release"
-"GP2X F-200 , URL: /wiki/GP2X
-","GamePark Holdings , URL: /wiki/GamePark_Holdings
-","2007-10-28[23]","Mid","HGC , URL: /wiki/Handheld_game_console
-","0064 64","","SDHC[3]","144 × 83","34","161","4.0.0[24]"
-"iPod , URL: /wiki/IPod
-","Apple , URL: /wiki/Apple_Inc.
-","2001[25]","","","","","","","","",""
-"iPod classic , URL: /wiki/IPod_classic
-","Apple , URL: /wiki/Apple_Inc.
-","2007-09-07[26]","Mini","DAP","0160 160","HDD","","104 × 61","10","140","1.1.2[27]"
-"iPod nano , URL: /wiki/IPod_nano
-","Apple , URL: /wiki/Apple_Inc.
-","2010-09-08[28]","Micro","DAP","0016 8/16","Flash","","38 × 41","8.9","21","1.2[29]"
-"iPod touch , URL: /wiki/IPod_touch
-","Apple , URL: /wiki/Apple_Inc.
-","2012-10-09[30]","Mini","PMP","0064 32/64","Flash","","123.4 x 58.6","6.1","88","9.0 , URL: /wiki/IOS_9
-"
-"iriver clix 2G , URL: /wiki/Iriver_clix#Second_generation
-","ReignCom , URL: /wiki/ReignCom
-","2007-04-24[31]","Micro","PMP","0008 2/4/8","Flash","","80 × 47","8.1–12.7","54","1.07"
-"PSP Slim & Lite , URL: /wiki/PlayStation_Portable_Slim_%26_Lite
-","Sony , URL: /wiki/Sony
-","2007-08-30[32]","Mid","PMP, HGC","0064 64[33]","","Memory Stick , URL: /wiki/Memory_Stick
-","170 × 74","18","189","6.10[34]"
-"Rio PMP300 , URL: /wiki/Rio_PMP300
-","Diamond Multimedia , URL: /wiki/Diamond_Multimedia
-","1998-09-15","Mid","DAP","0.032","Flash","SmartMedia","89x63","16","",""
-"Samsung Galaxy Player 4.0 & 5.0 , URL: /wiki/Samsung_Galaxy_Player
-","Samsung , URL: /wiki/Samsung
-","2011-10-16[35]","Mid","PMP","0008 8/16","Flash","microSDHC","123.7 x 64.2 (4.0), 141.3 x 78.2 (5.0)","9.9 (4.0), 11.9 (5.0)","121 (4.0), 182 (5.0)","2.3.5"
-"Samsung T10 , URL: /wiki/Samsung_T10
-","Samsung , URL: /wiki/Samsung
-","2007-09","","DAP","0008 2/4/8","Flash","","96 × 41.4","7.9","43","3.06[36]"
-"Samsung P2 , URL: /wiki/Samsung_P2
-","Samsung , URL: /wiki/Samsung
-","2007-09","","DAP","0008 4/8","Flash","","100 × 52","9.9","83","5.10[37]"
-"Sansa Fuze , URL: /wiki/SanDisk_Sansa#Sansa_Fuze
-","SanDisk , URL: /wiki/SanDisk
-","2008-03-17[38]","","DAP","0008 2/4/8","Flash","microSDHC","78.7 × 48.3","7.6","59.5","01.02.28 & 02.03.33[39]"
-"Sansa Fuze+ , URL: /wiki/Sansa_Fuze%2B
-","SanDisk , URL: /wiki/SanDisk
-","2010-09-01[40]","","PMP","0008 4/8/16","Flash","microSD microSDHC","96.5 × 50.7","11.1","170","02.38.06[41]"
-"Sansa View , URL: /wiki/Sansa_View
-","SanDisk , URL: /wiki/SanDisk
-","2007-10-26[42]","","PMP","0032 8/16/32","Flash","microSDHC","109 × 50","10","82","01.03.02a[43]"
-"Walkman NWZ-A820 series , URL: /wiki/Walkman#Walkman_Video_MP3_Player
-","Sony , URL: /wiki/Sony
-","2008-03-28[44]","","DAP","0008 4/8/16","Flash","","89 × 43","10","54","1.02"
-"Walkman NWZ-E580 series , URL: /wiki/Walkman#Walkman_Video_MP3_Player
-","Sony , URL: /wiki/Sony
-","2013-07-10[45]","","DAP","0008 8/16","","","42.1 x 92.1","8","49",""
-"ZEN , URL: /wiki/ZEN_(portable_media_player)
-","Creative , URL: /wiki/Creative_Technology
-","2007-09-14[46]","Micro","PMP","0032 2/4/8/16/32","Flash","SDHC[3]","83 × 55","11","65","1.21.01[47]"
-"ZEN X-Fi , URL: /wiki/Creative_Zen_X-FI
-","Creative , URL: /wiki/Creative_Technology
-","2008-07-10","Micro","PMP","0032 8/16/32","Flash","SD","83 × 55","13","69","1.03.01[48]"
-"ZEN Vision W , URL: /wiki/ZEN_Vision_W
-","Creative , URL: /wiki/Creative_Technology
-","2006-08-30","Mid","PMP","0060 30/60","HDD","CF , URL: /wiki/CompactFlash
-","134 × 75","22","276","1.10.01[49]"
-"Zune 30 , URL: /wiki/Zune_30
-","Microsoft , URL: /wiki/Microsoft
-","2006-11-14","Mid","PMP","0030 30","HDD","","112 × 61","15","160","3.3[50]"
-"Zune 4/8 , URL: /wiki/Zune_4,_8,_16
-","Microsoft , URL: /wiki/Microsoft
-","2007-11-13[51]","Micro","PMP","0008 4/8","Flash","","91 × 41","8.4","47","3.3[50]"
-"Zune 16 , URL: /wiki/Zune_4,_8,_16
-","Microsoft , URL: /wiki/Microsoft
-","2008-09-16","Micro","PMP","0016 16","Flash","","91 × 41","8.4","47","3.3[50]"
-"Zune 80 , URL: /wiki/Zune_80,_120
-","Microsoft , URL: /wiki/Microsoft
-","2007-11-13[51]","Mid","PMP","0080 80","HDD","","108 × 61","13","128","3.3[50]"
-"Zune 120 , URL: /wiki/Zune_80,_120
-","Microsoft , URL: /wiki/Microsoft
-","2008-09-16","Mid","PMP","0120 120","HDD","","108 × 61","13","128","3.3[50]"
-"Zune HD , URL: /wiki/Zune_HD
-","Microsoft , URL: /wiki/Microsoft
-","2009-09-15","Mini","PMP","0064 16/32/64","Flash","","104 × 53","8.9","74","4.5"
-"Zvue 260 , URL: /wiki/Zvue#ZVUE_260
-","Zvue","2007-07-17[52]","","DAP","0000 None","HDD","SDHC[3]","106 × 65","13","120","2.80 I_071012[53]"
-"Name","Manufacturer","Release","Size","Type","Capacity (GB)[1]","Storage","External","Dimensions (mm × mm)","Depth (mm)","Weight (g)","Firmware"
+"Name","Navigation","Audio out","Speaker","Screen size (in)","Screen type","px , URL: /wiki/Pixel
+","Frame rate , URL: /wiki/Frame_rate
+","Color depth , URL: /wiki/Color_depth
+bpp , URL: /wiki/Pixel#Bits_per_pixel
+","Video out","Video battery life (hr)","Audio battery life (hr)"
+"Archos 105[54]","D-pad , URL: /wiki/D-pad
+","Headphone jack , URL: /wiki/Jack_(connector)
+","No","1.8","OLED , URL: /wiki/Organic_light-emitting_diode
+","160 × 128","30","18 , URL: /wiki/Color_depth#LCD_displays
+","Component , URL: /wiki/Component_video
+Composite , URL: /wiki/Composite_video
+","Unknown","18"
+"Archos 405[55][56]","D-pad , URL: /wiki/D-pad
+","Headphone jack , URL: /wiki/Jack_(connector)
+dock connector , URL: /wiki/Dock_connector
+","No","3.5","TFT LCD , URL: /wiki/Thin_film_transistor_liquid_crystal_display
+","320 × 240","30","24 , URL: /wiki/24-bit_color
+","Component , URL: /wiki/Component_video
+Composite , URL: /wiki/Composite_video
+","5","16"
+"Archos 5[57]","Touchscreen , URL: /wiki/Touchscreen
+","Headphone jack","Yes","4.8","TFT LCD","800 × 480","30","24","S-Video, composite via docking","7","22"
+"Archos 605 WiFi/GPS[58][59]","touchscreen , URL: /wiki/Touchscreen
+","Headphone jack","Yes","4.3","TFT LCD","800 × 480","30","24","Component, composite","5.5","15"
+"Archos 705 WiFi[60]","touchscreen , URL: /wiki/Touchscreen
+","Headphone jack","Yes","7","TFT LCD","800 × 480","30","18","Component, composite","5.5","15"
+"Cowon A3[61]","D-pad, 4 buttons","Headphone jack","Yes","4","TFT LCD","800 × 480","30","24","Component, composite, S-video","10","18"
+"Cowon D2[62]","Touchscreen, 3 buttons","Headphone jack","No","2.5","TFT LCD","320 × 240","30","24","Component, composite","10","52"
+"Cowon Q5W[63]","Touchscreen","Headphone jack","Yes","5","TFT LCD","800 × 480","30","24","Component, S-video, composite","7","13"
+"Gigabeat T-Series[64]","D-pad, 4 buttons","Headphone jack","No","2.4","TFT LCD","320 × 240","25","18","No","5","16"
+"GP2X F-200[65]","8-way d-pad/touchscreen, 9 buttons","Headphone jack","Yes","3.5","TFT LCD","320 × 240","30","16 , URL: /wiki/Highcolor
+","Component","3.5","6"
+"iPod classic[66]","Click wheel , URL: /wiki/Click_wheel
+","Headphone jack, dock connector","Clicker only","2.5","TFT LCD","320 × 240","30","16","Component, composite","6","36"
+"iPod nano 5G[67]","Click wheel, 1 center, 4 embedded buttons","Headphone jack, dock connector","Yes","2.25","TFT LCD","320 × 240","30","16","Component, composite","4","24"
+"iPod nano 6G[67]","Multi-touch screen","Headphone jack, dock connector","No","1.54","TFT LCD","240 × 240","","","Component, composite","No video support","24"
+"iPod touch[68]","Multi-touch screen, 3 buttons","Headphone jack, dock connector","Yes (ex. 1st and 2nd gen.)","3.5","TFT LCD","480 × 320 (4th gen. 960 × 640)","30","24 (4th gen.) 18 (1st. - 3rd gen.)","Component, composite","6","40 (4th gen), 30 (3rd gen), 36 (2nd gen), 24 (1st gen)"
+"iriver clix 2G[69]","D-pad, 4 embedded buttons","Headphone jack","No","2.2","AM , URL: /wiki/Active_matrix_addressing
+","320 × 240","30","18","No","5","25"
+"PSP Slim/Lite[70]","Analog stick/d-pad, 15 buttons","Headphone jack, dock connector","Yes","4.3","TFT LCD","480 × 272","30","24","d-terminal , URL: /wiki/D-terminal
+","4","10"
+"Samsung Galaxy Player 4.0 & 5.0[71]","Touchscreen, 3 buttons","Headphone jack","Yes","4.0/5.0","TFT LCD","800 × 480","","","","5 (4.0), 8 (5.0)","36 (4.0), 60 (5.0)"
+"Samsung T10[72]","D-pad, 5 buttons","Headphone jack","No","2","TFT LCD","320 × 240","30","18","No","4","30"
+"Samsung P2[72]","Touchscreen, 4 buttons","Headphone jack","No","3","TFT LCD","480 × 272","30","18","No","5","35"
+"Sansa Fuze[73]","Scroll ring , URL: /wiki/Scroll_wheel
+","Headphone jack, dock connector","No","1.9","TFT LCD","224 × 176","20","16","Composite","5","24"
+"Sansa Fuze+[74]","Touchpad , URL: /wiki/Touchpad
+","Headphone jack","No","2.4","TFT LCD","320 × 240","30","16","","5","24"
+"Sansa View[75][76]","Scroll wheel , URL: /wiki/Scroll_wheel
+","Headphone jack, dock connector","No","2.4","TFT LCD","320 × 240","30","16","Composite","7","35"
+"Walkman NWZ-A810 series[77]","D-pad, 7 buttons","Headphone jack","No","2","TFT LCD","320 × 240","30","16","Composite","8","33"
+"ZEN[78]","D-pad, 9 buttons","Headphone jack","No","2.5","TFT LCD","320 × 240","30","24","No","5","30"
+"ZEN Vision W[79]","D-pad, 12 buttons","Headphone jack, dock connector","Yes","4.3","TFT LCD","480 × 272","30","18","Composite","4.5","13"
+"Zune 4/8/16[80][81][82]","Zune pad , URL: /wiki/Zune_pad
+","Headphone jack, dock connector","No","1.8","TFT LCD","320 × 240","30","16","No","4","23 (Wi-Fi)/24"
+"Zune 80/120[83][84]","Zune pad, 2 buttons","Headphone jack, dock connector","No","3.2","TFT LCD","320 × 240","30","16","Component, composite","4","29 (Wi-Fi)/30"
+"Zune HD[85]","Touchscreen, 3 buttons","Headphone jack, dock connector","No","3.3","OLED","480 × 272","30","Unknown","HDMI, composite","8.5","33 (Wi-Fi off)"
+"ZVUE 260[86]","D-pad, 9 buttons","Headphone jack","Yes","2.5","AM , URL: /wiki/Active-matrix_liquid_crystal_display
+TFT , URL: /wiki/Thin_film_transistor
+LCD , URL: /wiki/Active-matrix_liquid_crystal_display
+","234 × 160","30","24","No","Unknown","6"

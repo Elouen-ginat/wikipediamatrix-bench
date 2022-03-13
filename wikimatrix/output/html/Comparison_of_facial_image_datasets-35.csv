@@ -1,7 +1,10 @@
 "Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
-"Bike Sharing Dataset","Hourly and daily count of rental bikes in a large city.","Many features, including weather, length of trip, etc., are given.","17,389","Text","Regression","2013","[481][482]","H. Fanaee-T"
-"New York City Taxi Trip Data","Trip data for yellow and green taxis in New York City.","Gives pick up and drop off locations, fares, and other details of trips.","6 years","Text","Classification, clustering","2015","[483]","New York City Taxi and Limousine Commission , URL: /wiki/New_York_City_Taxi_and_Limousine_Commission
+"Webpages from Common Crawl 2012","Large collection of webpages and how they are connected via hyperlinks","None.","3.5B","Text","clustering, classification","2013","[488]","V. Granville"
+"Internet Advertisements Dataset","Dataset for predicting if a given image is an advertisement or not.","Features encode geometry of ads and phrases occurring in the URL.","3279","Text","Classification","1998","[489][490]","N. Kushmerick"
+"Internet Usage Dataset","General demographics of internet users.","None.","10,104","Text","Classification, clustering","1999","[491]","D. Cook"
+"URL Dataset","120 days of URL data from a large conference.","Many features of each URL are given.","2,396,130","Text","Classification","2009","[492][493]","J. Ma"
+"Phishing Websites Dataset","Dataset of phishing websites.","Many features of each site are given.","2456","Text","Classification","2015","[494]","R. Mustafa et al."
+"Online Retail Dataset","Online transactions for a UK online retailer.","Details of each transaction given.","541,909","Text","Classification, clustering","2015","[495]","D. Chen"
+"Freebase Simple Topic Dump","Freebase is an online effort to structure all human knowledge.","Topics from Freebase have been extracted.","large","Text","Classification, clustering","2011","[496][497]","Freebase , URL: /wiki/Freebase_(database)
 "
-"Taxi Service Trajectory ECML PKDD","Trajectories of all taxis in a large city.","Many features given, including start and stop points.","1,710,671","Text","Clustering, causal-discovery","2015","[484][485]","M. Ferreira et al."
-"METR-LA","Speed from loop detectors in the highway of Los Angeles County.","Average speed in 5 minutes timesteps.","7,094,304 from 207 sensors and 34,272 timesteps","Comma separated values","Regression, Forecasting","2014","[486]","Jagadish et al."
-"PeMS","Speed, flow, occupancy and other metrics from loop detectors and other sensors in the freeway of the State of California, U.S.A..","Metric usually aggregated via Average into 5 minutes timesteps.","39,000 individual detectors, each containing years of timeseries","Comma separated values","Regression, Forecasting, Nowcasting, Interpolation","(updated realtime)","[487]","California Department of Transportation"
+"Farm Ads Dataset","The text of farm ads from websites. Binary approval or disapproval by content owners is given.","SVMlight sparse vectors of text words in ads calculated.","4143","Text","Classification","2011","[498][499]","C. Masterharm et al."

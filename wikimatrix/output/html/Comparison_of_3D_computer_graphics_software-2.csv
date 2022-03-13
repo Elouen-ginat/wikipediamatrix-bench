@@ -1,224 +1,91 @@
-"Application","Latest release date and version","Developed by","Platforms","Mainly Used For","License"
-"3ds Max","2020-08-27 v 2021.2","Autodesk , URL: /wiki/Autodesk
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Modeling, Animation (Video Games and Movies), FX Simulations, Lighting, Rendering","Proprietary , URL: /wiki/Proprietary_software
-"
-"AC3D","2020-11-01 v 8.6","Inivis , URL: /w/index.php?title=Inivis&action=edit&redlink=1
+"Name","Windows , URL: /wiki/Microsoft_Windows
+","macOS , URL: /wiki/MacOS
 ","Linux , URL: /wiki/Linux
-Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Modeling","Proprietary , URL: /wiki/Proprietary_software
+","Unix , URL: /wiki/Unix
+","BSD , URL: /wiki/Berkeley_Software_Distribution
+","Other"
+"3ds Max , URL: /wiki/3ds_Max
+","Yes","No","No","No","No","No"
+"AC3D , URL: /wiki/AC3D
+","Yes","Yes","Yes","No","No","No"
+"Art of Illusion , URL: /wiki/Art_of_Illusion_(software)
+","N/A","N/A","N/A","N/A","N/A","Java virtual machine , URL: /wiki/Java_virtual_machine
 "
-"Alibre Design","2018-07-16 v 2018","Alibre, LLC , URL: /w/index.php?title=Alibre,_LLC&action=edit&redlink=1
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Computer Aided Design","Proprietary , URL: /wiki/Proprietary_software
-"
-"AutoCAD","2020-03-28 v 2021","Autodesk , URL: /wiki/Autodesk
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-","2D Computer Aided Design, 3D Modeling, Basic Rendering, Rudimentary Animation (of Camera, not objects)","Proprietary , URL: /wiki/Proprietary_software
-"
-"Blender","2022-01-28 v 3.0.1","Blender Foundation , URL: /wiki/Blender_Foundation
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-Mac OS X , URL: /wiki/Mac_OS_X
-Linux , URL: /wiki/Linux
-BSD , URL: /wiki/BSD
-Solaris , URL: /wiki/Solaris_(operating_system)
+"AutoCAD","Yes","Yes","No","No","No","No"
+"Blender , URL: /wiki/Blender_(software)
+","Yes","Yes","Yes","Yes","Yes","Solaris , URL: /wiki/Solaris_(operating_system)
 AmigaOS 4 , URL: /wiki/AmigaOS_4
 MorphOS , URL: /wiki/MorphOS
-","2D/3D toon Animation, Lighting, Modeling, Node based Material Creation / Texturing / 3D Texture Painting/ UV Mapping, Rendering (Internal, External, 3D Anaglyph and VR), 3D Rigging and Animation, Sculpting, Visual 3D Effects, Basic Post-Production Video Editing, Motion Tracking, Python Scripting, Fluid Simulation, Particles, Physics, Compositing","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
 "
-"Carrara","2013-08-26 8.5.1.19","Daz 3D , URL: /wiki/Daz_3D
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-Mac OS X , URL: /wiki/Mac_OS_X
-","Animation, Modeling","Proprietary , URL: /wiki/Proprietary_software
+"Carrara , URL: /wiki/Carrara
+","Yes","Yes","No","No","No","No"
+"Cheetah 3D , URL: /wiki/Cheetah_3D
+","No","Yes","No","No","No","No"
+"Cinema 4D , URL: /wiki/Cinema_4D
+","Yes","Yes","No","No","No","Amiga OS , URL: /wiki/Amiga_OS
 "
-"Cheetah 3D","2019-08-24 v 7.4","Martin Wengenmayer , URL: /w/index.php?title=Martin_Wengenmayer&action=edit&redlink=1
-","Mac OS X , URL: /wiki/Mac_OS_X
-","Animation, Modeling, Rendering","Proprietary , URL: /wiki/Proprietary_software
+"Clara.io , URL: /wiki/Clara.io
+","Yes","Yes","Yes","Yes","Yes","Chrome OS , URL: /wiki/Chrome_OS
+Android , URL: /wiki/Android_(operating_system)
 "
-"Cinema 4D","2020-09-11 R23","Maxon , URL: /wiki/Maxon_Computer_GmbH
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-Amiga OS , URL: /wiki/Amiga_OS
-","Animation, Lighting, Modeling, Visual 3D Effects, Rendering, Simulation","Proprietary , URL: /wiki/Proprietary_software
+"DesignSpark Mechanical , URL: /wiki/DesignSpark_Mechanical
+","Yes","No","No","No","No","No"
+"Electric Image Animation System , URL: /wiki/Electric_Image_Animation_System
+","Yes","Yes","No","No","No","No"
+"form-Z , URL: /wiki/Form-Z
+","Yes","Yes","No","No","No","No"
+"HiCAD , URL: /wiki/HiCAD
+","Yes","No","No","No","No","No"
+"Houdini , URL: /wiki/Houdini_(software)
+","Yes","Yes","Yes","No","No","No"
+"IClone , URL: /wiki/IClone
+","Yes","No","No","No","No","No"
+"LightWave 3D , URL: /wiki/LightWave_3D
+","Yes","Yes","No","No","No","AmigaOS , URL: /wiki/AmigaOS
 "
-"CityEngine","2018-09-18 v 2018.1","Procedural , URL: /wiki/Procedural_programming
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-Linux , URL: /wiki/Linux
-","Procedural Modeling of 3D Cities","Proprietary , URL: /wiki/Proprietary_software
+"MakeHuman , URL: /wiki/MakeHuman
+","Yes","Yes","Yes","No","No","No"
+"Massive , URL: /wiki/Massive_(software)
+","Yes","No","Yes","No","No","No"
+"Maya , URL: /wiki/Maya_(software)
+","Yes","Yes","Yes","No","No","No"
+"Metasequoia , URL: /wiki/Metasequoia_(software)
+","Yes","Yes","No","No","No","No"
+"Modo , URL: /wiki/Modo_(software)
+","Yes","Yes","Yes","No","No","No"
+"POV-Ray , URL: /wiki/POV-Ray
+","Yes","Yes","Yes","No","No","Amiga OS , URL: /wiki/Amiga_OS
+Atari TOS , URL: /wiki/Atari_TOS
 "
-"Clara.io","redesigned in 2015-03-31","Exocortex","Mozilla FireFox , URL: /wiki/Mozilla_FireFox
-Google Chrome , URL: /wiki/Google_Chrome
-Microsoft Internet Explorer , URL: /wiki/Microsoft_Internet_Explorer
-","Modeling, Animation, Rendering","Proprietary , URL: /wiki/Proprietary_software
+"Remo 3D , URL: /wiki/Remo_3D
+","Yes","No","Yes","No","No","No"
+"Shade , URL: /wiki/Shade_3D
+","Yes","Yes","No","No","No","No"
+"Silo , URL: /wiki/Silo_(software)
+","Yes","Yes","Yes","No","No","No"
+"SketchUp , URL: /wiki/SketchUp
+","Yes","Yes","No","No","No","No"
+"SketchUp , URL: /wiki/SketchUp
+","Yes","Yes","No","No","No","No"
+"Softimage , URL: /wiki/Autodesk_Softimage
+","Yes","No","Yes","No","No","No"
+"Solid Edge , URL: /wiki/Solid_Edge
+","Yes","No","No","No","No","No"
+"solidWorks , URL: /wiki/SolidWorks
+","Yes","No","No","No","No","No"
+"solidThinking , URL: /wiki/SolidThinking
+","Yes","Yes","No","No","No","No"
+"SpaceClaim , URL: /wiki/SpaceClaim
+","Yes","No","No","No","No","No"
+"trueSpace , URL: /wiki/TrueSpace
+","Yes","No","No","No","No","Amiga OS , URL: /wiki/Amiga_OS
 "
-"Cobalt","2020-02-04 v11","Ashlar-Vellum , URL: /wiki/Ashlar-Vellum
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Modeling, Computer Aided Design, Animation","Proprietary , URL: /wiki/Proprietary_software
+"Verto Studio 3D , URL: /wiki/Verto_Studio_3D
+","No","Yes","No","No","No","iOS , URL: /wiki/IOS
 "
-"DesignSpark Mechanical","2020-07-13 v5.0","SpaceClaim , URL: /wiki/SpaceClaim
-RS Components , URL: /wiki/RS_Components
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Modeling, Computer Aided Design, Rapid Prototyping, 3D Printing","Proprietary , URL: /wiki/Proprietary_software
-"
-"Electric Image Animation System","2013-06 v9.1.0","EIAS3D , URL: /w/index.php?title=EIAS3D&action=edit&redlink=1
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Animation, Lighting, Rendering, Film, Television, Visual 3D Effects","Proprietary , URL: /wiki/Proprietary_software
-"
-"FreeCAD","2021-02-26 v 0.18.6","Jürgen Riegel, Werner Mayer, Yorik van Havre","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-unix , URL: /wiki/Unix
-Linux , URL: /wiki/Linux
-","Calculix , URL: /wiki/Calculix
-","LGPL-2.0-or-later , URL: /wiki/GNU_Lesser_General_Public_License
-"
-"form-Z pro/jr/free","2020-02-? 9.0.2","Autodessys, Inc. , URL: /w/index.php?title=Autodessys,_Inc.&action=edit&redlink=1
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Animation, Modeling, Lighting, Render, Fabrication, Set Design","Proprietary , URL: /wiki/Proprietary_software
-"
-"Hexagon","2018-02-16 2.5.2.109","Daz 3D , URL: /wiki/Daz_3D
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-Mac OS X , URL: /wiki/Mac_OS_X
-","Subdivision Modeling, UV Mapping","Proprietary , URL: /wiki/Proprietary_software
-"
-"HiCAD","2017-02-13 v HiCAD 2017","ISD Software und Systeme , URL: /w/index.php?title=ISD_Software_und_Systeme&action=edit&redlink=1
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-","2D/3D Modeling, Computer Aided Design, Automatic drawing generation, BIM, Animation, HELiOS PDM integration, API scripting","Proprietary , URL: /wiki/Proprietary_software
-"
-"Houdini","2020-10-13 v 18.5.361","Side Effects Software , URL: /w/index.php?title=Side_Effects_Software&action=edit&redlink=1
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-Mac OS X , URL: /wiki/Mac_OS_X
-Linux , URL: /wiki/Linux
-","Animation, Lighting, Modeling, Visual 3D Effects","Proprietary , URL: /wiki/Proprietary_software
-"
-"iClone","2019-12-17 v 7.71.3626.1","Reallusion , URL: /wiki/Reallusion
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Animation, Film and Television Previz, Videogame Asset Creation, Lighting, Visual 3D Effects","Proprietary , URL: /wiki/Proprietary_software
-"
-"Inventor","2021-01 v 2021.2.1","Autodesk , URL: /wiki/Autodesk
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Modeling, Computer Aided Design, Rapid Prototyping, 3D Printing","Proprietary , URL: /wiki/Proprietary_software
-"
-"LightWave 3D","2020-08-07 v 2020.0.2","NewTek , URL: /wiki/NewTek
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-Amiga OS , URL: /wiki/Amiga_OS
-","Modeling, Animation, Lighting, Rendering, Film and Television Previz, Videogame Asset Creation","Proprietary , URL: /wiki/Proprietary_software
-"
-"MASSIVE","? v 3.5","Massive Software","Microsoft Windows , URL: /wiki/Microsoft_Windows
-Linux , URL: /wiki/Linux
-","Artificial Intelligence in Models","Proprietary , URL: /wiki/Proprietary_software
-"
-"Maya","2020-10-06 v 2020.3","Autodesk , URL: /wiki/Autodesk
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-Mac OS X , URL: /wiki/Mac_OS_X
-Linux , URL: /wiki/Linux
-","Modeling, Animation (Video), Lighting, Rendering, Visual 3D Effects","Proprietary , URL: /wiki/Proprietary_software
-"
-"Metasequoia","2021-01-26 4.7.6","tetraface Inc.","Microsoft Windows , URL: /wiki/Microsoft_Windows
-macOS , URL: /wiki/MacOS
-","Modeling","Proprietary , URL: /wiki/Proprietary_software
-"
-"MODO","2020-10-21 14.1v2","The Foundry , URL: /wiki/The_Foundry_Visionmongers
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-Linux , URL: /wiki/Linux
-","Modeling, Animation, Rendering","Proprietary , URL: /wiki/Proprietary_software
-"
-"Mudbox","2018-03-14 2018.2","Autodesk , URL: /wiki/Autodesk
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-Linux , URL: /wiki/Linux
-","Lighting, Sculpting (the deformation of the model)","Proprietary , URL: /wiki/Proprietary_software
-"
-"OpenSCAD","2021-01-31 v 2021.01","Marius Kintel, Claire Wolf","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-Unix , URL: /wiki/Unix
-Linux , URL: /wiki/Linux
-","CAD, Scripting, parametric design, CSG","GPL-2.0-or-later , URL: /wiki/GNU_General_Public_License
-"
-"POV-Ray","2013-11-09 v3.7.0","The POV-Team , URL: /w/index.php?title=The_POV-Team&action=edit&redlink=1
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-Linux , URL: /wiki/Linux
-AmigaOS , URL: /wiki/AmigaOS
-","Lighting, Visual 3D effects","AGPL-3.0-or-later , URL: /wiki/GNU_Affero_General_Public_License
-"
-"PTC Creo (formerly Pro/Engineer)","2020 v 7.0","Parametric Technology Corporation , URL: /wiki/Parametric_Technology_Corporation
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-HP-UX , URL: /wiki/HP-UX
-Unix , URL: /wiki/Unix
-","Modeling, Computer Aided Design","Proprietary , URL: /wiki/Proprietary_software
-"
-"Remo 3D","2021-09-19 v 2.10.1","Remograph , URL: /wiki/Remograph
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-Linux , URL: /wiki/Linux
-","Modeling, Virtual Reality, Real-time modeling, Video Game Creation, Computer Aided Design","Proprietary , URL: /wiki/Proprietary_software
-"
-"Rhinoceros 3D","2020-12-08 v 7","McNeel","Microsoft Windows , URL: /wiki/Microsoft_Windows
-Mac OS X , URL: /wiki/Mac_OS_X
-","Modeling, Computer Aided Design, scripting with grasshopper, many Plug in for Simulation, CAM, BIM, Rendering, and more","Proprietary , URL: /wiki/Proprietary_software
-"
-"Salome","2020-12-01 v 9.6","Open Cascade , URL: /wiki/Open_Cascade
-EDF , URL: /wiki/%C3%89lectricit%C3%A9_de_France
-CEA , URL: /wiki/Commissariat_%C3%A0_l%27%C3%A9nergie_atomique_et_aux_%C3%A9nergies_alternatives
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-Unix , URL: /wiki/Unix
-Linux , URL: /wiki/Linux
-","CAD, Scripting, parametric design, CSG, Meshing, Pre-Post for CAE","LGPL-2.1-or-later , URL: /wiki/GNU_Lesser_Public_License
-"
-"Shade 3D","2020-12-17 v 21.1","FORUM 8 , URL: /w/index.php?title=FORUM_8&action=edit&redlink=1
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Modeling, Computer Aided Design, Rendering, Animation","Proprietary , URL: /wiki/Proprietary_software
-"
-"Silo","2021-09-23 v 2021.3","Nevercenter , URL: /wiki/Nevercenter
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Modeling","Proprietary , URL: /wiki/Proprietary_software
-"
-"SketchUp Pro","2021-01-05 [4] v 21.0.1 (Win64) v 16.1.1450 (Win32) v 20.0 (Mac64)","Trimble Navigation , URL: /wiki/Trimble_Navigation
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Modeling, Computer Aided Design","Proprietary , URL: /wiki/Proprietary_software
-"
-"Solid Edge","ST13 , URL: /wiki/Synchronous_Technology
-","Siemens PLM Software , URL: /wiki/Siemens_PLM_Software
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Computer Aided Design","Proprietary , URL: /wiki/Proprietary_software
-"
-"SolidWorks","2021-02-01 v SolidWorks 2021 SP2.0","Dassault Systèmes , URL: /wiki/Dassault_Syst%C3%A8mes
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Computer Aided Design","Proprietary , URL: /wiki/Proprietary_software
-"
-"SpaceClaim","2020-08-08 v 2020.R2","Ansys , URL: /wiki/Ansys
-","Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Computer Aided Design","Proprietary , URL: /wiki/Proprietary_software
-"
-"E-on Vue","2017 v 2016 R5","E-on Software , URL: /w/index.php?title=E-on_Software&action=edit&redlink=1
-Bentley Systems , URL: /wiki/Bentley_Systems
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Animation, Landscape Modeling, Lighting","Proprietary , URL: /wiki/Proprietary_software
-"
-"Verto Studio 3D","2019-05-06 v2.4.0","Michael L. Farrell , URL: /w/index.php?title=Michael_L._Farrell&action=edit&redlink=1
-","Mac OS X , URL: /wiki/Mac_OS_X
-iOS , URL: /wiki/IOS
-","Mobile Modeling, Texture Mapping, Lighting","Proprietary , URL: /wiki/Proprietary_software
-"
-"Wings 3D","2020-12-20 v 2.2.6","Dan Gudmundsson (maintainer)","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-BSD , URL: /wiki/BSD
-Linux , URL: /wiki/Linux
-","Modeling, Sculpting (the deformation of the model), UV mapping","BSD , URL: /wiki/BSD_License
-"
-"ZBrush","2020-12-20 v 2021.5.1","Pixologic , URL: /wiki/Pixologic
-","Mac OS X , URL: /wiki/Mac_OS_X
-Microsoft Windows , URL: /wiki/Microsoft_Windows
-","Modeling, Texturing, Lighting, Sculpting (the deformation of the model), Rendering","Proprietary , URL: /wiki/Proprietary_software
-"
+"E-on Vue , URL: /wiki/E-on_Vue
+","Yes","Yes","No","No","No","No"
+"Wings 3D , URL: /wiki/Wings_3D
+","Yes","Yes","Yes","No","No","No"
+"ZBrush , URL: /wiki/ZBrush
+","Yes","Yes","No","No","No","No"

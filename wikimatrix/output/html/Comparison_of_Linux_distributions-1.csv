@@ -1,324 +1,206 @@
-"Distribution","Founder","Maintainer","Initial release year","Current stable version","Security updates (years)","Release date","System distribution commitment","Forked from","Target audience","Cost","Status"
-"AlmaLinux , URL: /wiki/AlmaLinux
-","AlmaLinux Foundation","AlmaLinux Foundation","2021","8.4","10 years[2]","2021-05-26","X","Red Hat Enterprise Linux (RHEL)","server, workstation","None","Active"
+"Distribution","Linux kernel , URL: /wiki/Linux_kernel
+","file system , URL: /wiki/File_system
+","init system , URL: /wiki/Init
+","desktop environment , URL: /wiki/Desktop_environment
+window manager , URL: /wiki/Window_manager
+","Reproducible builds , URL: /wiki/Reproducible_builds
+"
 "Alpine Linux , URL: /wiki/Alpine_Linux
-","Alpine Linux Team","Alpine Linux Team","2006","3.14.1[3]","?","2021-08-04","X","LEAF Project , URL: /wiki/LEAF_Project
-","security, lightweight, general","None","Active"
+","Binary blobs","ext4","openrc , URL: /wiki/OpenRC
+","none","In progress[85]"
 "ALT Linux , URL: /wiki/ALT_Linux
-","ALT Linux Team","ALT Linux Team, ALT Linux LLC","2001","10.0[4]","?","2021-12-16","X","Mandrake Linux","general, school","None","Active"
-"antiX , URL: /wiki/AntiX
-","Anticapitalista","Anticapitalista","2007","19.4[5]","?","2021-05-21","X","Debian, MEPIS","old computers","None","Active"
-"ArchBang , URL: /wiki/ArchBang
-","Willensky Aristide","Stan McLaren","2011","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","?","X","Arch Linux (UKM Edition)","general","None","Active"
+","Binary blobs","ext3","systemd , URL: /wiki/Systemd
+","Xfce , URL: /wiki/Xfce
+","No"
 "Arch Linux , URL: /wiki/Arch_Linux
-","Judd Vinet","dev team","2002","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","X","Independent, inspired from CRUX","general","None","Active"
+","Binary blobs[86]","none[87]","systemd","Deepin , URL: /wiki/Deepin
+i3 , URL: /wiki/I3_(window_manager)
+LXQt , URL: /wiki/LXQt
+Sway , URL: /wiki/Sway_(window_manager)
+","In progress[89][90]"
 "BLAG , URL: /wiki/BLAG_Linux_and_GNU
-","Brixton Linux Action Group","Brixton Linux Action Group","2002","140k","?","2011-05-04","GNU FSDG , URL: /wiki/GNU_Free_System_Distribution_Guidelines
-","Fedora , URL: /wiki/Fedora_(operating_system)
-","desktop","None","Inactive"
+","Linux-libre , URL: /wiki/Linux-libre
+","ext3","sysvinit","GNOME","No"
 "Bodhi Linux , URL: /wiki/Bodhi_Linux
-","Bodhi Linux Team","Bodhi Linux Team","2011","6.0.0[7]","?","2021-05-12","X","Debian, Ubuntu","desktop, lightweight","None","Active"
+","Binary blobs","ext4","systemd","Enlightenment , URL: /wiki/Enlightenment_(window_manager)
+","No"
 "Canaima , URL: /wiki/Canaima_(operating_system)
-","CANTV , URL: /wiki/CANTV
-VIT , URL: /wiki/VIT,_C.A.
-","CANTV , URL: /wiki/CANTV
-VIT , URL: /wiki/VIT,_C.A.
-","2007","6.1[8]","?","2020-06-24","X","Debian, Ubuntu","Government of Venezuela , URL: /wiki/Government_of_Venezuela
-","None","Active"
+","Binary blobs[86]","?","systemd","Cinnamon , URL: /wiki/Cinnamon_(software)
+MATE , URL: /wiki/MATE_(software)
+","No"
 "CentOS , URL: /wiki/CentOS
-","CentOS Project","CentOS Project","2003","8.2-2105","10 years[9]","2021-07-03","X","Red Hat Enterprise Linux (RHEL)","server, workstation","None","Active"
+","Binary blobs[86]","xfs","systemd","GNOME","No"
 "Chakra , URL: /wiki/Chakra_(operating_system)
-","Jan Mette and Arch Linux KDEmod developers","The Chakra Project Team","2010","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","?","X","Arch Linux[10]","desktop","None","Active"
-"Chrome OS , URL: /wiki/Chrome_OS
-","Sundar Pichai , URL: /wiki/Sundar_Pichai
-","Google , URL: /wiki/Google
-","2011","92.0.4515.130 [11]","Rolling , URL: /wiki/Rolling_release
-","2021-08-02","X","Gentoo linux , URL: /wiki/Gentoo_linux
-","web applications","None","Active"
+","Binary blobs","ext4","systemd","KDE Plasma Workspaces","No"
 "Clear Linux OS , URL: /wiki/Clear_Linux_OS
-","Arjan van de Ven","Intel , URL: /wiki/Intel
-","2015","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","X","Independent","container , URL: /wiki/Container_(virtualization)
-","None","Active"
+","","","","",""
 "ClearOS , URL: /wiki/ClearOS
-","Peter Baldwin","ClearFoundation","2000","7.8[12]","?","2020-06-23","X","RHEL, CentOS","server, gateway, network","Some editions are free of charge","Active"
+","Binary blobs","ext3","systemd","none (Web based)","No"
+"CoreOS , URL: /wiki/CoreOS
+","Binary blobs","ext4","systemd","None","No"
 "CrunchBang Linux , URL: /wiki/CrunchBang_Linux
-","Philip Newborough","Philip Newborough","2008","11[13]","?","2013-05-06","X","Debian","desktop","None","Inactive"
+","Binary blobs","ext4","sysvinit","Openbox , URL: /wiki/Openbox
+","No"
 "Damn Small Linux , URL: /wiki/Damn_Small_Linux
-","John Andrews","dev team","2003","4.4.10[14]","?","2008-11-18","X","Debian, Knoppix","lightweight, portable","None","Inactive"
+","Binary blobs","ext3","sysvinit","JWM , URL: /wiki/JWM
+","No"
 "Debian , URL: /wiki/Debian
-","Ian Murdock , URL: /wiki/Ian_Murdock
-","Debian Project","1993","11.2[15]","~3 years[g 1]","2021-12-18","Debian Social Contract , URL: /wiki/Debian_Social_Contract
-DFSG , URL: /wiki/Debian_Free_Software_Guidelines
-","Softlanding Linux System (SLS) , URL: /wiki/Softlanding_Linux_System
-","general, server, desktop","None","Active"
-"Debian Edu , URL: /wiki/Skolelinux
-","","Debian Project","2004","11.0[18]","~3 years[g 1]","2021-08-14","Debian Social Contract , URL: /wiki/Debian_Social_Contract
-DFSG , URL: /wiki/Debian_Free_Software_Guidelines
-","Debian","schools","None","Active"
+","Linux-libre , URL: /wiki/Linux-libre
+","ext4","systemd","KDE , URL: /wiki/KDE
+Xfce , URL: /wiki/Xfce
+LXDE , URL: /wiki/LXDE
+","In progress[93][94]"
 "Devuan , URL: /wiki/Devuan
-","The "Veteran Unix Admins" (VUA)","The "Veteran Unix Admins" (VUA)","2016","
-URL: https://www.wikidata.org/wiki/Q18601928?uselang=en#P348
-//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
-","?","2021-10-14","X[g 2]","Debian","general","None","Active"
-"Deepin , URL: /wiki/Deepin
-","Wuhan Deepin Technology Co., Ltd.","Wuhan Deepin Technology Co., Ltd.","2004","
-URL: https://www.wikidata.org/wiki/Q129145?uselang=en#P348
-//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
-","?","2022-01-18","X","Debian","general","None","Active"
+","Binary blobs","ext4 , URL: /wiki/Ext4
+","sysvinit , URL: /wiki/Sysvinit
+","Xfce , URL: /wiki/Xfce
+","No"
 "Dragora GNU/Linux-Libre , URL: /wiki/Dragora_GNU/Linux-Libre
-","Matias A. Fonzo","Matias A. Fonzo","2009","3.0-beta1[21]","?","2019-10-16","GNU FSDG , URL: /wiki/GNU_Free_System_Distribution_Guidelines
-","Independent, inspired from Slackware","general","None","Active"
+","Linux-libre , URL: /wiki/Linux-libre
+","ext4","runit , URL: /wiki/Runit
+","Xfce","No"
 "dyne:bolic , URL: /wiki/Dyne:bolic
-","Jaromil","Jaromilx","2005","3.0.0","?","2011-09-08","GNU FSDG , URL: /wiki/GNU_Free_System_Distribution_Guidelines
-","Debian , URL: /wiki/Debian
-","multimedia","None","Inactive"
-"Elementary OS , URL: /wiki/Elementary_OS
-","Daniel Foré","elementary LLC","2011","5.1.7[22]","?","2020-02-05","X","Ubuntu, Debian","general","None","Active"
-"ELinOS , URL: /wiki/ELinOS
-","SYSGO , URL: /wiki/SYSGO
-","SYSGO","1999","7.0[23]","?","2020-03-01","X","–","embedded systems , URL: /wiki/Embedded_system
-","Partial","Active"
-"Emdebian Grip , URL: /wiki/Emdebian_Grip
-","Embedded Debian Project","Embedded Debian Project","2009","3.1","End-of-life","2013-06-15","X","Debian","embedded systems , URL: /wiki/Embedded_system
-","None","Inactive"
-"EndeavourOS , URL: /wiki/EndeavourOS
-","Bryan Poerwoatmodjo","EndeavourOS","2019","Rolling , URL: /wiki/Rolling_release
-","?","2020-07-15","X","Arch Linux","general","None","Active"
-"Fedora Linux , URL: /wiki/Fedora_Linux
-","Fedora Project , URL: /wiki/Fedora_Project
-","Fedora Project","2003","35[24]","1 year and month","2021-11-02","Fedora Licensing Guidelines[25]","Red Hat Linux","general","None","Active"
-"Freespire , URL: /wiki/Freespire
-","Lindows.com, Inc.","PC/OpenSystems LLC","2001","8.0.1[26]","?","2022-01-12","X","Ubuntu","desktop","None","Active"
-"Gentoo Linux , URL: /wiki/Gentoo_Linux
-","Daniel Robbins , URL: /wiki/Daniel_Robbins_(computer_programmer)
-","Gentoo Foundation , URL: /wiki/Gentoo_Foundation
-","2002","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","Gentoo Social Contract","Enoch Linux","general","None","Active"
-"Guix System , URL: /wiki/GNU_Guix
-","Ludovic Courtès","Ludovic Courtès, Ricardo Wurmus, the Guix community","2012","1.3.0[27]","Rolling , URL: /wiki/Rolling_release
-","2021-05-11","GNU FSDG , URL: /wiki/GNU_Free_System_Distribution_Guidelines
-","–","general","None","Active"
+","Linux-libre , URL: /wiki/Linux-libre
+","?","systemd","GNOME","No"
+"Fedora , URL: /wiki/Fedora_(operating_system)
+","Binary blobs","btrfs[95]","systemd","Sugar on a Stick , URL: /wiki/Sugar_(software)#Sugar_on_a_Stick
+","In progress[96]"
+"Funtoo , URL: /wiki/Funtoo_Linux
+","Binary blobs","none","openrc","None","No"
+"Gentoo , URL: /wiki/Gentoo_Linux
+","Binary blobs","none","openrc","Awesome , URL: /wiki/Awesome_(window_manager)
+","No"
 "gNewSense , URL: /wiki/GNewSense
-","Brian Brazil and Paul O'Malley","FSF , URL: /wiki/Free_Software_Foundation
-","2006","4.0 (Ucclia)[28]","?","2016-05-02","GNU FSDG , URL: /wiki/GNU_Free_System_Distribution_Guidelines
-","Debian , URL: /wiki/Debian
-","general, server","None","Inactive"
-"Grml , URL: /wiki/Grml
-","Michael Prokop","The Grml Team","2005","2020.06[29]","?","2020-06-24","X","Debian","live, maintenance, security, network, forensic, accessibility","None","Active"
+","Debian Linux kernel, and (unlike Debian) blobs cannot be installed[91]","ext3","sysvinit","GNOME","No"
+"Guix System , URL: /wiki/GNU_Guix
+","Linux-libre , URL: /wiki/Linux-libre
+Hurd , URL: /wiki/GNU_Hurd
+","ext4","GNU Shepherd , URL: /wiki/GNU_Shepherd
+","GNOME, Xfce, MATE, Enlightenment, Openbox, awesome, i3, ratpoison, EXWM","In progress[100][101]"
 "Hyperbola GNU/Linux-libre , URL: /wiki/Hyperbola_GNU/Linux-libre
-","Hyperbola Founders","Hyperbola Founders","2017","
-URL: https://www.wikidata.org/wiki/Q59538357?uselang=en#P348
-//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
-","3 years (stable), 5 years (old stable)[32]","2022-03-01","GNU FSDG , URL: /wiki/GNU_Free_System_Distribution_Guidelines
-Hyperbola Social Contract , URL: /wiki/Hyperbola_GNU/Linux-libre#Social_contract
-","Arch Linux","general","None","Active[33]"
+","Linux-libre , URL: /wiki/Linux-libre
+","none","openrc[102]","none","No"
 "Kali Linux , URL: /wiki/Kali_Linux
-","Max Moser, Mati Aharoni, Martin J. Muench","Offensive Security","2013","2021.4a[34]","?","2021-12-23","X","Debian","auditing, forensic, security, network","None","Active"
+","Binary blobs","ext3","systemd","GNOME","No"
 "Knoppix , URL: /wiki/Knoppix
-","Klaus Knopper , URL: /wiki/Klaus_Knopper
-","dev team","2000","8.6[35]","?","2019-08-08","X","Debian","live","None","Active"
-"Kodibuntu , URL: /wiki/XBMCbuntu
-","The XBMC Project","Team Kodi","2008","?","?","?","X","Debian, Ubuntu","multimedia","None","Inactive"
-"Korora , URL: /wiki/Korora_(operating_system)
-","Chris Smart","Dev Team","2005","26[36]","?","2017-09-16","X","Fedora","desktop","None","Inactive"
+","Binary blobs","xfs","microknoppix","LXDE","No"
 "LibreCMC , URL: /wiki/LibreCMC
-","LibreCMC team","LibreCMC team","2010","1.5.4[37]","?","2020-12-31","GNU FSDG , URL: /wiki/GNU_Free_System_Distribution_Guidelines
-","Merged from LibreWRT","embedded systems , URL: /wiki/Embedded_system
-","None","Active"
-"Linspire , URL: /wiki/Linspire
-","Linspire, Inc.","Linspire, Inc.","2001","9.5[38]","?","2020-03-03","X","Ubuntu , URL: /wiki/Ubuntu_(operating_system)
-","?","Commercial[39]","Active"
+","Binary blobs","ext4","busybox-init","none","No"
 "Linux Mint , URL: /wiki/Linux_Mint
-","Clement Lefebvre","dev team","2006","20.2[40]","LMDE , URL: /wiki/Linux_Mint#Debian-based_edition
-","2021-07-08","X","Debian(LMDE), Ubuntu (main editions)","desktop","None","Active"
-"Linux Lite , URL: /wiki/Linux_Lite
-","Jerry Bezencon","Linux Lite Team","2012","5.0[41]","?","2020-05-31","X","Ubuntu , URL: /wiki/Ubuntu_(operating_system)
-","desktop","None","Active"
+","Binary blobs[86]","ext4","systemd , URL: /wiki/Systemd
+","MATE , URL: /wiki/MATE_(desktop_environment)
+Cinnamon , URL: /wiki/Cinnamon_(user_interface)
+KDE 4 , URL: /wiki/KDE_Software_Compilation_4
+XFCE , URL: /wiki/XFCE
+","No"
 "Mageia , URL: /wiki/Mageia
-","Mageia Community","mageia.org","2010","7.1[42]","1 year","2019-07-01","X","Mandriva Linux","general","None","Active"
+","Binary blobs","ext4","systemd","KDE Plasma Workspaces, GNOME","No"
 "Mandriva Linux , URL: /wiki/Mandriva_Linux
-","Mandrakesoft S.A.","Mandriva S.A.","1998","2011","?","2011-08-28","X","Red Hat Linux","general","Some editions are free of charge","Inactive"
+","Binary blobs","ext4","systemd","KDE Plasma Workspaces","No"
 "Manjaro Linux , URL: /wiki/Manjaro_Linux
-","Roland Singer","dev team","2012[43]","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","X","Arch Linux","general","None","Active"
+","Binary blobs","none[105]","systemd","Xfce , URL: /wiki/Xfce
+KDE , URL: /wiki/KDE
+GNOME , URL: /wiki/GNOME
+","No"
 "MEPIS , URL: /wiki/MEPIS
-","Warren Woodford","MEPIS LLC","2003","11.9.90","?","?","X","Debian","desktop, server","None","Inactive"
+","Binary blobs","ext3, ext4","sysvinit","KDE Plasma Workspaces","No"
 "Musix GNU+Linux , URL: /wiki/Musix_GNU%2BLinux
-","Musix team","Musix team","2008","3.0.1","?","2014-03-13","GNU FSDG , URL: /wiki/GNU_Free_System_Distribution_Guidelines
-","Debian , URL: /wiki/Debian
-","multimedia","None","Inactive"
-"Netrunner , URL: /wiki/Netrunner_(operating_system)
-","Blue Systems , URL: /wiki/Blue_Systems
-","dev team","2009","20.01[44]","as per Debian","2020-02-23","X","Debian","desktop","None","Active"
-"NixOS , URL: /wiki/NixOS
-","Eelco Dolstra and Armijn Hemel","NixOS Foundation","2003","21.05[45]","0.5 years","2021-06-01nixo","X","–","general, server, desktop","None","Active"
-"Novell Open Enterprise Server , URL: /wiki/Novell_Open_Enterprise_Server
-","Novell , URL: /wiki/Novell
-","Novell , URL: /wiki/Novell
-","2003","OES 2018 SP1","?","?","X","SUSE Linux Enterprise Server , URL: /wiki/SUSE_Linux_Enterprise_Server
-","server","Commercial[46]","Active"
+","Linux-libre , URL: /wiki/Linux-libre
+","ext4","initscripts","LXDE","No"
 "OpenELEC , URL: /wiki/OpenELEC
-","Stephan Raue, OpenELEC Team","OpenELEC Team","2011","8.0.4","?","2017-06-04","X","Kodi","multimedia","None","Inactive"
+","Binary blobs","SquashFS","shell script","XBMC Media Center , URL: /wiki/XBMC_Media_Center
+","No"
 "openSUSE , URL: /wiki/OpenSUSE
-","SUSE Linux","openSUSE Project , URL: /wiki/OpenSUSE_Project
-","2006","Leap 15.2[47]","3 years[48]","2020-07-02","X","SLS , URL: /wiki/Softlanding_Linux_System
-Slackware , URL: /wiki/Slackware
-","general, desktop","None","Active"
+","Binary blobs","btrfs","systemd","KDE Plasma Workspaces, GNOME, Xfce","In progress[108]"
 "OpenWrt , URL: /wiki/OpenWrt
-","?","OpenWrt team","2007","18.06.4[49]","?","2019-07-01","X","–","embedded systems , URL: /wiki/Embedded_system
-","None","Active"
-"OpenMandriva Lx , URL: /wiki/OpenMandriva_Lx
-","OpenMandriva Association","OpenMandriva Association","2013","4.1","?","2020-02-01","X","Mandriva Linux , URL: /wiki/Mandriva_Linux
-","general","None","Active"
-"Oracle Linux , URL: /wiki/Oracle_Linux
-","Oracle Corporation","Oracle Corporation","2006","8.1[50]","?","2019-11-17","X","Red Hat Enterprise Linux (RHEL)","server","None","Active"
+","Binary blobs","overlayfs , URL: /wiki/Overlayfs
+SquashFS , URL: /wiki/SquashFS
+JFFS2 , URL: /wiki/JFFS2
+","procd[110]","none","In progress[111]"
 "Parabola GNU/Linux-libre , URL: /wiki/Parabola_GNU/Linux-libre
-","Parabola Hackers","Parabola Hackers","2009","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","2017-05-28","GNU FSDG , URL: /wiki/GNU_Free_System_Distribution_Guidelines
-Parabola Social Contract , URL: /wiki/Parabola_GNU/Linux-libre#Social_contract
-","Arch Linux , URL: /wiki/Arch_Linux
-","general","None","Active"
+","Linux-libre , URL: /wiki/Linux-libre
+","none","openrc or systemd","none","No"
 "Pardus , URL: /wiki/Pardus_(operating_system)
-","Scientific and Technological Research Council of Turkey , URL: /wiki/Scientific_and_Technological_Research_Council_of_Turkey
-","TÜBİTAK","2005","19.1[52]","?","2019-11-23","X","Gentoo (2011.2) Debian","general","None","Active"
-"Parrot OS , URL: /wiki/Parrot_OS
-","Lorenzo "Palinuro" Faletra","Parrot Dev Team","2013","4.11.2","Rolling , URL: /wiki/Rolling_release
-","2021-06-03","X","Debian","security, desktop","None","Active"
+","Binary blobs","ext4","systemd","KDE Plasma Workspaces","No"
 "Parsix , URL: /wiki/Parsix
-","Alan Baghumian","Parsix Project","2005","8.15","?","2017-01-25","X","Debian","desktop","None","Inactive"
-"Parted Magic , URL: /wiki/Parted_Magic
-","Patrick Verner","Parted Magic LLC.","?","2020_12_25","?","2020-12-25","X","-","live, maintenance","Commercial[53]","Active"
+","Binary blobs","ext4","systemd","GNOME","No"
 "PCLinuxOS , URL: /wiki/PCLinuxOS
-","Bill Reynolds","dev team","2003","2020.1015[54]","Semi-rolling","2020-10-14","X","Mandriva Linux","desktop","None","Active"
-"Pop! OS , URL: /wiki/Pop!_OS
-","Carl Ritchell","System76","2017","20.10[55]","2 years for LTS releases. 2–3 months after the next release for other releases.","2020-10-23","X","Ubuntu","desktop, laptop","None","Active"
+","Binary blobs","none","sysvinit","KDE Plasma Workspaces, GNOME, LXDE, Xfce, Enlightenment, Openbox","No"
 "Pentoo , URL: /wiki/Pentoo
-","Michael Zanetta, Rick Farina, Jens Pranaitis","Pentoo","2005","2019.1","?","2019-01-17","X","Gentoo Linux","auditing, security","None","Active"
+","Binary blobs","SquashFS","openrc","Enlightenment","No"
 "Porteus , URL: /wiki/Porteus_(operating_system)
-","Fanthom","Porteus","2010","4.0[56]","?","2018-04-29","X","Slackware","lightweight, portable","None","Active"
+","Binary blobs","Squashfs, ext2, ext3, ext4, FAT32, reiser, xfs","sysvinit","KDE, LXDE, Xfce, Openbox, Razor-qt","No"
 "Puppy Linux , URL: /wiki/Puppy_Linux
-","Barry Kauler","Puppy Foundation","2003","8.0[57]","?","2019-04-11","X","Independent, inspired from Vector linux","lightweight, portable","None","Active"
-"PureOS , URL: /wiki/PureOS
-","Todd Weaver","Purism , URL: /wiki/Purism_(Company)
-","2009","9.0[58]","Rolling , URL: /wiki/Rolling_release
-","2019-09-26","GNU FSDG , URL: /wiki/GNU_Free_System_Distribution_Guidelines
-","Debian , URL: /wiki/Debian
-","general, security, privacy","None","Active"
-"Qubes OS , URL: /wiki/Qubes_OS
-","Joanna Rutkowska , URL: /wiki/Joanna_Rutkowska
-","Invisible Things Lab","2012","4.0.4[59]","?","2021-03-04","X","Xen and Fedora","security by compartmentalization, desktop","None","Active"
+","Binary blobs","SquashFS containing ext2","busybox-init","JWM","No"
 "Red Hat Enterprise Linux , URL: /wiki/Red_Hat_Enterprise_Linux
-","Red Hat , URL: /wiki/Red_Hat
-","Red Hat","2002","8.5[60]","10 years[61]","2021-11-09","X","Red Hat Linux, Fedora","general","Commercial[62][63]","Active"
-"Red Hat Linux , URL: /wiki/Red_Hat_Linux
-","Red Hat","Red Hat","1995","9","?","2003-03-31","X","–","server, workstation","None","Inactive"
-"Rocks Cluster Distribution , URL: /wiki/Rocks_Cluster_Distribution
-","UCSD Supercomputing Center, Clustercorp","UCSD Supercomputing Center, Clustercorp","2000","7.0","?","2015-12-01","X","Red Hat Linux","server, workstation","None","Active"
-"Rocky Linux , URL: /wiki/Rocky_Linux
-","Rocky Enterprise Software Foundation , URL: /wiki/Rocky_Enterprise_Software_Foundation
-","Rocky Enterprise Software Foundation , URL: /wiki/Rocky_Enterprise_Software_Foundation
-","2021","8.5","10 years","2021-11-15","x","Red Hat Enterprise Linux (RHEL)","general","None","Active"
-"ROSA , URL: /wiki/ROSA_Linux
-","?","LLC NTC IT ROSA","2011","R11[64]","?","2019-03-15","X","Mandriva","server, general","None","Active"
+","Binary blobs","xfs","systemd","GNOME","No"
+"Rxart Desktop , URL: /wiki/Pixart
+","Binary blobs","ext3","?","KDE Plasma Workspaces","No"
 "Sabayon Linux , URL: /wiki/Sabayon_Linux
-","Fabio Erculiani","dev team","2005","19.03[65]","?","2019-03-31","X","Gentoo Linux","general","None","Active"
-"Salix OS , URL: /wiki/Salix_OS
-","Cyrille Pontvieux, George Vlahavas, Pierrick Le Brun, Thorsten Mühlfelder","Salix team","2009","14.2","?","2016-08-29","X","Slackware , URL: /wiki/Slackware
-","general","None","?"
+","Binary blobs","ext4[112]","systemd","KDE Plasma Workspaces, GNOME","No"
 "Scientific Linux , URL: /wiki/Scientific_Linux
-","CERN , URL: /wiki/CERN
-Fermilab , URL: /wiki/Fermilab
-","dev team","2004","7.6[66]","?","2018-12-03","X","Red Hat Linux, Red Hat Enterprise Linux (RHEL)","server, workstation","None","Inactive"
+","Binary blobs","ext4","sysvinit, systemd[113]","GNOME","No"
 "Slackware , URL: /wiki/Slackware
-","Patrick Volkerding , URL: /wiki/Patrick_Volkerding
-","dev team","1993","15.0[67]","?","2022-02-02","X","Softlanding Linux System (SLS) , URL: /wiki/Softlanding_Linux_System
-","general","None","Active"
+","Binary blobs[86]","ext4, ext3, ext2, reiserfs, brtfs, xfs","RC.d and sysvinit compatible","Blackbox , URL: /wiki/Blackbox
+twm , URL: /wiki/Twm
+","No"
 "Slax , URL: /wiki/Slax
-","Tomas Matejicek","Tomas Matejicek","2002","9.11.0[68]","?","2019-09-14","X","Debian, Slackware (until Slax 9)","live","None","Active"
+","Binary blobs","SquashFS","sysvinit","KDE Plasma Workspaces","No"
 "SliTaz GNU/Linux , URL: /wiki/SliTaz_GNU/Linux
-","Christophe Lincoln","dev team","2008","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","2017-12-03","X","Independent","portable","None","Active"
+","Binary blobs","ext3","busybox-init","Openbox","No"
 "Solus , URL: /wiki/Solus_(operating_system)
-","Ikey Doherty","dev team","2005","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","2021-02-03","X","–","desktop","None","Active"
-"SolydXK , URL: /wiki/SolydXK
-","Arjen Balfoort","dev team","2013","201902[69]","Debian packages as per Debian","2019-03-03","X","Debian","desktop","None","Active"
-"SparkyLinux , URL: /wiki/SparkyLinux
-","?","Sparky Linux team","2012","6.0[70]","?","2021-08-19","X","Debian , URL: /wiki/Debian
-","general, video games","None","Active"
+","Binary blobs","ext4","systemd","Budgie , URL: /wiki/Budgie_(desktop_environment)
+","No"
 "Source Mage GNU/Linux , URL: /wiki/Source_Mage_GNU/Linux
-","Ryan Abrams, Eric Schabell","dev team","2002","0.62-11","?","2017-10-22","Source Mage Social Contract , URL: /wiki/Source_Mage#Social_contract
-","Sorcerer , URL: /w/index.php?title=Sorcerer_(operating_system)&action=edit&redlink=1
-","general","None","Active"
+","Binary blobs","ext2","simpleinit-msb","none","No"
 "SteamOS , URL: /wiki/SteamOS
-","Valve , URL: /wiki/Valve_Corporation
-","Valve , URL: /wiki/Valve_Corporation
-","2013","2.195[71]","?","2019-07-19","X","Debian , URL: /wiki/Debian
-","video games","None","Active"
-"SUSE Linux Enterprise , URL: /wiki/SUSE_Linux_Enterprise
-","SUSE , URL: /wiki/SUSE
-","SUSE","2000","15SP2","13 years per version[72]","2020-07-21","Common code base for x86-64, Power, System z, Arm64","Slackware , URL: /wiki/Slackware
-Jurix , URL: /wiki/Jurix
-","edge, workstation, server, supercomputer","Commercial[73]","Active"
+","Binary blobs","?","systemd","Steam , URL: /wiki/Steam_(service)
+","No"
+"SUSE Linux Enterprise Desktop , URL: /wiki/SUSE_Linux_Enterprise_Desktop
+","Binary blobs[86]","btrfs[114]","systemd","GNOME","No"
 "Tails , URL: /wiki/The_Amnesic_Incognito_Live_System
-","?","Tails Development Team","2009","4.25[74]","–[g 3]","2021-12-07","X","Debian","security-focused aimed for anonymity and privacy","None","Active"
-"Tiny Core Linux , URL: /wiki/Tiny_Core_Linux
-","Robert Shingledecker","Team Tiny Core","2009","12.0[75]","?","2021-02-17","X","Independent, inspired from Damn Small Linux","portable","None","Active"
-"Trisquel GNU/Linux , URL: /wiki/Trisquel_GNU/Linux
-","Rubén Rodríguez Pérez (quidam)","Rubén Rodríguez Pérez (quidam)","2005","10.0[g 4]","3 years","2020-10-16","GNU FSDG , URL: /wiki/GNU_Free_System_Distribution_Guidelines
-","Ubuntu , URL: /wiki/Ubuntu_(operating_system)
-","desktop","None","Active"
+","Vanilla Linux[86]","?","systemd","GNOME","Reproducible ISO and USB images[115][116]"
+"Trisquel , URL: /wiki/Trisquel
+","Linux-libre , URL: /wiki/Linux-libre
+","ext4, xfs","systemd , URL: /wiki/Systemd
+","GNOME , URL: /wiki/GNOME
+LXDE , URL: /wiki/LXDE
+","No"
 "TurnKey GNU/Linux , URL: /wiki/TurnKey_Linux_Virtual_Appliance_Library
-","Alon Swartz, Liraz Siri","TurnKey GNU/Linux Team","2008","16.0 Release #12[76]","Debian packages as per Debian; TurnKey packages for life of current major version (plus backports per request)","2020-12-22","Debian Social Contract , URL: /wiki/Debian_Social_Contract
-DFSG , URL: /wiki/Debian_Free_Software_Guidelines
-","Debian","server based software appliance library aiming to balance security and ease of use","None","Active"
+","Binary blobs","ext4","systemd","Webmin , URL: /wiki/Webmin
+","No"
 "Ubuntu , URL: /wiki/Ubuntu_(operating_system)
-","Canonical Ltd. , URL: /wiki/Canonical_Ltd.
-","Canonical Ltd.","2004","21.10[78]","Standard releases 1 year, LTS releases 5 years. Flavor LTS releases 3 or 5 years. Ubuntu Pro 10 years.","2021-04-22","X","Debian","IBM mainframe , URL: /wiki/IBM_mainframe
-","None","Active"
-"Univention Corporate Server , URL: /wiki/Univention_Corporate_Server
-","Univention GmbH","Univention GmbH","2004","4.4-7[79]","up to 6 months for the free Core Edition; if maintenance is purchased, it's up to 7 years, see:[80]","2020-12-01","X","Debian","home, business, and school","Core Edition is free of charge","Active"
+Edubuntu , URL: /wiki/Edubuntu
+","Binary blobs[86]","ext4[117]","systemd","GNOME , URL: /wiki/GNOME
+","No"
+"Ubuntu GNOME , URL: /wiki/Ubuntu_GNOME
+","Binary blobs","ext4","systemd","GNOME 3","No"
+"Ubuntu MATE , URL: /wiki/Ubuntu_MATE
+","Binary blobs","ext4","systemd","MATE","No"
+"Kubuntu , URL: /wiki/Kubuntu
+","Binary blobs","ext4[117]","systemd","KDE Plasma Workspaces","No"
+"Xubuntu , URL: /wiki/Xubuntu
+","Binary blobs","ext4[117]","systemd","Xfce","No"
+"Lubuntu , URL: /wiki/Lubuntu
+","Binary blobs","ext4","systemd","LXQt","No"
 "Ututo , URL: /wiki/Ututo
-","Diego Saravia, Daniel Olivera","UTUTO dev team","2000","XS 2012","?","2012-04-27","GNU FSDG , URL: /wiki/GNU_Free_System_Distribution_Guidelines
-","Gentoo Linux , URL: /wiki/Gentoo_Linux
-Ubuntu , URL: /wiki/Ubuntu_(operating_system)
-","general","None","Inactive"
+","Linux-libre , URL: /wiki/Linux-libre
+Linux-libre , URL: /wiki/Linux-libre
+","ext3","systemd","GNOME","No"
 "VectorLinux , URL: /wiki/VectorLinux
-","Robert S. Lange","dev team","1999","VL 7.2[81]","?","2017-08-28","X","Slackware","desktop","None","Inactive"
+","Binary blobs","ReiserFS","sysvinit","KDE, Openbox, Fluxbox, IceWM, Xfce","No"
 "Void Linux , URL: /wiki/Void_Linux
-","Juan Romero Pardines","Juan RP and contributors","2008","Rolling , URL: /wiki/Rolling_release
-","Rolling , URL: /wiki/Rolling_release
-","2019-11-09","X","Independent, partially inspired by FreeBSD/NetBSD","general","None","Active"
+","Binary blobs","none","runit","none","No"
 "Webconverger , URL: /wiki/Webconverger
-","Kai Hendry","Webconverger Limited","2007","35.0","?","2016-05-19","X","Debian","kiosk software , URL: /wiki/Kiosk_software
-digital signage , URL: /wiki/Digital_signage
-","Commercial","Inactive"
-"Xandros , URL: /wiki/Xandros
-","Xandros Incorporated","Xandros Incorporated","2001","?","?","2007-07-26","X","Corel Linux , URL: /wiki/Corel_Linux
-","?","Commercial","Inactive"
+","Binary blobs","gitfs","sysvinit","dwm , URL: /wiki/Dwm
+","No"
+"XBMC Live , URL: /wiki/XBMC_Live
+","Binary blobs","ext3","systemd , URL: /wiki/Systemd
+","XBMC Media Center , URL: /wiki/XBMC_Media_Center
+","No"
 "Zentyal , URL: /wiki/Zentyal
-","eBox Technologies","eBox Technologies","2005","6.2[82]","?","2020-06-04","X","Debian, Ubuntu","small business server","Some editions are free of charge","?"
+","Binary blobs","ext4","systemd","LXDE","No"
 "Zenwalk , URL: /wiki/Zenwalk
-","Jean-Philippe Guillemin , URL: /wiki/Jean-Philippe_Guillemin
-","dev team","2004","Rolling , URL: /wiki/Rolling_release
-","?","2020-12-10","X","Slackware","general","None","Active"
-"Zorin OS , URL: /wiki/Zorin_OS
-","Zorin Group","Zorin Group","2009","OS 15.3[84]","?","2020-10-08","X","Ubuntu","general, desktop","Zorin OS Lite & Core are free, while Business and Ultimate are paid","Active"
-"Distribution","Founder","Maintainer","Initial release year","Current stable version","Security updates (years)","Release date","System distribution commitment","Forked from","Target audience","Cost","Status"
+","Binary blobs","ext4","sysvinit","Xfce","No"
+"Distribution","Default Linux kernel","Default file system","Default init system","Install-time desktop environment or window manager selection","Reproducible builds , URL: /wiki/Reproducible_builds
+"

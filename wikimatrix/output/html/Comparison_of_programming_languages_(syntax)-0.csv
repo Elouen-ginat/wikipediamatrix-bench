@@ -1,7 +1,123 @@
-"Factors of comparison of programming languages , URL: /wiki/Comparison_of_programming_languages
-"
-"General comparison Assignment Basic syntax Basic instructions Comments Control flow Foreach loops While loops For loops Do-while Exception handling Enumerated types Algebraic data types Generators Anonymous functions Conditional expressions Functional instructions Arrays Associative arrays Scope String operations String functions Higher-order functions Filter Fold Map Type systems List comprehension Object-oriented programming Object-oriented constructors Operators ?: Null coalescing operators Safe navigation operators Modulo operators"
-"Evaluation strategy List of "Hello World" programs"
-"Languages with dependent types Comparison of type systems"
-"Comparison of individual languages Comparison of Java and .NET platforms ALGOL 58's influence on ALGOL 60 ALGOL 60: Comparisons with other languages Comparison of ALGOL 68 and C++ ALGOL 68: Comparisons with other languages Compatibility of C and C++ Comparison of Pascal and Borland Delphi Comparison of Object Pascal and C Comparison of Pascal and C Comparison of Java and C++ Comparison of C# and Java Comparison of C# and Visual Basic .NET Comparison of Visual Basic and Visual Basic .NET"
-"v t e"
+"Language","Statement separator-terminator","Secondary separator-terminator[1]"
+"ABAP , URL: /wiki/ABAP
+","period separated",""
+"Ada , URL: /wiki/Ada_(programming_language)
+","semicolon terminated",""
+"ALGOL , URL: /wiki/ALGOL
+","semicolon separated",""
+"ALGOL 68 , URL: /wiki/ALGOL_68
+","semicolon and comma separated[2]",""
+"APL , URL: /wiki/APL_(programming_language)
+","newline terminated","[Direct_function ⋄] separated Secondary"
+"AppleScript , URL: /wiki/AppleScript
+","newline terminated",""
+"AutoHotkey , URL: /wiki/AutoHotkey
+","newline terminated",""
+"BASIC , URL: /wiki/BASIC
+","newline terminated","colon separated"
+"Boo , URL: /wiki/Boo_(programming_language)
+","newline terminated",""
+"C , URL: /wiki/C_(programming_language)
+","semicolon terminates statements","comma separates expressions"
+"C++ , URL: /wiki/C%2B%2B
+","semicolon terminates statements","comma separates expressions"
+"C# , URL: /wiki/C_Sharp_(programming_language)
+","semicolon terminated",""
+"COBOL , URL: /wiki/COBOL
+","whitespace separated, sometimes period separated, optionally separated with commas and semi-colons.",""
+"Cobra , URL: /wiki/Cobra_(programming_language)
+","newline terminated",""
+"CoffeeScript , URL: /wiki/CoffeeScript
+","newline terminated",""
+"CSS , URL: /wiki/CSS
+","semicolon separated",""
+"D , URL: /wiki/D_(programming_language)
+","semicolon terminated",""
+"Eiffel , URL: /wiki/Eiffel_(programming_language)
+","newline terminated","semicolon"
+"Erlang , URL: /wiki/Erlang_(programming_language)
+","colon separated, period terminated",""
+"F# , URL: /wiki/F_Sharp_(programming_language)
+","newline terminated","semicolon"
+"Fortran , URL: /wiki/Fortran
+","newline terminated","semicolon"
+"Forth , URL: /wiki/Forth_(programming_language)
+","semicolons terminate word definitions. space terminates word use",""
+"GFA BASIC , URL: /wiki/GFA_BASIC
+","newline terminated",""
+"Go , URL: /wiki/Go_(programming_language)
+","semicolon separated (inserted by compiler)",""
+"Haskell , URL: /wiki/Haskell_(programming_language)
+","newline separated",""
+"Haskell , URL: /wiki/Haskell_(programming_language)
+","semicolon separated",""
+"Java , URL: /wiki/Java_(programming_language)
+","semicolon terminated",""
+"JavaScript , URL: /wiki/JavaScript
+","semicolon separated (but sometimes implicitly inserted on newlines)",""
+"Kotlin , URL: /wiki/Kotlin_(programming_language)
+","semicolon separated (but sometimes implicitly inserted on newlines)",""
+"Lua , URL: /wiki/Lua_(programming_language)
+","whitespace separated (semicolon optional)",""
+"Mathematica , URL: /wiki/Mathematica
+","semicolon separated",""
+"MATLAB , URL: /wiki/MATLAB
+","newline terminated","semicolon or comma[3]"
+"MUMPS , URL: /wiki/MUMPS
+","newline terminates line-scope, the closest to a ""statement"" that M has.","a space separates/teminates a command, allowing another command to follow."
+"Nim , URL: /wiki/Nim_(programming_language)
+","newline terminated",""
+"Object Pascal , URL: /wiki/Object_Pascal
+Delphi , URL: /wiki/Delphi_(programming_language)
+","semicolon separated",""
+"Objective-C , URL: /wiki/Objective-C
+","semicolon terminated",""
+"OCaml , URL: /wiki/OCaml
+","semicolon separated",""
+"Pascal , URL: /wiki/Pascal_(programming_language)
+","semicolon separated",""
+"Perl , URL: /wiki/Perl
+","semicolon separated",""
+"PHP , URL: /wiki/PHP
+","semicolon terminated",""
+"Pick Basic , URL: /wiki/Pick_Basic
+","newline terminated","semicolon separated"
+"PowerShell , URL: /wiki/PowerShell
+","newline terminated","semicolon separated"
+"Prolog , URL: /wiki/Prolog
+","comma separated (conjunction), semicolon separated (disjunction), period terminated (clause)",""
+"Python , URL: /wiki/Python_(programming_language)
+","newline terminated","semicolon"
+"R , URL: /wiki/R_(programming_language)
+","newline terminated[4]","semicolon[4]"
+"Raku , URL: /wiki/Raku_(programming_language)
+","semicolon separated",""
+"Red , URL: /wiki/Red_(programming_language)
+","whitespace separated",""
+"Ruby , URL: /wiki/Ruby_(programming_language)
+","newline terminated","semicolon"
+"Rust , URL: /wiki/Rust_(programming_language)
+","semicolon terminates statements","comma separates expressions"
+"Scala , URL: /wiki/Scala_(programming_language)
+","newline terminated (semicolon optional)","semicolon"
+"Seed7 , URL: /wiki/Seed7
+","semicolon separated (semicolon termination is allowed)",""
+"Simula , URL: /wiki/Simula
+","semicolon separated",""
+"S-Lang , URL: /wiki/S-Lang_(programming_language)
+","semicolon separated",""
+"Smalltalk , URL: /wiki/Smalltalk
+","period separated",""
+"Standard ML , URL: /wiki/Standard_ML
+","semicolon separated",""
+"Swift , URL: /wiki/Swift_(programming_language)
+","semicolon separated (inserted by compiler)",""
+"Visual Basic , URL: /wiki/Visual_Basic
+","newline terminated","colon separated"
+"Visual Basic .NET , URL: /wiki/Visual_Basic_.NET
+","newline terminated","colon separated"
+"Wolfram Language , URL: /wiki/Wolfram_Language
+","semicolon separated",""
+"Xojo , URL: /wiki/Xojo
+","newline terminated",""
+"Language","Statement separator-terminator","Secondary separator-terminator[1]"

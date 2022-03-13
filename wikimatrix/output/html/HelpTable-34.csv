@@ -1,2 +1,3 @@
-"Col 1, row 1","Col 2, row 1 (and 2)","Col 3, row 1"
-"Col 1, row 2","Col 2, row 1 (and 2)","Col 3, row 2"
+"Top_Left","Top_Center","Top_Right"
+"Middle_Left","Middle_Center","Middle_Right"
+"Bottom_Left","Bottom_Center","Bottom_Right"

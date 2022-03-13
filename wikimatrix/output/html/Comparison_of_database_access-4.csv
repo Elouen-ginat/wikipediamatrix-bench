@@ -1,3 +1,5 @@
-"Database","show all data in all fields","show all data in some fields","show filtered data in all fields"
-"MySQL , URL: /wiki/MySQL
-","select * from "tbname";","select "fields" from "tbname";","select * from "tbname" where "filter_expr";"
+"Prog Language , URL: /wiki/Programming_Language
+","Describe","List table content","Search"
+"raw MySQL access","describe tablename;","select field from tablename;",""
+"PHP , URL: /wiki/PHP
+","","",""

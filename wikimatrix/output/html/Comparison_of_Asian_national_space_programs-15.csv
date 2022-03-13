@@ -1,11 +1,9 @@
-"Country","Spacecraft (engine)","Power","Thrust","Specific impulse","Year"
+"Country","Spacecraft","Power","Thrust","Specific impulse","Year launched"
 "Japan , URL: /wiki/Japan
-","pulsed plasma thruster , URL: /wiki/Pulsed_plasma_thruster
-","20 W","","300s","1981"
-"Japan , URL: /wiki/Japan
-","Space Flyer Unit , URL: /wiki/Space_Flyer_Unit
-magnetoplasmadynamic thruster , URL: /wiki/Magnetoplasmadynamic_thruster
-","430 W","12.9 mN","600s","1995"
+","Hayabusa , URL: /wiki/Hayabusa
+","350 W","8 mN","3200s","2003"
 "China , URL: /wiki/China
-","Dongfeng 5 ballistic rocket , URL: /wiki/Dongfeng_5
-","5 W","","280s","1981"
+","Shijian 9A (LIPS-200, ring-cusp magnetic field ion thruster)","1 kW","40 mN","3000s","2012"
+"India , URL: /wiki/India
+","GSAT-20 , URL: /wiki/GSAT-20
+","","","","2022 (Planned)"

@@ -1,30 +1,25 @@
-"Esperanto , URL: /wiki/Esperanto
-","a","b","c","ĉ","d","e","f","g","ĝ","h","ĥ","i","j","ĵ","k","l","m","n","o","p","kv","r","s","ŝ","t","u","ŭ","v","-","-","z"
-"Esperanto1894 , URL: /wiki/Reformed_Esperanto
-","a","b","z","-","d","e","f","g","-","h","-","i","j","-","k","l","m","n","o","p","kv","r","s","c","t","u","-","v","-","-","-"
-"Ido , URL: /wiki/Ido_language
-","a","b","c","ch","d","e","f","g","-","h","-","i","y","j","k","l","m","n","o","p","qu","r","s","sh","t","u","-","v","w","x","z"
-"IPA , URL: /wiki/International_Phonetic_Alphabet
-phonemes , URL: /wiki/Phonemes
-","a , URL: /wiki/Open_front_unrounded_vowel
-","b , URL: /wiki/Voiced_bilabial_plosive
-","t͡s","t͡ʃ","d , URL: /wiki/Voiced_alveolar_plosive
-","e , URL: /wiki/Close-mid_front_unrounded_vowel
-","f , URL: /wiki/Voiceless_labiodental_fricative
-","g , URL: /wiki/Voiced_velar_plosive
-","d͡ʒ","h , URL: /wiki/Voiceless_glottal_fricative
-","/x/","i , URL: /wiki/Close_front_unrounded_vowel
-","j , URL: /wiki/Palatal_approximant
-","ʒ","k , URL: /wiki/Voiceless_velar_plosive
-","l , URL: /wiki/Alveolar_lateral_approximant
-","m , URL: /wiki/Bilabial_nasal
-","n , URL: /wiki/Alveolar_nasal
-","o , URL: /wiki/Close-mid_back_rounded_vowel
-","p , URL: /wiki/Voiceless_bilabial_plosive
-","/kw/,/kv/","r , URL: /wiki/Alveolar_tap
-","s , URL: /wiki/Voiceless_alveolar_sibilant
-","ʃ , URL: /wiki/Voiceless_palato-alveolar_sibilant
-","t , URL: /wiki/Voiceless_alveolar_plosive
-","u , URL: /wiki/Close_back_rounded_vowel
-","u̯ (in diphthongs)","v , URL: /wiki/Voiced_labiodental_fricative
-","w","/ks/,/ɡz/","z"
+"Grammatical form","Esperanto","Esperanto","Ido","English","English"
+"Singular noun , URL: /wiki/Noun
+","-o (libro)","-o (libro)","-o (libro)","book","book"
+"Plural noun , URL: /wiki/Noun
+","-oj (libroj)","-oj (libroj)","-i (libri)","books","books"
+"Adjective , URL: /wiki/Adjective
+","-a (varma)","-a (varma)","-a (varma)","warm","warm"
+"Adverb , URL: /wiki/Adverb
+","-e (varme)","-e (varme)","-e (varme)","warmly","warmly"
+"Present tense infinitive , URL: /wiki/Infinitive
+","-anti (iranti)","-i (iri)","-ar (irar)","to be going","to go"
+"Past tense infinitive , URL: /wiki/Infinitive
+","-inti (irinti)","-i (iri)","-ir (irir)","to have gone","to go"
+"Future tense infinitive , URL: /wiki/Infinitive
+","-onti (ironti)","-i (iri)","-or (iror)","to be going to go","to go"
+"Present , URL: /wiki/Present_tense
+","-as (iras)","-as (iras)","-as (iras)","go, goes","go, goes"
+"Past , URL: /wiki/Past_tense
+","-is (iris)","-is (iris)","-is (iris)","went","went"
+"Future , URL: /wiki/Future_tense
+","-os (iros)","-os (iros)","-os (iros)","will go","will go"
+"Imperative , URL: /wiki/Imperative_mood
+","-u (iru)","-u (iru)","-ez (irez)","go!","go!"
+"Conditional , URL: /wiki/Conditional_mood
+","-us (irus)","-us (irus)","-us (irus)","would go","would go"

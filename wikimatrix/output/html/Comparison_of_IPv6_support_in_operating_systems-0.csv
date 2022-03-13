@@ -17,7 +17,7 @@
 "Cisco Meraki , URL: /wiki/Cisco_Meraki
 ","MX + MX series","No","No","No","No","[6] Devices can only carry / pass through IPv6 on bridge, but not route"
 "Debian , URL: /wiki/Debian
-","3.0 (woody)","Yes","Yes","Yes","Yes","RDNSS support with "rdnssd" and "resolvconf" or "openresolve" packages."
+","3.0 (woody)","Yes","Yes","Yes","Yes","RDNSS support with ""rdnssd"" and ""resolvconf"" or ""openresolve"" packages."
 "Fedora , URL: /wiki/Fedora_(operating_system)
 ","13","Yes","Yes[7]","Yes[7]","Yes[7]",""
 "FreeBSD , URL: /wiki/FreeBSD
@@ -60,7 +60,7 @@
 ","7.0","Yes","Yes","No","No","[2] , URL: http://sw.nokia.com/id/f9363497-5d96-4354-b071-e212ab204c63/Nokia_Views_on_IPv6_Transition_v2_0_en.pdf
 "
 "Ubuntu , URL: /wiki/Ubuntu_(operating_system)
-","All supported versions","Yes","Yes","Yes","Yes","RDNSS support available so long as NetworkManager uses IPv6 "Automatic" setting, otherwise "rdnssd" package required."
+","All supported versions","Yes","Yes","Yes","Yes","RDNSS support available so long as NetworkManager uses IPv6 ""Automatic"" setting, otherwise ""rdnssd"" package required."
 "webOS , URL: /wiki/WebOS
 ","2.1.0","No","No","No","No","[26]"
 "Windows NT , URL: /wiki/Windows_NT

@@ -1,77 +1,44 @@
-"","Text","Text","Boolean , URL: /wiki/Boolean_datatype
-","Enumeration , URL: /wiki/Enumerated_type
-","Object , URL: /wiki/Object_(computer_science)
-Universal , URL: /wiki/Top_type
-"
-"","Character , URL: /wiki/Character_(computing)
-","String , URL: /wiki/String_(computer_science)
-","Boolean , URL: /wiki/Boolean_datatype
-","Enumeration , URL: /wiki/Enumerated_type
-","Object , URL: /wiki/Object_(computer_science)
-Universal , URL: /wiki/Top_type
-"
+"","variable","constant","type synonym"
 "Ada , URL: /wiki/Ada_(programming_language)
-","Character","String, Bounded_String, Unbounded_String","Boolean","( item1, item2, ... )","tagged null record"
-"ALGOL 68","char","string, bytes","bool, bits","User defined , URL: http://rosettacode.org/wiki/Enumerations#ALGOL_68
+","identifier : type« := initial_value»[e]","identifier : constant type := final_value","subtype identifier is type"
+"ALGOL 68 , URL: /wiki/ALGOL_68
+","modename name« := initial_value»;","modename name = value;","mode synonym = modename;"
+"C (C99)","type name« = initial_value»;","enum{ name = value };","typedef type synonym;"
+"Objective-C","type name« = initial_value»;","enum{ name = value };","typedef type synonym;"
+"C++","type name« = initial_value»;","const type name = value;","typedef type synonym;"
+"C#","type name1« = initial_value», name2« = initial_value», ... ; or var name = initial_value;","const type name = value, name = value, ... ; or readonly type name = value, name = value, ... ;","using synonym = type;"
+"D","type name« = initial_value»; or auto name = value;","const type name = value; or immutable type name = value;","alias type synonym;"
+"Java","type name« = initial_value»;","final type name = value;","N/A"
+"JavaScript","ECMAScript , URL: /wiki/ECMAScript
+","ECMAScript , URL: /wiki/ECMAScript
 ","N/A"
-"C (C99)","char, wchar_t","N/A","bool[b]","enum «name» { item1, item2, ... };","void *"
-"C++ (STL)","char, wchar_t","«std::»string","bool[b]","enum «name» { item1, item2, ... };","void *"
-"Objective-C","unichar","NSString *","BOOL","enum «name» { item1, item2, ... };","id"
-"C#","char","string","bool","enum name { item1« = value», item2« = value», ... }","object"
-"Java","char","String","boolean","enum name { item1, item2, ... }","Object"
-"Go","byte, rune","string","bool","const (
-  item1 = iota
-  item2
-  ...
-)","interface{}"
-"Rust","char","String","bool","enum name { item1« = value», item2« = value», ... }","std::any::Any"
-"Swift","Character","String","Bool","enum name { case item1, item2, ... }","Any"
-"D","char","string","bool","enum name { item1, item2, ... }","std.variant.Variant"
-"Common Lisp","character","string","boolean","(member item1 item2 ...)","t"
-"Scheme","","","","",""
-"ISLISP","","","","",""
-"Pascal (ISO)","char","N/A","boolean","( item1, item2, ... )","N/A"
-"Object Pascal (Delphi)","char","string","boolean","( item1, item2, ... )","variant"
-"Visual Basic","N/A","String","Boolean","Enum name
-  item1 «= value»
-  item2 «= value»
-  ...
-End Enum","Variant"
-"Visual Basic .NET","Char","String","Boolean","Enum name
-  item1 «= value»
-  item2 «= value»
-  ...
-End Enum",""
-"Xojo","N/A","String","Boolean","Enum name
-  item1 «= value»
-  item2 «= value»
-  ...
-End Enum",""
-"Python","N/A[d]","str","bool","from enum import Enum
-class Name(Enum):
-  item1 = value
-  item2 = value
-  ...","object"
-"JavaScript","N/A[d]","String","Boolean","","Object"
-"S-Lang","","","","",""
-"Fortran","CHARACTER(LEN = *)","CHARACTER(LEN = :), allocatable","LOGICAL(KIND = n)[f]","","CLASS(*)"
-"PHP","N/A[d]","string","bool","","(type declaration omitted)"
-"Perl","N/A[d]","","","","UNIVERSAL"
-"Raku","Char","Str","Bool","enum name<item1 item2 ...> enum name <<:item1(value) :item2(value) ..>>","Mu"
-"Ruby","N/A[d]","String","Object[c]","","Object"
-"Scala","Char","String","Boolean","object name extends Enumeration {
-  val item1, item2, ... = Value
-}","Any"
-"Seed7","char","string","boolean","const type: name is new enum
-  item1,
-  item2,
-  ...
-end enum;",""
-"Windows PowerShell","","","","",""
-"OCaml","char","string","bool","N/A[e]","N/A"
-"F#","char","string","bool","",""
-"Standard ML","char","string","bool","",""
-"Haskell (GHC)","Char","String","Bool","N/A[e]","N/A"
-"Eiffel","CHARACTER","STRING","BOOLEAN","N/A","ANY"
-"COBOL","PIC X","PIC X(string length) or PIC X«X...»","PIC 1«(number of digits)» or PIC 1«1...»","N/A","OBJECT REFERENCE"
-"Mathematica","N/A[d]","String","","","N/A"
+"Go","var name type« = initial_value» or name := initial_value","const name «type» = value","type synonym type"
+"Rust[f]","let mut name«: type»« = initial_value»; static mut NAME: type = value;","let name«: type»« = initial_value»; const NAME: type = value; static NAME: type = value;","type synonym = typename;"
+"Swift","var name« : type»« = initial_value»","let name «: type» = value","typealias synonym = type"
+"Common Lisp","(defparameter name initial-value) or (defvar name initial-value)","(defconstant name value)","(deftype synonym () 'type)"
+"Scheme","(define name initial_value)","",""
+"ISLISP","(defglobal name initial_value) or (defdynamic name initial_value)","(defconstant name value)","N/A"
+"Pascal[a]","name: type« = initial_value»","name = value","synonym = type"
+"Visual Basic","Dim name «As type»","See notes to left. Constants use the same syntax, and: use Const instead of Dim have a restriction to only certain primitive types Const name1 «As type» = value, name2 «As type» = value, ...",""
+"Visual Basic .NET[10]","The variable declaration syntax of VB.NET is surprisingly difficult to precisely describe. Given that there exist the identifier suffixes (""modifiers""): type_character, available as an alternative to an As clause for some primitive data types; nullable_specifier; and array_specifier; and that a modified_identifier is of the form identifier«type_character»«nullable_specifier»«array_specifier»; a modified_identifier_list is a comma-separated list of two or more occurrences of modified_identifier; and a declarator_list is a comma-separated list of declarators, which can be of the form identifier As object_creation_expression (object initializer declarator), modified_identifier« As non_array_type«array_rank_specifier»»« = initial_value» (single declarator), or modified_identifier_list« As «non_array_type««array_rank_specifier»» (multiple declarator); valid declaration statements are of the form Dim declarator_list, where, for the purpose of semantic analysis, to convert the declarator_list to a list of only single declarators: The As clauses of each multiple declarator is distributed over its modified_identifier_list The As New type... of each object initializer declarator is replaced with As type = New type... and for which, for each identifier, a type_character and As clause do not both appear; if an As clause is present, an array_rank_specifier does not appear both as a modification of the identifier and on the type of the As clause; an unmodified_type can be determined, by the rule that, if a type_character or As clause is present, unmodified_type is that specified by such construct, and that otherwise, either Option Infer must be on and the identifier must have an initializer, in which case unmodified_type is that of the initializer, or Option Strict must be off, in which case unmodified_type is Object; its final_type is its unmodified_type prepended before its modifiers; its final_type is a valid type; and if an initial_value is present, either Option Strict is on and initial_value has a widening conversion to final_type, or Option Strict is off and initial_value has a narrowing conversion to final_type. If Option Explicit is off, variables do not require explicit declaration; they are declared implicitly when used: name = initial_value","See notes to left. Constants use the same syntax, and: use Const instead of Dim have a restriction to only certain primitive types Const name1 «As type» = value, name2 «As type» = value, ...","Imports synonym = type"
+"Xojo","Dim name «As type»« = initial_value»","See notes to left. Constants use the same syntax, and: use Const instead of Dim have a restriction to only certain primitive types Const name1 «As type» = value, name2 «As type» = value, ...","N/A"
+"Python","name«: type» = initial_value","N/A","synonym = type[b]"
+"CoffeeScript , URL: /wiki/CoffeeScript
+","name = initial_value","N/A",""
+"S-Lang","name = initial_value;","","typedef struct {...} typename"
+"Fortran","type name","type, PARAMETER :: name = value",""
+"PHP","$name = initial_value;","define(""name"", value); const name = value (5.3+)","N/A"
+"Perl","«my» $name« = initial_value»;[c]","use constant name => value;","N/A"
+"Raku","«my «type»» $name« = initial_value»;[c]","«my «type»» constant name = value;","::synonym ::= type"
+"Ruby","name = initial_value","Name = value","synonym = type[b]"
+"Scala","var name«: type» = initial_value","val name«: type» = value","type synonym = type"
+"Windows PowerShell","«[type] »$name = initial_value","N/A","N/A"
+"Bash shell","name=initial_value","N/A","N/A"
+"OCaml","let name« : type ref» = ref value[d]","let name «: type» = value","type synonym = type"
+"F#","let mutable name« : type» = value","let name «: type» = value","type synonym = type"
+"Standard ML","val name« : type ref» = ref value[d]","val name «: type» = value","type synonym = type"
+"Haskell","","«name::type;» name = value","type Synonym = type"
+"Forth , URL: /wiki/Forth_(programming_language)
+","VARIABLE name (in some systems use value VARIABLE name instead)","value CONSTANT name",""
+"COBOL","level-number name type clauses.","«0»1 name CONSTANT «AS» value.","level-number name type clauses «IS» TYPEDEF."
+"Mathematica","name=initial_value","N/A","N/A"
