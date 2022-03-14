@@ -21,7 +21,7 @@ interface , URL: /wiki/I/O_interface
 ","MHz , URL: /wiki/Hertz
 ","MHz , URL: /wiki/Hertz
 ","MT/s , URL: /wiki/Transfer_(computing)
-","GiB , URL: /wiki/Gibibyte
+","GB , URL: /wiki/Gigabyte
 ","GB , URL: /wiki/Gigabyte
 ","Bus type","bit , URL: /wiki/Bit
 ","GP , URL: /wiki/Pixel
@@ -59,6 +59,6 @@ interface , URL: /wiki/I/O_interface
 "GeForce RTX 3090[164]","September 24, 2020","GA102-300-A1","Samsung , URL: /wiki/Samsung_Electronics
 ","28.3","628.4","10496:328:112:328:82 (82) (7)","PCIe 4.0 x16","6","1395","1695","19500","24","935.8","GDDR6X","384","156.2 189.8","457.6 555.96","29.28 35.58","0.459 0.558","29.38 35.68","235.08 285.48","","","71.1","350","NVLink , URL: /wiki/NVLink
 ","","$1499"
-"GeForce RTX 3090 Ti[165]","January 27, 2022","GA102-350","Samsung , URL: /wiki/Samsung_Electronics
-","28.3","628.4","10752:336:112:336:84 (84) (7)","PCIe 4.0 x16","6","1560","1860","21000","24","1007.8","GDDR6X","384","174.7 208.3","524.2 625.0","33.5 40.0","0.524 0.625","33.5 40.0","268.4 320.0","","","80.0","450","NVLink , URL: /wiki/NVLink
+"","","","Samsung , URL: /wiki/Samsung_Electronics
+","28.3","628.4","","PCIe 4.0 x16","6","","","","24","","GDDR6X","384","","","","","","","","","","","NVLink , URL: /wiki/NVLink
 ","",""

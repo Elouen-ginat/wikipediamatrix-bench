@@ -24,12 +24,12 @@ interface , URL: /wiki/I/O_interface
 ","CUDA , URL: /wiki/CUDA
 ","TDP , URL: /wiki/Thermal_design_power
 ","Notes"
-"Quadro T400 [270][271][272]","TU117","TSMC , URL: /wiki/TSMC
+"Quadro T400 [269][270][271]","TU117","TSMC , URL: /wiki/TSMC
 12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
 ","PCIe 3.0 x16","1420","10000","384:24:16:6","22.8","34.2","2 4","80","GDDR6","64","1090","34.1","12.1","4.6","1.2","3.0","7.5","30","3x Mini-DisplayPort"
-"Quadro T600 [270][273][274]","TU117","TSMC , URL: /wiki/TSMC
+"Quadro T600 [269][272][273]","TU117","TSMC , URL: /wiki/TSMC
 12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
 ","PCIe 3.0 x16","1330","10000","640:40:32:10","42.7","53.4","4","160","GDDR6","128","1700","53.1","12.1","4.6","1.2","3.0","7.5","40","4x Mini-DisplayPort"
-"Quadro T1000 [270][275][276]","TU117","TSMC , URL: /wiki/TSMC
+"Quadro T1000 [269][274][275]","TU117","TSMC , URL: /wiki/TSMC
 12FFN , URL: /w/index.php?title=12_nanometer&action=edit&redlink=1
 ","PCIe 3.0 x16","1400","10000","896:56:32:14","44.6","78.1","4 8","160","GDDR6","128","2500","78.1","12.1","4.6","1.2","3.0","7.5","50","4x Mini-DisplayPort"

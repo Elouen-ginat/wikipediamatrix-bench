@@ -9,12 +9,10 @@ import java.io.IOException;
 import java.util.List;
 
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import org.junit.Test;
 
 import fr.univrennes1.istic.wikipediamatrix.Convertor.Convertor;
-import fr.univrennes1.istic.wikipediamatrix.Convertor.HTML.WikipediaHTMLConvertor;
 import fr.univrennes1.istic.wikipediamatrix.Convertor.HTML.WikipediaHTMLConvertorPlus;
 import fr.univrennes1.istic.wikipediamatrix.Exception.NoTableException;
 import fr.univrennes1.istic.wikipediamatrix.Extractor.Extractor;

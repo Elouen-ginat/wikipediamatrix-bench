@@ -4,6 +4,9 @@ import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 
+import java.io.File;
+import java.io.IOException;
+import java.nio.file.Paths;
 import java.util.List;
 
 import org.jsoup.Jsoup;
@@ -20,6 +23,10 @@ import fr.univrennes1.istic.wikipediamatrix.Extractor.HTML.WikipediaHTMLExtracto
 
 public class WikipediaHTMLConvertorTest {
 
+    private String project_path = Paths.get("").toAbsolutePath().toString();
+    private String inputs_rel_path = "src/test/java/fr/univrennes1/istic/wikipediamatrix/inputs";
+    private String inputs_path = Paths.get(project_path, inputs_rel_path).toString();
+
     private int[] getLength(String[][] string_table) {
         int size_row = string_table.length;
         int size_col = 0;
@@ -31,20 +38,16 @@ public class WikipediaHTMLConvertorTest {
 
     @Test
     public void toStringTableTestNormal() {
+
         // Arrange
-        String html =   "<table class=\"wikitable\">"
-                    +       "<tr>"
-                    +           "<td>a</td>"
-                    +           "<td>b</td>"
-                    +           "<td>c</td>"
-                    +       "</tr>"
-                    +       "<tr>"
-                    +           "<td>d</td>"
-                    +           "<td>e</td>"
-                    +       "</tr>"
-                    +   "</table>";
+        File html = Paths.get(inputs_path, "toStringTableTestNormal.html").toFile();
+        Document doc = null;
+        try {
+            doc = Jsoup.parse(html, "UTF-8");
+        } catch (IOException e) {
+            fail(e.getMessage());
+        }
         int[] expected_size = new int[]{2,3};
-        Document doc = Jsoup.parseBodyFragment(html);
         Extractor extractor = new WikipediaHTMLExtractor();
         Convertor convertor = new WikipediaHTMLConvertorPlus();
 
@@ -69,19 +72,14 @@ public class WikipediaHTMLConvertorTest {
     @Test
     public void toStringTableTestSpanRow() {
         // Arrange
-        String html =   "<table class=\"wikitable\">"
-                    +       "<tr>"
-                    +           "<td>a</td>"
-                    +           "<td rowspan=2>b</td>"
-                    +           "<td>c</td>"
-                    +       "</tr>"
-                    +       "<tr>"
-                    +           "<td>d</td>"
-                    +           "<td>e</td>"
-                    +       "</tr>"
-                    +   "</table>";
+        File html = Paths.get(inputs_path, "toStringTableTestSpanRow.html").toFile();
+        Document doc = null;
+        try {
+            doc = Jsoup.parse(html, "UTF-8");
+        } catch (IOException e) {
+            fail(e.getMessage());
+        }   
         int[] expected_size = new int[]{2,3};
-        Document doc = Jsoup.parseBodyFragment(html);
         Extractor extractor = new WikipediaHTMLExtractor();
         Convertor convertor = new WikipediaHTMLConvertorPlus();
 
@@ -113,19 +111,14 @@ public class WikipediaHTMLConvertorTest {
     @Test
     public void toStringTableTestSpanCol() {
         // Arrange
-        String html =   "<table class=\"wikitable\">"
-                    +       "<tr>"
-                    +           "<td>a</td>"
-                    +           "<td>b</td>"
-                    +           "<td>c</td>"
-                    +       "</tr>"
-                    +       "<tr>"
-                    +           "<td>d</td>"
-                    +           "<td colspan=2>e</td>"
-                    +       "</tr>"
-                    +   "</table>";
+        File html = Paths.get(inputs_path, "toStringTableTestSpanCol.html").toFile();
+        Document doc = null;
+        try {
+            doc = Jsoup.parse(html, "UTF-8");
+        } catch (IOException e) {
+            fail(e.getMessage());
+        }
         int[] expected_size = new int[]{2,3};
-        Document doc = Jsoup.parseBodyFragment(html);
         Extractor extractor = new WikipediaHTMLExtractor();
         Convertor convertor = new WikipediaHTMLConvertorPlus();
 
@@ -158,35 +151,14 @@ public class WikipediaHTMLConvertorTest {
     @Test
     public void toStringTableTestSpanRowCol() {
         // Arrange
-        String html =   "<table class=\"wikitable\">"
-                    +       "<tbody><tr>"
-                    +           "<th>Column 1</th>"
-                    +           "<th>Column 2</th>"
-                    +           "<th>Column 3"
-                    +       "</th></tr>"
-                    +       "<tr>"
-                    +           "<td rowspan=2>A"
-                    +           "</td>"
-                    +           "<td colspan=2>B"
-                    +       "</td></tr>"
-                    +       "<tr>"
-                    +           "<td>C"
-                    +           "</td>"
-                    +           "<td>D"
-                    +       "</td></tr>"
-                    +       "<tr>"
-                    +           "<td>E"
-                    +           "</td>"
-                    +           "<td rowspan=2 colspan=2>F"
-                    +       "</td></tr>"
-                    +       "<tr>"
-                    +           "<td>G"
-                    +       "</td></tr>"
-                    +       "<tr>"
-                    +           "<td colspan=3>H"
-                    +   "</td></tr></tbody></table>";
+        File html = Paths.get(inputs_path, "toStringTableTestSpanRowCol.html").toFile();
+        Document doc = null;
+        try {
+            doc = Jsoup.parse(html, "UTF-8");
+        } catch (IOException e) {
+            fail(e.getMessage());
+        }
         int[] expected_size = new int[]{6,3};
-        Document doc = Jsoup.parseBodyFragment(html);
         Extractor extractor = new WikipediaHTMLExtractor();
         Convertor convertor = new WikipediaHTMLConvertorPlus();
 
@@ -218,29 +190,14 @@ public class WikipediaHTMLConvertorTest {
     @Test
     public void toStringTableTestNested() {
         // Arrange
-        String html =   "<table class=\"wikitable\">"
-                    +       "<tr>"
-                    +           "<td>a</td>"
-                    +           "<td>b</td>"
-                    +           "<td>c</td>"
-                    +       "</tr>"
-                    +       "<tr>"
-                    +           "<td>d</td>"
-                    +           "<td colspan=2>e"
-                    +              "<table class=\"wikitable\">"
-                    +                   "<tr>"
-                    +                       "<td>a1</td>"
-                    +                       "<td>b1</td>"
-                    +                   "</tr>"
-                    +                   "<tr>"
-                    +                       "<td colspan=2>c1</td>"
-                    +                   "</tr>"
-                    +               "</table>"
-                    +           "</td>"
-                    +       "</tr>"
-                    +   "</table>";
-        int[] expected_size = new int[]{3,5};
-        Document doc = Jsoup.parseBodyFragment(html);
+        File html = Paths.get(inputs_path, "toStringTableTestNested.html").toFile();
+        Document doc = null;
+        try {
+            doc = Jsoup.parse(html, "UTF-8");
+        } catch (IOException e) {
+            fail(e.getMessage());
+        }
+        int[] expected_size = new int[]{4,5};
         Extractor extractor = new WikipediaHTMLExtractor();
         Convertor convertor = new WikipediaHTMLConvertorPlus();
 
@@ -272,40 +229,14 @@ public class WikipediaHTMLConvertorTest {
     @Test
     public void toStringTableTestNestedNested() {
         // Arrange
-        String html =   "<table class=\"wikitable\">"
-                    +       "<tr>"
-                    +           "<td>a</td>"
-                    +           "<td>b</td>"
-                    +           "<td>c</td>"
-                    +       "</tr>"
-                    +       "<tr>"
-                    +           "<td>d</td>"
-                    +           "<td colspan=2>e"
-                    +              "<table>"
-                    +                   "<tr>"
-                    +                       "<td rowspan=2>a1</td>"
-                    +                       "<td>b1</td>"
-                    +                   "</tr>"
-                    +                   "<tr>"
-                    +                       "<td>"
-                    +                           "<table class=\"wikitable\">"
-                    +                               "<tr>"
-                    +                                   "<td>a2</td>"
-                    +                                   "<td>b2</td>"
-                    +                               "</tr>"
-                    +                               "<tr>"
-                    +                                   "<td>c2</td>"
-                    +                                   "<td>d2</td>"
-                    +                               "</tr>"
-                    +                           "</table>"
-                    +                       "</td>"
-                    +                   "</tr>"
-                    +               "</table>"
-                    +           "</td>"
-                    +       "</tr>"
-                    +   "</table>";
+        File html = Paths.get(inputs_path, "toStringTableTestNestedNested.html").toFile();
+        Document doc = null;
+        try {
+            doc = Jsoup.parse(html, "UTF-8");
+        } catch (IOException e) {
+            fail(e.getMessage());
+        }
         int[] expected_size = new int[]{4,7};
-        Document doc = Jsoup.parseBodyFragment(html);
         Extractor extractor = new WikipediaHTMLExtractor();
         Convertor convertor = new WikipediaHTMLConvertorPlus();
 
@@ -337,27 +268,13 @@ public class WikipediaHTMLConvertorTest {
     @Test
     public void toStringTables() {
         // Arrange
-        String html =   "<table class=\"wikitable\">"
-                    +       "<tr>"
-                    +           "<td>a</td>"
-                    +           "<td>b</td>"
-                    +           "<td>c</td>"
-                    +       "</tr>"
-                    +       "<tr>"
-                    +           "<td>d</td>"
-                    +           "<td>e</td>"
-                    +       "</tr>"
-                    +   "</table>"
-                    +   "<table class=\"wikitable\">"
-                    +       "<tr>"
-                    +           "<td>f</td>"
-                    +       "</tr>"
-                    +       "<tr>"
-                    +           "<td>g</td>"
-                    +           "<td>h</td>"
-                    +       "</tr>"
-                    +   "</table>";
-        Document doc = Jsoup.parseBodyFragment(html);
+        File html = Paths.get(inputs_path, "toStringTables.html").toFile();
+        Document doc = null;
+        try {
+            doc = Jsoup.parse(html, "UTF-8");
+        } catch (IOException e) {
+            fail(e.getMessage());
+        }
         Extractor extractor = new WikipediaHTMLExtractor();
         Convertor convertor = new WikipediaHTMLConvertorPlus();
 

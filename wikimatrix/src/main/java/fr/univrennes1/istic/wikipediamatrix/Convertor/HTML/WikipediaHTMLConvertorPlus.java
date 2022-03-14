@@ -52,10 +52,7 @@ public class WikipediaHTMLConvertorPlus implements Convertor {
         // Calculate grid of each Table
         for (Balise table_balise : table_visitor.tables) {
             // merge grids
-            List<Grid> grids = grid_visitor.getGrids(table_balise);
-            for (int i = 0; i < grids.size(); i++) {
-                table_balise.getGrid().mergeRow(grids.get(i), i);
-            }
+            grid_visitor.mergeRow(table_balise);
         }
         
         // Show table tree

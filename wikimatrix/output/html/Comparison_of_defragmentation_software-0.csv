@@ -55,7 +55,7 @@ Windows 95 , URL: /wiki/Windows_95
 "PerfectDisk , URL: /wiki/PerfectDisk
 ","Raxco , URL: /wiki/Raxco
 ","Trialware , URL: /wiki/Trialware
-","FAT16, FAT32, exFAT, NTFS, ReFS* and CSVFS[9]","Windows XP SP3 or higher (x86, x64), Windows 10, Windows Server 2003 SP1, Windows Server 2019[10]","Yes","Enterprise Console edition only","","Yes","Yes","Yes","PerfectDisk 14 Build 894(May 2, 2019)[11]"
+","FAT16, FAT32, exFAT, NTFS, ReFS* and CSVFS[9]","Windows XP SP3 or higher (x86, x64), Windows 10, Windows Server 2003 SP1, Windows Server 2019[9]","Yes","Enterprise Console edition only","","Yes","Yes","Yes","PerfectDisk 14 Build 894(May 2, 2019)[10]"
 "UltimateDefrag , URL: /wiki/UltimateDefrag
 ","DiskTrix","Trialware , URL: /wiki/Trialware
 ","FAT32, NTFS","Windows XP and later","Yes","Yes","","Yes","Yes","","6.1.2.0 (28 July 2021)"
@@ -63,10 +63,10 @@ Windows 95 , URL: /wiki/Windows_95
 ","Dmitri Arkhangelski, Justin Dearing, Sayem Chaklader, Stefan Pendl","Commercial software , URL: /wiki/Commercial_software
 GNU GPL , URL: /wiki/Free_software
 ","FAT12 , URL: /wiki/FAT12
-","Windows NT 4.0 and later","Yes","Yes","Yes[d][14]","Windows Task Scheduler , URL: /wiki/Windows_Task_Scheduler
+","Windows NT 4.0 and later","Yes","Yes","Yes[d][13]","Windows Task Scheduler , URL: /wiki/Windows_Task_Scheduler
 ","Yes","Windows Task Scheduler , URL: /wiki/Windows_Task_Scheduler
-","9.0.1 (October 20, 2019; 2 years ago (2019-10-20)) [±], Open source version discontinued[15]"
+","9.0.1 (October 20, 2019; 2 years ago (2019-10-20)) [±], Open source version discontinued[14]"
 "Vopt , URL: /wiki/Vopt
-","GoldenBow (or DataTuna)[16]","freeware , URL: /wiki/Freeware
+","GoldenBow (or DataTuna)[15]","freeware , URL: /wiki/Freeware
 ","FAT32, NTFS","Windows 2000 and later","Yes","","","Yes","","","9.21.0001 (November 14, 2010 (2010-11-14)) [±]"
 "Program","Developer","License","Supported file systems","Supported platforms","GUI","CLI","Script","Scheduler","Boot time","Auto defrag when idle","Stable release"

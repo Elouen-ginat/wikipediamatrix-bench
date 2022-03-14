@@ -4,6 +4,10 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.fail;
 
+import java.io.File;
+import java.io.IOException;
+import java.nio.file.Paths;
+
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -16,6 +20,10 @@ import fr.univrennes1.istic.wikipediamatrix.Extractor.HTML.WikipediaHTMLExtracto
 
 public class WikipediaHTMLExtractorTest {
 
+    private String project_path = Paths.get("").toAbsolutePath().toString();
+    private String inputs_rel_path = "src/test/java/fr/univrennes1/istic/wikipediamatrix/inputs";
+    private String inputs_path = Paths.get(project_path, inputs_rel_path).toString();
+    
     @Test
     public void getDocument() {
 
@@ -43,10 +51,13 @@ public class WikipediaHTMLExtractorTest {
     public void getAllWikiTable() {
 
         // Arrange
-        String html =   "<table></table>"
-                    +   "<table class=\"testwikitable test\"></table>"
-                    +   "<table class=\"wikitable\"></table>";
-        Document doc = Jsoup.parse(html);
+        File html = Paths.get(inputs_path, "getAllWikiTable.html").toFile();
+        Document doc = null;
+        try {
+            doc = Jsoup.parse(html, "UTF-8");
+        } catch (IOException e) {
+            fail(e.getMessage());
+        }
         Extractor extractor = new WikipediaHTMLExtractor();
 
         //Act
@@ -68,10 +79,13 @@ public class WikipediaHTMLExtractorTest {
 
         // Arrange
         String class_name = "wikitable";
-        String html =   "<table></table>"
-                    +   "<table class=\"testwikitable test\"></table>"
-                    +   "<table class=\""+class_name+"\"></table>";
-        Document doc = Jsoup.parse(html);
+        File html = Paths.get(inputs_path, "getWikiTable.html").toFile();
+        Document doc = null;
+        try {
+            doc = Jsoup.parse(html, "UTF-8");
+        } catch (IOException e) {
+            fail(e.getMessage());
+        }
         Extractor extractor = new WikipediaHTMLExtractor();
 
         //Act
@@ -95,18 +109,13 @@ public class WikipediaHTMLExtractorTest {
     public void getAllFirstTable() {
         
         // Arrange
-        String html =   "<table><tr><td>"
-                    +       "<table class=\"testwikitable test1\"><tr><td>"
-                    +           "<table class=\"wikitable\"></table>"
-                    +       "</td></tr></table>"
-                    +   "</td></tr></table>"
-                    +   "<table class=\"testwikitable test2\"><tr><td>"
-                    +       "<table class=\"wikitable\"></table>"
-                    +   "</td></tr></table>"
-                    +   "<div>"
-                    +       "<table class=\"wikitable2\"></table>"
-                    +   "</div>";
-        Document doc = Jsoup.parseBodyFragment(html);
+        File html = Paths.get(inputs_path, "getAllFirstTable.html").toFile();
+        Document doc = null;
+        try {
+            doc = Jsoup.parse(html, "UTF-8");
+        } catch (IOException e) {
+            fail(e.getMessage());
+        }
         Extractor extractor = new WikipediaHTMLExtractor();
 
         //Act

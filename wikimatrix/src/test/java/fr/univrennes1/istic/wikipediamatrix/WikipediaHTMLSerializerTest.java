@@ -1,7 +1,6 @@
 package fr.univrennes1.istic.wikipediamatrix;
 
 import static org.junit.Assert.assertArrayEquals;
-import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 
 import java.io.File;
@@ -9,16 +8,15 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
 import org.junit.Test;
 
 import fr.univrennes1.istic.wikipediamatrix.Convertor.Convertor;
@@ -31,6 +29,10 @@ import fr.univrennes1.istic.wikipediamatrix.Serializer.HTML.WikipediaHTMLSeriali
 
 public class WikipediaHTMLSerializerTest {
 
+    private String project_path = Paths.get("").toAbsolutePath().toString();
+    private String inputs_rel_path = "src/test/java/fr/univrennes1/istic/wikipediamatrix/inputs";
+    private String inputs_path = Paths.get(project_path, inputs_rel_path).toString();
+    
     private int[] getLength(List<CSVRecord> csv_rows) {
         int size_row = 0;
         int size_col = csv_rows.get(0).size();
@@ -44,21 +46,15 @@ public class WikipediaHTMLSerializerTest {
     @Test public void saveToCSV() {
         
         // Arrange
-        String html =   "<table class=\"wikitable\">"
-                    +       "<tr>"
-                    +           "<td>a</td>"
-                    +           "<td>b</td>"
-                    +           "<td>c</td>"
-                    +       "</tr>"
-                    +       "<tr>"
-                    +           "<td>d</td>"
-                    +           "<td>e</td>"
-                    +           "<td>f</td>"
-                    +       "</tr>"
-                    +   "</table>";
+        File html = Paths.get(inputs_path, "saveToCSV.html").toFile();
+        Document doc = null;
+        try {
+            doc = Jsoup.parse(html, "UTF-8");
+        } catch (IOException e) {
+            fail(e.getMessage());
+        }
         int[] expected_size = new int[]{2,3};
         String file_name = "test1";
-        Document doc = Jsoup.parseBodyFragment(html);
         Extractor extractor = new WikipediaHTMLExtractor();
         Convertor convertor = new WikipediaHTMLConvertorPlus();
 

@@ -1,7 +1,7 @@
 package fr.univrennes1.istic.wikipediamatrix;
 
 import java.io.IOException;
-import java.util.ArrayList;
+import java.util.List;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -18,15 +18,20 @@ import fr.univrennes1.istic.wikipediamatrix.Extractor.HTML.WikipediaHTMLExtracto
 import fr.univrennes1.istic.wikipediamatrix.Serializer.Serializer;
 import fr.univrennes1.istic.wikipediamatrix.Serializer.HTML.WikipediaHTMLSerializer;
 
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+@SpringBootApplication
 public class App 
 {
 
     // Get Logger
     public static final Logger LOGGER = LogManager.getLogger(App.class);
-    public static void main( String[] args ) throws IOException
-    {
+    public static void main( String[] args ) {
+        SpringApplication.run(App.class, args);   
+    }
 
+    public void helpTable() {
         String BASE_WIKIPEDIA_URL = "https://en.wikipedia.org/wiki/";
 		
 		String url = "Help:Table";
@@ -54,7 +59,7 @@ public class App
         }
 
         Convertor convertor = new WikipediaHTMLConvertorPlus();
-        ArrayList<String[][]> string_tables = convertor.toStringTables(tables);
+        List<String[][]> string_tables = convertor.toStringTables(tables);
         //String[][] string_table = convertor.toStringTable(tables.get(56));
 
         Serializer serializer = new WikipediaHTMLSerializer();
@@ -70,6 +75,5 @@ public class App
                 App.LOGGER.error(e.getMessage());
             }
         }
-	    
     }
 }

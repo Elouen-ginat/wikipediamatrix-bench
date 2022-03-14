@@ -48,7 +48,7 @@ public class GridVisitor implements Visitor {
         }
     }
 
-    private void mergeRow(Balise balise) {
+    public void mergeRow(Balise balise) {
         List<Grid> grids = getGrids(balise);
         int pos = 0;
         boolean from_table = false;

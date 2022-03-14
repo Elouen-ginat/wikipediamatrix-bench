@@ -16,7 +16,7 @@ public abstract class Balise {
     private int span_row = 1;
     private int span_col = 1;
     private int depth = 0;
-    // Does this grid is a table or just a display balise
+    // Does this grid is a table (like tr, td, th) or just a display balise
     private boolean from_table;
 
     private Grid grid;
