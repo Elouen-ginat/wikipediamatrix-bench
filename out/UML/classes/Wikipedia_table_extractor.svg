@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1479px" preserveAspectRatio="none" style="width:2324px;height:1479px;background:#FFFFFF;" version="1.1" viewBox="0 0 2324 1479" width="2324px" zoomAndPan="magnify"><defs><filter height="1" id="b107yg6lpecs8g0" width="1" x="0" y="0"><feFlood flood-color="#FFFFFF" result="flood"/><feComposite in="SourceGraphic" in2="flood" operator="over"/></filter></defs><g><!--MD5=[480c1d6210ea81c9123d208053c05d1b]
+cluster Extractor--><polygon fill="#FFFFFF" points="1670,150,1740,150,1747,173.6094,1948,173.6094,1948,602,1670,602,1670,150" style="stroke:#000000;stroke-width:0.5;"/><line style="stroke:#000000;stroke-width:0.5;" x1="1670" x2="1747" y1="173.6094" y2="173.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="64" x="1674" y="166.5332">Extractor</text><!--MD5=[59e212ecb331473443ff5151c8b40842]
+cluster Convertor--><polygon fill="#FFFFFF" points="1217,163.5,1295,163.5,1302,187.1094,1646,187.1094,1646,588,1217,588,1217,163.5" style="stroke:#000000;stroke-width:0.5;"/><line style="stroke:#000000;stroke-width:0.5;" x1="1217" x2="1302" y1="187.1094" y2="187.1094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="72" x="1221" y="180.0332">Convertor</text><!--MD5=[4f368bdf4476e4eb5c38f22c6ce3c438]
+cluster Serializer--><polygon fill="#FFFFFF" points="1972,143,2044,143,2051,166.6094,2298,166.6094,2298,602,1972,602,1972,143" style="stroke:#000000;stroke-width:0.5;"/><line style="stroke:#000000;stroke-width:0.5;" x1="1972" x2="2051" y1="166.6094" y2="166.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="66" x="1976" y="159.5332">Serializer</text><!--MD5=[8504d397229f482752d8d5f0f9a4964c]
+cluster TemplateHTML::Balise--><polygon fill="#FFFFFF" points="460,764,620,764,627,787.6094,2307,787.6094,2307,1472,460,1472,460,764" style="stroke:#000000;stroke-width:0.5;"/><line style="stroke:#000000;stroke-width:0.5;" x1="460" x2="627" y1="787.6094" y2="787.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="154" x="464" y="780.5332">TemplateHTML::Balise</text><!--MD5=[9c0b1740c0f495879a66a1b07e425870]
+cluster TemplateHTML::Visitor--><polygon fill="#FFFFFF" points="16,115,178,115,185,138.6094,875,138.6094,875,615.5,16,615.5,16,115" style="stroke:#000000;stroke-width:0.5;"/><line style="stroke:#000000;stroke-width:0.5;" x1="16" x2="185" y1="138.6094" y2="138.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="156" x="20" y="131.5332">TemplateHTML::Visitor</text><!--MD5=[505577493bdabd6fd226966f1674e24a]
+cluster TemplateHTML::Controler--><polygon fill="#FFFFFF" points="234,958,418,958,425,981.6094,436,981.6094,436,1107,234,1107,234,958" style="stroke:#000000;stroke-width:0.5;"/><line style="stroke:#000000;stroke-width:0.5;" x1="234" x2="425" y1="981.6094" y2="981.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="178" x="238" y="974.5332">TemplateHTML::Controler</text><!--MD5=[26e8542b09f4e9c43b2e2f1622ec193a]
+cluster TemplateHTML::Grid--><polygon fill="#FFFFFF" points="899,342,1046,342,1053,365.6094,1143,365.6094,1143,740,899,740,899,342" style="stroke:#000000;stroke-width:0.5;"/><line style="stroke:#000000;stroke-width:0.5;" x1="899" x2="1053" y1="365.6094" y2="365.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="141" x="903" y="358.5332">TemplateHTML::Grid</text><!--MD5=[61b3a2b1f6b1c8dfef8ddcb6fc7ad807]
+class Extractor::Extractor--><rect codeLine="16" fill="#CCCCCC" height="97.3438" id="Extractor::Extractor" style="stroke:#AAAAAA;stroke-width:1.5;" width="246" x="1686" y="186"/><ellipse cx="1779.5" cy="199" fill="#B4A7E5" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M1781.8438,203 L1777.1563,203 L1777.1563,201.5781 L1778.4688,201.5781 L1778.4688,196.4219 L1777.1563,196.4219 L1777.1563,195 L1781.8438,195 L1781.8438,196.4219 L1780.5313,196.4219 L1780.5313,201.5781 L1781.8438,201.5781 L1781.8438,203 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="52" x="1795.5" y="203.3748">Extractor</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1687" x2="1931" y1="212" y2="212"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1687" x2="1931" y1="220" y2="220"/><ellipse cx="1697" cy="231" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="165" x="1703" y="235.4189">Document getDocument(String url)</text><ellipse cx="1697" cy="244.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="195" x="1703" y="249.2549">Elements getAllWikiTable(Document doc)</text><ellipse cx="1697" cy="258.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="223" x="1703" y="263.0908">Element getWikiTable(Document doc, int index)</text><ellipse cx="1697" cy="272.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="216" x="1703" y="276.9268">Elements getAllFirstWikiTable(Document doc)</text><!--MD5=[77bec772dfdd631239bb2c92f029abe2]
+class Extractor::WikipediaHTMLExtractor--><rect codeLine="23" fill="#CCCCCC" height="69.6719" id="Extractor::WikipediaHTMLExtractor" style="stroke:#AAAAAA;stroke-width:1.5;" width="163" x="1727.5" y="516"/><ellipse cx="1739.5" cy="529" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M1740.1406,533.1563 Q1739.25,533.1563 1738.4844,532.8906 Q1737.7344,532.625 1737.1875,532.1094 Q1736.6563,531.5938 1736.3438,530.8125 Q1736.0469,530.0313 1736.0469,529.0156 Q1736.0469,528.0625 1736.3281,527.2969 Q1736.625,526.5156 1737.1719,525.9531 Q1737.6875,525.4219 1738.4531,525.1406 Q1739.2344,524.8438 1740.1406,524.8438 Q1740.6406,524.8438 1741.0469,524.9063 Q1741.4531,524.9531 1741.7969,525.0469 Q1742.1563,525.1563 1742.4531,525.2813 Q1742.75,525.4063 1742.9688,525.5156 L1742.9688,527.4531 L1742.7344,527.4531 Q1742.5781,527.3281 1742.3438,527.1563 Q1742.125,526.9688 1741.8281,526.7969 Q1741.5313,526.625 1741.1875,526.5156 Q1740.8438,526.3906 1740.4531,526.3906 Q1740.0156,526.3906 1739.625,526.5313 Q1739.2344,526.6563 1738.9063,526.9844 Q1738.5938,527.2813 1738.3906,527.7969 Q1738.2031,528.2969 1738.2031,529.0156 Q1738.2031,529.7656 1738.4063,530.2813 Q1738.625,530.7813 1738.9375,531.0625 Q1739.2656,531.3594 1739.6719,531.4844 Q1740.0781,531.6094 1740.4688,531.6094 Q1740.8438,531.6094 1741.2031,531.5 Q1741.5781,531.3906 1741.8906,531.1875 Q1742.1563,531.0469 1742.375,530.875 Q1742.6094,530.6875 1742.75,530.5625 L1742.9688,530.5625 L1742.9688,532.4688 Q1742.6719,532.6094 1742.3906,532.7344 Q1742.125,532.8438 1741.8125,532.9219 Q1741.4219,533.0313 1741.0781,533.0938 Q1740.7344,533.1563 1740.1406,533.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="137" x="1750.5" y="533.3748">WikipediaHTMLExtractor</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1728.5" x2="1889.5" y1="542" y2="542"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1735.5" y="550"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="81" x="1744.5" y="557.4189">table_tag : String</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1735.5" y="563.8359"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="111" x="1744.5" y="571.2549">wikitable_class : String</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1728.5" x2="1889.5" y1="577.6719" y2="577.6719"/><!--MD5=[a3e54c084bdb631cd05a234dab708026]
+class Convertor::Convertor--><rect codeLine="28" fill="#CCCCCC" height="69.6719" id="Convertor::Convertor" style="stroke:#AAAAAA;stroke-width:1.5;" width="278" x="1352" y="199.5"/><ellipse cx="1459" cy="212.5" fill="#B4A7E5" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M1461.3438,216.5 L1456.6563,216.5 L1456.6563,215.0781 L1457.9688,215.0781 L1457.9688,209.9219 L1456.6563,209.9219 L1456.6563,208.5 L1461.3438,208.5 L1461.3438,209.9219 L1460.0313,209.9219 L1460.0313,215.0781 L1461.3438,215.0781 L1461.3438,216.5 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="57" x="1475" y="216.8748">Convertor</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1353" x2="1629" y1="225.5" y2="225.5"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1353" x2="1629" y1="233.5" y2="233.5"/><ellipse cx="1363" cy="244.5" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="180" x="1369" y="248.9189">String[][] toStringTable(Element table);</text><ellipse cx="1363" cy="258.3359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="255" x="1369" y="262.7549">ArrayList&lt;String[][]&gt; toStringTables(Elements tables);</text><!--MD5=[55240b3caff6db8cc2cd26e7f2e57dd7]
+class Convertor::WikipediaHTMLConvertor--><rect codeLine="33" fill="#CCCCCC" height="42" id="Convertor::WikipediaHTMLConvertor" style="stroke:#AAAAAA;stroke-width:1.5;" width="169" x="1460.5" y="530"/><ellipse cx="1472.5" cy="543" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M1473.1406,547.1563 Q1472.25,547.1563 1471.4844,546.8906 Q1470.7344,546.625 1470.1875,546.1094 Q1469.6563,545.5938 1469.3438,544.8125 Q1469.0469,544.0313 1469.0469,543.0156 Q1469.0469,542.0625 1469.3281,541.2969 Q1469.625,540.5156 1470.1719,539.9531 Q1470.6875,539.4219 1471.4531,539.1406 Q1472.2344,538.8438 1473.1406,538.8438 Q1473.6406,538.8438 1474.0469,538.9063 Q1474.4531,538.9531 1474.7969,539.0469 Q1475.1563,539.1563 1475.4531,539.2813 Q1475.75,539.4063 1475.9688,539.5156 L1475.9688,541.4531 L1475.7344,541.4531 Q1475.5781,541.3281 1475.3438,541.1563 Q1475.125,540.9688 1474.8281,540.7969 Q1474.5313,540.625 1474.1875,540.5156 Q1473.8438,540.3906 1473.4531,540.3906 Q1473.0156,540.3906 1472.625,540.5313 Q1472.2344,540.6563 1471.9063,540.9844 Q1471.5938,541.2813 1471.3906,541.7969 Q1471.2031,542.2969 1471.2031,543.0156 Q1471.2031,543.7656 1471.4063,544.2813 Q1471.625,544.7813 1471.9375,545.0625 Q1472.2656,545.3594 1472.6719,545.4844 Q1473.0781,545.6094 1473.4688,545.6094 Q1473.8438,545.6094 1474.2031,545.5 Q1474.5781,545.3906 1474.8906,545.1875 Q1475.1563,545.0469 1475.375,544.875 Q1475.6094,544.6875 1475.75,544.5625 L1475.9688,544.5625 L1475.9688,546.4688 Q1475.6719,546.6094 1475.3906,546.7344 Q1475.125,546.8438 1474.8125,546.9219 Q1474.4219,547.0313 1474.0781,547.0938 Q1473.7344,547.1563 1473.1406,547.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="143" x="1483.5" y="547.3748">WikipediaHTMLConvertor</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1461.5" x2="1628.5" y1="556" y2="556"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1461.5" x2="1628.5" y1="564" y2="564"/><!--MD5=[ccd9e1d5f381d29bc4ed40c0b372769e]
+class Convertor::WikipediaHTMLConvertorPlus--><rect codeLine="34" fill="#CCCCCC" height="42" id="Convertor::WikipediaHTMLConvertorPlus" style="stroke:#AAAAAA;stroke-width:1.5;" width="192" x="1233" y="530"/><ellipse cx="1245" cy="543" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M1245.6406,547.1563 Q1244.75,547.1563 1243.9844,546.8906 Q1243.2344,546.625 1242.6875,546.1094 Q1242.1563,545.5938 1241.8438,544.8125 Q1241.5469,544.0313 1241.5469,543.0156 Q1241.5469,542.0625 1241.8281,541.2969 Q1242.125,540.5156 1242.6719,539.9531 Q1243.1875,539.4219 1243.9531,539.1406 Q1244.7344,538.8438 1245.6406,538.8438 Q1246.1406,538.8438 1246.5469,538.9063 Q1246.9531,538.9531 1247.2969,539.0469 Q1247.6563,539.1563 1247.9531,539.2813 Q1248.25,539.4063 1248.4688,539.5156 L1248.4688,541.4531 L1248.2344,541.4531 Q1248.0781,541.3281 1247.8438,541.1563 Q1247.625,540.9688 1247.3281,540.7969 Q1247.0313,540.625 1246.6875,540.5156 Q1246.3438,540.3906 1245.9531,540.3906 Q1245.5156,540.3906 1245.125,540.5313 Q1244.7344,540.6563 1244.4063,540.9844 Q1244.0938,541.2813 1243.8906,541.7969 Q1243.7031,542.2969 1243.7031,543.0156 Q1243.7031,543.7656 1243.9063,544.2813 Q1244.125,544.7813 1244.4375,545.0625 Q1244.7656,545.3594 1245.1719,545.4844 Q1245.5781,545.6094 1245.9688,545.6094 Q1246.3438,545.6094 1246.7031,545.5 Q1247.0781,545.3906 1247.3906,545.1875 Q1247.6563,545.0469 1247.875,544.875 Q1248.1094,544.6875 1248.25,544.5625 L1248.4688,544.5625 L1248.4688,546.4688 Q1248.1719,546.6094 1247.8906,546.7344 Q1247.625,546.8438 1247.3125,546.9219 Q1246.9219,547.0313 1246.5781,547.0938 Q1246.2344,547.1563 1245.6406,547.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="166" x="1256" y="547.3748">WikipediaHTMLConvertorPlus</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1234" x2="1424" y1="556" y2="556"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1234" x2="1424" y1="564" y2="564"/><!--MD5=[ac660a41c49d42d17543ca88be2b71d9]
+class Serializer::Serializer--><rect codeLine="36" fill="#CCCCCC" height="111.1797" id="Serializer::Serializer" style="stroke:#AAAAAA;stroke-width:1.5;" width="294" x="1988" y="179"/><ellipse cx="2105" cy="192" fill="#A9DCDF" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M2108.9063,195.5 L2106.7813,195.5 L2106.2188,193.8906 L2103.2656,193.8906 L2102.7031,195.5 L2100.625,195.5 L2103.5781,187.5 L2105.9531,187.5 L2108.9063,195.5 Z M2105.7188,192.4219 L2104.75,189.5469 L2103.7656,192.4219 L2105.7188,192.4219 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="53" x="2121" y="196.3748">Serializer</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1989" x2="2281" y1="205" y2="205"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1996" y="213"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="81" x="2005" y="220.4189">save_path : Path</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1996" y="226.8359"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="95" x="2005" y="234.2549">invalid_char : String</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1989" x2="2281" y1="240.6719" y2="240.6719"/><ellipse cx="1999" cy="251.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="145" x="2005" y="256.0908">Path getPath(String file_name)</text><ellipse cx="1999" cy="265.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="271" x="2005" y="269.9268">void saveToCSV(String[][] string_table, String file_name)</text><ellipse cx="1999" cy="279.3438" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="186" x="2005" y="283.7627">String mkCSVFileName(String url, int n)</text><!--MD5=[52c65dd8430059115fadb1a3aac5e821]
+class Serializer::WikipediaHTMLSerializer--><rect codeLine="44" fill="#CCCCCC" height="69.6719" id="Serializer::WikipediaHTMLSerializer" style="stroke:#AAAAAA;stroke-width:1.5;" width="230" x="2020" y="516"/><ellipse cx="2062" cy="529" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M2062.6406,533.1563 Q2061.75,533.1563 2060.9844,532.8906 Q2060.2344,532.625 2059.6875,532.1094 Q2059.1563,531.5938 2058.8438,530.8125 Q2058.5469,530.0313 2058.5469,529.0156 Q2058.5469,528.0625 2058.8281,527.2969 Q2059.125,526.5156 2059.6719,525.9531 Q2060.1875,525.4219 2060.9531,525.1406 Q2061.7344,524.8438 2062.6406,524.8438 Q2063.1406,524.8438 2063.5469,524.9063 Q2063.9531,524.9531 2064.2969,525.0469 Q2064.6563,525.1563 2064.9531,525.2813 Q2065.25,525.4063 2065.4688,525.5156 L2065.4688,527.4531 L2065.2344,527.4531 Q2065.0781,527.3281 2064.8438,527.1563 Q2064.625,526.9688 2064.3281,526.7969 Q2064.0313,526.625 2063.6875,526.5156 Q2063.3438,526.3906 2062.9531,526.3906 Q2062.5156,526.3906 2062.125,526.5313 Q2061.7344,526.6563 2061.4063,526.9844 Q2061.0938,527.2813 2060.8906,527.7969 Q2060.7031,528.2969 2060.7031,529.0156 Q2060.7031,529.7656 2060.9063,530.2813 Q2061.125,530.7813 2061.4375,531.0625 Q2061.7656,531.3594 2062.1719,531.4844 Q2062.5781,531.6094 2062.9688,531.6094 Q2063.3438,531.6094 2063.7031,531.5 Q2064.0781,531.3906 2064.3906,531.1875 Q2064.6563,531.0469 2064.875,530.875 Q2065.1094,530.6875 2065.25,530.5625 L2065.4688,530.5625 L2065.4688,532.4688 Q2065.1719,532.6094 2064.8906,532.7344 Q2064.625,532.8438 2064.3125,532.9219 Q2063.9219,533.0313 2063.5781,533.0938 Q2063.2344,533.1563 2062.6406,533.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="139" x="2078" y="533.3748">WikipediaHTMLSerializer</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="2021" x2="2249" y1="542" y2="542"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="2021" x2="2249" y1="550" y2="550"/><ellipse cx="2031" cy="561" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="125" x="2037" y="565.4189">WikipediaHTMLSerializer()</text><ellipse cx="2031" cy="574.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="207" x="2037" y="579.2549">WikipediaHTMLSerializer(String save_path)</text><!--MD5=[4a1600eb627f38924722b1425442e976]
+class TemplateHTML::Balise::Balise--><rect codeLine="49" fill="#CCCCCC" height="484.75" id="TemplateHTML::Balise::Balise" style="stroke:#AAAAAA;stroke-width:1.5;" width="241" x="1059.5" y="800"/><ellipse cx="1159.5" cy="813" fill="#A9DCDF" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M1163.4063,816.5 L1161.2813,816.5 L1160.7188,814.8906 L1157.7656,814.8906 L1157.2031,816.5 L1155.125,816.5 L1158.0781,808.5 L1160.4531,808.5 L1163.4063,816.5 Z M1160.2188,813.4219 L1159.25,810.5469 L1158.2656,813.4219 L1160.2188,813.4219 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="34" x="1175.5" y="817.3748">Balise</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1060.5" x2="1299.5" y1="826" y2="826"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1067.5" y="834"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="1076.5" y="841.4189">tag : String</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1067.5" y="847.8359"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="1076.5" y="855.2549">self : Element</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1067.5" y="861.6719"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="1076.5" y="869.0908">parent: Balise</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1067.5" y="875.5078"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="133" x="1076.5" y="882.9268">children : ArrayList&lt;Balise&gt;</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1067.5" y="889.3438"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="70" x="1076.5" y="896.7627">span_row : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1067.5" y="903.1797"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="1076.5" y="910.5986">span_coll : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1067.5" y="917.0156"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="1076.5" y="924.4346">depth : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1067.5" y="930.8516"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="98" x="1076.5" y="938.2705">from_table : boolean</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="1067.5" y="944.6875"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="1076.5" y="952.1064">grid : Grid</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1060.5" x2="1299.5" y1="958.5234" y2="958.5234"/><ellipse cx="1070.5" cy="969.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="181" x="1076.5" y="973.9424">Balise(String tag, boolean from_table)</text><ellipse cx="1070.5" cy="983.3594" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="129" x="1076.5" y="987.7783">void accept(Visitor visitor)</text><ellipse cx="1070.5" cy="997.1953" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="73" x="1076.5" y="1001.6143">String getInfo()</text><ellipse cx="1070.5" cy="1011.0313" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="84" x="1076.5" y="1015.4502">int nextRowPos()</text><ellipse cx="1070.5" cy="1024.8672" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="79" x="1076.5" y="1029.2861">boolean isFinal()</text><ellipse cx="1070.5" cy="1038.7031" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="218" x="1076.5" y="1043.1221">void init(Element self, Balise parent, int depth)</text><ellipse cx="1070.5" cy="1052.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="1076.5" y="1056.958">void initGrid()</text><ellipse cx="1070.5" cy="1066.375" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="139" x="1076.5" y="1070.7939">void initGrid(boolean is_final)</text><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="0" x="1079.5" y="1084.6299"/><ellipse cx="1070.5" cy="1094.0469" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="66" x="1076.5" y="1098.4658">Grid getGrid()</text><ellipse cx="1070.5" cy="1107.8828" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="1076.5" y="1112.3018">String getTag()</text><ellipse cx="1070.5" cy="1121.7188" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="100" x="1076.5" y="1126.1377">Element getElement()</text><ellipse cx="1070.5" cy="1135.5547" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="86" x="1076.5" y="1139.9736">Balise getParent()</text><ellipse cx="1070.5" cy="1149.3906" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="151" x="1076.5" y="1153.8096">ArrayList&lt;Balise&gt; getChildren()</text><ellipse cx="1070.5" cy="1163.2266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="85" x="1076.5" y="1167.6455">int getSpanRow()</text><ellipse cx="1070.5" cy="1177.0625" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="77" x="1076.5" y="1181.4814">int getSpanCol()</text><ellipse cx="1070.5" cy="1190.8984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="65" x="1076.5" y="1195.3174">int getDepth()</text><ellipse cx="1070.5" cy="1204.7344" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="114" x="1076.5" y="1209.1533">boolean getFromTable()</text><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="0" x="1079.5" y="1222.9893"/><ellipse cx="1070.5" cy="1232.4063" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="126" x="1076.5" y="1236.8252">void addChild(Balise child)</text><ellipse cx="1070.5" cy="1246.2422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="107" x="1076.5" y="1250.6611">void setGrid(Grid grid)</text><ellipse cx="1070.5" cy="1260.0781" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="76" x="1076.5" y="1264.4971">String toString()</text><ellipse cx="1070.5" cy="1273.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="103" x="1076.5" y="1278.333">Balise newInstance()</text><!--MD5=[29aa47edf9c8eb9f27db9aef4889ff01]
+class TemplateHTML::Balise::A--><rect codeLine="85" fill="#CCCCCC" height="97.3438" id="TemplateHTML::Balise::A" style="stroke:#AAAAAA;stroke-width:1.5;" width="150" x="476" y="1352"/><ellipse cx="543.5" cy="1365" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M544.1406,1369.1563 Q543.25,1369.1563 542.4844,1368.8906 Q541.7344,1368.625 541.1875,1368.1094 Q540.6563,1367.5938 540.3438,1366.8125 Q540.0469,1366.0313 540.0469,1365.0156 Q540.0469,1364.0625 540.3281,1363.2969 Q540.625,1362.5156 541.1719,1361.9531 Q541.6875,1361.4219 542.4531,1361.1406 Q543.2344,1360.8438 544.1406,1360.8438 Q544.6406,1360.8438 545.0469,1360.9063 Q545.4531,1360.9531 545.7969,1361.0469 Q546.1563,1361.1563 546.4531,1361.2813 Q546.75,1361.4063 546.9688,1361.5156 L546.9688,1363.4531 L546.7344,1363.4531 Q546.5781,1363.3281 546.3438,1363.1563 Q546.125,1362.9688 545.8281,1362.7969 Q545.5313,1362.625 545.1875,1362.5156 Q544.8438,1362.3906 544.4531,1362.3906 Q544.0156,1362.3906 543.625,1362.5313 Q543.2344,1362.6563 542.9063,1362.9844 Q542.5938,1363.2813 542.3906,1363.7969 Q542.2031,1364.2969 542.2031,1365.0156 Q542.2031,1365.7656 542.4063,1366.2813 Q542.625,1366.7813 542.9375,1367.0625 Q543.2656,1367.3594 543.6719,1367.4844 Q544.0781,1367.6094 544.4688,1367.6094 Q544.8438,1367.6094 545.2031,1367.5 Q545.5781,1367.3906 545.8906,1367.1875 Q546.1563,1367.0469 546.375,1366.875 Q546.6094,1366.6875 546.75,1366.5625 L546.9688,1366.5625 L546.9688,1368.4688 Q546.6719,1368.6094 546.3906,1368.7344 Q546.125,1368.8438 545.8125,1368.9219 Q545.4219,1369.0313 545.0781,1369.0938 Q544.7344,1369.1563 544.1406,1369.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="8" x="559.5" y="1369.3748">A</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="477" x2="625" y1="1378" y2="1378"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="477" x2="625" y1="1386" y2="1386"/><ellipse cx="487" cy="1397" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="16" x="493" y="1401.4189">A()</text><ellipse cx="487" cy="1410.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="493" y="1415.2549">void accept(Visitor visitor)</text><ellipse cx="487" cy="1424.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="493" y="1429.0908">String getInfo()</text><ellipse cx="487" cy="1438.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="493" y="1442.9268">Balise newInstance()</text><!--MD5=[5612f1f33c52f0e2be85236e146c2785]
+class TemplateHTML::Balise::Img--><rect codeLine="92" fill="#CCCCCC" height="97.3438" id="TemplateHTML::Balise::Img" style="stroke:#AAAAAA;stroke-width:1.5;" width="150" x="661" y="1352"/><ellipse cx="721" cy="1365" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M721.6406,1369.1563 Q720.75,1369.1563 719.9844,1368.8906 Q719.2344,1368.625 718.6875,1368.1094 Q718.1563,1367.5938 717.8438,1366.8125 Q717.5469,1366.0313 717.5469,1365.0156 Q717.5469,1364.0625 717.8281,1363.2969 Q718.125,1362.5156 718.6719,1361.9531 Q719.1875,1361.4219 719.9531,1361.1406 Q720.7344,1360.8438 721.6406,1360.8438 Q722.1406,1360.8438 722.5469,1360.9063 Q722.9531,1360.9531 723.2969,1361.0469 Q723.6563,1361.1563 723.9531,1361.2813 Q724.25,1361.4063 724.4688,1361.5156 L724.4688,1363.4531 L724.2344,1363.4531 Q724.0781,1363.3281 723.8438,1363.1563 Q723.625,1362.9688 723.3281,1362.7969 Q723.0313,1362.625 722.6875,1362.5156 Q722.3438,1362.3906 721.9531,1362.3906 Q721.5156,1362.3906 721.125,1362.5313 Q720.7344,1362.6563 720.4063,1362.9844 Q720.0938,1363.2813 719.8906,1363.7969 Q719.7031,1364.2969 719.7031,1365.0156 Q719.7031,1365.7656 719.9063,1366.2813 Q720.125,1366.7813 720.4375,1367.0625 Q720.7656,1367.3594 721.1719,1367.4844 Q721.5781,1367.6094 721.9688,1367.6094 Q722.3438,1367.6094 722.7031,1367.5 Q723.0781,1367.3906 723.3906,1367.1875 Q723.6563,1367.0469 723.875,1366.875 Q724.1094,1366.6875 724.25,1366.5625 L724.4688,1366.5625 L724.4688,1368.4688 Q724.1719,1368.6094 723.8906,1368.7344 Q723.625,1368.8438 723.3125,1368.9219 Q722.9219,1369.0313 722.5781,1369.0938 Q722.2344,1369.1563 721.6406,1369.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="23" x="737" y="1369.3748">Img</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="662" x2="810" y1="1378" y2="1378"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="662" x2="810" y1="1386" y2="1386"/><ellipse cx="672" cy="1397" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="24" x="678" y="1401.4189">Img()</text><ellipse cx="672" cy="1410.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="678" y="1415.2549">void accept(Visitor visitor)</text><ellipse cx="672" cy="1424.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="678" y="1429.0908">String getInfo()</text><ellipse cx="672" cy="1438.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="678" y="1442.9268">Balise newInstance()</text><!--MD5=[2198bd457cae7f5a747fdd0f9c755c14]
+class TemplateHTML::Balise::Table--><rect codeLine="99" fill="#CCCCCC" height="111.1797" id="TemplateHTML::Balise::Table" style="stroke:#AAAAAA;stroke-width:1.5;" width="150" x="846" y="1345"/><ellipse cx="902" cy="1358" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M902.6406,1362.1563 Q901.75,1362.1563 900.9844,1361.8906 Q900.2344,1361.625 899.6875,1361.1094 Q899.1563,1360.5938 898.8438,1359.8125 Q898.5469,1359.0313 898.5469,1358.0156 Q898.5469,1357.0625 898.8281,1356.2969 Q899.125,1355.5156 899.6719,1354.9531 Q900.1875,1354.4219 900.9531,1354.1406 Q901.7344,1353.8438 902.6406,1353.8438 Q903.1406,1353.8438 903.5469,1353.9063 Q903.9531,1353.9531 904.2969,1354.0469 Q904.6563,1354.1563 904.9531,1354.2813 Q905.25,1354.4063 905.4688,1354.5156 L905.4688,1356.4531 L905.2344,1356.4531 Q905.0781,1356.3281 904.8438,1356.1563 Q904.625,1355.9688 904.3281,1355.7969 Q904.0313,1355.625 903.6875,1355.5156 Q903.3438,1355.3906 902.9531,1355.3906 Q902.5156,1355.3906 902.125,1355.5313 Q901.7344,1355.6563 901.4063,1355.9844 Q901.0938,1356.2813 900.8906,1356.7969 Q900.7031,1357.2969 900.7031,1358.0156 Q900.7031,1358.7656 900.9063,1359.2813 Q901.125,1359.7813 901.4375,1360.0625 Q901.7656,1360.3594 902.1719,1360.4844 Q902.5781,1360.6094 902.9688,1360.6094 Q903.3438,1360.6094 903.7031,1360.5 Q904.0781,1360.3906 904.3906,1360.1875 Q904.6563,1360.0469 904.875,1359.875 Q905.1094,1359.6875 905.25,1359.5625 L905.4688,1359.5625 L905.4688,1361.4688 Q905.1719,1361.6094 904.8906,1361.7344 Q904.625,1361.8438 904.3125,1361.9219 Q903.9219,1362.0313 903.5781,1362.0938 Q903.2344,1362.1563 902.6406,1362.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="31" x="918" y="1362.3748">Table</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="847" x2="995" y1="1371" y2="1371"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="847" x2="995" y1="1379" y2="1379"/><ellipse cx="857" cy="1390" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="34" x="863" y="1394.4189">Table()</text><ellipse cx="857" cy="1403.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="863" y="1408.2549">void accept(Visitor visitor)</text><ellipse cx="857" cy="1417.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="863" y="1422.0908">String getInfo()</text><ellipse cx="857" cy="1431.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="863" y="1435.9268">void initGrid()</text><ellipse cx="857" cy="1445.3438" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="863" y="1449.7627">Balise newInstance()</text><!--MD5=[c6ec88cd33063e4ac57119381cb1bcfd]
+class TemplateHTML::Balise::Tbody--><rect codeLine="107" fill="#CCCCCC" height="97.3438" id="TemplateHTML::Balise::Tbody" style="stroke:#AAAAAA;stroke-width:1.5;" width="150" x="1031" y="1352"/><ellipse cx="1085" cy="1365" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M1085.6406,1369.1563 Q1084.75,1369.1563 1083.9844,1368.8906 Q1083.2344,1368.625 1082.6875,1368.1094 Q1082.1563,1367.5938 1081.8438,1366.8125 Q1081.5469,1366.0313 1081.5469,1365.0156 Q1081.5469,1364.0625 1081.8281,1363.2969 Q1082.125,1362.5156 1082.6719,1361.9531 Q1083.1875,1361.4219 1083.9531,1361.1406 Q1084.7344,1360.8438 1085.6406,1360.8438 Q1086.1406,1360.8438 1086.5469,1360.9063 Q1086.9531,1360.9531 1087.2969,1361.0469 Q1087.6563,1361.1563 1087.9531,1361.2813 Q1088.25,1361.4063 1088.4688,1361.5156 L1088.4688,1363.4531 L1088.2344,1363.4531 Q1088.0781,1363.3281 1087.8438,1363.1563 Q1087.625,1362.9688 1087.3281,1362.7969 Q1087.0313,1362.625 1086.6875,1362.5156 Q1086.3438,1362.3906 1085.9531,1362.3906 Q1085.5156,1362.3906 1085.125,1362.5313 Q1084.7344,1362.6563 1084.4063,1362.9844 Q1084.0938,1363.2813 1083.8906,1363.7969 Q1083.7031,1364.2969 1083.7031,1365.0156 Q1083.7031,1365.7656 1083.9063,1366.2813 Q1084.125,1366.7813 1084.4375,1367.0625 Q1084.7656,1367.3594 1085.1719,1367.4844 Q1085.5781,1367.6094 1085.9688,1367.6094 Q1086.3438,1367.6094 1086.7031,1367.5 Q1087.0781,1367.3906 1087.3906,1367.1875 Q1087.6563,1367.0469 1087.875,1366.875 Q1088.1094,1366.6875 1088.25,1366.5625 L1088.4688,1366.5625 L1088.4688,1368.4688 Q1088.1719,1368.6094 1087.8906,1368.7344 Q1087.625,1368.8438 1087.3125,1368.9219 Q1086.9219,1369.0313 1086.5781,1369.0938 Q1086.2344,1369.1563 1085.6406,1369.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="35" x="1101" y="1369.3748">Tbody</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1032" x2="1180" y1="1378" y2="1378"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1032" x2="1180" y1="1386" y2="1386"/><ellipse cx="1042" cy="1397" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="38" x="1048" y="1401.4189">Tbody()</text><ellipse cx="1042" cy="1410.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="1048" y="1415.2549">void accept(Visitor visitor)</text><ellipse cx="1042" cy="1424.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="1048" y="1429.0908">String getInfo()</text><ellipse cx="1042" cy="1438.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="1048" y="1442.9268">Balise newInstance()</text><!--MD5=[b6867ca26629e8a23f61817aed06baa3]
+class TemplateHTML::Balise::Td--><rect codeLine="114" fill="#CCCCCC" height="97.3438" id="TemplateHTML::Balise::Td" style="stroke:#AAAAAA;stroke-width:1.5;" width="150" x="1216" y="1352"/><ellipse cx="1280.5" cy="1365" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M1281.1406,1369.1563 Q1280.25,1369.1563 1279.4844,1368.8906 Q1278.7344,1368.625 1278.1875,1368.1094 Q1277.6563,1367.5938 1277.3438,1366.8125 Q1277.0469,1366.0313 1277.0469,1365.0156 Q1277.0469,1364.0625 1277.3281,1363.2969 Q1277.625,1362.5156 1278.1719,1361.9531 Q1278.6875,1361.4219 1279.4531,1361.1406 Q1280.2344,1360.8438 1281.1406,1360.8438 Q1281.6406,1360.8438 1282.0469,1360.9063 Q1282.4531,1360.9531 1282.7969,1361.0469 Q1283.1563,1361.1563 1283.4531,1361.2813 Q1283.75,1361.4063 1283.9688,1361.5156 L1283.9688,1363.4531 L1283.7344,1363.4531 Q1283.5781,1363.3281 1283.3438,1363.1563 Q1283.125,1362.9688 1282.8281,1362.7969 Q1282.5313,1362.625 1282.1875,1362.5156 Q1281.8438,1362.3906 1281.4531,1362.3906 Q1281.0156,1362.3906 1280.625,1362.5313 Q1280.2344,1362.6563 1279.9063,1362.9844 Q1279.5938,1363.2813 1279.3906,1363.7969 Q1279.2031,1364.2969 1279.2031,1365.0156 Q1279.2031,1365.7656 1279.4063,1366.2813 Q1279.625,1366.7813 1279.9375,1367.0625 Q1280.2656,1367.3594 1280.6719,1367.4844 Q1281.0781,1367.6094 1281.4688,1367.6094 Q1281.8438,1367.6094 1282.2031,1367.5 Q1282.5781,1367.3906 1282.8906,1367.1875 Q1283.1563,1367.0469 1283.375,1366.875 Q1283.6094,1366.6875 1283.75,1366.5625 L1283.9688,1366.5625 L1283.9688,1368.4688 Q1283.6719,1368.6094 1283.3906,1368.7344 Q1283.125,1368.8438 1282.8125,1368.9219 Q1282.4219,1369.0313 1282.0781,1369.0938 Q1281.7344,1369.1563 1281.1406,1369.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="14" x="1296.5" y="1369.3748">Td</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1217" x2="1365" y1="1378" y2="1378"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1217" x2="1365" y1="1386" y2="1386"/><ellipse cx="1227" cy="1397" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="20" x="1233" y="1401.4189">Td()</text><ellipse cx="1227" cy="1410.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="1233" y="1415.2549">void accept(Visitor visitor)</text><ellipse cx="1227" cy="1424.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="1233" y="1429.0908">String getInfo()</text><ellipse cx="1227" cy="1438.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="1233" y="1442.9268">Balise newInstance()</text><!--MD5=[52acf7824c0d8107c31d4daa3e2c857e]
+class TemplateHTML::Balise::Tfoot--><rect codeLine="121" fill="#CCCCCC" height="97.3438" id="TemplateHTML::Balise::Tfoot" style="stroke:#AAAAAA;stroke-width:1.5;" width="150" x="1401" y="1352"/><ellipse cx="1458" cy="1365" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M1458.6406,1369.1563 Q1457.75,1369.1563 1456.9844,1368.8906 Q1456.2344,1368.625 1455.6875,1368.1094 Q1455.1563,1367.5938 1454.8438,1366.8125 Q1454.5469,1366.0313 1454.5469,1365.0156 Q1454.5469,1364.0625 1454.8281,1363.2969 Q1455.125,1362.5156 1455.6719,1361.9531 Q1456.1875,1361.4219 1456.9531,1361.1406 Q1457.7344,1360.8438 1458.6406,1360.8438 Q1459.1406,1360.8438 1459.5469,1360.9063 Q1459.9531,1360.9531 1460.2969,1361.0469 Q1460.6563,1361.1563 1460.9531,1361.2813 Q1461.25,1361.4063 1461.4688,1361.5156 L1461.4688,1363.4531 L1461.2344,1363.4531 Q1461.0781,1363.3281 1460.8438,1363.1563 Q1460.625,1362.9688 1460.3281,1362.7969 Q1460.0313,1362.625 1459.6875,1362.5156 Q1459.3438,1362.3906 1458.9531,1362.3906 Q1458.5156,1362.3906 1458.125,1362.5313 Q1457.7344,1362.6563 1457.4063,1362.9844 Q1457.0938,1363.2813 1456.8906,1363.7969 Q1456.7031,1364.2969 1456.7031,1365.0156 Q1456.7031,1365.7656 1456.9063,1366.2813 Q1457.125,1366.7813 1457.4375,1367.0625 Q1457.7656,1367.3594 1458.1719,1367.4844 Q1458.5781,1367.6094 1458.9688,1367.6094 Q1459.3438,1367.6094 1459.7031,1367.5 Q1460.0781,1367.3906 1460.3906,1367.1875 Q1460.6563,1367.0469 1460.875,1366.875 Q1461.1094,1366.6875 1461.25,1366.5625 L1461.4688,1366.5625 L1461.4688,1368.4688 Q1461.1719,1368.6094 1460.8906,1368.7344 Q1460.625,1368.8438 1460.3125,1368.9219 Q1459.9219,1369.0313 1459.5781,1369.0938 Q1459.2344,1369.1563 1458.6406,1369.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="29" x="1474" y="1369.3748">Tfoot</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1402" x2="1550" y1="1378" y2="1378"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1402" x2="1550" y1="1386" y2="1386"/><ellipse cx="1412" cy="1397" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="33" x="1418" y="1401.4189">Tfoot()</text><ellipse cx="1412" cy="1410.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="1418" y="1415.2549">void accept(Visitor visitor)</text><ellipse cx="1412" cy="1424.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="1418" y="1429.0908">String getInfo()</text><ellipse cx="1412" cy="1438.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="1418" y="1442.9268">Balise newInstance()</text><!--MD5=[6c81193a7e8e78b2f1cb3ed2d01458f9]
+class TemplateHTML::Balise::Th--><rect codeLine="128" fill="#CCCCCC" height="97.3438" id="TemplateHTML::Balise::Th" style="stroke:#AAAAAA;stroke-width:1.5;" width="150" x="1586" y="1352"/><ellipse cx="1650.5" cy="1365" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M1651.1406,1369.1563 Q1650.25,1369.1563 1649.4844,1368.8906 Q1648.7344,1368.625 1648.1875,1368.1094 Q1647.6563,1367.5938 1647.3438,1366.8125 Q1647.0469,1366.0313 1647.0469,1365.0156 Q1647.0469,1364.0625 1647.3281,1363.2969 Q1647.625,1362.5156 1648.1719,1361.9531 Q1648.6875,1361.4219 1649.4531,1361.1406 Q1650.2344,1360.8438 1651.1406,1360.8438 Q1651.6406,1360.8438 1652.0469,1360.9063 Q1652.4531,1360.9531 1652.7969,1361.0469 Q1653.1563,1361.1563 1653.4531,1361.2813 Q1653.75,1361.4063 1653.9688,1361.5156 L1653.9688,1363.4531 L1653.7344,1363.4531 Q1653.5781,1363.3281 1653.3438,1363.1563 Q1653.125,1362.9688 1652.8281,1362.7969 Q1652.5313,1362.625 1652.1875,1362.5156 Q1651.8438,1362.3906 1651.4531,1362.3906 Q1651.0156,1362.3906 1650.625,1362.5313 Q1650.2344,1362.6563 1649.9063,1362.9844 Q1649.5938,1363.2813 1649.3906,1363.7969 Q1649.2031,1364.2969 1649.2031,1365.0156 Q1649.2031,1365.7656 1649.4063,1366.2813 Q1649.625,1366.7813 1649.9375,1367.0625 Q1650.2656,1367.3594 1650.6719,1367.4844 Q1651.0781,1367.6094 1651.4688,1367.6094 Q1651.8438,1367.6094 1652.2031,1367.5 Q1652.5781,1367.3906 1652.8906,1367.1875 Q1653.1563,1367.0469 1653.375,1366.875 Q1653.6094,1366.6875 1653.75,1366.5625 L1653.9688,1366.5625 L1653.9688,1368.4688 Q1653.6719,1368.6094 1653.3906,1368.7344 Q1653.125,1368.8438 1652.8125,1368.9219 Q1652.4219,1369.0313 1652.0781,1369.0938 Q1651.7344,1369.1563 1651.1406,1369.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="14" x="1666.5" y="1369.3748">Th</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1587" x2="1735" y1="1378" y2="1378"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1587" x2="1735" y1="1386" y2="1386"/><ellipse cx="1597" cy="1397" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="20" x="1603" y="1401.4189">Th()</text><ellipse cx="1597" cy="1410.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="1603" y="1415.2549">void accept(Visitor visitor)</text><ellipse cx="1597" cy="1424.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="1603" y="1429.0908">String getInfo()</text><ellipse cx="1597" cy="1438.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="1603" y="1442.9268">Balise newInstance()</text><!--MD5=[75d0dd6cf64b1de40d33d53b622b3817]
+class TemplateHTML::Balise::Thead--><rect codeLine="135" fill="#CCCCCC" height="97.3438" id="TemplateHTML::Balise::Thead" style="stroke:#AAAAAA;stroke-width:1.5;" width="150" x="1771" y="1352"/><ellipse cx="1825" cy="1365" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M1825.6406,1369.1563 Q1824.75,1369.1563 1823.9844,1368.8906 Q1823.2344,1368.625 1822.6875,1368.1094 Q1822.1563,1367.5938 1821.8438,1366.8125 Q1821.5469,1366.0313 1821.5469,1365.0156 Q1821.5469,1364.0625 1821.8281,1363.2969 Q1822.125,1362.5156 1822.6719,1361.9531 Q1823.1875,1361.4219 1823.9531,1361.1406 Q1824.7344,1360.8438 1825.6406,1360.8438 Q1826.1406,1360.8438 1826.5469,1360.9063 Q1826.9531,1360.9531 1827.2969,1361.0469 Q1827.6563,1361.1563 1827.9531,1361.2813 Q1828.25,1361.4063 1828.4688,1361.5156 L1828.4688,1363.4531 L1828.2344,1363.4531 Q1828.0781,1363.3281 1827.8438,1363.1563 Q1827.625,1362.9688 1827.3281,1362.7969 Q1827.0313,1362.625 1826.6875,1362.5156 Q1826.3438,1362.3906 1825.9531,1362.3906 Q1825.5156,1362.3906 1825.125,1362.5313 Q1824.7344,1362.6563 1824.4063,1362.9844 Q1824.0938,1363.2813 1823.8906,1363.7969 Q1823.7031,1364.2969 1823.7031,1365.0156 Q1823.7031,1365.7656 1823.9063,1366.2813 Q1824.125,1366.7813 1824.4375,1367.0625 Q1824.7656,1367.3594 1825.1719,1367.4844 Q1825.5781,1367.6094 1825.9688,1367.6094 Q1826.3438,1367.6094 1826.7031,1367.5 Q1827.0781,1367.3906 1827.3906,1367.1875 Q1827.6563,1367.0469 1827.875,1366.875 Q1828.1094,1366.6875 1828.25,1366.5625 L1828.4688,1366.5625 L1828.4688,1368.4688 Q1828.1719,1368.6094 1827.8906,1368.7344 Q1827.625,1368.8438 1827.3125,1368.9219 Q1826.9219,1369.0313 1826.5781,1369.0938 Q1826.2344,1369.1563 1825.6406,1369.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="35" x="1841" y="1369.3748">Thead</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1772" x2="1920" y1="1378" y2="1378"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1772" x2="1920" y1="1386" y2="1386"/><ellipse cx="1782" cy="1397" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="38" x="1788" y="1401.4189">Thead()</text><ellipse cx="1782" cy="1410.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="1788" y="1415.2549">void accept(Visitor visitor)</text><ellipse cx="1782" cy="1424.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="1788" y="1429.0908">String getInfo()</text><ellipse cx="1782" cy="1438.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="1788" y="1442.9268">Balise newInstance()</text><!--MD5=[1006645d27fb289ea2509e2551fe1a74]
+class TemplateHTML::Balise::Tr--><rect codeLine="142" fill="#CCCCCC" height="111.1797" id="TemplateHTML::Balise::Tr" style="stroke:#AAAAAA;stroke-width:1.5;" width="150" x="1956" y="1345"/><ellipse cx="2021.5" cy="1358" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M2022.1406,1362.1563 Q2021.25,1362.1563 2020.4844,1361.8906 Q2019.7344,1361.625 2019.1875,1361.1094 Q2018.6563,1360.5938 2018.3438,1359.8125 Q2018.0469,1359.0313 2018.0469,1358.0156 Q2018.0469,1357.0625 2018.3281,1356.2969 Q2018.625,1355.5156 2019.1719,1354.9531 Q2019.6875,1354.4219 2020.4531,1354.1406 Q2021.2344,1353.8438 2022.1406,1353.8438 Q2022.6406,1353.8438 2023.0469,1353.9063 Q2023.4531,1353.9531 2023.7969,1354.0469 Q2024.1563,1354.1563 2024.4531,1354.2813 Q2024.75,1354.4063 2024.9688,1354.5156 L2024.9688,1356.4531 L2024.7344,1356.4531 Q2024.5781,1356.3281 2024.3438,1356.1563 Q2024.125,1355.9688 2023.8281,1355.7969 Q2023.5313,1355.625 2023.1875,1355.5156 Q2022.8438,1355.3906 2022.4531,1355.3906 Q2022.0156,1355.3906 2021.625,1355.5313 Q2021.2344,1355.6563 2020.9063,1355.9844 Q2020.5938,1356.2813 2020.3906,1356.7969 Q2020.2031,1357.2969 2020.2031,1358.0156 Q2020.2031,1358.7656 2020.4063,1359.2813 Q2020.625,1359.7813 2020.9375,1360.0625 Q2021.2656,1360.3594 2021.6719,1360.4844 Q2022.0781,1360.6094 2022.4688,1360.6094 Q2022.8438,1360.6094 2023.2031,1360.5 Q2023.5781,1360.3906 2023.8906,1360.1875 Q2024.1563,1360.0469 2024.375,1359.875 Q2024.6094,1359.6875 2024.75,1359.5625 L2024.9688,1359.5625 L2024.9688,1361.4688 Q2024.6719,1361.6094 2024.3906,1361.7344 Q2024.125,1361.8438 2023.8125,1361.9219 Q2023.4219,1362.0313 2023.0781,1362.0938 Q2022.7344,1362.1563 2022.1406,1362.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="12" x="2037.5" y="1362.3748">Tr</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1957" x2="2105" y1="1371" y2="1371"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1957" x2="2105" y1="1379" y2="1379"/><ellipse cx="1967" cy="1390" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="18" x="1973" y="1394.4189">Tr()</text><ellipse cx="1967" cy="1403.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="1973" y="1408.2549">void accept(Visitor visitor)</text><ellipse cx="1967" cy="1417.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="84" x="1973" y="1422.0908">int nextRowPos()</text><ellipse cx="1967" cy="1431.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="1973" y="1435.9268">String getInfo()</text><ellipse cx="1967" cy="1445.3438" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="1973" y="1449.7627">Balise newInstance()</text><!--MD5=[f3a5d6afa8cc088b02ce030da80c3874]
+class TemplateHTML::Balise::Void--><rect codeLine="150" fill="#CCCCCC" height="97.3438" id="TemplateHTML::Balise::Void" style="stroke:#AAAAAA;stroke-width:1.5;" width="150" x="2141" y="1352"/><ellipse cx="2200" cy="1365" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M2200.6406,1369.1563 Q2199.75,1369.1563 2198.9844,1368.8906 Q2198.2344,1368.625 2197.6875,1368.1094 Q2197.1563,1367.5938 2196.8438,1366.8125 Q2196.5469,1366.0313 2196.5469,1365.0156 Q2196.5469,1364.0625 2196.8281,1363.2969 Q2197.125,1362.5156 2197.6719,1361.9531 Q2198.1875,1361.4219 2198.9531,1361.1406 Q2199.7344,1360.8438 2200.6406,1360.8438 Q2201.1406,1360.8438 2201.5469,1360.9063 Q2201.9531,1360.9531 2202.2969,1361.0469 Q2202.6563,1361.1563 2202.9531,1361.2813 Q2203.25,1361.4063 2203.4688,1361.5156 L2203.4688,1363.4531 L2203.2344,1363.4531 Q2203.0781,1363.3281 2202.8438,1363.1563 Q2202.625,1362.9688 2202.3281,1362.7969 Q2202.0313,1362.625 2201.6875,1362.5156 Q2201.3438,1362.3906 2200.9531,1362.3906 Q2200.5156,1362.3906 2200.125,1362.5313 Q2199.7344,1362.6563 2199.4063,1362.9844 Q2199.0938,1363.2813 2198.8906,1363.7969 Q2198.7031,1364.2969 2198.7031,1365.0156 Q2198.7031,1365.7656 2198.9063,1366.2813 Q2199.125,1366.7813 2199.4375,1367.0625 Q2199.7656,1367.3594 2200.1719,1367.4844 Q2200.5781,1367.6094 2200.9688,1367.6094 Q2201.3438,1367.6094 2201.7031,1367.5 Q2202.0781,1367.3906 2202.3906,1367.1875 Q2202.6563,1367.0469 2202.875,1366.875 Q2203.1094,1366.6875 2203.25,1366.5625 L2203.4688,1366.5625 L2203.4688,1368.4688 Q2203.1719,1368.6094 2202.8906,1368.7344 Q2202.625,1368.8438 2202.3125,1368.9219 Q2201.9219,1369.0313 2201.5781,1369.0938 Q2201.2344,1369.1563 2200.6406,1369.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="25" x="2216" y="1369.3748">Void</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="2142" x2="2290" y1="1378" y2="1378"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="2142" x2="2290" y1="1386" y2="1386"/><ellipse cx="2152" cy="1397" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="30" x="2158" y="1401.4189">Void()</text><ellipse cx="2152" cy="1410.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="127" x="2158" y="1415.2549">void accept(Visitor visitor)</text><ellipse cx="2152" cy="1424.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="2158" y="1429.0908">String getInfo()</text><ellipse cx="2152" cy="1438.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="2158" y="1442.9268">Balise newInstance()</text><!--MD5=[c30e51fa4f6dce2a6b6edac12d4f554a]
+class TemplateHTML::Visitor::Visitor--><rect codeLine="157" fill="#CCCCCC" height="166.5234" id="TemplateHTML::Visitor::Visitor" style="stroke:#AAAAAA;stroke-width:1.5;" width="144" x="595" y="151"/><ellipse cx="645.5" cy="164" fill="#B4A7E5" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M647.8438,168 L643.1563,168 L643.1563,166.5781 L644.4688,166.5781 L644.4688,161.4219 L643.1563,161.4219 L643.1563,160 L647.8438,160 L647.8438,161.4219 L646.5313,161.4219 L646.5313,166.5781 L647.8438,166.5781 L647.8438,168 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="36" x="661.5" y="168.3748">Visitor</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="596" x2="738" y1="177" y2="177"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="596" x2="738" y1="185" y2="185"/><ellipse cx="606" cy="196" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="109" x="612" y="200.4189">void Table(Table table)</text><ellipse cx="606" cy="209.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="121" x="612" y="214.2549">void Thead(Thead thead)</text><ellipse cx="606" cy="223.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="121" x="612" y="228.0908">void Tbody(Tbody tbody)</text><ellipse cx="606" cy="237.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="106" x="612" y="241.9268">void Tfoot(Tfoot tfoot)</text><ellipse cx="606" cy="251.3438" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="61" x="612" y="255.7627">void Tr(Tr tr)</text><ellipse cx="606" cy="265.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="67" x="612" y="269.5986">void Th(Th th)</text><ellipse cx="606" cy="279.0156" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="67" x="612" y="283.4346">void Td(Td td)</text><ellipse cx="606" cy="292.8516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="56" x="612" y="297.2705">void A(A a)</text><ellipse cx="606" cy="306.6875" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="82" x="612" y="311.1064">void Img(Img img)</text><!--MD5=[1faa8e6fbbb489f2fc47b950d3810eec]
+class TemplateHTML::Visitor::CreateVisitor--><rect codeLine="169" fill="#CCCCCC" height="83.5078" id="TemplateHTML::Visitor::CreateVisitor" style="stroke:#AAAAAA;stroke-width:1.5;" width="184" x="251" y="509"/><ellipse cx="302" cy="522" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M302.6406,526.1563 Q301.75,526.1563 300.9844,525.8906 Q300.2344,525.625 299.6875,525.1094 Q299.1563,524.5938 298.8438,523.8125 Q298.5469,523.0313 298.5469,522.0156 Q298.5469,521.0625 298.8281,520.2969 Q299.125,519.5156 299.6719,518.9531 Q300.1875,518.4219 300.9531,518.1406 Q301.7344,517.8438 302.6406,517.8438 Q303.1406,517.8438 303.5469,517.9063 Q303.9531,517.9531 304.2969,518.0469 Q304.6563,518.1563 304.9531,518.2813 Q305.25,518.4063 305.4688,518.5156 L305.4688,520.4531 L305.2344,520.4531 Q305.0781,520.3281 304.8438,520.1563 Q304.625,519.9688 304.3281,519.7969 Q304.0313,519.625 303.6875,519.5156 Q303.3438,519.3906 302.9531,519.3906 Q302.5156,519.3906 302.125,519.5313 Q301.7344,519.6563 301.4063,519.9844 Q301.0938,520.2813 300.8906,520.7969 Q300.7031,521.2969 300.7031,522.0156 Q300.7031,522.7656 300.9063,523.2813 Q301.125,523.7813 301.4375,524.0625 Q301.7656,524.3594 302.1719,524.4844 Q302.5781,524.6094 302.9688,524.6094 Q303.3438,524.6094 303.7031,524.5 Q304.0781,524.3906 304.3906,524.1875 Q304.6563,524.0469 304.875,523.875 Q305.1094,523.6875 305.25,523.5625 L305.4688,523.5625 L305.4688,525.4688 Q305.1719,525.6094 304.8906,525.7344 Q304.625,525.8438 304.3125,525.9219 Q303.9219,526.0313 303.5781,526.0938 Q303.2344,526.1563 302.6406,526.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="75" x="318" y="526.3748">CreateVisitor</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="252" x2="434" y1="535" y2="535"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="259" y="543"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="96" x="268" y="550.4189">controler : Controler</text><ellipse cx="262" cy="559.8359" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="157" x="268" y="564.2549">depth_balise : List&lt;List&lt;Balise&gt;&gt;</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="252" x2="434" y1="570.6719" y2="570.6719"/><rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="259" y="578.6719"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="161" x="268" y="586.0908">void createChildren(Balise balise)</text><!--MD5=[bd7fae1789cb5d352f7abfbd855ffe79]
+class TemplateHTML::Visitor::GridVisitor--><rect codeLine="175" fill="#CCCCCC" height="97.3438" id="TemplateHTML::Visitor::GridVisitor" style="stroke:#AAAAAA;stroke-width:1.5;" width="184" x="32" y="502.5"/><ellipse cx="90.5" cy="515.5" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M91.1406,519.6563 Q90.25,519.6563 89.4844,519.3906 Q88.7344,519.125 88.1875,518.6094 Q87.6563,518.0938 87.3438,517.3125 Q87.0469,516.5313 87.0469,515.5156 Q87.0469,514.5625 87.3281,513.7969 Q87.625,513.0156 88.1719,512.4531 Q88.6875,511.9219 89.4531,511.6406 Q90.2344,511.3438 91.1406,511.3438 Q91.6406,511.3438 92.0469,511.4063 Q92.4531,511.4531 92.7969,511.5469 Q93.1563,511.6563 93.4531,511.7813 Q93.75,511.9063 93.9688,512.0156 L93.9688,513.9531 L93.7344,513.9531 Q93.5781,513.8281 93.3438,513.6563 Q93.125,513.4688 92.8281,513.2969 Q92.5313,513.125 92.1875,513.0156 Q91.8438,512.8906 91.4531,512.8906 Q91.0156,512.8906 90.625,513.0313 Q90.2344,513.1563 89.9063,513.4844 Q89.5938,513.7813 89.3906,514.2969 Q89.2031,514.7969 89.2031,515.5156 Q89.2031,516.2656 89.4063,516.7813 Q89.625,517.2813 89.9375,517.5625 Q90.2656,517.8594 90.6719,517.9844 Q91.0781,518.1094 91.4688,518.1094 Q91.8438,518.1094 92.2031,518 Q92.5781,517.8906 92.8906,517.6875 Q93.1563,517.5469 93.375,517.375 Q93.6094,517.1875 93.75,517.0625 L93.9688,517.0625 L93.9688,518.9688 Q93.6719,519.1094 93.3906,519.2344 Q93.125,519.3438 92.8125,519.4219 Q92.4219,519.5313 92.0781,519.5938 Q91.7344,519.6563 91.1406,519.6563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="60" x="106.5" y="519.8748">GridVisitor</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="33" x2="215" y1="528.5" y2="528.5"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="33" x2="215" y1="536.5" y2="536.5"/><ellipse cx="43" cy="547.5" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="161" x="49" y="551.9189">List&lt;Grid&gt; getGrids(Balise balise)</text><rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="40" y="558.3359"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="135" x="49" y="565.7549">void spanGrid(Balise balise)</text><rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="40" y="572.1719"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="136" x="49" y="579.5908">void mergeCol(Balise balise)</text><rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="40" y="586.0078"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="144" x="49" y="593.4268">void mergeRow(Balise balise)</text><!--MD5=[9627f580abc2f39f89b65f0397d64fd4]
+class TemplateHTML::Visitor::ShowVisitor--><rect codeLine="182" fill="#CCCCCC" height="55.8359" id="TemplateHTML::Visitor::ShowVisitor" style="stroke:#AAAAAA;stroke-width:1.5;" width="181" x="470.5" y="523"/><ellipse cx="524" cy="536" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M524.6406,540.1563 Q523.75,540.1563 522.9844,539.8906 Q522.2344,539.625 521.6875,539.1094 Q521.1563,538.5938 520.8438,537.8125 Q520.5469,537.0313 520.5469,536.0156 Q520.5469,535.0625 520.8281,534.2969 Q521.125,533.5156 521.6719,532.9531 Q522.1875,532.4219 522.9531,532.1406 Q523.7344,531.8438 524.6406,531.8438 Q525.1406,531.8438 525.5469,531.9063 Q525.9531,531.9531 526.2969,532.0469 Q526.6563,532.1563 526.9531,532.2813 Q527.25,532.4063 527.4688,532.5156 L527.4688,534.4531 L527.2344,534.4531 Q527.0781,534.3281 526.8438,534.1563 Q526.625,533.9688 526.3281,533.7969 Q526.0313,533.625 525.6875,533.5156 Q525.3438,533.3906 524.9531,533.3906 Q524.5156,533.3906 524.125,533.5313 Q523.7344,533.6563 523.4063,533.9844 Q523.0938,534.2813 522.8906,534.7969 Q522.7031,535.2969 522.7031,536.0156 Q522.7031,536.7656 522.9063,537.2813 Q523.125,537.7813 523.4375,538.0625 Q523.7656,538.3594 524.1719,538.4844 Q524.5781,538.6094 524.9688,538.6094 Q525.3438,538.6094 525.7031,538.5 Q526.0781,538.3906 526.3906,538.1875 Q526.6563,538.0469 526.875,537.875 Q527.1094,537.6875 527.25,537.5625 L527.4688,537.5625 L527.4688,539.4688 Q527.1719,539.6094 526.8906,539.7344 Q526.625,539.8438 526.3125,539.9219 Q525.9219,540.0313 525.5781,540.0938 Q525.2344,540.1563 524.6406,540.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="67" x="540" y="540.3748">ShowVisitor</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="471.5" x2="650.5" y1="549" y2="549"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="471.5" x2="650.5" y1="557" y2="557"/><rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="478.5" y="565"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="158" x="487.5" y="572.4189">void showChildren(Balise balise)</text><!--MD5=[118a221b19a152a40002bc20804cc787]
+class TemplateHTML::Visitor::TableVisitor--><rect codeLine="186" fill="#CCCCCC" height="69.6719" id="TemplateHTML::Visitor::TableVisitor" style="stroke:#AAAAAA;stroke-width:1.5;" width="172" x="687" y="516"/><ellipse cx="736" cy="529" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M736.6406,533.1563 Q735.75,533.1563 734.9844,532.8906 Q734.2344,532.625 733.6875,532.1094 Q733.1563,531.5938 732.8438,530.8125 Q732.5469,530.0313 732.5469,529.0156 Q732.5469,528.0625 732.8281,527.2969 Q733.125,526.5156 733.6719,525.9531 Q734.1875,525.4219 734.9531,525.1406 Q735.7344,524.8438 736.6406,524.8438 Q737.1406,524.8438 737.5469,524.9063 Q737.9531,524.9531 738.2969,525.0469 Q738.6563,525.1563 738.9531,525.2813 Q739.25,525.4063 739.4688,525.5156 L739.4688,527.4531 L739.2344,527.4531 Q739.0781,527.3281 738.8438,527.1563 Q738.625,526.9688 738.3281,526.7969 Q738.0313,526.625 737.6875,526.5156 Q737.3438,526.3906 736.9531,526.3906 Q736.5156,526.3906 736.125,526.5313 Q735.7344,526.6563 735.4063,526.9844 Q735.0938,527.2813 734.8906,527.7969 Q734.7031,528.2969 734.7031,529.0156 Q734.7031,529.7656 734.9063,530.2813 Q735.125,530.7813 735.4375,531.0625 Q735.7656,531.3594 736.1719,531.4844 Q736.5781,531.6094 736.9688,531.6094 Q737.3438,531.6094 737.7031,531.5 Q738.0781,531.3906 738.3906,531.1875 Q738.6563,531.0469 738.875,530.875 Q739.1094,530.6875 739.25,530.5625 L739.4688,530.5625 L739.4688,532.4688 Q739.1719,532.6094 738.8906,532.7344 Q738.625,532.8438 738.3125,532.9219 Q737.9219,533.0313 737.5781,533.0938 Q737.2344,533.1563 736.6406,533.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="67" x="752" y="533.3748">TableVisitor</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="688" x2="858" y1="542" y2="542"/><ellipse cx="698" cy="553" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="90" x="704" y="557.4189">table : List&lt;Balise&gt;</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="688" x2="858" y1="563.8359" y2="563.8359"/><rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="695" y="571.8359"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="149" x="704" y="579.2549">void visitChildren(Balise balise)</text><!--MD5=[34e71da43c33c1a46111439f97714307]
+class TemplateHTML::Controler::Controler--><rect codeLine="191" fill="#CCCCCC" height="97.3438" id="TemplateHTML::Controler::Controler" style="stroke:#AAAAAA;stroke-width:1.5;" width="169" x="250.5" y="994"/><ellipse cx="304.5" cy="1007" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M305.1406,1011.1563 Q304.25,1011.1563 303.4844,1010.8906 Q302.7344,1010.625 302.1875,1010.1094 Q301.6563,1009.5938 301.3438,1008.8125 Q301.0469,1008.0313 301.0469,1007.0156 Q301.0469,1006.0625 301.3281,1005.2969 Q301.625,1004.5156 302.1719,1003.9531 Q302.6875,1003.4219 303.4531,1003.1406 Q304.2344,1002.8438 305.1406,1002.8438 Q305.6406,1002.8438 306.0469,1002.9063 Q306.4531,1002.9531 306.7969,1003.0469 Q307.1563,1003.1563 307.4531,1003.2813 Q307.75,1003.4063 307.9688,1003.5156 L307.9688,1005.4531 L307.7344,1005.4531 Q307.5781,1005.3281 307.3438,1005.1563 Q307.125,1004.9688 306.8281,1004.7969 Q306.5313,1004.625 306.1875,1004.5156 Q305.8438,1004.3906 305.4531,1004.3906 Q305.0156,1004.3906 304.625,1004.5313 Q304.2344,1004.6563 303.9063,1004.9844 Q303.5938,1005.2813 303.3906,1005.7969 Q303.2031,1006.2969 303.2031,1007.0156 Q303.2031,1007.7656 303.4063,1008.2813 Q303.625,1008.7813 303.9375,1009.0625 Q304.2656,1009.3594 304.6719,1009.4844 Q305.0781,1009.6094 305.4688,1009.6094 Q305.8438,1009.6094 306.2031,1009.5 Q306.5781,1009.3906 306.8906,1009.1875 Q307.1563,1009.0469 307.375,1008.875 Q307.6094,1008.6875 307.75,1008.5625 L307.9688,1008.5625 L307.9688,1010.4688 Q307.6719,1010.6094 307.3906,1010.7344 Q307.125,1010.8438 306.8125,1010.9219 Q306.4219,1011.0313 306.0781,1011.0938 Q305.7344,1011.1563 305.1406,1011.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="54" x="320.5" y="1011.3748">Controler</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="251.5" x2="418.5" y1="1020" y2="1020"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="258.5" y="1028"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="267.5" y="1035.4189">balise : Balise[]</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="258.5" y="1041.8359"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="145" x="267.5" y="1049.2549">tag_map : Map&lt;String, Balise&gt;</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="251.5" x2="418.5" y1="1055.6719" y2="1055.6719"/><ellipse cx="261.5" cy="1066.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="267.5" y="1071.0908">Controler()</text><ellipse cx="261.5" cy="1080.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="146" x="267.5" y="1084.9268">Balise getBalise(Element child)</text><!--MD5=[b686c2bf84cefa6b1c47342f20bd41ac]
+class TemplateHTML::Grid::Grid--><rect codeLine="198" fill="#CCCCCC" height="346.3906" id="TemplateHTML::Grid::Grid" style="stroke:#AAAAAA;stroke-width:1.5;" width="211" x="915.5" y="378"/><ellipse cx="1005.5" cy="391" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M1006.1406,395.1563 Q1005.25,395.1563 1004.4844,394.8906 Q1003.7344,394.625 1003.1875,394.1094 Q1002.6563,393.5938 1002.3438,392.8125 Q1002.0469,392.0313 1002.0469,391.0156 Q1002.0469,390.0625 1002.3281,389.2969 Q1002.625,388.5156 1003.1719,387.9531 Q1003.6875,387.4219 1004.4531,387.1406 Q1005.2344,386.8438 1006.1406,386.8438 Q1006.6406,386.8438 1007.0469,386.9063 Q1007.4531,386.9531 1007.7969,387.0469 Q1008.1563,387.1563 1008.4531,387.2813 Q1008.75,387.4063 1008.9688,387.5156 L1008.9688,389.4531 L1008.7344,389.4531 Q1008.5781,389.3281 1008.3438,389.1563 Q1008.125,388.9688 1007.8281,388.7969 Q1007.5313,388.625 1007.1875,388.5156 Q1006.8438,388.3906 1006.4531,388.3906 Q1006.0156,388.3906 1005.625,388.5313 Q1005.2344,388.6563 1004.9063,388.9844 Q1004.5938,389.2813 1004.3906,389.7969 Q1004.2031,390.2969 1004.2031,391.0156 Q1004.2031,391.7656 1004.4063,392.2813 Q1004.625,392.7813 1004.9375,393.0625 Q1005.2656,393.3594 1005.6719,393.4844 Q1006.0781,393.6094 1006.4688,393.6094 Q1006.8438,393.6094 1007.2031,393.5 Q1007.5781,393.3906 1007.8906,393.1875 Q1008.1563,393.0469 1008.375,392.875 Q1008.6094,392.6875 1008.75,392.5625 L1008.9688,392.5625 L1008.9688,394.4688 Q1008.6719,394.6094 1008.3906,394.7344 Q1008.125,394.8438 1007.8125,394.9219 Q1007.4219,395.0313 1007.0781,395.0938 Q1006.7344,395.1563 1006.1406,395.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="24" x="1021.5" y="395.3748">Grid</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="916.5" x2="1125.5" y1="404" y2="404"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="923.5" y="412"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="114" x="932.5" y="419.4189">grid : List&lt;List&lt;Balise&gt;&gt;</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="923.5" y="425.8359"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="98" x="932.5" y="433.2549">from_table : boolean</text><ellipse cx="926.5" cy="442.6719" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="125" x="932.5" y="447.0908">DEFAULT_VALUE : Balise</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="916.5" x2="1125.5" y1="453.5078" y2="453.5078"/><ellipse cx="926.5" cy="464.5078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="28" x="932.5" y="468.9268">Grid()</text><ellipse cx="926.5" cy="478.3438" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="114" x="932.5" y="482.7627">Grid(Balise final_balise)</text><ellipse cx="926.5" cy="492.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="183" x="932.5" y="496.5986">void span(int span_row, int span_col)</text><ellipse cx="926.5" cy="506.0156" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="173" x="932.5" y="510.4346">void mergeRow(Grid grid_row, int i)</text><ellipse cx="926.5" cy="519.8516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="159" x="932.5" y="524.2705">void mergeCol(Grid grid_col, int j)</text><ellipse cx="926.5" cy="533.6875" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="124" x="932.5" y="538.1064">boolean isEmpty(int i, int j)</text><ellipse cx="926.5" cy="547.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="121" x="932.5" y="551.9424">Balise getValue(int i, int j)</text><ellipse cx="926.5" cy="561.3594" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="176" x="932.5" y="565.7783">void setValue(Balise value, int i, int j)</text><ellipse cx="926.5" cy="575.1953" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="67" x="932.5" y="579.6143">Grid expend()</text><ellipse cx="926.5" cy="589.0313" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="78" x="932.5" y="593.4502">void squareUp()</text><ellipse cx="926.5" cy="602.8672" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="116" x="932.5" y="607.2861">String[][] toStringArray()</text><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="0" x="935.5" y="621.1221"/><ellipse cx="926.5" cy="630.5391" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="93" x="932.5" y="634.958">int getMaxColSize()</text><ellipse cx="926.5" cy="644.375" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="81" x="932.5" y="648.7939">int getRowSize()</text><ellipse cx="926.5" cy="658.2109" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="123" x="932.5" y="662.6299">List&lt;Balise&gt; getRow(int i)</text><ellipse cx="926.5" cy="672.0469" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="114" x="932.5" y="676.4658">boolean getFromTable()</text><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="0" x="935.5" y="690.3018"/><ellipse cx="926.5" cy="699.7188" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="188" x="932.5" y="704.1377">void setFromTable(boolean from_table)</text><ellipse cx="926.5" cy="713.5547" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="76" x="932.5" y="717.9736">String toString()</text><!--MD5=[335f4d9be48430461c68bf6d6fdba145]
+class App--><rect codeLine="10" fill="#CCCCCC" height="83.5078" id="App" style="stroke:#AAAAAA;stroke-width:1.5;" width="135" x="1741.5" y="7"/><ellipse cx="1794.5" cy="20" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M1795.1406,24.1563 Q1794.25,24.1563 1793.4844,23.8906 Q1792.7344,23.625 1792.1875,23.1094 Q1791.6563,22.5938 1791.3438,21.8125 Q1791.0469,21.0313 1791.0469,20.0156 Q1791.0469,19.0625 1791.3281,18.2969 Q1791.625,17.5156 1792.1719,16.9531 Q1792.6875,16.4219 1793.4531,16.1406 Q1794.2344,15.8438 1795.1406,15.8438 Q1795.6406,15.8438 1796.0469,15.9063 Q1796.4531,15.9531 1796.7969,16.0469 Q1797.1563,16.1563 1797.4531,16.2813 Q1797.75,16.4063 1797.9688,16.5156 L1797.9688,18.4531 L1797.7344,18.4531 Q1797.5781,18.3281 1797.3438,18.1563 Q1797.125,17.9688 1796.8281,17.7969 Q1796.5313,17.625 1796.1875,17.5156 Q1795.8438,17.3906 1795.4531,17.3906 Q1795.0156,17.3906 1794.625,17.5313 Q1794.2344,17.6563 1793.9063,17.9844 Q1793.5938,18.2813 1793.3906,18.7969 Q1793.2031,19.2969 1793.2031,20.0156 Q1793.2031,20.7656 1793.4063,21.2813 Q1793.625,21.7813 1793.9375,22.0625 Q1794.2656,22.3594 1794.6719,22.4844 Q1795.0781,22.6094 1795.4688,22.6094 Q1795.8438,22.6094 1796.2031,22.5 Q1796.5781,22.3906 1796.8906,22.1875 Q1797.1563,22.0469 1797.375,21.875 Q1797.6094,21.6875 1797.75,21.5625 L1797.9688,21.5625 L1797.9688,23.4688 Q1797.6719,23.6094 1797.3906,23.7344 Q1797.125,23.8438 1796.8125,23.9219 Q1796.4219,24.0313 1796.0781,24.0938 Q1795.7344,24.1563 1795.1406,24.1563 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="22" x="1810.5" y="24.3748">App</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1742.5" x2="1875.5" y1="33" y2="33"/><ellipse cx="1752.5" cy="44" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="86" x="1758.5" y="48.4189">LOGGER : Logger</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="1742.5" x2="1875.5" y1="54.8359" y2="54.8359"/><ellipse cx="1752.5" cy="65.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="112" x="1758.5" y="70.2549">void main(String[] args)</text><ellipse cx="1752.5" cy="79.6719" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#333333" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="77" x="1758.5" y="84.0908">void helpTable()</text><!--MD5=[c1b11c0740c6e469b272787f8324ffe1]
+reverse link Extractor::Extractor to Extractor::WikipediaHTMLExtractor--><path d="M1809,303.32 C1809,368.75 1809,465.12 1809,515.87 " fill="none" id="Extractor::Extractor-backto-Extractor::WikipediaHTMLExtractor" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1802,303.27,1809,283.27,1816,303.27,1802,303.27" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[e8e098790db83c717317bd62bd27ae62]
+reverse link Convertor::Convertor to Convertor::WikipediaHTMLConvertor--><path d="M1500.3,289.66 C1512.52,360.83 1533.38,482.35 1541.56,529.99 " fill="none" id="Convertor::Convertor-backto-Convertor::WikipediaHTMLConvertor" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1493.37,290.65,1496.88,269.76,1507.17,288.28,1493.37,290.65" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[309825fff8a26089501b63731f89a4fc]
+reverse link Convertor::Convertor to Convertor::WikipediaHTMLConvertorPlus--><path d="M1464.04,287.84 C1427.52,358.73 1364.06,481.94 1339.31,529.99 " fill="none" id="Convertor::Convertor-backto-Convertor::WikipediaHTMLConvertorPlus" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1457.97,284.33,1473.35,269.76,1470.42,290.74,1457.97,284.33" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[c0cc85cbf526efe89cbc8864b53b2391]
+reverse link Serializer::Serializer to Serializer::WikipediaHTMLSerializer--><path d="M2135,310.4 C2135,375.48 2135,466.76 2135,515.73 " fill="none" id="Serializer::Serializer-backto-Serializer::WikipediaHTMLSerializer" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="2128,310.28,2135,290.28,2142,310.28,2128,310.28" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[d771d87138d8b45aafd5ac6ca16088c9]
+reverse link TemplateHTML::Balise::Balise to TemplateHTML::Balise::A--><path d="M1041.87,1121.2 C883.06,1210.53 644,1345 644,1345 C644,1345 636.64,1349.31 626.07,1355.51 " fill="none" id="TemplateHTML::Balise::Balise-backto-TemplateHTML::Balise::A" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="1038.51,1115.05,1059.38,1111.35,1045.38,1127.26,1038.51,1115.05" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[3030bd23b938dda904e3287ee9200983]
+reverse link TemplateHTML::Balise::Balise to TemplateHTML::Balise::Img--><path d="M1043.44,1152.99 C960.31,1219.64 858.33,1301.42 795.25,1351.99 " fill="none" id="TemplateHTML::Balise::Balise-backto-TemplateHTML::Balise::Img" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="1039.28,1147.36,1059.26,1140.31,1048.04,1158.28,1039.28,1147.36" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[29e64eba420994c74cf1c1b70944fd6f]
+reverse link TemplateHTML::Balise::Balise to TemplateHTML::Balise::Table--><path d="M1047.53,1225.58 C1015.92,1269.03 984.54,1312.16 960.94,1344.6 " fill="none" id="TemplateHTML::Balise::Balise-backto-TemplateHTML::Balise::Table" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="1041.98,1221.31,1059.41,1209.25,1053.3,1229.54,1041.98,1221.31" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[615f936e8b7a42f32dbb8eabc11b61ff]
+reverse link TemplateHTML::Balise::Balise to TemplateHTML::Balise::Tbody--><path d="M1125.64,1305.01 C1122.05,1322.27 1118.75,1338.18 1115.91,1351.83 " fill="none" id="TemplateHTML::Balise::Balise-backto-TemplateHTML::Balise::Tbody" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="1118.8,1303.55,1129.72,1285.39,1132.5,1306.4,1118.8,1303.55" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[8dd4d36d7a7a14009290d9cea604afa6]
+reverse link TemplateHTML::Balise::Balise to TemplateHTML::Balise::Td--><path d="M1261.45,1304.73 C1266.87,1322.1 1271.86,1338.11 1276.14,1351.83 " fill="none" id="TemplateHTML::Balise::Balise-backto-TemplateHTML::Balise::Td" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="1254.69,1306.57,1255.42,1285.39,1268.06,1302.4,1254.69,1306.57" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[9873b90302b83ea842266d49cce1292b]
+reverse link TemplateHTML::Balise::Balise to TemplateHTML::Balise::Tfoot--><path d="M1313.47,1204.02 C1358.17,1257.79 1404.66,1313.7 1436.41,1351.89 " fill="none" id="TemplateHTML::Balise::Balise-backto-TemplateHTML::Balise::Tfoot" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="1308.01,1208.41,1300.61,1188.56,1318.78,1199.46,1308.01,1208.41" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[328e48481bf3b5d4eb747d6c02b43af8]
+reverse link TemplateHTML::Balise::Balise to TemplateHTML::Balise::Th--><path d="M1317.01,1144.91 C1408.86,1212.88 1525.58,1299.27 1596.72,1351.92 " fill="none" id="TemplateHTML::Balise::Balise-backto-TemplateHTML::Balise::Th" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="1312.67,1150.4,1300.76,1132.87,1321,1139.15,1312.67,1150.4" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[ae30e5aa2e742d3396a301ba02fc2695]
+reverse link TemplateHTML::Balise::Balise to TemplateHTML::Balise::Thead--><path d="M1318.59,1116.3 C1488.46,1205.52 1754,1345 1754,1345 C1754,1345 1760.88,1349.07 1770.87,1355 " fill="none" id="TemplateHTML::Balise::Balise-backto-TemplateHTML::Balise::Thead" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="1315.13,1122.39,1300.68,1106.89,1321.64,1109.99,1315.13,1122.39" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[356c0916a4b76b1ede4d1b6ef97dfd0b]
+reverse link TemplateHTML::Balise::Balise to TemplateHTML::Balise::Tr--><path d="M1319.37,1098.86 C1538.52,1185.92 1939,1345 1939,1345 C1939,1345 1945.88,1349.07 1955.87,1355 " fill="none" id="TemplateHTML::Balise::Balise-backto-TemplateHTML::Balise::Tr" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="1316.69,1105.33,1300.69,1091.44,1321.86,1092.32,1316.69,1105.33" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[3aadde67ba15a39e62896510eff1e47c]
+reverse link TemplateHTML::Balise::Balise to TemplateHTML::Balise::Void--><path d="M1319.71,1088.12 C1582.45,1172.04 2124,1345 2124,1345 C2124,1345 2130.88,1349.07 2140.87,1355 " fill="none" id="TemplateHTML::Balise::Balise-backto-TemplateHTML::Balise::Void" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="1317.44,1094.74,1300.52,1081.99,1321.7,1081.41,1317.44,1094.74" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[6b8f6bf3f310469da4a13816953fd653]
+reverse link TemplateHTML::Visitor::Visitor to TemplateHTML::Visitor::CreateVisitor--><path d="M576.61,277.1 C518.19,303.99 453,334 453,334 C453,334 395.86,446.19 363.95,508.86 " fill="none" id="TemplateHTML::Visitor::Visitor-backto-TemplateHTML::Visitor::CreateVisitor" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="573.75,270.71,594.85,268.71,579.61,283.43,573.75,270.71" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[94aba7b20a82886091d3fda02db912c6]
+reverse link TemplateHTML::Visitor::Visitor to TemplateHTML::Visitor::GridVisitor--><path d="M575.2,256.33 C447.84,285.24 233,334 233,334 C233,334 180.15,438.72 148.06,502.33 " fill="none" id="TemplateHTML::Visitor::Visitor-backto-TemplateHTML::Visitor::GridVisitor" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="573.79,249.48,594.85,251.88,576.89,263.13,573.79,249.48" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[f0502a9aaad3c5743f34d6bdc0b2cad9]
+reverse link TemplateHTML::Visitor::Visitor to TemplateHTML::Visitor::ShowVisitor--><path d="M632.68,337.33 C610.79,402.28 584.02,481.7 570.22,522.66 " fill="none" id="TemplateHTML::Visitor::Visitor-backto-TemplateHTML::Visitor::ShowVisitor" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="626.13,334.85,639.15,318.13,639.4,339.32,626.13,334.85" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[1dbd6dfff7544a7b1c41ce2c5358267d]
+reverse link TemplateHTML::Visitor::Visitor to TemplateHTML::Visitor::TableVisitor--><path d="M701.27,337.17 C722,398.69 747.13,473.24 761.47,515.79 " fill="none" id="TemplateHTML::Visitor::Visitor-backto-TemplateHTML::Visitor::TableVisitor" style="stroke:#000000;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="694.6,339.32,694.85,318.13,707.87,334.85,694.6,339.32" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[d5bf9dc340f6dbe2327bb4328547c645]
+link App to Extractor::Extractor--><path codeLine="224" d="M1809,91.18 C1809,119.29 1809,156.6 1809,185.97 " fill="none" id="App-Extractor::Extractor" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="1795.1266" y="118.6215">1</text><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="1795.1266" y="173.9412">*</text><!--MD5=[fae3d7b60bcba60b51c7ec5dc5ea22be]
+link App to Convertor::Convertor--><path codeLine="225" d="M1741.13,77.83 C1705.84,92.3 1670,107 1670,107 C1670,107 1592.45,161.8 1539.44,199.27 " fill="none" id="App-Convertor::Convertor" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="1720.4606" y="75.7142">1</text><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="1533.6484" y="187.3143">*</text><!--MD5=[352a71d7ac28d6274e50ef71f871deac]
+link App to Serializer::Serializer--><path codeLine="226" d="M1876.87,77.83 C1912.16,92.3 1948,107 1948,107 C1948,107 2003.73,144.7 2054.34,178.93 " fill="none" id="App-Serializer::Serializer" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="1884.5394" y="75.7142">1</text><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="2030.7174" y="166.8101">*</text><!--MD5=[3b50889a408b50f11a86590bed0dea74]
+link Convertor::WikipediaHTMLConvertorPlus to TemplateHTML::Balise::Balise--><path codeLine="228" d="M1322.88,572.1 C1310.9,611.47 1283.06,702.94 1255.1,794.77 " fill="none" id="Convertor::WikipediaHTMLConvertorPlus-to-TemplateHTML::Balise::Balise" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1253.6,799.7,1260.048,792.2553,1255.0564,794.9168,1252.3949,789.9251,1253.6,799.7" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="1242.8017" y="787.4559">*</text><!--MD5=[ef1145de1b8817dd928f68a9197fa2fa]
+reverse link TemplateHTML::Balise::Balise to TemplateHTML::Balise::Balise--><path codeLine="230" d="M1313.15,1014.86 C1326.79,1020.31 1335.5,1029.53 1335.5,1042.5 C1335.5,1059.11 1321.22,1069.55 1300.62,1073.83 " fill="none" id="TemplateHTML::Balise::Balise-backto-TemplateHTML::Balise::Balise" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="1300.62,1011.17,1305.2462,1016.7016,1312.1315,1014.5589,1307.5054,1009.0272,1300.62,1011.17" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="1308.3664" y="1071.1323">*</text><!--MD5=[ef1145de1b8817dd928f68a9197fa2fa]
+reverse link TemplateHTML::Balise::Balise to TemplateHTML::Balise::Balise--><path codeLine="231" d="M1314.2,976.53 C1346.52,981.62 1370.5,1003.61 1370.5,1042.5 C1370.5,1086.55 1339.73,1108.92 1300.92,1109.61 " fill="none" id="TemplateHTML::Balise::Balise-backto-TemplateHTML::Balise::Balise-1" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="1300.92,975.39,1306.5548,979.8899,1312.8758,976.4193,1307.241,971.9194,1300.92,975.39" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="1308.6847" y="1109.0926">1</text><!--MD5=[cdbebdbdc0b1fdc09dd7aeab2e3093fe]
+link Convertor::WikipediaHTMLConvertorPlus to TemplateHTML::Visitor::Visitor--><path codeLine="233" d="M1317.43,529.68 C1286.81,475.91 1206,334 1206,334 C1206,334 893.46,276.88 744.37,249.64 " fill="none" id="Convertor::WikipediaHTMLConvertorPlus-to-TemplateHTML::Visitor::Visitor" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="739.13,248.68,747.2622,254.2359,744.0482,249.5807,748.7033,246.3667,739.13,248.68" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="747.2387" y="245.0526">*</text><!--MD5=[67209437fa8a95d5b5522275fd5f69a5]
+link TemplateHTML::Visitor::Visitor to TemplateHTML::Balise::Balise--><path codeLine="234" d="M739.04,250.41 C872.1,277.94 1143,334 1143,334 C1143,334 1156.65,595.04 1167.37,800 " fill="none" id="TemplateHTML::Visitor::Visitor-TemplateHTML::Balise::Balise" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="747.1394" y="273.436">1</text><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="1153.7423" y="787.7658">*</text><!--MD5=[e17a996b653a929013200bda6962ad8e]
+reverse link TemplateHTML::Visitor::CreateVisitor to TemplateHTML::Controler::Controler--><path codeLine="236" d="M342.11,606.5 C340.53,702.97 337.28,902.24 335.78,993.7 " fill="none" id="TemplateHTML::Visitor::CreateVisitor-backto-TemplateHTML::Controler::Controler" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="342.32,593.31,338.2217,599.2433,342.1222,605.3084,346.2206,599.3751,342.32,593.31" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="322.0114" y="981.6349">1</text><!--MD5=[ccc698bc8d7b320833cb0dfc3da76041]
+reverse link TemplateHTML::Controler::Controler to TemplateHTML::Balise::Balise--><path codeLine="237" d="M432.62,1042.5 C513.99,1042.5 616.67,1042.5 616.67,1042.5 C616.67,1042.5 898.33,1042.5 898.33,1042.5 C898.33,1042.5 982.87,1042.5 1059.32,1042.5 " fill="none" id="TemplateHTML::Controler::Controler-backto-TemplateHTML::Balise::Balise" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="419.51,1042.5,425.51,1046.5,431.51,1042.5,425.51,1038.5,419.51,1042.5" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="1038.57" y="1037.8931">9</text><!--MD5=[75d7b8d01343580cf2ee24a7476f20e9]
+reverse link TemplateHTML::Visitor::TableVisitor to TemplateHTML::Balise::Balise--><path codeLine="239" d="M802.07,597.21 C839.28,655.1 899,748 899,748 C899,748 983.04,835.78 1059.2,915.33 " fill="none" id="TemplateHTML::Visitor::TableVisitor-backto-TemplateHTML::Balise::Balise" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="794.95,586.14,794.8313,593.3501,801.4411,596.2329,801.5598,589.0227,794.95,586.14" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="40" x="1011.5" y="903.8418">1..*</text><!--MD5=[c343b6314d147054cdfbf6ebcb9d5215]
+reverse link TemplateHTML::Grid::Grid to TemplateHTML::Balise::Balise--><path codeLine="241" d="M1068.58,736.67 C1075.05,757.33 1081.84,778.6 1088.76,799.85 " fill="none" id="TemplateHTML::Grid::Grid-backto-TemplateHTML::Balise::Balise" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="1064.71,724.24,1062.6776,731.1588,1068.2825,735.6959,1070.3149,728.7771,1064.71,724.24" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="1072.5529" y="787.6109">*</text><!--MD5=[52e19cd75c6974c86f84a0864748df89]
+reverse link TemplateHTML::Balise::Balise to TemplateHTML::Grid::Grid--><path codeLine="242" d="M1110.92,787.28 C1103.95,765.95 1096.87,744.72 1089.9,724.24 " fill="none" id="TemplateHTML::Balise::Balise-backto-TemplateHTML::Grid::Grid" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1115,799.85,1116.9529,792.9084,1111.2963,788.4358,1109.3434,795.3775,1115,799.85" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="1079.7275" y="752.7392">1</text><!--MD5=[3c6506e2bd9cc55968071768e04a16c8]
+link TemplateHTML::Visitor::GridVisitor to TemplateHTML::Grid::Grid--><path codeLine="243" d="M148.46,502.3 C180.6,438.32 233,334 233,334 C233,334 250.5,326 250.5,326 C250.5,326 857.5,326 857.5,326 C857.5,326 875,334 875,334 C875,334 891.07,357.89 912.55,389.81 " fill="none" id="TemplateHTML::Visitor::GridVisitor-to-TemplateHTML::Grid::Grid" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="915.48,394.16,913.7699,384.4607,912.6868,390.013,907.1346,388.9299,915.48,394.16" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="894.6036" y="378.3929">*</text><!--MD5=[f93ed04a750be06c59dc78bc0a19b7e0]
+reverse link TemplateHTML::Grid::Grid to Convertor::WikipediaHTMLConvertorPlus--><path codeLine="244" d="M1131.71,551 C1155.9,551 1226.33,551 1226.33,551 C1226.33,551 1228.72,551 1232.76,551 " fill="none" id="TemplateHTML::Grid::Grid-backto-Convertor::WikipediaHTMLConvertorPlus" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#000000" points="1126.63,551,1135.63,555,1131.63,551,1135.63,547,1126.63,551" style="stroke:#000000;stroke-width:1.0;"/><text fill="#0000FF" filter="url(#b107yg6lpecs8g0)" font-family="Verdana" font-size="20" lengthAdjust="spacing" textLength="13" x="1134.5141" y="546.2607">1</text><!--MD5=[cd341d82c0b6d38cfa93d3569e82d842]
+@startuml "Wikipedia_table_extractor"
+
+!theme reddress-lightblue
+skinparam Linetype polyline
+skinparam PackageBorderThickness 0.5
+skinparam Shadowing false
+skinparam ArrowFontSize 20
+skinparam ArrowFontColor blue
+set namespaceSeparator ::
+
+class App {
+    + {static} LOGGER : Logger
+    + {static} void main(String[] args)
+    + void helpTable()
+}
+
+interface Extractor::Extractor {
+    + Document getDocument(String url)
+    + Elements getAllWikiTable(Document doc)
+    + Element getWikiTable(Document doc, int index)
+    + Elements getAllFirstWikiTable(Document doc) 
+}
+
+class Extractor::WikipediaHTMLExtractor implements Extractor::Extractor{
+    - table_tag : String
+    - wikitable_class : String
+}
+
+interface Convertor::Convertor {
+    + String[][] toStringTable(Element table);
+    + ArrayList<String[][]> toStringTables(Elements tables);
+}
+
+class Convertor::WikipediaHTMLConvertor implements Convertor::Convertor {}
+class Convertor::WikipediaHTMLConvertorPlus implements Convertor::Convertor {}
+
+abstract class Serializer::Serializer {
+    - save_path : Path
+    - invalid_char : String
+    + Path getPath(String file_name)
+    + void saveToCSV(String[][] string_table, String file_name)
+    + {static} String mkCSVFileName(String url, int n)
+}
+
+class Serializer::WikipediaHTMLSerializer extends Serializer::Serializer {
+    + WikipediaHTMLSerializer()
+    + WikipediaHTMLSerializer(String save_path)
+}
+
+abstract class TemplateHTML::Balise::Balise {
+    - tag : String
+    - self : Element
+    - parent: Balise
+    - children : ArrayList<Balise>
+    - span_row : int
+    - span_coll : int
+    - depth : int
+    - from_table : boolean
+    - grid : Grid
+
+    + Balise(String tag, boolean from_table)
+    + {abstract} void accept(Visitor visitor)
+    + {abstract} String getInfo()
+    + int nextRowPos()
+    + boolean isFinal()
+    + void init(Element self, Balise parent, int depth)
+    + void initGrid()
+    + void initGrid(boolean is_final)
+
+    + Grid getGrid()
+    + String getTag()
+    + Element getElement()
+    + Balise getParent()
+    + ArrayList<Balise> getChildren()
+    + int getSpanRow()
+    + int getSpanCol()
+    + int getDepth()
+    + boolean getFromTable()
+
+    + void addChild(Balise child)
+    + void setGrid(Grid grid)
+    + String toString()
+    + {abstract} Balise newInstance()
+}
+
+class TemplateHTML::Balise::A extends TemplateHTML::Balise::Balise {
+    + A()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Img extends TemplateHTML::Balise::Balise {
+    + Img()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Table extends TemplateHTML::Balise::Balise {
+    + Table()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + void initGrid()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Tbody extends TemplateHTML::Balise::Balise {
+    + Tbody()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Td extends TemplateHTML::Balise::Balise {
+    + Td()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Tfoot extends TemplateHTML::Balise::Balise {
+    + Tfoot()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Th extends TemplateHTML::Balise::Balise {
+    + Th()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Thead extends TemplateHTML::Balise::Balise {
+    + Thead()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Tr extends TemplateHTML::Balise::Balise {
+    + Tr()
+    + void accept(Visitor visitor)
+    + int nextRowPos()
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Void extends TemplateHTML::Balise::Balise {
+    + Void()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+interface TemplateHTML::Visitor::Visitor {
+    + void Table(Table table)
+    + void Thead(Thead thead)
+    + void Tbody(Tbody tbody)
+    + void Tfoot(Tfoot tfoot)
+    + void Tr(Tr tr)
+    + void Th(Th th)
+    + void Td(Td td)
+    + void A(A a)
+    + void Img(Img img)
+}
+
+class TemplateHTML::Visitor::CreateVisitor implements TemplateHTML::Visitor::Visitor {
+    - controler : Controler
+    + depth_balise : List<List<Balise>>
+    - void createChildren(Balise balise)
+}
+
+class TemplateHTML::Visitor::GridVisitor implements TemplateHTML::Visitor::Visitor {
+    + List<Grid> getGrids(Balise balise)
+    - void spanGrid(Balise balise)
+    - void mergeCol(Balise balise)
+    - void mergeRow(Balise balise)
+}
+
+class TemplateHTML::Visitor::ShowVisitor implements TemplateHTML::Visitor::Visitor {
+    - void showChildren(Balise balise)
+}
+
+class TemplateHTML::Visitor::TableVisitor implements TemplateHTML::Visitor::Visitor {
+    + table : List<Balise>
+    - void visitChildren(Balise balise)
+}
+
+class TemplateHTML::Controler::Controler {
+    - balise : Balise[]
+    - tag_map : Map<String, Balise>
+    + Controler()
+    + Balise getBalise(Element child)
+}
+
+class TemplateHTML::Grid::Grid {
+    - grid : List<List<Balise>>
+    - from_table : boolean
+    + {static} DEFAULT_VALUE : Balise
+    + Grid()
+    + Grid(Balise final_balise)
+    + void span(int span_row, int span_col)
+    + void mergeRow(Grid grid_row, int i)
+    + void mergeCol(Grid grid_col, int j)
+    + boolean isEmpty(int i, int j)
+    + Balise getValue(int i, int j)
+    + void setValue(Balise value, int i, int j)
+    + Grid expend()
+    + void squareUp()
+    + String[][] toStringArray()
+
+    + int getMaxColSize()
+    + int getRowSize()
+    + List<Balise> getRow(int i)
+    + boolean getFromTable()
+
+    + void setFromTable(boolean from_table)
+    + String toString()
+
+}
+
+App "<back:white>1"- -"<back:white>*" Extractor::Extractor
+App "<back:white>1"- -"<back:white>*" Convertor::Convertor
+App "<back:white>1"- -"<back:white>*" Serializer::Serializer
+
+Convertor::WikipediaHTMLConvertorPlus - ->"<back:white>*" TemplateHTML::Balise::Balise
+
+TemplateHTML::Balise::Balise o- - "<back:white>*" TemplateHTML::Balise::Balise
+TemplateHTML::Balise::Balise o- - "<back:white>1" TemplateHTML::Balise::Balise
+
+Convertor::WikipediaHTMLConvertorPlus - ->"<back:white>*" TemplateHTML::Visitor::Visitor
+TemplateHTML::Visitor::Visitor "<back:white>1"- -"<back:white>*" TemplateHTML::Balise::Balise
+
+TemplateHTML::Visitor::CreateVisitor *- -"<back:white>1" TemplateHTML::Controler::Controler
+TemplateHTML::Controler::Controler *- -"<back:white>9" TemplateHTML::Balise::Balise
+
+TemplateHTML::Visitor::TableVisitor o- -"<back:white>1..*" TemplateHTML::Balise::Balise
+
+TemplateHTML::Grid::Grid o- -"<back:white>*" TemplateHTML::Balise::Balise
+TemplateHTML::Balise::Balise *- -"<back:white>1" TemplateHTML::Grid::Grid
+TemplateHTML::Visitor::GridVisitor -r->"<back:white>*" TemplateHTML::Grid::Grid
+Convertor::WikipediaHTMLConvertorPlus -u->"<back:white>1" TemplateHTML::Grid::Grid
+@enduml
+
+@startuml "Wikipedia_table_extractor"
+
+
+
+
+skinparam stereotypeCBackgroundColor 1a66c2
+skinparam backgroundColor fff
+
+
+
+
+
+
+
+skinparam circledCharacter {
+  radius 8
+  fontSize 11
+  fontName Verdana
+}
+
+skinparam class {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+
+  attributeFontColor 333
+  attributeFontSize 11
+  attributeIconSize 11
+}
+
+
+skinparam actor {
+    backgroundColor 2a86e2
+  borderColor 1a66c2
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam participant {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam collections {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam SequenceBox{
+    backgroundColor e0e0e0
+  borderColor cccccc
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam interface {
+    backgroundColor 2a86e2
+  borderColor 1a66c2
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam component {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam node {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam database {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam queue {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam usecase {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam activity {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam sequence {
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+
+  lifeLineBorderColor 2a86e2
+  lifeLineBackgroundColor e0e0e0
+}
+
+skinparam boundary {
+    backgroundColor 2a86e2
+  borderColor 1a66c2
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam control {
+    backgroundColor 2a86e2
+  borderColor 1a66c2
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam entity {
+    backgroundColor 2a86e2
+  borderColor 1a66c2
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam state {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+  startColor 2a86e2
+  endColor 1a66c2
+}
+
+
+skinparam object {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+
+skinparam note {
+    backgroundColor 2a86e2
+  borderColor 1a66c2
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam cloud {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam rectangle {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam storage {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+skinparam Linetype polyline
+skinparam PackageBorderThickness 0.5
+skinparam Shadowing false
+skinparam ArrowFontSize 20
+skinparam ArrowFontColor blue
+set namespaceSeparator ::
+
+class App {
+    + {static} LOGGER : Logger
+    + {static} void main(String[] args)
+    + void helpTable()
+}
+
+interface Extractor::Extractor {
+    + Document getDocument(String url)
+    + Elements getAllWikiTable(Document doc)
+    + Element getWikiTable(Document doc, int index)
+    + Elements getAllFirstWikiTable(Document doc) 
+}
+
+class Extractor::WikipediaHTMLExtractor implements Extractor::Extractor{
+    - table_tag : String
+    - wikitable_class : String
+}
+
+interface Convertor::Convertor {
+    + String[][] toStringTable(Element table);
+    + ArrayList<String[][]> toStringTables(Elements tables);
+}
+
+class Convertor::WikipediaHTMLConvertor implements Convertor::Convertor {}
+class Convertor::WikipediaHTMLConvertorPlus implements Convertor::Convertor {}
+
+abstract class Serializer::Serializer {
+    - save_path : Path
+    - invalid_char : String
+    + Path getPath(String file_name)
+    + void saveToCSV(String[][] string_table, String file_name)
+    + {static} String mkCSVFileName(String url, int n)
+}
+
+class Serializer::WikipediaHTMLSerializer extends Serializer::Serializer {
+    + WikipediaHTMLSerializer()
+    + WikipediaHTMLSerializer(String save_path)
+}
+
+abstract class TemplateHTML::Balise::Balise {
+    - tag : String
+    - self : Element
+    - parent: Balise
+    - children : ArrayList<Balise>
+    - span_row : int
+    - span_coll : int
+    - depth : int
+    - from_table : boolean
+    - grid : Grid
+
+    + Balise(String tag, boolean from_table)
+    + {abstract} void accept(Visitor visitor)
+    + {abstract} String getInfo()
+    + int nextRowPos()
+    + boolean isFinal()
+    + void init(Element self, Balise parent, int depth)
+    + void initGrid()
+    + void initGrid(boolean is_final)
+
+    + Grid getGrid()
+    + String getTag()
+    + Element getElement()
+    + Balise getParent()
+    + ArrayList<Balise> getChildren()
+    + int getSpanRow()
+    + int getSpanCol()
+    + int getDepth()
+    + boolean getFromTable()
+
+    + void addChild(Balise child)
+    + void setGrid(Grid grid)
+    + String toString()
+    + {abstract} Balise newInstance()
+}
+
+class TemplateHTML::Balise::A extends TemplateHTML::Balise::Balise {
+    + A()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Img extends TemplateHTML::Balise::Balise {
+    + Img()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Table extends TemplateHTML::Balise::Balise {
+    + Table()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + void initGrid()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Tbody extends TemplateHTML::Balise::Balise {
+    + Tbody()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Td extends TemplateHTML::Balise::Balise {
+    + Td()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Tfoot extends TemplateHTML::Balise::Balise {
+    + Tfoot()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Th extends TemplateHTML::Balise::Balise {
+    + Th()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Thead extends TemplateHTML::Balise::Balise {
+    + Thead()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Tr extends TemplateHTML::Balise::Balise {
+    + Tr()
+    + void accept(Visitor visitor)
+    + int nextRowPos()
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Void extends TemplateHTML::Balise::Balise {
+    + Void()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+interface TemplateHTML::Visitor::Visitor {
+    + void Table(Table table)
+    + void Thead(Thead thead)
+    + void Tbody(Tbody tbody)
+    + void Tfoot(Tfoot tfoot)
+    + void Tr(Tr tr)
+    + void Th(Th th)
+    + void Td(Td td)
+    + void A(A a)
+    + void Img(Img img)
+}
+
+class TemplateHTML::Visitor::CreateVisitor implements TemplateHTML::Visitor::Visitor {
+    - controler : Controler
+    + depth_balise : List<List<Balise>>
+    - void createChildren(Balise balise)
+}
+
+class TemplateHTML::Visitor::GridVisitor implements TemplateHTML::Visitor::Visitor {
+    + List<Grid> getGrids(Balise balise)
+    - void spanGrid(Balise balise)
+    - void mergeCol(Balise balise)
+    - void mergeRow(Balise balise)
+}
+
+class TemplateHTML::Visitor::ShowVisitor implements TemplateHTML::Visitor::Visitor {
+    - void showChildren(Balise balise)
+}
+
+class TemplateHTML::Visitor::TableVisitor implements TemplateHTML::Visitor::Visitor {
+    + table : List<Balise>
+    - void visitChildren(Balise balise)
+}
+
+class TemplateHTML::Controler::Controler {
+    - balise : Balise[]
+    - tag_map : Map<String, Balise>
+    + Controler()
+    + Balise getBalise(Element child)
+}
+
+class TemplateHTML::Grid::Grid {
+    - grid : List<List<Balise>>
+    - from_table : boolean
+    + {static} DEFAULT_VALUE : Balise
+    + Grid()
+    + Grid(Balise final_balise)
+    + void span(int span_row, int span_col)
+    + void mergeRow(Grid grid_row, int i)
+    + void mergeCol(Grid grid_col, int j)
+    + boolean isEmpty(int i, int j)
+    + Balise getValue(int i, int j)
+    + void setValue(Balise value, int i, int j)
+    + Grid expend()
+    + void squareUp()
+    + String[][] toStringArray()
+
+    + int getMaxColSize()
+    + int getRowSize()
+    + List<Balise> getRow(int i)
+    + boolean getFromTable()
+
+    + void setFromTable(boolean from_table)
+    + String toString()
+
+}
+
+App "<back:white>1"- -"<back:white>*" Extractor::Extractor
+App "<back:white>1"- -"<back:white>*" Convertor::Convertor
+App "<back:white>1"- -"<back:white>*" Serializer::Serializer
+
+Convertor::WikipediaHTMLConvertorPlus - ->"<back:white>*" TemplateHTML::Balise::Balise
+
+TemplateHTML::Balise::Balise o- - "<back:white>*" TemplateHTML::Balise::Balise
+TemplateHTML::Balise::Balise o- - "<back:white>1" TemplateHTML::Balise::Balise
+
+Convertor::WikipediaHTMLConvertorPlus - ->"<back:white>*" TemplateHTML::Visitor::Visitor
+TemplateHTML::Visitor::Visitor "<back:white>1"- -"<back:white>*" TemplateHTML::Balise::Balise
+
+TemplateHTML::Visitor::CreateVisitor *- -"<back:white>1" TemplateHTML::Controler::Controler
+TemplateHTML::Controler::Controler *- -"<back:white>9" TemplateHTML::Balise::Balise
+
+TemplateHTML::Visitor::TableVisitor o- -"<back:white>1..*" TemplateHTML::Balise::Balise
+
+TemplateHTML::Grid::Grid o- -"<back:white>*" TemplateHTML::Balise::Balise
+TemplateHTML::Balise::Balise *- -"<back:white>1" TemplateHTML::Grid::Grid
+TemplateHTML::Visitor::GridVisitor -r->"<back:white>*" TemplateHTML::Grid::Grid
+Convertor::WikipediaHTMLConvertorPlus -u->"<back:white>1" TemplateHTML::Grid::Grid
+@enduml
+
+PlantUML version 1.2022.0(Tue Jan 11 17:16:42 CET 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: fr
+Country: FR
+--></g></svg>

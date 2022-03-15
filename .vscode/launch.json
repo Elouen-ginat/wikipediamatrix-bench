@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-App<wikimatrix>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "fr.univrennes1.istic.wikipediamatrix.App",
+            "projectName": "wikimatrix",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

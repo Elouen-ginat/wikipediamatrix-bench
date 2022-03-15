@@ -1,0 +1,246 @@
+@startuml "Wikipedia_table_extractor"
+
+!theme reddress-lightblue
+skinparam Linetype polyline
+skinparam PackageBorderThickness 0.5
+skinparam Shadowing false
+skinparam ArrowFontSize 20
+skinparam ArrowFontColor blue
+set namespaceSeparator ::
+
+class App {
+    + {static} LOGGER : Logger
+    + {static} void main(String[] args)
+    + void helpTable()
+}
+
+interface Extractor::Extractor {
+    + Document getDocument(String url)
+    + Elements getAllWikiTable(Document doc)
+    + Element getWikiTable(Document doc, int index)
+    + Elements getAllFirstWikiTable(Document doc) 
+}
+
+class Extractor::WikipediaHTMLExtractor implements Extractor::Extractor{
+    - table_tag : String
+    - wikitable_class : String
+}
+
+interface Convertor::Convertor {
+    + String[][] toStringTable(Element table);
+    + ArrayList<String[][]> toStringTables(Elements tables);
+}
+
+class Convertor::WikipediaHTMLConvertor implements Convertor::Convertor {}
+class Convertor::WikipediaHTMLConvertorPlus implements Convertor::Convertor {}
+
+abstract class Serializer::Serializer {
+    - save_path : Path
+    - invalid_char : String
+    + Path getPath(String file_name)
+    + void saveToCSV(String[][] string_table, String file_name)
+    + {static} String mkCSVFileName(String url, int n)
+}
+
+class Serializer::WikipediaHTMLSerializer extends Serializer::Serializer {
+    + WikipediaHTMLSerializer()
+    + WikipediaHTMLSerializer(String save_path)
+}
+
+abstract class TemplateHTML::Balise::Balise {
+    - tag : String
+    - self : Element
+    - parent: Balise
+    - children : ArrayList<Balise>
+    - span_row : int
+    - span_coll : int
+    - depth : int
+    - from_table : boolean
+    - grid : Grid
+
+    + Balise(String tag, boolean from_table)
+    + {abstract} void accept(Visitor visitor)
+    + {abstract} String getInfo()
+    + int nextRowPos()
+    + boolean isFinal()
+    + void init(Element self, Balise parent, int depth)
+    + void initGrid()
+    + void initGrid(boolean is_final)
+
+    + Grid getGrid()
+    + String getTag()
+    + Element getElement()
+    + Balise getParent()
+    + ArrayList<Balise> getChildren()
+    + int getSpanRow()
+    + int getSpanCol()
+    + int getDepth()
+    + boolean getFromTable()
+
+    + void addChild(Balise child)
+    + void setGrid(Grid grid)
+    + String toString()
+    + {abstract} Balise newInstance()
+}
+
+class TemplateHTML::Balise::A extends TemplateHTML::Balise::Balise {
+    + A()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Img extends TemplateHTML::Balise::Balise {
+    + Img()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Table extends TemplateHTML::Balise::Balise {
+    + Table()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + void initGrid()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Tbody extends TemplateHTML::Balise::Balise {
+    + Tbody()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Td extends TemplateHTML::Balise::Balise {
+    + Td()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Tfoot extends TemplateHTML::Balise::Balise {
+    + Tfoot()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Th extends TemplateHTML::Balise::Balise {
+    + Th()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Thead extends TemplateHTML::Balise::Balise {
+    + Thead()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Tr extends TemplateHTML::Balise::Balise {
+    + Tr()
+    + void accept(Visitor visitor)
+    + int nextRowPos()
+    + String getInfo()
+    + Balise newInstance()
+}
+
+class TemplateHTML::Balise::Void extends TemplateHTML::Balise::Balise {
+    + Void()
+    + void accept(Visitor visitor)
+    + String getInfo()
+    + Balise newInstance()
+}
+
+interface TemplateHTML::Visitor::Visitor {
+    + void Table(Table table)
+    + void Thead(Thead thead)
+    + void Tbody(Tbody tbody)
+    + void Tfoot(Tfoot tfoot)
+    + void Tr(Tr tr)
+    + void Th(Th th)
+    + void Td(Td td)
+    + void A(A a)
+    + void Img(Img img)
+}
+
+class TemplateHTML::Visitor::CreateVisitor implements TemplateHTML::Visitor::Visitor {
+    - controler : Controler
+    + depth_balise : List<List<Balise>>
+    - void createChildren(Balise balise)
+}
+
+class TemplateHTML::Visitor::GridVisitor implements TemplateHTML::Visitor::Visitor {
+    + List<Grid> getGrids(Balise balise)
+    - void spanGrid(Balise balise)
+    - void mergeCol(Balise balise)
+    - void mergeRow(Balise balise)
+}
+
+class TemplateHTML::Visitor::ShowVisitor implements TemplateHTML::Visitor::Visitor {
+    - void showChildren(Balise balise)
+}
+
+class TemplateHTML::Visitor::TableVisitor implements TemplateHTML::Visitor::Visitor {
+    + table : List<Balise>
+    - void visitChildren(Balise balise)
+}
+
+class TemplateHTML::Controler::Controler {
+    - balise : Balise[]
+    - tag_map : Map<String, Balise>
+    + Controler()
+    + Balise getBalise(Element child)
+}
+
+class TemplateHTML::Grid::Grid {
+    - grid : List<List<Balise>>
+    - from_table : boolean
+    + {static} DEFAULT_VALUE : Balise
+    + Grid()
+    + Grid(Balise final_balise)
+    + void span(int span_row, int span_col)
+    + void mergeRow(Grid grid_row, int i)
+    + void mergeCol(Grid grid_col, int j)
+    + boolean isEmpty(int i, int j)
+    + Balise getValue(int i, int j)
+    + void setValue(Balise value, int i, int j)
+    + Grid expend()
+    + void squareUp()
+    + String[][] toStringArray()
+
+    + int getMaxColSize()
+    + int getRowSize()
+    + List<Balise> getRow(int i)
+    + boolean getFromTable()
+
+    + void setFromTable(boolean from_table)
+    + String toString()
+
+}
+
+App "<back:white>1"--"<back:white>*" Extractor::Extractor
+App "<back:white>1"--"<back:white>*" Convertor::Convertor
+App "<back:white>1"--"<back:white>*" Serializer::Serializer
+
+Convertor::WikipediaHTMLConvertorPlus -->"<back:white>*" TemplateHTML::Balise::Balise
+
+TemplateHTML::Balise::Balise o-- "<back:white>*" TemplateHTML::Balise::Balise
+TemplateHTML::Balise::Balise o-- "<back:white>1" TemplateHTML::Balise::Balise
+
+Convertor::WikipediaHTMLConvertorPlus -->"<back:white>*" TemplateHTML::Visitor::Visitor
+TemplateHTML::Visitor::Visitor "<back:white>1"--"<back:white>*" TemplateHTML::Balise::Balise
+
+TemplateHTML::Visitor::CreateVisitor *--"<back:white>1" TemplateHTML::Controler::Controler
+TemplateHTML::Controler::Controler *--"<back:white>9" TemplateHTML::Balise::Balise
+
+TemplateHTML::Visitor::TableVisitor o--"<back:white>1..*" TemplateHTML::Balise::Balise
+
+TemplateHTML::Grid::Grid o--"<back:white>*" TemplateHTML::Balise::Balise
+TemplateHTML::Balise::Balise *--"<back:white>1" TemplateHTML::Grid::Grid
+TemplateHTML::Visitor::GridVisitor -r->"<back:white>*" TemplateHTML::Grid::Grid
+Convertor::WikipediaHTMLConvertorPlus -u->"<back:white>1" TemplateHTML::Grid::Grid
+@enduml
