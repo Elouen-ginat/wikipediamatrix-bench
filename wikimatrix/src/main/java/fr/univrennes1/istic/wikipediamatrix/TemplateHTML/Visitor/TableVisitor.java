@@ -17,9 +17,9 @@ import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Img;
 
 public class TableVisitor implements Visitor {
 
-    public  List<Balise> tables = new ArrayList<Balise>();
+    public List<Balise> tables = new ArrayList<Balise>();
 
-    public void visitChildren(Balise balise) {
+    private void visitChildren(Balise balise) {
         for (Balise child : balise.getChildren()) {
             child.accept(this);
         }

@@ -21,7 +21,7 @@ import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Img;
 
 public class CreateVisitor implements Visitor {
 
-    Controler controler;
+    private Controler controler;
 
     public CreateVisitor() {
         this.controler = new Controler();

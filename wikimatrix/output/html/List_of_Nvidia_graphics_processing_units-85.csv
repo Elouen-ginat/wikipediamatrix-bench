@@ -118,7 +118,7 @@ FMA , URL: /wiki/Fused_multiply%E2%80%93add
 "A10 GPU accelerator (PCIe card)[345]","Ampere , URL: /wiki/Ampere_(microarchitecture)
 ","April 12th, 2021","1× GA102-890-A1","N/A","9216","885","1695","GDDR6","384","24","Unknown","600","No","31240","976","8.6","150","PCIe card (single-slot)"
 "A16 GPU accelerator (PCIe card)[346]","Ampere , URL: /wiki/Ampere_(microarchitecture)
-","April 12th, 2021","4× GA107","N/A","10240","885","1695","GDDR6","4x 128","4x 16","Unknown","4x 231.9","No","34712","1084.8","8.6","250","PCIe card (dual-slot)"
+","April 12th, 2021","4× GA107","N/A","4× 1280","885","1695","GDDR6","4× 128","4× 16","Unknown","4× 200","No","4× 4608","1084.8","8.6","250","PCIe card (dual-slot)"
 "A30 GPU accelerator (PCIe card)[347]","Ampere , URL: /wiki/Ampere_(microarchitecture)
 ","April 12th, 2021","1× GA100","N/A","3584","930","1440","HBM2","3072","24","Unknown","933.1","No","10320","5161","8.0","165","PCIe card (dual-slot)"
 "A40 GPU accelerator (PCIe card)[348]","Ampere , URL: /wiki/Ampere_(microarchitecture)

@@ -15,7 +15,7 @@ import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Img;
 public class ShowVisitor implements Visitor {
 
 
-    public void showChildren(Balise balise) {
+    private void showChildren(Balise balise) {
         if (balise.getDepth() == 0) {
             App.LOGGER.debug(balise.toString());
         }

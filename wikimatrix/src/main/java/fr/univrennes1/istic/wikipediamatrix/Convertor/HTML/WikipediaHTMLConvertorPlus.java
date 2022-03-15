@@ -24,7 +24,7 @@ public class WikipediaHTMLConvertorPlus implements Convertor {
     public String[][] toStringTable(Element table) {
         
         // Creation of the tree
-        Table first_table = new Table();
+        Balise first_table = new Table();
         first_table.init(table, null, 0);
         CreateVisitor create_visitor = new CreateVisitor();
         first_table.accept(create_visitor);

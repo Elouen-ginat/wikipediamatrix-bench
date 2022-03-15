@@ -13,9 +13,9 @@ import fr.univrennes1.istic.wikipediamatrix.TemplateHTML.Balise.Table;
 public class WikipediaHTMLExtractor implements Extractor{
 
     // Get the tag of the table balise
-    String table_tag = new Table().getTag();
+    private String table_tag = new Table().getTag();
     // Wiki table class
-    String wikitable_class = "wikitable";
+    private String wikitable_class = "wikitable";
 
     @Override
     public Document getDocument(String url) throws Exception {

@@ -24,7 +24,7 @@ public class Controler {
                                 new Td(), new Th(), new Tr(), new A(), new Img()};
 
     // Mapping from tag name to the corresponding object
-    Map<String, Balise> tag_map = new HashMap<String, Balise>();
+    private Map<String, Balise> tag_map = new HashMap<String, Balise>();
 
     public Controler() {
         // Filling the Hashmap

@@ -304,6 +304,11 @@ Object REXX , URL: /wiki/Object_REXX
 ","No","Yes","No","No","No","","Yes 1996 (ANSI X3.274-1996)"
 "RPG , URL: /wiki/IBM_RPG
 ","Application, system","Yes","No","No","Yes","No","No","No","","No"
+"Ring , URL: /wiki/Ring_(programming_language)
+","Application","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Metaprogramming , URL: /wiki/Metaprogramming
+Declarative programming , URL: /wiki/Declarative_programming
+Natural-language programming , URL: /wiki/Natural-language_programming
+","No"
 "Ruby , URL: /wiki/Ruby_(programming_language)
 ","Application, scripting, web","Yes","Yes","Yes","No","No","Yes","No","Aspect-oriented","Yes 2011(JIS X 3017), 2012(ISO/IEC 30170)"
 "Rust , URL: /wiki/Rust_(programming_language)

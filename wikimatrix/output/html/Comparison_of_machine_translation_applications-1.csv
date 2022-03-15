@@ -220,7 +220,7 @@ Bokmål , URL: /wiki/Bokm%C3%A5l
 "Slovene , URL: /wiki/Slovene_language
 ","Yes","Yes","Yes","Yes","Yes"
 "Somali , URL: /wiki/Somali_language
-","Yes","No","No","Yes","No"
+","Yes","Yes","No","Yes","No"
 "Sotho , URL: /wiki/Sotho_language
 ","Yes","No","No","No","No"
 "Spanish , URL: /wiki/Spanish_language
@@ -288,4 +288,4 @@ Filipino , URL: /wiki/Filipino_language
 ","No","Yes","No","No","No"
 "Zulu , URL: /wiki/Zulu_language
 ","Yes","No","Yes","No","No"
-"Total (confirmed)","109","102","97","74","54"
+"Total (confirmed)","109","103","97","74","54"

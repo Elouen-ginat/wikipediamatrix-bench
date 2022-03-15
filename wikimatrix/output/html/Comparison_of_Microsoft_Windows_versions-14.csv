@@ -37,6 +37,6 @@ x64 , URL: /wiki/X86-64
 "Windows Server 2016 , URL: /wiki/Windows_Server_2016
 ","1.4 GHz 64-bit processor","512 MB ECC 2 GB with Desktop Experience installed[9]","depends on role","32 GB (~10 GB for OS)","XGA (1024 x768)"
 "Windows Server 2019 , URL: /wiki/Windows_Server_2019
-","1.4 GHz 64-bit processor","512 MB ECC 2 GB with Desktop Experience installed[10]","depends on role","32 GB","XGA (1024 x768)"
+","1.4 GHz 64-bit processor","512 MB ECC 2 GB with Desktop Experience installed[9]","depends on role","32 GB","XGA (1024 x768)"
 "Windows 11 , URL: /wiki/Windows_11
 ","64-bit 1 GHz or faster processor or SoC with two or more cores","4 GB","N/A","64 GB (~10 GB for OS)","720p greater than 9” diagonally, 32-bit color"
