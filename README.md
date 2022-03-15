@@ -47,11 +47,7 @@ Converting Wikipedia tables from HTML to CSV format is not an easy task, as choi
 
 In order to access the HTML content of Wikipedia pages, we used Jsoup. This package allows an easy way to navigate in the DOM. 
 However, HTML tables are way more versatile than the CSV format can afford. View the example bellow
-
-<style>table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}</style>                            
+                           
 <table>
 <tr>
 <td></td>
@@ -273,7 +269,7 @@ The architecture of this app is <b>four</b> main parts:
 
 Here is the class diagram of the core project. The test and the web part are not included. 
 
-![Class diagram of the project](out\UML\classes\Wikipedia_table_extractor.svg)
+![Class diagram of the project](out/UML/classes/Wikipedia_table_extractor.svg)
 
 We found the three first parts of the core at the top right. But the conversion is done mostly in the `WikipediaHTMLConvertorPlus` class.
 
