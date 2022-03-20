@@ -11,8 +11,6 @@
 ","Optional[FSIO 1]"
 "Ballerina , URL: /wiki/Ballerina_(programming_language)
 ","Yes"
-"Bro , URL: /wiki/Bro_(software)
-","Yes"
 "C , URL: /wiki/C_(programming_language)
 ","No[FSIO 2]"
 "C++ , URL: /wiki/C%2B%2B
@@ -113,4 +111,6 @@ POSIX , URL: /wiki/C_POSIX_library
 "XPath , URL: /wiki/XPath
 XQuery , URL: /wiki/XQuery
 ","Yes (exceptions)"
+"Zeek , URL: /wiki/Zeek
+","Yes"
 "Language","Failsafe I/O"

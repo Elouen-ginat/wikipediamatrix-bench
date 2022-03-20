@@ -274,7 +274,7 @@ Here is the class diagram of the core project. The test and the web part are not
 We found the three first parts of the core at the top right. But the conversion is done mostly in the `WikipediaHTMLConvertorPlus` class.
 
 The first idea is to reproduce the HTLM tree structure in java. This is done by the `Balise` class that store other balise as children or parent. For each type of HTML balise exists a `Balise` class that mimics the corresponding HTML behaviors. To make the correspondence between the HTML tag and the `Balise` class, the `Controller` uses a predefined `HashMap`.
-To create and then explore this tree a visitor pattern is used. To convert from HTML to CSV we first create the tree by using the `CreateVisitor`. Then we calculate the grid of children balise (except table ones) with the `GridVisitor`. After that, we calculate only tables grids thanks to the `TableVisitor`. Finally, the first table in the tree is expanded (if there is nested tables) to make the final grids of balise. Finally, the grid of balise is transformed to a grid of strings that is returned. 
+To create and then explore this tree a visitor pattern is used. To convert from HTML to CSV we first create the tree by using the `CreateVisitor`. Then we calculate the grid of each balise (except table ones) with the `GridVisitor`. After that, we calculate only tables grids thanks to the `TableVisitor`. Finally, the first table in the tree is expanded (if there is nested tables) to make the final grids of balise. Finally, the grid of balise is transformed to a grid of strings that is returned. 
 
 ## Testing
 
@@ -286,6 +286,13 @@ We give 300+ Wikipedia URLs and the challenge is to:
 More details can be found in `BenchTest.java`. We are expecting to launch `mvn test` and the results will be in `output` folder 
 
 ## Limitations
+
+One limitation of the actual application is its liimited "knowledge" of HTML. In fact, only 9 HTML balise are taken into account by the convertor. However, adding new balise is easy.
+Also, nested tables are not quite fully supported. The issue is that when two ore more nested tables are on the same row or columns and don't have the same dimensions, empty cells are created to fill the gaps. The logical way being that each and every row/col of the first table must correspond to each and every row/col of the second. The behaviour was hard to implement but can be added in the `expend()` method of the class `grid`. However, in this case, tables sizes can grow exponentialy to the number of nested tables. 
+
+
+
+
 
 
 

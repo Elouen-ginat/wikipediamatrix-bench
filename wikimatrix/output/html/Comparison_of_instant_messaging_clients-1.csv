@@ -18,7 +18,7 @@
 "Gajim , URL: /wiki/Gajim
 ","Yes","No","Yes","No","No","No"
 "Google Messages (RCS) , URL: /wiki/Messages_(Google)
-","No[a]","No[a]","Needs third-party client[a][76]","Yes","Yes","No"
+","No[a]","No[a]","Needs third-party client[a][77]","Yes","Yes","No"
 "ICQ , URL: /wiki/ICQ
 ","Yes","Yes","Yes","Yes","Yes","Yes"
 "Jami , URL: /wiki/Jami_(software)
@@ -45,7 +45,7 @@
 "Messages , URL: /wiki/Messages_(Apple)
 ","No","Yes","No","No","No","Yes"
 "Messenger , URL: /wiki/Messenger_(software)
-","Yes","Yes","Needs third-party client[a][78]","Yes","Yes","Yes"
+","Yes","Yes","Needs third-party client[a][79]","Yes","Yes","Yes"
 "Movim , URL: /wiki/Movim
 ","Yes","Yes","Yes","Yes","Yes","Yes"
 "Palringo , URL: /wiki/Palringo
@@ -79,7 +79,7 @@
 "Telegram , URL: /wiki/Telegram_(software)
 ","Yes","Yes","Yes","Yes","Yes","Yes"
 "Tencent QQ , URL: /wiki/Tencent_QQ
-","Yes","Yes","Partial[79][a]","Yes","Yes","Yes"
+","Yes","Yes","Partial[80][a]","Yes","Yes","Yes"
 "Threema , URL: /wiki/Threema
 ","No[a]","No[a]","No[a]","Yes","Yes","Yes"
 "Trillian , URL: /wiki/Trillian_(software)
@@ -87,9 +87,9 @@
 "Viber , URL: /wiki/Viber
 ","Yes","Yes","Yes","No","Yes","Yes"
 "WeChat , URL: /wiki/WeChat
-","Yes","Yes","Needs third-party client[a][80]","Yes","Yes","Yes"
+","Yes","Yes","Needs third-party client[a][81]","Yes","Yes","Yes"
 "WhatsApp , URL: /wiki/WhatsApp
-","Yes","Yes","Needs third-party client[a][82][83][84]","Yes","Yes","Yes"
+","Yes","Yes","Needs third-party client[a][83][84][85]","Yes","Yes","Yes"
 "Wickr Me , URL: /wiki/Wickr
 ","Yes","Yes","Yes","No","Yes","Yes"
 "Wire , URL: /wiki/Wire_(software)

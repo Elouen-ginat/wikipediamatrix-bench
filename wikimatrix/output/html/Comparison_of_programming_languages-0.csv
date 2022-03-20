@@ -74,8 +74,6 @@ scripting , URL: /wiki/Scripting_language
 ","Application, game","Yes","Yes","No","Yes","No","Yes","No","","No"
 "Boo , URL: /wiki/Boo_(programming_language)
 ","Application, game scripting","No","Yes","No","No","No","No","No","","No"
-"Bro , URL: /wiki/Bro_(software)
-","Domain-specific, application","Yes","No","No","No","No","No","Yes","","No"
 "C , URL: /wiki/C_(programming_language)
 ","Application, system,[15] general purpose, low-level operations","Yes","No","No","Yes","No","No","No","","ANSI C89, ISO C90, ISO C99, ISO C11, ISO C18 , URL: /wiki/ANSI_C
 "
@@ -158,7 +156,7 @@ stepwise refinement , URL: /wiki/Top-down_and_bottom-up_design
 "GLBasic , URL: /wiki/GLBasic
 ","Application, games","Yes","Yes","No","Yes","No","No","No","Simple object-oriented","No"
 "Go , URL: /wiki/Go_(programming_language)
-","Application, web, server-side","Yes","No[26]","No","Yes","No","Yes","Yes","Concurrent","De facto standard via Go Language Specification"
+","Application, web, server-side","Yes","Can be viewed as[26]","No","Yes","Yes","Yes","Yes","Concurrent","De facto standard via Go Language Specification"
 "Gosu , URL: /wiki/Gosu_(programming_language)
 ","Application, general, scripting, web","Yes","Yes","No","No","Yes","Yes","No","","No"
 "GraphTalk , URL: /wiki/GraphTalk
@@ -359,5 +357,7 @@ multi-threaded , URL: /wiki/Multi-threaded
 XQuery , URL: /wiki/XQuery
 ","Databases, data processing, scripting","No","No","Yes","No","No","No","No","Tree-oriented , URL: /wiki/Tree_(data_structure)
 ","Yes 1999 W3C XPath 1, 2010 W3C XQuery 1, 2014 W3C XPath/XQuery 3.0"
+"Zeek , URL: /wiki/Zeek
+","Domain-specific, application","Yes","No","No","No","No","No","Yes","","No"
 "Zsh , URL: /wiki/Z_shell
 ","Shell, scripting","Yes","No","No","Yes","No","No","No","Loadable modules","No"

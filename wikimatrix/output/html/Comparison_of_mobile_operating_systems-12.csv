@@ -27,5 +27,5 @@ Control Center , URL: /wiki/Control_Center_(iOS)
 "Core apps missing search","HTC Sense , URL: /wiki/HTC_Sense
 ","Bookmarks[321]","?","?","?"
 "Phone number links to dialer","Available in stock Android, but not all devices enable it.[322]","Yes","Yes, but not in browser","Yes","Yes"
-"Addresses links to maps","Yes","Yes[323]","?","Yes","?"
-"Dates links to calendar","No","Yes[324]","Yes","Yes","?"
+"Addresses links to maps","In Contacts, but not in Calendar[323] nor in Gmail[324]","Yes[325]","?","Yes","?"
+"Dates links to calendar","No","Yes[326]","Yes","Yes","?"

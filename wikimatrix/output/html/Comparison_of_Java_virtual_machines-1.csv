@@ -1,7 +1,7 @@
 "JVM","Status","Latest supported Java version","Supported class libraries","Supported class libraries","Supported class libraries","Performance","Performance","Performance"
 "JVM","Status","Latest supported Java version","GNU Classpath , URL: /wiki/GNU_Classpath
 ","OpenJDK , URL: /wiki/OpenJDK
-","Other","Interpretation","AOT , URL: /wiki/AOT_compiler
+","Other","Interpretation","AOT , URL: /wiki/Ahead-of-time_compilation
 ","JIT , URL: /wiki/Just-in-time_compilation
 "
 "GCJ , URL: /wiki/GNU_Compiler_for_Java

@@ -4,9 +4,9 @@
 ","Sailfish OS , URL: /wiki/Sailfish_OS
 ","Ubuntu Touch , URL: /wiki/Ubuntu_Touch
 "
-"Custom ringtones","Yes","Yes[325]","Yes","Yes","Yes"
-"Custom SMS/MMS tones","Yes[326]","5+[327]","?","Yes","No"
-"Custom vibrate alert patterns","No,[328] possible on some Samsung devices such as Galaxy S III, but limited[329]","5+[330][331]","?","API available for 3rd party apps","No"
+"Custom ringtones","Yes","Yes[327]","Yes","Yes","Yes"
+"Custom SMS/MMS tones","Yes[328]","5+[329]","?","Yes","No"
+"Custom vibrate alert patterns","No,[330] possible on some Samsung devices such as Galaxy S III, but limited[331]","5+[332][333]","?","API available for 3rd party apps","No"
 "alarm clock , URL: /wiki/Alarm_clock
-","4.4+[332]","No[333]","No","?","Yes"
-"Tap to snooze[334]","3rd party apps[335]","Yes","No","Swipe down","Yes"
+","4.4+[334]","No[335]","No","?","Yes"
+"Tap to snooze[336]","3rd party apps[337]","Yes","No","Swipe down","Yes"

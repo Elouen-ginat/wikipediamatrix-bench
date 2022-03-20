@@ -233,7 +233,7 @@ SDES , URL: /wiki/SDES
 ZRTP , URL: /wiki/ZRTP
 TLS , URL: /wiki/Transport_Layer_Security
 ","No limit","Blockchain , URL: /wiki/Blockchain
-","iOS","3.28 / December 17, 2021; 2 months ago (2021-12-17)[14]"
+","iOS","3.28 / December 17, 2021; 3 months ago (2021-12-17)[14]"
 "Jami , URL: /wiki/Jami_(software)
 Savoir-faire Linux , URL: /wiki/Savoir-faire_Linux
 ","Android , URL: /wiki/Android_(Operating_System)
@@ -335,7 +335,7 @@ SDES , URL: /wiki/SDES
 ZRTP , URL: /wiki/ZRTP
 TLS , URL: /wiki/Transport_Layer_Security
 ","No limit","Blockchain , URL: /wiki/Blockchain
-","macOS","2.10 / December 16, 2021; 2 months ago (2021-12-16)[17]"
+","macOS","2.10 / December 16, 2021; 3 months ago (2021-12-16)[17]"
 "Jitsi , URL: /wiki/Jitsi
 ","Linux , URL: /wiki/Linux
 macOS , URL: /wiki/MacOS
@@ -475,7 +475,7 @@ OCB-AES128 , URL: /wiki/OCB_mode
 ","No limit (limited only by server bandwidth and memory)","Automatic Gain Control , URL: /wiki/Automatic_Gain_Control
 latency , URL: /wiki/Latency_(audio)
 Access Control Lists , URL: /wiki/Access_Control_Lists
-","1.4.230; January 16, 2022; 55 days ago (2022-01-16)","1.4.230; January 16, 2022; 55 days ago (2022-01-16)"
+","1.4.230; January 16, 2022; 2 months ago (2022-01-16)","1.4.230; January 16, 2022; 2 months ago (2022-01-16)"
 "Nymgo , URL: /wiki/Nymgo
 ","Windows , URL: /wiki/Microsoft_Windows
 Android , URL: /wiki/Android_(operating_system)
@@ -530,7 +530,7 @@ Opus , URL: /wiki/Opus_(audio_codec)
 ","TLS , URL: /wiki/Transport_Layer_Security
 SRTP , URL: /wiki/Secure_Real-time_Transport_Protocol
 ZRTP , URL: /wiki/ZRTP
-","8","Conferencing, call redirection, call recording","3.00 (18 February 2022; 22 days ago (2022-02-18)) [±][23]","3.00 (18 February 2022; 22 days ago (2022-02-18)) [±][23]"
+","8","Conferencing, call redirection, call recording","3.00 (18 February 2022; 28 days ago (2022-02-18)) [±][23]","3.00 (18 February 2022; 28 days ago (2022-02-18)) [±][23]"
 "QuteCom , URL: /wiki/QuteCom
 ","Linux , URL: /wiki/Linux
 macOS , URL: /wiki/MacOS
@@ -617,7 +617,7 @@ PSP , URL: /wiki/PlayStation_Portable
 ","TLS , URL: /wiki/Transport_Layer_Security
 ","25 starting with version 3.6.0.216. 10 with 2.x","Conferencing, video, file transfer, voicemail, Skype to phone, phone to Skype, additional P2P extensions (games, whiteboard, etc...); depending on platform.","Windows , URL: /wiki/Windows
 UWP , URL: /wiki/Universal_Windows_Platform_apps
-","15.80.194.0 / 1 February 2022; 39 days ago (2022-02-01)[31]"
+","15.80.194.0 / 1 February 2022; 45 days ago (2022-02-01)[31]"
 "Skype , URL: /wiki/Skype
 ","Linux , URL: /wiki/Linux
 macOS , URL: /wiki/MacOS
@@ -632,7 +632,7 @@ PSP , URL: /wiki/PlayStation_Portable
 ","Free","Proprietary P2P protocol [a]","SILK , URL: /wiki/SILK
 ","TLS , URL: /wiki/Transport_Layer_Security
 ","25 starting with version 3.6.0.216. 10 with 2.x","Conferencing, video, file transfer, voicemail, Skype to phone, phone to Skype, additional P2P extensions (games, whiteboard, etc...); depending on platform.","Windows , URL: /wiki/Windows
-","8.81.0.268 / 14 February 2022; 26 days ago (2022-02-14)[31]"
+","8.81.0.268 / 14 February 2022; 32 days ago (2022-02-14)[31]"
 "Skype , URL: /wiki/Skype
 ","Linux , URL: /wiki/Linux
 macOS , URL: /wiki/MacOS
@@ -647,7 +647,7 @@ PSP , URL: /wiki/PlayStation_Portable
 ","Free","Proprietary P2P protocol [a]","SILK , URL: /wiki/SILK
 ","TLS , URL: /wiki/Transport_Layer_Security
 ","25 starting with version 3.6.0.216. 10 with 2.x","Conferencing, video, file transfer, voicemail, Skype to phone, phone to Skype, additional P2P extensions (games, whiteboard, etc...); depending on platform.","macOS , URL: /wiki/MacOS
-","8.81.0.268 / 14 February 2022; 26 days ago (2022-02-14)[31]"
+","8.81.0.268 / 14 February 2022; 32 days ago (2022-02-14)[31]"
 "Skype , URL: /wiki/Skype
 ","Linux , URL: /wiki/Linux
 macOS , URL: /wiki/MacOS
@@ -662,7 +662,7 @@ PSP , URL: /wiki/PlayStation_Portable
 ","Free","Proprietary P2P protocol [a]","SILK , URL: /wiki/SILK
 ","TLS , URL: /wiki/Transport_Layer_Security
 ","25 starting with version 3.6.0.216. 10 with 2.x","Conferencing, video, file transfer, voicemail, Skype to phone, phone to Skype, additional P2P extensions (games, whiteboard, etc...); depending on platform.","Linux , URL: /wiki/Linux
-","8.81.0.268 / 14 February 2022; 26 days ago (2022-02-14)[31]"
+","8.81.0.268 / 14 February 2022; 32 days ago (2022-02-14)[31]"
 "Skype , URL: /wiki/Skype
 ","Linux , URL: /wiki/Linux
 macOS , URL: /wiki/MacOS
@@ -677,7 +677,7 @@ PSP , URL: /wiki/PlayStation_Portable
 ","Free","Proprietary P2P protocol [a]","SILK , URL: /wiki/SILK
 ","TLS , URL: /wiki/Transport_Layer_Security
 ","25 starting with version 3.6.0.216. 10 with 2.x","Conferencing, video, file transfer, voicemail, Skype to phone, phone to Skype, additional P2P extensions (games, whiteboard, etc...); depending on platform.","Android , URL: /wiki/Android_(operating_system)
-","8.81.0.268 / 14 February 2022; 26 days ago (2022-02-14)[32]"
+","8.81.0.268 / 14 February 2022; 32 days ago (2022-02-14)[32]"
 "Skype , URL: /wiki/Skype
 ","Linux , URL: /wiki/Linux
 macOS , URL: /wiki/MacOS
@@ -731,7 +731,7 @@ macOS , URL: /wiki/MacOS
 ","Proprietary , URL: /wiki/Proprietary_software
 ","Free (personal use only)","Unknown","Unknown","AES256 , URL: /wiki/AES256
 ","Unknown","Unknown","Windows , URL: /wiki/Windows
-","15.26.4 / 25 January 2022; 46 days ago (2022-01-25)[37]"
+","15.26.4 / 25 January 2022; 52 days ago (2022-01-25)[37]"
 "TeamViewer , URL: /wiki/TeamViewer
 ","Linux , URL: /wiki/Linux
 Windows , URL: /wiki/Microsoft_Windows
@@ -739,7 +739,7 @@ macOS , URL: /wiki/MacOS
 ","Proprietary , URL: /wiki/Proprietary_software
 ","Free (personal use only)","Unknown","Unknown","AES256 , URL: /wiki/AES256
 ","Unknown","Unknown","macOS , URL: /wiki/MacOS
-","15.26.4 / 25 January 2022; 46 days ago (2022-01-25)[38]"
+","15.26.4 / 25 January 2022; 52 days ago (2022-01-25)[38]"
 "TeamViewer , URL: /wiki/TeamViewer
 ","Linux , URL: /wiki/Linux
 Windows , URL: /wiki/Microsoft_Windows
@@ -747,7 +747,7 @@ macOS , URL: /wiki/MacOS
 ","Proprietary , URL: /wiki/Proprietary_software
 ","Free (personal use only)","Unknown","Unknown","AES256 , URL: /wiki/AES256
 ","Unknown","Unknown","Linux , URL: /wiki/Linux
-","15.26.4 / 25 January 2022; 46 days ago (2022-01-25)[39]"
+","15.26.4 / 25 January 2022; 52 days ago (2022-01-25)[39]"
 "TeamViewer , URL: /wiki/TeamViewer
 ","Linux , URL: /wiki/Linux
 Windows , URL: /wiki/Microsoft_Windows
@@ -755,7 +755,7 @@ macOS , URL: /wiki/MacOS
 ","Proprietary , URL: /wiki/Proprietary_software
 ","Free (personal use only)","Unknown","Unknown","AES256 , URL: /wiki/AES256
 ","Unknown","Unknown","Android , URL: /wiki/Android_(software)
-","15.26.54 / 25 January 2022; 46 days ago (2022-01-25)[40]"
+","15.26.54 / 25 January 2022; 52 days ago (2022-01-25)[40]"
 "TeamViewer , URL: /wiki/TeamViewer
 ","Linux , URL: /wiki/Linux
 Windows , URL: /wiki/Microsoft_Windows
@@ -763,7 +763,7 @@ macOS , URL: /wiki/MacOS
 ","Proprietary , URL: /wiki/Proprietary_software
 ","Free (personal use only)","Unknown","Unknown","AES256 , URL: /wiki/AES256
 ","Unknown","Unknown","iOS , URL: /wiki/IOS
-","15.26.1 / 3 February 2022; 37 days ago (2022-02-03)[41]"
+","15.26.1 / 3 February 2022; 43 days ago (2022-02-03)[41]"
 "TeamViewer , URL: /wiki/TeamViewer
 ","Linux , URL: /wiki/Linux
 Windows , URL: /wiki/Microsoft_Windows

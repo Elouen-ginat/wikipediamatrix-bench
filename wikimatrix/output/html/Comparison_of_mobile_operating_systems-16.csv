@@ -4,14 +4,14 @@
 ","Sailfish OS , URL: /wiki/Sailfish_OS
 ","Ubuntu Touch , URL: /wiki/Ubuntu_Touch
 "
-"Non-intrusive incoming calls","5+[387] or 3rd party software[388]","14+[389]","No","No[390]","?"
-"Non-intrusive notifications","Yes[391]","5+[108]","?","?","?"
-"Move apps to external storage","2.2+[392]","External storage not allowed for apps","No","No","No"
+"Non-intrusive incoming calls","5+[389] or 3rd party software[390]","14+[391]","No","No[392]","?"
+"Non-intrusive notifications","Yes[393]","5+[108]","?","?","?"
+"Move apps to external storage","2.2+[394]","External storage not allowed for apps","No","No","No"
 "Remote Frame Buffer (RFB) protocol , URL: /wiki/RFB_protocol
-","Yes[393]","3rd party software[394]","?","?","?"
+","Yes[395]","3rd party software[396]","?","?","?"
 "Screencast , URL: /wiki/Screencast
-","11+[395]","9+[396]","No","No","Yes"
+","11+[397]","9+[398]","No","No","Yes"
 "Screencast , URL: /wiki/Screencast
-","4.4+ over USB,[122] for prior versions root required for 3rd party app[397]","OS X , URL: /wiki/OS_X
+","4.4+ over USB,[122] for prior versions root required for 3rd party app[399]","OS X , URL: /wiki/OS_X
 ","No","?","No"
-"Screen share","On select devices using vendor's implementation[399][400][401]","3rd party software[402]","No","No","No"
+"Screen share","On select devices using vendor's implementation[401][402][403]","3rd party software[404]","No","No","No"
